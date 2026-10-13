@@ -14,6 +14,11 @@ from .store import Store
 
 
 def main(argv: list[str] | None = None) -> int:
+    # Show progress lines immediately in the GitHub Actions log, not at the end.
+    try:
+        sys.stdout.reconfigure(line_buffering=True)
+    except AttributeError:
+        pass
     p = argparse.ArgumentParser(prog="digest", description="Weekly summaries of town meeting videos.")
     p.add_argument("--config", default="config.toml", help="path to config.toml")
     p.add_argument("--data", default="data", help="data directory (default: data)")

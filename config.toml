@@ -3,8 +3,8 @@
 # never go in this file; they live in GitHub repository secrets.
 
 [channel]
-id = "UCs4MKkThBjpiU4LnmlP37Bg"          # Southborough Access Media
-name = "Southborough Access Media"
+id = "UCs0DhUSnY9VXN3gfsNEhvuw"          # @southboroughremotemeetings5825
+name = "Southborough Remote Meetings"
 town = "Southborough, Massachusetts"
 timezone = "America/New_York"
 
@@ -14,15 +14,13 @@ backfill_days = 28
 # Wait this long after a video is published before summarizing it, so
 # YouTube has finished processing the upload.
 min_age_hours = 3
-# A video title must match at least one include pattern and no exclude
-# pattern to be treated as a meeting. Patterns are case-insensitive regexes.
-# Non-matching titles are recorded as "skipped" and listed in the run log,
-# so you can tune these after the first run.
-include_patterns = [
-  '\bboard\b', '\bcommittee\b', '\bcommission\b', '\bcouncil\b',
-  '\bmeeting\b', '\bhearing\b', '\bforum\b', '\btown meeting\b',
-  '\bZBA\b', '\bauthority\b', '\btrustees\b', '\bworkshop\b',
-]
+# Which titles count as meetings. Patterns are case-insensitive regexes.
+# This channel only posts town meetings, so every title is included; the
+# exclude list below and Gemini's own check catch anything that isn't one.
+# On a mixed channel, list patterns here (e.g. '\bboard\b', '\bcommittee\b')
+# and a title must match at least one. Skipped titles are listed in each run's
+# summary so you can tune these.
+include_patterns = []
 exclude_patterns = [
   '\bconcert\b', '\bparade\b', '\bgraduation\b', '\brecital\b',
   '\bfootball\b', '\bbasketball\b', '\bsoccer\b', '\bhockey\b',

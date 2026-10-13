@@ -17,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import sample_data  # noqa: E402
 from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
-from digest.config import load_config  # noqa: E402
+from digest.config import DiscoveryConfig, load_config  # noqa: E402
 from digest.gemini import GeminiError, InteractionsClient, RateLimited, Result, TryLater  # noqa: E402
 from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline  # noqa: E402
 from digest.site import build_site  # noqa: E402
@@ -84,8 +84,16 @@ class Clock:
         return self.t
 
 
+MIXED_CHANNEL_PATTERNS = [r"\bboard\b", r"\bcommittee\b", r"\bcommission\b", r"\bmeeting\b", r"\bZBA\b"]
+
+
 def make_pipeline(tmp, client, videos=None, **budget):
     cfg = load_config(ROOT / "config.toml")
+    # Tests model a channel that mixes meetings with other videos.
+    cfg.discovery = DiscoveryConfig(
+        backfill_days=28, min_age_hours=3,
+        include_patterns=MIXED_CHANNEL_PATTERNS, exclude_patterns=cfg.discovery.exclude_patterns,
+    )
     for k, v in budget.items():
         setattr(cfg.budget, k, v)
     store = Store(Path(tmp) / "data")
@@ -307,6 +315,12 @@ class UnitTests(unittest.TestCase):
 
     def test_classify(self):
         cfg = load_config(ROOT / "config.toml")
+        # Default config: every title counts unless it hits an exclude pattern.
+        self.assertTrue(cfg.discovery.classify("Advisory Committee 10/8/26")[0])
+        self.assertTrue(cfg.discovery.classify("Housing Production Plan workshop")[0])
+        self.assertFalse(cfg.discovery.classify("Algonquin Football vs Shrewsbury")[0])
+        cfg.discovery = DiscoveryConfig(include_patterns=MIXED_CHANNEL_PATTERNS, exclude_patterns=cfg.discovery.exclude_patterns)
+        self.assertFalse(cfg.discovery.classify("Southborough Harvest Fair 2026 Highlights")[0])
         self.assertTrue(cfg.discovery.classify("Select Board Meeting 10/6/2026")[0])
         self.assertTrue(cfg.discovery.classify("ZBA 10/1")[0])
         self.assertFalse(cfg.discovery.classify("Algonquin Football vs Shrewsbury")[0])

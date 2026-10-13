@@ -1,6 +1,6 @@
 # Southborough This Week
 
-A small, automated website that turns [Southborough Access Media](https://www.youtube.com/c/SouthboroughAccessMedia)'s recordings of town meetings into plain-English weekly summaries.
+A small, automated website that turns the town's [Southborough Remote Meetings](https://www.youtube.com/@southboroughremotemeetings5825/videos) YouTube recordings into plain-English weekly summaries. The channel is set in `config.toml`.
 
 - The home page lists each week with a short synopsis and its most important items.
 - Each week's page covers every meeting: what was discussed, key numbers, outcomes, votes, public comment and upcoming dates, with a link to the exact moment in the video for every item.
