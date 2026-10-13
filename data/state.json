@@ -395,9 +395,9 @@
     }
   },
   "last_run": {
-    "at": "2026-10-13T20:11:53Z",
+    "at": "2026-10-13T23:08:48Z",
     "discovered": 25,
-    "summarized": 2,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }
