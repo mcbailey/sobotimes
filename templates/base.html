@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ root }}feed.xml">
+<link rel="preload" href="{{ root }}fonts/public-sans.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="{{ root }}fonts/source-serif-4.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+{% if banner %}<div class="banner" role="note">{{ banner }}</div>{% endif %}
+<div class="page">
+{% block header %}{% endblock %}
+<main id="main">
+{% block main %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <p>These summaries are written by an AI model (Google Gemini) from public recordings posted by <a href="{{ channel_url }}">{{ channel.name }}</a>. They can contain mistakes, so follow the time links to hear exactly what was said. This site is not affiliated with the Town of {{ channel.town.split(',')[0] }} or {{ channel.name }}.</p>
+  <p>Updated {{ updated_text }}. <a href="{{ root }}feed.xml">Subscribe to the weekly feed</a>.</p>
+</footer>
+</div>
+</body>
+</html>

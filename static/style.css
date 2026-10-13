@@ -1,0 +1,423 @@
+/* Southborough This Week
+   Type: Public Sans (civic UI, headings) + Source Serif 4 (reading).
+   Signature: a highlighter marks the items that matter, and each meeting gets
+   a timeline strip showing where those items fall in the recording.
+   Fonts are self-hosted (SIL Open Font License, see fonts/OFL-*.txt) so
+   visitors aren't tracked by a third-party font service. */
+
+@font-face {
+  font-family: "Public Sans";
+  src: url("fonts/public-sans.woff") format("woff");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4.woff") format("woff");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4-italic.woff") format("woff");
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --paper: #f4f6f4;
+  --ink: #16211c;
+  --granite: #55625c;
+  --rule: #d3dbd6;
+  --rule-soft: #e4eae6;
+  --evergreen: #1d5c46;
+  --evergreen-soft: #a7cbbc;
+  --hl: #f2dc58;
+  --banner-bg: #16211c;
+  --banner-ink: #f4f6f4;
+  --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --measure: 40rem;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #111714;
+    --ink: #e3e9e5;
+    --granite: #9aa7a0;
+    --rule: #2c3732;
+    --rule-soft: #1c2521;
+    --evergreen: #7fc8a8;
+    --evergreen-soft: #2f5647;
+    --hl: #77691a;
+    --banner-bg: #e3e9e5;
+    --banner-ink: #111714;
+    color-scheme: dark;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  line-height: 1.62;
+  font-optical-sizing: auto;
+}
+
+.page {
+  max-width: calc(var(--measure) + 2rem);
+  margin: 0 auto;
+  padding: 0 1rem 4rem;
+}
+
+a {
+  color: var(--evergreen);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible { outline: 2px solid var(--evergreen); outline-offset: 2px; border-radius: 2px; }
+
+p { margin: 0 0 0.9em; }
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  line-height: 1.15;
+  margin: 0;
+}
+
+mark {
+  color: inherit;
+  background: linear-gradient(to bottom, transparent 52%, var(--hl) 52%, var(--hl) 92%, transparent 92%);
+  padding: 0 0.12em;
+  margin: 0 -0.12em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.muted { color: var(--granite); }
+
+/* Sample-data notice ------------------------------------------------------- */
+.banner {
+  background: var(--banner-bg);
+  color: var(--banner-ink);
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 0.6rem 1rem;
+}
+
+/* Masthead (home) --------------------------------------------------------- */
+.masthead { padding: 3.5rem 0 2.5rem; }
+
+.site-title {
+  font-weight: 800;
+  font-size: clamp(2.5rem, 9vw, 4.25rem);
+  letter-spacing: -0.035em;
+  line-height: 0.95;
+}
+.site-title a { color: inherit; text-decoration: none; }
+
+.site-description {
+  margin-top: 1rem;
+  max-width: 34rem;
+  color: var(--granite);
+  font-size: 1.15rem;
+}
+
+/* Week list (home) -------------------------------------------------------- */
+.week-entry {
+  border-top: 1px solid var(--rule);
+  padding: 2rem 0 1.25rem;
+}
+
+.week-title {
+  font-weight: 800;
+  font-size: 1.65rem;
+  letter-spacing: -0.02em;
+}
+.week-title a { color: inherit; text-decoration: none; }
+.week-title a:hover { text-decoration: underline; text-decoration-thickness: 2px; }
+
+.week-stats {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--granite);
+  margin: 0.45rem 0 1rem;
+}
+
+.synopsis { font-size: 1.125rem; }
+.synopsis-lead { font-size: 1.28rem; line-height: 1.55; }
+
+.headline-list { padding-left: 1.1rem; margin: 0 0 1rem; }
+.headline-list li { margin-bottom: 0.4rem; }
+
+.highlights {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 0.5rem;
+}
+.highlight { margin: 0 0 1.15rem; }
+.highlight p { margin: 0; }
+.highlight-title {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+.highlight-why { margin-top: 0.2rem !important; }
+.highlight-source {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--granite);
+  margin-top: 0.2rem !important;
+}
+
+.pending-note {
+  font-style: italic;
+  color: var(--granite);
+}
+
+.week-more {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+/* Week page ---------------------------------------------------------------- */
+.week-header { padding: 2.5rem 0 1.5rem; }
+
+.crumb {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  margin-bottom: 1.25rem;
+}
+
+.week-heading {
+  font-weight: 800;
+  font-size: clamp(2rem, 7vw, 3rem);
+  letter-spacing: -0.03em;
+  line-height: 1.02;
+}
+
+.overview { margin-bottom: 1rem; }
+
+.block { margin: 2.25rem 0; }
+
+.block-title {
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin-bottom: 0.9rem;
+}
+
+.ahead { list-style: none; padding: 0; margin: 0; }
+.ahead li {
+  display: grid;
+  grid-template-columns: minmax(6.5rem, max-content) 1fr;
+  gap: 0 1rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.ahead-when { font-family: var(--sans); font-weight: 600; font-size: 0.95rem; }
+.ahead li:not(:has(.ahead-when)) .ahead-what { grid-column: 1 / -1; }
+
+.meeting-nav ul { list-style: none; padding: 0; margin: 0; font-family: var(--sans); font-size: 0.95rem; }
+.meeting-nav li { padding: 0.3rem 0; }
+
+/* A meeting ----------------------------------------------------------------- */
+.meeting {
+  border-top: 3px solid var(--ink);
+  padding-top: 1.25rem;
+  margin-top: 3rem;
+  scroll-margin-top: 1rem;
+}
+
+.meeting-title {
+  font-weight: 800;
+  font-size: 1.6rem;
+  letter-spacing: -0.02em;
+}
+
+.meeting-meta {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--granite);
+  margin: 0.45rem 0 1rem;
+}
+
+.meeting-headline {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+/* Timeline strip: where each item falls in the recording */
+.timeline { margin: 0.25rem 0 1.4rem; }
+.timeline-track {
+  position: relative;
+  height: 0.8rem;
+  background: var(--rule-soft);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.seg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-right: 2px solid var(--paper);
+}
+.seg.is-high { background: var(--hl); }
+.seg.is-medium { background: var(--evergreen-soft); }
+.seg.is-low { background: var(--rule); }
+.seg:hover { box-shadow: inset 0 0 0 2px var(--ink); }
+.timeline-scale {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--granite);
+  font-variant-numeric: tabular-nums;
+  margin-top: 0.25rem;
+}
+.scale-key { display: inline-flex; align-items: center; gap: 0.35rem; }
+.key-swatch { width: 0.9rem; height: 0.55rem; border-radius: 1px; background: var(--hl); }
+
+.topics { list-style: none; padding: 0; margin: 1.5rem 0 0; }
+
+.topic {
+  margin: 0 0 1.6rem;
+  scroll-margin-top: 1rem;
+}
+.topic p { margin-bottom: 0.45em; }
+
+.topic-title {
+  font-size: 1.12rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.topic-meta {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--granite);
+  margin: 0.2rem 0 0.4rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.details { margin: 0.3rem 0 0.6rem; padding-left: 1.1rem; }
+.details li { margin-bottom: 0.25rem; }
+.details li::marker { color: var(--granite); }
+
+.topic-outcome strong,
+.topic-why strong { font-family: var(--sans); font-size: 0.92rem; }
+
+.routine {
+  margin: 0.5rem 0 1.5rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0 1rem;
+}
+.routine summary {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  padding: 0.75rem 0;
+}
+.routine[open] summary { border-bottom: 1px solid var(--rule-soft); margin-bottom: 1rem; }
+.routine .topics { margin-top: 0; }
+
+.sub-title {
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 1.75rem 0 0.6rem;
+}
+
+.table-wrap { overflow-x: auto; }
+.votes {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.votes th {
+  text-align: left;
+  font-weight: 600;
+  color: var(--granite);
+  border-bottom: 1px solid var(--rule);
+  padding: 0.4rem 0.75rem 0.4rem 0;
+}
+.votes td {
+  vertical-align: top;
+  border-bottom: 1px solid var(--rule-soft);
+  padding: 0.5rem 0.75rem 0.5rem 0;
+}
+.votes td:last-child, .votes th:last-child { padding-right: 0; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.vote-result { white-space: nowrap; }
+.vote-result.is-passed { color: var(--evergreen); font-weight: 600; }
+
+.plain-list { padding-left: 1.1rem; margin: 0; }
+.plain-list li { margin-bottom: 0.45rem; }
+
+.caveat {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--granite);
+  border-left: 3px solid var(--rule);
+  padding-left: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.status-block { border-top: 1px solid var(--rule); padding-top: 1.25rem; }
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+.pager-newer { text-align: right; }
+
+.empty { border-top: 1px solid var(--rule); padding-top: 2rem; }
+.empty h2 { font-size: 1.3rem; margin-bottom: 0.6rem; }
+
+/* Footer ------------------------------------------------------------------- */
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--granite);
+  line-height: 1.55;
+}
+
+@media (max-width: 34rem) {
+  body { font-size: 1.0625rem; }
+  .masthead { padding-top: 2.25rem; }
+  .synopsis-lead { font-size: 1.15rem; }
+  .ahead li { grid-template-columns: 1fr; }
+  .meeting-headline { font-size: 1.12rem; }
+}
+
+@media print {
+  .timeline, .pager, .banner { display: none; }
+  .routine { border: 0; padding: 0; }
+  a { color: inherit; }
+}

@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+{% block title %}Week of {{ week.label }} | {{ site.title }}{% endblock %}
+{% block description %}{{ week.synopsis or week.stats }}{% endblock %}
+
+{% block header %}
+<header class="week-header">
+  <p class="crumb"><a href="{{ root }}">{{ site.title }}</a></p>
+  <h1 class="week-heading">{{ week.label }}</h1>
+  {% if week.stats %}<p class="week-stats">{{ week.stats }}</p>{% endif %}
+</header>
+{% endblock %}
+
+{% block main %}
+{% if week.synopsis %}
+<section class="overview" aria-label="Overview">
+  <p class="synopsis synopsis-lead">{{ week.synopsis }}</p>
+</section>
+{% endif %}
+
+{% if week.highlights %}
+<section class="block">
+  <h2 class="block-title">What mattered this week</h2>
+  <ul class="highlights">
+    {% for h in week.highlights %}
+    <li class="highlight is-{{ h.importance }}">
+      <p class="highlight-title">{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}</p>
+      <p class="highlight-why">{{ h.why }}</p>
+      <p class="highlight-source">{{ h.body }}{% if h.ts %}, <a href="{{ h.url }}">watch at {{ h.ts }}</a>{% endif %}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if week.looking_ahead %}
+<section class="block">
+  <h2 class="block-title">Coming up</h2>
+  <ul class="ahead">
+    {% for a in week.looking_ahead %}
+    <li>{% if a.when %}<span class="ahead-when">{{ a.when }}</span>{% endif %}<span class="ahead-what">{{ a.what }}{% if a.body %} ({{ a.body }}){% endif %}</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if week.meetings|length > 1 %}
+<nav class="block meeting-nav" aria-label="Meetings this week">
+  <h2 class="block-title">Meetings</h2>
+  <ul>
+    {% for m in week.meetings %}
+    <li><a href="#{{ m.anchor }}">{{ m.body }}</a> <span class="muted">{{ m.date_short }}{% if m.duration %}, {{ m.duration }}{% endif %}</span></li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
+
+{% for m in week.meetings %}
+<section class="meeting" id="{{ m.anchor }}">
+  <h2 class="meeting-title">{{ m.body }}</h2>
+  <p class="meeting-meta">{{ m.date_long }}{% if m.duration %}, {{ m.duration }} recording{% endif %}. <a href="{{ m.url }}">Watch the full meeting</a></p>
+
+  {% if m.timeline %}
+  <div class="timeline" aria-hidden="true">
+    <div class="timeline-track">
+      {% for s in m.timeline.segments %}<a class="seg is-{{ s.importance }}" href="{{ s.url }}" tabindex="-1" title="{{ s.ts }} {{ s.title }}" style="left:{{ s.left }}%;width:{{ s.width }}%"></a>{% endfor %}
+    </div>
+    <div class="timeline-scale"><span>0:00</span><span class="scale-key"><span class="key-swatch"></span>Highlighted: key items</span><span>{{ m.timeline.end_label }}</span></div>
+  </div>
+  {% endif %}
+
+  {% if m.headline %}<p class="meeting-headline">{{ m.headline }}</p>{% endif %}
+  {% if m.summary %}<p class="meeting-summary">{{ m.summary }}</p>{% endif %}
+
+  {% if m.main_topics %}
+  <ul class="topics">
+    {% for t in m.main_topics %}
+    <li class="topic is-{{ t.importance }}" id="{{ t.anchor }}">
+      <h3 class="topic-title">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</h3>
+      <p class="topic-meta">{{ t.category }}{% if t.ts %}. <a href="{{ t.url }}">Watch at {{ t.ts }}</a>{% endif %}</p>
+      {% if t.summary %}<p class="topic-summary">{{ t.summary }}</p>{% endif %}
+      {% if t.key_details %}
+      <ul class="details">{% for d in t.key_details %}<li>{{ d }}</li>{% endfor %}</ul>
+      {% endif %}
+      {% if t.outcome %}<p class="topic-outcome"><strong>Outcome:</strong> {{ t.outcome }}</p>{% endif %}
+      {% if t.why_it_matters %}<p class="topic-why"><strong>Why it matters:</strong> {{ t.why_it_matters }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if m.routine_topics %}
+  <details class="routine">
+    <summary>Routine business ({{ m.routine_topics|length }} item{{ 's' if m.routine_topics|length != 1 }})</summary>
+    <ul class="topics">
+      {% for t in m.routine_topics %}
+      <li class="topic is-low" id="{{ t.anchor }}">
+        <h3 class="topic-title">{{ t.title }}</h3>
+        <p class="topic-meta">{{ t.category }}{% if t.ts %}. <a href="{{ t.url }}">Watch at {{ t.ts }}</a>{% endif %}</p>
+        {% if t.summary %}<p class="topic-summary">{{ t.summary }}</p>{% endif %}
+        {% if t.outcome %}<p class="topic-outcome"><strong>Outcome:</strong> {{ t.outcome }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
+
+  {% if m.votes %}
+  <h3 class="sub-title">Votes</h3>
+  <div class="table-wrap">
+  <table class="votes">
+    <thead><tr><th scope="col">Motion</th><th scope="col">Result</th><th scope="col">Time</th></tr></thead>
+    <tbody>
+      {% for v in m.votes %}
+      <tr>
+        <td>{{ v.motion }}</td>
+        <td class="vote-result is-{{ v.result }}">{{ v.result|capitalize }}{% if v.tally %}, {{ v.tally }}{% endif %}</td>
+        <td>{% if v.ts %}<a href="{{ v.url }}">{{ v.ts }}</a>{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% endif %}
+
+  {% if m.public_comment %}
+  <h3 class="sub-title">Public comment</h3>
+  <ul class="plain-list">
+    {% for c in m.public_comment %}<li>{{ c.summary }}{% if c.ts %} <a href="{{ c.url }}">{{ c.ts }}</a>{% endif %}</li>{% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if m.upcoming %}
+  <h3 class="sub-title">Next steps and dates mentioned</h3>
+  <ul class="plain-list">
+    {% for u in m.upcoming %}<li>{% if u.when %}<strong>{{ u.when }}:</strong> {% endif %}{{ u.what }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if m.caveats %}<p class="caveat">Note on the recording: {{ m.caveats }}</p>{% endif %}
+</section>
+{% endfor %}
+
+{% if week.pending %}
+<section class="block status-block">
+  <h2 class="block-title">Waiting to be summarized</h2>
+  <p class="muted">These recordings are queued and usually appear within a day or two.</p>
+  <ul class="plain-list">
+    {% for p in week.pending %}<li><a href="{{ p.url }}">{{ p.title }}</a> <span class="muted">posted {{ p.date }}</span></li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if week.unavailable %}
+<section class="block status-block">
+  <h2 class="block-title">Not summarized</h2>
+  <ul class="plain-list">
+    {% for u in week.unavailable %}<li><a href="{{ u.url }}">{{ u.title }}</a> <span class="muted">{{ u.reason }}</span></li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<nav class="pager" aria-label="Other weeks">
+  {% if older %}<a class="pager-older" href="{{ root }}weeks/{{ older.key }}/">Earlier: {{ older.label }}</a>{% else %}<span></span>{% endif %}
+  {% if newer %}<a class="pager-newer" href="{{ root }}weeks/{{ newer.key }}/">Later: {{ newer.label }}</a>{% endif %}
+</nav>
+{% endblock %}

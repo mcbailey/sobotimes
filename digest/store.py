@@ -1,0 +1,86 @@
+"""Everything the pipeline remembers lives in data/ as plain JSON, committed to git.
+
+data/state.json            video registry, daily usage ledger, last run info
+data/meetings/<id>.json    one summary per meeting video
+data/weeks/<monday>.json   one synopsis per week
+"""
+from __future__ import annotations
+
+import json
+import os
+import tempfile
+from pathlib import Path
+from typing import Any
+
+STATE_VERSION = 1
+
+
+def _read_json(path: Path, default: Any = None) -> Any:
+    if not path.exists():
+        return default
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _write_json(path: Path, obj: Any) -> None:
+    """Atomic write so a killed run never leaves a half-written file."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=path.parent, prefix=".tmp-", suffix=".json")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as fh:
+            json.dump(obj, fh, indent=2, ensure_ascii=False, sort_keys=False)
+            fh.write("\n")
+        os.replace(tmp, path)
+    except BaseException:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+        raise
+
+
+class Store:
+    def __init__(self, data_dir: str | Path):
+        self.dir = Path(data_dir)
+        self.state_path = self.dir / "state.json"
+        self.meetings_dir = self.dir / "meetings"
+        self.weeks_dir = self.dir / "weeks"
+
+    # --- state -----------------------------------------------------------
+    def load_state(self) -> dict:
+        state = _read_json(self.state_path, None) or {}
+        state.setdefault("version", STATE_VERSION)
+        state.setdefault("videos", {})
+        state.setdefault("usage", {})
+        state.setdefault("last_run", None)
+        return state
+
+    def save_state(self, state: dict) -> None:
+        # Keep the usage ledger small: the last 60 days is plenty.
+        usage = state.get("usage", {})
+        for day in sorted(usage)[:-60]:
+            usage.pop(day, None)
+        _write_json(self.state_path, state)
+
+    # --- meetings ----------------------------------------------------------
+    def meeting_path(self, video_id: str) -> Path:
+        return self.meetings_dir / f"{video_id}.json"
+
+    def read_meeting(self, video_id: str) -> dict | None:
+        return _read_json(self.meeting_path(video_id))
+
+    def write_meeting(self, video_id: str, obj: dict) -> None:
+        _write_json(self.meeting_path(video_id), obj)
+
+    def delete_meeting(self, video_id: str) -> None:
+        p = self.meeting_path(video_id)
+        if p.exists():
+            p.unlink()
+
+    # --- weeks -------------------------------------------------------------
+    def week_path(self, week_key: str) -> Path:
+        return self.weeks_dir / f"{week_key}.json"
+
+    def read_week(self, week_key: str) -> dict | None:
+        return _read_json(self.week_path(week_key))
+
+    def write_week(self, week_key: str, obj: dict) -> None:
+        _write_json(self.week_path(week_key), obj)

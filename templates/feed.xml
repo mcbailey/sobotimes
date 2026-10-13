@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title }}</title>
+  <subtitle>{{ site.description }}</subtitle>
+  <link rel="self" href="{{ base }}/feed.xml"/>
+  <link href="{{ base }}/"/>
+  <id>{{ base or 'urn:meeting-digest:' ~ channel.id }}/</id>
+  <updated>{{ updated }}</updated>
+{% for w in weeks %}
+  <entry>
+    <title>Week of {{ w.label }}</title>
+    <link href="{{ base }}/weeks/{{ w.key }}/"/>
+    <id>{{ base or 'urn:meeting-digest:' ~ channel.id }}/weeks/{{ w.key }}</id>
+    <updated>{{ (w.generated_at or updated) }}</updated>
+    <summary>{{ w.synopsis or w.stats }}</summary>
+    <content type="html">{% filter forceescape %}<p>{{ w.synopsis or w.stats }}</p>{% if w.highlights %}<ul>{% for h in w.highlights %}<li><strong>{{ h.title }}</strong> ({{ h.body }}): {{ h.why }}</li>{% endfor %}</ul>{% endif %}{% endfilter %}</content>
+  </entry>
+{% endfor %}
+</feed>
