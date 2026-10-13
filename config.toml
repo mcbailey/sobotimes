@@ -46,13 +46,15 @@ max_week_summaries_per_run = 8
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
 synthesis_model = "gemini-3.8-flash"  # writes each week's synopsis
-# If the model above answers "busy, try later" (503) or is over its free-tier
-# limit (429), try these next, in order. All are free on the free tier.
-fallback_models = ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
-# "agentic" lets the model navigate long videos and uses far fewer tokens.
-video_processing = "agentic"
-# If agentic processing fails on a video, retry it once right away in static
-# mode (fixed low frame rate). Set video_processing = "static" to skip agentic.
+# If the model above is busy (503) or over its free-tier limit (429), use these
+# next, in order. On the free tier, Gemini 3.8 Flash allows only about 20
+# requests a day, so Flash-Lite picks up the rest. A model that reports it's
+# over its limit is skipped for the remainder of that run.
+fallback_models = ["gemini-3.5-flash-lite"]
+# "static" reads the recording's audio plus a few frames, in one request.
+# "agentic" (the model navigates the video itself) failed on every YouTube link
+# in testing, so it's off. If you switch it on, failures fall back to static.
+video_processing = "static"
 fallback_to_static = true
 static_fps = 0.2                      # frames per second in static mode; audio is always used
 thinking_level = "medium"             # low | medium | high, or "" for the model default
@@ -62,6 +64,10 @@ week_max_output_tokens = 6000
 call_timeout_minutes = 20
 # Optional: pin the Interactions API revision (for example "2026-05-20").
 api_revision = ""
+# When the prompts improve (a new version ships), re-summarize meetings from the
+# lookback window using spare daily budget, after any new videos. The old
+# summary stays on the site until its replacement is ready.
+redo_outdated_summaries = true
 
 [site]
 title = "Southborough This Week"

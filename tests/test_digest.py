@@ -8,7 +8,7 @@ import json
 import sys
 import tempfile
 import unittest
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -27,8 +27,12 @@ NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eas
 
 
 class FakeClient:
-    def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=(), busy_models=()):
+    def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=(), busy_models=(), limited_models=(),
+                 minute_limits=None, too_big=()):
+        self.minute_limits = dict(minute_limits or {})  # model -> times to refuse with a per-minute limit
+        self.too_big = set(too_big)                      # (model, video_id) always over the per-minute limit
         self.busy_models = set(busy_models)
+        self.limited_models = set(limited_models)
         self.calls = []
         self.modes = []
         self.fail_ids = set(fail_ids)
@@ -40,7 +44,14 @@ class FakeClient:
         self.calls.append(kw)
         if kw["model"] in self.busy_models:
             raise TryLater("503: The model is currently experiencing high demand")
+        if kw["model"] in self.limited_models:
+            raise RateLimited("limit: 20 requests per day on Free Tier")
+        if self.minute_limits.get(kw["model"], 0) > 0:
+            self.minute_limits[kw["model"]] -= 1
+            raise RateLimited("limit: 250000 input tokens per minute on Free Tier. Please retry in 37s or upgrade")
         inp = kw["input"]
+        if isinstance(inp, list) and (kw["model"], inp[0]["uri"].split("v=")[1]) in self.too_big:
+            raise RateLimited("limit: 250000 input tokens per minute on Free Tier. Please retry in 21s or upgrade")
         usage = {"total_input_tokens": 1000, "total_output_tokens": 500, "total_tool_use_tokens": 20000}
         if isinstance(inp, list):  # a video summary request
             vid = inp[0]["uri"].split("v=")[1]
@@ -97,11 +108,13 @@ def make_pipeline(tmp, client, videos=None, **budget):
     for k, v in budget.items():
         setattr(cfg.budget, k, v)
     store = Store(Path(tmp) / "data")
+    slept = []
     p = Pipeline(
         cfg, store, client=client,
         discover=fake_discover(videos if videos is not None else sample_data.VIDEOS),
-        now=lambda: NOW, clock=Clock(), log=lambda *_: None,
+        now=lambda: NOW, clock=Clock(), sleep=slept.append, log=lambda *_: None,
     )
+    p.slept = slept
     return cfg, store, p
 
 
@@ -182,6 +195,7 @@ class PipelineTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             client = FakeClient(agentic_fail_ids={"sampleSB1006"})
             cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            cfg.gemini.video_processing = "agentic"
             report = p.run()
             self.assertFalse(report.errors)
             self.assertEqual(store.load_state()["videos"]["sampleSB1006"]["status"], DONE)
@@ -215,8 +229,100 @@ class PipelineTests(unittest.TestCase):
             report = p.run()
             self.assertFalse(report.rate_limited)
             self.assertEqual(len(report.summarized), len(sample_data.SUMMARIES))
-            self.assertEqual(store.read_meeting("sampleSB1006")["model"], "gemini-3.6-flash")
+            self.assertEqual(store.read_meeting("sampleSB1006")["model"], "gemini-3.5-flash-lite")
             self.assertIn("2026-10-05", report.weeks_written)
+
+    def test_model_over_limit_is_skipped_for_rest_of_run(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(limited_models={"gemini-3.8-flash"})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertEqual(len(report.summarized), len(sample_data.SUMMARIES))
+            self.assertEqual(sum(1 for c in client.calls if c["model"] == "gemini-3.8-flash"), 1)
+            self.assertEqual(store.read_meeting("sampleSC1008")["model"], "gemini-3.5-flash-lite")
+            self.assertIn("2026-10-05", report.weeks_written)
+
+    def test_per_minute_limit_waits_then_retries_same_model(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(minute_limits={"gemini-3.8-flash": 1})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertEqual(p.slept, [40])
+            self.assertFalse(report.rate_limited)
+            self.assertEqual(len(report.summarized), len(sample_data.SUMMARIES))
+            self.assertEqual({c["model"] for c in client.calls}, {"gemini-3.8-flash"})
+
+    def test_video_too_big_for_every_model_is_deferred_and_run_continues(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(
+                limited_models={"gemini-3.8-flash"},
+                too_big={("gemini-3.5-flash-lite", "sampleSC1008")},
+            )
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            v = store.load_state()["videos"]["sampleSC1008"]
+            self.assertEqual(v["status"], QUEUED)
+            self.assertEqual(v["attempts"], 0)
+            self.assertFalse(report.errors)
+            self.assertFalse(report.rate_limited)
+            self.assertEqual(len(report.summarized), len(sample_data.SUMMARIES) - 1)
+            self.assertTrue(any(d.startswith(v["title"]) and "too large" in d for d in report.deferred))
+
+    def test_outdated_summaries_are_refreshed_after_new_videos(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            state = store.load_state()
+            state["videos"]["sampleSB1006"]["prompt_version"] = "old"
+            store.save_state(state)
+            client.calls.clear()
+            p.now = lambda: NOW + timedelta(hours=1)
+            report = p.run()
+            self.assertEqual(report.refreshed, [state["videos"]["sampleSB1006"]["title"]])
+            self.assertEqual(report.summarized, [])
+            self.assertEqual(store.load_state()["videos"]["sampleSB1006"]["prompt_version"], prompts.PROMPT_VERSION)
+            self.assertIn("2026-10-05", report.weeks_written)  # week rewritten from the refreshed meeting
+            # Nothing outdated now: a third run does nothing.
+            self.assertEqual(p.run().refreshed, [])
+
+    def test_failed_refresh_keeps_existing_summary(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20, max_attempts=2)
+            p.run()
+            state = store.load_state()
+            state["videos"]["sampleSB1006"]["prompt_version"] = "old"
+            store.save_state(state)
+            client.fail_ids = {"sampleSB1006"}
+            p.run()
+            p.run()
+            v = store.load_state()["videos"]["sampleSB1006"]
+            self.assertEqual(v["status"], DONE)
+            self.assertEqual(v["redo_skip"], prompts.PROMPT_VERSION)
+            self.assertIsNotNone(store.read_meeting("sampleSB1006"))
+            client.calls.clear()
+            p.run()  # gave up on the refresh; no more calls for it
+            self.assertFalse(any("sampleSB1006" in json.dumps(c["input"]) for c in client.calls if isinstance(c["input"], list)))
+
+    def test_refresh_can_be_turned_off(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            cfg.gemini.redo_outdated_summaries = False
+            state = store.load_state()
+            state["videos"]["sampleSB1006"]["prompt_version"] = "old"
+            store.save_state(state)
+            self.assertEqual(p.run().refreshed, [])
+
+    def test_static_is_default_one_request_per_video(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            self.assertEqual({m for _, m in client.modes}, {"static"})
+            self.assertEqual(len(client.modes), len(sample_data.SUMMARIES))
 
     def test_failures_do_not_use_budget(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -325,6 +431,47 @@ class UnitTests(unittest.TestCase):
         self.assertTrue(cfg.discovery.classify("ZBA 10/1")[0])
         self.assertFalse(cfg.discovery.classify("Algonquin Football vs Shrewsbury")[0])
         self.assertFalse(cfg.discovery.classify("Holiday Concert 2026")[0])
+
+    def test_parse_timestamp(self):
+        self.assertEqual(prompts.parse_timestamp("1:46:54"), 6414)
+        self.assertEqual(prompts.parse_timestamp("0:05:12"), 312)
+        self.assertEqual(prompts.parse_timestamp("46:54"), 2814)
+        self.assertEqual(prompts.parse_timestamp(125), 125)
+        self.assertEqual(prompts.parse_timestamp("125"), 125)
+        for bad in ("soon", "1:75:00", "", None, True, "12:61"):
+            self.assertIsNone(prompts.parse_timestamp(bad), bad)
+
+    def test_clean_meeting_reads_string_times_and_strips_markup(self):
+        raw = {
+            "is_public_meeting": True, "body": "Select Board", "meeting_date": "2026-10-06",
+            "headline": "==Budget== guidance **adopted**", "summary": "Summary.",
+            "topics": [{"title": "Budget", "category": "Budget & taxes", "importance": "high", "start": "0:43:30",
+                        "summary": "Talked about `money`.", "key_details": ["- $1.1 million gap"], "outcome": None, "why_it_matters": None}],
+            "votes": [{"motion": "Adopt guidance", "result": "passed", "tally": "4-1", "time": "0:44:10"}],
+            "public_comment": [{"summary": "A resident spoke.", "time": "1:02:03"}],
+            "upcoming": [], "caveats": None,
+        }
+        out = prompts.clean_meeting(raw, 3 * 3600)
+        self.assertEqual(out["headline"], "Budget guidance adopted")
+        self.assertEqual(out["topics"][0]["start_seconds"], 2610)
+        self.assertEqual(out["topics"][0]["summary"], "Talked about money.")
+        self.assertEqual(out["topics"][0]["key_details"], ["$1.1 million gap"])
+        self.assertEqual(out["votes"][0]["start_seconds"], 2650)
+        self.assertEqual(out["public_comment"][0]["start_seconds"], 3723)
+
+    def test_meeting_prompt_states_year(self):
+        text = prompts.meeting_prompt({"title": "Select Board 10/6/26", "published_at": "2026-10-07T12:00:00Z"}, "2h 10m")
+        self.assertIn("October 6, 2026", text)
+
+    def test_rate_limit_kinds(self):
+        e = RateLimited("Rate limit exceeded (limit: 250000 input tokens per minute on Free Tier). Please retry in 37s or upgrade")
+        self.assertTrue(e.per_minute)
+        self.assertEqual(e.retry_after, 37)
+        e = RateLimited("Rate limit exceeded (limit: 20 requests per day on Free Tier). Please retry in 4h32m59s or upgrade")
+        self.assertFalse(e.per_minute)
+        self.assertEqual(e.retry_after, 4 * 3600 + 32 * 60 + 59)
+        self.assertFalse(RateLimited("quota exceeded").per_minute)
+        self.assertEqual(RateLimited("x", '{"retryDelay": "41s"}').retry_after, 41)
 
     def test_clean_meeting_drops_bad_values(self):
         raw = dict(sample_data.SUMMARIES["samplePB1007"])
@@ -452,6 +599,16 @@ class GeminiClientTests(unittest.TestCase):
         http.request = fake_request
         client = InteractionsClient("k", sleep=lambda s: None)
         with self.assertRaises(TryLater):
+            client.run(model="m", input="x")
+
+    def test_failed_interaction_errors_list(self):
+        def fake_request(*a, **kw):
+            return json.dumps({"id": "i", "status": "failed", "errors": [
+                {"message": "There was a problem processing your request.", "code": "INTERNAL"}]}).encode()
+
+        http.request = fake_request
+        client = InteractionsClient("k", sleep=lambda s: None)
+        with self.assertRaisesRegex(GeminiError, r"problem processing your request\. \(INTERNAL\)"):
             client.run(model="m", input="x")
 
     def test_timeout_cancels(self):

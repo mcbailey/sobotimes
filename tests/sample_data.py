@@ -80,6 +80,13 @@ VIDEOS = [
 ]
 
 
+def _ts(seconds):
+    """Model output uses H:MM:SS strings, as the schema asks."""
+    h, rem = divmod(seconds, 3600)
+    m, sec = divmod(rem, 60)
+    return f"{h}:{m:02d}:{sec:02d}"
+
+
 def _t(title, category, importance, start, summary, details=(), outcome=None, why=None, end=None):
     return {
         "title": title,
@@ -89,8 +96,7 @@ def _t(title, category, importance, start, summary, details=(), outcome=None, wh
         "key_details": list(details),
         "outcome": outcome,
         "why_it_matters": why,
-        "start_seconds": start,
-        "end_seconds": end,
+        "start": _ts(start),
     }
 
 
@@ -124,12 +130,12 @@ SUMMARIES = {
                "Three residents spoke. Two raised traffic safety near the Neary School during drop-off, and one asked the board to keep the override discussion public.", end=8100),
         ],
         "votes": [
-            {"motion": "Adopt FY28 budget guidance capping department increases at 2.5 percent", "result": "passed", "tally": "4-1", "start_seconds": 2610},
-            {"motion": "Award the Route 85 sidewalk reconstruction contract ($412,000)", "result": "passed", "tally": "5-0", "start_seconds": 5840},
+            {"motion": "Adopt FY28 budget guidance capping department increases at 2.5 percent", "result": "passed", "tally": "4-1", "time": "0:43:30"},
+            {"motion": "Award the Route 85 sidewalk reconstruction contract ($412,000)", "result": "passed", "tally": "5-0", "time": "1:37:20"},
         ],
         "public_comment": [
-            {"summary": "A resident of Parkerville Road asked for a crossing guard at the Neary School entrance.", "start_seconds": 7400},
-            {"summary": "A resident urged the board to hold override discussions in open session, not subcommittee.", "start_seconds": 7820},
+            {"summary": "A resident of Parkerville Road asked for a crossing guard at the Neary School entrance.", "time": "2:03:20"},
+            {"summary": "A resident urged the board to hold override discussions in open session, not subcommittee.", "time": "2:10:20"},
         ],
         "upcoming": [
             {"what": "Warrant closes for the November Special Town Meeting", "when": "October 20"},
@@ -155,8 +161,8 @@ SUMMARIES = {
                outcome="Staff will revise the draft for the November 4 meeting.", end=6000),
             _t("Routine business", "Town administration", "low", 6050, "The board approved minutes and signed a lot release for a completed subdivision.", outcome="Approved."),
         ],
-        "votes": [{"motion": "Continue the Turnpike Road site plan hearing to October 21", "result": "continued", "tally": "5-0", "start_seconds": 3850}],
-        "public_comment": [{"summary": "Abutters on a neighboring street described standing water after storms and asked for an independent drainage review.", "start_seconds": 2400}],
+        "votes": [{"motion": "Continue the Turnpike Road site plan hearing to October 21", "result": "continued", "tally": "5-0", "time": "1:04:10"}],
+        "public_comment": [{"summary": "Abutters on a neighboring street described standing water after storms and asked for an independent drainage review.", "time": "0:40:00"}],
         "upcoming": [{"what": "Turnpike Road hearing continues", "when": "October 21"}, {"what": "Revised ADU bylaw draft", "when": "November 4"}],
         "caveats": "Audio drops out for about two minutes near 1:10:00.",
     },
@@ -178,7 +184,7 @@ SUMMARIES = {
                "Scores held steady in English and rose slightly in math in grades 3 through 6.", end=6400),
             _t("Routine business", "Town administration", "low", 6450, "The committee accepted donations and approved a field trip."),
         ],
-        "votes": [{"motion": "Adopt the FY28 budget calendar", "result": "passed", "tally": "5-0", "start_seconds": 4050}],
+        "votes": [{"motion": "Adopt the FY28 budget calendar", "result": "passed", "tally": "5-0", "time": "1:07:30"}],
         "public_comment": [],
         "upcoming": [{"what": "School budget public hearing", "when": "February"}],
         "caveats": None,
@@ -216,7 +222,7 @@ SUMMARIES = {
                ["Reduced from 120 to 108 units", "27 units affordable", "Traffic peer review expected by late October"],
                outcome="Hearing continued to October 29.", why="Under the state 40B law the town's ability to deny the project is limited, so conditions set here matter.", end=4800),
         ],
-        "votes": [{"motion": "Continue the hearing to October 29", "result": "continued", "tally": "5-0", "start_seconds": 4750}],
+        "votes": [{"motion": "Continue the hearing to October 29", "result": "continued", "tally": "5-0", "time": "1:19:10"}],
         "public_comment": [],
         "upcoming": [{"what": "40B hearing continues", "when": "October 29"}],
         "caveats": None,
@@ -233,7 +239,7 @@ SUMMARIES = {
                ["Work window July to September 2027"], outcome="Approved 6-0.", end=1500),
             _t("Residential projects near wetlands", "Environment & conservation", "low", 1550, "Two homeowners received approvals for a deck and a shed within the wetland buffer."),
         ],
-        "votes": [{"motion": "Issue order of conditions for the culvert replacement", "result": "passed", "tally": "6-0", "start_seconds": 1450}],
+        "votes": [{"motion": "Issue order of conditions for the culvert replacement", "result": "passed", "tally": "6-0", "time": "0:24:10"}],
         "public_comment": [],
         "upcoming": [],
         "caveats": None,
@@ -244,10 +250,10 @@ WEEKS = {
     "2026-10-05": {
         "synopsis": "The Select Board set guidance for next year's budget, asking departments to hold increases to 2.5 percent while the town weighs whether school building costs will require an override. The School Committee warned that special education costs are already rising faster than that. The board also awarded a $412,000 contract to rebuild sidewalks along Route 85. At the Planning Board, a 24-unit housing proposal on Turnpike Road was continued to October 21 over drainage concerns, and work began on an accessory apartment bylaw for spring Town Meeting.",
         "highlights": [
-            {"title": "FY28 budget guidance adopted", "why": "Departments are asked to hold increases to 2.5 percent; the town projects a gap of about $1.1 million, and an override decision waits on school building costs in January.", "body": "Select Board", "importance": "high", "video_id": "sampleSB1006", "start_seconds": 540},
-            {"title": "Turnpike Road housing hearing continued", "why": "Abutters and the town engineer questioned drainage for the 24-unit plan; the hearing resumes October 21.", "body": "Planning Board", "importance": "high", "video_id": "samplePB1007", "start_seconds": 300},
-            {"title": "School costs outpacing budget guidance", "why": "Special education tuition is up about 9 percent, well above the 2.5 percent guidance.", "body": "School Committee", "importance": "high", "video_id": "sampleSC1008", "start_seconds": 1950},
-            {"title": "Route 85 sidewalks to be rebuilt", "why": "A $412,000 contract was awarded; work runs April through August with some evening lane closures.", "body": "Select Board", "importance": "medium", "video_id": "sampleSB1006", "start_seconds": 4860},
+            {"title": "FY28 budget guidance adopted", "why": "Departments are asked to hold increases to 2.5 percent; the town projects a gap of about $1.1 million, and an override decision waits on school building costs in January.", "body": "Select Board", "importance": "high", "video_id": "sampleSB1006", "start": "0:09:00"},
+            {"title": "Turnpike Road housing hearing continued", "why": "Abutters and the town engineer questioned drainage for the 24-unit plan; the hearing resumes October 21.", "body": "Planning Board", "importance": "high", "video_id": "samplePB1007", "start": "0:05:00"},
+            {"title": "School costs outpacing budget guidance", "why": "Special education tuition is up about 9 percent, well above the 2.5 percent guidance.", "body": "School Committee", "importance": "high", "video_id": "sampleSC1008", "start": "0:32:30"},
+            {"title": "Route 85 sidewalks to be rebuilt", "why": "A $412,000 contract was awarded; work runs April through August with some evening lane closures.", "body": "Select Board", "importance": "medium", "video_id": "sampleSB1006", "start": "1:21:00"},
         ],
         "looking_ahead": [
             {"what": "Warrant closes for the November Special Town Meeting", "when": "October 20", "body": "Select Board"},
@@ -258,9 +264,9 @@ WEEKS = {
     "2026-09-28": {
         "synopsis": "Public safety and housing led the week. The police chief asked for two more officers, citing overtime costs that have doubled since 2023, and the request now goes into next year's budget talks. The Zoning Board of Appeals continued its hearing on a 40B apartment project, now 108 units, until a traffic review is complete. The Select Board also saw a phased plan for Fayville Park, with a resident survey open through October 15.",
         "highlights": [
-            {"title": "Police request two more officers", "why": "Overtime reached about $480,000 last year; the positions would add about $210,000 a year.", "body": "Select Board", "importance": "high", "video_id": "sampleSB0929", "start_seconds": 600},
-            {"title": "40B apartment project scaled back", "why": "The developer cut the plan to 108 units and moved the driveway; the hearing resumes October 29 after traffic peer review.", "body": "Zoning Board of Appeals", "importance": "high", "video_id": "sampleZB1001", "start_seconds": 240},
-            {"title": "Fayville Park master plan", "why": "Phase one is estimated at $650,000; the community survey closes October 15.", "body": "Select Board", "importance": "medium", "video_id": "sampleSB0929", "start_seconds": 3700},
+            {"title": "Police request two more officers", "why": "Overtime reached about $480,000 last year; the positions would add about $210,000 a year.", "body": "Select Board", "importance": "high", "video_id": "sampleSB0929", "start": "0:10:00"},
+            {"title": "40B apartment project scaled back", "why": "The developer cut the plan to 108 units and moved the driveway; the hearing resumes October 29 after traffic peer review.", "body": "Zoning Board of Appeals", "importance": "high", "video_id": "sampleZB1001", "start": "0:04:00"},
+            {"title": "Fayville Park master plan", "why": "Phase one is estimated at $650,000; the community survey closes October 15.", "body": "Select Board", "importance": "medium", "video_id": "sampleSB0929", "start": "1:01:40"},
         ],
         "looking_ahead": [
             {"what": "Fayville Park survey closes", "when": "October 15", "body": "Recreation Commission"},

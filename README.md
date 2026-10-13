@@ -18,7 +18,7 @@ A small, automated website that turns the town's [Southborough Remote Meetings](
 Once a day, a GitHub Action:
 
 1. **Finds new videos** on the channel, using the YouTube Data API (or the channel's RSS feed if you skip the API key). Titles that don't look like meetings (concerts, sports) are skipped.
-2. **Summarizes each meeting** by passing its YouTube link to Gemini 3.8 Flash, which watches and listens to the recording itself. No transcript scraping, which YouTube blocks from cloud servers. Gemini's agentic video mode navigates long recordings and uses a fraction of the tokens of frame-by-frame processing.
+2. **Summarizes each meeting** by passing its YouTube link to Gemini 3.8 Flash, which listens to the recording and looks at a frame every few seconds. No transcript scraping, which YouTube blocks from cloud servers. If 3.8 Flash is busy or over its free-tier limit, Gemini 3.5 Flash-Lite takes over.
 3. **Writes a synopsis for each week** from that week's meeting summaries (a cheap, text-only call). A week is only rewritten when its meetings change.
 4. **Commits the results** to `data/` in the repo. This is the pipeline's memory: each video is processed once.
 5. **Builds and publishes the site** to GitHub Pages, along with an Atom feed for anyone who wants weekly updates.
@@ -31,7 +31,7 @@ The default setup costs nothing and needs no credit card.
 
 - **Gemini free tier.** Gemini 3.8 Flash is free of charge on the free tier, which allows up to 8 hours of YouTube video per day. The pipeline budgets 7 hours (420 minutes) per day by default and keeps a ledger in `data/state.json`, so even manual extra runs can't go over.
 - **Per-run caps.** At most 6 videos per run, a 60-minute run limit, and a 20-minute timeout on each Gemini call.
-- **No retry loops.** A video that fails twice is marked failed and left alone (re-run it with `requeue`, below). Rate-limit errors stop the run for the day without counting against the video.
+- **No retry loops.** A video that fails twice is marked failed and left alone (re-run it with `requeue`, below). A per-minute rate limit gets one short wait and retry; a daily limit or a busy model moves on to the fallback model, and when none is left the run stops without counting against any video.
 - **Long videos.** Anything over 5 hours is flagged instead of summarized.
 
 If you later move to a paid Gemini tier, use prepaid credits and set a monthly **project spend cap** in Google AI Studio (Spend tab). Prepaid credits put a hard ceiling on what can be spent.
@@ -75,7 +75,9 @@ Everything lives in `config.toml`:
 | `budget.daily_video_minutes` | Daily video budget (default 420; the free tier allows 480). |
 | `budget.max_videos_per_run` | Cap per run (default 6). |
 | `gemini.model` | Model used for meetings (default `gemini-3.8-flash`). |
-| `gemini.video_processing` | `agentic` (default) or `static`. |
+| `gemini.fallback_models` | Models to try when the main one is busy or over its limit (default `gemini-3.5-flash-lite`). |
+| `gemini.video_processing` | `static` (default: audio plus a few frames) or `agentic`. |
+| `gemini.redo_outdated_summaries` | When the prompts change, re-summarize meetings from the lookback window using spare daily budget (default on). |
 | `gemini.thinking_level` | `low`, `medium` (default) or `high`. |
 | `site.title`, `site.description` | Site name and tagline. |
 
@@ -83,7 +85,9 @@ The prompts, including the rubric for what counts as important, are in `digest/p
 
 ## Fixing a summary
 
-If a summary looks wrong, have it redone on the next run:
+When the prompts in `digest/prompts.py` change, bump `PROMPT_VERSION` and recent meetings are re-summarized automatically over the next few runs, after any new videos. Each old summary stays up until its replacement is ready.
+
+To redo one specific summary on the next run:
 
 ```bash
 python -m digest requeue VIDEO_ID
@@ -114,7 +118,7 @@ python -m digest build --out _site
 - **Timestamps are approximate.** They're usually within a minute of where an item starts.
 - **Members of the public aren't named.** The prompt tells Gemini to describe public commenters generically and to name officials only when clearly identified.
 - **Only public videos work.** Gemini can't read unlisted or private YouTube videos.
-- **Preview features.** Gemini's YouTube URL input and agentic video mode are relatively new. If agentic mode returns errors, set `video_processing = "static"`.
+- **Preview features.** Gemini's YouTube URL input is relatively new. Agentic video mode failed on every YouTube link in testing, so the default is `static`.
 - **Fonts are self-hosted** (Public Sans and Source Serif 4, SIL Open Font License), so visitors aren't tracked by a font service.
 - **Scheduled workflows** in public repos pause after 60 days without repository activity. The data commits from new meetings keep it active; if it ever pauses, re-enable it from the Actions tab.
 

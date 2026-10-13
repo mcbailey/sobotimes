@@ -9,7 +9,7 @@ from typing import Callable
 
 from . import prompts
 from .config import Config
-from .gemini import GeminiError, TryLater, video_part
+from .gemini import GeminiError, RateLimited, TryLater, video_part
 from .store import Store
 from .timeutil import (
     date_from_title,
@@ -32,6 +32,13 @@ NOT_MEETING = "not_meeting"  # Gemini said it isn't a government meeting
 TOO_LONG = "too_long"      # longer than budget.max_video_minutes
 FAILED = "failed"          # gave up after max_attempts
 
+# Longest wait for a per-minute rate limit to clear before trying again.
+MAX_LIMIT_WAIT_S = 120
+
+
+class VideoDeferred(TryLater):
+    """No model can take this particular video right now; move on to the next one."""
+
 
 @dataclass
 class RunReport:
@@ -41,6 +48,7 @@ class RunReport:
     summarized: list[str] = field(default_factory=list)
     errors: list[str] = field(default_factory=list)
     deferred: list[str] = field(default_factory=list)
+    refreshed: list[str] = field(default_factory=list)
     weeks_written: list[str] = field(default_factory=list)
     rate_limited: bool = False
     minutes_used: int = 0
@@ -75,6 +83,7 @@ class Pipeline:
         youtube_api_key: str | None = None,
         now: Callable[[], datetime] = utcnow,
         clock: Callable[[], float] | None = None,
+        sleep: Callable[[float], None] | None = None,
         log: Callable[[str], None] = print,
     ):
         self.cfg = cfg
@@ -87,6 +96,8 @@ class Pipeline:
         import time
 
         self.clock = clock or time.monotonic
+        self.sleep = sleep or time.sleep
+        self.exhausted: set[str] = set()  # models over their limit during this run
 
     # ------------------------------------------------------------------
     def run(self, *, dry_run: bool = False, max_videos: int | None = None, backfill_days: int | None = None) -> RunReport:
@@ -119,10 +130,24 @@ class Pipeline:
             key=lambda v: v["published_at"],
             reverse=True,
         )
+        # Then refresh recent summaries written with older prompts, newest first.
+        # The old summary stays on the site until the new one replaces it.
+        if cfg.gemini.redo_outdated_summaries:
+            queue += sorted(
+                (
+                    v for v in state["videos"].values()
+                    if v["status"] == DONE
+                    and v.get("prompt_version") != prompts.PROMPT_VERSION
+                    and v.get("redo_skip") != prompts.PROMPT_VERSION
+                    and parse_iso(v["published_at"]) >= since
+                ),
+                key=lambda v: v["published_at"],
+                reverse=True,
+            )
         picked = []
         for v in queue:
             if len(picked) >= limit:
-                report.deferred.append(f"{v['title']} (run limit)")
+                report.deferred.append(f"{v['title']} ({'refresh; ' if v['status'] == DONE else ''}run limit)")
                 continue
             if v.get("live") in ("live", "upcoming", "not_public"):
                 reason = "not public" if v["live"] == "not_public" else f"still {v['live']}"
@@ -142,7 +167,8 @@ class Pipeline:
 
         if dry_run:
             for v in picked:
-                self.log(f"[dry run] would summarize: {v['title']} ({_minutes(v, cfg)} min)")
+                verb = "refresh" if v["status"] == DONE else "summarize"
+                self.log(f"[dry run] would {verb}: {v['title']} ({_minutes(v, cfg)} min)")
             for d in report.deferred:
                 self.log(f"[dry run] deferred: {d}")
             return report
@@ -156,6 +182,7 @@ class Pipeline:
             if self.client is None:
                 raise RuntimeError("No Gemini client configured")
             mins = _minutes(v, cfg)
+            refresh = v["status"] == DONE
             try:
                 self._summarize(v, ledger)
                 # Only successful work counts against the daily budget. If Google
@@ -163,7 +190,11 @@ class Pipeline:
                 # 429, which stops the run below without penalizing any video.
                 ledger["video_minutes"] += mins
                 report.minutes_used += mins
-                report.summarized.append(v["title"])
+                (report.refreshed if refresh else report.summarized).append(v["title"])
+            except VideoDeferred as e:
+                v["last_error"] = f"deferred: {e}"[:500]
+                report.deferred.append(f"{v['title']} (too large for the models available right now; will retry next run)")
+                self.log(f"  Deferring {v['id']}: {e}")
             except TryLater as e:
                 report.rate_limited = True
                 v["last_error"] = f"try later: {e}"[:500]
@@ -173,12 +204,20 @@ class Pipeline:
                 self.store.save_state(state)
                 break
             except (GeminiError, ValueError, KeyError) as e:
-                v["attempts"] = v.get("attempts", 0) + 1
                 v["last_error"] = str(e)[:500]
-                if v["attempts"] >= cfg.budget.max_attempts:
-                    v["status"] = FAILED
-                report.errors.append(f"{v['title']}: {e}")
-                self.log(f"Failed to summarize {v['id']} ({v['title']}): {e}")
+                if refresh:  # keep the existing summary; stop retrying after max_attempts
+                    v["redo_attempts"] = v.get("redo_attempts", 0) + 1
+                    if v["redo_attempts"] >= cfg.budget.max_attempts:
+                        v["redo_skip"] = prompts.PROMPT_VERSION
+                    self.log(f"Failed to refresh {v['id']} ({v['title']}); keeping the existing summary: {e}")
+                    msg = f"{v['title']} (refresh): {e}"
+                else:
+                    v["attempts"] = v.get("attempts", 0) + 1
+                    if v["attempts"] >= cfg.budget.max_attempts:
+                        v["status"] = FAILED
+                    self.log(f"Failed to summarize {v['id']} ({v['title']}): {e}")
+                    msg = f"{v['title']}: {e}"
+                report.errors.append(msg)
             self.store.save_state(state)  # keep progress even if the job is killed
 
         # 4. Weekly synopses ---------------------------------------------------
@@ -189,6 +228,7 @@ class Pipeline:
             "at": iso(now),
             "discovered": report.discovered,
             "summarized": len(report.summarized),
+            "refreshed": len(report.refreshed),
             "errors": len(report.errors),
         }
         self.store.save_state(state)
@@ -240,15 +280,48 @@ class Pipeline:
 
     # ------------------------------------------------------------------
     def _run_models(self, models: list[str], call):
-        """Try each model in turn while Gemini says "busy, try later" (503/429)."""
+        """Try each model in turn while Gemini says "busy" (503) or "over limit" (429).
+
+        - Per-minute limit: wait for the window to clear (up to two minutes) and
+          try the same model once more. If it still refuses, this request is too
+          big for that model's per-minute allowance, so try the next model.
+        - Daily limit: skip that model for the rest of the run, so we don't spend
+          requests asking it again for every video.
+        - Busy (503): try the next model.
+        """
+        candidates = [m for m in models if m not in self.exhausted]
+        if not candidates:
+            raise RateLimited("every configured model is over its daily limit for now")
         last: TryLater | None = None
-        for i, model in enumerate(models):
-            try:
-                return model, call(model)
-            except TryLater as e:
-                last = e
-                if i + 1 < len(models):
-                    self.log(f"  {model} is busy or over its limit ({e}); trying {models[i + 1]}")
+        busy = too_big = False
+        for i, model in enumerate(candidates):
+            waited = False
+            while True:
+                try:
+                    return model, call(model)
+                except RateLimited as e:
+                    last = e
+                    if e.per_minute and not waited:
+                        wait = min(MAX_LIMIT_WAIT_S, (e.retry_after or 60) + 3)
+                        self.log(f"  {model} is over its per-minute limit; waiting {int(wait)}s and trying again")
+                        self.sleep(wait)
+                        waited = True
+                        continue
+                    if e.per_minute:
+                        too_big = True
+                        why = "still over its per-minute limit after waiting"
+                    else:
+                        self.exhausted.add(model)
+                        why = "over its daily limit"
+                except TryLater as e:
+                    last = e
+                    busy = True
+                    why = "busy"
+                break
+            nxt = f"; trying {candidates[i + 1]}" if i + 1 < len(candidates) else ""
+            self.log(f"  {model} is {why} ({last}){nxt}")
+        if too_big and not busy:
+            raise VideoDeferred(str(last))
         raise last
 
     # ------------------------------------------------------------------
@@ -323,7 +396,9 @@ class Pipeline:
         )
         v["status"] = DONE
         v["processed_at"] = iso(self.now())
+        v["prompt_version"] = prompts.PROMPT_VERSION
         v["last_error"] = None
+        v.pop("redo_attempts", None)
 
     # ------------------------------------------------------------------
     def _update_weeks(self, state: dict, report: RunReport) -> None:
@@ -342,7 +417,7 @@ class Pipeline:
             fingerprint = hashlib.sha256(
                 json.dumps(
                     [prompts.PROMPT_VERSION, cfg.gemini.synthesis_model]
-                    + [[r["id"], r.get("processed_at")] for r in vids]
+                    + [[r["id"], r.get("processed_at"), r.get("prompt_version")] for r in vids]
                 ).encode()
             ).hexdigest()[:16]
             existing = self.store.read_week(week)

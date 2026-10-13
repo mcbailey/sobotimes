@@ -93,7 +93,8 @@ def format_report(report: RunReport, store: Store) -> str:
     lines = ["## Meeting digest run", ""]
     lines.append(f"- Videos found in the lookback window: {report.discovered}")
     lines.append(f"- New this run: {len(report.new)}")
-    lines.append(f"- Summarized: {len(report.summarized)} ({report.minutes_used} video minutes)")
+    refreshed = f", plus {len(report.refreshed)} refreshed with improved prompts" if report.refreshed else ""
+    lines.append(f"- Summarized: {len(report.summarized)}{refreshed} ({report.minutes_used} video minutes)")
     lines.append(f"- Weekly synopses written: {len(report.weeks_written)}")
     if report.rate_limited:
         lines.append("- Stopped early: Gemini was busy or a usage limit was reached. Nothing was marked as failed; remaining videos will be picked up next run.")
@@ -107,6 +108,7 @@ def format_report(report: RunReport, store: Store) -> str:
         )
     for title, items in (
         ("Summarized", report.summarized),
+        ("Refreshed (re-summarized with the current prompts)", report.refreshed),
         ("Deferred", report.deferred),
         ("Skipped (title did not look like a meeting; adjust include/exclude patterns in config.toml if wrong)", report.skipped_titles),
         ("Errors", report.errors),

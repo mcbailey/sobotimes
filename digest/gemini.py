@@ -25,7 +25,38 @@ class TryLater(GeminiError):
 
 
 class RateLimited(TryLater):
-    """Quota or rate limit hit (HTTP 429). Stop for today; don't blame the video."""
+    """Quota or rate limit hit (HTTP 429). Don't blame the video.
+
+    per_minute is True for short windows (tokens or requests per minute), which
+    clear after retry_after seconds. Otherwise assume the model is done for today.
+    """
+
+    def __init__(self, message: str, extra: str = ""):
+        super().__init__(message)
+        text = f"{message} {extra}"
+        low = text.lower()
+        self.retry_after = parse_retry_delay(text)
+        if "per day" in low or "per_day" in low or "perday" in low:
+            self.per_minute = False
+        elif "per minute" in low or "per_minute" in low or "perminute" in low:
+            self.per_minute = True
+        else:
+            self.per_minute = self.retry_after is not None and self.retry_after <= 90
+
+
+_DELAY = re.compile(r"retry in\s+((?:\d+(?:\.\d+)?[hms]){1,3})|\"retryDelay\"\s*:\s*\"(\d+(?:\.\d+)?)s\"", re.IGNORECASE)
+_UNIT = re.compile(r"(\d+(?:\.\d+)?)([hms])")
+
+
+def parse_retry_delay(text: str) -> float | None:
+    """'Please retry in 37s' / 'retry in 4h32m59s' / '"retryDelay": "37s"' -> seconds."""
+    m = _DELAY.search(text or "")
+    if not m:
+        return None
+    if m.group(2):
+        return float(m.group(2))
+    mult = {"h": 3600, "m": 60, "s": 1}
+    return sum(float(n) * mult[u] for n, u in _UNIT.findall(m.group(1).lower()))
 
 
 @dataclass
@@ -63,7 +94,7 @@ class InteractionsClient:
             h["Api-Revision"] = self.api_revision
         return h
 
-    def _call(self, method: str, path: str, body: dict | None = None) -> dict:
+    def _call(self, method: str, path: str, body: dict | None = None, retries: int = 3) -> dict:
         try:
             raw = http.request(
                 method,
@@ -71,12 +102,12 @@ class InteractionsClient:
                 headers=self._headers(),
                 body=body,
                 timeout=120,
-                retries=3,
+                retries=retries,
                 sleep=self.sleep,
             )
         except http.HTTPError as e:
             if e.status == 429:
-                raise RateLimited(e.message) from None
+                raise RateLimited(e.message, e.body) from None
             if e.status >= 500:  # e.g. 503 "high demand": Google's side, temporary
                 raise TryLater(f"{e.status}: {e.message}") from None
             raise GeminiError(f"{e.status}: {e.message}") from None
@@ -85,7 +116,9 @@ class InteractionsClient:
         return json.loads(raw) if raw else {}
 
     def create(self, body: dict) -> dict:
-        return self._call("POST", "interactions", body)
+        # Each create counts against the free tier's requests-per-day quota,
+        # so retry a failed create only once; the next run picks it up anyway.
+        return self._call("POST", "interactions", body, retries=1)
 
     def get(self, interaction_id: str) -> dict:
         return self._call("GET", f"interactions/{interaction_id}")
@@ -155,6 +188,12 @@ def failure_details(inter: dict) -> str:
     err = inter.get("error")
     if err:
         parts.append(err if isinstance(err, str) else json.dumps(err)[:600])
+    for e in inter.get("errors") or []:
+        if isinstance(e, dict):
+            code = e.get("code")
+            parts.append(f"{e.get('message', '')}{f' ({code})' if code else ''}".strip())
+        else:
+            parts.append(str(e)[:300])
     for key in ("status_message", "status_details", "failure_reason", "message"):
         if inter.get(key):
             parts.append(f"{key}={json.dumps(inter[key])[:300]}")

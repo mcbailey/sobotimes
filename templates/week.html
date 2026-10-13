@@ -37,7 +37,7 @@
   <h2 class="block-title">Coming up</h2>
   <ul class="ahead">
     {% for a in week.looking_ahead %}
-    <li>{% if a.when %}<span class="ahead-when">{{ a.when }}</span>{% endif %}<span class="ahead-what">{{ a.what }}{% if a.body %} ({{ a.body }}){% endif %}</span></li>
+    <li>{% if a.when %}<span class="ahead-when">{{ a.when }}<span class="sr-only">: </span></span>{% endif %}<span class="ahead-what">{{ a.what }}{% if a.body %} ({{ a.body }}){% endif %}</span></li>
     {% endfor %}
   </ul>
 </section>

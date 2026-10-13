@@ -2,10 +2,14 @@
 from __future__ import annotations
 
 import json
+import re
 from datetime import date
 
-# Bump when prompts or schemas change in a way that should regenerate weeks.
-PROMPT_VERSION = "2026-10-13"
+from .timeutil import date_from_title
+
+# Bump when prompts or schemas change. Meetings summarized with an older
+# version are redone when gemini.redo_outdated_summaries is on.
+PROMPT_VERSION = "2026-10-13b"
 
 CATEGORIES = [
     "Budget & taxes",
@@ -22,6 +26,8 @@ CATEGORIES = [
 IMPORTANCE = ["high", "medium", "low"]
 VOTE_RESULTS = ["passed", "failed", "tabled", "continued", "withdrawn", "other"]
 
+TS_FORMAT = "H:MM:SS measured from the start of this recording, e.g. '0:05:12' or '1:46:54'"
+
 # --------------------------------------------------------------------------
 # Per-meeting summary
 # --------------------------------------------------------------------------
@@ -34,16 +40,26 @@ neutral, specific, plain English, no opinion, no speculation.
 Rules:
 - Cover every substantive agenda item, in the order discussed. Fold purely \
 routine business (approving minutes, accepting gifts, signing warrants, routine \
-appointments) into a single low-importance topic called "Routine business".
+appointments, adjournment) into a single low-importance topic called "Routine business".
 - Be concrete so readers rarely need to click: dollar amounts, addresses, \
 project names, vote counts, deadlines, who is asking for what, and what happens next.
 - Only state what is said or shown in the video. If audio is unclear or the \
-recording is cut off, say so in "caveats". Never invent numbers or names.
+recording is cut off, say so in "caveats". Never invent numbers, names or dates.
+- Keep everything consistent. A topic's outcome, the votes list, the headline \
+and the summary must agree. Use the exact action taken: "nominated" is not \
+"elected", "continued" is not "closed", "discussed" is not "approved". If a \
+hearing was continued, do not list a vote closing it.
+- Votes: list each motion that was actually voted on, except adjournment and \
+approving minutes. If there were no substantive votes, return an empty list.
+- Upcoming: only dates and next steps for this body's own business (hearings, \
+deadlines, future agenda items, Town Meeting). Leave out unrelated community events.
+- Timestamps: every topic, vote and public comment needs a start time in \
+{ts_format}. Use the moment discussion of that item begins. Readers use these \
+links to check your summary, so be accurate.
 - Refer to officials by role (the chair, the town administrator, a member of \
 the board) and name them only when clearly stated. Never name members of the \
 public; describe them generically (for example, "a resident of Main Street").
-- start_seconds is the offset in the video, in whole seconds, where discussion \
-of that item begins. It is used to deep-link readers into the video, so be accurate.
+- Plain text only in every field: no Markdown, asterisks, == marks or bullet symbols.
 
 Importance rubric:
 - high: affects residents' money or services (budgets, taxes, overrides, fees, \
@@ -59,15 +75,17 @@ MEETING_PROMPT = """\
 Summarize this meeting video for residents.
 
 Video title: {title}
-Published: {published}
+{date_hint}Published on YouTube: {published}
 Video length: {length}
 Video description (may be empty or boilerplate):
 {description}
 
-Return JSON matching the schema. If the video is not a public government \
-meeting (for example a concert, sports event or promotional clip), set \
-is_public_meeting to false and leave the lists empty.
+Return JSON matching the schema. The headline and summary must not be empty. \
+If the video is not a public government meeting (for example a concert, sports \
+event or promotional clip), set is_public_meeting to false and leave the lists empty.
 """
+
+_TS = {"type": "string", "description": f"Start time, {TS_FORMAT}."}
 
 _TOPIC = {
     "type": "object",
@@ -75,18 +93,17 @@ _TOPIC = {
         "title": {"type": "string", "description": "Short, specific title, e.g. 'FY28 operating budget preview' (max ~10 words)."},
         "category": {"type": "string", "enum": CATEGORIES},
         "importance": {"type": "string", "enum": IMPORTANCE},
+        "start": _TS,
         "summary": {"type": "string", "description": "2-4 sentences: what was discussed and why it matters."},
         "key_details": {
             "type": "array",
             "items": {"type": "string"},
             "description": "Up to 5 concrete facts: amounts, addresses, dates, positions taken.",
         },
-        "outcome": {"type": ["string", "null"], "description": "Decision, vote result or next step. null if none."},
+        "outcome": {"type": ["string", "null"], "description": "Decision, vote result or next step, consistent with the votes list. null if none."},
         "why_it_matters": {"type": ["string", "null"], "description": "For high-importance items: one sentence on the impact on residents. Otherwise null."},
-        "start_seconds": {"type": "integer", "description": "Offset in seconds where this item begins."},
-        "end_seconds": {"type": ["integer", "null"], "description": "Offset in seconds where this item ends, if clear."},
     },
-    "required": ["title", "category", "importance", "summary", "key_details", "outcome", "why_it_matters", "start_seconds", "end_seconds"],
+    "required": ["title", "category", "importance", "start", "summary", "key_details", "outcome", "why_it_matters"],
 }
 
 MEETING_SCHEMA = {
@@ -103,12 +120,12 @@ MEETING_SCHEMA = {
             "items": {
                 "type": "object",
                 "properties": {
-                    "motion": {"type": "string"},
+                    "motion": {"type": "string", "description": "What was moved, in plain words."},
                     "result": {"type": "string", "enum": VOTE_RESULTS},
                     "tally": {"type": ["string", "null"], "description": "e.g. '4-1', 'unanimous', or null."},
-                    "start_seconds": {"type": "integer"},
+                    "time": {"type": "string", "description": f"When the vote was taken, {TS_FORMAT}."},
                 },
-                "required": ["motion", "result", "tally", "start_seconds"],
+                "required": ["motion", "result", "tally", "time"],
             },
         },
         "public_comment": {
@@ -118,14 +135,14 @@ MEETING_SCHEMA = {
                 "type": "object",
                 "properties": {
                     "summary": {"type": "string"},
-                    "start_seconds": {"type": "integer"},
+                    "time": {"type": "string", "description": f"When the comment starts, {TS_FORMAT}."},
                 },
-                "required": ["summary", "start_seconds"],
+                "required": ["summary", "time"],
             },
         },
         "upcoming": {
             "type": "array",
-            "description": "Future dates, hearings, deadlines or follow-ups mentioned.",
+            "description": "Future dates, hearings, deadlines or follow-ups for this body's business.",
             "items": {
                 "type": "object",
                 "properties": {
@@ -142,12 +159,20 @@ MEETING_SCHEMA = {
 
 
 def meeting_system(town: str) -> str:
-    return MEETING_SYSTEM.format(town=town)
+    return MEETING_SYSTEM.format(town=town, ts_format=TS_FORMAT)
 
 
 def meeting_prompt(video: dict, length: str) -> str:
+    title = video.get("title", "")
+    title_date = date_from_title(title)
+    hint = ""
+    if title_date:
+        hint = f"Meeting date from the title: {title_date:%A, %B} {title_date.day}, {title_date.year}\n"
+    elif video.get("published_at"):
+        hint = f"The meeting took place in or shortly before {video['published_at'][:4]}.\n"
     return MEETING_PROMPT.format(
-        title=video.get("title", ""),
+        title=title,
+        date_hint=hint,
         published=video.get("published_at", "")[:10],
         length=length or "unknown",
         description=(video.get("description") or "").strip()[:1500] or "(none)",
@@ -165,9 +190,12 @@ busy resident who reads only this overview.
 
 Rules:
 - Use only facts from the provided summaries. Do not add outside knowledge.
+- Say a body voted, approved, advanced or decided something only if its votes \
+or outcomes show it. Otherwise say it discussed or reviewed it.
 - Lead with what most affects residents. Connect related items across meetings.
-- Plain, neutral language. No hype, no opinion.
-- Each highlight must point to a real item: copy its video_id and start_seconds \
+- Plain, neutral language. No hype, no opinion. Plain text only: no Markdown, \
+asterisks or == marks.
+- Each highlight must point to a real item: copy its video_id and start time \
 exactly from the input.
 """
 
@@ -196,9 +224,9 @@ WEEK_SCHEMA = {
                     "body": {"type": "string", "description": "Board or committee where this came up."},
                     "importance": {"type": "string", "enum": IMPORTANCE},
                     "video_id": {"type": "string"},
-                    "start_seconds": {"type": "integer"},
+                    "start": {"type": "string", "description": "The item's start time, copied from the input."},
                 },
-                "required": ["title", "why", "body", "importance", "video_id", "start_seconds"],
+                "required": ["title", "why", "body", "importance", "video_id", "start"],
             },
         },
         "looking_ahead": {
@@ -222,6 +250,14 @@ def week_system(town: str) -> str:
     return WEEK_SYSTEM.format(town=town)
 
 
+def _ts_or_none(seconds: int | None) -> str | None:
+    if seconds is None:
+        return None
+    h, rem = divmod(int(seconds), 3600)
+    m, s = divmod(rem, 60)
+    return f"{h}:{m:02d}:{s:02d}"
+
+
 def week_prompt(label: str, meetings: list[dict]) -> str:
     compact = []
     for m in meetings:
@@ -235,12 +271,20 @@ def week_prompt(label: str, meetings: list[dict]) -> str:
                 "summary": s.get("summary"),
                 "topics": [
                     {
-                        k: t.get(k)
-                        for k in ("title", "importance", "category", "summary", "key_details", "outcome", "start_seconds")
+                        "title": t.get("title"),
+                        "importance": t.get("importance"),
+                        "category": t.get("category"),
+                        "start": _ts_or_none(t.get("start_seconds")),
+                        "summary": t.get("summary"),
+                        "key_details": t.get("key_details"),
+                        "outcome": t.get("outcome"),
                     }
                     for t in s.get("topics", [])
                 ],
-                "votes": s.get("votes", []),
+                "votes": [
+                    {"motion": v.get("motion"), "result": v.get("result"), "tally": v.get("tally")}
+                    for v in s.get("votes", [])
+                ],
                 "upcoming": s.get("upcoming", []),
             }
         )
@@ -251,8 +295,13 @@ def week_prompt(label: str, meetings: list[dict]) -> str:
 # Cleaning: never trust model output blindly
 # --------------------------------------------------------------------------
 
+_MARKUP = re.compile(r"\*\*|__|==|`|^#+\s*|^\s*[-*•]\s+", re.MULTILINE)
+
+
 def _str(v, default: str = "") -> str:
-    return v.strip() if isinstance(v, str) else default
+    if not isinstance(v, str):
+        return default
+    return _MARKUP.sub("", v).strip() or default
 
 
 def _opt_str(v) -> str | None:
@@ -260,16 +309,41 @@ def _opt_str(v) -> str | None:
     return s or None
 
 
-def _seconds(v, duration: int | None) -> int | None:
-    try:
-        n = int(v)
-    except (TypeError, ValueError):
+_TS_RX = re.compile(r"^\s*(?:(\d+):)?(\d{1,2}):(\d{1,2})(?:\.\d+)?\s*$")
+
+
+def parse_timestamp(v) -> int | None:
+    """'1:46:54', '46:54', '0:05:12', 125, '125' -> seconds."""
+    if v is None or isinstance(v, bool):
         return None
-    if n < 0:
+    if isinstance(v, (int, float)):
+        return int(v)
+    s = str(v).strip()
+    if s.isdigit():
+        return int(s)
+    m = _TS_RX.match(s)
+    if not m:
+        return None
+    h, mnt, sec = int(m.group(1) or 0), int(m.group(2)), int(m.group(3))
+    if sec >= 60 or (m.group(1) is not None and mnt >= 60):
+        return None
+    return h * 3600 + mnt * 60 + sec
+
+
+def _seconds(v, duration: int | None) -> int | None:
+    n = parse_timestamp(v)
+    if n is None or n < 0:
         return None
     if duration and n > duration:
         return None
     return n
+
+
+def _time_of(item: dict, *keys: str):
+    for k in keys:
+        if item.get(k) not in (None, ""):
+            return item.get(k)
+    return None
 
 
 def _enum(v, allowed: list[str], default: str) -> str:
@@ -285,8 +359,8 @@ def clean_meeting(raw: dict, duration_s: int | None) -> dict:
     for t in raw.get("topics") or []:
         if not isinstance(t, dict) or not _str(t.get("title")):
             continue
-        start = _seconds(t.get("start_seconds"), duration_s)
-        end = _seconds(t.get("end_seconds"), duration_s)
+        start = _seconds(_time_of(t, "start", "start_seconds"), duration_s)
+        end = _seconds(_time_of(t, "end", "end_seconds"), duration_s)
         if start is not None and end is not None and end <= start:
             end = None
         topics.append(
@@ -312,11 +386,11 @@ def clean_meeting(raw: dict, duration_s: int | None) -> dict:
                     "motion": _str(v.get("motion")),
                     "result": _enum(v.get("result"), VOTE_RESULTS, "other"),
                     "tally": _opt_str(v.get("tally")),
-                    "start_seconds": _seconds(v.get("start_seconds"), duration_s),
+                    "start_seconds": _seconds(_time_of(v, "time", "start", "start_seconds"), duration_s),
                 }
             )
     comments = [
-        {"summary": _str(c.get("summary")), "start_seconds": _seconds(c.get("start_seconds"), duration_s)}
+        {"summary": _str(c.get("summary")), "start_seconds": _seconds(_time_of(c, "time", "start", "start_seconds"), duration_s)}
         for c in raw.get("public_comment") or []
         if isinstance(c, dict) and _str(c.get("summary"))
     ]
@@ -325,12 +399,16 @@ def clean_meeting(raw: dict, duration_s: int | None) -> dict:
         for u in raw.get("upcoming") or []
         if isinstance(u, dict) and _str(u.get("what"))
     ]
+    headline = _str(raw.get("headline"))
+    summary = _str(raw.get("summary"))
+    if not headline and summary:  # never leave a meeting without a headline
+        headline = re.split(r"(?<=[.!?])\s", summary, maxsplit=1)[0]
     return {
         "is_public_meeting": raw.get("is_public_meeting") is not False,
         "body": _str(raw.get("body"), "Town meeting"),
         "meeting_date": _opt_str(raw.get("meeting_date")),
-        "headline": _str(raw.get("headline")),
-        "summary": _str(raw.get("summary")),
+        "headline": headline,
+        "summary": summary,
         "topics": topics,
         "votes": votes,
         "public_comment": comments,
@@ -356,7 +434,7 @@ def clean_week(raw: dict, meetings: list[dict]) -> dict:
                 "body": _str(h.get("body")) or by_id[vid]["summary"].get("body", ""),
                 "importance": _enum(h.get("importance"), IMPORTANCE, "medium"),
                 "video_id": vid,
-                "start_seconds": _seconds(h.get("start_seconds"), duration),
+                "start_seconds": _seconds(_time_of(h, "start", "start_seconds"), duration),
             }
         )
     ahead = [
@@ -377,3 +455,4 @@ def valid_meeting_date(value: str | None, published: date) -> date | None:
         return None
     delta = (published - d).days
     return d if -1 <= delta <= 90 else None
+

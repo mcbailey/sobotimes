@@ -54,8 +54,8 @@ class BudgetConfig:
 class GeminiConfig:
     model: str = "gemini-3.8-flash"
     synthesis_model: str = "gemini-3.8-flash"
-    fallback_models: list[str] = field(default_factory=lambda: ["gemini-3.6-flash", "gemini-3.5-flash-lite"])
-    video_processing: str = "agentic"
+    fallback_models: list[str] = field(default_factory=lambda: ["gemini-3.5-flash-lite"])
+    video_processing: str = "static"
     fallback_to_static: bool = True
     static_fps: float = 0.2
     thinking_level: str = "medium"
@@ -63,6 +63,7 @@ class GeminiConfig:
     week_max_output_tokens: int = 6000
     call_timeout_minutes: int = 20
     api_revision: str = ""
+    redo_outdated_summaries: bool = True
 
 
 @dataclass
