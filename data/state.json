@@ -8,13 +8,14 @@
       "published_at": "2026-10-09T01:18:52Z",
       "duration_s": 8045,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "title matches '\\\\bcommittee\\\\b'",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:08:50Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "last_error": "try later: 503: The model is currently experiencing high demand, spikes in demand are usually temporary. Please try again later."
+      "last_error": null,
+      "processed_at": "2026-10-13T19:21:04Z"
     },
     "JX3yq2aHkPA": {
       "id": "JX3yq2aHkPA",
@@ -23,12 +24,14 @@
       "published_at": "2026-10-07T12:09:33Z",
       "duration_s": 5394,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "title matches '\\\\bboard\\\\b'",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:08:50Z",
       "meeting_date": "2026-10-06",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-13T19:24:45Z",
+      "last_error": null
     },
     "hSLJu8aHUcw": {
       "id": "hSLJu8aHUcw",
@@ -37,12 +40,14 @@
       "published_at": "2026-09-29T18:10:16Z",
       "duration_s": 10290,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "title matches '\\\\bboard\\\\b'",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:08:50Z",
       "meeting_date": "2026-09-28",
-      "week": "2026-09-28"
+      "week": "2026-09-28",
+      "processed_at": "2026-10-13T19:29:59Z",
+      "last_error": null
     },
     "0LOZVp4F2FY": {
       "id": "0LOZVp4F2FY",
@@ -61,18 +66,18 @@
   },
   "usage": {
     "2026-10-13": {
-      "video_minutes": 0,
-      "calls": 0,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "thought_tokens": 0,
+      "video_minutes": 396,
+      "calls": 3,
+      "input_tokens": 907856,
+      "output_tokens": 5691,
+      "thought_tokens": 3641,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-13T19:08:50Z",
+    "at": "2026-10-13T19:15:49Z",
     "discovered": 4,
-    "summarized": 0,
+    "summarized": 3,
     "errors": 0
   }
 }

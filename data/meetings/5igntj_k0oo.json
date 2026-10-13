@@ -1,0 +1,140 @@
+{
+  "video": {
+    "id": "5igntj_k0oo",
+    "title": "Southborough Community Preservation Committee October 8, 2026",
+    "published_at": "2026-10-09T01:18:52Z",
+    "duration_s": 8045
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-10-08",
+    "headline": "The Community Preservation Committee reviewed warrant articles for the Special Fall Town Meeting, including funding updates for the Peninsula Trail and Golf Course Irrigation projects.",
+    "summary": "The Community Preservation Committee held a detailed meeting on October 8, 2026, to discuss warrant articles ahead of the upcoming Special Fall Town Meeting. Key discussions included whether to amend the Peninsula Trail project article, updates on the Southborough Golf Club irrigation system project, affordable housing trust reporting, and downtown parking guidelines. The committee also handled routine business such as meeting minutes and scheduling future sessions.",
+    "topics": [
+      {
+        "title": "Peninsula Trail project warrant article discussion",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee debated whether to introduce an amendment to Warrant Article A4 regarding the Peninsula Trail project for the Special Fall Town Meeting, ultimately deciding against reducing the funding amount or altering the contingency funds.",
+        "key_details": [
+          "Project: Peninsula Trail (Connecting the Connection)",
+          "Warrant Article: Article A4 for Special Fall Town Meeting on October 17, 2026",
+          "Discussion on whether to reduce requested contingency funds by $25,000",
+          "Vote result: 5-0 to move the article forward without committee-initiated amendments"
+        ],
+        "outcome": "Passed motion to move the Peninsula Trail project to Town Meeting as currently drafted.",
+        "why_it_matters": "Determines how CPA funds are requested and presented to voters at Town Meeting for recreational trail development.",
+        "start_seconds": 512,
+        "end_seconds": 6950
+      },
+      {
+        "title": "Golf course irrigation system replacement project",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee reviewed the Southborough Golf Club Irrigation System Replacement Project, discussing cost increases and CPA funding eligibility.",
+        "key_details": [
+          "Total project cost: $1,087,296",
+          "Initial CPA funding approved in 2024: $553,750",
+          "Golf Revolving Fund contribution: $100,000",
+          "Project qualifies under CPA recreation and historic preservation goals"
+        ],
+        "outcome": "Reviewed project budget, funding gaps, and grant offset options.",
+        "why_it_matters": "Involves substantial municipal funding and impacts recreational facilities at the town-owned golf course.",
+        "start_seconds": 6950,
+        "end_seconds": 7440
+      },
+      {
+        "title": "Affordable housing trust technical review",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The committee reviewed the Affordable Housing Trust's annual technical updates, compliance reports, and housing production plan data.",
+        "key_details": [
+          "Reviewed housing production plan data and statistics on affordable units",
+          "Discussed reporting compliance for CPA-funded housing initiatives"
+        ],
+        "outcome": "No formal vote; informational review of housing data.",
+        "why_it_matters": null,
+        "start_seconds": 7440,
+        "end_seconds": null
+      },
+      {
+        "title": "Central Street parking and Harold E. Fay Memorial Park signage",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The committee discussed parking configurations, signage, and striping options near Central Street Park and Harold E. Fay Memorial Park.",
+        "key_details": [
+          "Discussed parallel vs. angled parking options",
+          "Reviewed historical signage and park naming guidelines"
+        ],
+        "outcome": "Provided feedback on parking layouts and agreed to coordinate with DPW and historical commission.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and committee administration",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved meeting minutes, reviewed upcoming deadlines, and established future meeting dates.",
+        "key_details": [
+          "Approved past meeting minutes on roll call votes",
+          "Set upcoming meeting dates for October 27 and November"
+        ],
+        "outcome": "Minutes approved and future schedule confirmed.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Move to support moving the Peninsula Trail project to the Fall Town Meeting on October 17",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6116
+      },
+      {
+        "motion": "Approve meeting minutes as edited",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special Fall Town Meeting",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Next Community Preservation Committee meeting",
+        "when": "October 27, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChdaWVBPYXN2dU9zM2xxdHNQNzdtSWdBYxIXWllQT2FzdnVPczNscXRzUDc3bUlnQWM\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:21:04Z",
+  "usage": {
+    "total_tokens": 309884,
+    "total_input_tokens": 307780,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 472
+      },
+      {
+        "modality": "video",
+        "tokens": 307308
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1331,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 773
+  }
+}

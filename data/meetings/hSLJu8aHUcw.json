@@ -1,0 +1,139 @@
+{
+  "video": {
+    "id": "hSLJu8aHUcw",
+    "title": "Southborough Planning Board September 28, 2026",
+    "published_at": "2026-09-29T18:10:16Z",
+    "duration_s": 10290
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-09-28",
+    "headline": "The Southborough Planning Board opened a major public hearing on a proposed Costco wholesale store and fuel facility at 21 Coslin Drive.",
+    "summary": "The Southborough Planning Board held a regular meeting on September 28, 2026, featuring an extensive presentation and initial review of Costco Wholesale's proposed 167,000-square-foot warehouse and 15-pump fueling facility at 21 Coslin Drive. The board also reviewed updates to the two-family dwelling zoning bylaw warrant article, continued a public hearing for 154 Turnpike Road, and discussed master plan implementation goals.",
+    "topics": [
+      {
+        "title": "Two-family dwelling zoning bylaw update",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board discussed minor text cleanup and redline changes for the proposed two-family dwelling zoning bylaw warrant article, including removing redundant terms.",
+        "key_details": [
+          "Removed redundant words ('townhouse' and 'duplex') due to Scribner errors.",
+          "Corrected redundant language across district amendments regarding lot sizes."
+        ],
+        "outcome": "Continued public hearing to October 17, 2026 at 6:45 PM.",
+        "why_it_matters": "Changes to the two-family zoning bylaw affect housing development rules and density across town zoning districts.",
+        "start_seconds": 90,
+        "end_seconds": 1715
+      },
+      {
+        "title": "154 Turnpike Road site plan modification",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board addressed a continuance request for the public hearing regarding non-compliance modifications and major site plan approval for 154 Turnpike Road.",
+        "key_details": [
+          "Applicant requested a continuation without testimony.",
+          "New hearing date set for October 19, 2026."
+        ],
+        "outcome": "Public hearing continued to October 19, 2026 at 6:45 PM.",
+        "why_it_matters": null,
+        "start_seconds": 1716,
+        "end_seconds": 1998
+      },
+      {
+        "title": "21 Coslin Drive - Costco Wholesale site plan & special permits",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Representatives for Costco Wholesale presented a major site plan, low-impact development special permit, and highway major retail special permit for a 167,000-square-foot warehouse and 15-pump fueling facility at 21 Coslin Drive.",
+        "key_details": [
+          "Site location: 21 Coslin Drive (26.12 acres in the Industrial Park district and Westborough).",
+          "Proposed use: 167,000 sq ft Costco warehouse with 895 parking spaces and a 15-pump fueling facility (30 fueling positions).",
+          "Includes stormwater management upgrades, underground detention, and 36-foot 6-inch lighting poles.",
+          "Traffic studies, trip generation, and Route 9/Crystal Pond Road mitigation were reviewed."
+        ],
+        "outcome": "Continued public hearing to October 19, 2026 at 6:30 PM.",
+        "why_it_matters": "A major commercial development of this scale will significantly impact traffic, local tax base, commercial services, and infrastructure on Route 9.",
+        "start_seconds": 1998,
+        "end_seconds": null
+      },
+      {
+        "title": "Master Plan Implementation Committee update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board received an update on master plan implementation committee goals, file organization, and future committee alignment toward 2030 master plan targets.",
+        "key_details": [
+          "Discussed organizing documents and tracking subcommittees.",
+          "Reviewed coordination needs with town departments and future meeting schedules."
+        ],
+        "outcome": "No formal action taken; discussion only.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To continue the public hearing for the two-family dwelling zoning bylaw to October 17, 2026 at 6:45 PM",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1690
+      },
+      {
+        "motion": "To continue the public hearing for 154 Turnpike Road to October 19, 2026 at 6:45 PM",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1980
+      },
+      {
+        "motion": "To continue the public hearing for 21 Coslin Drive (Costco) to October 19, 2026 at 6:30 PM",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3130
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident spoke about traffic impacts, site access, and landscaping/pollinator plant requirements related to the Costco proposal.",
+        "start_seconds": 6634
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Public hearing continuation for Two-Family Dwelling Zoning Bylaw",
+        "when": "October 17, 2026 at 6:45 PM"
+      },
+      {
+        "what": "Public hearing continuation for 21 Coslin Drive (Costco Wholesale)",
+        "when": "October 19, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Public hearing continuation for 154 Turnpike Road",
+        "when": "October 19, 2026 at 6:45 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_Chd1SVhPYW91UkF1bUltdGtQM0wtSS1BWRIXdUlYT2FvdVJBdW1JbXRrUDNMLUktQVk\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:29:59Z",
+  "usage": {
+    "total_tokens": 396243,
+    "total_input_tokens": 393538,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 393066
+      },
+      {
+        "modality": "text",
+        "tokens": 472
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1506,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1199
+  }
+}
