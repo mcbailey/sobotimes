@@ -55,6 +55,7 @@ class GeminiConfig:
     model: str = "gemini-3.8-flash"
     synthesis_model: str = "gemini-3.8-flash"
     video_processing: str = "agentic"
+    fallback_to_static: bool = True
     static_fps: float = 0.2
     thinking_level: str = "medium"
     meeting_max_output_tokens: int = 16000

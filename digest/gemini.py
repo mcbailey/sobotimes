@@ -20,7 +20,11 @@ class GeminiError(Exception):
     """A call failed in a way that should count as an attempt."""
 
 
-class RateLimited(GeminiError):
+class TryLater(GeminiError):
+    """Gemini is overloaded or unreachable. Stop for now; don't blame the video."""
+
+
+class RateLimited(TryLater):
     """Quota or rate limit hit (HTTP 429). Stop for today; don't blame the video."""
 
 
@@ -67,14 +71,17 @@ class InteractionsClient:
                 headers=self._headers(),
                 body=body,
                 timeout=120,
+                retries=4,
                 sleep=self.sleep,
             )
         except http.HTTPError as e:
             if e.status == 429:
                 raise RateLimited(e.message) from None
+            if e.status >= 500:  # e.g. 503 "high demand": Google's side, temporary
+                raise TryLater(f"{e.status}: {e.message}") from None
             raise GeminiError(f"{e.status}: {e.message}") from None
         except OSError as e:
-            raise GeminiError(f"network error: {e}") from None
+            raise TryLater(f"network error: {e}") from None
         return json.loads(raw) if raw else {}
 
     def create(self, body: dict) -> dict:
@@ -132,12 +139,33 @@ class InteractionsClient:
 
         status = inter.get("status")
         if status not in (None, "completed"):
-            err = inter.get("error") or {}
-            msg = err.get("message") if isinstance(err, dict) else str(err)
-            if isinstance(err, dict) and (err.get("code") == 429 or "RESOURCE_EXHAUSTED" in str(err)):
-                raise RateLimited(msg or "rate limited")
-            raise GeminiError(f"interaction {status}: {msg or 'no details'}")
+            details = failure_details(inter)
+            upper = details.upper()
+            if "RESOURCE_EXHAUSTED" in upper or '"CODE": 429' in upper:
+                raise RateLimited(details)
+            if any(s in upper for s in ("UNAVAILABLE", '"CODE": 503', "HIGH DEMAND", "OVERLOADED")):
+                raise TryLater(details)
+            raise GeminiError(f"interaction {status}: {details}")
         return Result(text=output_text(inter), usage=inter.get("usage") or {}, interaction_id=iid)
+
+
+def failure_details(inter: dict) -> str:
+    """Everything the API told us about a failed interaction, compactly."""
+    parts = []
+    err = inter.get("error")
+    if err:
+        parts.append(err if isinstance(err, str) else json.dumps(err)[:600])
+    for key in ("status_message", "status_details", "failure_reason", "message"):
+        if inter.get(key):
+            parts.append(f"{key}={json.dumps(inter[key])[:300]}")
+    for step in inter.get("steps") or []:
+        if "error" in str(step.get("type", "")).lower() or step.get("error"):
+            parts.append(json.dumps(step)[:600])
+    if not parts:
+        slim = {k: v for k, v in inter.items() if k not in ("steps", "input", "system_instruction")}
+        slim["step_types"] = [s.get("type") for s in inter.get("steps") or []]
+        parts.append("no error message; response was " + json.dumps(slim)[:800])
+    return "; ".join(parts)
 
 
 def output_text(inter: dict) -> str:

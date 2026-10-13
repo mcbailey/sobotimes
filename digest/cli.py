@@ -91,7 +91,7 @@ def format_report(report: RunReport, store: Store) -> str:
     lines.append(f"- Summarized: {len(report.summarized)} ({report.minutes_used} video minutes)")
     lines.append(f"- Weekly synopses written: {len(report.weeks_written)}")
     if report.rate_limited:
-        lines.append("- Stopped early: Gemini rate limit or daily quota reached. Remaining videos will be picked up next run.")
+        lines.append("- Stopped early: Gemini was busy or a usage limit was reached. Nothing was marked as failed; remaining videos will be picked up next run.")
     if state.get("usage"):
         day = sorted(state["usage"])[-1]
         u = state["usage"][day]

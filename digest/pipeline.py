@@ -9,7 +9,7 @@ from typing import Callable
 
 from . import prompts
 from .config import Config
-from .gemini import GeminiError, RateLimited, video_part
+from .gemini import GeminiError, TryLater, video_part
 from .store import Store
 from .timeutil import (
     date_from_title,
@@ -154,17 +154,20 @@ class Pipeline:
             if self.client is None:
                 raise RuntimeError("No Gemini client configured")
             mins = _minutes(v, cfg)
-            ledger["video_minutes"] += mins  # charge at attempt time: YouTube quota counts attempts
-            report.minutes_used += mins
             try:
                 self._summarize(v, ledger)
+                # Only successful work counts against the daily budget. If Google
+                # counts failed attempts toward its own limit, it answers with a
+                # 429, which stops the run below without penalizing any video.
+                ledger["video_minutes"] += mins
+                report.minutes_used += mins
                 report.summarized.append(v["title"])
-            except RateLimited as e:
-                ledger["video_minutes"] -= mins
-                report.minutes_used -= mins
+            except TryLater as e:
                 report.rate_limited = True
-                v["last_error"] = f"rate limited: {e}"
-                self.log(f"Rate limited by Gemini; stopping for today. ({e})")
+                v["last_error"] = f"try later: {e}"[:500]
+                remaining_titles = [p["title"] for p in picked[picked.index(v):]]
+                report.deferred += [f"{t} (Gemini busy or limit reached; will retry next run)" for t in remaining_titles]
+                self.log(f"Gemini asked us to try later; stopping this run. ({e})")
                 self.store.save_state(state)
                 break
             except (GeminiError, ValueError, KeyError) as e:
@@ -238,20 +241,36 @@ class Pipeline:
         cfg = self.cfg
         g = cfg.gemini
         self.log(f"Summarizing {v['id']}: {v['title']}")
-        result = self.client.run(
-            model=g.model,
-            input=[
-                video_part(v["id"], g.video_processing, g.static_fps),
-                {"type": "text", "text": prompts.meeting_prompt(v, fmt_duration(v.get("duration_s")))},
-            ],
-            system_instruction=prompts.meeting_system(cfg.channel.town),
-            schema=prompts.MEETING_SCHEMA,
-            max_output_tokens=g.meeting_max_output_tokens,
-            thinking_level=g.thinking_level or None,
-            timeout_s=g.call_timeout_minutes * 60,
-        )
-        _add_usage(ledger, result.usage)
-        summary = prompts.clean_meeting(result.json(), v.get("duration_s"))
+        modes = [g.video_processing]
+        if g.video_processing == "agentic" and g.fallback_to_static:
+            modes.append("static")
+        failures = []
+        for mode in modes:
+            try:
+                result = self.client.run(
+                    model=g.model,
+                    input=[
+                        video_part(v["id"], mode, g.static_fps),
+                        {"type": "text", "text": prompts.meeting_prompt(v, fmt_duration(v.get("duration_s")))},
+                    ],
+                    system_instruction=prompts.meeting_system(cfg.channel.town),
+                    schema=prompts.MEETING_SCHEMA,
+                    max_output_tokens=g.meeting_max_output_tokens,
+                    thinking_level=g.thinking_level or None,
+                    timeout_s=g.call_timeout_minutes * 60,
+                )
+                _add_usage(ledger, result.usage)
+                raw = result.json()
+                break
+            except TryLater:
+                raise
+            except GeminiError as e:
+                failures.append(f"{mode} processing: {e}")
+                if mode != modes[-1]:
+                    self.log(f"  {mode} processing failed ({e}); retrying with {modes[-1]} processing")
+        else:
+            raise GeminiError(" | ".join(failures))
+        summary = prompts.clean_meeting(raw, v.get("duration_s"))
 
         if not summary["is_public_meeting"]:
             v["status"] = NOT_MEETING
@@ -279,7 +298,8 @@ class Pipeline:
                 },
                 "summary": summary,
                 "model": g.model,
-                "processing": g.video_processing,
+                "processing": mode,
+                "fallback_reason": failures[0] if failures else None,
                 "prompt_version": prompts.PROMPT_VERSION,
                 "processed_at": iso(self.now()),
                 "usage": result.usage,
@@ -333,7 +353,7 @@ class Pipeline:
                 ledger = state["usage"].setdefault(quota_day(self.now()), {"video_minutes": 0, "calls": 0})
                 _add_usage(ledger, result.usage)
                 week_obj = prompts.clean_week(result.json(), meetings)
-            except RateLimited as e:
+            except TryLater as e:
                 report.rate_limited = True
                 self.log(f"Rate limited while writing week synopses: {e}")
                 return

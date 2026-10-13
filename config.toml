@@ -49,9 +49,11 @@ max_week_summaries_per_run = 8
 model = "gemini-3.8-flash"            # summarizes each meeting video
 synthesis_model = "gemini-3.8-flash"  # writes each week's synopsis
 # "agentic" lets the model navigate long videos and uses far fewer tokens.
-# Switch to "static" only if agentic processing gives you errors.
 video_processing = "agentic"
-static_fps = 0.2                      # only used when video_processing = "static"
+# If agentic processing fails on a video, retry it once right away in static
+# mode (fixed low frame rate). Set video_processing = "static" to skip agentic.
+fallback_to_static = true
+static_fps = 0.2                      # frames per second in static mode; audio is always used
 thinking_level = "medium"             # low | medium | high, or "" for the model default
 # Output caps include the model's thinking, which agentic video navigation uses.
 meeting_max_output_tokens = 32000

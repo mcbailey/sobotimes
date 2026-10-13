@@ -18,7 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sample_data  # noqa: E402
 from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
 from digest.config import load_config  # noqa: E402
-from digest.gemini import GeminiError, InteractionsClient, RateLimited, Result  # noqa: E402
+from digest.gemini import GeminiError, InteractionsClient, RateLimited, Result, TryLater  # noqa: E402
 from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline  # noqa: E402
 from digest.site import build_site  # noqa: E402
 from digest.store import Store  # noqa: E402
@@ -27,10 +27,13 @@ NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eas
 
 
 class FakeClient:
-    def __init__(self, fail_ids=(), ratelimit_ids=()):
+    def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=()):
         self.calls = []
+        self.modes = []
         self.fail_ids = set(fail_ids)
         self.ratelimit_ids = set(ratelimit_ids)
+        self.agentic_fail_ids = set(agentic_fail_ids)
+        self.busy_ids = set(busy_ids)
 
     def run(self, **kw):
         self.calls.append(kw)
@@ -38,10 +41,16 @@ class FakeClient:
         usage = {"total_input_tokens": 1000, "total_output_tokens": 500, "total_tool_use_tokens": 20000}
         if isinstance(inp, list):  # a video summary request
             vid = inp[0]["uri"].split("v=")[1]
-            assert inp[0]["processing"] == "agentic"
+            proc = inp[0]["processing"]
+            mode = proc if isinstance(proc, str) else proc["type"]
+            self.modes.append((vid, mode))
             assert kw["schema"] is prompts.MEETING_SCHEMA
             if vid in self.ratelimit_ids:
                 raise RateLimited("quota exceeded")
+            if vid in self.busy_ids:
+                raise TryLater("503: The model is currently experiencing high demand")
+            if vid in self.agentic_fail_ids and mode == "agentic":
+                raise GeminiError("interaction failed: agentic processing unavailable")
             if vid in self.fail_ids:
                 raise GeminiError("500: backend error")
             raw = sample_data.SUMMARIES.get(vid) or {
@@ -157,6 +166,46 @@ class PipelineTests(unittest.TestCase):
             rec = store.load_state()["videos"]["sampleSC1008"]
             self.assertEqual((rec["status"], rec["attempts"]), (QUEUED, 0))
             self.assertEqual(store.load_state()["usage"][timeutil.quota_day(NOW)]["video_minutes"], 0)
+
+    def test_agentic_failure_falls_back_to_static(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(agentic_fail_ids={"sampleSB1006"})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertFalse(report.errors)
+            self.assertEqual(store.load_state()["videos"]["sampleSB1006"]["status"], DONE)
+            m = store.read_meeting("sampleSB1006")
+            self.assertEqual(m["processing"], "static")
+            self.assertIn("agentic", m["fallback_reason"])
+            self.assertEqual([md for v, md in client.modes if v == "sampleSB1006"], ["agentic", "static"])
+            self.assertEqual(store.read_meeting("samplePB1007")["processing"], "agentic")
+
+    def test_busy_gemini_stops_without_penalty_or_budget(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(busy_ids={"sampleSC1008"})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertTrue(report.rate_limited)
+            self.assertFalse(report.had_errors)
+            state = store.load_state()
+            rec = state["videos"]["sampleSC1008"]
+            self.assertEqual((rec["status"], rec["attempts"]), (QUEUED, 0))
+            self.assertEqual(state["usage"][timeutil.quota_day(NOW)]["video_minutes"], 0)
+            self.assertTrue(any("will retry next run" in d for d in report.deferred))
+            # Next run, Gemini is healthy again: everything gets done.
+            client.busy_ids.clear()
+            report2 = p.run()
+            self.assertEqual(len(report2.summarized), len(sample_data.SUMMARIES))
+
+    def test_failures_do_not_use_budget(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(fail_ids={"sampleSC1008"})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            used = store.load_state()["usage"][timeutil.quota_day(NOW)]["video_minutes"]
+            self.assertEqual(used, report.minutes_used)
+            expected = sum(round(v["duration_s"] / 60) for v in sample_data.VIDEOS if v["id"] in sample_data.SUMMARIES and v["id"] != "sampleSC1008")
+            self.assertEqual(used, expected)
 
     def test_weeks_only_regenerate_when_meetings_change(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -349,6 +398,33 @@ class GeminiClientTests(unittest.TestCase):
         http.request = fake_request
         client = InteractionsClient("k", sleep=lambda s: None)
         with self.assertRaisesRegex(GeminiError, "bad video"):
+            client.run(model="m", input="x")
+
+    def test_http_503_is_try_later(self):
+        def fake_request(*a, **kw):
+            raise http.HTTPError(503, "The model is currently experiencing high demand")
+
+        http.request = fake_request
+        client = InteractionsClient("k", sleep=lambda s: None)
+        with self.assertRaises(TryLater):
+            client.run(model="m", input="x")
+
+    def test_failed_interaction_without_message_shows_response(self):
+        def fake_request(*a, **kw):
+            return json.dumps({"id": "i", "status": "failed", "steps": [{"type": "thought"}]}).encode()
+
+        http.request = fake_request
+        client = InteractionsClient("k", sleep=lambda s: None)
+        with self.assertRaisesRegex(GeminiError, "no error message; response was .*thought"):
+            client.run(model="m", input="x")
+
+    def test_failed_interaction_unavailable_is_try_later(self):
+        def fake_request(*a, **kw):
+            return json.dumps({"id": "i", "status": "failed", "error": {"code": 503, "status": "UNAVAILABLE"}}).encode()
+
+        http.request = fake_request
+        client = InteractionsClient("k", sleep=lambda s: None)
+        with self.assertRaises(TryLater):
             client.run(model="m", input="x")
 
     def test_timeout_cancels(self):
