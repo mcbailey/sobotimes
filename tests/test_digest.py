@@ -27,7 +27,8 @@ NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eas
 
 
 class FakeClient:
-    def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=()):
+    def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=(), busy_models=()):
+        self.busy_models = set(busy_models)
         self.calls = []
         self.modes = []
         self.fail_ids = set(fail_ids)
@@ -37,6 +38,8 @@ class FakeClient:
 
     def run(self, **kw):
         self.calls.append(kw)
+        if kw["model"] in self.busy_models:
+            raise TryLater("503: The model is currently experiencing high demand")
         inp = kw["input"]
         usage = {"total_input_tokens": 1000, "total_output_tokens": 500, "total_tool_use_tokens": 20000}
         if isinstance(inp, list):  # a video summary request
@@ -131,7 +134,7 @@ class PipelineTests(unittest.TestCase):
             state = store.load_state()
             day = timeutil.quota_day(NOW)
             self.assertLessEqual(state["usage"][day]["video_minutes"], 300)
-            self.assertTrue(any("min left today" in d for d in report.deferred))
+            self.assertTrue(any("of today's budget left" in d for d in report.deferred))
 
             # A second run the same day must not exceed the budget either.
             report2 = p.run()
@@ -196,6 +199,16 @@ class PipelineTests(unittest.TestCase):
             client.busy_ids.clear()
             report2 = p.run()
             self.assertEqual(len(report2.summarized), len(sample_data.SUMMARIES))
+
+    def test_busy_model_falls_back_to_next_model(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(busy_models={"gemini-3.8-flash"})
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertFalse(report.rate_limited)
+            self.assertEqual(len(report.summarized), len(sample_data.SUMMARIES))
+            self.assertEqual(store.read_meeting("sampleSB1006")["model"], "gemini-3.6-flash")
+            self.assertIn("2026-10-05", report.weeks_written)
 
     def test_failures_do_not_use_budget(self):
         with tempfile.TemporaryDirectory() as tmp:

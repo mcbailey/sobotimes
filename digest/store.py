@@ -18,8 +18,13 @@ STATE_VERSION = 1
 def _read_json(path: Path, default: Any = None) -> Any:
     if not path.exists():
         return default
-    with open(path, encoding="utf-8") as fh:
-        return json.load(fh)
+    text = path.read_text(encoding="utf-8")
+    if not text.strip():  # an emptied file means "start fresh"
+        return default
+    try:
+        return json.loads(text)
+    except ValueError as e:
+        raise SystemExit(f"{path} is not valid JSON ({e}). Fix it, or replace its contents with {{}} to start fresh.")
 
 
 def _write_json(path: Path, obj: Any) -> None:

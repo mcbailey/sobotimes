@@ -71,7 +71,7 @@ class InteractionsClient:
                 headers=self._headers(),
                 body=body,
                 timeout=120,
-                retries=4,
+                retries=3,
                 sleep=self.sleep,
             )
         except http.HTTPError as e:

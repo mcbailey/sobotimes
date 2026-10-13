@@ -133,7 +133,9 @@ class Pipeline:
                 continue
             mins = _minutes(v, cfg)
             if mins > remaining:
-                report.deferred.append(f"{v['title']} (needs {mins} min, {max(0, remaining)} min left today)")
+                report.deferred.append(
+                    f"{v['title']} (needs {mins} min; only {max(0, remaining)} min of today's budget left after newer videos)"
+                )
                 continue
             picked.append(v)
             remaining -= mins
@@ -237,6 +239,19 @@ class Pipeline:
                     rec["reason"] = f"longer than {cfg.budget.max_video_minutes} minutes"
 
     # ------------------------------------------------------------------
+    def _run_models(self, models: list[str], call):
+        """Try each model in turn while Gemini says "busy, try later" (503/429)."""
+        last: TryLater | None = None
+        for i, model in enumerate(models):
+            try:
+                return model, call(model)
+            except TryLater as e:
+                last = e
+                if i + 1 < len(models):
+                    self.log(f"  {model} is busy or over its limit ({e}); trying {models[i + 1]}")
+        raise last
+
+    # ------------------------------------------------------------------
     def _summarize(self, v: dict, ledger: dict) -> None:
         cfg = self.cfg
         g = cfg.gemini
@@ -244,11 +259,12 @@ class Pipeline:
         modes = [g.video_processing]
         if g.video_processing == "agentic" and g.fallback_to_static:
             modes.append("static")
+        models = [g.model] + [m for m in g.fallback_models if m != g.model]
         failures = []
         for mode in modes:
             try:
-                result = self.client.run(
-                    model=g.model,
+                used_model, result = self._run_models(models, lambda model: self.client.run(
+                    model=model,
                     input=[
                         video_part(v["id"], mode, g.static_fps),
                         {"type": "text", "text": prompts.meeting_prompt(v, fmt_duration(v.get("duration_s")))},
@@ -258,7 +274,7 @@ class Pipeline:
                     max_output_tokens=g.meeting_max_output_tokens,
                     thinking_level=g.thinking_level or None,
                     timeout_s=g.call_timeout_minutes * 60,
-                )
+                ))
                 _add_usage(ledger, result.usage)
                 raw = result.json()
                 break
@@ -297,7 +313,7 @@ class Pipeline:
                     "duration_s": v.get("duration_s"),
                 },
                 "summary": summary,
-                "model": g.model,
+                "model": used_model,
                 "processing": mode,
                 "fallback_reason": failures[0] if failures else None,
                 "prompt_version": prompts.PROMPT_VERSION,
@@ -341,15 +357,18 @@ class Pipeline:
             label = week_label(date.fromisoformat(week))
             self.log(f"Writing synopsis for week of {label} ({len(meetings)} meetings)")
             try:
-                result = self.client.run(
-                    model=cfg.gemini.synthesis_model,
+                models = [cfg.gemini.synthesis_model] + [
+                    m for m in cfg.gemini.fallback_models if m != cfg.gemini.synthesis_model
+                ]
+                _, result = self._run_models(models, lambda model: self.client.run(
+                    model=model,
                     input=prompts.week_prompt(label, meetings),
                     system_instruction=prompts.week_system(cfg.channel.town),
                     schema=prompts.WEEK_SCHEMA,
                     max_output_tokens=cfg.gemini.week_max_output_tokens,
                     thinking_level=cfg.gemini.thinking_level or None,
                     timeout_s=cfg.gemini.call_timeout_minutes * 60,
-                )
+                ))
                 ledger = state["usage"].setdefault(quota_day(self.now()), {"video_minutes": 0, "calls": 0})
                 _add_usage(ledger, result.usage)
                 week_obj = prompts.clean_week(result.json(), meetings)

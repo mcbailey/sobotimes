@@ -48,6 +48,9 @@ max_week_summaries_per_run = 8
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
 synthesis_model = "gemini-3.8-flash"  # writes each week's synopsis
+# If the model above answers "busy, try later" (503) or is over its free-tier
+# limit (429), try these next, in order. All are free on the free tier.
+fallback_models = ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
 # "agentic" lets the model navigate long videos and uses far fewer tokens.
 video_processing = "agentic"
 # If agentic processing fails on a video, retry it once right away in static
