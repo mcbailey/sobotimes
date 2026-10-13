@@ -1,0 +1,127 @@
+{
+  "video": {
+    "id": "q-rYs3c0kn4",
+    "title": "Cultural Arts Council 10/8/26",
+    "published_at": "2026-10-09T16:20:38Z",
+    "duration_s": 2881
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Cultural Arts Council",
+    "meeting_date": "2026-10-08",
+    "headline": "The Cultural Arts Council elected new officers, reviewed grant reimbursement records, and discussed onboarding members to the state grants system.",
+    "summary": "The Cultural Arts Council met on October 8, 2026, to elect new leadership, review the status of FY25 and FY26 grant reimbursements and pending bills, and address technical difficulties members faced accessing the grants management system. The council also welcomed new members and discussed strategies for future outreach.",
+    "topics": [
+      {
+        "title": "Election of Officers",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The council held elections for chairperson, treasurer, and secretary.",
+        "key_details": [
+          "Karen Tipton was elected as chairperson.",
+          "Frank Tipton was elected as treasurer.",
+          "Curcy Niazdan was elected as secretary."
+        ],
+        "outcome": "Officers were unanimously elected by roll call vote.",
+        "why_it_matters": null,
+        "start_seconds": 121,
+        "end_seconds": 696
+      },
+      {
+        "title": "Meeting Schedule and Format",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The council discussed scheduling future meetings and the balance between virtual, hybrid, and in-person attendance.",
+        "key_details": [
+          "Discussion on meeting minutes approval workflows.",
+          "Reference to posting meeting minutes on the town website."
+        ],
+        "outcome": "Tabled for further review.",
+        "why_it_matters": null,
+        "start_seconds": 696,
+        "end_seconds": 715
+      },
+      {
+        "title": "Signature Authorization and Grant Reimbursements",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The council reviewed signature authorization forms and pending grant reimbursement records for FY25 and FY26 grants, discussing troubleshooting steps for members having access issues to the state grants management system.",
+        "key_details": [
+          "Signature authorization form designated primary and alternate signers for town bills and checks.",
+          "Pending reimbursement bills discussed for Assabet Valley Master Singers, Algonquin Regional High School, High School Drama Guild, and individual grant recipients.",
+          "Discussion of grants management system login and access difficulties experienced by council members."
+        ],
+        "outcome": "Assigned signature roles and discussed next steps for verifying and submitting outstanding grant documentation.",
+        "why_it_matters": "Ensures proper financial oversight and timely disbursement of local cultural council grant reimbursements to recipients.",
+        "start_seconds": 715,
+        "end_seconds": null
+      },
+      {
+        "title": "New Member Introductions and Closing",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "New and prospective members introduced themselves and discussed their artistic backgrounds and reasons for joining the council.",
+        "key_details": [
+          "Members shared their backgrounds in education, theater, and visual arts.",
+          "Brief discussion on future meeting planning."
+        ],
+        "outcome": "Meeting adjourned following roll call vote.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Nominate Karen Tipton as chairperson",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 301
+      },
+      {
+        "motion": "Nominate Frank Tipton as treasurer",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 435
+      },
+      {
+        "motion": "Nominate Curcy Niazdan as secretary",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 617
+      },
+      {
+        "motion": "Adjourn meeting",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChcxWWpPYXVLWEM3ZV8zOUlQeElMb3VRMBIXMVlqT2F1S1hDN2VfMzlJUHhJTG91UTA\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:41:49Z",
+  "usage": {
+    "total_tokens": 138809,
+    "total_input_tokens": 107048,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 106582
+      },
+      {
+        "modality": "text",
+        "tokens": 466
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1044,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 30717
+  }
+}

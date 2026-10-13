@@ -1,0 +1,91 @@
+{
+  "video": {
+    "id": "pJYL2Q6xFRg",
+    "title": "Master Plan Implementation Committee 10/8/26",
+    "published_at": "2026-10-09T16:13:39Z",
+    "duration_s": 1834
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Master Plan Implementation Committee",
+    "meeting_date": "2026-10-08",
+    "headline": "The Master Plan Implementation Committee debriefed on their September Planning Board presentation and planned next steps for Master Plan 2030.",
+    "summary": "The Master Plan Implementation Committee met on October 8, 2026, to discuss their recent appearance before the Planning Board and strategize for future presentations regarding Master Plan 2030. Members reviewed background data, vendor pricing models, and how to better align their implementation tracking charge with the Planning Board. The committee also approved minutes from their September 10 meeting.",
+    "topics": [
+      {
+        "title": "Planning Board meeting debrief & Master Plan 2030 strategy",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The committee discussed their high-level presentation of Master Plan 2030 to the Planning Board on September 28 and prepared for follow-up presentations and materials to be shared at the next Planning Board meeting.",
+        "key_details": [
+          "The committee presented an overview of Master Plan 2030 to the Planning Board on September 28.",
+          "The next Planning Board meeting where implementation is scheduled to be discussed is October 19.",
+          "Discussions covered vendor consultant pricing ranges between $40,000 and $70,000 and the use of AI tools to compile meeting notes and town data.",
+          "Committee members debated the scope of their charge versus the Planning Board's role in tracking long-term municipal implementation."
+        ],
+        "outcome": "Members agreed to refine presentation materials and coordinate with the Planning Board and town leadership ahead of the October 19 meeting.",
+        "why_it_matters": "Master Plan 2030 dictates Southborough's long-term growth, housing, infrastructure, and zoning policies, impacting all residents.",
+        "start_seconds": 49,
+        "end_seconds": 798
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved minutes from the previous meeting after minor corrections.",
+        "key_details": [
+          "Minutes reviewed from the September 10, 2026 meeting.",
+          "A correction was made to the spelling of Superintendent Greg Martineau's name.",
+          "Approved unanimously by roll call vote (3-0)."
+        ],
+        "outcome": "Minutes approved 3-0.",
+        "why_it_matters": null,
+        "start_seconds": 798,
+        "end_seconds": 850
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve minutes of September 10, 2026 as amended",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 837
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Planning Board meeting",
+        "when": "October 19, 2026"
+      },
+      {
+        "what": "Pumpkin Stroll",
+        "when": "October 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChdZWXJPYXEtd012MjExTWtQelpHQ2tRaxIXWVlyT2FxLXdNdjIxMU1rUHpaR0NrUWs\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:47:00Z",
+  "usage": {
+    "total_tokens": 72434,
+    "total_input_tokens": 70518,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 70051
+      },
+      {
+        "modality": "text",
+        "tokens": 467
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 798,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1118
+  }
+}

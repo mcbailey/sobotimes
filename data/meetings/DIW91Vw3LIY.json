@@ -1,0 +1,86 @@
+{
+  "video": {
+    "id": "DIW91Vw3LIY",
+    "title": "Trails Committee 10/8/26",
+    "published_at": "2026-10-09T16:01:52Z",
+    "duration_s": 3236
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-10-08",
+    "headline": "The Trails Committee reviewed presentation materials and FAQ documents for Town Meeting regarding CPA funding for the Peninsula Trail footbridge.",
+    "summary": "The Trails Committee met on October 8, 2020, to prepare for Town Meeting. The primary focus was Warrant Article 4, which requests Community Preservation Act funding to construct a footbridge over Route 30, completing a connection between the Peninsula Trail and the Boroughs Loop Trail. Members discussed project cost breakdowns, safety issues regarding pedestrians on Route 30, and the status of state MassTrails grants.",
+    "topics": [
+      {
+        "title": "Peninsula Trail footbridge and Town Meeting preparation",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee reviewed and finalized presentation slides and FAQ handouts for Warrant Article 4 at Town Meeting. Discussion focused on how Community Preservation Act funds serve as the local match for a potential MassTrails grant, the project's safety benefits in eliminating a dangerous gap on Route 30, and cost details.",
+        "key_details": [
+          "Project connects the Peninsula Trail to the 33-mile Boroughs Loop Trail via a footbridge over Route 30.",
+          "Maximum project budget is $428,550, including contingency and engineering costs.",
+          "Core project cost (bridge construction and professional oversight) is $324,050.",
+          "Project relies on a potential $202,750 MassTrails grant requiring CPA matching funds.",
+          "Without CPA funding, the project and grant cannot proceed."
+        ],
+        "outcome": "Committee members finalized their presentation strategy and handout materials for distribution at Town Meeting and Heritage Day.",
+        "why_it_matters": "Residents will vote at Town Meeting on Community Preservation Act funds to build a critical pedestrian footbridge, improving safety and completing a major regional trail connection.",
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and adjournment",
+        "category": "Other",
+        "importance": "low",
+        "summary": "The committee concluded its discussion and voted to adjourn the meeting.",
+        "key_details": [
+          "Meeting adjourned at 8:59 PM."
+        ],
+        "outcome": "Meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Motion to adjourn at 8:59 PM",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Town Meeting warrant article discussion and vote",
+        "when": "Upcoming Town Meeting"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChdISXZPYXNfUExfTzJfUFVQd3QzeDZBVRIXSEl2T2FzX1BMX08yX1BVUHd0M3g2QVU\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:50:41Z",
+  "usage": {
+    "total_tokens": 125577,
+    "total_input_tokens": 124063,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 465
+      },
+      {
+        "modality": "video",
+        "tokens": 123598
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 727,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 787
+  }
+}

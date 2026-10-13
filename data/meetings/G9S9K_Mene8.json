@@ -1,0 +1,158 @@
+{
+  "video": {
+    "id": "G9S9K_Mene8",
+    "title": "Community Preservation Committee 10/8/26",
+    "published_at": "2026-10-09T16:14:51Z",
+    "duration_s": 7722
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-10-08",
+    "headline": "The Community Preservation Committee discussed warrant articles and project updates, including funding changes for the Peninsula Trail and Southborough Golf Club irrigation.",
+    "summary": "The Community Preservation Committee reviewed warrant articles for the Fall Town Meeting, focusing on project updates, budget changes, and timelines for initiatives like the Peninsula Trail and the Southborough Golf Club irrigation project. Committee members debated whether to support amendments or pull warrant articles due to concerns about costs and lack of town support, ultimately voting to move forward with certain projects.",
+    "topics": [
+      {
+        "title": "Peninsula Trail project update and warrant article review",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee discussed the Peninsula Trail warrant article for the upcoming Fall Town Meeting, reviewing funding history, grant statuses, and budget adjustments to account for construction cost escalation and bridge estimates.",
+        "key_details": [
+          "Project: Peninsula Trail - Completing the Connection",
+          "Warrant Article: Article 4, Fall Town Meeting (October 17, 2026)",
+          "Additional CPA funds requested: $217,318",
+          "Total maximum project budget: $428,550",
+          "Contingency included: $25,000"
+        ],
+        "outcome": "Voted to support moving the article forward to Town Meeting.",
+        "why_it_matters": "Residents' tax dollars and CPA funds are being allocated for recreational trails, impacting open space development and town budgets.",
+        "start_seconds": 0,
+        "end_seconds": 1422
+      },
+      {
+        "title": "Southborough Golf Club irrigation system replacement funding",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee reviewed the CPA funding application for the Southborough Golf Club irrigation system replacement project, noting an increased project cost to $1,087,296 due to bidding escalation and a new pump station.",
+        "key_details": [
+          "Total Project Cost: $1,087,296",
+          "Previously approved CPA funds (2024): $553,750",
+          "Golf Revolving Fund contribution: $100,000",
+          "Additional CPA funds requested for 2026: $433,546",
+          "Project qualifies under recreation and historic preservation goals."
+        ],
+        "outcome": "Reviewed application and FAQs; further discussion and formatting finalized for Town Meeting.",
+        "why_it_matters": "Involves substantial municipal spending and CPA funds for town-owned recreational assets.",
+        "start_seconds": 6414,
+        "end_seconds": 6921
+      },
+      {
+        "title": "Technical review of potential warrant articles for 2027 Annual Town Meeting",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee performed a preliminary technical review of potential warrant articles for the 2027 Annual Town Meeting, including affordable housing trust projects, open projects, and tennis court restoration.",
+        "key_details": [
+          "Reviewed Affordable Housing Trust application and 2025 affordability surveys.",
+          "Discussed Golf Irrigation project and tennis court restoration sign requirements.",
+          "Emphasized the importance of updating application data and project descriptions."
+        ],
+        "outcome": "Notes and feedback provided to applicants for follow-up.",
+        "why_it_matters": null,
+        "start_seconds": 6921,
+        "end_seconds": null
+      },
+      {
+        "title": "CPC Consultant Contract and Job Description review",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed and discussed the CPC consultant contract, Exhibit A, and the job description/scope of services for FY26/FY27, making minor edits to invoicing and meeting preparation duties.",
+        "key_details": [
+          "Consultant: Freddy Gillespie",
+          "Reviewed Exhibit A: CPC Consultant Job Description/Scope of Services for FY26.",
+          "Changed 'pay invoices' to 'approve invoices for payment'."
+        ],
+        "outcome": "Approved consultant job description and contract language with amendments (unanimous vote).",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      },
+      {
+        "title": "Approval of minutes and committee organization",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved past meeting minutes and discussed leadership and committee organization, including nominating a vice chair.",
+        "key_details": [
+          "Approved minutes from September 8, 2026, September 14, 2026, and August 25, 2026.",
+          "Nominated and voted on Kristen Lavallée as vice chair of the committee."
+        ],
+        "outcome": "Minutes approved; Kristen Lavallée approved as vice chair.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve CPC Consultant Job Description and Scope of Services for FY26 with amendments to invoicing language",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      },
+      {
+        "motion": "Approve minutes from September 8, 2026",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      },
+      {
+        "motion": "Approve minutes from August 25, 2026 as amended",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      },
+      {
+        "motion": "Approve minutes from September 14, 2026 as amended",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      },
+      {
+        "motion": "Nominate Kristen Lavallée as Vice Chair of the Community Preservation Committee",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": null
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Fall Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChZrNG5PYXI2aElicm1qTWNQOU8yS2NBEhZrNG5PYXI2aElicm1qTWNQOU8yS2NB\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"}, \"s",
+  "prompt_version": "2026-10-13",
+  "processed_at": "2026-10-13T19:45:15Z",
+  "usage": {
+    "total_tokens": 297064,
+    "total_input_tokens": 295424,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 294956
+      },
+      {
+        "modality": "text",
+        "tokens": 468
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1640,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 0
+  }
+}
