@@ -104,12 +104,15 @@
       "published_at": "2026-10-08T12:29:54Z",
       "duration_s": 2316,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-07",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-13T20:12:31Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "BwulXCVw_6g": {
       "id": "BwulXCVw_6g",
@@ -216,12 +219,15 @@
       "published_at": "2026-09-24T20:01:26Z",
       "duration_s": 698,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-24",
-      "week": "2026-09-21"
+      "week": "2026-09-21",
+      "processed_at": "2026-10-13T20:12:58Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "q6tCMfNCb5g": {
       "id": "q6tCMfNCb5g",
@@ -380,18 +386,19 @@
   },
   "usage": {
     "2026-10-13": {
-      "video_minutes": 363,
-      "calls": 7,
-      "input_tokens": 834265,
-      "output_tokens": 8350,
-      "thought_tokens": 37433,
+      "video_minutes": 414,
+      "calls": 11,
+      "input_tokens": 959397,
+      "output_tokens": 11442,
+      "thought_tokens": 42895,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-13T19:38:37Z",
-    "discovered": 26,
-    "summarized": 6,
+    "at": "2026-10-13T20:11:53Z",
+    "discovered": 25,
+    "summarized": 2,
+    "refreshed": 0,
     "errors": 0
   }
 }

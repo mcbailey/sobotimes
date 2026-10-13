@@ -1,0 +1,137 @@
+{
+  "video": {
+    "id": "Ze-vdyanglw",
+    "title": "Select Board Meeting 9/24/26",
+    "published_at": "2026-09-24T20:01:26Z",
+    "duration_s": 698
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-09-24",
+    "headline": "The Select Board reopened and reclosed the October 17 special town meeting warrant to vote on revised articles and discussed financial policies.",
+    "summary": "The Select Board held a special meeting on September 24, 2026, to review and vote on revised warrant articles for the upcoming special town meeting. Members voted to support revised articles two and three, while a motion to support article four failed. The board also discussed financial policy non-disclosure agreement language and approved two cultural arts council appointments.",
+    "topics": [
+      {
+        "title": "Special town meeting warrant articles",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The board reopened the special town meeting warrant for October 17, 2026, to consider revised text for articles two, three, and four. After discussion, members voted unanimously to support revised article two on two-family housing and revised article three on an irrigation project. A motion to support revised article four on trail cleanup failed on a one to four vote. The warrant was then reclosed.",
+        "key_details": [
+          "Warrant reopened for the October 17, 2026 special town meeting.",
+          "Article 2 (two-family housing) supported by a 5-0 vote.",
+          "Article 3 (CPC irrigation project) supported by a 5-0 vote.",
+          "Article 4 (CPC trail project) motion to support failed 1-4.",
+          "Warrant reclosed by a 5-0 vote."
+        ],
+        "outcome": "Voted to support articles 2 and 3, not article 4, and reclosed the warrant.",
+        "why_it_matters": "These votes establish the Select Board recommendations on land use and community preservation funding articles presented to residents at Town Meeting.",
+        "start_seconds": 46,
+        "end_seconds": null
+      },
+      {
+        "title": "Financial policies review and NDA language",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board reviewed proposed updates to financial policies regarding non-disclosure agreements for individuals involved in procurement processes. Members discussed complex RFP language and agreed to postpone final review to the October 6 meeting.",
+        "key_details": [
+          "Reviewed policy revisions prepared with input from town counsel Liz Leyden.",
+          "Discussed questions regarding RFP price proposal opening procedures.",
+          "Item scheduled for further discussion at the October 6 meeting."
+        ],
+        "outcome": "Continued to October 6, 2026 meeting.",
+        "why_it_matters": null,
+        "start_seconds": 342,
+        "end_seconds": null
+      },
+      {
+        "title": "Southborough Cultural Arts Council appointments",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board considered and approved two returning members to the Southborough Cultural Arts Council to allow the council to receive and distribute state grant funds.",
+        "key_details": [
+          "Jane Gates appointed for a term of September 24, 2024 to September 24, 2027.",
+          "Jane List-Losnisski appointed for a term of September 24, 2024 to September 24, 2028.",
+          "Approved by a 5-0 roll call vote."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 580,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Reopen the warrant for the special town meeting on October 17, 2026",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 122
+      },
+      {
+        "motion": "Support Article 2 as revised",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 165
+      },
+      {
+        "motion": "Support Article 3 as revised",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 238
+      },
+      {
+        "motion": "Support Article 4 as revised",
+        "result": "failed",
+        "tally": "1-4",
+        "start_seconds": 287
+      },
+      {
+        "motion": "Reclose the warrant for the special town meeting on October 17, 2026",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 327
+      },
+      {
+        "motion": "Approve appointments of Jane List-Losnisski and Jane Gates to the Southborough Cultural Arts Council",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 639
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting covering financial policies and Breakneck Hill debt reduction",
+        "when": "October 6, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-13T20:12:58Z",
+  "usage": {
+    "total_tokens": 30671,
+    "total_input_tokens": 27377,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 26686
+      },
+      {
+        "modality": "text",
+        "tokens": 691
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1310,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1984
+  }
+}

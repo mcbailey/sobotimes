@@ -1,0 +1,48 @@
+{
+  "synopsis": "During the week of September 21 to 27, 2026, the Select Board held a special meeting to finalize articles for the upcoming special town meeting. The board voted to support revised warrant articles regarding two-family housing and an irrigation project, while declining to support a trail cleanup article. Members also approved appointments to the Southborough Cultural Arts Council and continued a discussion on financial policies and non-disclosure agreements to October.",
+  "highlights": [
+    {
+      "title": "Special Town Meeting Warrant Revised",
+      "why": "The Select Board reopened the warrant for the October 17 special town meeting to vote on revised text, unanimously supporting articles on two-family housing and an irrigation project, but declining to support an article on trail cleanup.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "Ze-vdyanglw",
+      "start_seconds": 46
+    },
+    {
+      "title": "Financial Policies Review Continued",
+      "why": "The board reviewed proposed updates to financial policies regarding non-disclosure agreements for procurement processes and agreed to postpone final review to the October 6 meeting.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "Ze-vdyanglw",
+      "start_seconds": 342
+    },
+    {
+      "title": "Cultural Arts Council Appointments Approved",
+      "why": "The board approved two returning members to the Southborough Cultural Arts Council, which enables the group to receive and distribute state grant funds.",
+      "body": "Select Board",
+      "importance": "low",
+      "video_id": "Ze-vdyanglw",
+      "start_seconds": 580
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board meeting covering financial policies and Breakneck Hill debt reduction",
+      "when": "October 6, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Special Town Meeting",
+      "when": "October 17, 2026",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-09-21",
+  "fingerprint": "f62dd2c03ba19c37",
+  "video_ids": [
+    "Ze-vdyanglw"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-13T20:13:21Z"
+}

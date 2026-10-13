@@ -1,0 +1,75 @@
+{
+  "video": {
+    "id": "2dGufO1TwE4",
+    "title": "Zoning Board of Appeals Meeting 10/7/26",
+    "published_at": "2026-10-08T12:29:54Z",
+    "duration_s": 2316
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-10-07",
+    "headline": "The Zoning Board of Appeals discussed and voted to support the town meeting warrant article regarding two-family dwelling provisions as drafted.",
+    "summary": "The Southborough Zoning Board of Appeals held a meeting on October 7, 2026, to discuss proposed language for a town meeting warrant article concerning two-family dwellings. Board members and legal counsel debated whether removing certain minimum lot requirement wording could create ambiguity or unintended interpretations in business and residential districts. After extensive discussion, the board ultimately voted to move forward with the warrant article as currently drafted.",
+    "topics": [
+      {
+        "title": "Discussion and vote on two-family dwelling warrant article",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed proposed warrant language regarding two-family dwellings and whether to remove phrases referencing minimum lot requirements across district subsections. Members weighed legal opinions on whether the text could inadvertently permit two-family homes on undersized single-family lots in business village districts. Ultimately, the board decided against making last-minute edits and voted to support the article as written.",
+        "key_details": [
+          "Discussed removing 'minimum lot requirement' wording from district subsections.",
+          "Reviewed opinions from legal counsel regarding potential loopholes.",
+          "Voted to present the warrant article as drafted to town meeting."
+        ],
+        "outcome": "Voted to approve and move forward with the warrant article as drafted.",
+        "why_it_matters": "Changes to zoning bylaws regarding multi-family housing options affect residential development standards and land use rules throughout town.",
+        "start_seconds": 0,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To move forward with the warrant article as drafted",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2050
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Town Meeting",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Planning Board meeting",
+        "when": "October 7 or upcoming session"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-13T20:12:31Z",
+  "usage": {
+    "total_tokens": 90289,
+    "total_input_tokens": 89144,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 88452
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 559,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 586
+  }
+}

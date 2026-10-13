@@ -1,45 +1,37 @@
 {
-  "synopsis": "This week's public meetings focused heavily on preparations for the upcoming Fall Special Town Meeting, with multiple boards reviewing warrant articles for open space and recreation projects. The Community Preservation Committee and Trails Committee advanced funding requests for the Peninsula Trail footbridge and the Southborough Golf Club irrigation system. Meanwhile, local boards and commissions previewed early FY28 operating budgets, reviewed conservation and stormwater permits, and discussed Master Plan 2030 implementation.",
+  "synopsis": "Several town boards and committees prepared for the upcoming Fall Town Meeting by reviewing warrant articles, project costs, and zoning proposals. The Community Preservation Committee and Trails Committee advanced funding discussions for the Peninsula Trail footbridge and the Southborough Golf Club irrigation system. Meanwhile, the Zoning Board of Appeals finalized its support for a two-family dwelling warrant article, and conservation and library panels addressed local permits and preliminary budget previews.",
   "highlights": [
     {
-      "title": "Peninsula Trail Footbridge Funding Prepared for Town Meeting",
-      "why": "Both the Community Preservation Committee and Trails Committee advanced Warrant Article 4 for the Fall Special Town Meeting, seeking $217,318 in Community Preservation Act funds to construct a pedestrian footbridge over Route 30 and secure a MassTrails grant.",
+      "title": "Peninsula Trail and Golf Club Funding Requests Advanced",
+      "why": "The Community Preservation Committee reviewed warrant articles for Fall Town Meeting, including an additional $217,318 request for the Peninsula Trail footbridge and $433,546 for the Southborough Golf Club irrigation system replacement.",
       "body": "Community Preservation Committee",
       "importance": "high",
       "video_id": "G9S9K_Mene8",
       "start_seconds": 0
     },
     {
-      "title": "Southborough Golf Club Irrigation System Request Reviewed",
-      "why": "The Community Preservation Committee reviewed an increased funding request of $433,546 in CPA funds—part of a total $1,087,296 project cost that includes bidding escalation and a new pump station—to replace the irrigation system at the Southborough Golf Club.",
-      "body": "Community Preservation Committee",
+      "title": "Two-Family Dwelling Warrant Article Supported",
+      "why": "The Zoning Board of Appeals voted unanimously to support the town meeting warrant article regarding two-family dwelling provisions as drafted, opting against last-minute changes to minimum lot requirements.",
+      "body": "Zoning Board of Appeals",
       "importance": "high",
-      "video_id": "G9S9K_Mene8",
-      "start_seconds": 6414
+      "video_id": "2dGufO1TwE4",
+      "start_seconds": 0
     },
     {
-      "title": "Library Begins FY28 Operating Budget Preview",
-      "why": "The Library Board of Trustees examined a preliminary FY28 operating budget, discussing staff longevity payouts, material expenditure requirements, and CWMARS network certification standards.",
-      "body": "Library Board of Trustees",
-      "importance": "high",
-      "video_id": "Dlomobo7FQ4",
-      "start_seconds": 1418
-    },
-    {
-      "title": "2013 Conservation Enforcement Order Lifted",
-      "why": "The Conservation Commission voted to lift a 2013 enforcement order regarding unpermitted masonry work at 6 Limbrook Road after confirming the work is stable and no active erosion exists.",
+      "title": "Conservation Commission Lifts 2013 Enforcement Order",
+      "why": "The commission voted to lift an old enforcement order for 6 Limbrook Road after confirming that unpermitted masonry work was resolved and no active erosion exists, while continuing various project hearings.",
       "body": "Conservation Commission",
       "importance": "medium",
       "video_id": "nrTrCqF8IJA",
       "start_seconds": 1237
     },
     {
-      "title": "Master Plan Implementation Strategy Reviewed",
-      "why": "The committee debriefed on its recent presentation of Master Plan 2030 to the Planning Board and prepared for upcoming follow-up discussions regarding long-term municipal implementation tracking.",
-      "body": "Master Plan Implementation Committee",
+      "title": "Library Board Reviews FY28 Budget Preview",
+      "why": "The Library Board of Trustees examined preliminary FY28 budget comparisons, staff longevity payouts, and CWMARS network rules regarding state certification requirements.",
+      "body": "Library Board of Trustees",
       "importance": "medium",
-      "video_id": "pJYL2Q6xFRg",
-      "start_seconds": 49
+      "video_id": "Dlomobo7FQ4",
+      "start_seconds": 1418
     }
   ],
   "looking_ahead": [
@@ -49,19 +41,20 @@
       "body": "Town Meeting"
     },
     {
-      "what": "Planning Board meeting (Master Plan 2030 implementation discussion)",
+      "what": "Planning Board meeting regarding Master Plan implementation",
       "when": "October 19, 2026",
       "body": "Planning Board"
     },
     {
-      "what": "Conservation Commission continued public hearings (1 Overlook Drive, 0 Marlborough Junction, 0 Southville Road)",
+      "what": "Continued public hearings for Overlook Drive, Marlborough Junction, and Southville Road projects",
       "when": "Upcoming meeting",
       "body": "Conservation Commission"
     }
   ],
   "week": "2026-10-05",
-  "fingerprint": "46c07d79bdb4fc2d",
+  "fingerprint": "d080ac3b9890f1eb",
   "video_ids": [
+    "2dGufO1TwE4",
     "DIW91Vw3LIY",
     "Dlomobo7FQ4",
     "G9S9K_Mene8",
@@ -70,5 +63,5 @@
     "q-rYs3c0kn4"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-13T19:54:25Z"
+  "generated_at": "2026-10-13T20:13:09Z"
 }
