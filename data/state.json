@@ -442,6 +442,36 @@
       "processed_at": "2026-10-14T12:32:32Z",
       "prompt_version": "2026-10-13b",
       "last_error": null
+    },
+    "BTBCj00PeQw": {
+      "id": "BTBCj00PeQw",
+      "title": "Board of Health 10/13/26",
+      "description": "",
+      "published_at": "2026-10-14T14:28:19Z",
+      "duration_s": 1280,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-14T15:58:35Z",
+      "meeting_date": "2026-10-13",
+      "week": "2026-10-12"
+    },
+    "XB-8MuC8GBo": {
+      "id": "XB-8MuC8GBo",
+      "title": "Golf Committee 10/13/26",
+      "description": "",
+      "published_at": "2026-10-14T14:22:31Z",
+      "duration_s": 3154,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-14T15:58:35Z",
+      "meeting_date": "2026-10-13",
+      "week": "2026-10-12"
     }
   },
   "usage": {
@@ -463,8 +493,8 @@
     }
   },
   "last_run": {
-    "at": "2026-10-14T12:51:00Z",
-    "discovered": 25,
+    "at": "2026-10-14T15:58:34Z",
+    "discovered": 27,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
