@@ -29,9 +29,9 @@ exclude_patterns = [
 
 [budget]
 # The Gemini free tier allows 8 hours of YouTube video per day. Stay under it.
-daily_video_minutes = 420
+daily_video_minutes = 2000
 # Hard cap on videos summarized in one run.
-max_videos_per_run = 6
+max_videos_per_run = 20
 # Videos longer than this are flagged instead of summarized.
 max_video_minutes = 300
 # Assumed length when the duration is unknown (RSS-only discovery).
@@ -39,7 +39,7 @@ assumed_video_minutes = 150
 # A video that fails this many times is marked failed and left alone.
 max_attempts = 2
 # Stop starting new videos after this many minutes in a single run.
-run_time_limit_minutes = 60
+run_time_limit_minutes = 120
 # Weekly synopses are cheap text-only calls, but cap them anyway.
 max_week_summaries_per_run = 8
 
