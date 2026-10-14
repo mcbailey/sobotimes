@@ -1,0 +1,128 @@
+{
+  "video": {
+    "id": "InzL5O9vgMQ",
+    "title": "Trails Committee 10/1/26",
+    "published_at": "2026-10-02T13:46:05Z",
+    "duration_s": 5623
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-10-01",
+    "headline": "The Trails Committee debated floor amendment and outreach strategies to salvage CPA funding for the Peninsula Trail pedestrian bridge at Town Meeting.",
+    "summary": "The Southborough Trails Committee met to prepare for the October 17 Special Town Meeting, focusing on Warrant Article 4 for the Peninsula Trail Phase 2 pedestrian bridge. With the Select Board and Advisory Committee both voting not to recommend the article, members debated whether to offer a floor amendment to reduce the request to $25,000 in new CPA funds while repurposing $211,000 in previously allocated CPA funds and pursuing a $100,000 MassTrails grant. The committee also finalized preparations for an upcoming guided hike, trail yoga sessions, and public outreach at Heritage Day.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved the meeting minutes from September 17, 2026.",
+        "key_details": [
+          "Minutes from September 17, 2026 were presented by the secretary.",
+          "The committee approved the minutes without edits."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 147,
+        "end_seconds": null
+      },
+      {
+        "title": "Fall trail events and youth hunting season safety",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair reviewed upcoming community programming on town trails, including yoga sessions and a guided hike. Safety protocols were discussed due to the concurrent opening of youth hunting season, and the committee coordinated a November food drive.",
+        "key_details": [
+          "Yoga on the Trails and a guided hike scheduled for Saturday, October 3, 2026.",
+          "Hikers are urged to wear blaze orange due to youth hunting season opening; safety vests will be borrowed from the Recreation Department.",
+          "Parking for the October 3 hike was secured at the Southborough Historical Society.",
+          "A trail run/walk and Southborough Food Pantry food drive are planned for November 7, 2026."
+        ],
+        "outcome": "Events confirmed and logistics coordinated.",
+        "why_it_matters": null,
+        "start_seconds": 323,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail Phase 2 Town Meeting funding strategy",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee held an extensive strategic debate on how to present Warrant Article 4 at the October 17 Special Town Meeting after receiving negative recommendation votes from the Select Board (1-4) and Advisory Committee (0-7). The chair proposed preparing a fallback floor amendment that would reallocate $211,000 in previously granted CPA funds exclusively to the pedestrian bridge, add only $25,000 in new CPA funds, and seek a $100,000 MassTrails grant to complete the approximately $330,000 bridge. Members debated whether floating alternative funding ideas publicly would weaken the main proposal, while also drafting an informational FAQ document addressing cost, connectivity, and environmental value.",
+        "key_details": [
+          "The committee was granted a 5-minute presentation slot at Town Meeting for Article 4.",
+          "A proposed fallback amendment would repurpose $211,000 in existing CPA funds and request $25,000 in new CPA funds rather than the full $217,000 previously sought.",
+          "The pedestrian bridge would eliminate a hazardous pedestrian walk along Route 30 lacking shoulders and guardrails.",
+          "The bridge connects to regional systems including the 33-mile Boroughs Loop Trail, 230-mile Bay Circuit Trail, and the Aqueduct Trail.",
+          "Members discussed countering opposition arguments that CPA funds should be prioritized for athletic fields instead of trails."
+        ],
+        "outcome": "The committee agreed to refine the voter FAQ sheet, add trail maps, and consult further with the Community Preservation Committee regarding floor amendment logistics.",
+        "why_it_matters": "The outcome of Article 4 at Town Meeting will decide whether Southborough completes the Peninsula Trail pedestrian bridge or forfeits previously designated CPA funding for the project.",
+        "start_seconds": 1095,
+        "end_seconds": null
+      },
+      {
+        "title": "Public outreach and Heritage Day planning",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed ways to publicize Town Meeting and the trail article to residents before voting day. Plans include setting up an informational table outside Town Meeting, borrowing promotional A-frame signs, and hosting a committee booth at Heritage Day.",
+        "key_details": [
+          "Committee plans to borrow six A-frame signs from the Southborough Rotary Club to advertise Town Meeting and trail information.",
+          "Signs will be placed at high-visibility locations such as Town Hall, the library, and key roadway intersections.",
+          "The committee will host an informational booth at Heritage Day on Monday, October 12, 2026, from 9:00 AM to roughly 2:00 PM.",
+          "Members will staff an informational table outside the Town Meeting venue one hour prior to the meeting."
+        ],
+        "outcome": "Members will coordinate sign printing and arrange booth staffing for Heritage Day.",
+        "why_it_matters": null,
+        "start_seconds": 5130,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Guided trail hike and Yoga on the Trails",
+        "when": "October 3, 2026 at 10:00 AM"
+      },
+      {
+        "what": "Trails Committee regular meeting",
+        "when": "October 8, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Heritage Day informational booth",
+        "when": "October 12, 2026"
+      },
+      {
+        "what": "Special Town Meeting (Peninsula Trail Article 4)",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Trail run/walk and food drive event",
+        "when": "November 7, 2026"
+      }
+    ],
+    "caveats": "At approximately 1:14:50, committee member Isabelle Murphy disconnected due to a computer failure and was absent for the remainder of the meeting."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T10:43:09Z",
+  "usage": {
+    "total_tokens": 218989,
+    "total_input_tokens": 215516,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 214824
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1553,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1920
+  }
+}

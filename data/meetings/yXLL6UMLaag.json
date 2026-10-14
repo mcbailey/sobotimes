@@ -1,0 +1,95 @@
+{
+  "video": {
+    "id": "yXLL6UMLaag",
+    "title": "Golf Committee 10/6/26",
+    "published_at": "2026-10-07T14:50:34Z",
+    "duration_s": 3283
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Golf Committee",
+    "meeting_date": "2026-10-06",
+    "headline": "The Southborough Golf Committee reviewed promotional materials and funding figures for the upcoming Town Meeting vote on the golf course irrigation project.",
+    "summary": "The Golf Committee met on October 6, 2026, to finalize outreach strategies and informational flyers for the upcoming Special Town Meeting regarding the golf course irrigation project. Members discussed precise project cost figures, CPA funding, contingencies, and how to address questions about golf course revenues and financing. The committee also authorized up to $500 for printing physical flyers to distribute around town.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved minutes from the previous meeting with a minor date correction.",
+        "key_details": [
+          "Minutes from the September 2nd meeting were amended to reflect that the meeting date moved to October 6th"
+        ],
+        "outcome": "Approved minutes",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Golf Course Irrigation Project outreach and flyer review",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee went over the layout, funding numbers, and distribution plan for the informational flyer supporting the municipal golf course irrigation project at the upcoming Special Town Meeting. Members debated whether project costs should be presented as the full total including contingency or base project cost, and discussed the legal and financial realities of funding golf course improvements.",
+        "key_details": [
+          "Discussed total project costs of $1,087,296 including a $150,000 contingency fund alongside the base cost of $971,000",
+          "Voted to authorize up to $500 for printing physical copies of the flyer",
+          "Planned flyer distribution points including the library, senior center, golf course, and driving range",
+          "Confirmed that municipal golf course revenues cannot be used to borrow against future uncertain revenues for capital projects"
+        ],
+        "outcome": "Voted unanimously to approve up to $500 for printing flyers",
+        "why_it_matters": "Residents will vote at Town Meeting on funding a major infrastructure replacement for the town-owned golf course.",
+        "start_seconds": 65,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve the minutes of the September 2nd meeting as amended",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 63
+      },
+      {
+        "motion": "To approve spending up to $500 for printing the golf course irrigation project flyers",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1335
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Follow-up committee meeting",
+        "when": "Next Tuesday"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 27, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T10:31:24Z",
+  "usage": {
+    "total_tokens": 128004,
+    "total_input_tokens": 126044,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 689
+      },
+      {
+        "modality": "video",
+        "tokens": 125355
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 802,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1158
+  }
+}

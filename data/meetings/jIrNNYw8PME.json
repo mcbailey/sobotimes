@@ -1,0 +1,119 @@
+{
+  "video": {
+    "id": "jIrNNYw8PME",
+    "title": "Select Board Meeting 10/6/26",
+    "published_at": "2026-10-07T12:11:37Z",
+    "duration_s": 5612
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-10-06",
+    "headline": "Select Board reviewed town governance study findings, discussed upcoming Town Meeting warrant articles, and voted to enter executive session.",
+    "summary": "The Select Board convened on October 6, 2026, receiving a presentation from Capital Strategic Strategies on a town government structure study. The board also heard updates on Heritage Park, Rotary Club events, and school building options, reviewed Town Meeting warrant articles and assigned motion makers, and voted to enter executive session to discuss fire chief contract negotiations.",
+    "topics": [
+      {
+        "title": "Governance structure study update",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Bill Keegan of Capital Strategic Strategies presented an initial overview of the town government structure study, examining Southborough's governance model, town manager authority, and committee structures in comparison to other Massachusetts municipalities.",
+        "key_details": [
+          "Town engaged Capital Strategic Strategies for government structure study",
+          "Southborough has 68 committees compared to state averages",
+          "Discussed town manager form of government and charter versus bylaws"
+        ],
+        "outcome": "discussed",
+        "why_it_matters": "Potential changes to town government structure and administrative authority impact town operations, efficiency, and resident services.",
+        "start_seconds": 366,
+        "end_seconds": null
+      },
+      {
+        "title": "Committee reports and updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Board members received updates regarding Heritage Park grant funding and equipment installation, Rotary Club event schedules, and elementary school building committee project pricing options.",
+        "key_details": [
+          "Heritage Park received grant funding from CHNA fund for park improvements",
+          "Rotary Club Octoberfest scheduled for October 18",
+          "Elementary school building committee reviewed five pricing options ranging from 32 million to 42 million dollars"
+        ],
+        "outcome": "accepted reports",
+        "why_it_matters": null,
+        "start_seconds": 2110,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant articles review",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The board reviewed upcoming Town Meeting warrant articles, discussed site restoration balances and borrowing closeouts, assigned board members to make motions on specific articles, and debated policies related to conflict of interest and procurement.",
+        "key_details": [
+          "Reviewed site restoration funds and borrowing authorizations",
+          "Assigned motion makers for warrant articles",
+          "Discussed town clerk appointment versus election article"
+        ],
+        "outcome": "discussed",
+        "why_it_matters": "Warrant articles determine municipal appropriations, capital spending, local taxation, and bylaw changes voted on by residents.",
+        "start_seconds": 2270,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and executive session",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved consent agenda items and meeting minutes, and voted to enter executive session to discuss fire chief contract negotiations without returning to open session.",
+        "key_details": [
+          "Approved consent agenda items and meeting minutes",
+          "Voted to enter executive session under MGL chapter 38, section 21, exemption 3"
+        ],
+        "outcome": "approved and entered executive session",
+        "why_it_matters": null,
+        "start_seconds": 2953,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Enter executive session per MGL chapter 38, section 21, exemption 3, to discuss negotiations on fire chief contract, with no return to open session",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3206
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Town Meeting",
+        "when": "October 17"
+      },
+      {
+        "what": "Early voting begins",
+        "when": "October 17"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T10:40:54Z",
+  "usage": {
+    "total_tokens": 217549,
+    "total_input_tokens": 215031,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 214338
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1011,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1507
+  }
+}

@@ -121,12 +121,15 @@
       "published_at": "2026-10-08T12:23:40Z",
       "duration_s": 3389,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-07",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-14T10:28:01Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "yXLL6UMLaag": {
       "id": "yXLL6UMLaag",
@@ -135,12 +138,15 @@
       "published_at": "2026-10-07T14:50:34Z",
       "duration_s": 3283,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-06",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-14T10:31:24Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "6sb8sVUyin4": {
       "id": "6sb8sVUyin4",
@@ -149,12 +155,15 @@
       "published_at": "2026-10-07T14:17:10Z",
       "duration_s": 5917,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-06",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-14T10:38:40Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "jIrNNYw8PME": {
       "id": "jIrNNYw8PME",
@@ -163,12 +172,15 @@
       "published_at": "2026-10-07T12:11:37Z",
       "duration_s": 5612,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-06",
-      "week": "2026-10-05"
+      "week": "2026-10-05",
+      "processed_at": "2026-10-14T10:40:54Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "InzL5O9vgMQ": {
       "id": "InzL5O9vgMQ",
@@ -177,12 +189,15 @@
       "published_at": "2026-10-02T13:46:05Z",
       "duration_s": 5623,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-01",
-      "week": "2026-09-28"
+      "week": "2026-09-28",
+      "processed_at": "2026-10-14T10:43:09Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "hCwuB4U1qOk": {
       "id": "hCwuB4U1qOk",
@@ -392,12 +407,20 @@
       "output_tokens": 11442,
       "thought_tokens": 42895,
       "tool_use_tokens": 0
+    },
+    "2026-10-14": {
+      "video_minutes": 398,
+      "calls": 7,
+      "input_tokens": 924022,
+      "output_tokens": 9542,
+      "thought_tokens": 17121,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-13T23:08:48Z",
+    "at": "2026-10-14T10:24:20Z",
     "discovered": 25,
-    "summarized": 0,
+    "summarized": 5,
     "refreshed": 0,
     "errors": 0
   }

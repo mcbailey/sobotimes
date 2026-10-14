@@ -1,0 +1,131 @@
+{
+  "video": {
+    "id": "BwulXCVw_6g",
+    "title": "Recreation Commission 10/7/26",
+    "published_at": "2026-10-08T12:23:40Z",
+    "duration_s": 3389
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-10-07",
+    "headline": "The Southborough Recreation Commission discussed department updates, approved the FY28 operating budget request, and reviewed revolving fund rules.",
+    "summary": "During the October 7, 2026 meeting, the Recreation Commission received updates on upcoming seasonal events including Heritage Day and the Gobble Wobble, welcomed a new recreation commissioner, and discussed program registrations. The board reviewed and unanimously approved the FY28 operating budget request. Members also discussed revolving fund policies and staff support before approving past meeting minutes and adjourning.",
+    "topics": [
+      {
+        "title": "Department and program updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Staff and commissioners reviewed attendance at the National Recreation and Park Association conference, winter sports registrations, upcoming community events like Heritage Day and the Gobble Wobble, and the appointment of a new recreation commissioner.",
+        "key_details": [
+          "Over 8,000 recreation professionals attended the national conference in Philadelphia.",
+          "Heritage Day is scheduled for Monday with over 70 vendors and 11 parade participants.",
+          "Ski and snowboard signups filled up 75 slots in 30 minutes with a waitlist of 15.",
+          "Carol was appointed as the newest Recreation Commission member."
+        ],
+        "outcome": "Information received and discussed.",
+        "why_it_matters": null,
+        "start_seconds": 16,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget discussion and vote",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The commission reviewed line items for the FY28 Recreation Commission operating budget, including trail mowing contracts with DPW and J and J, and voted to approve the total budget request of $4,250.",
+        "key_details": [
+          "The total FY28 budget request is $4,250.",
+          "Trail mowing is budgeted at $2,800 for four mowings from June through October on Parkerville Road and Deerfoot Road.",
+          "Contracts were confirmed with DPW and J and J with no anticipated price increases."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "The operating budget sets spending limits for town recreation programs and trail maintenance affecting municipal services and resident fees.",
+        "start_seconds": 791,
+        "end_seconds": null
+      },
+      {
+        "title": "Revolving fund discussion",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed town bylaws regarding revolving funds, staffing levels, and whether full-time salaries and benefits can be supported as programs grow.",
+        "key_details": [
+          "The revolving fund currently operates under town bylaws restricting full-time salary and benefit payments.",
+          "Commissioners discussed future administrative support needs as building space and programming expand."
+        ],
+        "outcome": "Discussed with no formal action taken.",
+        "why_it_matters": null,
+        "start_seconds": 1966,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Other",
+        "importance": "low",
+        "summary": "The board reviewed and approved meeting minutes from September 17th and voted to adjourn the meeting.",
+        "key_details": [
+          "Minutes from the September 17th meeting were approved.",
+          "The meeting adjourned at 7:55 PM."
+        ],
+        "outcome": "Minutes approved and meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 2651,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve the FY28 Recreation Commission operating budget request of $4,250",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1891
+      },
+      {
+        "motion": "To approve meeting minutes from September 17th",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2678
+      },
+      {
+        "motion": "To adjourn the meeting",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3106
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Heritage Day",
+        "when": "Monday, October 12"
+      },
+      {
+        "what": "Next Recreation Commission meeting",
+        "when": "November"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.5-flash-lite",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T10:28:01Z",
+  "usage": {
+    "total_tokens": 128144,
+    "total_input_tokens": 126094,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 125405
+      },
+      {
+        "modality": "text",
+        "tokens": 689
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1141,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 909
+  }
+}

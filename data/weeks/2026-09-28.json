@@ -1,0 +1,63 @@
+{
+  "synopsis": "The Trails Committee met this week to prepare for the October 17 Special Town Meeting, focusing on Article 4 for the Peninsula Trail Phase 2 pedestrian bridge. With both the Select Board and Advisory Committee voting not to recommend the article, members debated offering a floor amendment to lower the new Community Preservation Act funding request to $25,000 while repurposing $211,000 in previously allocated funds and seeking a state grant. The committee also finalized plans for community outreach at Heritage Day and coordinated safety measures, including blaze orange vests during youth hunting season, for fall trail programming.",
+  "highlights": [
+    {
+      "title": "Peninsula Trail pedestrian bridge funding strategy",
+      "why": "Following negative recommendations from the Select Board and Advisory Committee, the committee evaluated a fallback floor amendment at Town Meeting to reduce new CPA requests to $25,000 alongside repurposing $211,000 in existing funds and seeking a grant.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "InzL5O9vgMQ",
+      "start_seconds": 1095
+    },
+    {
+      "title": "Town Meeting outreach and Heritage Day booth",
+      "why": "Members organized voter educational efforts ahead of Town Meeting, including placing promotional signs around town, hosting an informational booth at Heritage Day, and staffing an information table before Town Meeting begins.",
+      "body": "Trails Committee",
+      "importance": "medium",
+      "video_id": "InzL5O9vgMQ",
+      "start_seconds": 5130
+    },
+    {
+      "title": "Fall trail events and youth hunting season safety",
+      "why": "The committee coordinated safety protocols, advising trail users to wear blaze orange during youth hunting season, and scheduled fall activities including trail yoga, a guided hike, and a November food drive.",
+      "body": "Trails Committee",
+      "importance": "medium",
+      "video_id": "InzL5O9vgMQ",
+      "start_seconds": 323
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Guided trail hike and Yoga on the Trails",
+      "when": "October 3, 2026 at 10:00 AM",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Trails Committee regular meeting",
+      "when": "October 8, 2026 at 7:00 PM",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Heritage Day informational booth",
+      "when": "October 12, 2026",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Special Town Meeting on Peninsula Trail Article 4",
+      "when": "October 17, 2026",
+      "body": null
+    },
+    {
+      "what": "Trail run/walk and food drive event",
+      "when": "November 7, 2026",
+      "body": "Trails Committee"
+    }
+  ],
+  "week": "2026-09-28",
+  "fingerprint": "8d53fb4d0186ad7b",
+  "video_ids": [
+    "InzL5O9vgMQ"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-14T10:49:38Z"
+}

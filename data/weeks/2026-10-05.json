@@ -1,67 +1,84 @@
 {
-  "synopsis": "Several town boards and committees prepared for the upcoming Fall Town Meeting by reviewing warrant articles, project costs, and zoning proposals. The Community Preservation Committee and Trails Committee advanced funding discussions for the Peninsula Trail footbridge and the Southborough Golf Club irrigation system. Meanwhile, the Zoning Board of Appeals finalized its support for a two-family dwelling warrant article, and conservation and library panels addressed local permits and preliminary budget previews.",
+  "synopsis": "Town boards focused heavily this week on preparing recommendations, project budgets, and presentation materials for the upcoming Town Meeting. The Advisory Committee finalized its warrant report, recommending approval for a $240,000 water connection to two homes near the Parkerville Road landfill while opposing Community Preservation Act funding requests for a trail bridge and golf course irrigation. The Zoning Board of Appeals voted to support a proposed zoning amendment for two-family dwellings as drafted, despite concerns raised by Advisory members regarding lot sizes and septic capacity. Meanwhile, the Select Board reviewed initial findings from a municipal governance study examining town manager authority across Southborough's 68 local committees.",
   "highlights": [
     {
-      "title": "Peninsula Trail and Golf Club Funding Requests Advanced",
-      "why": "The Community Preservation Committee reviewed warrant articles for Fall Town Meeting, including an additional $217,318 request for the Peninsula Trail footbridge and $433,546 for the Southborough Golf Club irrigation system replacement.",
-      "body": "Community Preservation Committee",
+      "title": "Parkerville Road landfill water connection recommendation",
+      "why": "The Advisory Committee voted 6-0 to recommend Town Meeting approval of $240,000 from water retained earnings to connect two homes near the landfill to municipal water. The town confirmed it will pay for the service lines from the street into the houses.",
+      "body": "Advisory Committee",
       "importance": "high",
-      "video_id": "G9S9K_Mene8",
-      "start_seconds": 0
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 80
     },
     {
-      "title": "Two-Family Dwelling Warrant Article Supported",
-      "why": "The Zoning Board of Appeals voted unanimously to support the town meeting warrant article regarding two-family dwelling provisions as drafted, opting against last-minute changes to minimum lot requirements.",
+      "title": "Two-family dwelling zoning warrant article endorsement",
+      "why": "The Zoning Board of Appeals voted unanimously to advance the two-family dwelling warrant article as drafted. Board members declined to make last-minute edits regarding minimum lot requirements across residential and business village districts.",
       "body": "Zoning Board of Appeals",
       "importance": "high",
       "video_id": "2dGufO1TwE4",
       "start_seconds": 0
     },
     {
-      "title": "Conservation Commission Lifts 2013 Enforcement Order",
-      "why": "The commission voted to lift an old enforcement order for 6 Limbrook Road after confirming that unpermitted masonry work was resolved and no active erosion exists, while continuing various project hearings.",
-      "body": "Conservation Commission",
-      "importance": "medium",
-      "video_id": "nrTrCqF8IJA",
-      "start_seconds": 1237
+      "title": "Peninsula Trail bridge funding request",
+      "why": "The Community Preservation Committee voted to advance Warrant Article 4 requesting an additional $217,318 in CPA funds to construct a prefabricated footbridge over Route 30. The Advisory Committee previously voted against supporting the appropriation due to total project costs reaching $428,550.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "G9S9K_Mene8",
+      "start_seconds": 0
     },
     {
-      "title": "Library Board Reviews FY28 Budget Preview",
-      "why": "The Library Board of Trustees examined preliminary FY28 budget comparisons, staff longevity payouts, and CWMARS network rules regarding state certification requirements.",
-      "body": "Library Board of Trustees",
-      "importance": "medium",
-      "video_id": "Dlomobo7FQ4",
-      "start_seconds": 1418
+      "title": "Southborough Golf Club irrigation system funding",
+      "why": "The Golf Committee authorized up to $500 for printed flyers explaining the $1,087,296 irrigation replacement project ahead of Town Meeting. The project seeks extensive CPA funding, which the Advisory Committee voted not to support.",
+      "body": "Golf Committee",
+      "importance": "high",
+      "video_id": "yXLL6UMLaag",
+      "start_seconds": 65
+    },
+    {
+      "title": "Municipal governance structure study review",
+      "why": "Consultants presented preliminary findings evaluating Southborough's government operations, town manager authority, and committee structures in relation to other Massachusetts towns. Southborough currently operates with 68 committees.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "jIrNNYw8PME",
+      "start_seconds": 366
     }
   ],
   "looking_ahead": [
     {
-      "what": "Fall Special Town Meeting",
-      "when": "October 17, 2026",
-      "body": "Town Meeting"
+      "what": "Heritage Day community events and parade",
+      "when": "Monday, October 12",
+      "body": "Recreation Commission"
     },
     {
-      "what": "Planning Board meeting regarding Master Plan implementation",
+      "what": "Special Town Meeting at Trottier Middle School",
+      "when": "October 17, 2026",
+      "body": null
+    },
+    {
+      "what": "Early voting begins",
+      "when": "October 17, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Master Plan 2030 implementation discussion",
       "when": "October 19, 2026",
       "body": "Planning Board"
-    },
-    {
-      "what": "Continued public hearings for Overlook Drive, Marlborough Junction, and Southville Road projects",
-      "when": "Upcoming meeting",
-      "body": "Conservation Commission"
     }
   ],
   "week": "2026-10-05",
-  "fingerprint": "d080ac3b9890f1eb",
+  "fingerprint": "18c13ab803d6a1d2",
   "video_ids": [
     "2dGufO1TwE4",
+    "6sb8sVUyin4",
+    "BwulXCVw_6g",
     "DIW91Vw3LIY",
     "Dlomobo7FQ4",
     "G9S9K_Mene8",
+    "jIrNNYw8PME",
     "nrTrCqF8IJA",
     "pJYL2Q6xFRg",
-    "q-rYs3c0kn4"
+    "q-rYs3c0kn4",
+    "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-13T20:13:09Z"
+  "generated_at": "2026-10-14T10:45:23Z"
 }
