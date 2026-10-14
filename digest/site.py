@@ -246,6 +246,8 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
         "site": cfg.site,
         "channel": cfg.channel,
         "channel_url": f"https://www.youtube.com/channel/{cfg.channel.id}",
+        "sources": [{"name": cfg.channel.name, "url": f"https://www.youtube.com/channel/{cfg.channel.id}"}]
+        + [{"name": c.name or c.id, "url": c.url} for c in cfg.extra_channels],
         "updated_text": updated_text,
         "banner": banner,
     }

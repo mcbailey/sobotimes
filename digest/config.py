@@ -16,6 +16,27 @@ class ChannelConfig:
 
 
 @dataclass
+class ExtraChannel:
+    """Another channel to pull from, limited to titles matching include_patterns."""
+
+    id: str
+    name: str = ""
+    include_patterns: list[str] = field(default_factory=list)
+
+    def __post_init__(self) -> None:
+        if not self.include_patterns:
+            raise ValueError(f"extra channel {self.id} needs include_patterns")
+        self._include = [re.compile(p, re.IGNORECASE) for p in self.include_patterns]
+
+    def wants(self, title: str) -> bool:
+        return any(rx.search(title) for rx in self._include)
+
+    @property
+    def url(self) -> str:
+        return f"https://www.youtube.com/channel/{self.id}"
+
+
+@dataclass
 class DiscoveryConfig:
     backfill_days: int = 28
     min_age_hours: float = 3
@@ -82,6 +103,7 @@ class Config:
     gemini: GeminiConfig
     site: SiteConfig
     root: Path
+    extra_channels: list[ExtraChannel] = field(default_factory=list)
 
 
 def load_config(path: str | Path = "config.toml") -> Config:
@@ -95,6 +117,7 @@ def load_config(path: str | Path = "config.toml") -> Config:
         gemini=GeminiConfig(**raw.get("gemini", {})),
         site=SiteConfig(**raw.get("site", {})),
         root=path.parent,
+        extra_channels=[ExtraChannel(**c) for c in raw.get("extra_channels", [])],
     )
     if cfg.gemini.video_processing not in ("agentic", "static"):
         raise ValueError("gemini.video_processing must be 'agentic' or 'static'")

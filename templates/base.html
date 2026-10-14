@@ -19,7 +19,7 @@
 {% block main %}{% endblock %}
 </main>
 <footer class="site-footer">
-  <p>These summaries are written by an AI model (Google Gemini) from public recordings posted by <a href="{{ channel_url }}">{{ channel.name }}</a>. They can contain mistakes, so follow the time links to hear exactly what was said. This site is not affiliated with the Town of {{ channel.town.split(',')[0] }} or {{ channel.name }}.</p>
+  <p>These summaries are written by an AI model (Google Gemini) from public recordings posted by {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %}. They can contain mistakes, so follow the time links to hear exactly what was said. This site is not affiliated with the Town of {{ channel.town.split(',')[0] }} or {{ sources|map(attribute='name')|join(' or ') }}.</p>
   <p>Updated {{ updated_text }}. <a href="{{ root }}feed.xml">Subscribe to the weekly feed</a>.</p>
 </footer>
 </div>

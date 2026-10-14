@@ -105,6 +105,7 @@ def make_pipeline(tmp, client, videos=None, **budget):
         backfill_days=28, min_age_hours=3,
         include_patterns=MIXED_CHANNEL_PATTERNS, exclude_patterns=cfg.discovery.exclude_patterns,
     )
+    cfg.extra_channels = []  # tests add extra channels explicitly
     for k, v in budget.items():
         setattr(cfg.budget, k, v)
     store = Store(Path(tmp) / "data")
@@ -315,6 +316,43 @@ class PipelineTests(unittest.TestCase):
             state["videos"]["sampleSB1006"]["prompt_version"] = "old"
             store.save_state(state)
             self.assertEqual(p.run().refreshed, [])
+
+    def test_extra_channel_takes_only_matching_titles_and_skips_duplicates(self):
+        from digest.config import ExtraChannel
+        sam = "UCsam"
+        recent = "2026-10-12T15:00:00Z"
+        sam_videos = [
+            {"id": "samSC1", "title": "Southborough School Committee meeting October 7, 2026", "published_at": recent, "duration_s": 5400, "live": "none"},
+            {"id": "samSB1", "title": "Southborough Select Board October 6, 2026", "published_at": recent, "duration_s": 5600, "live": "none"},
+            {"id": "samSC2", "title": "Southborough School Committee meeting October 8, 2026", "published_at": recent, "duration_s": 5000, "live": "none"},
+        ]
+        primary = [dict(v) for v in sample_data.VIDEOS] + [
+            {"id": "remSC2", "title": "School Committee 10/8/26", "published_at": "2026-10-11T15:00:00Z", "duration_s": 5000, "live": "none"},
+        ]
+
+        def discover(channel_id, since, api_key=None, log=print):
+            src = sam_videos if channel_id == sam else primary
+            return [dict(v, source="test") for v in src if timeutil.parse_iso(v["published_at"]) >= since]
+
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg, store, p = make_pipeline(tmp, FakeClient(), daily_video_minutes=0)
+            cfg.extra_channels = [ExtraChannel(id=sam, name="Access Media", include_patterns=[r"\bschool committee\b"])]
+            p.discover_fn = discover
+            p.run()  # zero budget: registers videos without summarizing any
+            videos = store.load_state()["videos"]
+        self.assertIn("samSC1", videos)                      # school committee from SAM
+        self.assertNotIn("samSB1", videos)                   # Select Board comes from the primary channel
+        self.assertEqual(videos["samSC1"]["status"], QUEUED)
+        self.assertEqual(videos["samSC1"]["channel"], sam)
+        self.assertEqual(videos["samSC2"]["status"], SKIPPED)  # same meeting already found on the primary channel
+        self.assertTrue(videos["samSC2"]["reason"].startswith("same meeting as"))
+
+    def test_meeting_key_matches_title_styles(self):
+        from digest.pipeline import meeting_key
+        self.assertEqual(meeting_key("Southborough School Committee meeting June 12, 2024"), meeting_key("School Committee 6/12/24"))
+        self.assertEqual(meeting_key("Southborough Planning Board September 28, 2026"), meeting_key("Planning Board 9/28/26"))
+        self.assertNotEqual(meeting_key("Planning Board 9/28/26"), meeting_key("Select Board 9/28/26"))
+        self.assertIsNone(meeting_key("Planning Board workshop"))
 
     def test_static_is_default_one_request_per_video(self):
         with tempfile.TemporaryDirectory() as tmp:

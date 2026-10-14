@@ -8,6 +8,17 @@ name = "Southborough Remote Meetings"
 town = "Southborough, Massachusetts"
 timezone = "America/New_York"
 
+# Other channels to pull from. Only titles matching include_patterns are taken,
+# so meetings posted on both channels aren't summarized twice. Southborough
+# Access Media also posts Select Board, Planning Board and ZBA meetings, which
+# are already on the remote-meetings channel; School Committee meetings are only
+# on SAM. If the same meeting turns up on two channels anyway (same board, same
+# date in the title), only the first one found is summarized.
+[[extra_channels]]
+id = "UCs4MKkThBjpiU4LnmlP37Bg"         # @SouthboroughAccessMedia
+name = "Southborough Access Media"
+include_patterns = ['\bschool committee\b']
+
 [discovery]
 # How far back to look for videos. The first run backfills this window.
 backfill_days = 28
@@ -31,7 +42,7 @@ exclude_patterns = [
 # The Gemini free tier allows 8 hours of YouTube video per day. Stay under it.
 daily_video_minutes = 420
 # Hard cap on videos summarized in one run.
-max_videos_per_run = 8
+max_videos_per_run = 6
 # Videos longer than this are flagged instead of summarized.
 max_video_minutes = 300
 # Assumed length when the duration is unknown (RSS-only discovery).

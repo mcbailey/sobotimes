@@ -10,7 +10,7 @@
 {% if not weeks %}
 <section class="empty">
   <h2>No meetings summarized yet</h2>
-  <p>The first summaries appear after the daily update runs. New recordings from <a href="{{ channel_url }}">{{ channel.name }}</a> are picked up automatically.</p>
+  <p>The first summaries appear after the daily update runs. New recordings from {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %} are picked up automatically.</p>
 </section>
 {% endif %}
 

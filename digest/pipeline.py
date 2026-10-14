@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta
 from typing import Callable
@@ -116,7 +117,17 @@ class Pipeline:
             report.errors.append(f"discovery failed: {e}")
             found = []
         report.discovered = len(found)
-        self._register(state, found, report)
+        self._register(state, [dict(f, channel=cfg.channel.id) for f in found], report)
+        for extra in cfg.extra_channels:
+            try:
+                more = self.discover_fn(extra.id, since, api_key=self.youtube_api_key, log=self.log)
+            except Exception as e:
+                report.errors.append(f"discovery failed for {extra.name or extra.id}: {e}")
+                continue
+            # Only the titles we want from this channel; the rest never enter the state.
+            wanted = [dict(f, channel=extra.id) for f in more if extra.wants(f["title"])]
+            report.discovered += len(wanted)
+            self._register(state, wanted, report)
 
         # 2. Pick what to summarize within today's budget --------------------
         day = quota_day(now)
@@ -242,6 +253,9 @@ class Pipeline:
             rec = state["videos"].get(f["id"])
             if rec is None:
                 ok, reason = cfg.discovery.classify(f["title"])
+                dup = _duplicate_of(state, f, cfg.channel.id) if ok else None
+                if dup:
+                    ok, reason = False, f"same meeting as {dup['id']} ({dup['title']})"
                 rec = {
                     "id": f["id"],
                     "title": f["title"],
@@ -251,6 +265,7 @@ class Pipeline:
                     "live": f.get("live"),
                     "status": QUEUED if ok else SKIPPED,
                     "reason": reason,
+                    "channel": f.get("channel", cfg.channel.id),
                     "attempts": 0,
                     "discovered_at": iso(self.now()),
                 }
@@ -265,7 +280,7 @@ class Pipeline:
                 state["videos"][f["id"]] = rec
                 report.new.append(f["title"])
                 if rec["status"] == SKIPPED:
-                    report.skipped_titles.append(f["title"])
+                    report.skipped_titles.append(f"{f['title']} ({reason})" if dup else f["title"])
             else:
                 # Refresh fields that can change after upload.
                 for k in ("title", "duration_s", "live"):
@@ -468,6 +483,40 @@ class Pipeline:
             self.store.write_week(week, week_obj)
             report.weeks_written.append(week)
             written += 1
+
+
+_NOISE = re.compile(r"\b(southborough|meeting|mtg|regular|special|remote|hybrid|of|the)\b|[^a-z ]", re.IGNORECASE)
+
+
+def meeting_key(title: str) -> tuple | None:
+    """(date in title, board name) so one meeting posted on two channels can be matched."""
+    d = date_from_title(title)
+    if not d:
+        return None
+    words = _NOISE.sub(" ", re.sub(r"\d+[/\-.]\d+[/\-.]\d+|\d{1,2},?\s*\d{4}", " ", title.lower()))
+    for m in ("january", "february", "march", "april", "may", "june", "july", "august",
+              "september", "october", "november", "december"):
+        words = words.replace(m, " ")
+    name = " ".join(words.split())
+    return (d.isoformat(), name) if name else None
+
+
+def _duplicate_of(state: dict, f: dict, primary: str) -> dict | None:
+    """An already-known video from another channel that records the same meeting.
+
+    Only compares across channels: one channel can legitimately post two
+    recordings with the same title (for example, a mislabeled upload).
+    """
+    key = meeting_key(f["title"])
+    if not key:
+        return None
+    channel = f.get("channel") or primary
+    for v in state["videos"].values():
+        if (v.get("channel") or primary) == channel or v["status"] == SKIPPED:
+            continue
+        if meeting_key(v["title"]) == key:
+            return v
+    return None
 
 
 def _add_usage(ledger: dict, usage: dict) -> None:

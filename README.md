@@ -70,6 +70,7 @@ Everything lives in `config.toml`:
 
 | Setting | What it does |
 | --- | --- |
+| `extra_channels` | Other channels to pull from, limited to matching titles. Set up to take School Committee meetings from Southborough Access Media, which the remote-meetings channel doesn't carry. The same meeting found on two channels is only summarized once. |
 | `discovery.backfill_days` | How far back to look for videos (default 28). |
 | `discovery.min_age_hours` | Wait this long after upload before summarizing. |
 | `budget.daily_video_minutes` | Daily video budget (default 420; the free tier allows 480). |
