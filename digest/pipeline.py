@@ -146,8 +146,9 @@ class Pipeline:
             )
         picked = []
         for v in queue:
+            tag = "refresh; " if v["status"] == DONE else ""
             if len(picked) >= limit:
-                report.deferred.append(f"{v['title']} ({'refresh; ' if v['status'] == DONE else ''}run limit)")
+                report.deferred.append(f"{v['title']} ({tag}run limit)")
                 continue
             if v.get("live") in ("live", "upcoming", "not_public"):
                 reason = "not public" if v["live"] == "not_public" else f"still {v['live']}"
@@ -159,7 +160,7 @@ class Pipeline:
             mins = _minutes(v, cfg)
             if mins > remaining:
                 report.deferred.append(
-                    f"{v['title']} (needs {mins} min; only {max(0, remaining)} min of today's budget left after newer videos)"
+                    f"{v['title']} ({tag}needs {mins} min; only {max(0, remaining)} min of today's budget left after newer videos)"
                 )
                 continue
             picked.append(v)
@@ -435,7 +436,7 @@ class Pipeline:
                 models = [cfg.gemini.synthesis_model] + [
                     m for m in cfg.gemini.fallback_models if m != cfg.gemini.synthesis_model
                 ]
-                _, result = self._run_models(models, lambda model: self.client.run(
+                used_model, result = self._run_models(models, lambda model: self.client.run(
                     model=model,
                     input=prompts.week_prompt(label, meetings),
                     system_instruction=prompts.week_system(cfg.channel.town),
@@ -460,7 +461,7 @@ class Pipeline:
                     "week": week,
                     "fingerprint": fingerprint,
                     "video_ids": [r["id"] for r in vids],
-                    "model": cfg.gemini.synthesis_model,
+                    "model": used_model,
                     "generated_at": iso(self.now()),
                 }
             )

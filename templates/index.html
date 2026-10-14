@@ -33,7 +33,7 @@
     <li class="highlight is-{{ h.importance }}">
       <p class="highlight-title">{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}</p>
       <p class="highlight-why">{{ h.why }}</p>
-      <p class="highlight-source">{{ h.body }}{% if h.ts %}, <a href="{{ h.url }}">watch at {{ h.ts }}</a>{% endif %}</p>
+      <p class="highlight-source">{{ h.body }}{% if h.watch %}, <a href="{{ h.url }}">watch {{ h.watch }}</a>{% endif %}</p>
     </li>
     {% endfor %}
   </ul>

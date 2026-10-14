@@ -37,13 +37,28 @@ def _join(items: list[str]) -> str:
     return ", ".join(items[:-1]) + f" and {items[-1]}"
 
 
+def _watch_label(seconds: int | None) -> str | None:
+    """Link text for a moment in a recording; 0:00 reads as 'from the start'."""
+    if seconds is None:
+        return None
+    return "from the start" if seconds < 5 else f"at {fmt_timestamp(seconds)}"
+
+
 def _topic_view(t: dict, vid: str, idx: int) -> dict:
     return {
         **t,
         "anchor": f"t-{vid}-{idx}",
         "ts": fmt_timestamp(t.get("start_seconds")),
+        "watch": _watch_label(t.get("start_seconds")),
         "url": watch_url(vid, t.get("start_seconds")),
     }
+
+
+def _significance(m: dict) -> tuple:
+    """Sort key: meetings with more high-importance items and decisions first."""
+    decided = sum(1 for v in m["votes"] if v.get("result") in ("passed", "failed"))
+    score = 3 * m["high_count"] + m["medium_count"] + min(decided, 3)
+    return (-score, -m["duration_s"], m["date"])
 
 
 def _timeline(topics: list[dict], duration: int | None) -> dict | None:
@@ -104,6 +119,8 @@ def _meeting_view(m: dict, tz: str) -> dict:
         ],
         "upcoming": s.get("upcoming", []),
         "caveats": s.get("caveats"),
+        "high_count": sum(1 for t in topics if t["importance"] == "high"),
+        "medium_count": sum(1 for t in topics if t["importance"] == "medium"),
     }
 
 
@@ -148,7 +165,6 @@ def collect_weeks(cfg: Config, store: Store) -> list[dict]:
     out = []
     for key in sorted(weeks, reverse=True):
         w = weeks[key]
-        w["meetings"].sort(key=lambda m: (m["date"], m["body"]))
         stored = store.read_week(key) or {}
         current_ids = {m["id"] for m in w["meetings"]}
         w["synopsis"] = stored.get("synopsis") if stored else None
@@ -169,8 +185,22 @@ def collect_weeks(cfg: Config, store: Store) -> list[dict]:
                 if t["importance"] == "high"
             ]
             highlights = pool[:5]
+        # Key meetings: the ones the week's highlights point to, plus any with
+        # several high-importance items. Almost every meeting has one "high"
+        # item, so a single one isn't enough to stand out.
+        picked = {h["video_id"] for h in highlights}
+        w["meetings"].sort(key=lambda m: (m["id"] not in picked, *_significance(m)))
+        for m in w["meetings"]:
+            m["key"] = m["id"] in picked or m["high_count"] >= 2
+        w["key_meetings"] = [m for m in w["meetings"] if m["key"]]
+        w["other_meetings"] = [m for m in w["meetings"] if not m["key"]]
         w["highlights"] = [
-            {**h, "ts": fmt_timestamp(h.get("start_seconds")), "url": watch_url(h["video_id"], h.get("start_seconds"))}
+            {
+                **h,
+                "ts": fmt_timestamp(h.get("start_seconds")),
+                "watch": _watch_label(h.get("start_seconds")),
+                "url": watch_url(h["video_id"], h.get("start_seconds")),
+            }
             for h in highlights
         ]
         total = sum(m["duration_s"] for m in w["meetings"])
@@ -182,10 +212,12 @@ def collect_weeks(cfg: Config, store: Store) -> list[dict]:
         w["count"] = n
         w["bodies"] = bodies
         if n:
-            hours = f" covering {fmt_hours(total)} of video" if total else ""
-            w["stats"] = f"{n} meeting{'s' if n != 1 else ''}{hours}: {_join(bodies)}."
+            hours = f" · {fmt_hours(total)} of video" if total else ""
+            w["stats"] = f"{n} meeting{'s' if n != 1 else ''}{hours}"
+            w["bodies_text"] = _join(bodies)
         else:
             w["stats"] = ""
+            w["bodies_text"] = ""
         w["generated_at"] = stored.get("generated_at") if stored else None
         out.append(w)
     return out

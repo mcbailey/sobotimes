@@ -12,7 +12,8 @@
 </head>
 <body>
 {% if banner %}<div class="banner" role="note">{{ banner }}</div>{% endif %}
-<div class="page">
+<div class="page{% block page_class %}{% endblock %}">
+{% block rail %}{% endblock %}
 {% block header %}{% endblock %}
 <main id="main">
 {% block main %}{% endblock %}
@@ -22,5 +23,6 @@
   <p>Updated {{ updated_text }}. <a href="{{ root }}feed.xml">Subscribe to the weekly feed</a>.</p>
 </footer>
 </div>
+{% block scripts %}{% endblock %}
 </body>
 </html>
