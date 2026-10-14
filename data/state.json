@@ -463,10 +463,10 @@
     }
   },
   "last_run": {
-    "at": "2026-10-14T12:11:52Z",
+    "at": "2026-10-14T12:51:00Z",
     "discovered": 25,
-    "summarized": 13,
-    "refreshed": 6,
+    "summarized": 0,
+    "refreshed": 0,
     "errors": 0
   }
 }
