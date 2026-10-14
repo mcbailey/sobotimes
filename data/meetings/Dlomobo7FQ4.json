@@ -9,125 +9,132 @@
     "is_public_meeting": true,
     "body": "Library Board of Trustees",
     "meeting_date": "2026-10-05",
-    "headline": "The Southborough Library Board of Trustees reviewed the FY28 operating budget preview and discussed network policies regarding de-certified libraries.",
-    "summary": "The Library Board of Trustees met on October 5, 2026, to review administrative reports, discuss the preliminary FY28 operating budget, and examine CWMARS library certification policies. The director shared updates regarding facility lighting, security cables, and book drop locations. The board also held an in-depth discussion on maintaining state certification requirements and managing library material budgets.",
+    "headline": "The Library Board of Trustees approved its FY28 operating budget and adopted a policy restricting borrowing for patrons from decertified libraries.",
+    "summary": "At its October 5 meeting, the Library Board of Trustees reviewed and approved the library's FY28 operating budget request, discussing state funding thresholds for materials and the risk of future decertification. The board also voted to approve a regional CW MARS-aligned policy restricting borrowing privileges for patrons belonging to decertified library systems while preserving building and program access. In administrative updates, the director detailed ongoing adjustments to the building's new motion-sensor lighting and reported on video game cartridge security measures.",
     "topics": [
       {
-        "title": "Approval of meeting minutes",
-        "category": "Other",
+        "title": "Routine business",
+        "category": "Town administration",
         "importance": "low",
-        "summary": "The board reviewed and approved the minutes from the September 14 meeting with minor corrections.",
+        "summary": "The board called the meeting to order, completed attendance, reviewed minor typographical edits to the September 14 meeting minutes, and adjourned at the end of the meeting.",
         "key_details": [
-          "Reviewed edits for the September 14 meeting minutes."
+          "Meeting opened at 11:04 AM with six trustees present.",
+          "September 14 minutes approved with tracked changes and extraneous notes removed."
         ],
-        "outcome": "passed",
+        "outcome": "Minutes approved; meeting adjourned.",
         "why_it_matters": null,
-        "start_seconds": 42,
-        "end_seconds": 314
+        "start_seconds": 1,
+        "end_seconds": null
       },
       {
-        "title": "Director's report",
+        "title": "Library director's report and facility updates",
         "category": "Town administration",
         "importance": "medium",
-        "summary": "The library director provided updates on facility lighting improvements, book drop relocation, and security cable installations for electronic game consoles.",
+        "summary": "The library director reported on ongoing adjustments following the installation of motion-sensor lighting, exterior construction work, and changes to materials processing. The library also relocated Nintendo Switch cartridges behind the circulation desk following recent losses.",
         "key_details": [
-          "Book drop was relocated near the recycling area on the lawn due to its heavy weight.",
-          "Security cables were installed for console controllers to prevent items from disappearing.",
-          "Lighting adjustments and ongoing maintenance items were reviewed."
+          "Facilities staff reprogrammed main floor stack lights to stay permanently on during open hours after complaints of lights shutting off on seated patrons.",
+          "A concrete platform outside was removed on Saturday, with replacement concrete scheduled to be poured immediately.",
+          "An exterior book drop was temporarily moved to the lawn area during concrete work.",
+          "Main Street construction workers were granted temporary permission to store stone and rubble on the library lawn for the day.",
+          "Nintendo Switch games will be kept behind the front desk with empty display cases on shelves, requiring staff assistance and excluding them from self-checkout."
         ],
-        "outcome": null,
+        "outcome": "Updates accepted without formal vote; further lighting reprogramming in the teen room expected within two weeks.",
         "why_it_matters": null,
-        "start_seconds": 314,
-        "end_seconds": 1418
+        "start_seconds": 193,
+        "end_seconds": null
       },
       {
-        "title": "FY28 operating budget preview",
+        "title": "Financial review and expense report",
+        "category": "Budget & taxes",
+        "importance": "low",
+        "summary": "Trustees reviewed recent expenditure reports and noted that recent salary figures reflected annual longevity payouts to senior staff.",
+        "key_details": [
+          "Two staff members received longevity payments, causing a temporary spike in the salary line.",
+          "The library completed and submitted its required annual state financial report."
+        ],
+        "outcome": "Expense report accepted without formal vote.",
+        "why_it_matters": null,
+        "start_seconds": 858,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget review and approval",
         "category": "Budget & taxes",
         "importance": "high",
-        "summary": "The board examined the preliminary FY28 operating budget, discussing staff longevity payouts, material and book expenditures, and CWMARS assessments.",
+        "summary": "The board examined the draft FY28 operating budget, focusing closely on state Massachusetts Board of Library Commissioners (MBLC) materials expenditure requirements. Meeting the 16 percent target requires balancing rising fixed personnel and network assessment costs against collection budgets.",
         "key_details": [
-          "Reviewed comparison data between FY27 and FY28 budget projections.",
-          "Discussed the impact of staff longevity payouts on salary line items.",
-          "Emphasized the importance of meeting state materials expenditure requirements to maintain certification."
+          "Under the proposed numbers, materials spending for FY27 was calculated at 15.47 percent and FY28 at 14.94 percent.",
+          "To reach a full 16 percent materials spending ratio in FY28 would require roughly an additional $8,233 in materials funding.",
+          "The library can qualify for a state dispensation down to 14.4 percent materials spending because it maintains open hours three evenings a week and on Saturdays for 10 months of the year.",
+          "The Friends of the Library contribute approximately $4,200 annually toward museum passes that qualify toward materials expenditures.",
+          "Trustees voiced concern that leaning too heavily on Friends' donations or dipping too close to the 14.4 percent floor sets a dangerous baseline for future budgets."
         ],
-        "outcome": "passed",
-        "why_it_matters": "Budget decisions directly impact library operating hours, staffing levels, and the acquisition of books and materials for residents.",
-        "start_seconds": 1418,
+        "outcome": "The FY28 budget was approved as presented by a unanimous 6-0 roll call vote.",
+        "why_it_matters": "Failing to meet state library expenditure minimums can trigger loss of state certification, jeopardizing regional borrowing privileges and interlibrary loan services for Southborough residents.",
+        "start_seconds": 933,
         "end_seconds": null
       },
       {
-        "title": "CWMARS de-certified libraries policy discussion",
+        "title": "Policy on service to decertified libraries",
         "category": "Town administration",
         "importance": "medium",
-        "summary": "The board discussed CWMARS network policies concerning libraries that lose state certification and how network rules impact borrowing privileges and reciprocal lending.",
+        "summary": "Trustees reviewed and adopted a model policy requested by the CW MARS network concerning library access for patrons whose home libraries have lost state certification. While state law mandates building access and reading room privileges, the policy restricts physical borrowing.",
         "key_details": [
-          "Reviewed a list of libraries in the region that are currently de-certified or non-compliant.",
-          "Discussed how network rules restrict borrowing privileges for patrons of de-certified libraries."
+          "Four Massachusetts municipalities currently lack certified libraries, though most are uncertified due to having never applied or lacking formal library services rather than recent decertification.",
+          "Patrons from decertified communities will still be permitted to enter the building, read materials on-site, use public computers, and attend library programming.",
+          "CW MARS will automatically block affected patron barcodes from checking out physical items to take home.",
+          "Trustees noted the policy can be revisited and adjusted if neighboring towns face decertification in future budget cycles."
         ],
-        "outcome": null,
+        "outcome": "Policy adopted as presented by unanimous roll call vote.",
         "why_it_matters": null,
-        "start_seconds": null,
-        "end_seconds": null
-      },
-      {
-        "title": "Routine business and adjournment",
-        "category": "Other",
-        "importance": "low",
-        "summary": "The board discussed upcoming book sale volunteer needs, confirmed the next meeting date, and voted to adjourn.",
-        "key_details": [
-          "Next meeting scheduled for November.",
-          "Volunteers requested for the upcoming book sale."
-        ],
-        "outcome": "passed",
-        "why_it_matters": null,
-        "start_seconds": null,
+        "start_seconds": 2800,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Motion to approve the budget as presented",
+        "motion": "Approve the FY28 library operating budget as presented",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "6-0",
+        "start_seconds": 2680
       },
       {
-        "motion": "Motion to adjourn the meeting",
+        "motion": "Accept the policy regarding service to decertified libraries as written",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "6-0",
+        "start_seconds": 3545
       }
     ],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Next Library Board of Trustees meeting",
-        "when": "November"
+        "what": "Next regular Library Board of Trustees meeting",
+        "when": "November 9, 2026"
       }
     ],
     "caveats": null
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
-  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChdwNHZPYXNIOE9xN1NfdU1QNWF6TjhRSRIXcDR2T2FzSDhPcTdTX3VNUDVhek44UUk\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
-  "prompt_version": "2026-10-13",
-  "processed_at": "2026-10-13T19:53:51Z",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:39:29Z",
   "usage": {
-    "total_tokens": 153305,
-    "total_input_tokens": 149981,
+    "total_tokens": 152967,
+    "total_input_tokens": 150205,
     "input_tokens_by_modality": [
-      {
-        "modality": "text",
-        "tokens": 469
-      },
       {
         "modality": "video",
         "tokens": 149512
+      },
+      {
+        "modality": "text",
+        "tokens": 693
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 1110,
+    "total_output_tokens": 1558,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 2214
+    "total_thought_tokens": 1204
   }
 }

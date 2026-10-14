@@ -1,36 +1,54 @@
 {
-  "synopsis": "During the week of September 21 to 27, 2026, the Select Board held a special meeting to finalize articles for the upcoming special town meeting. The board voted to support revised warrant articles regarding two-family housing and an irrigation project, while declining to support a trail cleanup article. Members also approved appointments to the Southborough Cultural Arts Council and continued a discussion on financial policies and non-disclosure agreements to October.",
+  "synopsis": "Town boards focused on capital planning and warrant preparation ahead of the October 17 Special Town Meeting. The Elementary School Building Committee narrowed design options for Neary Elementary School by eliminating Option 4 and directing consultants to develop Options 1, 3, and a $15 million scope baseline. The Select Board reopened and reclosed the special town meeting warrant, voting to support revised articles on two-family housing and an irrigation project while voting against a trail cleanup article. Meanwhile, the Municipal Technology Committee and Affordable Housing Trust coordinated on survey questions for the 2026 Town Satisfaction Survey ahead of its October rollout.",
   "highlights": [
     {
-      "title": "Special Town Meeting Warrant Revised",
-      "why": "The Select Board reopened the warrant for the October 17 special town meeting to vote on revised text, unanimously supporting articles on two-family housing and an irrigation project, but declining to support an article on trail cleanup.",
+      "title": "Neary School options narrowed to Options 1, 3, and $15M scope",
+      "why": "The Elementary School Building Committee voted 3-1 to eliminate Option 4 and voted 4-0 to direct consultants to focus on Options 1, 3, and a $15 million baseline scope. Preliminary total cost models presented ranged from $24.4 million to $49.2 million.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "QmtBoOh20QA",
+      "start_seconds": 1324
+    },
+    {
+      "title": "Select Board votes on revised Special Town Meeting articles",
+      "why": "The Select Board reopened the October 17 warrant to vote support for revised articles on two-family housing and a Community Preservation Act irrigation project. A motion to support a CPA trail project failed on a 1-4 vote.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "Ze-vdyanglw",
       "start_seconds": 46
     },
     {
-      "title": "Financial Policies Review Continued",
-      "why": "The board reviewed proposed updates to financial policies regarding non-disclosure agreements for procurement processes and agreed to postpone final review to the October 6 meeting.",
-      "body": "Select Board",
-      "importance": "medium",
-      "video_id": "Ze-vdyanglw",
-      "start_seconds": 342
+      "title": "Affordable Housing Trust explores investing $1M in cash reserves",
+      "why": "Trustees discussed that roughly $1 million in trust funds currently earns near-zero interest and agreed to consult town finance officials regarding allowable higher-yield investment options.",
+      "body": "Affordable Housing Trust",
+      "importance": "high",
+      "video_id": "S_GDFNCBXyc",
+      "start_seconds": 3018
     },
     {
-      "title": "Cultural Arts Council Appointments Approved",
-      "why": "The board approved two returning members to the Southborough Cultural Arts Council, which enables the group to receive and distribute state grant funds.",
-      "body": "Select Board",
-      "importance": "low",
-      "video_id": "Ze-vdyanglw",
-      "start_seconds": 580
+      "title": "Municipal Technology Committee prepares 2026 Satisfaction Survey",
+      "why": "Members refined the town satisfaction survey to address past response drop-offs, incorporating input from the Affordable Housing Trust and Council on Aging ahead of an October 1 launch.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "q6tCMfNCb5g",
+      "start_seconds": 673
     }
   ],
   "looking_ahead": [
     {
+      "what": "Launch of 2026 Southborough Satisfaction Survey",
+      "when": "October 1, 2026",
+      "body": "Municipal Technology Committee"
+    },
+    {
       "what": "Select Board meeting covering financial policies and Breakneck Hill debt reduction",
       "when": "October 6, 2026",
       "body": "Select Board"
+    },
+    {
+      "what": "Elementary School Building Committee meeting to finalize Town Meeting presentation",
+      "when": "October 15, 2026",
+      "body": "Elementary School Building Committee"
     },
     {
       "what": "Special Town Meeting",
@@ -39,10 +57,13 @@
     }
   ],
   "week": "2026-09-21",
-  "fingerprint": "f62dd2c03ba19c37",
+  "fingerprint": "2b99acdd0023b43c",
   "video_ids": [
-    "Ze-vdyanglw"
+    "QmtBoOh20QA",
+    "S_GDFNCBXyc",
+    "Ze-vdyanglw",
+    "q6tCMfNCb5g"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-13T20:13:21Z"
+  "generated_at": "2026-10-14T12:40:49Z"
 }

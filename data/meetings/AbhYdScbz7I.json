@@ -1,0 +1,163 @@
+{
+  "video": {
+    "id": "AbhYdScbz7I",
+    "title": "Board of Health 9/15/26",
+    "published_at": "2026-09-15T20:11:43Z",
+    "duration_s": 3629
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-09-15",
+    "headline": "The Board of Health approved a Title 5 variance for 250 Turnpike Road and reviewed FY28 budget scenarios.",
+    "summary": "The Board of Health heard a presentation on new Massachusetts regulations banning kratom sales and received an update on town compliance. The board voted to approve its $450 elected member budget for FY28 and reviewed two scenarios for the department operating budget, one of which would cut staff hours if a town override fails. Additionally, the board approved a 6-foot foundation setback variance for a commercial septic pump chamber at 250 Turnpike Road in a 2-1 vote and previewed its October flu clinic schedule.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved the amended minutes of the August 11, 2026 meeting.",
+        "key_details": [
+          "The chair corrected the August 11 minutes to reflect a vote against a Newton Street variance rather than in favor."
+        ],
+        "outcome": "Minutes approved as amended.",
+        "why_it_matters": null,
+        "start_seconds": 10,
+        "end_seconds": null
+      },
+      {
+        "title": "Statewide kratom ban and local retail review",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Substance use prevention coordinator Emily Tylyk presented an overview of kratom in light of recent Massachusetts Department of Public Health actions. Effective August 28, 2026, Massachusetts designated kratom as a Schedule I controlled substance under a one-year temporary order, granting municipalities authority to ensure its removal from retail shelves. Staff reported that only one retailer in Southborough was found carrying a small display of kratom products, and other retailers were unaware of the substance.",
+        "key_details": [
+          "Kratom is classified as a Schedule I controlled substance in Massachusetts under a one-year order.",
+          "Retailers must secure and inventory remaining stock and either return it to distributors or arrange lawful disposal.",
+          "Only one retailer in Southborough was found selling kratom, and staff provided education to local businesses.",
+          "State guidance and addiction resources are available at mass.gov/kratom."
+        ],
+        "outcome": "Information presented with no board action needed.",
+        "why_it_matters": null,
+        "start_seconds": 46,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 elected Board of Health budget",
+        "category": "Budget & taxes",
+        "importance": "low",
+        "summary": "The board reviewed and approved the FY28 budget line for elected board members.",
+        "key_details": [
+          "The budget line covers stipends of $150 per board member for three members.",
+          "Total budget approved is $450, unchanged from previous years."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 715,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 Health Department operating budget scenarios",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The department presented two FY28 budget options in accordance with Select Board guidance. Request A represents a level-service budget of $329,835 with 5 percent wage increases approved by the Personnel Board, while Request B models a zero-percent increase over FY27 in the event a town override is declined. To achieve a zero-percent increase under Request B, staff proposed reducing weekly hours for three staff members and eliminating in-state travel and training funds.",
+        "key_details": [
+          "Request A totals $329,835, which includes 5 percent wage and COLA adjustments.",
+          "Request B achieves a 0 percent increase over FY27 by cutting weekly staff hours: 1 hour for the administrative assistant, 2 hours for the director, and 30 minutes for the sanitarian.",
+          "Northborough reimburses Southborough for 50 percent of the shared health agent salary, though that revenue goes into the general fund.",
+          "Staff noted that the department operating budget has decreased over the past five years through shared staffing arrangements."
+        ],
+        "outcome": "Vote deferred; the board will draft an explanatory memo to the Select Board and vote on the final request at its next meeting.",
+        "why_it_matters": "If the town does not pass an operating override, cuts to Health Department staff hours could lead to delays in municipal septic reviews and public health services.",
+        "start_seconds": 798,
+        "end_seconds": null
+      },
+      {
+        "title": "Septic pump chamber variance for 250 Turnpike Road",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Engineer James Tetreault presented a plan for 250 Turnpike Road to replace a failing, deteriorated sewer pipe hung under a footbridge with a new pump chamber and force main. Because of site constraints and a required 25-foot wetland setback, the applicant requested a variance from the standard 10-foot building foundation setback to place the pump chamber 6 feet from the building wall. The board approved the 6-foot variance with a vapor barrier condition, while noting that the broader replacement plan and leaching area must still be reviewed with DEP and the Conservation Commission.",
+        "key_details": [
+          "Property is located at 250 Turnpike Road, also known as the Beehive building.",
+          "Applicant requested a 6-foot setback from the building foundation instead of the standard 10 feet under Title 5.",
+          "A 40-mil impermeable vapor barrier will be installed along the building foundation to prevent any gas migration.",
+          "The project will require a temporary crossing and Notice of Intent approval from the Conservation Commission.",
+          "The board separately authorized department health agents and the sanitary inspector to sign the variance paperwork."
+        ],
+        "outcome": "Variance approved 2-1 (Liz Zadek voting against). Signing authorization passed 3-0.",
+        "why_it_matters": "The variance allows the commercial property to abandon a damaged sewer line over a wetland and construct an upgraded septic connection without encroaching closer to protected wetland boundaries.",
+        "start_seconds": 1611,
+        "end_seconds": null
+      },
+      {
+        "title": "Fall flu clinic schedule",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Department staff provided an overview of upcoming flu vaccination clinics scheduled for October.",
+        "key_details": [
+          "Regional drive-through clinic with the Greater Boroughs will take place Saturday, October 3, from 9:00 AM to 12:00 PM.",
+          "Senior clinic scheduled for October 7 at the Senior Center, with approximately 150 seniors anticipated.",
+          "Clinics for municipal staff, all public school staff, daycares, and the Fire Department will occur across the first two full weeks of October."
+        ],
+        "outcome": "Information shared with no vote required.",
+        "why_it_matters": null,
+        "start_seconds": 3409,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the FY28 510 Elected Board of Health budget of $450.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 783
+      },
+      {
+        "motion": "Grant a 6-foot foundation setback variance for the pump chamber at 250 Turnpike Road.",
+        "result": "passed",
+        "tally": "2-1",
+        "start_seconds": 3333
+      },
+      {
+        "motion": "Authorize the Health Department health agents and sanitary inspector to sign the variance for 250 Turnpike Road on behalf of the Board of Health.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3367
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Board of Health meeting to vote on the FY28 operating budget memo",
+        "when": "October 13, 2026 at 8:30 AM"
+      },
+      {
+        "what": "Board of Health meeting",
+        "when": "November 17, 2026 at 9:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:32:32Z",
+  "usage": {
+    "total_tokens": 138072,
+    "total_input_tokens": 134958,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 134268
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2014,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1100
+  }
+}

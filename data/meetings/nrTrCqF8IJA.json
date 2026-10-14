@@ -9,198 +9,223 @@
     "is_public_meeting": true,
     "body": "Conservation Commission",
     "meeting_date": "2026-10-08",
-    "headline": "The Conservation Commission reviewed several Notices of Intent, certificates of compliance, and enforcement orders, including discussions on pool installations and stormwater management.",
-    "summary": "The Conservation Commission met on October 8, 2026, to discuss multiple property applications. Key items included a Notice of Intent for a pool in the buffer zone at 1 Overlook Drive, stormwater management permits for athletic fields at 0 Marlborough Junction and apartment buildings at 0 Southville Road, certificates of compliance for properties on Pine Hill Road and Southville Road, and an enforcement order review at 6 Limbrook Road. The commission also touched on the FY28 budget preview and ongoing flooding concerns at Madison Place on Route 9.",
+    "headline": "The Southborough Conservation Commission approved a pool project at 1 Overlook Drive and lifted a 2013 enforcement order on Lynbrook Road.",
+    "summary": "The Southborough Conservation Commission addressed multiple environmental and wetlands filings, granting an order of conditions for a residential pool at 1 Overlook Drive with required native plantings and construction protections. The commission also released a 2013 enforcement order against a property on Lynbrook Road after confirming compliance alongside state officials. Several larger hearings, including athletic field redevelopments at 0 Marlborough Junction and housing proposals on Turnpike Road and Southville Road, were continued to future meetings.",
     "topics": [
       {
-        "title": "1 Overlook Drive - Notice of Intent for pool",
-        "category": "Environment & conservation",
-        "importance": "medium",
-        "summary": "The commission opened a continued public hearing for a Notice of Intent submitted by Ron Eppen for property at 1 Overlook Drive, regarding the construction of a pool and cabana within the buffer zone.",
-        "key_details": [
-          "Address: 1 Overlook Drive",
-          "Applicant: Ron Eppen, represented by Caryn Ferguson of Goddard Consulting",
-          "Project: Construction of a pool, concrete patio, and cabana within the 100-foot buffer zone",
-          "Planting plan: Proposing eight native shrubs (Northern spicebush and sweet pepperbush)",
-          "Sediment control barrier added between work area and resource area"
-        ],
-        "outcome": "Hearing continued to a later date.",
-        "why_it_matters": null,
-        "start_seconds": 125,
-        "end_seconds": 825
-      },
-      {
-        "title": "0 Marlborough Junction - Notice of Intent / Stormwater Management Permit",
-        "category": "Environment & conservation",
-        "importance": "medium",
-        "summary": "The commission considered a request for continuance regarding a Notice of Intent and stormwater management permit for Map 91, Lot 6 at 0 Marlborough Junction for the relocation and reconstruction of athletic fields, including conversion of natural gas fields to artificial turf.",
-        "key_details": [
-          "Address: 0 Marlborough Junction (Map 91, Lot 6)",
-          "Project: Relocation and reconstruction of athletic fields and conversion of natural gas fields to artificial turf",
-          "Applicant requested a continuance"
-        ],
-        "outcome": "Continued to the next meeting.",
-        "why_it_matters": null,
-        "start_seconds": 830,
-        "end_seconds": 946
-      },
-      {
-        "title": "27 Pine Hill Road - Certificate of Compliance",
-        "category": "Environment & conservation",
+        "title": "Routine business",
+        "category": "Town administration",
         "importance": "low",
-        "summary": "The commission reviewed a request for a Certificate of Compliance for an in-ground pool installed in the rear yard within the riverfront area at 27 Pine Hill Road.",
+        "summary": "The commission handled preliminary procedural items including approving minutes from the previous meeting.",
         "key_details": [
-          "Address: 27 Pine Hill Road",
-          "Project: In-ground pool installation in rear yard with split-rail fence and native shrub plantings",
-          "Site inspected; no erosion observed, work completed and stable"
+          "Approved minutes from the prior meeting by roll-call vote."
         ],
-        "outcome": "Certificate of compliance approved unanimously.",
+        "outcome": "Approved",
         "why_it_matters": null,
-        "start_seconds": 947,
-        "end_seconds": 1125
-      },
-      {
-        "title": "21 Southville Road - Certificate of Compliance",
-        "category": "Environment & conservation",
-        "importance": "low",
-        "summary": "The commission reviewed a request for a Certificate of Compliance for a porch-to-sunroom conversion and patio addition at 21 Southville Road.",
-        "key_details": [
-          "Address: 21 Southville Road",
-          "Project: Conversion of porch to sunroom and addition of patio in the buffer zone",
-          "Site inspected; work completed, stable, and existing fence acts as a natural buffer"
-        ],
-        "outcome": "Certificate of compliance approved unanimously.",
-        "why_it_matters": null,
-        "start_seconds": 1125,
-        "end_seconds": 1236
-      },
-      {
-        "title": "6 Limbrook Road - Enforcement Order Review",
-        "category": "Environment & conservation",
-        "importance": "high",
-        "summary": "The commission reviewed an old enforcement order from 2013 regarding unpermitted masonry/retaining wall construction and mowing extending to the water at 6 Limbrook Road.",
-        "key_details": [
-          "Address: 6 Limbrook Road",
-          "Enforcement order date: 2013",
-          "Issue: Retaining wall/brick wall built near the water along the property line without active closure",
-          "Mowing and clearing had occurred within the DCR property; MWRA now mows that section"
-        ],
-        "outcome": "Voted to lift the 2013 enforcement order since work is completed and no active erosion exists.",
-        "why_it_matters": "Resolves long-standing property compliance issues involving buffer zones and resource protection areas.",
-        "start_seconds": 1237,
-        "end_seconds": 1556
-      },
-      {
-        "title": "FY28 Budget Review and Madison Place Flooding Update",
-        "category": "Budget & taxes",
-        "importance": "medium",
-        "summary": "The conservation agent provided a preview of the FY28 budget (carried over from the previous meeting) and discussed ongoing flooding concerns on Route 9 near Madison Place due to beaver dams.",
-        "key_details": [
-          "FY28 budget draft to be finalized and sent to the commission",
-          "Madison Place flooding on Route 9 (behind Madison Place): caused by beaver dams on the property",
-          "MassDOT and management company contacted regarding beaver dam removal and public safety"
-        ],
-        "outcome": "No formal vote; informational updates only.",
-        "why_it_matters": null,
-        "start_seconds": 1556,
+        "start_seconds": 20,
         "end_seconds": null
       },
       {
-        "title": "0 Southville Road - Stormwater Management Application",
+        "title": "Notice of Intent: 1 Overlook Drive pool construction",
         "category": "Environment & conservation",
-        "importance": "high",
-        "summary": "The commission discussed a notice of intent and stormwater management application for the construction of two apartment buildings and associated site work at 0 Southville Road.",
+        "importance": "medium",
+        "summary": "The commission reviewed an application by Ron Eppen to construct a swimming pool, cabana, and patio within the 100-foot wetland buffer zone. Discussion focused on whether vegetation clearing would occur beyond existing lawn, access protection for small machinery, and mitigation through native plantings. The commission paused the item briefly to allow the applicant's senior consultant to join, ultimately approving the project with conditions requiring eight native shrubs in perpetuity and pre-construction access inspection.",
         "key_details": [
-          "Address: 0 Southville Road",
-          "Project: Construction of two apartment buildings and site work",
-          "Applicant requested a continuance as Lucas Environmental finishes its peer review"
+          "Project site is 1 Overlook Drive.",
+          "Work remains outside the 20-foot town no-build buffer zone.",
+          "Mitigation includes planting eight native shrubs (equal split of northern spicebush and sweet pepperbush) to be maintained in perpetuity.",
+          "Contractor McCarthy Pools will review equipment access protections within the 20-foot strip with the conservation agent during a pre-construction site visit."
         ],
-        "outcome": "Voted to continue the hearing to the next meeting.",
-        "why_it_matters": "Affects multi-family housing development and stormwater management in town.",
-        "start_seconds": null,
+        "outcome": "Hearing closed and order of conditions approved",
+        "why_it_matters": null,
+        "start_seconds": 88,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: 0 Marlborough Junction athletic fields",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission considered a continuance request for the proposed relocation and reconstruction of athletic fields, including converting natural grass fields to artificial turf at 0 Marlborough Junction (Map 91, Lot 6). One commissioner recused themselves from the matter.",
+        "key_details": [
+          "Address is 0 Marlborough Junction, Map 91 Lot 6.",
+          "Covers athletic field reconstruction and conversion to artificial turf.",
+          "Commissioner recused herself from deliberation and voting."
+        ],
+        "outcome": "Continued",
+        "why_it_matters": null,
+        "start_seconds": 515,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance: 27 Pine Hill Road",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "The conservation agent reported on a request for a Certificate of Compliance for an in-ground pool installed in a riverfront area under DEP file 290-1128. An on-site split rail fence was installed, native shrubs were established, and the site is stable with no erosion.",
+        "key_details": [
+          "Property located at 27 Pine Hill Road.",
+          "DEP file number 290-1128.",
+          "Agent confirmed site stability and compliance with all conditions."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 588,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance: 21 Southville Road",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "The commission evaluated a request for a Certificate of Compliance under DEP file 290-1142 regarding the conversion of a porch to a sunroom and patio addition within the buffer zone. The conservation agent confirmed the work is complete, a natural fence buffer is preserved, and the area is stable.",
+        "key_details": [
+          "Property located at 21 Southville Road.",
+          "DEP file number 290-1142.",
+          "Work is fully completed with stable soils."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 687,
+        "end_seconds": null
+      },
+      {
+        "title": "Enforcement order release: 6 Lynbrook Road",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission reviewed an outstanding 2013 enforcement order recorded on the deed of 6 Lynbrook Road, discovered during a title search for an ongoing home sale. The order involved an unpermitted small retaining wall and mowing on adjacent Department of Conservation and Recreation (DCR) aqueduct land. The conservation agent inspected the site, verified the wall on state land was removed, and confirmed with DCR that all issues have been settled.",
+        "key_details": [
+          "Address is 6 Lynbrook Road; enforcement order dates back to 2013.",
+          "Homeowners removed the wall section on DCR land and ceased unpermitted mowing.",
+          "DCR confirmed no pending issues exist on their property.",
+          "Action clears the cloud on the property deed."
+        ],
+        "outcome": "Enforcement order lifted",
+        "why_it_matters": null,
+        "start_seconds": 758,
+        "end_seconds": null
+      },
+      {
+        "title": "Department updates: Budget, Route 9 beaver flooding, and upcoming filings",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The conservation agent provided operational updates, noting that the FY28 budget draft and explanation memo will be submitted as previously agreed. She reported that recurring flooding on Route 9 near 344 Turnpike Road is caused by beaver dams on the adjacent Madison Place property, and the town is attempting to contact property management alongside the Massachusetts Department of Transportation. Future agenda filings are expected soon for a Costco project, a Stonebrook septic repair, and an Eagle Scout trail bridge.",
+        "key_details": [
+          "FY28 conservation budget submission will proceed to town administration.",
+          "Route 9 flooding near 344 Turnpike Road is traced to beaver dams on private property.",
+          "MassDOT has sent unacknowledged letters to Madison Place management; the town agent will follow up directly.",
+          "Upcoming applications anticipated for Costco and a Stonebrook septic system repair."
+        ],
+        "outcome": "Discussion only",
+        "why_it_matters": null,
+        "start_seconds": 953,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: 250 Turnpike Road and 0 Parkerville Road",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The commission took up a continued hearing for a proposed 32-unit rental townhouse development at 250 Turnpike Road and 0 Parkerville Road. The conservation agent confirmed that peer reviewer Lucas Environmental is still completing their review, necessitating a continuance.",
+        "key_details": [
+          "Project involves 32 rental townhouse units.",
+          "Locations are 250 Turnpike Road and 0 Parkerville Road.",
+          "Lucas Environmental peer review is expected prior to the next session."
+        ],
+        "outcome": "Continued",
+        "why_it_matters": null,
+        "start_seconds": 1256,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: 0 Southville Road apartments",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The commission addressed a Notice of Intent and stormwater management permit application for the construction of two apartment buildings and site work at 0 Southville Road. With a continuance requested and no applicant representative present, the commission voted to continue the hearing.",
+        "key_details": [
+          "Proposal covers two apartment buildings and associated site work.",
+          "Applicant requested a continuance."
+        ],
+        "outcome": "Continued",
+        "why_it_matters": null,
+        "start_seconds": 2087,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Motion to approve minutes from the last meeting",
+        "motion": "Continue the public hearing for Notice of Intent and stormwater management permit for 0 Marlborough Junction",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 33
+        "tally": "3-0 (1 recusal)",
+        "start_seconds": 558
       },
       {
-        "motion": "Motion to continue public hearing for 1 Overlook Drive",
+        "motion": "Issue a Certificate of Compliance for DEP number 290-1128 at 27 Pine Hill Road",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 814
+        "tally": "4-0",
+        "start_seconds": 672
       },
       {
-        "motion": "Motion to continue notice of intent for 0 Marlborough Junction",
+        "motion": "Issue a Certificate of Compliance for DEP number 290-1142 at 21 Southville Road",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 912
+        "tally": "4-0",
+        "start_seconds": 743
       },
       {
-        "motion": "Motion to issue Certificate of Compliance for 27 Pine Hill Road",
+        "motion": "Lift the 2013 enforcement order for 6 Lynbrook Road",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 1108
+        "tally": "4-0",
+        "start_seconds": 939
       },
       {
-        "motion": "Motion to issue Certificate of Compliance for 21 Southville Road",
+        "motion": "Continue the Notice of Intent hearing for 250 Turnpike Road and 0 Parkerville Road",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 1218
+        "tally": "4-0",
+        "start_seconds": 1317
       },
       {
-        "motion": "Motion to lift the enforcement order for 6 Limbrook Road",
+        "motion": "Close the public hearing for 1 Overlook Drive and issue an order of conditions with special conditions regarding machinery access protection within 20 feet and perpetual maintenance of native plantings",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": 1532
+        "tally": "4-0",
+        "start_seconds": 2056
       },
       {
-        "motion": "Motion to close public hearing and issue order of conditions for 1 Overlook Drive",
+        "motion": "Continue the Notice of Intent and stormwater management hearing for 0 Southville Road",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
-      },
-      {
-        "motion": "Motion to continue notice of intent for 0 Southville Road",
-        "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "4-0",
+        "start_seconds": 2114
       }
     ],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Next Conservation Commission meeting (continuances for 1 Overlook Drive, 0 Marlborough Junction, and 0 Southville Road)",
-        "when": "upcoming meeting"
+        "what": "Conservation agent to contact Madison Place property management regarding beaver dams and flooding",
+        "when": "October 13"
+      },
+      {
+        "what": "Next regular Conservation Commission meeting with continued hearings for 0 Marlborough Junction, 250 Turnpike Road, and 0 Southville Road",
+        "when": null
       }
     ],
     "caveats": null
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
-  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_Chd5b3JPYXNMeExhMzBqckVQOTdTZDhBbxIXeW9yT2FzTHhMYTMwanJFUDk3U2Q4QW8\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
-  "prompt_version": "2026-10-13",
-  "processed_at": "2026-10-13T19:48:22Z",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:37:15Z",
   "usage": {
-    "total_tokens": 83331,
-    "total_input_tokens": 80422,
+    "total_tokens": 84807,
+    "total_input_tokens": 80646,
     "input_tokens_by_modality": [
-      {
-        "modality": "text",
-        "tokens": 466
-      },
       {
         "modality": "video",
         "tokens": 79956
+      },
+      {
+        "modality": "text",
+        "tokens": 690
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 2183,
+    "total_output_tokens": 2606,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 726
+    "total_thought_tokens": 1555
   }
 }

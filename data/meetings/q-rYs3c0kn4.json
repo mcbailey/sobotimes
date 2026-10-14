@@ -7,121 +7,132 @@
   },
   "summary": {
     "is_public_meeting": true,
-    "body": "Cultural Arts Council",
+    "body": "Southborough Cultural Arts Council",
     "meeting_date": "2026-10-08",
-    "headline": "The Cultural Arts Council elected new officers, reviewed grant reimbursement records, and discussed onboarding members to the state grants system.",
-    "summary": "The Cultural Arts Council met on October 8, 2026, to elect new leadership, review the status of FY25 and FY26 grant reimbursements and pending bills, and address technical difficulties members faced accessing the grants management system. The council also welcomed new members and discussed strategies for future outreach.",
+    "headline": "The Southborough Cultural Arts Council elected new officers, approved authorized signers for accounts payable, and reviewed pending grant reimbursements.",
+    "summary": "The Southborough Cultural Arts Council convened with several new members and a liaison from the Massachusetts Cultural Council to re-establish regular operations. The council elected Karen Trachtenberg as chair, Frank Tipton as treasurer, and Christina Kopp as secretary. Members signed authorized signature documentation with the town accountant to release backlogged grant reimbursements and reviewed the status of outstanding awards. Grant applicants and council members were advised on accessing the state grant management portal ahead of the upcoming grant cycle review in November.",
     "topics": [
       {
-        "title": "Election of Officers",
+        "title": "Election of council officers",
         "category": "Town administration",
-        "importance": "low",
-        "summary": "The council held elections for chairperson, treasurer, and secretary.",
+        "importance": "medium",
+        "summary": "With several new members joining the council, the board held roll-call votes to elect officers for the year. Karen Trachtenberg was elected chair, Frank Tipton was elected treasurer, and Christina Kopp volunteered and was elected secretary.",
         "key_details": [
-          "Karen Tipton was elected as chairperson.",
-          "Frank Tipton was elected as treasurer.",
-          "Curcy Niazdan was elected as secretary."
+          "Karen Trachtenberg elected chair unanimously",
+          "Frank Tipton elected treasurer unanimously",
+          "Christina Kopp elected secretary unanimously"
         ],
-        "outcome": "Officers were unanimously elected by roll call vote.",
+        "outcome": "Officers were elected by unanimous roll-call votes.",
         "why_it_matters": null,
-        "start_seconds": 121,
-        "end_seconds": 696
-      },
-      {
-        "title": "Meeting Schedule and Format",
-        "category": "Town administration",
-        "importance": "low",
-        "summary": "The council discussed scheduling future meetings and the balance between virtual, hybrid, and in-person attendance.",
-        "key_details": [
-          "Discussion on meeting minutes approval workflows.",
-          "Reference to posting meeting minutes on the town website."
-        ],
-        "outcome": "Tabled for further review.",
-        "why_it_matters": null,
-        "start_seconds": 696,
-        "end_seconds": 715
-      },
-      {
-        "title": "Signature Authorization and Grant Reimbursements",
-        "category": "Budget & taxes",
-        "importance": "high",
-        "summary": "The council reviewed signature authorization forms and pending grant reimbursement records for FY25 and FY26 grants, discussing troubleshooting steps for members having access issues to the state grants management system.",
-        "key_details": [
-          "Signature authorization form designated primary and alternate signers for town bills and checks.",
-          "Pending reimbursement bills discussed for Assabet Valley Master Singers, Algonquin Regional High School, High School Drama Guild, and individual grant recipients.",
-          "Discussion of grants management system login and access difficulties experienced by council members."
-        ],
-        "outcome": "Assigned signature roles and discussed next steps for verifying and submitting outstanding grant documentation.",
-        "why_it_matters": "Ensures proper financial oversight and timely disbursement of local cultural council grant reimbursements to recipients.",
-        "start_seconds": 715,
+        "start_seconds": 62,
         "end_seconds": null
       },
       {
-        "title": "New Member Introductions and Closing",
+        "title": "Designation of signature authorization",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Town Accountant Carla McAuliffe presented the municipal signature authorization form needed on file to release payments and process reimbursements for cultural council grants. Frank Tipton was designated as the primary signer, with Karen Trachtenberg and Nya Yazdani designated as alternates.",
+        "key_details": [
+          "Form required on file in the town accounting office to process municipal warrants and checks",
+          "Frank Tipton designated primary signer as treasurer",
+          "Karen Trachtenberg and Nya Yazdani designated as alternate signers"
+        ],
+        "outcome": "Council members signed the authorization form.",
+        "why_it_matters": null,
+        "start_seconds": 435,
+        "end_seconds": null
+      },
+      {
+        "title": "Financial review and pending grant reimbursements",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The council reviewed pending accounts payable and tracked encumbered versus unencumbered grant awards across recent fiscal years. Four reimbursements with complete documentation were approved for processing: Assabet Valley Mastersingers ($750), Algonquin Regional High School ($250), High School Drama Guild ($750), and Karen Trachtenberg ($250). Other pending grantees, including Emily Van Nort and Catherine Weber, will be contacted to provide missing receipts before payments can be released.",
+        "key_details": [
+          "Four grant reimbursements totaling $2,000 had completed backup and were submitted for payment",
+          "Unpaid grants from FY25 and FY26 remain encumbered, with grantees having a 12-month window to claim funds",
+          "Unclaimed FY25 funding includes Michelle Liu's $350 grant for an Asian folk dance exhibition",
+          "Grant application deadline for the next cycle is October 15, with council evaluation planned for mid-November"
+        ],
+        "outcome": "Town accountant submitted the payable schedule for approved reimbursements; staff and council will follow up on missing paperwork for remaining grantees.",
+        "why_it_matters": "Ensures town and state cultural grant funds are disbursed to local artists and organizations and tracks unspent funds for reallocation in future grant cycles.",
+        "start_seconds": 678,
+        "end_seconds": null
+      },
+      {
+        "title": "Massachusetts Cultural Council onboarding and portal access",
         "category": "Town administration",
         "importance": "low",
-        "summary": "New and prospective members introduced themselves and discussed their artistic backgrounds and reasons for joining the council.",
+        "summary": "Liaison Jay Wong reviewed state procedures, online training requirements, and access to the Massachusetts Cultural Council Grants Management System for reviewing grant applications. Council members also shared their personal and professional backgrounds in the arts.",
         "key_details": [
-          "Members shared their backgrounds in education, theater, and visual arts.",
-          "Brief discussion on future meeting planning."
+          "Liaison provided contact information and registration instructions for council members",
+          "Annual grant applications close October 15",
+          "Council will use a scheduling poll to select dates for grant evaluation meetings"
         ],
-        "outcome": "Meeting adjourned following roll call vote.",
+        "outcome": "Members will register for portal access and complete state training ahead of the November grant review meetings.",
         "why_it_matters": null,
-        "start_seconds": null,
+        "start_seconds": 1656,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Nominate Karen Tipton as chairperson",
+        "motion": "Elect Karen Trachtenberg as chair of the Cultural Arts Council",
         "result": "passed",
         "tally": "unanimous",
-        "start_seconds": 301
+        "start_seconds": 201
       },
       {
-        "motion": "Nominate Frank Tipton as treasurer",
+        "motion": "Elect Frank Tipton as treasurer of the Cultural Arts Council",
         "result": "passed",
         "tally": "unanimous",
-        "start_seconds": 435
+        "start_seconds": 282
       },
       {
-        "motion": "Nominate Curcy Niazdan as secretary",
+        "motion": "Elect Christina Kopp as secretary of the Cultural Arts Council",
         "result": "passed",
         "tally": "unanimous",
-        "start_seconds": 617
-      },
-      {
-        "motion": "Adjourn meeting",
-        "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "start_seconds": 382
       }
     ],
-    "public_comment": [],
-    "upcoming": [],
-    "caveats": null
+    "public_comment": [
+      {
+        "summary": "A grant recipient inquired about the status of her reimbursement paperwork, noting she had not received payment; the town accountant instructed her to resend documentation directly to the accounting office so it can be processed.",
+        "start_seconds": 1194
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Massachusetts Cultural Council grant application deadline",
+        "when": "October 15"
+      },
+      {
+        "what": "Cultural Arts Council grant review meetings",
+        "when": "Mid-November"
+      }
+    ],
+    "caveats": "Discussion continued among participants after the formal motion to adjourn was passed at 0:40:15 until the recording ended."
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
-  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChcxWWpPYXVLWEM3ZV8zOUlQeElMb3VRMBIXMVlqT2F1S1hDN2VfMzlJUHhJTG91UTA\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
-  "prompt_version": "2026-10-13",
-  "processed_at": "2026-10-13T19:41:49Z",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:33:22Z",
   "usage": {
-    "total_tokens": 138809,
-    "total_input_tokens": 107048,
+    "total_tokens": 109713,
+    "total_input_tokens": 107272,
     "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 690
+      },
       {
         "modality": "video",
         "tokens": 106582
-      },
-      {
-        "modality": "text",
-        "tokens": 466
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 1044,
+    "total_output_tokens": 1432,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 30717
+    "total_thought_tokens": 1009
   }
 }

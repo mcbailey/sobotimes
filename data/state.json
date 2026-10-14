@@ -14,8 +14,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:41:49Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:33:22Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "G9S9K_Mene8": {
       "id": "G9S9K_Mene8",
@@ -30,8 +31,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:45:15Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:35:36Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "pJYL2Q6xFRg": {
       "id": "pJYL2Q6xFRg",
@@ -46,8 +48,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:47:00Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:36:26Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "nrTrCqF8IJA": {
       "id": "nrTrCqF8IJA",
@@ -62,8 +65,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:48:22Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:37:15Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "DIW91Vw3LIY": {
       "id": "DIW91Vw3LIY",
@@ -78,8 +82,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:50:41Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:38:39Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "Dlomobo7FQ4": {
       "id": "Dlomobo7FQ4",
@@ -94,8 +99,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-05",
       "week": "2026-10-05",
-      "processed_at": "2026-10-13T19:53:51Z",
-      "last_error": null
+      "processed_at": "2026-10-14T12:39:29Z",
+      "last_error": null,
+      "prompt_version": "2026-10-13b"
     },
     "2dGufO1TwE4": {
       "id": "2dGufO1TwE4",
@@ -206,12 +212,15 @@
       "published_at": "2026-09-29T17:15:36Z",
       "duration_s": 10320,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-28",
-      "week": "2026-09-28"
+      "week": "2026-09-28",
+      "processed_at": "2026-10-14T12:14:07Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "QmtBoOh20QA": {
       "id": "QmtBoOh20QA",
@@ -220,12 +229,15 @@
       "published_at": "2026-09-25T14:36:23Z",
       "duration_s": 4801,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-24",
-      "week": "2026-09-21"
+      "week": "2026-09-21",
+      "processed_at": "2026-10-14T12:14:57Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "Ze-vdyanglw": {
       "id": "Ze-vdyanglw",
@@ -251,12 +263,15 @@
       "published_at": "2026-09-24T13:03:37Z",
       "duration_s": 3757,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-23",
-      "week": "2026-09-21"
+      "week": "2026-09-21",
+      "processed_at": "2026-10-14T12:15:46Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "S_GDFNCBXyc": {
       "id": "S_GDFNCBXyc",
@@ -265,12 +280,15 @@
       "published_at": "2026-09-24T12:57:20Z",
       "duration_s": 4281,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-23",
-      "week": "2026-09-21"
+      "week": "2026-09-21",
+      "processed_at": "2026-10-14T12:16:35Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "TwiZfHm90lU": {
       "id": "TwiZfHm90lU",
@@ -279,12 +297,15 @@
       "published_at": "2026-09-21T16:06:17Z",
       "duration_s": 3528,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-14",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:17:59Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "Nzknp6oL4v8": {
       "id": "Nzknp6oL4v8",
@@ -293,12 +314,15 @@
       "published_at": "2026-09-18T13:32:21Z",
       "duration_s": 5288,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-17",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:19:23Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "Sg_jLEHga3k": {
       "id": "Sg_jLEHga3k",
@@ -307,12 +331,15 @@
       "published_at": "2026-09-18T13:18:36Z",
       "duration_s": 4401,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-17",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:20:12Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "7c2pm_BqUTk": {
       "id": "7c2pm_BqUTk",
@@ -321,12 +348,15 @@
       "published_at": "2026-09-18T13:04:57Z",
       "duration_s": 3376,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-17",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:21:01Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "ZFwCQUWlbtI": {
       "id": "ZFwCQUWlbtI",
@@ -335,12 +365,15 @@
       "published_at": "2026-09-17T12:43:35Z",
       "duration_s": 7631,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-16",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:23:16Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "IW-Yyg8ixZc": {
       "id": "IW-Yyg8ixZc",
@@ -349,12 +382,15 @@
       "published_at": "2026-09-17T12:27:28Z",
       "duration_s": 5468,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-16",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:24:39Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "kC-X75Msc0s": {
       "id": "kC-X75Msc0s",
@@ -363,12 +399,15 @@
       "published_at": "2026-09-17T12:11:25Z",
       "duration_s": 5602,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-16",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:26:54Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "uogPth-Nky8": {
       "id": "uogPth-Nky8",
@@ -377,12 +416,15 @@
       "published_at": "2026-09-16T16:19:41Z",
       "duration_s": 11911,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-15",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:31:09Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "AbhYdScbz7I": {
       "id": "AbhYdScbz7I",
@@ -391,12 +433,15 @@
       "published_at": "2026-09-15T20:11:43Z",
       "duration_s": 3629,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "attempts": 0,
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-15",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-14T12:32:32Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     }
   },
   "usage": {
@@ -409,19 +454,19 @@
       "tool_use_tokens": 0
     },
     "2026-10-14": {
-      "video_minutes": 398,
-      "calls": 7,
-      "input_tokens": 924022,
-      "output_tokens": 9542,
-      "thought_tokens": 17121,
+      "video_minutes": 1993,
+      "calls": 30,
+      "input_tokens": 4598372,
+      "output_tokens": 54742,
+      "thought_tokens": 58932,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-14T11:47:18Z",
+    "at": "2026-10-14T12:11:52Z",
     "discovered": 25,
-    "summarized": 0,
-    "refreshed": 0,
+    "summarized": 13,
+    "refreshed": 6,
     "errors": 0
   }
 }

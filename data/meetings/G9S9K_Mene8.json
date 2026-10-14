@@ -9,150 +9,161 @@
     "is_public_meeting": true,
     "body": "Community Preservation Committee",
     "meeting_date": "2026-10-08",
-    "headline": "The Community Preservation Committee discussed warrant articles and project updates, including funding changes for the Peninsula Trail and Southborough Golf Club irrigation.",
-    "summary": "The Community Preservation Committee reviewed warrant articles for the Fall Town Meeting, focusing on project updates, budget changes, and timelines for initiatives like the Peninsula Trail and the Southborough Golf Club irrigation project. Committee members debated whether to support amendments or pull warrant articles due to concerns about costs and lack of town support, ultimately voting to move forward with certain projects.",
+    "headline": "The Community Preservation Committee voted 3-2 to advance the Peninsula Trail funding article to Fall Town Meeting without proposed cuts.",
+    "summary": "Ahead of the October 17 Fall Special Town Meeting, the Community Preservation Committee debated whether to amend or pull its Peninsula Trail warrant article due to cost concerns from other boards. A majority rejected stripping contingency funds, voting 3-2 to bring the article to voters as originally drafted. The committee also reviewed presentations for the Golf Course irrigation project, conducted preliminary reviews of three FY27 town meeting applications, approved its consultant scope of services, and reelected its leadership.",
     "topics": [
       {
-        "title": "Peninsula Trail project update and warrant article review",
+        "title": "Peninsula Trail Fall Town Meeting warrant article",
         "category": "Parks, recreation & open space",
         "importance": "high",
-        "summary": "The committee discussed the Peninsula Trail warrant article for the upcoming Fall Town Meeting, reviewing funding history, grant statuses, and budget adjustments to account for construction cost escalation and bridge estimates.",
+        "summary": "The committee discussed whether to modify or postpone the warrant article requesting 217,318 dollars in additional Community Preservation Act funds for the Peninsula Trail pedestrian bridge, bringing total project costs to 428,550 dollars. Members debated a potential floor amendment that would have eliminated the project contingency to reduce the request to 25,000 dollars, but the committee decided against scaling back the project.",
         "key_details": [
-          "Project: Peninsula Trail - Completing the Connection",
-          "Warrant Article: Article 4, Fall Town Meeting (October 17, 2026)",
-          "Additional CPA funds requested: $217,318",
-          "Total maximum project budget: $428,550",
-          "Contingency included: $25,000"
+          "Select Board and Advisory Committee members raised concerns about the estimated 5,000 dollar per foot bridge cost.",
+          "Trails Committee representatives presented an alternative bare-bones budget of 324,050 dollars that removed almost all construction contingency.",
+          "A committee member agreed to present and move the article on the Town Meeting floor.",
+          "The committee voted 3-2 to support moving the article forward to Town Meeting as printed."
         ],
-        "outcome": "Voted to support moving the article forward to Town Meeting.",
-        "why_it_matters": "Residents' tax dollars and CPA funds are being allocated for recreational trails, impacting open space development and town budgets.",
-        "start_seconds": 0,
-        "end_seconds": 1422
-      },
-      {
-        "title": "Southborough Golf Club irrigation system replacement funding",
-        "category": "Parks, recreation & open space",
-        "importance": "high",
-        "summary": "The committee reviewed the CPA funding application for the Southborough Golf Club irrigation system replacement project, noting an increased project cost to $1,087,296 due to bidding escalation and a new pump station.",
-        "key_details": [
-          "Total Project Cost: $1,087,296",
-          "Previously approved CPA funds (2024): $553,750",
-          "Golf Revolving Fund contribution: $100,000",
-          "Additional CPA funds requested for 2026: $433,546",
-          "Project qualifies under recreation and historic preservation goals."
-        ],
-        "outcome": "Reviewed application and FAQs; further discussion and formatting finalized for Town Meeting.",
-        "why_it_matters": "Involves substantial municipal spending and CPA funds for town-owned recreational assets.",
-        "start_seconds": 6414,
-        "end_seconds": 6921
-      },
-      {
-        "title": "Technical review of potential warrant articles for 2027 Annual Town Meeting",
-        "category": "Town administration",
-        "importance": "medium",
-        "summary": "The committee performed a preliminary technical review of potential warrant articles for the 2027 Annual Town Meeting, including affordable housing trust projects, open projects, and tennis court restoration.",
-        "key_details": [
-          "Reviewed Affordable Housing Trust application and 2025 affordability surveys.",
-          "Discussed Golf Irrigation project and tennis court restoration sign requirements.",
-          "Emphasized the importance of updating application data and project descriptions."
-        ],
-        "outcome": "Notes and feedback provided to applicants for follow-up.",
-        "why_it_matters": null,
-        "start_seconds": 6921,
+        "outcome": "Passed 3-2 to keep the article as printed for the October 17 Fall Special Town Meeting.",
+        "why_it_matters": "The decision sends the full funding request for the Peninsula Trail connector bridge directly to voters rather than scaling back the project or postponing it.",
+        "start_seconds": 30,
         "end_seconds": null
       },
       {
-        "title": "CPC Consultant Contract and Job Description review",
-        "category": "Town administration",
+        "title": "Golf Course irrigation project presentation review",
+        "category": "Parks, recreation & open space",
         "importance": "medium",
-        "summary": "The committee reviewed and discussed the CPC consultant contract, Exhibit A, and the job description/scope of services for FY26/FY27, making minor edits to invoicing and meeting preparation duties.",
+        "summary": "The committee reviewed the draft slide presentation and informational handout for the Southborough Golf Club irrigation replacement article on the Fall Town Meeting warrant. The project has a total cost of 1,087,296 dollars, funded in part by 553,750 dollars approved in 2024, 100,000 dollars from the Golf Revolving Fund, and 433,546 dollars in additional CPA funding requested at Town Meeting.",
         "key_details": [
-          "Consultant: Freddy Gillespie",
-          "Reviewed Exhibit A: CPC Consultant Job Description/Scope of Services for FY26.",
-          "Changed 'pay invoices' to 'approve invoices for payment'."
+          "A slide was corrected to specify the project qualifies under CPA recreation criteria rather than historic preservation.",
+          "Drone photography showing golf course conditions during dry periods will be included in the presentation.",
+          "Informational flyers explaining the need to replace the 50-year-old system will be distributed to voters."
         ],
-        "outcome": "Approved consultant job description and contract language with amendments (unanimous vote).",
+        "outcome": "Reviewed with minor text corrections noted.",
         "why_it_matters": null,
-        "start_seconds": null,
+        "start_seconds": 3747,
         "end_seconds": null
       },
       {
-        "title": "Approval of minutes and committee organization",
+        "title": "Preliminary review of FY27 Annual Town Meeting applications",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee held technical reviews of three draft applications submitted for the 2027 Annual Town Meeting: the Affordable Housing Trust, the Water Tower Restoration, and Harold E. Fay Memorial Park. Members provided feedback on missing documentation, cost estimates, and survey references.",
+        "key_details": [
+          "The Affordable Housing Trust noted an updated need for 225 housing units including 28 affordable units, and reported receiving a technical assistance grant from the Massachusetts Housing Partnership.",
+          "The Water Tower application is awaiting an engineering evaluation report from consultants before firm cost numbers can be added.",
+          "Fay Memorial Park representatives discussed parking configurations along Central Street with the Select Board, police, and DPW, with parallel parking being considered as an interim step."
+        ],
+        "outcome": "Feedback given to applicants to incorporate into revised submissions for upcoming meetings.",
+        "why_it_matters": null,
+        "start_seconds": 4158,
+        "end_seconds": null
+      },
+      {
+        "title": "Ongoing CPA project signage review",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "Members discussed signage acknowledging CPA contributions across town projects, including Harold E. Fay Memorial Park, Mooney Field, Richardson Tennis Courts, and Town House. The committee decided separate signs were appropriate for the volleyball court and tennis courts at Neary, discussed acknowledging an Eagle Scout project at Fay Park, and agreed no additional signage was necessary at South Union School.",
+        "key_details": [
+          "The Town House sign draft language is finalized with Franklin Bronze.",
+          "Mooney Park volleyball court sign will measure similarly to existing memorial plaques.",
+          "Members agreed not to duplicate signage at South Union School."
+        ],
+        "outcome": "Guidelines for sign text and placements were clarified.",
+        "why_it_matters": null,
+        "start_seconds": 5492,
+        "end_seconds": null
+      },
+      {
+        "title": "FY26 CPC consultant scope and contract",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed the consultant contract and job description for Freddie Gillespie for FY26, running from July 1, 2026 to June 30, 2027. The scope was modified to clarify that the consultant approves invoices for payment rather than directly paying them.",
+        "key_details": [
+          "Contract covers administrative support, Town Meeting preparation, and project tracking.",
+          "The committee voted unanimously to approve the contract with the amendment to invoice processing wording."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 6623,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
         "category": "Town administration",
         "importance": "low",
-        "summary": "The committee approved past meeting minutes and discussed leadership and committee organization, including nominating a vice chair.",
+        "summary": "The committee approved meeting minutes from September 8 and September 14, 2026. Members conducted annual reorganization, reelecting Lisa Braccio as chair and Kristen LaVault as vice chair, and scheduled their next regular meeting for October 27, 2026.",
         "key_details": [
-          "Approved minutes from September 8, 2026, September 14, 2026, and August 25, 2026.",
-          "Nominated and voted on Kristen Lavallée as vice chair of the committee."
+          "September 8, 2026 minutes approved 4-0-1 with Kristen LaVault abstaining.",
+          "September 14, 2026 minutes approved unanimously 5-0.",
+          "Lisa Braccio reelected chair 4-0-1 with Braccio abstaining.",
+          "Kristen LaVault reelected vice chair 4-0-1 with LaVault abstaining."
         ],
-        "outcome": "Minutes approved; Kristen Lavallée approved as vice chair.",
+        "outcome": "Approved minutes and reelected officers.",
         "why_it_matters": null,
-        "start_seconds": null,
+        "start_seconds": 7054,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Approve CPC Consultant Job Description and Scope of Services for FY26 with amendments to invoicing language",
+        "motion": "Support moving the Peninsula Trail project article to the Fall Special Town Meeting on October 17 as printed in the warrant",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "3-2",
+        "start_seconds": 3342
       },
       {
-        "motion": "Approve minutes from September 8, 2026",
+        "motion": "Approve the FY26 consultant contract and job description for Freddie Gillespie effective July 1, 2026 through June 30, 2027, with the amendment changing pay invoices to approve invoices for payment",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "5-0",
+        "start_seconds": 7040
       },
       {
-        "motion": "Approve minutes from August 25, 2026 as amended",
+        "motion": "Reelect Lisa Braccio as chair of the Community Preservation Committee",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "4-0-1",
+        "start_seconds": 7288
       },
       {
-        "motion": "Approve minutes from September 14, 2026 as amended",
+        "motion": "Reelect Kristen LaVault as vice chair of the Community Preservation Committee",
         "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
-      },
-      {
-        "motion": "Nominate Kristen Lavallée as Vice Chair of the Community Preservation Committee",
-        "result": "passed",
-        "tally": "unanimous",
-        "start_seconds": null
+        "tally": "4-0-1",
+        "start_seconds": 7321
       }
     ],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Fall Special Town Meeting",
+        "what": "Special Town Meeting",
         "when": "October 17, 2026"
+      },
+      {
+        "what": "Next Community Preservation Committee meeting",
+        "when": "October 27, 2026 at 7:00 PM"
       }
     ],
     "caveats": null
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
-  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChZrNG5PYXI2aElicm1qTWNQOU8yS2NBEhZrNG5PYXI2aElicm1qTWNQOU8yS2NB\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"}, \"s",
-  "prompt_version": "2026-10-13",
-  "processed_at": "2026-10-13T19:45:15Z",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:35:36Z",
   "usage": {
-    "total_tokens": 297064,
-    "total_input_tokens": 295424,
+    "total_tokens": 301645,
+    "total_input_tokens": 295648,
     "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
       {
         "modality": "video",
         "tokens": 294956
-      },
-      {
-        "modality": "text",
-        "tokens": 468
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 1640,
+    "total_output_tokens": 2041,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 0
+    "total_thought_tokens": 3956
   }
 }

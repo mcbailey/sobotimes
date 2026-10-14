@@ -1,0 +1,178 @@
+{
+  "video": {
+    "id": "TwiZfHm90lU",
+    "title": "Library Board of Trustees 9/14/26",
+    "published_at": "2026-09-21T16:06:17Z",
+    "duration_s": 3528
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Library Board of Trustees",
+    "meeting_date": "2026-09-14",
+    "headline": "Library trustees reviewed severe budget cuts under an override-failure scenario and approved an updated mobile hotspot lending policy.",
+    "summary": "The Library Board of Trustees addressed FY28 budget planning under guidance from town administration requiring two budget scenarios ahead of an anticipated town-wide tax override vote. If the override fails, the library faces eliminating line items for programming, staff development, and travel, while cutting subscriptions by more than half. The board also approved exterior lighting and electrical improvements for the town tricentennial, adopted updated fees and rules for lending mobile Wi-Fi hotspots, and postponed a decision on purchasing new display furniture.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from August 10, 2026, with minor typographical edits and adjourned the meeting.",
+        "key_details": [
+          "Meeting minutes from August 10, 2026, were approved as amended.",
+          "Meeting adjourned at 12:03 PM."
+        ],
+        "outcome": "Minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 13,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 budget planning and override scenarios",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The library director reported that the town finance director asked department heads to prepare two FY28 budget submissions earlier than usual due to a planned spring tax override ballot question. Budget A assumes the override passes and seeks level services based on FY27, while Budget B assumes the override fails and would completely eliminate line items for programming, professional development, and in-state travel, while cutting subscriptions by more than half. Trustees discussed the risk of repeating severe cuts experienced during the pandemic and decided to meet October 5 to review the complete budget narrative and vote.",
+        "key_details": [
+          "Town instructed departments to submit two FY28 budgets: one if an override passes and one if it fails.",
+          "An override failure would eliminate programming, staff training, and travel, and reduce database subscriptions by more than half.",
+          "The library faces a mandatory CW MARS network assessment increase of $1,845.",
+          "Trustees noted the Southborough library budget makes up 0.93 percent of municipal spending compared to a 1.24 percent statewide average.",
+          "Board members agreed to hold a special meeting on October 5 to vote on the budget drafts ahead of the town's October 13 deadline."
+        ],
+        "outcome": "Board directed the director to draft Budget A using FY27 baseline figures and scheduled a budget vote for October 5, 2026.",
+        "why_it_matters": "If voters do not approve a town-wide tax override, the library would face major cuts to community programs, educational databases, and staff development.",
+        "start_seconds": 170,
+        "end_seconds": null
+      },
+      {
+        "title": "Library facilities and mobile display furniture proposal",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The director provided updates on maintenance projects, including replacing indoor lighting and repairing a concrete platform on the first Saturday of October, which requires moving book drop bins temporarily to the lawn. The board also considered purchasing a commercial mobile pillar display unit for staff book picks costing approximately $3,500. Several trustees voiced concerns about the cost during a difficult budget cycle and debated whether moving staff selections would diminish their visibility or conflict with ongoing floral arrangements.",
+        "key_details": [
+          "The concrete entrance platform will be repaired on the first Saturday of October, temporarily moving exterior book drops to the lawn.",
+          "The director proposed purchasing a mobile pillar display unit from Demco for roughly $3,500 to expand exhibit space.",
+          "Trustees raised questions about spending $3,500 in an uncertain budget environment and how it affects sightlines with library flower arrangements."
+        ],
+        "outcome": "The board tabled the furniture proposal for one month to allow trustees to examine the proposed area in person.",
+        "why_it_matters": null,
+        "start_seconds": 1270,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial celebration lighting and outdoor power",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The director presented a request from the town Tricentennial committee to install decorative exterior lighting at the library in December, including lighted wreaths, window candles, and string lights on three trees and one shrub. The Tricentennial committee will fund the installation of permanent exterior electrical outlets on the property, providing long-sought outdoor power for future library events. The board approved the exterior decoration and electrical work, while leaving decisions on hosting indoor open house activities for later discussion.",
+        "key_details": [
+          "Decoration plans include exterior wreaths with lights, window candles, and wrapping three trees and one shrub in string lights.",
+          "The Tricentennial committee will pay to install permanent exterior electrical outlets on the grounds.",
+          "Facilities staff confirmed the exterior electrical infrastructure will remain permanently for library use.",
+          "Trustees discussed potential scheduling conflicts with winter community events and deferred any decisions on opening the facility after hours."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 2220,
+        "end_seconds": null
+      },
+      {
+        "title": "Capital requests and parking lot drainage update",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The director briefed trustees on library capital planning, noting that a full replacement of the library parking lot will not be submitted for FY28. The Facilities department found that required site engineering to protect the water table and manage runoff with granite additions will make the project too expensive to fund soon. The project will instead be proposed for town capital planning two to three years in the future.",
+        "key_details": [
+          "The library parking lot project will be deferred for submission in two to three years rather than FY28.",
+          "Engineering assessments require granite features to manage water flow and protect the water table, driving up costs.",
+          "The library director confirmed the project is too costly to be subsidized by library state aid funds.",
+          "A proposed town IT project involving the library remains in preliminary scoping."
+        ],
+        "outcome": "Capital parking lot request deferred to future town capital plan cycles.",
+        "why_it_matters": null,
+        "start_seconds": 2598,
+        "end_seconds": null
+      },
+      {
+        "title": "Wireless hotspot lending policy revision",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Trustees considered and approved amendments to the library circulating wireless hotspot lending policy. The changes introduce a $15 replacement fee for lost or unreturned chargers, require patrons to return units directly to staff instead of deposit boxes or mailboxes, and permit a six-month suspension of borrowing privileges for noncompliance. Cash replacement fees collected will be transferred directly to the town general fund.",
+        "key_details": [
+          "Added a $15 fine for unreturned or lost hotspot chargers.",
+          "Patrons are explicitly prohibited from returning hotspots in book drops or mailboxes.",
+          "Staff may suspend hotspot borrowing privileges for six months for repeated violations.",
+          "Cash collected from fees is transferred to the town general fund, while credit payments process via CW MARS to the Friends."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 2730,
+        "end_seconds": null
+      },
+      {
+        "title": "Suicide Prevention Month sign request",
+        "category": "Health & human services",
+        "importance": "low",
+        "summary": "The director notified trustees of a request from Southborough Youth and Family Services to place a suicide prevention awareness lawn sign near the library intersection sign. Trustees raised no objections, noting the sign was placed in the same location during the previous year.",
+        "key_details": [
+          "Southborough Youth and Family Services requested placement of an awareness sign for Suicide Prevention Month.",
+          "The sign will be placed near the library brick entrance sign by the intersection."
+        ],
+        "outcome": "Board consented to placing the sign on library grounds.",
+        "why_it_matters": null,
+        "start_seconds": 3405,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the Tricentennial Committee exterior lighting proposal, including wreaths, window candles, and lights on three trees and one shrub",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2527
+      },
+      {
+        "motion": "Accept the revised Southborough Library circulating wireless hotspot lending policy",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3085
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special Board of Trustees meeting to review the FY28 budget narrative and vote on the budget drafts",
+        "when": "October 5, 2026"
+      },
+      {
+        "what": "Concrete platform replacement and temporary relocation of book drops to the front lawn",
+        "when": "First Saturday in October 2026"
+      },
+      {
+        "what": "Town deadline for FY28 department budget submissions",
+        "when": "October 13, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:17:59Z",
+  "usage": {
+    "total_tokens": 141385,
+    "total_input_tokens": 135481,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 134789
+      },
+      {
+        "modality": "text",
+        "tokens": 692
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2240,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3664
+  }
+}

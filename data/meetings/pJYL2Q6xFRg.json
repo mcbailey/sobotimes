@@ -9,70 +9,59 @@
     "is_public_meeting": true,
     "body": "Master Plan Implementation Committee",
     "meeting_date": "2026-10-08",
-    "headline": "The Master Plan Implementation Committee debriefed on their September Planning Board presentation and planned next steps for Master Plan 2030.",
-    "summary": "The Master Plan Implementation Committee met on October 8, 2026, to discuss their recent appearance before the Planning Board and strategize for future presentations regarding Master Plan 2030. Members reviewed background data, vendor pricing models, and how to better align their implementation tracking charge with the Planning Board. The committee also approved minutes from their September 10 meeting.",
+    "headline": "The Master Plan Implementation Committee prepared recommendations urging the Planning Board to lead the upcoming Master Plan 2030 process.",
+    "summary": "The Master Plan Implementation Committee met to debrief a recent Planning Board discussion and plan for a joint presentation on October 19, 2026. Members reviewed research on how neighboring towns conduct master planning, including estimated consultant costs of $50,000 to $60,000. The committee emphasized that the Planning Board should take ownership of initiating and managing the next master plan rather than assigning that role to the implementation committee. The committee also approved previous meeting minutes.",
     "topics": [
       {
-        "title": "Planning Board meeting debrief & Master Plan 2030 strategy",
-        "category": "Town administration",
-        "importance": "high",
-        "summary": "The committee discussed their high-level presentation of Master Plan 2030 to the Planning Board on September 28 and prepared for follow-up presentations and materials to be shared at the next Planning Board meeting.",
+        "title": "Master Plan 2030 planning and presentation to Planning Board",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The committee discussed its upcoming presentation to the Planning Board regarding preparations for the town's next comprehensive master plan. Members reviewed comparative research on how neighboring towns like Westborough and Northborough structured their master plans, noting typical consultant costs range between $40,000 and $70,000 (averaging around $50,000 to $60,000). The committee agreed to recommend that the Planning Board take ownership of the process and establish a dedicated Master Plan 2030 committee in 2027, with the implementation committee serving in an advisory capacity. They also discussed improving progress metrics for ongoing master plan goals using status indicators rather than strict percentage completions.",
         "key_details": [
-          "The committee presented an overview of Master Plan 2030 to the Planning Board on September 28.",
-          "The next Planning Board meeting where implementation is scheduled to be discussed is October 19.",
-          "Discussions covered vendor consultant pricing ranges between $40,000 and $70,000 and the use of AI tools to compile meeting notes and town data.",
-          "Committee members debated the scope of their charge versus the Planning Board's role in tracking long-term municipal implementation."
+          "MPIC will present to the Planning Board at their meeting on October 19, 2026.",
+          "Committee recommends the Planning Board establish a Master Plan 2030 committee in 2027.",
+          "Neighboring municipal master planning consultant costs were estimated around $50,000 to $60,000.",
+          "A committee member compiled desktop comparative research and a 20-question outreach guide for other towns.",
+          "Members recommended shifting ongoing goal tracking from percentage completion to on-track or falling-short status indicators."
         ],
-        "outcome": "Members agreed to refine presentation materials and coordinate with the Planning Board and town leadership ahead of the October 19 meeting.",
-        "why_it_matters": "Master Plan 2030 dictates Southborough's long-term growth, housing, infrastructure, and zoning policies, impacting all residents.",
+        "outcome": "The chair will compile presentation slides and comparative research documents to send to the Planning Board and post a joint meeting notice for October 19, 2026.",
+        "why_it_matters": null,
         "start_seconds": 49,
-        "end_seconds": 798
+        "end_seconds": null
       },
       {
         "title": "Routine business",
         "category": "Town administration",
         "importance": "low",
-        "summary": "The committee approved minutes from the previous meeting after minor corrections.",
+        "summary": "The committee reviewed and approved meeting minutes and briefly checked member updates.",
         "key_details": [
-          "Minutes reviewed from the September 10, 2026 meeting.",
-          "A correction was made to the spelling of Superintendent Greg Martineau's name.",
-          "Approved unanimously by roll call vote (3-0)."
+          "Minutes of September 10, 2026 were approved with a spelling correction to Superintendent Martineau's name.",
+          "No additional member updates were reported."
         ],
-        "outcome": "Minutes approved 3-0.",
+        "outcome": "Minutes approved as amended 3-0.",
         "why_it_matters": null,
-        "start_seconds": 798,
-        "end_seconds": 850
+        "start_seconds": 472,
+        "end_seconds": null
       }
     ],
-    "votes": [
-      {
-        "motion": "Approve minutes of September 10, 2026 as amended",
-        "result": "passed",
-        "tally": "3-0",
-        "start_seconds": 837
-      }
-    ],
+    "votes": [],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Planning Board meeting",
+        "what": "Joint meeting presentation with the Planning Board regarding Master Plan 2030",
         "when": "October 19, 2026"
-      },
-      {
-        "what": "Pumpkin Stroll",
-        "when": "October 11, 2026"
       }
     ],
-    "caveats": null
+    "caveats": "The chair experienced internet connection issues and was disconnected from the meeting from approximately 0:03:15 to 0:07:30, during which the remaining members paused business and engaged in informal conversation."
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
-  "fallback_reason": "agentic processing: interaction failed: no error message; response was {\"id\": \"v1_ChdZWXJPYXEtd012MjExTWtQelpHQ2tRaxIXWVlyT2FxLXdNdjIxMU1rUHpaR0NrUWs\", \"status\": \"failed\", \"errors\": [{\"message\": \"There was a problem processing your request. You will not be charged.\", \"code\": \"INTERNAL\"}], \"object\": \"interaction\", \"response_format\": {\"mime_type\": \"application/json\", \"schema\": {\"type\": \"object\", \"properties\": {\"is_public_meeting\": {\"type\": \"boolean\"}, \"body\": {\"type\": \"string\", \"description\": \"Board or committee holding the meeting, e.g. 'Select Board'. For joint meetings name each body.\"}, \"meeting_date\": {\"type\": [\"string\", \"null\"], \"format\": \"date\", \"description\": \"Date the meeting took place, YYYY-MM-DD, or null if unknown.\"}, \"headline\": {\"type\": \"string\", \"description\": \"One sentence (max ~25 words): the most consequential thing a resident should know.\"},",
-  "prompt_version": "2026-10-13",
-  "processed_at": "2026-10-13T19:47:00Z",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:36:26Z",
   "usage": {
-    "total_tokens": 72434,
-    "total_input_tokens": 70518,
+    "total_tokens": 72702,
+    "total_input_tokens": 70742,
     "input_tokens_by_modality": [
       {
         "modality": "video",
@@ -80,12 +69,12 @@
       },
       {
         "modality": "text",
-        "tokens": 467
+        "tokens": 691
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 798,
+    "total_output_tokens": 847,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 1118
+    "total_thought_tokens": 1113
   }
 }

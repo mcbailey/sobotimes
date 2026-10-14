@@ -1,0 +1,161 @@
+{
+  "video": {
+    "id": "7c2pm_BqUTk",
+    "title": "Recreation Commission  9/17/26",
+    "published_at": "2026-09-18T13:04:57Z",
+    "duration_s": 3376
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-09-17",
+    "headline": "The Recreation Commission approved its multi-year capital plan updates and reviewed its draft FY28 operating budget.",
+    "summary": "The Recreation Commission reviewed fall sports and program enrollments and discussed Community Preservation Act projects ahead of Town Meeting. Commissioners voted to approve adjustments to the department's multi-year capital plan, including postponing an athletic facility master plan study until elementary school building plans are settled. The commission also debated its draft FY28 operating budget, questioning whether trail mowing expenses should remain with Recreation or return to the Department of Public Works.",
+    "topics": [
+      {
+        "title": "Department and fall program updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The director provided an update on strong fall program enrollment across soccer, running club, and after-school programs. The commission discussed potential office relocations to 21 Highland Street as Youth and Family Services prepares to transition to the Flagg School, which could free up space for recreation STEM and arts programming. Commissioners also noted completed facility LED lighting upgrades and a newly finished mural at the department office.",
+        "key_details": [
+          "Recreation after-school programs started with strong enrollment, including 26 participants in girls lacrosse and about 25 in running club.",
+          "Youth and Family Services is expected to move toward the Flagg School by late October, freeing current office space for recreation activities.",
+          "DPW and Green Communities completed LED lighting upgrades at the 21 Highland Street facility.",
+          "Heritage Day is scheduled for October 12 and Trunk or Treat is scheduled for October 24."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 75,
+        "end_seconds": null
+      },
+      {
+        "title": "Community Preservation project and warrant article updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Commissioners debriefed on their recent presentation to the Select Board regarding proposed park and parking improvements. Discussion centered on whether to implement angled parking near the reservoir, potential Article 97 restrictions on open space conversion, and feedback on parking lines along Woodward/Richards. The director also reported that the Select Board supported a golf course irrigation Community Preservation Act article but did not support a trails article, while the Advisory Committee voted against supporting both articles.",
+        "key_details": [
+          "Plan C for parking would add angled parking spaces parallel to the reservoir, but commissioners noted potential Article 97 concerns.",
+          "Recreation requested DPW paint parallel parking lines in the interim to test parking organization.",
+          "The Select Board voted to support the golf course irrigation CPA article for Town Meeting but voted against supporting the trails CPA article.",
+          "The Advisory Committee voted against recommending both the golf course irrigation and trails CPA articles."
+        ],
+        "outcome": "The director will follow up with the Community Preservation Committee and town counsel regarding Article 97 considerations.",
+        "why_it_matters": null,
+        "start_seconds": 435,
+        "end_seconds": null
+      },
+      {
+        "title": "Recreation Commission recruitment update",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The department sent out 40 recruitment letters to residents to fill vacant seats on the Recreation Commission. Several residents expressed interest, and one applicant attended the meeting as an observer after submitting an application form.",
+        "key_details": [
+          "Forty recruitment letters were distributed by the department.",
+          "At least one prospective member attended the meeting to observe after submitting an application to the town."
+        ],
+        "outcome": "Applications are under review as the commission seeks to fill open seats.",
+        "why_it_matters": null,
+        "start_seconds": 1145,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27-FY31 capital plan updates",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The commission reviewed its five-year capital planning schedule, focusing on requests for FY28. Members agreed to defer a proposed $50,000 athletic facility master plan study until the Neary School building study concludes, shifting related design and field construction timelines out by one year. The commission voted to approve the revised capital plan for submission to the Capital Planning Committee.",
+        "key_details": [
+          "The commission voted to shift the $50,000 athletic facility master plan study from FY28 to FY29.",
+          "Neary School field upgrade design funds were shifted out to align with elementary school building committee decisions.",
+          "The only FY28 capital request approved for submission is $25,000 for park maintenance.",
+          "The capital plan submission deadline is September 19."
+        ],
+        "outcome": "The commission voted 3-0 to approve the updated FY27-FY28 capital plan.",
+        "why_it_matters": "Capital planning determines long-term taxpayer investment in town athletic fields, school grounds, and park infrastructure.",
+        "start_seconds": 1300,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget review",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Commissioners reviewed the draft FY28 operating budget, which primarily consists of staff salaries, annual playground inspections, a $7,000 pilot payment, and a trails maintenance line item. Commissioners raised concerns regarding $2,800 allocated for trail mowing, questioning whether that responsibility and expense should remain under the Department of Public Works rather than the recreation operating budget. The commission opted not to take a formal vote, requesting further research into existing contracts before finalizing the budget.",
+        "key_details": [
+          "Personnel Board guidance set a 5.2 percent salary increase covering cost-of-living adjustments and step increases.",
+          "Annual playground safety inspections for Town House, Fayville, and Finn playgrounds total $2,100.",
+          "The trails committee line item requests $4,250, including $2,800 for trail mowing.",
+          "Commissioners questioned whether DPW should retain trail mowing rather than shifting vendor costs to Recreation."
+        ],
+        "outcome": "No vote was taken; staff will verify mowing contract details with DPW ahead of the October budget deadline.",
+        "why_it_matters": null,
+        "start_seconds": 1830,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission approved meeting minutes from June 30 and August 26, scheduled its next meeting, and adjourned.",
+        "key_details": [
+          "Minutes from June 30 and August 26 were approved unanimously.",
+          "The next meeting was set for October 7 at 7:00 PM via Zoom."
+        ],
+        "outcome": "Meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 3081,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve the FY27-FY28 capital plan updates as discussed for submission to the Capital Planning Committee",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1776
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident attending the meeting stated she had no public comment and was observing out of interest in joining the commission.",
+        "start_seconds": 31
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Submission deadline for FY27-FY31 capital plan to Capital Planning Committee",
+        "when": "September 19, 2026"
+      },
+      {
+        "what": "Recreation Commission meeting",
+        "when": "October 7, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Submission deadline for FY28 operating budget and warrant articles",
+        "when": "October 13, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:21:01Z",
+  "usage": {
+    "total_tokens": 129423,
+    "total_input_tokens": 125585,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 124895
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1922,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1916
+  }
+}

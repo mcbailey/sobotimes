@@ -1,36 +1,44 @@
 {
-  "synopsis": "The Trails Committee met this week to prepare for the October 17 Special Town Meeting, focusing on Article 4 for the Peninsula Trail Phase 2 pedestrian bridge. With both the Select Board and Advisory Committee voting not to recommend the article, members debated offering a floor amendment to lower the new Community Preservation Act funding request to $25,000 while repurposing $211,000 in previously allocated funds and seeking a state grant. The committee also finalized plans for community outreach at Heritage Day and coordinated safety measures, including blaze orange vests during youth hunting season, for fall trail programming.",
+  "synopsis": "Southborough boards addressed major commercial development plans and preparations for the upcoming Special Town Meeting this week. The Planning Board opened a public hearing on a proposal for a 167,000-square-foot Costco warehouse and 30-position gas station on Coslin Drive, hearing initial resident traffic concerns, while also advancing discussions on a two-family dwelling zoning amendment. Meanwhile, the Trails Committee evaluated funding alternatives to salvage Community Preservation Act support for the Peninsula Trail pedestrian bridge on the town warrant following negative recommendations from other town boards. Officials also noted an upcoming multi-board session to review elementary school building project options and costs.",
   "highlights": [
     {
-      "title": "Peninsula Trail pedestrian bridge funding strategy",
-      "why": "Following negative recommendations from the Select Board and Advisory Committee, the committee evaluated a fallback floor amendment at Town Meeting to reduce new CPA requests to $25,000 alongside repurposing $211,000 in existing funds and seeking a grant.",
+      "title": "Costco warehouse and gas station proposal on Coslin Drive",
+      "why": "Costco Wholesale presented site, stormwater, and traffic plans for a proposed 167,000-square-foot warehouse and 30-position fueling station at 21 Coslin Drive, drawing neighborhood concerns regarding traffic on Route 9 and surrounding roads. The Planning Board voted 4-0 to continue the hearing to October 19.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "hCwuB4U1qOk",
+      "start_seconds": 1914
+    },
+    {
+      "title": "Funding strategy for Peninsula Trail pedestrian bridge",
+      "why": "After the Select Board and Advisory Committee voted not to recommend Warrant Article 4, the Trails Committee discussed offering a floor amendment at Special Town Meeting to request $25,000 in new CPA funds while repurposing $211,000 in existing CPA allocations and seeking a state grant.",
       "body": "Trails Committee",
       "importance": "high",
       "video_id": "InzL5O9vgMQ",
       "start_seconds": 1095
     },
     {
-      "title": "Town Meeting outreach and Heritage Day booth",
-      "why": "Members organized voter educational efforts ahead of Town Meeting, including placing promotional signs around town, hosting an informational booth at Heritage Day, and staffing an information table before Town Meeting begins.",
-      "body": "Trails Committee",
-      "importance": "medium",
-      "video_id": "InzL5O9vgMQ",
-      "start_seconds": 5130
+      "title": "Two-family dwelling zoning bylaw revisions",
+      "why": "The Planning Board reviewed draft revisions to a proposed zoning bylaw amendment governing two-family dwellings, focusing on removing confusing terms and clarifying minimum lot size rules across commercial and industrial districts. The hearing was continued to October 17.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "hCwuB4U1qOk",
+      "start_seconds": 15
     },
     {
-      "title": "Fall trail events and youth hunting season safety",
-      "why": "The committee coordinated safety protocols, advising trail users to wear blaze orange during youth hunting season, and scheduled fall activities including trail yoga, a guided hike, and a November food drive.",
-      "body": "Trails Committee",
+      "title": "Multi-board briefing on elementary school building options",
+      "why": "The town planner reported that a joint meeting with the Elementary School Building Committee and other town boards is scheduled for October 8 to review project options and cost estimates.",
+      "body": "Planning Board",
       "importance": "medium",
-      "video_id": "InzL5O9vgMQ",
-      "start_seconds": 323
+      "video_id": "hCwuB4U1qOk",
+      "start_seconds": 6300
     }
   ],
   "looking_ahead": [
     {
-      "what": "Guided trail hike and Yoga on the Trails",
-      "when": "October 3, 2026 at 10:00 AM",
-      "body": "Trails Committee"
+      "what": "Joint meeting with Elementary School Building Committee and town boards on school project options and costs",
+      "when": "October 8, 2026, at 6:30 PM",
+      "body": "Planning Board"
     },
     {
       "what": "Trails Committee regular meeting",
@@ -38,26 +46,27 @@
       "body": "Trails Committee"
     },
     {
-      "what": "Heritage Day informational booth",
-      "when": "October 12, 2026",
-      "body": "Trails Committee"
+      "what": "Continued public hearing on two-family dwelling zoning bylaw warrant article",
+      "when": "October 17, 2026, at 9:05 AM",
+      "body": "Planning Board"
     },
     {
-      "what": "Special Town Meeting on Peninsula Trail Article 4",
+      "what": "Special Town Meeting, including Article 4 for the Peninsula Trail bridge",
       "when": "October 17, 2026",
       "body": null
     },
     {
-      "what": "Trail run/walk and food drive event",
-      "when": "November 7, 2026",
-      "body": "Trails Committee"
+      "what": "Planning Board regular meeting with continued hearings for Costco Wholesale, 22 Turnpike Road, 154 Turnpike Road, and Fay School",
+      "when": "October 19, 2026, starting at 6:30 PM",
+      "body": "Planning Board"
     }
   ],
   "week": "2026-09-28",
-  "fingerprint": "8d53fb4d0186ad7b",
+  "fingerprint": "b59d9ceb3c20c9a5",
   "video_ids": [
-    "InzL5O9vgMQ"
+    "InzL5O9vgMQ",
+    "hCwuB4U1qOk"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-14T10:49:38Z"
+  "generated_at": "2026-10-14T12:40:22Z"
 }

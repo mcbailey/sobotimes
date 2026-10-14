@@ -1,0 +1,176 @@
+{
+  "video": {
+    "id": "IW-Yyg8ixZc",
+    "title": "Zoning Board of Appeals Meeting 9/16/26",
+    "published_at": "2026-09-17T12:27:28Z",
+    "duration_s": 5468
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-09-16",
+    "headline": "The board approved a frontage variance for 0 Northborough Road and endorsed revised two-family zoning language for Town Meeting.",
+    "summary": "The Southborough Zoning Board of Appeals held a remote meeting to address several land use matters. The board approved a frontage variance for a proposed two-lot residential project at 0 Northborough Road following extensive legal discussion regarding access and subdivision requirements, while the applicant withdrew a companion special permit request. Additionally, the board approved minor clerical revisions to a two-family dwelling zoning bylaw amendment slated for the October Special Town Meeting warrant and agreed to prepare future bylaw updates conforming to revised state zoning standards.",
+    "topics": [
+      {
+        "title": "40-42 Central Street hearing continuance",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The applicant for 40-42 Central Street requested a continuance because work is underway to pave and inspect required accessible parking spaces. The board noted this remains an outstanding compliance item with the building commissioner, along with pending site plan approval matters before the Planning Board.",
+        "key_details": [
+          "Address: 40-42 Central Street",
+          "Applicant requested continuance to allow paving of handicap parking spaces",
+          "Paving must be completed and inspected prior to board review",
+          "Hearing continued to October 21, 2026 at 7:00 PM"
+        ],
+        "outcome": "Continued to October 21, 2026 at 7:00 PM.",
+        "why_it_matters": null,
+        "start_seconds": 18,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed and approved drafted meeting minutes from prior sessions without substantive revisions.",
+        "key_details": [
+          "Draft minutes approved unanimously"
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 343,
+        "end_seconds": null
+      },
+      {
+        "title": "Aligning local zoning bylaws with state Zoning Act changes",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Staff and town counsel briefed the board on recent amendments enacted by state legislation to the Massachusetts Zoning Act, particularly concerning standards for pre-existing non-conforming structures and variances. The board agreed to work with town counsel to draft conforming amendments to town bylaws and board policies ahead of the Annual Town Meeting warrant deadline on December 14.",
+        "key_details": [
+          "State legislative revisions updated standards under Section 6 and Section 10 of M.G.L. Chapter 40A",
+          "Changes introduce practical difficulty standards and reduce traditional hardship burdens, especially for residential uses",
+          "Town counsel recommended mirroring statutory language verbatim where possible",
+          "Warrant articles for Annual Town Meeting are due to the Select Board by December 14"
+        ],
+        "outcome": "Staff and town counsel will prepare draft warrant language for the board to review in October.",
+        "why_it_matters": null,
+        "start_seconds": 407,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Northborough Road frontage variance and special permit",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board resumed a public hearing on an application by Bartolini Properties LLC seeking frontage relief for property at 0 Northborough Road (Map 62, Lot 3) in the Residence A district. The applicant sought a variance to allow a 15-foot wide Massachusetts Water Resources Authority easement/right-of-way to serve as frontage for two proposed residential lots on a common driveway. After town counsel clarified that the board had authority to grant the frontage variance but could not create lots or override subdivision control requirements that fall under the Planning Board, the board approved the variance as drafted and accepted the withdrawal of the companion special permit application.",
+        "key_details": [
+          "Property location: 0 Northborough Road off Northborough Road, Map 62 Lot 3 (9.29 acres)",
+          "Relief requested under Section 174-8.2 D(2) for 15 feet of frontage/right-of-way access instead of standard frontage",
+          "Access crosses state-owned MWRA land through an existing deeded right-of-way",
+          "Town counsel noted the project will still require subdivision approval from the Planning Board because an Approval Not Required plan cannot rely on a variance",
+          "Variance approved 5-0; special permit withdrawn and accepted 5-0"
+        ],
+        "outcome": "Approved the variance as drafted (5-0) and accepted withdrawal of the special permit (5-0).",
+        "why_it_matters": "Grants zoning relief allowing access across an existing right-of-way to develop two residential building lots on a back parcel, though further Planning Board approvals will be required.",
+        "start_seconds": 900,
+        "end_seconds": null
+      },
+      {
+        "title": "Two-family dwelling zoning bylaw amendments for Town Meeting",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed final edits to a proposed zoning bylaw amendment governing two-family dwellings, which is scheduled as Article 2 on the October Special Town Meeting warrant. Revisions included removing redundant terms such as 'duplex' and 'townhouse' from definition sections and correcting minor clerical duplicate phrasing identified by the Select Board. The board approved the revised text for submission to the Select Board, which will hold a brief meeting to reopen and re-close the warrant with the corrected language.",
+        "key_details": [
+          "Article 2 on the Special Town Meeting warrant scheduled for October 17, 2026",
+          "Removes the former two-year waiting period to convert or construct two-family dwellings by special permit",
+          "Removes parenthetical examples 'duplex' and 'townhouse' to avoid terminology confusion",
+          "Corrects inadvertent clerical duplicate wording across multiple zoning district sections",
+          "The Select Board will hold a special meeting September 24 at 8:00 AM to execute the clean warrant"
+        ],
+        "outcome": "Approved the modified warrant language 5-0 for transmission to the Select Board.",
+        "why_it_matters": "Updates the town's zoning bylaw to facilitate new construction and conversions of two-family homes without a multi-year waiting period, pending approval by voters at Special Town Meeting.",
+        "start_seconds": 4458,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing for 40-42 Central Street to October 21, 2026 at 7:00 PM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 307
+      },
+      {
+        "motion": "Close the public hearing on the application for 0 Northborough Road.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4138
+      },
+      {
+        "motion": "Approve the variance as drafted for frontage relief on Northborough Road for two lots on a common driveway at 0 Northborough Road.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4377
+      },
+      {
+        "motion": "Accept the applicant's withdrawal of the special permit application for 0 Northborough Road.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4420
+      },
+      {
+        "motion": "Accept the two-family dwelling zoning bylaw modifications as drafted and submit them to the Select Board for the Special Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5174
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A relative of the applicant spoke in support of the 0 Northborough Road variance, noting a past instance on Oak Hill Road where the town permitted development accessing through a right-of-way across a water department property.",
+        "start_seconds": 3975
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Select Board special virtual meeting to reopen and sign the revised Special Town Meeting warrant",
+        "when": "September 24, 2026 at 8:00 AM"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026 at 10:00 AM"
+      },
+      {
+        "what": "Zoning Board of Appeals continued hearing for 40-42 Central Street and regular meeting",
+        "when": "October 21, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Annual Town Meeting warrant article submission deadline to Select Board",
+        "when": "December 14, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:24:39Z",
+  "usage": {
+    "total_tokens": 206993,
+    "total_input_tokens": 203037,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 696
+      },
+      {
+        "modality": "video",
+        "tokens": 202341
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2184,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1772
+  }
+}

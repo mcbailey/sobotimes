@@ -1,0 +1,241 @@
+{
+  "video": {
+    "id": "kC-X75Msc0s",
+    "title": "Advisory Committee 9/16/26",
+    "published_at": "2026-09-17T12:11:25Z",
+    "duration_s": 5602
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Advisory Committee",
+    "meeting_date": "2026-09-16",
+    "headline": "The Advisory Committee voted down CPA funding for golf irrigation and trail bridges, and rejected a two-family zoning proposal.",
+    "summary": "The Southborough Advisory Committee reviewed and voted recommendations on eight warrant articles for the upcoming October Special Town Meeting. The committee voted against recommended approval for zoning amendments easing two-family home conversions, as well as Community Preservation Act funding requests for golf course irrigation and a pedestrian bridge on the Peninsula Trail. Members voted to support changing the town clerk position to an appointed office, creating a stormwater enterprise fund, rescinding unused borrowing authorizations, and raising the personal property tax exemption.",
+    "topics": [
+      {
+        "title": "Article 1: Appointed Town Clerk",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The committee discussed a warrant article proposing to change the town clerk position from an elected office to an appointed office with a term not to exceed three years. Members noted the increasingly technical nature of the role and the advantage of being able to recruit qualified applicants from outside Southborough, though some members expressed concerns regarding Select Board removal authority.",
+        "key_details": [
+          "Proposes transitioning town clerk from elected to appointed by the Select Board for up to a three-year term.",
+          "Requires approval at Town Meeting followed by a ballot question or special act of the legislature.",
+          "Incumbent town clerk Jim Hegarty is retiring, and an interim clerk was previously appointed.",
+          "Committee members cited need for technical qualifications and a wider hiring pool beyond town borders."
+        ],
+        "outcome": "Recommended approval by a 6-0 vote.",
+        "why_it_matters": "Changes town governance structure and removes direct voter election for the town clerk position.",
+        "start_seconds": 81,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 2: Zoning Code amendment for two-family dwellings",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Members reviewed a Zoning Board of Appeals proposal to amend the zoning code regarding two-family dwellings, including removing the current two-year waiting period for converting single-family homes into two-family units. Opponents voiced concern about community density, impacts on town services and schools, and environmental concerns regarding septic system capacity, while supporters noted the regional need for diverse and affordable housing.",
+        "key_details": [
+          "Proposes adding definitions, permitting new construction by special permit, and removing a two-year waiting period for single-family conversions.",
+          "Updates lot sizes to match current zoning district requirements.",
+          "Concerns raised over lack of restrictions on flipping properties and density impacts in Residential B zones.",
+          "Select Board had previously voted 4-1 in support of the article."
+        ],
+        "outcome": "Motion to recommend approval failed 3-4, resulting in a recommendation to not support.",
+        "why_it_matters": "Affects residential zoning rules and potential housing density across town neighborhoods.",
+        "start_seconds": 1064,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 3: CPA funding for golf course irrigation",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee considered an article seeking $433,346 in Community Preservation Act (CPA) funds, paired with $100,000 from the Golf Course Revolving Fund, for a new irrigation system at the Southborough Golf Club. Members strongly objected to town taxpayers funding nearly the entire cost of the project through CPA funds when the golf course is intended to be self-sustaining, suggesting golfers pay user surcharges instead.",
+        "key_details": [
+          "Requests $433,346 from CPA funds and $100,000 from the Golf Course Revolving Fund.",
+          "Supplements prior 2024 appropriation of roughly $515,000 for a total project cost of $1,087,296.",
+          "Members argued the golf revolving fund should bear more than roughly 10 percent of the new appropriation.",
+          "Member calculations showed a $1.50 per-round surcharge over 20 years could fund a municipal loan instead."
+        ],
+        "outcome": "Motion to recommend approval failed 0-7, resulting in a recommendation to not support.",
+        "why_it_matters": "Involves over $433,000 in local preservation tax funds for recreational town property.",
+        "start_seconds": 1735,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 4: CPA funding for Peninsula Trail footbridge",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Trails Committee sought a supplemental CPA appropriation of $217,318 to construct a 65-foot prefabricated pedestrian footbridge along Route 30 to connect two sections of the Peninsula Trail. Committee members expressed sticker shock at the total project cost of $428,550 and questioned contingency percentages and alternative crossings before voting unanimously against recommending approval.",
+        "key_details": [
+          "Requests $217,318 in CPA funds, adding to $211,232 previously approved for a total of $428,550.",
+          "Funds a 65-foot modular bridge crossing a stream over MWRA property.",
+          "Budget includes a 15 percent cost escalation allowance and a 20 percent construction contingency.",
+          "Trails Committee representative explained the bridge has a 75-year lifespan and requires modular installation due to site access limits."
+        ],
+        "outcome": "Motion to recommend approval failed 0-7, resulting in a recommendation to not support.",
+        "why_it_matters": "Decides whether to recommend allocating substantial CPA funds for trail infrastructure.",
+        "start_seconds": 2340,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 5: Stormwater Enterprise Fund establishment",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed an article to establish a Stormwater Enterprise Fund beginning in fiscal year 2028 under Massachusetts General Laws Chapter 44, Section 53F 1/2. Members noted the article only creates the accounting mechanism, while specific fee structures and annual operating budgets would require separate Town Meeting approvals in the future.",
+        "key_details": [
+          "Establishes a dedicated enterprise fund starting in FY28 for town stormwater management.",
+          "Does not set fees or tax rates; future budgets and impervious surface fee structures require town meeting vote.",
+          "Designed to capture stormwater management revenue from large impervious surface properties such as businesses and schools."
+        ],
+        "outcome": "Recommended approval by a 7-0 vote.",
+        "why_it_matters": "Lays the groundwork for a dedicated municipal utility and future stormwater fees for property owners.",
+        "start_seconds": 3508,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 6: Rescinding authorized unissued debt",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee considered an administrative article to rescind unused borrowing authority totaling over $1.1 million from two completed or substantially finished town projects. Rescinding the authority clears the town books and prevents unauthorized future borrowing.",
+        "key_details": [
+          "Rescinds $727,960 in authorized borrowing for the Breakneck Hill Farm dump cleanup approved in 2014.",
+          "Rescinds $375,000 authorized for the Neary School feasibility study approved in 2022.",
+          "Funds are no longer needed as the projects are complete or completed with other funds."
+        ],
+        "outcome": "Recommended approval by a 7-0 vote.",
+        "why_it_matters": "Cleans up town debt authorizations and prevents unnecessary municipal borrowing.",
+        "start_seconds": 3930,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 7: Water Retained Earnings for landfill radius home connections",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The committee reviewed an article appropriating $240,000 from Water Retained Earnings to connect two private homes within the testing radius of the Parkerville Road landfill to town water. Members discussed whether the town is responsible for the entire connection cost up to the houses versus extending the water main in the street, choosing to hold the article to obtain legal and procedural clarification.",
+        "key_details": [
+          "Proposes appropriating $240,000 from Water Retained Earnings to connect two homes near the Parkerville Road landfill.",
+          "High cost is driven by the need to extend the town water main closer to the properties.",
+          "Members questioned whether town policy requires homeowners to pay for service connections on private property.",
+          "Committee deferred voting until questions on town policy and liability are answered."
+        ],
+        "outcome": "Held without a vote pending clarification on town connection policies.",
+        "why_it_matters": null,
+        "start_seconds": 4046,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 8: Personal property tax exemption increase",
+        "category": "Budget & taxes",
+        "importance": "low",
+        "summary": "The Board of Assessors proposed increasing the personal property tax exemption threshold from $1,500 to $2,500 in assessed value beginning in fiscal year 2028. The change eliminates approximately 22 small business accounts where the administrative cost of assessment and collection exceeds the tax revenue generated.",
+        "key_details": [
+          "Increases exemption from $1,500 to $2,500 assessed value beginning in FY28.",
+          "Exempts 22 accounts with a combined assessed value of about $40,000.",
+          "Results in an estimated minimal tax revenue impact of roughly $200 to $600 while eliminating administrative overhead."
+        ],
+        "outcome": "Recommended approval by a 7-0 vote.",
+        "why_it_matters": null,
+        "start_seconds": 4666,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee discussed drafting the Advisory Committee report for Special Town Meeting, set upcoming meeting dates, discussed draft meeting minutes, and adjourned.",
+        "key_details": [
+          "Discussed format and drafting timeline for the Advisory Committee warrant booklet report.",
+          "Reviewed schedule conflicts around the Columbus Day holiday.",
+          "Staff noted testing artificial intelligence tools to draft draft committee minutes.",
+          "Adjourned at 9:02 PM."
+        ],
+        "outcome": "Scheduled next meetings for October 6 and October 13, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 4985,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend approval of Article 1 (Appointed Town Clerk) as printed in the warrant",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 1015
+      },
+      {
+        "motion": "Recommend approval of Article 2 (Two-Family Dwellings Zoning) as printed in the warrant",
+        "result": "failed",
+        "tally": "3-4",
+        "start_seconds": 1594
+      },
+      {
+        "motion": "Recommend approval of Article 3 (Golf Course Irrigation CPA Funding) as printed in the warrant",
+        "result": "failed",
+        "tally": "0-7",
+        "start_seconds": 2308
+      },
+      {
+        "motion": "Recommend approval of Article 4 (Peninsula Trail Footbridge CPA Funding) as printed in the warrant",
+        "result": "failed",
+        "tally": "0-7",
+        "start_seconds": 3463
+      },
+      {
+        "motion": "Recommend approval of Article 5 (Stormwater Enterprise Fund) as printed in the warrant",
+        "result": "passed",
+        "tally": "7-0",
+        "start_seconds": 3905
+      },
+      {
+        "motion": "Recommend approval of Article 6 (Rescind Authorized Unissued Debt) as printed in the warrant",
+        "result": "passed",
+        "tally": "7-0",
+        "start_seconds": 4023
+      },
+      {
+        "motion": "Recommend approval of Article 8 (Personal Property Tax Exemption) as printed in the warrant",
+        "result": "passed",
+        "tally": "7-0",
+        "start_seconds": 4898
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Advisory Committee meeting to review draft report",
+        "when": "October 6, 2026 at 7:30 PM"
+      },
+      {
+        "what": "Advisory Committee meeting for final vote on report",
+        "when": "October 13, 2026 at 7:30 PM"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:26:54Z",
+  "usage": {
+    "total_tokens": 220027,
+    "total_input_tokens": 214650,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 213957
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3153,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2224
+  }
+}

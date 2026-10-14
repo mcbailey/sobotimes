@@ -1,0 +1,127 @@
+{
+  "video": {
+    "id": "q6tCMfNCb5g",
+    "title": "Municipal Technology Committee 9/23/26",
+    "published_at": "2026-09-24T13:03:37Z",
+    "duration_s": 3757
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-09-23",
+    "headline": "The Municipal Technology Committee prepared the 2026 Town Satisfaction Survey and received updates on municipal phone, firewall, and website upgrades.",
+    "summary": "The Municipal Technology Committee reviewed ongoing municipal IT projects, including town phone system upgrades, new firewalls, and upcoming CivicPlus website negotiations. Members finalized adjustments to the 2026 Southborough Satisfaction Survey, examining data drop-offs from previous years and exploring ways to consolidate questions across town departments, affordable housing, and senior services. The committee also planned outreach for the survey through flyers, schools, the Community Garage Sale, and Heritage Day before approving past minutes.",
+    "topics": [
+      {
+        "title": "Municipal IT operations and website upgrade update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town technology staff reported that a townwide phone system upgrade kicked off and will take a couple of months to complete. The town is also upgrading outdated firewalls using Fortigate equipment. Ongoing issues with conference room meeting systems freezing during hybrid Select Board and Community Preservation Committee meetings are under investigation. Contract and module discussions for the town website upgrade with CivicPlus are expected to begin around November with implementation aimed for early 2027.",
+        "key_details": [
+          "Townwide phone system upgrade kicked off with completion expected over the next two months.",
+          "Firewalls are being upgraded to Fortigates, taking advantage of trade-in discounts over Cisco alternatives.",
+          "System freeze issues during Zoom meetings in town meeting rooms are being investigated with vendor support.",
+          "Discussions with CivicPlus for website module options and renewals are slated to begin in November."
+        ],
+        "outcome": "Discussion only; updates will continue at future meetings.",
+        "why_it_matters": null,
+        "start_seconds": 50,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant and department liaison engagement",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Members discussed the upcoming Fall Town Meeting warrant, noting articles regarding making the town clerk an appointed position, Community Preservation Act items, and zoning articles, with no technology-specific articles expected. The committee discussed following up on their survey presentation to the Select Board and proposed scheduling regular department head visits at future meetings to integrate technology planning with town departments.",
+        "key_details": [
+          "Fall Town Meeting warrant is expected to be light, with roughly seven to eight articles.",
+          "Articles include transitioning the town clerk to an appointed position following an upcoming retirement.",
+          "Committee members plan to invite department heads to committee meetings to align technology planning with departmental needs."
+        ],
+        "outcome": "Discussion only; committee members will coordinate with assigned department liaisons.",
+        "why_it_matters": null,
+        "start_seconds": 248,
+        "end_seconds": null
+      },
+      {
+        "title": "2026 Southborough Satisfaction Survey design and outreach",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed the draft 2026 Southborough Satisfaction Survey, targeted to run from October 1 through November 30, 2026. A volunteer consultant presented drop-off analytics from the 2025 survey showing completion dropped from 284 starts to 154 completions, prompting discussion on shortening the survey, streamlining repetitive department rating matrices, and adding sections for affordable housing and the Senior Center/Council on Aging. Outreach plans were established to distribute flyers and links at schools, the Community Garage Sale, and Heritage Day.",
+        "key_details": [
+          "Survey period is scheduled to run from October 1 to November 30, 2026.",
+          "2025 survey had 284 people start the survey, with 154 completing the entire survey.",
+          "The committee agreed to condense question matrices where resident satisfaction scores have historically shown little variance.",
+          "New draft sections include affordable housing development preferences and Council on Aging/Senior Center service utilization.",
+          "Survey promotion will utilize sboro.org web forwarding, town electronic message boards, school emails, flyers at the October 3-4 Community Garage Sale, and a table at Heritage Day on October 12."
+        ],
+        "outcome": "Survey questions will be consolidated and streamlined prior to launch; outreach tasks were assigned to members.",
+        "why_it_matters": null,
+        "start_seconds": 673,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved meeting minutes from June, July, and August 2026 with minor clerical corrections. Members also scheduled their next regular meeting date.",
+        "key_details": [
+          "Minutes for June, July, and August 2026 were approved with corrections to member attendance and typographical errors.",
+          "Next meeting was tentatively set for October 27, 2026."
+        ],
+        "outcome": "Minutes approved; meeting scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 3553,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Launch of 2026 Southborough Satisfaction Survey",
+        "when": "October 1, 2026"
+      },
+      {
+        "what": "Flyer distribution at Community Garage Sale",
+        "when": "October 3-4, 2026"
+      },
+      {
+        "what": "Survey promotion at Heritage Day DJ booth",
+        "when": "October 12, 2026"
+      },
+      {
+        "what": "Municipal Technology Committee regular meeting",
+        "when": "October 27, 2026"
+      },
+      {
+        "what": "Satisfaction Survey close date",
+        "when": "November 30, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:15:46Z",
+  "usage": {
+    "total_tokens": 141684,
+    "total_input_tokens": 139664,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 138971
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1417,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 603
+  }
+}

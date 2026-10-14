@@ -1,71 +1,71 @@
 {
-  "synopsis": "Town boards focused heavily this week on preparing recommendations, project budgets, and presentation materials for the upcoming Town Meeting. The Advisory Committee finalized its warrant report, recommending approval for a $240,000 water connection to two homes near the Parkerville Road landfill while opposing Community Preservation Act funding requests for a trail bridge and golf course irrigation. The Zoning Board of Appeals voted to support a proposed zoning amendment for two-family dwellings as drafted, despite concerns raised by Advisory members regarding lot sizes and septic capacity. Meanwhile, the Select Board reviewed initial findings from a municipal governance study examining town manager authority across Southborough's 68 local committees.",
+  "synopsis": "Town boards focused heavily this week on finalizing warrant articles and committee positions ahead of Special Town Meeting. The Advisory Committee voted to recommend $240,000 to connect two homes near the Parkerville Road landfill to municipal water, but finalized unfavorable recommendations for CPA funding toward the Peninsula Trail bridge and golf course irrigation. The Community Preservation Committee voted 3-2 to advance the Peninsula Trail funding article as originally drafted, while the Trails and Golf committees finalized voter presentation materials. Additionally, the Zoning Board of Appeals voted to support a two-family dwelling zoning article without altering minimum lot language, and the Select Board reviewed initial findings from a town government structure study.",
   "highlights": [
     {
-      "title": "Parkerville Road landfill water connection recommendation",
-      "why": "The Advisory Committee voted 6-0 to recommend Town Meeting approval of $240,000 from water retained earnings to connect two homes near the landfill to municipal water. The town confirmed it will pay for the service lines from the street into the houses.",
+      "title": "Advisory Committee backs Parkerville landfill water funding",
+      "why": "The committee voted 6-0 to recommend Town Meeting approve $240,000 from water retained earnings to connect two homes near the landfill to municipal water, with the town covering service lines into the houses.",
       "body": "Advisory Committee",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 80
     },
     {
-      "title": "Two-family dwelling zoning warrant article endorsement",
-      "why": "The Zoning Board of Appeals voted unanimously to advance the two-family dwelling warrant article as drafted. Board members declined to make last-minute edits regarding minimum lot requirements across residential and business village districts.",
+      "title": "CPC advances Peninsula Trail bridge article without cuts",
+      "why": "The Community Preservation Committee voted 3-2 to advance the $428,550 bridge funding request to Town Meeting as printed, rejecting proposals to remove contingency funding despite cost concerns raised by other boards.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "G9S9K_Mene8",
+      "start_seconds": 30
+    },
+    {
+      "title": "ZBA supports two-family zoning article as drafted",
+      "why": "The board voted to present the warrant article to Town Meeting without removing minimum lot requirement language, concluding after legal review that last-minute alterations could create zoning ambiguity.",
       "body": "Zoning Board of Appeals",
       "importance": "high",
       "video_id": "2dGufO1TwE4",
       "start_seconds": 0
     },
     {
-      "title": "Peninsula Trail bridge funding request",
-      "why": "The Community Preservation Committee voted to advance Warrant Article 4 requesting an additional $217,318 in CPA funds to construct a prefabricated footbridge over Route 30. The Advisory Committee previously voted against supporting the appropriation due to total project costs reaching $428,550.",
-      "body": "Community Preservation Committee",
+      "title": "Advisory Committee opposes CPA funding for golf irrigation",
+      "why": "The committee finalized report text opposing the use of Community Preservation Act funds for the roughly $1 million golf irrigation project, maintaining that the course was intended to be self-funding.",
+      "body": "Advisory Committee",
       "importance": "high",
-      "video_id": "G9S9K_Mene8",
-      "start_seconds": 0
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 3135
     },
     {
-      "title": "Southborough Golf Club irrigation system funding",
-      "why": "The Golf Committee authorized up to $500 for printed flyers explaining the $1,087,296 irrigation replacement project ahead of Town Meeting. The project seeks extensive CPA funding, which the Advisory Committee voted not to support.",
-      "body": "Golf Committee",
-      "importance": "high",
-      "video_id": "yXLL6UMLaag",
-      "start_seconds": 65
-    },
-    {
-      "title": "Municipal governance structure study review",
-      "why": "Consultants presented preliminary findings evaluating Southborough's government operations, town manager authority, and committee structures in relation to other Massachusetts towns. Southborough currently operates with 68 committees.",
+      "title": "Select Board reviews municipal governance structure study",
+      "why": "Consultants presented an overview examining town manager authority, bylaws, and Southborough's 68 committees in comparison to other Massachusetts communities.",
       "body": "Select Board",
-      "importance": "high",
+      "importance": "medium",
       "video_id": "jIrNNYw8PME",
       "start_seconds": 366
     }
   ],
   "looking_ahead": [
     {
-      "what": "Heritage Day community events and parade",
-      "when": "Monday, October 12",
-      "body": "Recreation Commission"
+      "what": "Massachusetts Cultural Council grant application deadline",
+      "when": "October 15",
+      "body": "Southborough Cultural Arts Council"
     },
     {
       "what": "Special Town Meeting at Trottier Middle School",
-      "when": "October 17, 2026",
+      "when": "October 17",
       "body": null
     },
     {
-      "what": "Early voting begins",
-      "when": "October 17, 2026",
-      "body": "Select Board"
+      "what": "Joint meeting presentation with Planning Board regarding Master Plan 2030",
+      "when": "October 19, 2026",
+      "body": "Master Plan Implementation Committee"
     },
     {
-      "what": "Master Plan 2030 implementation discussion",
-      "when": "October 19, 2026",
-      "body": "Planning Board"
+      "what": "Next Community Preservation Committee meeting",
+      "when": "October 27, 2026 at 7:00 PM",
+      "body": "Community Preservation Committee"
     }
   ],
   "week": "2026-10-05",
-  "fingerprint": "18c13ab803d6a1d2",
+  "fingerprint": "644db78d23172f62",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -80,5 +80,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-14T10:45:23Z"
+  "generated_at": "2026-10-14T12:39:55Z"
 }

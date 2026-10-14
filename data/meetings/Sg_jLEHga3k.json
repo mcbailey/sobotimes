@@ -1,0 +1,122 @@
+{
+  "video": {
+    "id": "Sg_jLEHga3k",
+    "title": "Trails Committee 9/17/26",
+    "published_at": "2026-09-18T13:18:36Z",
+    "duration_s": 4401
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-09-17",
+    "headline": "The Trails Committee planned public outreach after the Select Board and Advisory Committee voted not to support CPA funding for the Peninsula Trail bridge.",
+    "summary": "Following recent votes by the Select Board and Advisory Committee against supporting a Community Preservation Act warrant article for the Peninsula Trail Phase 2 bridge, the Trails Committee discussed a 30-day outreach plan ahead of the October 17 Town Meeting. The committee debated options including pursuing the vote at Town Meeting, producing educational videos, and preparing a fallback request to extend the sunset date on existing $211,000 in CPA funds. The committee also organized upcoming autumn activities, including a bog bridge construction volunteer day on October 2 and a rescheduled Yoga on the Trails event for November 7.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting with a roll call and reviewed and approved amended minutes from September 10, 2026.",
+        "key_details": [
+          "All five members were present via Zoom.",
+          "Minutes from September 10, 2026, were amended to clarify trail run and walk details."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 1,
+        "end_seconds": null
+      },
+      {
+        "title": "Yoga on the Trails and fall events planning",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed logistics for the next Yoga on the Trails session and coordinating fall hikes. Due to scheduling conflicts in late October, the yoga and run/walk event was rescheduled to November 7, 2026. The committee also reviewed permitting rules for collecting non-perishable food donations for the local food pantry at town trail events.",
+        "key_details": [
+          "Next Yoga on the Trails and trail run/walk scheduled for November 7, 2026.",
+          "Food pantry donations will be coordinated in conjunction with instructor Emma to comply with town solicitation policies.",
+          "Members discussed an informal trail walk on October 3, 2026, pending guide and parking availability."
+        ],
+        "outcome": "Event scheduled for November 7, 2026; chair to coordinate online registration.",
+        "why_it_matters": null,
+        "start_seconds": 242,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail bog bridge installation project",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee coordinated a volunteer workday with trail groups to install bog bridges along wet sections of the Peninsula Trail. The structures will protect trail users from mud and poison ivy while minimizing ground disturbance.",
+        "key_details": [
+          "Workday scheduled for Friday, October 2, 2026, from roughly 9:00 AM to early afternoon.",
+          "Partnership with Appalachian Mountain Club and Bay Circuit Trail volunteers, including seven confirmed workers.",
+          "Committee members arranged transport of lumber to the staging site prior to the workday."
+        ],
+        "outcome": "Workday set for October 2, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 940,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail Phase 2 CPA funding and Town Meeting strategy",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The chair reported that both the Select Board and Advisory Committee voted not to support the warrant article requesting additional Community Preservation Act funds for the Peninsula Trail Phase 2 pedestrian bridge, citing high project costs in a tight budget year. The committee discussed voter education efforts over the next 30 days before the October 17 Town Meeting, emphasizing that the bridge completes connectivity among three regional trails and provides off-road pedestrian access for the Pine Hill neighborhood. Members also weighed a fallback plan to ask Town Meeting to extend the expiration of existing $211,000 CPA funds past November 2026 to December 2029.",
+        "key_details": [
+          "The project cost is estimated around $325,000 base cost, or $428,000 including contingency and cost escalators required for state trail standards.",
+          "The town holds $211,000 in existing CPA funds appropriated in 2024 that are scheduled to sunset in November 2026 if unspent.",
+          "Committee plans to create informational FAQ sheets and video segments with Southborough Access Media.",
+          "Members discussed seeking a MassTrails grant in February 2027 if local matching funds can be preserved.",
+          "Annual or special Town Meeting is scheduled for October 17, 2026."
+        ],
+        "outcome": "Committee agreed to conduct public outreach and prepare an article amendment with the Community Preservation Committee to extend existing funding.",
+        "why_it_matters": "The outcome at Town Meeting will decide whether Southborough funds and constructs a pedestrian bridge linking regional trail networks or risks losing $211,000 in previously allocated Community Preservation Act funds.",
+        "start_seconds": 1225,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Trails Committee regular meeting",
+        "when": "October 1, 2026, at 7:00 PM"
+      },
+      {
+        "what": "Volunteer bog bridge construction on Peninsula Trail",
+        "when": "October 2, 2026"
+      },
+      {
+        "what": "Town Meeting vote on CPA warrant article",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Yoga on the Trails session",
+        "when": "November 7, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-14T12:20:12Z",
+  "usage": {
+    "total_tokens": 171554,
+    "total_input_tokens": 168783,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 168090
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1424,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1347
+  }
+}
