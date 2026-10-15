@@ -1,0 +1,110 @@
+{
+  "video": {
+    "id": "FdQ5e5akTBk",
+    "title": "Community Preservation Committee Pt 2 9/8/26",
+    "published_at": "2026-09-11T13:21:53Z",
+    "duration_s": 4133
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-09-08",
+    "headline": "The Community Preservation Committee voted to support a funding article for the Peninsula Trail footbridge and approved signage for Town House restoration.",
+    "summary": "The committee reviewed and voted to support the Southborough Trails Committee's application for additional Community Preservation Act funding to construct the Peninsula Trail footbridge for the upcoming Special Town Meeting. Members refined the draft warrant article language regarding contingency calculations, scope of work, and reimbursement terms for potential MassTrails grant funds. The committee also approved an 18-by-15-inch bronze plaque proof and quote for the Town House exterior restoration project. Finally, members approved amended meeting minutes from August 25 after correcting a typographical error.",
+    "topics": [
+      {
+        "title": "Peninsula Trail footbridge CPA application and warrant article",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee evaluated the Southborough Trails Committee's updated application to fund the completion of the Peninsula Trail footbridge. Members discussed budget figures, contingency percentages, and the draft warrant article for the upcoming Special Town Meeting. The article requests additional funding of roughly $216,000 to supplement previously approved CPA funds, with terms stipulating that any awarded MassTrails grant money would reimburse the town's CPA fund balance.",
+        "key_details": [
+          "Base construction quote updated to $275,000 for the footbridge structure.",
+          "Total footbridge allocation reaches approximately $427,500 when combined with previously authorized 2024 CPA funds.",
+          "Trails Committee Chair reported a minor $1,050 increase in construction phase project management services.",
+          "Warrant article language was clarified to indicate that only the footbridge remains to be built with CPA funds and to set project completion terms through December 30, 2029.",
+          "The committee voted 5-0 to officially support bringing the article to Special Town Meeting."
+        ],
+        "outcome": "Application supported by a 5-0 vote; revised draft warrant article will be forwarded to town counsel for review.",
+        "why_it_matters": "The measure appropriates over $200,000 in municipal Community Preservation Act funds at Town Meeting to complete a regional trail connection.",
+        "start_seconds": 25,
+        "end_seconds": null
+      },
+      {
+        "title": "Town House exterior restoration CPA plaque approval",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed the design proof and cost quote for a permanent bronze CPA acknowledgement plaque on the exterior of Town House. Members confirmed the proposed text and discussed the order and invoicing procedure with the vendor, Franklin Bronze.",
+        "key_details": [
+          "Vendor Franklin Bronze quoted $674.00 for an 18-by-15-inch custom bronze plaque.",
+          "Plaque text acknowledges the historic restoration of the Town House exterior funded by Southborough residents through the CPA.",
+          "Location planned for the exterior near the rear parking lot entrance.",
+          "Project records will remain open pending finalization of the preservation restriction."
+        ],
+        "outcome": "Plaque wording and proof approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 3110,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee deferred reorganization and consultant contract discussions to a future meeting when all members could be present. Members reviewed and approved the meeting minutes of August 25, 2026, as amended to fix a typographical error listing available funds in the trillions rather than millions, before adjourning.",
+        "key_details": [
+          "Reorganization and consultant contract review deferred.",
+          "Minutes of August 25, 2026, corrected from an erroneous $1.2 trillion figure to the accurate $1,231,472 balance.",
+          "Meeting adjourned at 1:08:45."
+        ],
+        "outcome": "Minutes approved as amended 5-0; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 3930,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To support the Trails Committee application for the Peninsula Trail: Completing the Connection project for the Special Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1545
+      },
+      {
+        "motion": "To approve the wording and sign proof for the Town House restoration project sign.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3773
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Community Preservation Committee meeting to review final warrant article text from town counsel",
+        "when": "Monday morning at 8:00 AM via Zoom"
+      }
+    ],
+    "caveats": "This recording begins as Part 2 after an earlier session pause that cut off preliminary scheduling discussions."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:49:15Z",
+  "usage": {
+    "total_tokens": 160935,
+    "total_input_tokens": 158601,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 157907
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1228,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1106
+  }
+}

@@ -1,53 +1,46 @@
 {
-  "synopsis": "Southborough boards focused heavily this week on finalizing warrant positions for the October 17 Special Town Meeting and preparing preliminary FY28 operating budgets. The Select Board and Advisory Committee took diverging positions on major warrant articles, with the Select Board endorsing two-family zoning amendments and golf course irrigation funding while the Advisory Committee voted against recommending both. At the same time, municipal departments including the Library, Board of Health, and Conservation Commission reviewed severe cut scenarios that would reduce staff hours, programming, and subscriptions if an anticipated town tax override fails next spring. In other business, the Conservation Commission asked to retain $100,000 in authorized borrowing for Breakneck Hill Farm restoration, and the Select Board awarded contracts for municipal road paving and heating oil.",
+  "headline": "Town boards split recommendations on Special Town Meeting warrant articles ahead of October 17, while departments prepared for potential tax override budget cuts.",
+  "synopsis": "Ahead of the October 17 Special Town Meeting, the Select Board and Advisory Committee took opposing positions on several warrant articles, with both boards opposing additional Community Preservation Act funds for the Peninsula Trail footbridge while disagreeing on golf course irrigation and two-family zoning. The Conservation Commission voted to request that the Select Board retain 100,000 dollars in unissued borrowing authority for Breakneck Hill Farm restoration rather than rescinding the full authorization. Across town departments, including the Library, Board of Health, and Conservation Commission, officials prepared two FY28 budget scenarios, evaluating steep reductions to staff hours and library services in the event an anticipated spring tax override fails. Land use boards also advanced zoning bylaw revisions and continued review of several commercial and residential developments.",
   "highlights": [
     {
-      "title": "Select Board and Advisory Committee split on Town Meeting warrant articles",
-      "why": "The Select Board recommended seven of eight warrant articles, endorsing two-family zoning changes and golf course irrigation while opposing CPA funding for a trail bridge. The Advisory Committee voted against recommending the zoning revisions, golf course funding, and the trail footbridge.",
+      "title": "Select Board endorses seven Special Town Meeting articles",
+      "why": "The Select Board voted to recommend seven of eight warrant articles, supporting golf course irrigation and two-family zoning amendments while voting 1-4 against 217,318 dollars in CPA funding for a Peninsula Trail pedestrian bridge.",
       "body": "Select Board and Advisory Committee",
       "importance": "high",
       "video_id": "uogPth-Nky8",
       "start_seconds": 11215
     },
     {
-      "title": "Town departments model service and staff cuts under override-failure budget scenarios",
-      "why": "Departments prepared dual FY28 budget submissions following guidance tied to an anticipated spring tax override. Modeled zero-increase scenarios would eliminate library programming and subscriptions, reduce hours for health staff, and cut 125 annual hours from the Conservation Agent position.",
+      "title": "Advisory Committee rejects CPA requests and two-family zoning",
+      "why": "The committee voted against recommending CPA funding for golf course irrigation and the Peninsula Trail footbridge, as well as two-family zoning amendments, while endorsing an appointed town clerk and establishing a stormwater enterprise fund.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "kC-X75Msc0s",
+      "start_seconds": 1735
+    },
+    {
+      "title": "Library reviews severe cuts under override failure scenario",
+      "why": "Under town instructions to prepare two FY28 budgets ahead of a planned spring tax override ballot question, library trustees reviewed a fallback scenario that would eliminate programming, staff training, and travel, and reduce database subscriptions by over half.",
       "body": "Library Board of Trustees",
       "importance": "high",
       "video_id": "TwiZfHm90lU",
       "start_seconds": 170
     },
     {
-      "title": "Trails Committee plans outreach after boards reject bridge funding article",
-      "why": "Following votes by both the Select Board and Advisory Committee against supporting $217,318 in additional CPA money for the Peninsula Trail footbridge, the committee planned voter education and drafted a fallback request to extend the expiration of $211,000 in existing funds.",
-      "body": "Trails Committee",
-      "importance": "high",
-      "video_id": "Sg_jLEHga3k",
-      "start_seconds": 1225
-    },
-    {
-      "title": "Conservation Commission seeks to retain $100,000 for Breakneck Hill Farm dump work",
-      "why": "The commission voted 4-1 to ask the Select Board to preserve $100,000 in authorized borrowing capacity to fund habitat restoration, soil work, and trail repairs rather than rescinding the full $727,960 at Town Meeting.",
+      "title": "Conservation Commission seeks to keep Breakneck Hill borrowing authority",
+      "why": "The commission voted 4-1 to request that the Select Board retain 100,000 dollars in unissued borrowing capacity to ensure adequate funding for soil de-compaction, trail work, and vernal pool restoration rather than fully rescinding 727,000 dollars at Town Meeting.",
       "body": "Conservation Commission",
       "importance": "high",
       "video_id": "Nzknp6oL4v8",
       "start_seconds": 980
     },
     {
-      "title": "ZBA finalizes two-family dwelling warrant article language",
-      "why": "The Zoning Board of Appeals approved cleaned-up language for Special Town Meeting Article 2, which removes a two-year waiting period to convert single-family homes into two-family dwellings.",
+      "title": "ZBA finalizes two-family dwelling zoning bylaw language",
+      "why": "The board approved modified text for Article 2 on the Special Town Meeting warrant, eliminating the two-year waiting period to convert single-family homes into two-family dwellings and clarifying definitions.",
       "body": "Zoning Board of Appeals",
       "importance": "high",
       "video_id": "IW-Yyg8ixZc",
       "start_seconds": 4458
-    },
-    {
-      "title": "Select Board awards FY27 road paving and fuel oil contracts",
-      "why": "The board awarded paving contracts across six roads after bids came in approximately $400,000 below engineering estimates, and approved a municipal heating oil contract at $2.99 per gallon.",
-      "body": "Select Board and Advisory Committee",
-      "importance": "medium",
-      "video_id": "uogPth-Nky8",
-      "start_seconds": 8392
     }
   ],
   "looking_ahead": [
@@ -57,24 +50,14 @@
       "body": "Select Board"
     },
     {
-      "what": "Tricentennial informational table at the Southborough Transfer Station",
-      "when": "September 27, 2026, from 12:00 p.m. to 4:00 p.m.",
-      "body": "Tricentennial Committee"
+      "what": "Planning Board public hearings on Costco major site plan and two-family dwelling zoning bylaw",
+      "when": "September 28, 2026 at 6:30 PM",
+      "body": "Planning Board"
     },
     {
-      "what": "Volunteer bog bridge construction on Peninsula Trail",
-      "when": "October 2, 2026",
-      "body": "Trails Committee"
-    },
-    {
-      "what": "CSS municipal government structure study presentation to the Select Board",
+      "what": "Consultant presentation to the Select Board on municipal government structure study",
       "when": "October 6, 2026",
       "body": "Select Board"
-    },
-    {
-      "what": "Town deadline for FY28 department budget submissions",
-      "when": "October 13, 2026",
-      "body": null
     },
     {
       "what": "Special Town Meeting",
@@ -83,18 +66,20 @@
     }
   ],
   "week": "2026-09-14",
-  "fingerprint": "f8b83d6f7b59e49e",
+  "fingerprint": "ecae1298fde657d8",
   "video_ids": [
     "7c2pm_BqUTk",
     "AbhYdScbz7I",
     "IW-Yyg8ixZc",
     "Nzknp6oL4v8",
+    "QrLqRNyQNCQ",
     "Sg_jLEHga3k",
     "TwiZfHm90lU",
     "ZFwCQUWlbtI",
+    "hf3p_49fGzM",
     "kC-X75Msc0s",
     "uogPth-Nky8"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-14T12:41:15Z"
+  "generated_at": "2026-10-15T19:18:33Z"
 }

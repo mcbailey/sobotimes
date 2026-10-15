@@ -1,0 +1,70 @@
+{
+  "week": "2026-08-10",
+  "fingerprint": "cb5110c448343d5a",
+  "topics": {
+    "-pJx0xWc2YM#0": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#1": {
+      "issue": "tricentennial-summer-nights",
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "-pJx0xWc2YM#3": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "-pJx0xWc2YM#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "-pJx0xWc2YM#5": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#6": {
+      "issue": "tricentennial-heritage-day-parade",
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#7": {
+      "issue": "tricentennial-firefighters-muster",
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#8": {
+      "issue": "tricentennial-time-capsule",
+      "category": "Library, arts & community"
+    },
+    "-pJx0xWc2YM#9": {
+      "issue": "glow-sobo-holiday-lighting",
+      "category": "Budget & taxes"
+    },
+    "-pJx0xWc2YM#10": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "-pJx0xWc2YM#11": {
+      "issue": null,
+      "category": "Library, arts & community"
+    }
+  },
+  "upcoming": {
+    "-pJx0xWc2YM#u0": {
+      "date": "2026-09-16",
+      "issue": null
+    },
+    "-pJx0xWc2YM#u1": {
+      "date": "2026-09-16",
+      "issue": "tricentennial-time-capsule"
+    },
+    "-pJx0xWc2YM#u2": {
+      "date": null,
+      "issue": "tricentennial-time-capsule"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T19:21:16Z"
+}

@@ -1,0 +1,143 @@
+{
+  "video": {
+    "id": "OyfCzyf7Z6k",
+    "title": "Municipal Technology Committee 8/27/26",
+    "published_at": "2026-08-31T14:05:16Z",
+    "duration_s": 5137
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-08-27",
+    "headline": "The committee endorsed the Police Department's acquisition of a public safety drone program subject to privacy guardrails and phased review.",
+    "summary": "The Municipal Technology Committee conducted a technology review of the Southborough Police Department's proposed Skydio X10 drone program and voted unanimously to recommend a conditional deployment with phased reviews. The committee also examined results and multi-year trends from the 2025 town satisfaction survey, which will be presented to the Select Board. Additionally, town and school IT staff provided operational updates on meeting room audio upgrades, upcoming municipal phone replacements, and summer school classroom technology installations.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee convened, postponed review of the July meeting minutes to September, scheduled its next regular meeting for September 22, 2026, and adjourned.",
+        "key_details": [
+          "July meeting minutes review was deferred to September due to late distribution.",
+          "The next committee meeting was scheduled for September 22, 2026."
+        ],
+        "outcome": "Meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 1,
+        "end_seconds": null
+      },
+      {
+        "title": "Public safety drone procurement review",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "Police Chief Ryan Newell presented the department's proposed five-year drone program, featuring the Skydio X10 airframe integrated into Axon Evidence. The committee discussed technical capabilities, procurement financing, and operational safeguards to protect resident privacy. Members voted unanimously to recommend moving forward under a conditional framework featuring pre-deployment verification, a limited initial pilot, and formal reviews after 90 days and 12 months.",
+        "key_details": [
+          "Total five-year program cost is $105,105.80, offset by $40,000 from Fay School and a $30,000 state earmark, leaving $35,105.80 funded by the town.",
+          "The package includes a portable Skydio X10 airframe with thermal imaging, dual charging, 5G/radio connectivity, parachute safety, and a hardware refresh at 2.5 years.",
+          "Primary use cases include search and rescue for missing persons, woodland searches, water emergencies, and fire hotspot assessment.",
+          "The police chief confirmed the drone will not be used for facial recognition, automated license plate reading, general persistent patrol, or weaponization.",
+          "Two trained pilots are currently certified on staff, with plans to train six to eight officers to ensure shift coverage."
+        ],
+        "outcome": "Recommended conditional approval of the drone purchase and phased deployment on a 4-0 vote.",
+        "why_it_matters": "The decision supports expanding town emergency search capabilities using regional grants while establishing clear privacy limits on municipal aerial surveillance.",
+        "start_seconds": 60,
+        "end_seconds": null
+      },
+      {
+        "title": "2025 town semi-annual survey results and trend analysis",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed an in-depth analysis of Southborough's 2025 town survey covering 284 resident respondents and tracking four-year sentiment trends across town services. Public safety services received the highest satisfaction ratings, while town leadership, transparency, and public works maintenance received lower scores. Members discussed ways to increase participation for future surveys, including outreach at schools, community events, and the commuter rail station.",
+        "key_details": [
+          "A total of 284 residents responded to the 2025 survey, a decline from 468 respondents in 2024 and 510 in 2022.",
+          "Fire/EMS (91%) and police services received the highest satisfaction marks across all town departments.",
+          "Town leadership received an 18% satisfaction rating for governance and 23% for value received for taxes and fees.",
+          "Public Works street maintenance received 16% satisfaction, with respondents requesting full repaving over persistent patchwork.",
+          "The committee plans to launch the next survey in October and present the 2025 findings to the Select Board next week."
+        ],
+        "outcome": "Survey findings will be distributed to committee liaisons and presented to the Select Board.",
+        "why_it_matters": null,
+        "start_seconds": 2535,
+        "end_seconds": null
+      },
+      {
+        "title": "Town IT operations and meeting room technology update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The technology director reported that hybrid meeting operations are running smoothly with new documentation allowing board chairs and staff to launch meetings independently. New flat Shure conference microphones have been installed on meeting room tables to replace older gooseneck units, while staff works with vendor ProAV to fine-tune ceiling microphone noise cancellation. A town-wide phone system replacement is scheduled to begin in October, and initial scoping talks for a town website refresh with CivicPlus are slated for September.",
+        "key_details": [
+          "New flat table microphones were installed in the main meeting room to improve audio pickup.",
+          "Audio issues with the center ceiling microphone are being addressed via a support ticket with ProAV.",
+          "Town-wide phone upgrade project has been authorized with purchase orders issued and work starting in October.",
+          "Preparations are underway to begin discussions with CivicPlus regarding a municipal website redesign."
+        ],
+        "outcome": "Informational update; no committee vote taken.",
+        "why_it_matters": null,
+        "start_seconds": 4420,
+        "end_seconds": null
+      },
+      {
+        "title": "School district technology summer update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "A school technology representative briefed the committee on projects completed over the summer in preparation for the upcoming school year. Contractor ProAV installed interactive flat panel displays across more than 200 classrooms in about three and a half weeks. Other completed school projects include a wireless network infrastructure upgrade at Trottier Middle School and executed lease agreements for new teacher laptops.",
+        "key_details": [
+          "Interactive flat panels were installed in over 200 classrooms across district schools.",
+          "Wireless networking infrastructure was upgraded at Trottier Middle School.",
+          "New laptop leases were secured for educators ahead of the school year."
+        ],
+        "outcome": "Informational update; no committee vote taken.",
+        "why_it_matters": null,
+        "start_seconds": 4775,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend approval and conditional deployment of the police drone program under the phased implementation approach",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 2455
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Presentation of 2025 town survey results to the Select Board",
+        "when": "September 2, 2026"
+      },
+      {
+        "what": "Municipal Technology Committee regular meeting",
+        "when": "September 22, 2026"
+      },
+      {
+        "what": "Town municipal phone system upgrades begin",
+        "when": "October 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T19:03:31Z",
+  "usage": {
+    "total_tokens": 193926,
+    "total_input_tokens": 190732,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 190038
+      },
+      {
+        "modality": "text",
+        "tokens": 694
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1756,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1438
+  }
+}

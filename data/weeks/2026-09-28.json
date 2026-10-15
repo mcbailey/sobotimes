@@ -1,72 +1,81 @@
 {
-  "synopsis": "Southborough boards addressed major commercial development plans and preparations for the upcoming Special Town Meeting this week. The Planning Board opened a public hearing on a proposal for a 167,000-square-foot Costco warehouse and 30-position gas station on Coslin Drive, hearing initial resident traffic concerns, while also advancing discussions on a two-family dwelling zoning amendment. Meanwhile, the Trails Committee evaluated funding alternatives to salvage Community Preservation Act support for the Peninsula Trail pedestrian bridge on the town warrant following negative recommendations from other town boards. Officials also noted an upcoming multi-board session to review elementary school building project options and costs.",
+  "headline": "Costco presented initial plans for a Coslin Drive warehouse and fueling station, while boards prepped warrant articles for Special Town Meeting.",
+  "synopsis": "The Planning Board opened a public hearing on Costco Wholesale's proposed 167,000-square-foot warehouse and 30-position gas station on Coslin Drive, where residents raised traffic concerns along Route 9 and surrounding neighborhood streets. The Planning Board also continued discussions on a two-family dwelling zoning amendment scheduled for the upcoming Special Town Meeting. Meanwhile, the Trails Committee weighed floor amendments to salvage funding for the Peninsula Trail pedestrian bridge after the article failed to win recommendations from the Select Board and Advisory Committee.",
   "highlights": [
     {
-      "title": "Costco warehouse and gas station proposal on Coslin Drive",
-      "why": "Costco Wholesale presented site, stormwater, and traffic plans for a proposed 167,000-square-foot warehouse and 30-position fueling station at 21 Coslin Drive, drawing neighborhood concerns regarding traffic on Route 9 and surrounding roads. The Planning Board voted 4-0 to continue the hearing to October 19.",
+      "title": "Costco outlines Coslin Drive warehouse and fueling station plans",
+      "why": "Costco presented preliminary site layouts and traffic data for a 167,000-square-foot retail store and 30-pump gas station, drawing traffic and safety concerns from nearby residents.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "hCwuB4U1qOk",
       "start_seconds": 1914
     },
     {
-      "title": "Funding strategy for Peninsula Trail pedestrian bridge",
-      "why": "After the Select Board and Advisory Committee voted not to recommend Warrant Article 4, the Trails Committee discussed offering a floor amendment at Special Town Meeting to request $25,000 in new CPA funds while repurposing $211,000 in existing CPA allocations and seeking a state grant.",
+      "title": "Trails Committee weighs floor amendment for Peninsula Trail bridge",
+      "why": "After the Select Board and Advisory Committee voted not to recommend Article 4, the committee debated reducing its new CPA funding request to $25,000 and repurposing $211,000 in existing funds.",
       "body": "Trails Committee",
       "importance": "high",
       "video_id": "InzL5O9vgMQ",
       "start_seconds": 1095
     },
     {
-      "title": "Two-family dwelling zoning bylaw revisions",
-      "why": "The Planning Board reviewed draft revisions to a proposed zoning bylaw amendment governing two-family dwellings, focusing on removing confusing terms and clarifying minimum lot size rules across commercial and industrial districts. The hearing was continued to October 17.",
+      "title": "Two-family dwelling zoning article debated ahead of Town Meeting",
+      "why": "The Planning Board reviewed text adjustments to clarify lot size requirements across zoning districts and remove terms like duplex and townhouse before the warrant article goes to voters.",
       "body": "Planning Board",
-      "importance": "high",
+      "importance": "medium",
       "video_id": "hCwuB4U1qOk",
       "start_seconds": 15
     },
     {
-      "title": "Multi-board briefing on elementary school building options",
-      "why": "The town planner reported that a joint meeting with the Elementary School Building Committee and other town boards is scheduled for October 8 to review project options and cost estimates.",
+      "title": "Trails Committee coordinates fall events and hunting safety",
+      "why": "The committee arranged safety protocols, including blaze orange vests for hikers, to account for youth hunting season during upcoming trail walks and yoga sessions.",
+      "body": "Trails Committee",
+      "importance": "low",
+      "video_id": "InzL5O9vgMQ",
+      "start_seconds": 323
+    },
+    {
+      "title": "Fay School reviews landscaping plan for occupancy approval",
+      "why": "Representatives outlined native plantings and pesticide restrictions required to resolve conditions and secure a final certificate of occupancy for a school building addition.",
       "body": "Planning Board",
-      "importance": "medium",
+      "importance": "low",
       "video_id": "hCwuB4U1qOk",
-      "start_seconds": 6300
+      "start_seconds": 3861
     }
   ],
   "looking_ahead": [
     {
-      "what": "Joint meeting with Elementary School Building Committee and town boards on school project options and costs",
+      "what": "Joint meeting with Elementary School Building Committee and town boards at Public Safety Building",
       "when": "October 8, 2026, at 6:30 PM",
       "body": "Planning Board"
     },
     {
       "what": "Trails Committee regular meeting",
-      "when": "October 8, 2026 at 7:00 PM",
+      "when": "October 8, 2026, at 7:00 PM",
       "body": "Trails Committee"
     },
     {
-      "what": "Continued public hearing on two-family dwelling zoning bylaw warrant article",
-      "when": "October 17, 2026, at 9:05 AM",
+      "what": "Heritage Day informational booth",
+      "when": "October 12, 2026",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Special Town Meeting and continued two-family dwelling hearing",
+      "when": "October 17, 2026, starting at 9:05 AM",
       "body": "Planning Board"
     },
     {
-      "what": "Special Town Meeting, including Article 4 for the Peninsula Trail bridge",
-      "when": "October 17, 2026",
-      "body": null
-    },
-    {
-      "what": "Planning Board regular meeting with continued hearings for Costco Wholesale, 22 Turnpike Road, 154 Turnpike Road, and Fay School",
+      "what": "Continued hearings on Costco Wholesale, 22 Turnpike Road, and 154 Turnpike Road",
       "when": "October 19, 2026, starting at 6:30 PM",
       "body": "Planning Board"
     }
   ],
   "week": "2026-09-28",
-  "fingerprint": "b59d9ceb3c20c9a5",
+  "fingerprint": "2fa6d1ec7a8032c7",
   "video_ids": [
     "InzL5O9vgMQ",
     "hCwuB4U1qOk"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-14T12:40:22Z"
+  "generated_at": "2026-10-15T19:17:39Z"
 }

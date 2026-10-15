@@ -1,0 +1,93 @@
+{
+  "headline": "Committees advanced Special Town Meeting funding for golf irrigation and the Peninsula Trail, while the School Committee reviewed Neary School renovation options.",
+  "synopsis": "Ahead of the October Special Town Meeting, the Community Preservation Committee voted to endorse warrant articles seeking $433,546 for the Southborough Golf Club irrigation replacement and roughly $216,000 for the Peninsula Trail pedestrian bridge. The School Committee evaluated schematic concepts for the Neary Elementary School building project and agreed to request that the Select Board transfer $105,485 in additional state aid into the Special Education Stabilization Fund. In municipal administration, the Personnel Board recommended a 5% total salary adjustment for FY28 municipal staff, and the Master Plan Implementation Committee began developing funding strategies for the town's 2030 Master Plan update.",
+  "highlights": [
+    {
+      "title": "Southborough Golf Club irrigation project funding recommendation",
+      "why": "The Community Preservation Committee voted 4-1 to support a Special Town Meeting warrant article for $433,546 in CPA funds, addressing higher project costs that now total $1,087,296.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "JEIGQ-Svv2Y",
+      "start_seconds": 67
+    },
+    {
+      "title": "Peninsula Trail footbridge CPA application and warrant article",
+      "why": "The Community Preservation Committee voted 5-0 to advance a funding article requesting roughly $216,000 in CPA funds to construct a pedestrian footbridge closing a critical trail gap.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "FdQ5e5akTBk",
+      "start_seconds": 25
+    },
+    {
+      "title": "Neary Elementary School building project options",
+      "why": "Superintendent Gregory Martineau shared schematic design concepts ranging from code-compliance renovations to gymnasium additions, with formal cost estimates expected on September 24.",
+      "body": "School Committee",
+      "importance": "high",
+      "video_id": "K0f-6cLjO_Q",
+      "start_seconds": 5520
+    },
+    {
+      "title": "FY27 Chapter 70 state aid allocation to stabilization fund",
+      "why": "The School Committee agreed to request that the Select Board allocate $105,485 in newly received state education aid to the Special Education Stabilization Fund to buffer future high-cost placements.",
+      "body": "School Committee",
+      "importance": "high",
+      "video_id": "K0f-6cLjO_Q",
+      "start_seconds": 6866
+    },
+    {
+      "title": "FY28 salary grid adjustment",
+      "why": "The Personnel Board voted 4-0 to recommend a 5% overall salary grid increase for FY28 municipal employees, combining a 3% cost-of-living increase and a 2% step increment.",
+      "body": "Personnel Board",
+      "importance": "medium",
+      "video_id": "TKelgkz3FaU",
+      "start_seconds": 568
+    },
+    {
+      "title": "2030 Master Plan update strategy and funding",
+      "why": "The committee discussed using a consulting firm for an estimated $70,000 to $100,000 to streamline the town's Master Plan update, planning outreach to the Planning Board to seek grant sponsorship.",
+      "body": "Master Plan Implementation Committee",
+      "importance": "medium",
+      "video_id": "6QpNCFmbloY",
+      "start_seconds": 48
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board review of Peninsula Trail Phase 2 CPA application",
+      "when": "September 15, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Neary Elementary School Building Committee meeting featuring preliminary cost estimates for design options",
+      "when": "September 24, 2026 at 7:00 PM",
+      "body": "Neary Elementary School Building Committee"
+    },
+    {
+      "what": "Proposed Peninsula Trail guided public hike",
+      "when": "October 3, 2026",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Department head deadline to submit FY28 budget requests",
+      "when": "October 13, 2026",
+      "body": null
+    },
+    {
+      "what": "Special Town Meeting",
+      "when": "October 17, 2026",
+      "body": null
+    }
+  ],
+  "week": "2026-09-07",
+  "fingerprint": "74a40f92a660b4a0",
+  "video_ids": [
+    "3Fu66bBPayE",
+    "6QpNCFmbloY",
+    "FdQ5e5akTBk",
+    "JEIGQ-Svv2Y",
+    "K0f-6cLjO_Q",
+    "TKelgkz3FaU"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T19:18:59Z"
+}

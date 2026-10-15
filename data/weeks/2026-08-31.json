@@ -1,0 +1,87 @@
+{
+  "headline": "Southborough appointed an interim town clerk, advanced October Special Town Meeting warrants, and reviewed major school, golf, and wastewater capital plans.",
+  "synopsis": "The Select Board appointed former deputy clerk Amy Berry as interim town clerk and reviewed warrant articles for the October 17 Special Town Meeting, including a measure to convert the clerk role into an appointed position. The Elementary School Building Committee reviewed updated design options and educational needs for Neary Elementary School ahead of forthcoming cost estimates. The Select Board also voted to stay in a 35-community waste disposal consortium and authorized repairs on a residential driveway sinkhole tied to town drainage. Additionally, the Golf Committee finalized a $1.05 million irrigation funding proposal for Town Meeting, and the Wastewater Study Committee scaled back Route 9 sewer planning while deferring action to spring 2027.",
+  "highlights": [
+    {
+      "title": "Interim town clerk appointment and governance transition",
+      "why": "The Select Board voted 5-0 to appoint Amy Berry as interim town clerk through May 2027 following Jim Hegarty's upcoming departure. Officials also discussed Special Town Meeting warrant articles to transition the clerk position from elected to appointed, which will ultimately require voter approval at the ballot.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "6vLlCQSNejs",
+      "start_seconds": 131
+    },
+    {
+      "title": "Neary Elementary School renovation and addition designs",
+      "why": "Architects presented detailed schematic options for renovating Neary Elementary School, comparing courtyard infill, interior reconfigurations, and an exterior addition that faces difficult soil conditions. Educational evaluations showed larger renovation options best meet district programming, and preliminary cost estimates are expected later in September.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "BcZY2en8mPo",
+      "start_seconds": 1130
+    },
+    {
+      "title": "Regional waste disposal consortium renewal",
+      "why": "The Select Board voted unanimously to remain part of a 35-community municipal consortium negotiating trash disposal terms with WIN Waste in Millbury. Participating in the collaborative allows Southborough to leverage collective volume pricing before its current contract expires at the end of 2027.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "iXhlhTPe9wg",
+      "start_seconds": 8140
+    },
+    {
+      "title": "Golf course irrigation project funding proposal",
+      "why": "The Golf Committee reviewed a revised $1.05 million irrigation project plan that includes a 15 percent contingency. The project seeks funding primarily through the Community Preservation Act alongside $100,000 from the golf revolving fund for the October Special Town Meeting warrant.",
+      "body": "Golf Committee",
+      "importance": "high",
+      "video_id": "UG6tol0L1QY",
+      "start_seconds": 27
+    },
+    {
+      "title": "Route 9 wastewater system phasing and planning",
+      "why": "The Wastewater Study Committee evaluated a downscaled, phased sewer layout focused on the south side of Route 9 with an estimated cost between $30 million and $40 million. Members decided not to pursue District Improvement Financing at the fall Special Town Meeting, pushing any Town Meeting proposals to spring 2027.",
+      "body": "Wastewater Study Committee",
+      "importance": "high",
+      "video_id": "L-oPWBYbzKA",
+      "start_seconds": 154
+    },
+    {
+      "title": "Special Town Meeting warrant preparations",
+      "why": "The Select Board reviewed draft articles for the October 17 Special Town Meeting, including water main funding for Parkerville Road, a stormwater enterprise fund placeholder, and debt rescissions. Board members also noted that Costco has submitted its site plan package to the Planning Board.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "iXhlhTPe9wg",
+      "start_seconds": 9842
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Site review meeting with first responders and Department of Public Works for Neary Elementary",
+      "when": "September 9, 2026 at 10:00 AM",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Select Board meeting to review presentations and finalize the Special Town Meeting warrant",
+      "when": "September 15, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Elementary School Building Committee meeting to review cost estimates",
+      "when": "September 24, 2026",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Special Town Meeting",
+      "when": "October 17, 2026",
+      "body": "Town Meeting"
+    }
+  ],
+  "week": "2026-08-31",
+  "fingerprint": "887dc4dacdfca0cf",
+  "video_ids": [
+    "6vLlCQSNejs",
+    "BcZY2en8mPo",
+    "L-oPWBYbzKA",
+    "UG6tol0L1QY",
+    "iXhlhTPe9wg"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T19:19:26Z"
+}

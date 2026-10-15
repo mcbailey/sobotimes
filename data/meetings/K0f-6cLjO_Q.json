@@ -1,0 +1,314 @@
+{
+  "video": {
+    "id": "K0f-6cLjO_Q",
+    "title": "Southborough K-8 School Committee September 9, 2026",
+    "published_at": "2026-09-10T20:00:17Z",
+    "duration_s": 8751
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "School Committee",
+    "meeting_date": "2026-09-09",
+    "headline": "The School Committee reviewed Neary School renovation options and recommended allocating $105,485 in new state aid to a special education stabilization fund.",
+    "summary": "The Southborough School Committee convened for its first meeting of the school year to hear opening reports from school principals and district leaders. Members examined updated design concepts for the Neary Elementary School building project ahead of upcoming cost estimates. The committee closed out the FY26 budget, reviewed the start of FY27 finances, and agreed to request that the Select Board direct $105,485 in additional Chapter 70 state aid into the town's special education reserve fund.",
+    "topics": [
+      {
+        "title": "School opening and district departmental reports",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Principals and district administrators reported on the opening of the school year across all district schools. Discussions covered summer professional development, implementation of interactive display boards, bus transportation startup with NRT, food services staffing changes under Whitsons, and updates on ongoing facility maintenance.",
+        "key_details": [
+          "Neary School roof replacement project experienced minor material delays but is progressing on schedule toward an estimated mid-October completion without cost increases.",
+          "District implemented 133 new interactive display boards across all schools funded from capital appropriations.",
+          "All 15 town bus routes had assigned drivers on day one, though adjustments to turn-by-turn navigation data and tracking apps were ongoing.",
+          "Whitsons Food Service introduced new management, including a new district general manager and culinary staff.",
+          "Over 8,000 phishing emails were detected and quarantined in the first four weeks following deployment of an anti-phishing email service."
+        ],
+        "outcome": "Information received; staff will provide ongoing updates on transportation and food service operations.",
+        "why_it_matters": null,
+        "start_seconds": 42,
+        "end_seconds": null
+      },
+      {
+        "title": "State legislative and regulatory updates",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent summarized recent state legislative enactments and Department of Elementary and Secondary Education regulations affecting local policies. Key items include the Parent Act requiring an immigration enforcement policy, new regulations restricting timeout and seclusion practices, and pending bills addressing student cell phone use and evidence-based literacy.",
+        "key_details": [
+          "The Parent Act requires the district to formally adopt policies regarding law enforcement and immigration inquiries on school property.",
+          "State regulations effective August 17 set strict limitations on physical timeout and student seclusion, necessitating policy and staff training updates.",
+          "State legislation on student digital wellness and cell phone use remains under active negotiation on Beacon Hill.",
+          "The district is monitoring early literacy mandates requiring evidence-based instruction materials."
+        ],
+        "outcome": "Model policies will be reviewed by the Joint Policy Subcommittee.",
+        "why_it_matters": null,
+        "start_seconds": 4307,
+        "end_seconds": null
+      },
+      {
+        "title": "Subcommittee and liaison assignments for 2026-2027",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee organized its subcommittee and liaison representation for the new school year. Members adjusted assignments across several bodies including Capital Planning, Operational Budget, Policy Development, and the Neary School Building Committee.",
+        "key_details": [
+          "A member agreed to serve as the liaison to the Neary Elementary School Building Committee.",
+          "Committee representatives were confirmed for the Policy Development and Operational Budget subcommittees.",
+          "A committee member volunteered as an alternate liaison to the Health and Wellness Advisory Committee."
+        ],
+        "outcome": "Assignments were confirmed by consensus.",
+        "why_it_matters": null,
+        "start_seconds": 4437,
+        "end_seconds": null
+      },
+      {
+        "title": "MASC and MASS conference resolutions review",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "The committee reviewed proposed resolutions scheduled for consideration at the Massachusetts Association of School Committees and Massachusetts Association of School Superintendents annual conference. Key resolutions address school safe zones, clarification of emergency behavioral restraint standards, and regional school district access to special education reserve funds.",
+        "key_details": [
+          "Resolution 1 supports safe zones on school grounds regardless of immigration status.",
+          "Resolution 4 calls for state clarification regarding exclusion and emergency behavioral response.",
+          "Resolution 5 would ease restrictions allowing regional school committees to access reserve funds without two-thirds town meeting votes."
+        ],
+        "outcome": "The committee will designate a voting delegate at its October meeting.",
+        "why_it_matters": null,
+        "start_seconds": 4886,
+        "end_seconds": null
+      },
+      {
+        "title": "Acceptance of educational grants and donations",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee formally accepted three state and foundation grants supporting curriculum, literacy, and community health, along with a small private donation. The grants support shared academic and health initiatives coordinated across the Northborough and Southborough school districts.",
+        "key_details": [
+          "Accepted a DESE Genocide Education Grant of $14,800 representing Southborough's 40 percent share of a joint grant.",
+          "Accepted a DESE Partnership for Reading Success Massachusetts (PRISM) literacy grant of $231,900 for early literacy work.",
+          "Accepted a MetroWest Health Foundation grant of $6,000 for health data analysis.",
+          "Accepted an anonymous donation of $85 to the Southborough Extended Day Program."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 5174,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary Elementary School building project options",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Superintendent Gregory Martineau presented updated schematic architectural concepts developed by Tappe Architects for the Neary Elementary School building project. The design options encompass a code-compliance renovation, building renovations reorganizing grade-level classrooms with an enclosed courtyard gymnasium, and an addition option creating a new gymnasium wing. Formal cost estimates are scheduled to be presented on September 24.",
+        "key_details": [
+          "Option 1 would bring the existing facility up to current building and ADA code compliance.",
+          "Option 2 reconfigures existing interior spaces into separate Grade 4 and Grade 5 classroom neighborhoods and opens the courtyard.",
+          "Option 3 infills the interior courtyard to construct a full-size elementary gymnasium with 400-seat community capacity and reallocates the existing gym space.",
+          "Option 4 adds a new gymnasium addition to the east side, though preliminary assessments suggest it would require significant site work and exceed space requirements.",
+          "Cost estimates for all options will be presented to the building committee on September 24, 2026."
+        ],
+        "outcome": "Discussion only; cost estimates will be reviewed by the building committee on September 24.",
+        "why_it_matters": "The project will determine future grade-level configurations, learning environments, and town capital borrowing requests for Southborough elementary facilities.",
+        "start_seconds": 5520,
+        "end_seconds": null
+      },
+      {
+        "title": "2026-2027 school enrollment update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent presented the district enrollment report as of August 27, 2026. All class sizes across kindergarten through eighth grade remain within the School Committee's approved class size policy guidelines.",
+        "key_details": [
+          "Enrollment numbers remain stable across Finn, Woodward, Neary, and Trottier schools.",
+          "An unbudgeted kindergarten teacher section added over the summer kept kindergarten class sizes comfortably below policy limits.",
+          "No sections are currently in danger of exceeding established maximum thresholds."
+        ],
+        "outcome": "Report accepted.",
+        "why_it_matters": null,
+        "start_seconds": 6462,
+        "end_seconds": null
+      },
+      {
+        "title": "FY26 budget closeout and year-end transfers",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed and voted to close out the FY26 operating budget, which totaled $25,112,286. Out-of-district special education tuition, collaborative placements, and heating fuel exceeded budgeted amounts, but were offset by circuit breaker extraordinary relief funds and savings elsewhere in the budget.",
+        "key_details": [
+          "FY26 operating budget finished fully expended with zero remaining balance.",
+          "Overspent line items included out-of-district special education placements and heating utility costs due to winter cold spells.",
+          "State circuit breaker extraordinary relief received in the spring allowed the district to prepay certain FY27 special education tuitions.",
+          "A list of function codes that exceeded line-item budgets was presented for formal committee approval."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "Properly closing out the prior year's operating budget ensures compliance with Massachusetts municipal finance law and confirms town school accounts balance without a deficit.",
+        "start_seconds": 6582,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 Chapter 70 state aid allocation to stabilization fund",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The district received notification that the final state budget included an additional $105,485 in Chapter 70 education aid for Southborough above the amount estimated when the town budget passed. Administration recommended formally requesting that the Select Board direct these additional funds into the town's Special Education Stabilization Fund.",
+        "key_details": [
+          "Southborough received $105,485 more in state Chapter 70 school aid than anticipated in the approved town budget.",
+          "The Special Education Stabilization Fund currently has a zero balance.",
+          "A formal stabilization balance provides a financial buffer against sudden, high-cost out-of-district student placements."
+        ],
+        "outcome": "The committee agreed to send a letter requesting the Select Board place the $105,485 into the Special Education Stabilization Fund.",
+        "why_it_matters": "Placing unexpected state aid into a dedicated stabilization account protects taxpayers and the district budget from future spikes in mandated out-of-district special education tuition.",
+        "start_seconds": 6866,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 budget report and revolving accounts",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee reviewed the initial FY27 monthly budget report through August 31, 2026, and year-end revolving account statements. The district has expended $1,423,296 and encumbered $24,465,139 of its appropriation. Revolving accounts, including food services, facility rentals, and extended day, remain financially stable.",
+        "key_details": [
+          "FY27 available budget balance stood at $225,782 (0.86% of the budget) as of August 31.",
+          "An unexpected out-of-district special education placement occurred requiring an unbudgeted tuition commitment of $363,322.",
+          "Extended Day revolving account closed FY26 with a healthy surplus balance of $529,213, with fees remaining unchanged.",
+          "Southborough preschool revolving account will be established independently from Northborough moving forward."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 7100,
+        "end_seconds": null
+      },
+      {
+        "title": "Transfer of student activity funds",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "The committee approved the routine transfer of remaining student activity funds from the graduated eighth-grade class to the incoming sixth-grade class at Trottier Middle School.",
+        "key_details": [
+          "Transferred $1,312.35 in unspent activity funds.",
+          "Funds were moved from the graduated Class of 2030 to the incoming sixth-grade Class of 2033."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 7656,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 draft capital plan and budget calendar",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "District staff presented an early preliminary draft of the FY28 five-year capital improvement plan and a budget schedule for the upcoming fiscal cycle. Potential capital needs discussed included parking lot fencing replacement and exterior staircase repairs at Finn School, as well as bird bath sink replacements. The committee stressed the importance of identifying projects that may qualify for Massachusetts School Building Authority Accelerated Repair grants.",
+        "key_details": [
+          "Preliminary FY28 capital requests include Finn School parking lot fence replacement and exterior concrete staircase repairs.",
+          "School committee leadership asked staff to clearly indicate potential MSBA grant eligibility on future five-year capital forecasts.",
+          "Administration will coordinate with town officials on a dedicated budget session ahead of the FY28 cycle."
+        ],
+        "outcome": "Draft received; the capital subcommittee will refine the proposal before submission to town committees.",
+        "why_it_matters": null,
+        "start_seconds": 7723,
+        "end_seconds": null
+      },
+      {
+        "title": "Personnel report",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The superintendent provided the district personnel update reflecting recent resignations, leaves of absence, and new staff appointments across Southborough schools.",
+        "key_details": [
+          "Multiple internal transfers occurred, including education support professionals advancing into certified educator roles.",
+          "The district filled vacancies in school nursing, food services, and educational support positions.",
+          "The overall staffing level remained stable entering the new academic year."
+        ],
+        "outcome": "Report accepted.",
+        "why_it_matters": null,
+        "start_seconds": 8465,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved payroll and accounts payable warrants, ratified meeting minutes from May and June 2026, and voted to enter executive session regarding collective bargaining and security strategies without returning to open session.",
+        "key_details": [
+          "Approved open session minutes for May 6, June 4, June 10, June 18, and June 29, 2026.",
+          "Approved and released executive session minutes for June 10, 2026.",
+          "Voted by roll call to enter executive session at 8:56 PM to discuss collective bargaining with the Southborough Teachers Association (Units A and C) and physical security deployment."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 8500,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the anonymous donation of $85 to the Southborough Extended Day Program, the DESE Genocide Education Grant of $14,800, the DESE PRISM 1 Program Continuation Grant of $231,900, and the MetroWest Health Foundation Grant of $6,000",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 5310
+      },
+      {
+        "motion": "Accept the FY26 Monthly General Fund report as of June 30, 2026 until audited, and approve the final list of function codes that exceeded their budgets in FY26",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 6860
+      },
+      {
+        "motion": "Accept the FY27 Monthly General Fund report as of August 31, 2026 until audited, and approve the overexpended function codes listed in the report",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7297
+      },
+      {
+        "motion": "Approve the transfer of $1,312.35 in student activity funds from the graduated 8th grade Class of 2030 to the incoming 6th grade Class of 2033",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7700
+      },
+      {
+        "motion": "Enter into executive session under M.G.L. Chapter 30A, Section 21(a)(3) for collective bargaining strategy with the Southborough Teachers Association Units A and C, and Section 21(a)(4) for security personnel or devices, not to return to open session",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 8740
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident urged the committee and the Neary School Building Committee to account for the financial and operational costs of relocating the district central offices, noting that moving those offices out of the Neary building will create new rental costs or lost revenue for the town that must be presented transparently to voters.",
+        "start_seconds": 8655
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Neary Elementary School Building Committee meeting featuring preliminary cost estimates for design options",
+        "when": "September 24, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Southborough Special Town Meeting",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Next regular Southborough School Committee meeting",
+        "when": "October 2026"
+      },
+      {
+        "what": "MASC/MASS Annual Joint Conference in Danvers",
+        "when": "November 4-6, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:54:33Z",
+  "usage": {
+    "total_tokens": 340680,
+    "total_input_tokens": 334959,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 698
+      },
+      {
+        "modality": "video",
+        "tokens": 334261
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4283,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1438
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "video": {
+    "id": "3Fu66bBPayE",
+    "title": "Trails Committee 9/10/26",
+    "published_at": "2026-09-11T12:57:01Z",
+    "duration_s": 4345
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-09-10",
+    "headline": "The Trails Committee finalized its Community Preservation Act application for the Peninsula Trail Phase 2 bridge and planned public outreach ahead of Town Meeting.",
+    "summary": "The Trails Committee reviewed its Community Preservation Act application for Phase 2 of the Peninsula Trail, which received unanimous support from the Community Preservation Committee and is heading to the Select Board and Advisory Committee before Fall Town Meeting. Members discussed public outreach strategies, including producing an informational video with Southborough Access Media and scheduling public hikes along the trail in October. The committee also voted to extend its Yoga on the Trails program with an added run-and-walk option and celebrated receiving a Choate Fund grant for trail improvements.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved the meeting minutes from August 27, 2026, with a minor typographical correction to an attendee name.",
+        "key_details": [
+          "August 27, 2026 minutes approved as amended",
+          "Vote was unanimous by roll call"
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 36,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail Phase 2 CPA funding application",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The chair reported that the Community Preservation Committee unanimously voted to support the Phase 2 CPA application on September 8. The application covers construction of a pedestrian bridge to close a critical trail gap, accounting for cost escalation and contingency while netting out previously unspent funds returned from Phase 1. The proposal next goes to the Select Board and the Advisory Committee ahead of the October 17 Special Town Meeting.",
+        "key_details": [
+          "Unspent Phase 1 funds of $44,600 from an original $47,000 were returned to the CPA fund",
+          "Bridge construction estimate is approximately $275,000, with a net request of roughly $217,000",
+          "Includes a 15 percent cost escalation adder and contingency for unforeseen construction conditions",
+          "Select Board review scheduled for September 15, 2026",
+          "Headed to Special Town Meeting on October 17, 2026"
+        ],
+        "outcome": "CPC supported application; moving to Select Board and Town Meeting",
+        "why_it_matters": "The proposal asks Town Meeting voters to approve Community Preservation Act funding to construct a pedestrian bridge connecting sections of the Peninsula Trail.",
+        "start_seconds": 186,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting outreach video and guided trail hikes",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed partnering with Southborough Access Media to produce a short promotional video explaining the Peninsula Trail and the bridge project before Town Meeting. The committee also planned guided public hikes to show residents the proposed bridge location and trail route, tentatively setting a hike for October 3 with a Department of Conservation and Recreation ranger. Attendance for the hike will be capped at 30 people to ensure safety and manageability.",
+        "key_details": [
+          "Collaboration planned with Southborough Access Media for a 3-minute video",
+          "Guided public hike targeted for Saturday, October 3, 2026",
+          "Hike participant registration capped at 30 people",
+          "AMC volunteers may help install bog bridges on October 2, 2026"
+        ],
+        "outcome": "Committee agreed to proceed with video planning and pursue October 3 hike date",
+        "why_it_matters": null,
+        "start_seconds": 583,
+        "end_seconds": null
+      },
+      {
+        "title": "Yoga on the Trails program extension and run-walk addition",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "A member proposed extending the popular Yoga on the Trails program into October and November and adding marked walking and running distances beforehand. The committee discussed logistics, including potential food pantry donation drives for Thanksgiving and setting up temporary trail markers. The committee voted to approve funding up to two additional yoga sessions with a combined run-walk element.",
+        "key_details": [
+          "Proposed extension includes sessions on October 24 and in November",
+          "Each class costs $75, totaling $150 from the committee budget",
+          "November session may serve as a food donation drive for the local food pantry",
+          "Added option for participants to do a self-paced run or walk before yoga"
+        ],
+        "outcome": "Passed 5-0",
+        "why_it_matters": null,
+        "start_seconds": 2440,
+        "end_seconds": null
+      },
+      {
+        "title": "Choate Fund grant and trail maintenance updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair announced that the committee was awarded a Choate Fund grant of just under $5,000 for trail enhancements. The funds will be used to expand gravel pads around interpretive signs, install new backless benches, and add youth-oriented interpretive signage. Members also discussed tool storage options in the Recreation Department building and identified overgrown sections along the Aqueduct trail near Route 30 and White Bagley Road needing trimming.",
+        "key_details": [
+          "Awarded Choate Fund grant just under $5,000",
+          "Grant covers stone dust expansion, new benches, and youth-focused signage",
+          "Recreation Department building space may house some committee maintenance tools",
+          "Volunteers to coordinate clearing overgrown brush along the Aqueduct near White Bagley Road"
+        ],
+        "outcome": "Grant accepted; trail maintenance outings to be coordinated among members",
+        "why_it_matters": null,
+        "start_seconds": 3330,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Support one to two additional Yoga on the Trails sessions for October and November and proceed with adding a run-walk component ahead of class time",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3259
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board review of Peninsula Trail Phase 2 CPA application",
+        "when": "September 15, 2026"
+      },
+      {
+        "what": "Trails Committee meeting",
+        "when": "September 17, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Proposed Peninsula Trail guided public hike",
+        "when": "October 3, 2026"
+      },
+      {
+        "what": "Heritage Day booth",
+        "when": "October 12, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": "Between 0:57:30 and 1:04:45, two remote attendees who raised hands experienced severe audio distortion and glitching before being removed from the session without offering substantive comment."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:52:18Z",
+  "usage": {
+    "total_tokens": 169401,
+    "total_input_tokens": 166666,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 165973
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1744,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 991
+  }
+}

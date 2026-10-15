@@ -1,0 +1,137 @@
+{
+  "video": {
+    "id": "PtDnRwzqC30",
+    "title": "Community Preservation Committee 8/25/26",
+    "published_at": "2026-08-26T18:05:47Z",
+    "duration_s": 9379
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-08-25",
+    "headline": "The CPC reviewed revised funding requests for golf course irrigation and the Peninsula Trail while deferring Fayville Park improvements to Annual Town Meeting.",
+    "summary": "The Community Preservation Committee reviewed updated Community Preservation Act applications for the upcoming Special Town Meeting. The Recreation Commission announced it will withdraw its Harold E. Fay Memorial Park application from the fall warrant to resolve parking questions and await federal grant decisions ahead of Annual Town Meeting. The committee examined revised cost estimates and contingency calculations for the Southborough Golf Club irrigation system and the Peninsula Trail footbridge, agreeing to consult Town Counsel on warrant article language before voting on recommendations at their September 8 meeting.",
+    "topics": [
+      {
+        "title": "Harold E. Fay Memorial Park improvements update",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The Recreation Commission chair reported that the commission plans to withdraw the Harold E. Fay Memorial Park funding application from the upcoming fall Special Town Meeting warrant and resubmit it for the 2027 Annual Town Meeting. Outstanding parking design questions require further coordination with the Select Board and Planning Board, and the town is awaiting word on a federal grant that could cover a significant percentage of project costs. Deferring the request avoids rushing the project and allows time to resolve lingering neighborhood concerns.",
+        "key_details": [
+          "Project had requested $1,502,800 in CPA funds.",
+          "A preparatory meeting with town staff was scheduled for August 27, followed by a discussion with the Select Board on September 2.",
+          "The project is awaiting federal grant determination that could significantly reduce the local cost share.",
+          "The deadline for new applications for the Annual Town Meeting is September 15, but existing applications can continue with updated materials."
+        ],
+        "outcome": "The Recreation Commission will vote to formally withdraw the application from the fall Special Town Meeting warrant and prepare it for Annual Town Meeting.",
+        "why_it_matters": null,
+        "start_seconds": 29,
+        "end_seconds": null
+      },
+      {
+        "title": "Southborough Golf Club irrigation system funding revision",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Representatives from the Golf Course Committee and Department of Public Works presented a revised application for the golf course irrigation project. The overall project cost estimate increased to $1,087,296 after raising the construction contingency from 2.6 percent to 15 percent, requiring an additional $433,546 in CPA funds beyond the $553,750 previously approved in 2024, alongside a $100,000 contribution from the Golf Revolving Fund. Committee members discussed environmental reviews with Sudbury Valley Trustees and the Conservation Commission, consultant reviews for Audubon International certification, and proper accounting of previous contingency authorizations.",
+        "key_details": [
+          "Total revised estimated project cost is $1,087,296, which includes a 15 percent contingency of $141,821.",
+          "The 2024 Annual Town Meeting previously approved $553,750 with a $78,750 contingency that will expire on December 1, 2026 without an extension.",
+          "Project includes installation of a booster pump station near Latisquama Road and directional boring under stream crossings to reduce wetland impact.",
+          "The golf course management company pays the course water bills.",
+          "An RFP for an Audubon International consultant is being issued with responses due in two weeks."
+        ],
+        "outcome": "No vote was taken; the committee consultant will draft warrant article language with Town Counsel for review at the September 8 meeting.",
+        "why_it_matters": "The project seeks hundreds of thousands of dollars in town preservation funds to upgrade town-owned recreational infrastructure, directly affecting town bonding and cash reserves.",
+        "start_seconds": 1011,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail footbridge project scope and budget revisions",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Trails Committee chair presented a revised application for the Peninsula Trail connection after bids for the original boardwalk and bridge design significantly exceeded budget. The project scope has been narrowed to construct only the prefabricated pedestrian footbridge, eliminating the boardwalk component, resulting in a revised project budget of $466,628. The committee is requesting an additional $210,796 in new CPA funding, continuation of $211,232 previously approved in 2024, and reallocation of approximately $44,600 in leftover funds from Phase 1.",
+        "key_details": [
+          "Revised total project cost is $466,628, including a 20 percent construction contingency of $63,071.",
+          "Request includes $210,796 in new CPA funds, reallocating $44,600 from Phase 1, and continuing $211,232 from 2024.",
+          "The project will use construction-phase project management services rather than a full statutory Owner's Project Manager.",
+          "The Trails Committee plans to apply for a 2027 MassTrails grant to potentially offset town CPA expenditures if awarded.",
+          "The sunset clause date requested for fund expenditure is December 31, 2028."
+        ],
+        "outcome": "No vote was taken; the committee will consult Town Counsel on how to structure the warrant article regarding prior appropriations and vote on September 8.",
+        "why_it_matters": "This project completes a major recreational connection between regional trail networks using significant town CPA funds.",
+        "start_seconds": 5740,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of available CPA funds and bonding capacity",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee reviewed the balance of available Community Preservation Act funds ahead of the fall Special Town Meeting. Southborough currently has $1,231,473 in cash reserves ($1,087,064 in fund balance as of June 30 and $144,409 in FY27 budgeted reserves) and an estimated bonding capacity of at least $1,000,000, giving approximately $2.23 million in total potential funding availability. With the withdrawal of the Fayville Park project, the remaining fall requests total well within the available funds without requiring immediate bonding.",
+        "key_details": [
+          "Total CPA funds available in cash reserves equal $1,231,473.",
+          "Estimated bonding capacity provides at least $1,000,000 in additional financing potential.",
+          "Pending fall requests totaled roughly $644,000 across the golf irrigation and Peninsula Trail projects following Fayville Park's postponement.",
+          "Recreational projects draw from general undesignated CPA reserves rather than statutory restricted buckets like open space."
+        ],
+        "outcome": "Informational review; figures will guide committee recommendations on September 8.",
+        "why_it_matters": null,
+        "start_seconds": 8180,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee scheduled its next meeting for September 8, 2026, to review draft warrant articles and vote on project recommendations. Members also reviewed and approved draft meeting minutes from August 3, 2026, with minor typographical corrections.",
+        "key_details": [
+          "Next meeting scheduled for September 8, 2026.",
+          "Minutes of the August 3, 2026 meeting were approved as amended."
+        ],
+        "outcome": "Meeting minutes approved and next meeting scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 8990,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Discussion with Town Counsel regarding warrant article structuring for prior CPA authorizations and sunset clauses",
+        "when": "Before September 8, 2026"
+      },
+      {
+        "what": "Community Preservation Committee meeting to review draft warrant articles and vote on recommendations for Special Town Meeting",
+        "when": "September 8, 2026"
+      },
+      {
+        "what": "Deadline for Annual Town Meeting CPA funding applications",
+        "when": "September 15, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T19:11:47Z",
+  "usage": {
+    "total_tokens": 362324,
+    "total_input_tokens": 358971,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 358277
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2004,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1349
+  }
+}

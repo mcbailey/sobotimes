@@ -1,0 +1,82 @@
+{
+  "week": "2026-08-17",
+  "fingerprint": "25c7f1ce8a40a962",
+  "topics": {
+    "In0K8NmFMco#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "In0K8NmFMco#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "In0K8NmFMco#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "In0K8NmFMco#3": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "qUlxMeFyn1Y#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "qUlxMeFyn1Y#1": {
+      "issue": "fay-school-25-middle-road",
+      "category": "Zoning & development"
+    },
+    "qUlxMeFyn1Y#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "qUlxMeFyn1Y#3": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "qUlxMeFyn1Y#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "qUlxMeFyn1Y#5": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "qUlxMeFyn1Y#6": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    }
+  },
+  "upcoming": {
+    "In0K8NmFMco#u0": {
+      "date": "2026-09-03",
+      "issue": "neary-school-building-project"
+    },
+    "In0K8NmFMco#u1": {
+      "date": "2026-09-24",
+      "issue": "neary-school-building-project"
+    },
+    "qUlxMeFyn1Y#u0": {
+      "date": "2026-08-24",
+      "issue": null
+    },
+    "qUlxMeFyn1Y#u1": {
+      "date": "2026-08-27",
+      "issue": null
+    },
+    "qUlxMeFyn1Y#u2": {
+      "date": "2026-09-14",
+      "issue": "22-turnpike-road"
+    },
+    "qUlxMeFyn1Y#u3": {
+      "date": "2026-09-14",
+      "issue": "two-family-zoning-amendment"
+    },
+    "qUlxMeFyn1Y#u4": {
+      "date": "2026-10-17",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T19:22:05Z"
+}

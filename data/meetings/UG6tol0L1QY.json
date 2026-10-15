@@ -1,0 +1,131 @@
+{
+  "video": {
+    "id": "UG6tol0L1QY",
+    "title": "Golf Committee 9/2/26",
+    "published_at": "2026-09-02T19:46:56Z",
+    "duration_s": 1326
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Golf Committee",
+    "meeting_date": "2026-09-02",
+    "headline": "The Golf Committee reviewed a $1.05 million irrigation proposal and sought funding through the Community Preservation Committee for Town Meeting.",
+    "summary": "The Southborough Golf Committee discussed the proposed golf course irrigation project ahead of the October Special Town Meeting, noting the estimated cost is now approximately $1.05 million after raising the contingency to 15 percent. Members reviewed updates on Audubon International certification efforts and received status reports on tree planting, fence installation, and tee box renovations. The committee also agreed to advertise an open fifth seat by posting a notice in the clubhouse to recruit a resident golfer.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the minutes of the July 14 meeting.",
+        "key_details": [
+          "Minutes of July 14 were approved without amendment."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 6,
+        "end_seconds": null
+      },
+      {
+        "title": "Golf course irrigation project and CPC funding application",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The chair reported on meetings with the Community Preservation Committee regarding the golf course irrigation project. The project base cost is estimated by consultants at approximately $900,000, and the committee increased the budget contingency from 2.5 percent to 15 percent, bringing the total anticipated request to about $1.05 million. The proposal currently includes using $100,000 from the golf revolving fund, with the remainder sought through Community Preservation Act funds at the October Special Town Meeting.",
+        "key_details": [
+          "Total estimated cost with 15 percent contingency is approximately $1.05 million.",
+          "The golf revolving fund is slated to contribute $100,000 toward the project.",
+          "The project will be put before voters on the Special Town Meeting warrant, tentatively scheduled for October 17."
+        ],
+        "outcome": "Warrant article language is pending review by town officials and CPC.",
+        "why_it_matters": "A multi-hundred-thousand to million-dollar project using Community Preservation Act funds requires town approval and directly affects municipal recreation assets and capital spending.",
+        "start_seconds": 27,
+        "end_seconds": null
+      },
+      {
+        "title": "Audubon International certification status",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The committee discussed the status of pursuing Audubon International certification for the golf course. Members noted that demonstrating progress on environmental stewardship will be important ahead of Town Meeting. A proposed timeline was submitted to the Community Preservation Committee, and work is underway to engage a consultant.",
+        "key_details": [
+          "A project coordinator developed a timeline submitted to the CPC.",
+          "Annual membership dues will be put before the committee for payment once an invoice is received.",
+          "The committee plans to report at Town Meeting that certification efforts are actively in process."
+        ],
+        "outcome": "Discussion only; waiting on consultant onboarding and dues billing.",
+        "why_it_matters": null,
+        "start_seconds": 213,
+        "end_seconds": null
+      },
+      {
+        "title": "Ongoing course maintenance, fencing, and tee box projects",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee reviewed pending maintenance and improvement projects across the course. Fencing behind the third green and planting six trees between the third and fourth fairways have been submitted to town administration. Members also discussed tee box renovations, future safety redesigns on hole 7 to prevent errant balls, and potential collaboration with Assabet Valley students to repair the maintenance barn sills.",
+        "key_details": [
+          "Fencing quotes behind the third green and six replacement trees are under review by the town administrator.",
+          "Cost estimates have been received from the golf management company for tee box renovations.",
+          "Potential repair work on the maintenance barn sills may involve vocational students from Assabet Valley Regional Technical High School."
+        ],
+        "outcome": "The committee will follow up with town administration to advance the tee box and fencing work.",
+        "why_it_matters": null,
+        "start_seconds": 528,
+        "end_seconds": null
+      },
+      {
+        "title": "Recruitment for vacant fifth committee seat",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed recruiting a fifth member to fill a vacancy on the Golf Committee. Rather than relying solely on town census data, the committee agreed to post a flyer in the golf clubhouse and pro shop to recruit an active Southborough resident golfer. A select board member also offered to mention the opening during upcoming board reports.",
+        "key_details": [
+          "The committee seeks to fill an open fifth seat to ensure stable quorums.",
+          "A flyer will be posted at the course clubhouse inviting interested Southborough residents to apply.",
+          "The opening will also be mentioned at a future Select Board meeting."
+        ],
+        "outcome": "Members will coordinate posting an informational flyer at the course.",
+        "why_it_matters": null,
+        "start_seconds": 973,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident in attendance inquired about the total dollar amount being set aside for the irrigation project and historical attempts at course building maintenance and Audubon certification.",
+        "start_seconds": 482
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Golf Committee regular meeting",
+        "when": "October 6, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T19:02:07Z",
+  "usage": {
+    "total_tokens": 53751,
+    "total_input_tokens": 51320,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 50632
+      },
+      {
+        "modality": "text",
+        "tokens": 688
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1400,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1031
+  }
+}

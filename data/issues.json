@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "issues": {
+    "22-turnpike-road": {
+      "id": "22-turnpike-road",
+      "name": "22 Turnpike Road site plan modification",
+      "description": "Site plan modification to expand stormwater infiltration, permit existing patios and a shed, and address sports lighting at 22 Turnpike Road.",
+      "category": "Zoning & development",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "status": "The Planning Board reviewed expanded stormwater plans, instructed the applicant to submit a formal waiver request for sports lighting, and continued the hearing to September 14, 2026.",
+      "status_as_of": "2026-08-17"
+    },
+    "fay-school-25-middle-road": {
+      "id": "fay-school-25-middle-road",
+      "name": "Fay School 25 Middle Road addition",
+      "description": "Review of as-built plans, construction discrepancies, and landscape mitigation for an addition at Fay School's 25 Middle Road campus.",
+      "category": "Zoning & development",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "status": "The Planning Board voted to recommend a temporary certificate of occupancy for the building addition on the condition that Fay School submit a tree and native planting mitigation plan within 90 days.",
+      "status_as_of": "2026-08-17"
+    },
+    "glow-sobo-holiday-lighting": {
+      "id": "glow-sobo-holiday-lighting",
+      "name": "Glow SoBo holiday lighting",
+      "description": "Funding and municipal installation of holiday lighting displays and kickoff event for the Tricentennial.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "The committee voted 6-0 to approve a $10,456 contract budget for professional lighting on town buildings and trees ahead of the December kickoff event.",
+      "status_as_of": "2026-08-12"
+    },
+    "neary-school-building-project": {
+      "id": "neary-school-building-project",
+      "name": "Neary School building project",
+      "description": "Feasibility, design, and renovation or replacement planning for Neary Elementary School.",
+      "category": "Schools",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-19",
+      "status": "The committee instructed architects to drop central school administration offices from renovation designs and dismissed a 10-year phased repair plan, with updated design schemes scheduled for review on September 3, 2026.",
+      "status_as_of": "2026-08-19"
+    },
+    "tricentennial-firefighters-muster": {
+      "id": "tricentennial-firefighters-muster",
+      "name": "2027 Tricentennial Firefighter's Muster",
+      "description": "Organization of a regional firefighter's muster and antique hand tub demonstration at Woodward School in July 2027.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "Preparations advanced for the July 2027 muster, with the working group next seeking facility clearance from the superintendent's office and contacting food trucks.",
+      "status_as_of": "2026-08-12"
+    },
+    "tricentennial-first-day": {
+      "id": "tricentennial-first-day",
+      "name": "First Day 2027 celebration",
+      "description": "Planning for Southborough's January 1, 2027 Tricentennial kickoff celebration featuring family activities, a drone show, and a bonfire.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "Event logistics were coordinated with the Recreation Department, with members next seeking written authorization from St. Mark's School and safety clearance from the Fire Department.",
+      "status_as_of": "2026-08-12"
+    },
+    "tricentennial-heritage-day-parade": {
+      "id": "tricentennial-heritage-day-parade",
+      "name": "2027 Tricentennial Heritage Day Parade",
+      "description": "Planning for an expanded Heritage Day Parade in October 2027 featuring marching units, community floats, and a historic cannon.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "The committee developed expanded parade plans including a blank-firing cannon demonstration, and will next submit draft contracts for marching and historical units for formal execution.",
+      "status_as_of": "2026-08-12"
+    },
+    "tricentennial-street-banners": {
+      "id": "tricentennial-street-banners",
+      "name": "Tricentennial commemorative street banners",
+      "description": "Permitting and installation of celebratory banners on utility poles across Southborough's historic villages.",
+      "category": "Roads, water & infrastructure",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "The committee identified viable utility poles for approximately 30 banners and will next submit inventory logs to National Grid and Verizon for attachment permits.",
+      "status_as_of": "2026-08-12"
+    },
+    "tricentennial-summer-nights": {
+      "id": "tricentennial-summer-nights",
+      "name": "Summer Nights 2027 music festival",
+      "description": "Expansion of the annual Summer Nights community event into a multi-act music festival for the 2027 Tricentennial.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "Organizers discussed festival logistics and headliner outreach, and will next meet with recreation staff to refine budget projections and staging locations ahead of the September meeting.",
+      "status_as_of": "2026-08-12"
+    },
+    "tricentennial-time-capsule": {
+      "id": "tricentennial-time-capsule",
+      "name": "Tricentennial time capsule",
+      "description": "Selection, preservation, and public placement of a commemorative time capsule for Southborough's 300th anniversary.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
+      "status": "The committee favored housing the capsule above ground in a municipal building, with the working group scheduled to present a final recommendation and budget in September.",
+      "status_as_of": "2026-08-12"
+    },
+    "two-family-zoning-amendment": {
+      "id": "two-family-zoning-amendment",
+      "name": "Two-family dwelling zoning amendment",
+      "description": "Proposed zoning bylaw amendment for Town Meeting to eliminate the requirement that a single-family dwelling exist for two years before converting to a two-family home.",
+      "category": "Zoning & development",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "status": "The Planning Board reviewed draft zoning amendments eliminating the two-year single-family existence requirement for two-family conversions and scheduled a public hearing for September 14, 2026.",
+      "status_as_of": "2026-08-17"
+    }
+  }
+}

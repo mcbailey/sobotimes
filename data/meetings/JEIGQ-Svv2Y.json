@@ -1,0 +1,98 @@
+{
+  "video": {
+    "id": "JEIGQ-Svv2Y",
+    "title": "Community Preservation Committee Pt 1 9/8/26",
+    "published_at": "2026-09-11T13:17:26Z",
+    "duration_s": 4110
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-09-08",
+    "headline": "The Community Preservation Committee voted 4-1 to support an additional $433,546 in CPA funding for the Southborough Golf Club irrigation project.",
+    "summary": "The Community Preservation Committee met to consider a supplemental funding request for the Southborough Golf Club irrigation replacement project ahead of Special Town Meeting. The committee voted 4-1 to support placing the funding article on the warrant, which supplements a previous appropriation with $433,546 in Community Preservation Act funds and a $100,000 revolving fund contribution. Members then performed a line-by-line review of the draft warrant article to prepare revisions for Town Counsel review before the video feed froze.",
+    "topics": [
+      {
+        "title": "Southborough Golf Club irrigation project funding recommendation",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee discussed whether to recommend an article for Special Town Meeting seeking additional funding for the Southborough Golf Club irrigation system. After initial bids came in significantly higher than the $553,750 appropriated at the 2024 Annual Town Meeting, the updated total project cost rose to $1,087,296. The article seeks an additional $433,546 from Community Preservation Act funds alongside a $100,000 contribution from the golf course revolving fund.",
+        "key_details": [
+          "Updated total project cost is $1,087,296, up from the $553,750 approved at the 2024 Annual Town Meeting.",
+          "Request includes $433,546 in CPA funds ($370,475 in direct project costs and $63,071 in contingency).",
+          "The golf course revolving fund will contribute $100,000 to cover the initial invoices.",
+          "One member opposed recommending the article due to outstanding application refinements and timing concerns."
+        ],
+        "outcome": "Passed 4-1 to support recommending the article for Special Town Meeting.",
+        "why_it_matters": "Approving this funding allocates $433,546 in town CPA funds for golf course infrastructure and brings the total town investment in the irrigation project over $1 million.",
+        "start_seconds": 67,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of draft warrant article language for golf irrigation",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee conducted a detailed review of the draft warrant article text for the golf course irrigation project to send to Town Counsel. Members refined language regarding project contingencies, the process for raising the revolving fund cap above $70,000, extension of the project deadline to December 30, 2029, and clarified environmental standards under Audubon International. They also agreed to generalize language regarding golf management oversight rather than citing a specific vendor.",
+        "key_details": [
+          "Article extends the completion deadline from December 1, 2026, to December 30, 2029.",
+          "Select Board and Advisory Committee approval is required to raise the revolving fund limit above $70,000 to allow the $100,000 contribution.",
+          "Contingency funds of $63,071 require separate CPC approval before expenditure.",
+          "Vendor-specific references to New England Golf were removed in favor of general management company wording.",
+          "Revisions will be forwarded to Town Counsel for legal review."
+        ],
+        "outcome": "Draft language amended by consensus for submission to Town Counsel.",
+        "why_it_matters": null,
+        "start_seconds": 774,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To support the golf course irrigation project article going to Special Town Meeting",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 755
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A member of the Golf Course Committee asked from the audience for clarification on whether funds appropriated at the 2024 Annual Town Meeting remained available. Officials confirmed those funds remain active until December 1, 2026, and the new article supplements that amount and extends the completion deadline.",
+        "start_seconds": 2275
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Town Counsel review of the draft golf irrigation warrant article",
+        "when": "Prior to mid-September 2026"
+      },
+      {
+        "what": "Committee meeting via Zoom to vote on final warrant article language",
+        "when": "Mid-September 2026"
+      }
+    ],
+    "caveats": "The audio and video recording froze at approximately 1:07:40 during discussion of the draft warrant article and remained unresponsive through the end of the recording."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:50:05Z",
+  "usage": {
+    "total_tokens": 156211,
+    "total_input_tokens": 152752,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 152058
+      },
+      {
+        "modality": "text",
+        "tokens": 694
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1184,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2275
+  }
+}

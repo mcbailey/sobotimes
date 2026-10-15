@@ -1,0 +1,125 @@
+{
+  "video": {
+    "id": "TKelgkz3FaU",
+    "title": "Personnel Board 9/8/26",
+    "published_at": "2026-09-08T12:45:47Z",
+    "duration_s": 1076
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-09-08",
+    "headline": "The Personnel Board voted to recommend a 5% total salary adjustment for FY28, comprising a 3% COLA and 2% step increment.",
+    "summary": "The Personnel Board reviewed FY28 budget deadlines and voted to recommend a 5% overall salary grid adjustment, combining a 3% cost-of-living increase with the town's standard 2% step increment. The board also received an update on the ongoing municipal salary study, which has received data from 14 of 18 benchmark communities and is slated to bring recommendations to the March Annual Town Meeting. Additionally, the board scheduled its next meeting for October 6.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair called the meeting to order and confirmed there was no public comment. The board approved the minutes of the previous meeting from August 7.",
+        "key_details": [
+          "Meeting convened at 8:30 AM",
+          "No public comments were offered",
+          "Minutes of August 7 approved unanimously"
+        ],
+        "outcome": "Minutes approved",
+        "why_it_matters": null,
+        "start_seconds": 413,
+        "end_seconds": null
+      },
+      {
+        "title": "Salary study update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff reported on the progress of the compensation and salary study being performed by MGT. To date, 14 of 18 surveyed communities have responded, including recent additions Westborough and Grafton. The consultant expects to close data collection within roughly a week, and any resulting recommendations will be brought forward at the Annual Town Meeting in March.",
+        "key_details": [
+          "14 of 18 comparable communities have responded to the survey",
+          "Westborough and Grafton responses were recently added to the data set",
+          "Survey window expected to close in about one week",
+          "Study recommendations will be presented at the March Annual Town Meeting"
+        ],
+        "outcome": "Update received",
+        "why_it_matters": null,
+        "start_seconds": 485,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 salary grid adjustment",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board discussed the budget calendar and compensation adjustments for FY28. Because the 2027 Annual Town Meeting is scheduled earlier in March, department budget submissions are due October 13. The board voted to recommend a 3% cost-of-living adjustment on the salary grid, which pairs with the regular 2% step increment for a total 5% salary increase.",
+        "key_details": [
+          "Department heads must submit FY28 budget proposals by October 13",
+          "Annual Town Meeting is moved up to March",
+          "Board endorsed a 3% COLA shift to the salary grid",
+          "Standard 2% step increment brings total adjustment to 5%",
+          "Staff will generate the draft grid for formal approval at the next meeting"
+        ],
+        "outcome": "Approved 4-0",
+        "why_it_matters": "Sets the salary baseline that will dictate wage adjustments across non-union town staff and impact the municipal operating budget voted at Town Meeting.",
+        "start_seconds": 568,
+        "end_seconds": null
+      },
+      {
+        "title": "Next meeting schedule",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Board members reviewed the schedule for the next monthly meeting. To accommodate member availability, the meeting originally proposed for October 5 was rescheduled to October 6.",
+        "key_details": [
+          "Next meeting set for Tuesday, October 6 at 8:30 AM"
+        ],
+        "outcome": "Meeting scheduled",
+        "why_it_matters": null,
+        "start_seconds": 940,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend a 5% total salary adjustment for FY28 consisting of a 3% cost-of-living adjustment and 2% step increment",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 858
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Personnel Board meeting",
+        "when": "October 6 at 8:30 AM"
+      },
+      {
+        "what": "Department head deadline to submit FY28 budget requests",
+        "when": "October 13"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "March"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:55:23Z",
+  "usage": {
+    "total_tokens": 44664,
+    "total_input_tokens": 41772,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 41084
+      },
+      {
+        "modality": "text",
+        "tokens": 688
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1162,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1730
+  }
+}

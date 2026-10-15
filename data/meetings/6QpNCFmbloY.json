@@ -1,0 +1,100 @@
+{
+  "video": {
+    "id": "6QpNCFmbloY",
+    "title": "Master Plan Implementation Committee 9/10/26",
+    "published_at": "2026-09-11T12:58:59Z",
+    "duration_s": 3794
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Master Plan Implementation Committee",
+    "meeting_date": "2026-09-10",
+    "headline": "The Master Plan Implementation Committee began developing strategy to fund and structure Southborough's upcoming 2030 Master Plan update.",
+    "summary": "The Master Plan Implementation Committee discussed the framework and funding approach for updating the town's Master Plan for 2030. Members agreed on pursuing a streamlined hybrid model using a consulting firm to guide the process, while consolidating the previous plan's dozens of chapters and hundreds of action items into a more manageable set of core priorities. The committee also planned outreach to the Planning Board to seek sponsorship for grant applications and potential Town Meeting funding warrant articles.",
+    "topics": [
+      {
+        "title": "2030 Master Plan update strategy and funding",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The committee reviewed approaches for launching the 2030 Master Plan process, favoring a streamlined hybrid model with a consultant acting as a guide rather than writing the entire document in-house. Members discussed consolidating previous chapters and action items into focused core themes, learning from other communities such as Wenham, and coordinating with the schools on long-term facility planning. Committee members planned to coordinate with the Planning Board to explore MassDevelopment technical assistance grants, the state One Stop for Growth grant program, or a spring Town Meeting warrant article for estimated consultant costs between $70,000 and $100,000.",
+        "key_details": [
+          "Estimated consultant costs were tentatively discussed in the range of $70,000 to $100,000.",
+          "Members discussed seeking a $10,000 to $20,000 MassDevelopment technical assistance grant to help structure the procurement request for proposals.",
+          "A committee member reported meeting with the school superintendent regarding coordination between the school district's 2030 plan and the town master plan.",
+          "Members agreed to propose that the Planning Board officially sponsor grant applications and consider submitting a warrant article for funding.",
+          "The committee noted that target work should begin in 2027 and run in earnest through 2028."
+        ],
+        "outcome": "The chair planned to bring the Master Plan framework to the Planning Board for discussion and feedback.",
+        "why_it_matters": null,
+        "start_seconds": 48,
+        "end_seconds": null
+      },
+      {
+        "title": "Community Preservation Act funding coordination",
+        "category": "Budget & taxes",
+        "importance": "low",
+        "summary": "The chair reported on her attendance at the Community Preservation Committee's annual forum held on June 11. Members discussed whether the committee should help flag Master Plan action items that may qualify for Community Preservation Act funding, but concluded it is the role of individual project sponsors to apply directly to the CPC.",
+        "key_details": [
+          "The chair attended the June 11 Community Preservation Committee annual forum.",
+          "Members noted that master plan goals sometimes receive higher priority scoring in municipal CPA application reviews.",
+          "The committee agreed not to directly sponsor CPA applications for specific projects, leaving applications to project sponsors."
+        ],
+        "outcome": "Discussion concluded with no formal action taken.",
+        "why_it_matters": null,
+        "start_seconds": 3028,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved meeting minutes from April 15, 2026. Members also discussed formatting future draft minutes with line numbers to facilitate review, scheduled their next meeting, and adjourned.",
+        "key_details": [
+          "Approved meeting minutes from April 15, 2026.",
+          "Agreed to include line numbers on future draft minutes for easier reference during reviews.",
+          "Scheduled the next committee meeting for October 8, 2026, at 5:30 PM."
+        ],
+        "outcome": "Meeting minutes approved and next meeting scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 3487,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Discussion of Master Plan goals and funding approach with the Planning Board",
+        "when": "September or October 2026"
+      },
+      {
+        "what": "Master Plan Implementation Committee regular meeting",
+        "when": "October 8, 2026 at 5:30 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:50:55Z",
+  "usage": {
+    "total_tokens": 148083,
+    "total_input_tokens": 145627,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 144933
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1081,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1375
+  }
+}

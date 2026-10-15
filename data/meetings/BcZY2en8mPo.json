@@ -1,0 +1,121 @@
+{
+  "video": {
+    "id": "BcZY2en8mPo",
+    "title": "Elementary School Building Committee 9/3/26",
+    "published_at": "2026-09-04T13:40:59Z",
+    "duration_s": 3930
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-09-03",
+    "headline": "Architects presented revised Neary Elementary School renovation and addition options ahead of cost estimating and upcoming joint board reviews.",
+    "summary": "The Elementary School Building Committee met to review the committee charge, designer scope of work, and updated design options for Neary Elementary School. District leaders presented an educational heat map evaluating how each layout serves programming needs, showing that larger renovation and addition concepts significantly outperform minimal maintenance options. The committee examined detailed floor plans for Options 2, 3, and 4, which feature varying approaches to gymnasium space, outdoor courtyard reuse, and classroom breakout areas. Cost estimators will price the options ahead of the committee's September 24 meeting and an early October joint meeting with town boards.",
+    "topics": [
+      {
+        "title": "Committee charge and designer scope of work",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The chair and project architects reviewed the committee charge and designer work plan for evaluating Neary Elementary School. The work requires evaluating existing conditions, educational programming, and deferred maintenance while developing both comprehensive renovation and capital improvement alternatives. Architects outlined ongoing site and systems analyses scheduled to inform recommendations for Town Meeting.",
+        "key_details": [
+          "Committee charge requires at least two distinct approaches: comprehensive renovation versus deferred maintenance extension.",
+          "Tappe Architects is performing building systems analysis and site evaluations.",
+          "Goal is providing clear options and cost estimates to guide future town decision-making."
+        ],
+        "outcome": "Discussion only.",
+        "why_it_matters": null,
+        "start_seconds": 146,
+        "end_seconds": null
+      },
+      {
+        "title": "Educational heat map and programming review",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "District administrators presented an educational evaluation matrix rating four building options against district educational goals. The assessment showed that Options 1 and 2 fail to adequately support critical educational needs such as specialized special education classrooms, appropriate physical education space, and dedicated music and art areas. Options 3 and 4 were rated much more favorably for meeting district educational goals and improving staff collaboration space.",
+        "key_details": [
+          "Neary serves grades 4 and 5 with planned class sizes of 16 to 22 students across 14 to 16 sections.",
+          "Options 1 and 2 require substantial educational trade-offs and do not support desired programming.",
+          "Options 3 and 4 meet requirements for dedicated spaces for art, music, band, world languages, and special education.",
+          "Staff dining, teacher planning areas, and kitchen upgrades are prioritized educational needs."
+        ],
+        "outcome": "District will update the matrix based on minor committee clarifications.",
+        "why_it_matters": "The educational suitability evaluation will guide which renovation options the town advances and funds for Neary Elementary School.",
+        "start_seconds": 385,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of Neary Elementary design options 2, 3, and 4",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Architects presented detailed schematic floor plans for Options 2, 3, and 4. Option 2 focuses on interior renovations, removing a gym dividing wall, and converting the existing courtyard into structured outdoor learning and fitness space. Option 3 encloses the courtyard to create a full-size gymnasium seating 400 people for schoolwide events, reconfigures administrative offices with a new front entry, and creates open corridor breakout learning spaces. Option 4 proposes building an exterior gym addition, but architects warned that 8 to 10 feet of unsuitable soils and high groundwater on the site would make an exterior addition significantly more complex and costly.",
+        "key_details": [
+          "Option 2 keeps gym footprint inside existing building and reprograms the courtyard for an outdoor classroom, track, and gardens.",
+          "Option 3 infills the courtyard for a regulation elementary gym with seating for 400 spectators.",
+          "Option 3 adds a raised roofline vestibule, relocated administration suite, and teacher planning spaces.",
+          "Option 4 exterior addition faces 8 to 10 feet of unsuitable soils requiring extensive excavation or deep foundations.",
+          "The tiered concrete band room risers present accessibility challenges under review for potential leveling."
+        ],
+        "outcome": "Design plans will be submitted to cost estimators to produce order-of-magnitude price comparisons.",
+        "why_it_matters": "Design choices directly dictate project construction costs, accessibility compliance, and whether Neary can host full-school assemblies without traveling off site.",
+        "start_seconds": 1130,
+        "end_seconds": null
+      },
+      {
+        "title": "Project schedule and upcoming joint meetings",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee reviewed the project schedule leading into October Town Meeting milestones. A site meeting with public safety officials and the Department of Public Works is set for September 9, followed by cost estimating results due before the next committee meeting. Members agreed to coordinate a joint meeting in early October with the Select Board, School Committee, Capital Committee, and Recreation Commission.",
+        "key_details": [
+          "Site review with first responders and DPW scheduled for September 9 at 10:00 AM.",
+          "Cost estimates for all options expected in mid-September from PM&C estimators.",
+          "Next Elementary School Building Committee meeting set for September 24.",
+          "Joint board meeting targeted around October 6 prior to the October 17 Town Meeting."
+        ],
+        "outcome": "The superintendent and committee members will coordinate scheduling for the early October joint session.",
+        "why_it_matters": null,
+        "start_seconds": 3465,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Site review meeting with first responders and Department of Public Works",
+        "when": "September 9, 2026 at 10:00 AM"
+      },
+      {
+        "what": "Elementary School Building Committee meeting to review cost estimates",
+        "when": "September 24, 2026"
+      },
+      {
+        "what": "Joint meeting with Select Board, School Committee, Capital Committee, and Recreation Commission",
+        "when": "Early October 2026 (tentatively October 6)"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:57:36Z",
+  "usage": {
+    "total_tokens": 153276,
+    "total_input_tokens": 150809,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 150117
+      },
+      {
+        "modality": "text",
+        "tokens": 692
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1494,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 973
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "video": {
+    "id": "iXhlhTPe9wg",
+    "title": "Select Board Meeting 9/2/26",
+    "published_at": "2026-09-03T15:21:29Z",
+    "duration_s": 12590
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-09-02",
+    "headline": "The Select Board voted to remain in a regional waste consortium, authorized private driveway sinkhole repairs, and reviewed park and technology plans.",
+    "summary": "The Select Board met to review town survey findings from the Municipal Technology Committee and discussed parking design options for Fay Memorial Park renovations. The board voted to remain in a 35-community consortium negotiating waste disposal with WIN Waste in Millbury. Members also approved emergency repairs for a recurrent sinkhole over a town-connected drainage pipe on a private driveway on Constitution Drive, and reviewed draft warrant articles for the upcoming Special Town Meeting.",
+    "topics": [
+      {
+        "title": "Rotary Club one-day liquor license for Oktoberfest",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The Southborough Rotary Club requested a one-day liquor license for its annual Oktoberfest event near the gazebo on Main Street. Organizers noted the event will feature food trucks, a two-officer police detail, and beer served by Owen O'Leary's.",
+        "key_details": [
+          "Event location near the Main Street gazebo",
+          "Two-officer police detail assigned",
+          "Beer provided by Owen O'Leary's",
+          "Expected attendance of over 200 adults"
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 465,
+        "end_seconds": null
+      },
+      {
+        "title": "Municipal Technology Committee survey results and strategy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The Municipal Technology Committee presented the results of its 2025 Resident Satisfaction Survey and town employee business process survey. Community ratings remained largely positive for public safety, library services, and quality of life, but lower for street maintenance, transparency, and value for tax dollars. The committee proposed a 90-day action plan focusing on land use and permitting diagnostics, website enhancements, and DPW service request tools.",
+        "key_details": [
+          "284 residents responded to the 2025 survey wave",
+          "Over 85 percent satisfaction with town safety, fire, EMS, and library services",
+          "Public feedback highlighted concerns with road conditions and tax value",
+          "Recommended four initial pilot areas including DPW service ticketing and transfer station permitting"
+        ],
+        "outcome": "Board endorsed the prioritization framework and agreed to designate liaisons and department heads for each project track.",
+        "why_it_matters": null,
+        "start_seconds": 634,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay Memorial Park parking and renovation planning",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The Recreation Commission updated the board on the Fay Memorial Park project, noting the larger capital renovation article has been postponed to the spring Annual Town Meeting to allow parking issues to be resolved first. The commission recommended Option 2, an angled street parking design along Central Street creating 19 spots alongside 12 deeded spaces across the street and accessible spots, rather than paving green space inside the park. Discussion touched on site lines, vehicle buffer safety, and an impending federal grant announcement in October.",
+        "key_details": [
+          "Capital renovation article delayed to spring Annual Town Meeting",
+          "Recommended Option 2 provides 33 to 37 total parking spaces using angled parking on Central Street",
+          "Avoids encroaching on tree footprint within the 2.5-acre park",
+          "Town expects news on a major federal park grant in October"
+        ],
+        "outcome": "No formal vote taken; the board provided feedback and requested additional engineering and design details.",
+        "why_it_matters": null,
+        "start_seconds": 2948,
+        "end_seconds": null
+      },
+      {
+        "title": "Cemetery Expansion Committee progress report",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The Cemetery Expansion Committee presented an update on future cemetery capacity, reporting that the Rural Cemetery is sold out and Middle Road Cemetery has 458 plots remaining. At an average rate of 50 plots sold per year, Middle Road is projected to reach capacity around 2035 or 2036. The committee reviewed 58 potential town and private parcels of 5 acres or more and is finalizing an evaluation matrix to screen candidate properties.",
+        "key_details": [
+          "458 plots remain at Middle Road Cemetery",
+          "Current sales trend projects full capacity by 2035 to 2036",
+          "Existing columbarium has only 25 to 30 of 192 niches occupied",
+          "Committee is vetting 58 candidate parcels of five or more acres"
+        ],
+        "outcome": "Informational update; the committee expects to present final site recommendations before June.",
+        "why_it_matters": null,
+        "start_seconds": 7125,
+        "end_seconds": null
+      },
+      {
+        "title": "Algonquin gymnastics state championship commemorative signs",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "A representative of the 1988 and 1989 Algonquin Regional High School boys gymnastics state championship teams requested permission to erect commemorative championship signs on town property. Funding for the signs will be raised privately, and the DPW will coordinate installation.",
+        "key_details": [
+          "Recognizes back-to-back state championships from 1988 and 1989",
+          "Privately funded signs with no municipal expense",
+          "Installation to be coordinated with DPW along town roadways"
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 7910,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional municipal waste disposal contract renewal",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "DPW Director Bill Cundiff briefed the board on negotiations for the town's refuse disposal agreement with WIN Waste (formerly Wheelabrator) in Millbury, which expires on December 31, 2027. Southborough has participated in a 35-town collaborative led by Walpole since 2006 to negotiate bulk disposal rates. The board evaluated town counsel concerns regarding shared representation versus the pricing power of the regional group and voted to remain in the consortium for the upcoming contract cycle.",
+        "key_details": [
+          "Current disposal contract with WIN Waste in Millbury expires December 31, 2027",
+          "Consortium includes 35 communities, including Worcester",
+          "Estimated legal cost share for consortium negotiations is approximately $2,500",
+          "The board retains the right to review and execute its individual contract terms"
+        ],
+        "outcome": "Voted unanimously to continue participating in the 35-member municipal consortium.",
+        "why_it_matters": "Trash and municipal refuse disposal terms directly impact solid waste management costs and the operation of the town transfer station.",
+        "start_seconds": 8140,
+        "end_seconds": null
+      },
+      {
+        "title": "Constitution Drive drainage sinkhole and street acceptance",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The DPW director presented findings on a recurring sinkhole in a private residential driveway at 11 Constitution Drive located above a 17.5-foot-deep town storm drainage pipe. An investigation revealed that although Town Meeting approved the road and easements in the past, final deeds were never recorded, leaving the street and drainage easements legally unaccepted. The board approved expending an estimated $5,000 for a one-time DPW repair with a signed homeowner hold-harmless agreement, and directed staff to investigate legal steps to clear the title and easements.",
+        "key_details": [
+          "Driveway sinkhole sits over a 17.5-foot-deep town drainage culvert",
+          "Town previously repaired a settlement issue at the site in 2013",
+          "Estimated repair cost is $5,000 including $2,000 for materials",
+          "Constitution Drive and its easements were never formally recorded by deed"
+        ],
+        "outcome": "Approved two motions: authorizing the one-time driveway repair with a hold-harmless agreement, and directing staff to investigate rectifying the street and easement acceptance.",
+        "why_it_matters": null,
+        "start_seconds": 8980,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting warrant review and administrative updates",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The board reviewed upcoming administration business and draft warrant articles for the October Special Town Meeting. Updates included Costco submitting a site plan package to the Southborough Planning Board and an upcoming special meeting to appoint an interim town clerk. The board reviewed warrant articles including appointed town clerk transition rules, two-family zoning amendments, CPA project extensions, a stormwater enterprise fund placeholder, rescission of unissued debt for Breakneck Hill and Neary projects, and $242,000 from the water fund to connect two Parkerville Road properties to municipal water.",
+        "key_details": [
+          "Costco site plan package officially submitted to Southborough Planning Board",
+          "Special Select Board meeting scheduled for Friday at 9:00 a.m. to appoint interim town clerk",
+          "Proposed water fund appropriation of $242,000 for two Parkerville Road home water connections",
+          "Select Board agreed to place a placeholder article establishing a stormwater enterprise fund"
+        ],
+        "outcome": "Board approved warrant adjustments and scheduled final warrant signing for September 15.",
+        "why_it_matters": "These warrant articles include appropriations, debt rescissions, and structural bylaws that will be voted on by Southborough voters at Special Town Meeting.",
+        "start_seconds": 9842,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board processed routine administrative business, including approving minutes, accepting a grant, extending an existing management contract, and approving an amended town policy.",
+        "key_details": [
+          "Approved August 11 meeting minutes as amended",
+          "Accepted a $4,998.90 Choate Fund grant for Heritage Park outdoor games and tables",
+          "Approved a one-year contract extension for St. Mark's Golf Club Inc. through December 31, 2027",
+          "Approved the updated Senior Tax Work-off policy requiring CORI background checks and clarifying benefit exclusions"
+        ],
+        "outcome": "All routine motions approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 10275,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve the one-day liquor license for the Southborough Rotary Club for their Oktoberfest festival.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 628
+      },
+      {
+        "motion": "To approve the requested two sets of signs recognizing the Algonquin Boys Gymnastics state championship teams from 1988 and 1989.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 8105
+      },
+      {
+        "motion": "To continue participation in the 35-member municipal consortium for the next regional waste disposal contract period.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 8973
+      },
+      {
+        "motion": "To authorize DPW to perform repair work on the sinkhole in the driveway at 11 Constitution Drive subject to a signed right-of-entry and hold-harmless agreement.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 9771
+      },
+      {
+        "motion": "To authorize town staff and town counsel to investigate ways to resolve the unrecorded street and easement acceptance on Constitution Drive.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 9824
+      },
+      {
+        "motion": "To accept the Choate Fund grant in the amount of $4,998.90 for picnic tables and recreation equipment at Heritage Park.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 10631
+      },
+      {
+        "motion": "To exercise the first one-year extension option for the golf course management contract with St. Mark's Golf Club Inc. through December 31, 2027.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 10818
+      },
+      {
+        "motion": "To re-approve the Senior Tax Work-off policy with amendments requiring a CORI check and adding exclusions for other employee benefits.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12569
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident called in by phone following a Zoom outage to oppose angled parking on Central Street, arguing that Central Street has faster traffic than downtown Westborough and creates blind spots. She also suggested using an existing access road near the baseball field to place parking near the railroad tracks rather than overcrowding the park.",
+        "start_seconds": 6865
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Special Select Board Zoom meeting to consider recommendation and appointment of an interim town clerk",
+        "when": "Friday, September 4, 2026 at 9:00 a.m."
+      },
+      {
+        "what": "Select Board meeting to hear presentations and finalize and sign the Special Town Meeting warrant",
+        "when": "September 15, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": "Between 1:38:15 and 1:54:20 of the recording, the Zoom feed experienced technical difficulties, freezing the screen and creating audio echo. A participating resident had to deliver her public comments via telephone on speakerphone."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T19:01:17Z",
+  "usage": {
+    "total_tokens": 487476,
+    "total_input_tokens": 481626,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 480934
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3400,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2450
+  }
+}

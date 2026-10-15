@@ -1,0 +1,97 @@
+{
+  "video": {
+    "id": "6vLlCQSNejs",
+    "title": "Select Board Meeting 9/4/26",
+    "published_at": "2026-09-04T13:25:15Z",
+    "duration_s": 1054
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-09-04",
+    "headline": "The Select Board appointed Amy Berry as interim town clerk through May 2027 ahead of a proposed shift to an appointed position.",
+    "summary": "In a special morning meeting, the Select Board appointed former Southborough deputy town clerk Amy Berry as interim town clerk, effective October 1, 2026, to succeed retiring clerk Jim Hegarty. The board also approved temporary staffing positions on the consent agenda, including short-term medical leave coverage at the Department of Public Works. Officials reviewed plans to present a measure at the October 17 Special Town Meeting to transition the town clerk role from elected to appointed.",
+    "topics": [
+      {
+        "title": "Consent agenda: DPW temporary coverage and intern appointment",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed and approved two consent agenda items after a member asked for clarification on a temporary position. The town administrator and chair explained that the position provides 4 to 5 weeks of temporary business administrator coverage at the Department of Public Works for an employee taking medical leave. The consent agenda also ratified an existing budgeted intern position.",
+        "key_details": [
+          "Item A provides temporary DPW business administrator coverage for about 4 to 5 weeks.",
+          "Item B ratifies a recurring budgeted student intern position.",
+          "Both items were approved in a single roll call vote."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "Appointment of interim town clerk and governance transition",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The board voted unanimously to appoint Amy Berry as interim town clerk from October 1, 2026, through May 11, 2027, filling the vacancy created by Jim Hegarty's departure on September 30. Berry previously worked as Southborough deputy town clerk for six years and has served as town clerk in Grafton since February 2025. Officials also discussed warrant articles for the October 17 Special Town Meeting to change the town clerk position from elected to appointed, which would require voter approval at the May 11, 2027, annual town election.",
+        "key_details": [
+          "Berry will serve as interim assistant town clerk from September 23 to September 30 for training, becoming interim town clerk on October 1.",
+          "Annualized compensation is set at $117,312 (equivalent to Grade 8, Step 6 at $56.40 per hour), covered within the existing FY27 budget.",
+          "Nine or ten candidates applied for the position, with three interviewed in the first round and two finalists.",
+          "The proposed transition of the town clerk from an elected to an appointed role will appear at the October 17 Special Town Meeting and May 11 town election."
+        ],
+        "outcome": "Appointed Amy Berry as interim town clerk by a 5-0 vote.",
+        "why_it_matters": "The town clerk oversees local and state elections, town meeting records, and vital statistics; voters will soon decide whether to make the role permanently appointed rather than elected.",
+        "start_seconds": 131,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve consent agenda items A and B",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 110
+      },
+      {
+        "motion": "Appoint Amy Berry as interim town clerk for the period of October 1, 2026 through May 11, 2027",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 938
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special Town Meeting to vote on converting the town clerk role from elected to appointed",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Annual Town Election ballot question regarding the appointed town clerk position",
+        "when": "May 11, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:58:02Z",
+  "usage": {
+    "total_tokens": 43187,
+    "total_input_tokens": 40954,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 689
+      },
+      {
+        "modality": "video",
+        "tokens": 40265
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1043,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1190
+  }
+}

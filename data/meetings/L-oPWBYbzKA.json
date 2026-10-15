@@ -1,0 +1,151 @@
+{
+  "video": {
+    "id": "L-oPWBYbzKA",
+    "title": "Wastewater Study Committee 9/3/26",
+    "published_at": "2026-09-04T13:51:44Z",
+    "duration_s": 5022
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-09-03",
+    "headline": "The Wastewater Study Committee evaluated phased Route 9 sewer concepts and awaited a decision on a joint $150,000 state grant with Westborough.",
+    "summary": "The Southborough Wastewater Study Committee met to discuss updated modeling and potential phasing for a Route 9 wastewater collection and treatment system. Members reviewed a joint $150,000 One Stop grant application submitted with Westborough, which requires a $7,500 local match if awarded in October. The committee also discussed environmental permitting hurdles with MassDEP, development pauses at the Dell property pending Costco approvals, and pushed any potential Town Meeting proposals to spring 2027.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee addressed regular procedural matters including the review and approval of prior meeting records.",
+        "key_details": [
+          "The committee approved the minutes from the July 23, 2026 meeting."
+        ],
+        "outcome": "Meeting minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Route 9 wastewater capacity modeling and phased layout",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Members examined revised measurements and capacity models for a potential sewer line along Route 9, scaling down prior estimates. Discussion focused on whether to build a modular system in phases, starting along the south side of Route 9 between the Dell property and Cordaville Road, to keep initial costs lower and match realistic wastewater demand.",
+        "key_details": [
+          "Usable development corridor along Route 9 was remeasured at 3.75 miles, with roughly 1.5 miles restricted by wetlands and reservoirs.",
+          "Revised daily capacity modeling suggested 100,000 to 250,000 gallons per day, down from an earlier rough estimate of 500,000 gallons per day.",
+          "Total ballpark capital cost for a smaller system was estimated between $30 million and $40 million, roughly half of which would be collection pipes.",
+          "A proposed Phase 1 would run exclusively along the south side of Route 9 from the Dell area east toward Cordaville Road and nearby office parks.",
+          "Phase 2 could later extend farther east toward the Framingham town line if development justifies expansion."
+        ],
+        "outcome": "The committee agreed to focus planning on a modular, expandable facility and collection design along the south side of Route 9.",
+        "why_it_matters": "A Route 9 sewer system could unlock major commercial development and new property tax revenue, but it carries construction estimates in the tens of millions of dollars.",
+        "start_seconds": 154,
+        "end_seconds": null
+      },
+      {
+        "title": "State environmental permitting and MassDEP consultation",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The committee discussed regulatory challenges related to wastewater discharge sites and state environmental permitting through the Massachusetts Department of Environmental Protection. Key issues include restrictions in Zone C water supply protection areas, nitrogen removal requirements, and potential interbasin water transfer regulations.",
+        "key_details": [
+          "The chair initiated contact with MassDEP representative Dan Carpasko to request an informal consultation.",
+          "Portions of Route 9 near the Dell property sit outside Zone C, whereas areas farther east enter protected water resource zones.",
+          "Discharging treated effluent into ground basins after drawing MWRA water from Quabbin Reservoir may trigger interbasin transfer reviews.",
+          "Members noted that state environmental cleanup priorities may help secure competitive grant funding for wastewater treatment."
+        ],
+        "outcome": "The chair will arrange a remote informational meeting with MassDEP officials later in September.",
+        "why_it_matters": null,
+        "start_seconds": 772,
+        "end_seconds": null
+      },
+      {
+        "title": "Inter-municipal sewer study and One Stop grant with Westborough",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Members reviewed the status of a joint application submitted under the state Community One Stop for Growth grant program in partnership with Westborough. The grant would fund a formal engineering and planning study of regional wastewater solutions along the Route 9 corridor.",
+        "key_details": [
+          "The joint application requests a $150,000 state planning grant, with total project costs listed at $165,000.",
+          "The required local cash match is $15,000, split evenly at $7,500 each between Southborough and Westborough.",
+          "The application includes letters of support from the Select Board and Planning Board.",
+          "Grant award decisions from the state are expected in October 2026."
+        ],
+        "outcome": "The committee decided to wait for grant award announcements in October before retaining engineering consultants or holding further full meetings.",
+        "why_it_matters": null,
+        "start_seconds": 2475,
+        "end_seconds": null
+      },
+      {
+        "title": "Dell property and Costco site permitting status",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The committee discussed how pending commercial developments on Route 9, specifically the Costco project and adjacent Dell property, impact wastewater planning. Ownership of the Dell property has reportedly paused new proposals until Costco secures final site plan approvals and traffic mitigation agreements with MassDOT.",
+        "key_details": [
+          "Costco has filed its site plan review with the Planning Board.",
+          "Traffic mitigation on Route 9 and the Crystal Pond road network remains a central focus of state highway and local board reviews.",
+          "Dell property owners are holding back on development concepts until Costco permitting is finalized.",
+          "A private sewer connection or onsite system at Dell could serve as an anchor for a wider Route 9 municipal system."
+        ],
+        "outcome": "No action taken; the committee will monitor Planning Board hearings on the Costco site plan.",
+        "why_it_matters": null,
+        "start_seconds": 3630,
+        "end_seconds": null
+      },
+      {
+        "title": "District Improvement Financing and Town Meeting strategy",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee debated whether to pursue District Improvement Financing (DIF) to capture future tax revenue from Route 9 commercial growth to repay infrastructure borrowing. Members determined there is insufficient time and project detail to bring any warrant articles to the fall 2026 Special Town Meeting, opting to target Annual Town Meeting in spring 2027.",
+        "key_details": [
+          "MassDevelopment representatives recommended exploring DIF to designate future commercial tax growth specifically for infrastructure.",
+          "DIF approval requires establishing a defined geographic district, which does not impose new taxes immediately but allocates incremental tax revenue.",
+          "Board members expressed skepticism that Southborough voters or the Select Board would approve a DIF district without fully developed engineering and cost numbers.",
+          "Setting the property assessment baseline at January 1, 2027 would capture tax growth from major developments completed in subsequent years."
+        ],
+        "outcome": "The committee concluded it will not submit articles for the fall 2026 Special Town Meeting and will instead aim for the spring 2027 Annual Town Meeting.",
+        "why_it_matters": null,
+        "start_seconds": 4200,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Informational consultation meeting between committee representatives and MassDEP",
+        "when": "Late September 2026"
+      },
+      {
+        "what": "State announcement regarding the Community One Stop for Growth grant award",
+        "when": "October 2026"
+      },
+      {
+        "what": "Next committee meeting to evaluate grant results and next steps",
+        "when": "October 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:56:46Z",
+  "usage": {
+    "total_tokens": 196020,
+    "total_input_tokens": 192507,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 191815
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1874,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1639
+  }
+}

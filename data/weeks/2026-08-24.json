@@ -1,0 +1,79 @@
+{
+  "headline": "Committees advanced fall Community Preservation Act proposals for trails and golf irrigation, while town tech officials conditionally endorsed a police drone program.",
+  "synopsis": "Southborough committees shaped funding and policy proposals ahead of fall Town Meeting. The Community Preservation Committee reviewed revised funding requests for Southborough Golf Club irrigation and the Peninsula Trail footbridge after the Recreation Commission opted to defer its $1.5 million Fayville Park application. Meanwhile, the Municipal Technology Committee voted to recommend conditional approval of a five-year police drone program equipped with privacy safeguards. In other business, the Affordable Housing Trust refined proposed 55-plus zoning bylaw amendments, and the Conservation Commission opened its review of an artificial turf field conversion at Fay School.",
+  "highlights": [
+    {
+      "title": "Police drone program recommended with privacy conditions",
+      "why": "The Municipal Technology Committee voted 4-0 to recommend conditional approval of a $105,106, five-year drone program for the Southborough Police Department, subject to phased reviews and restrictions against patrol surveillance or facial recognition.",
+      "body": "Municipal Technology Committee",
+      "importance": "high",
+      "video_id": "OyfCzyf7Z6k",
+      "start_seconds": 60
+    },
+    {
+      "title": "Golf course irrigation CPA request increased to $1.08 million",
+      "why": "The Community Preservation Committee reviewed an updated application for Southborough Golf Club irrigation requiring $433,546 in additional CPA funds due to a 15 percent contingency, while conservation authorities confirmed pump station plans meet deed restrictions.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "PtDnRwzqC30",
+      "start_seconds": 1011
+    },
+    {
+      "title": "Peninsula Trail footbridge application finalized for warrant",
+      "why": "The Trails Committee finalized its $466,628 CPA request for a narrowed prefabricated footbridge project, seeking $210,796 in new CPA funds while repurposing $255,832 in previously approved town appropriations.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "E6eHIu5yZok",
+      "start_seconds": 187
+    },
+    {
+      "title": "Affordable Housing Trust drafts 55-plus bylaw amendments",
+      "why": "The trust discussed revisions to the town's 55-plus housing bylaw for upcoming Town Meeting consideration, seeking to eliminate overall unit caps while mandating a 12.5 percent affordability set-aside.",
+      "body": "Affordable Housing Trust",
+      "importance": "high",
+      "video_id": "GXZGc-hyvPg",
+      "start_seconds": 1223
+    },
+    {
+      "title": "Fay School artificial turf field proposal under review",
+      "why": "The Conservation Commission began examining a notice of intent to replace two grass soccer fields with artificial turf within wetland buffer and riverfront zones, continuing the hearing for peer review and state filings.",
+      "body": "Conservation Commission",
+      "importance": "high",
+      "video_id": "g5scXGcNtUc",
+      "start_seconds": 32
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Presentation of 2025 town satisfaction survey findings",
+      "when": "September 2, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Community Preservation Committee votes on Town Meeting warrant recommendations",
+      "when": "September 8, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Deadline for Community Preservation Act funding applications",
+      "when": "September 15, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Continued hearing on Fay School turf athletic field reconstruction",
+      "when": "September 17, 2024",
+      "body": "Conservation Commission"
+    }
+  ],
+  "week": "2026-08-24",
+  "fingerprint": "841addf41f91fe5b",
+  "video_ids": [
+    "E6eHIu5yZok",
+    "GXZGc-hyvPg",
+    "OyfCzyf7Z6k",
+    "PtDnRwzqC30",
+    "g5scXGcNtUc"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T19:19:53Z"
+}

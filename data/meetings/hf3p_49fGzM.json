@@ -1,0 +1,96 @@
+{
+  "video": {
+    "id": "hf3p_49fGzM",
+    "title": "Community Preservation Committee 9/14/26",
+    "published_at": "2026-09-15T13:29:25Z",
+    "duration_s": 3316
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-09-14",
+    "headline": "The Community Preservation Committee finalized warrant articles appropriating Community Preservation Act funds for the Peninsula Trail footbridge and golf course irrigation.",
+    "summary": "The Community Preservation Committee reviewed and approved final warrant article language for two upcoming Town Meeting requests. Members voted 5-0 to approve an article appropriating $217,318 for the Peninsula Trail footbridge and voted 4-1 to approve an article appropriating $433,546 for the Southborough Golf Club irrigation system. In both articles, the committee voted to retain protective conditions and contingency requirements that Town Counsel had suggested removing.",
+    "topics": [
+      {
+        "title": "Peninsula Trail footbridge warrant article",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee reviewed Town Counsel redlines on the draft warrant article requesting supplemental Community Preservation Act funds for the Peninsula Trail footbridge. Members decided against Town Counsel advice to strip out specific project conditions, choosing to retain clauses governing contingency spending, a December 30, 2029 completion deadline, and a requirement to seek matching MassTrails Grant funds. Historical cost information was moved into the article summary to keep the main article text clear.",
+        "key_details": [
+          "Requests $217,318 from the FY2027 CPA Fund Balance, consisting of $140,370 in project costs and $76,948 in contingency.",
+          "Total funding appropriated across Town Meeting votes for the footbridge reaches $428,550 ($324,050 in project costs and $104,500 in contingency).",
+          "Includes a requirement that the Trails Committee apply for MassTrails Grant matching funds to reimburse the CPA account.",
+          "Sets a project completion deadline of December 30, 2029, with unused funds returning to the CPA fund balance unless an extension is granted.",
+          "Retains committee oversight language requiring formal approval before contingency funds can be accessed."
+        ],
+        "outcome": "Approved as amended with minor language adjustments.",
+        "why_it_matters": "The article commits $217,318 in local CPA tax revenue toward completing the Peninsula Trail footbridge and goes before voters at Town Meeting.",
+        "start_seconds": 23,
+        "end_seconds": null
+      },
+      {
+        "title": "Southborough Golf Club irrigation system warrant article",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee considered draft warrant article language for additional CPA funding for a new irrigation system at the Southborough Golf Club. The committee opted to preserve multiple conditions that Town Counsel had recommended removing, including adherence to Audubon International certification criteria, Conservation Commission signoffs, and coordination with Sudbury Valley Trustees. Members also discussed the required Select Board and Advisory Committee approvals needed to raise the Golf Course Revolving Fund spending limit to contribute $100,000 toward the project.",
+        "key_details": [
+          "Appropriates $433,546 from the FY2027 CPA Fund Balance, comprising $370,475 in project costs and $63,071 in contingency.",
+          "Requires a $100,000 contribution from the Southborough Golf Course Revolving Fund, bringing the total additional funding to $533,546.",
+          "Brings the total overall irrigation project cost to $1,087,296 ($987,296 in total CPA appropriations and $100,000 from the revolving fund).",
+          "Requires written confirmation that the irrigation design meets Audubon International criteria for certification and complies with the property conservation restriction.",
+          "Requires raising the Golf Course Revolving Fund spending limit above its current $70,000 cap to provide the $100,000 town contribution."
+        ],
+        "outcome": "Approved as amended by a 4-1 vote, with one member voting in opposition.",
+        "why_it_matters": "The article asks Town Meeting voters to appropriate $433,546 in CPA funds, bringing total taxpayer-supported CPA funding for the golf course irrigation project to nearly $1 million.",
+        "start_seconds": 1800,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the Peninsula Trail footbridge warrant article as edited, allowing minor phrasing adjustments if necessary without changing the content.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1774
+      },
+      {
+        "motion": "Approve the Southborough Golf Club irrigation warrant article as discussed and edited.",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 3137
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting where CPC representatives and project applicants will present the two CPA warrant articles",
+        "when": "September 15, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T18:48:26Z",
+  "usage": {
+    "total_tokens": 125831,
+    "total_input_tokens": 123360,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 122669
+      },
+      {
+        "modality": "text",
+        "tokens": 691
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1212,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1259
+  }
+}
