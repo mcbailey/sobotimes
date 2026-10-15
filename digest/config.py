@@ -69,6 +69,8 @@ class BudgetConfig:
     max_attempts: int = 2
     run_time_limit_minutes: int = 60
     max_week_summaries_per_run: int = 8
+    max_link_weeks_per_run: int = 12
+    max_month_summaries_per_run: int = 4
 
 
 @dataclass
@@ -93,6 +95,8 @@ class SiteConfig:
     description: str = ""
     base_url: str = ""
     max_weeks_on_index: int = 52
+    # Other spellings of a board's name -> the name its page uses.
+    board_aliases: dict = field(default_factory=dict)
 
 
 @dataclass

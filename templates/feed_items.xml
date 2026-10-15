@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ title }}</title>
+  <link rel="self" href="{{ base }}/{{ rel }}feed.xml"/>
+  <link href="{{ base }}/{{ rel }}"/>
+  <id>{{ base or 'urn:meeting-digest:' ~ channel.id }}/{{ rel }}</id>
+  <updated>{{ updated }}</updated>
+{% for it in items %}
+  <entry>
+    <title>{{ it.title }}</title>
+    <link href="{{ it.url }}"/>
+    <id>{{ it.id }}</id>
+    <updated>{{ it.updated }}</updated>
+    <summary>{{ it.summary }}</summary>
+  </entry>
+{% endfor %}
+</feed>

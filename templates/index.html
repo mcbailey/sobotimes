@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'home' %}
+{% block page_class %} is-wide{% endblock %}
 {% block header %}
 <header class="masthead">
   <h1 class="site-title">
@@ -10,47 +13,94 @@
     </a>
   </h1>
   <p class="site-description">{{ site.description }}</p>
+  <form class="hero-search" action="{{ root }}search/" method="get" role="search">
+    <label for="hero-q" class="sr-only">Search every meeting</label>
+    <input id="hero-q" type="search" name="q" placeholder="Search every meeting: a street, a project, a board…">
+    <button type="submit">Search</button>
+  </form>
 </header>
 {% endblock %}
 
 {% block main %}
-{% if not weeks %}
+{% if not has_content %}
 <section class="empty">
   <h2>No meetings summarized yet</h2>
   <p>The first summaries appear after the daily update runs. New recordings from {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %} are picked up automatically.</p>
 </section>
+{% else %}
+
+{% if big_event %}
+<a class="big-event" href="{{ root }}calendar/">
+  <span class="big-event-when">{{ big_event.day_long }}</span>
+  <span class="big-event-what">{{ big_event.what }}</span>
+</a>
 {% endif %}
 
-{% for w in weeks %}
-<article class="week-entry">
-  <h2 class="week-title"><a href="{{ root }}weeks/{{ w.key }}/">{{ w.label }}</a></h2>
-  {% if w.stats %}<p class="week-stats">{{ w.stats }}</p>{% endif %}
+<div class="home-grid">
+  <section class="home-block home-ahead" aria-labelledby="h-ahead">
+    <h2 class="block-title" id="h-ahead">Coming up</h2>
+    {% if upcoming %}
+    <ul class="events">
+      {% for e in upcoming %}{{ ui.event_row(root, e) }}{% endfor %}
+    </ul>
+    {% else %}
+    <p class="muted">No dates mentioned for the next three weeks.</p>
+    {% endif %}
+    <p class="block-more"><a href="{{ root }}calendar/">Full calendar</a> · <a href="{{ root }}calendar.ics">Subscribe (.ics)</a></p>
+  </section>
 
-  {% if w.synopsis %}
-  <p class="synopsis">{{ w.synopsis }}</p>
-  {% elif w.meetings %}
-  <ul class="headline-list">
-    {% for m in w.meetings %}<li><strong>{{ m.body }}:</strong> {{ m.headline }}</li>{% endfor %}
-  </ul>
+  {% if issues %}
+  <section class="home-block home-issues" aria-labelledby="h-issues">
+    <h2 class="block-title" id="h-issues">Issues boards are working on</h2>
+    <ul class="issue-list">
+      {% for i in issues %}{{ ui.issue_card(root, i) }}{% endfor %}
+    </ul>
+    <p class="block-more"><a href="{{ root }}issues/">All issues</a></p>
+  </section>
   {% endif %}
 
-  {% if w.highlights %}
-  <ul class="highlights">
-    {% for h in w.highlights[:3] %}
-    <li class="highlight is-{{ h.importance }}">
-      <p class="highlight-title">{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}</p>
-      <p class="highlight-why">{{ h.why }}</p>
-      <p class="highlight-source">{{ h.body }}{% if h.watch %}, <a href="{{ h.url }}">watch {{ h.watch }}</a>{% endif %}</p>
-    </li>
+  {% if decisions %}
+  <section class="home-block home-decisions" aria-labelledby="h-decisions">
+    <h2 class="block-title" id="h-decisions">Recent decisions</h2>
+    <ul class="decision-list">
+      {% for d in decisions %}
+      <li>
+        <p class="decision-motion"><span class="vote-result is-{{ d.result }}">{{ d.result|capitalize }}{% if d.tally %} {{ d.tally }}{% endif %}</span> {{ d.motion }}</p>
+        <p class="decision-meta"><a href="{{ root }}boards/{{ d.board_slug }}/">{{ d.board }}</a>, {{ d.day }}{% if d.ts %} · <a href="{{ d.url }}">watch</a>{% endif %}{% if d.issue %} {{ ui.issue_tag(root, d.issue) }}{% endif %}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="block-more"><a href="{{ root }}decisions/">Every decision</a></p>
+  </section>
+  {% endif %}
+
+  <section class="home-block home-weeks" aria-labelledby="h-weeks">
+    <h2 class="block-title" id="h-weeks">Week by week</h2>
+    {% for w in weeks %}
+    <article class="week-entry">
+      <h3 class="week-title"><a href="{{ root }}weeks/{{ w.key }}/">{{ w.label }}</a></h3>
+      {% if w.stats %}<p class="week-stats">{{ w.stats }}</p>{% endif %}
+      {% if w.headline %}
+      <p class="week-headline">{{ w.headline }}</p>
+      {% elif w.meetings %}
+      <ul class="headline-list">
+        {% for m in w.meetings[:3] %}<li><strong>{{ m.body }}:</strong> {{ m.headline }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+      {% if w.highlights %}
+      <ul class="week-points">
+        {% for h in w.highlights[:3] %}
+        <li><a href="{{ root }}weeks/{{ w.key }}/{% if h.anchor %}#{{ h.anchor }}{% endif %}">{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}</a> <span class="muted">{{ h.body }}</span></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if w.pending %}
+      <p class="pending-note">{{ w.pending|length }} more recording{{ 's' if w.pending|length != 1 }} from this week {{ 'is' if w.pending|length == 1 else 'are' }} waiting to be summarized.</p>
+      {% endif %}
+    </article>
     {% endfor %}
-  </ul>
-  {% endif %}
-
-  {% if w.pending %}
-  <p class="pending-note">{{ w.pending|length }} more recording{{ 's' if w.pending|length != 1 }} from this week {{ 'is' if w.pending|length == 1 else 'are' }} waiting to be summarized.</p>
-  {% endif %}
-
-  {% if w.meetings %}<p class="week-more"><a href="{{ root }}weeks/{{ w.key }}/">Read the full week</a></p>{% endif %}
-</article>
-{% endfor %}
+    <p class="block-more">{% if months %}By month: {% for mo in months %}<a href="{{ root }}months/{{ mo.key }}/">{{ mo.label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}{% endif %}{% if more_weeks %} · <a href="{{ root }}months/">Full archive</a>{% endif %}</p>
+  </section>
+</div>
+{% endif %}
 {% endblock %}

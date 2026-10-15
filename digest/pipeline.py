@@ -1,4 +1,5 @@
-"""The daily run: discover -> pick within budget -> summarize -> weekly synopses."""
+"""The daily run: discover -> pick within budget -> summarize -> weekly synopses
+-> issue links -> monthly roll-ups."""
 from __future__ import annotations
 
 import hashlib
@@ -14,6 +15,7 @@ from .gemini import GeminiError, RateLimited, TryLater, video_part
 from .store import Store
 from .timeutil import (
     date_from_title,
+    month_label,
     fmt_duration,
     iso,
     local_date,
@@ -51,6 +53,8 @@ class RunReport:
     deferred: list[str] = field(default_factory=list)
     refreshed: list[str] = field(default_factory=list)
     weeks_written: list[str] = field(default_factory=list)
+    links_written: list[str] = field(default_factory=list)
+    months_written: list[str] = field(default_factory=list)
     rate_limited: bool = False
     minutes_used: int = 0
 
@@ -232,9 +236,11 @@ class Pipeline:
                 report.errors.append(msg)
             self.store.save_state(state)  # keep progress even if the job is killed
 
-        # 4. Weekly synopses ---------------------------------------------------
-        if not report.rate_limited:
-            self._update_weeks(state, report)
+        # 4. Weekly synopses, issue links, monthly roll-ups (all text only) ----
+        for step in (self._update_weeks, self._update_links, self._update_months):
+            if report.rate_limited:
+                break
+            step(state, report)
 
         state["last_run"] = {
             "at": iso(now),
@@ -430,12 +436,7 @@ class Pipeline:
         written = 0
         for week in sorted(by_week, reverse=True):
             vids = sorted(by_week[week], key=lambda r: r["id"])
-            fingerprint = hashlib.sha256(
-                json.dumps(
-                    [prompts.PROMPT_VERSION, cfg.gemini.synthesis_model]
-                    + [[r["id"], r.get("processed_at"), r.get("prompt_version")] for r in vids]
-                ).encode()
-            ).hexdigest()[:16]
+            fingerprint = _fingerprint([prompts.WEEK_PROMPT_VERSION, cfg.gemini.synthesis_model], vids)
             existing = self.store.read_week(week)
             if existing and existing.get("fingerprint") == fingerprint:
                 continue
@@ -448,20 +449,10 @@ class Pipeline:
             label = week_label(date.fromisoformat(week))
             self.log(f"Writing synopsis for week of {label} ({len(meetings)} meetings)")
             try:
-                models = [cfg.gemini.synthesis_model] + [
-                    m for m in cfg.gemini.fallback_models if m != cfg.gemini.synthesis_model
-                ]
-                used_model, result = self._run_models(models, lambda model: self.client.run(
-                    model=model,
-                    input=prompts.week_prompt(label, meetings),
-                    system_instruction=prompts.week_system(cfg.channel.town),
-                    schema=prompts.WEEK_SCHEMA,
-                    max_output_tokens=cfg.gemini.week_max_output_tokens,
-                    thinking_level=cfg.gemini.thinking_level or None,
-                    timeout_s=cfg.gemini.call_timeout_minutes * 60,
-                ))
-                ledger = state["usage"].setdefault(quota_day(self.now()), {"video_minutes": 0, "calls": 0})
-                _add_usage(ledger, result.usage)
+                used_model, result = self._text_call(
+                    state, prompts.week_prompt(label, meetings), prompts.week_system(cfg.channel.town),
+                    prompts.WEEK_SCHEMA, cfg.gemini.week_max_output_tokens,
+                )
                 week_obj = prompts.clean_week(result.json(), meetings)
             except TryLater as e:
                 report.rate_limited = True
@@ -483,6 +474,208 @@ class Pipeline:
             self.store.write_week(week, week_obj)
             report.weeks_written.append(week)
             written += 1
+
+    # ------------------------------------------------------------------
+    def _text_call(self, state: dict, text: str, system: str, schema: dict, max_tokens: int):
+        g = self.cfg.gemini
+        models = [g.synthesis_model] + [m for m in g.fallback_models if m != g.synthesis_model]
+        used_model, result = self._run_models(models, lambda model: self.client.run(
+            model=model,
+            input=text,
+            system_instruction=system,
+            schema=schema,
+            max_output_tokens=max_tokens,
+            thinking_level=g.thinking_level or None,
+            timeout_s=g.call_timeout_minutes * 60,
+        ))
+        ledger = state["usage"].setdefault(quota_day(self.now()), {"video_minutes": 0, "calls": 0})
+        _add_usage(ledger, result.usage)
+        return used_model, result
+
+    def _done_by(self, state: dict, key: Callable[[dict], str]) -> dict[str, list[dict]]:
+        groups: dict[str, list[dict]] = {}
+        for v in state["videos"].values():
+            if v["status"] == DONE:
+                groups.setdefault(key(v), []).append(v)
+        return {k: sorted(vs, key=lambda r: r["id"]) for k, vs in groups.items()}
+
+    # ------------------------------------------------------------------
+    def _update_links(self, state: dict, report: RunReport) -> None:
+        """Tag each week's topics with issues, finer categories and calendar dates.
+
+        Oldest week first, so the issue list builds up in the order things happened.
+        """
+        cfg = self.cfg
+        if self.client is None:
+            return
+        tz = cfg.channel.timezone
+        by_week = self._done_by(state, lambda v: week_key_for(v, tz))
+        issues = self.store.load_issues()
+        written = 0
+        for week in sorted(by_week):
+            vids = by_week[week]
+            fingerprint = _fingerprint([prompts.LINK_PROMPT_VERSION, cfg.gemini.synthesis_model], vids)
+            existing = self.store.read_links(week)
+            if existing and existing.get("fingerprint") == fingerprint:
+                continue
+            if written >= cfg.budget.max_link_weeks_per_run:
+                self.log(f"Week {week}: issue links deferred (per-run cap)")
+                continue
+            meetings = [m for m in (self.store.read_meeting(r["id"]) for r in vids) if m]
+            if not meetings:
+                continue
+            label = week_label(date.fromisoformat(week))
+            self.log(f"Linking issues for week of {label} ({len(meetings)} meetings)")
+            try:
+                used_model, result = self._text_call(
+                    state, prompts.link_prompt(label, meetings, issues), prompts.link_system(cfg.channel.town),
+                    prompts.LINK_SCHEMA, cfg.gemini.week_max_output_tokens * 2,
+                )
+                links = prompts.clean_links(result.json(), meetings, issues)
+            except TryLater as e:
+                report.rate_limited = True
+                self.log(f"Rate limited while linking issues: {e}")
+                break
+            except (GeminiError, ValueError, KeyError) as e:
+                report.errors.append(f"links {week}: {e}")
+                self.log(f"Failed to link issues for week {week}: {e}")
+                continue
+            apply_links(issues, links, meetings, week)
+            self.store.save_issues(issues)
+            self.store.write_links(
+                week,
+                {
+                    "week": week,
+                    "fingerprint": fingerprint,
+                    "topics": links["topics"],
+                    "upcoming": links["upcoming"],
+                    "model": used_model,
+                    "generated_at": iso(self.now()),
+                },
+            )
+            report.links_written.append(week)
+            written += 1
+
+    # ------------------------------------------------------------------
+    def _update_months(self, state: dict, report: RunReport) -> None:
+        cfg = self.cfg
+        if self.client is None:
+            return
+        tz = cfg.channel.timezone
+        by_month = self._done_by(state, lambda v: month_key_for(v, tz))
+        issues = self.store.load_issues()
+        links = self.store.all_links()
+        topic_issue = {ref: t.get("issue") for lk in links.values() for ref, t in (lk.get("topics") or {}).items()}
+        written = 0
+        for month in sorted(by_month, reverse=True):
+            vids = by_month[month]
+            weeks = sorted({week_key_for(v, tz) for v in vids})
+            fingerprint = _fingerprint(
+                [prompts.MONTH_PROMPT_VERSION, cfg.gemini.synthesis_model]
+                + [(links.get(w) or {}).get("fingerprint") for w in weeks],
+                vids,
+            )
+            existing = self.store.read_month(month)
+            if existing and existing.get("fingerprint") == fingerprint:
+                continue
+            if written >= cfg.budget.max_month_summaries_per_run:
+                self.log(f"Month {month}: roll-up deferred (per-run cap)")
+                continue
+            meetings = [m for m in (self.store.read_meeting(r["id"]) for r in vids) if m]
+            if not meetings:
+                continue
+            label = month_label(month)
+            self.log(f"Writing roll-up for {label} ({len(meetings)} meetings)")
+            try:
+                used_model, result = self._text_call(
+                    state, prompts.month_prompt(label, meetings, issues, topic_issue),
+                    prompts.month_system(cfg.channel.town), prompts.MONTH_SCHEMA,
+                    cfg.gemini.week_max_output_tokens,
+                )
+                month_obj = prompts.clean_month(result.json(), meetings, issues)
+            except TryLater as e:
+                report.rate_limited = True
+                self.log(f"Rate limited while writing monthly roll-ups: {e}")
+                break
+            except (GeminiError, ValueError, KeyError) as e:
+                report.errors.append(f"month {month}: {e}")
+                self.log(f"Failed to write roll-up for {month}: {e}")
+                continue
+            month_obj.update(
+                {
+                    "month": month,
+                    "fingerprint": fingerprint,
+                    "video_ids": [r["id"] for r in vids],
+                    "model": used_model,
+                    "generated_at": iso(self.now()),
+                }
+            )
+            self.store.write_month(month, month_obj)
+            report.months_written.append(month)
+            written += 1
+
+
+def month_key_for(record: dict, tz: str) -> str:
+    if record.get("meeting_date"):
+        return record["meeting_date"][:7]
+    return local_date(parse_iso(record["published_at"]), tz).isoformat()[:7]
+
+
+def _fingerprint(head: list, vids: list[dict]) -> str:
+    return hashlib.sha256(
+        json.dumps(head + [[r["id"], r.get("processed_at"), r.get("prompt_version")] for r in vids]).encode()
+    ).hexdigest()[:16]
+
+
+def apply_links(issues: dict, links: dict, meetings: list[dict], week: str) -> None:
+    """Merge one week's links into the issue registry, in place.
+
+    A status only replaces an older one: relinking an earlier week never
+    overwrites what a later week said.
+    """
+    for iid, new in links["new_issues"].items():
+        issues.setdefault(iid, {**new, "first_seen": week})
+    seen: dict[str, str] = {}
+    for m in meetings:
+        vid = m["video"]["id"]
+        md = prompts._meeting_date(m).isoformat()
+        for i, _ in enumerate(m["summary"].get("topics", [])):
+            iid = (links["topics"].get(prompts.topic_ref(vid, i)) or {}).get("issue")
+            if iid:
+                seen[iid] = max(seen.get(iid, ""), md)
+    for iid, md in seen.items():
+        if iid not in issues:
+            continue
+        rec = issues[iid]
+        rec["last_seen"] = max(rec.get("last_seen") or "", md)
+        if iid in links["statuses"] and md >= (rec.get("status_as_of") or ""):
+            rec["status"] = links["statuses"][iid]
+            rec["status_as_of"] = md
+
+
+def merge_issues(store: Store, source: str, target: str) -> int:
+    """Fold one issue into another everywhere. Returns how many links moved."""
+    issues = store.load_issues()
+    if source not in issues or target not in issues:
+        raise KeyError(f"unknown issue: {source if source not in issues else target}")
+    moved = 0
+    for week, lk in store.all_links().items():
+        changed = False
+        for section in ("topics", "upcoming"):
+            for item in (lk.get(section) or {}).values():
+                if item.get("issue") == source:
+                    item["issue"] = target
+                    moved += 1
+                    changed = True
+        if changed:
+            store.write_links(week, lk)
+    src, dst = issues.pop(source), issues[target]
+    dst["last_seen"] = max(dst.get("last_seen") or "", src.get("last_seen") or "")
+    if (src.get("status_as_of") or "") > (dst.get("status_as_of") or ""):
+        dst["status"], dst["status_as_of"] = src.get("status"), src.get("status_as_of")
+    dst.setdefault("aliases", []).append(source)
+    store.save_issues(issues)
+    return moved
 
 
 _NOISE = re.compile(r"\b(southborough|meeting|mtg|regular|special|remote|hybrid|of|the)\b|[^a-z ]", re.IGNORECASE)

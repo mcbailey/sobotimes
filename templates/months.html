@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% set nav = 'months' %}
+{% block title %}Archive | {{ site.title }}{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">Archive</h1>
+  <p class="page-lede">Each month has a roll-up for catching up, and each week covers every meeting in full.</p>
+</header>
+{% endblock %}
+{% block main %}
+{% if not months %}<p class="muted">No meetings summarized yet.</p>{% endif %}
+{% for mo in months %}
+<article class="week-entry">
+  <h2 class="week-title"><a href="{{ root }}months/{{ mo.key }}/">{{ mo.label }}</a></h2>
+  <p class="week-stats">{{ mo.stats }}{% if mo.decisions %} · {{ mo.decisions|length }} vote{{ 's' if mo.decisions|length != 1 }}{% endif %}{% if mo.issues %} · {{ mo.issues|length }} issue{{ 's' if mo.issues|length != 1 }}{% endif %}</p>
+  {% if mo.headline %}<p class="week-headline">{{ mo.headline }}</p>{% endif %}
+  <ul class="week-links">
+    {% for w in mo.weeks %}<li><a href="{{ root }}weeks/{{ w.key }}/">{{ w.label }}</a> <span class="muted">{{ w.stats }}</span></li>{% endfor %}
+  </ul>
+</article>
+{% endfor %}
+{% endblock %}

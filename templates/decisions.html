@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'decisions' %}
+{% block title %}Decisions | {{ site.title }}{% endblock %}
+{% block description %}Every vote taken at a summarized Southborough meeting, newest first.{% endblock %}
+{% block page_class %} is-wide{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">Decisions</h1>
+  <p class="page-lede">Every vote taken at a summarized meeting, newest first, apart from approving minutes and adjourning. Filter by board, result or topic, or type to search.</p>
+</header>
+{% endblock %}
+{% block main %}
+{% if not decisions %}
+<p class="muted">No votes recorded yet.</p>
+{% else %}
+{{ ui.filter_bar("decisions", categories=used_categories, boards=boards, results=true) }}
+<div data-filter-scope="decisions">
+{{ ui.decisions_table(root, decisions) }}
+<p class="filter-empty muted" hidden>No votes match.</p>
+</div>
+{% endif %}
+{% endblock %}

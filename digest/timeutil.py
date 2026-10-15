@@ -103,6 +103,12 @@ def week_label(start: date) -> str:
     return f"{start:%B} {start.day} – {end:%B} {end.day}, {end.year}"
 
 
+def month_label(key: str) -> str:
+    """'2026-10' -> 'October 2026'."""
+    d = date.fromisoformat(key + "-01")
+    return f"{d:%B} {d.year}"
+
+
 def short_date(d: date) -> str:
     """'Tue, Oct 6'."""
     return f"{d:%a}, {d:%b} {d.day}"
@@ -155,4 +161,57 @@ def date_from_title(title: str) -> date | None:
             return date(int(m.group("y")), _MONTHS[m.group("mon").lower()], int(m.group("d")))
         except ValueError:
             return None
+    return None
+
+
+# Dates mentioned in a meeting ("October 21", "Tuesday, November 10",
+# "10/21") that the calendar can place. Future business is rarely more than a
+# year out, and the model sometimes writes the wrong year, so any year that
+# lands outside the window is corrected or dropped.
+_WHEN_WORD = re.compile(
+    r"\b(?P<mon>jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?"
+    r"|sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?\s+(?P<d>\d{1,2})(?:st|nd|rd|th)?\b"
+    r"(?:,?\s+(?P<y>\d{4}))?",
+    re.IGNORECASE,
+)
+_WHEN_NUM = re.compile(r"\b(?P<m>\d{1,2})/(?P<d>\d{1,2})(?:/(?P<y>\d{2,4}))?\b")
+AHEAD_DAYS = 400
+NEAR_DAYS = 270
+
+
+def plausible_ahead(d: date, ref: date) -> bool:
+    """A date a meeting could be pointing ahead to: from a few days before it to about a year after."""
+    return -3 <= (d - ref).days <= AHEAD_DAYS
+
+
+def resolve_when(text: str | None, ref: date) -> date | None:
+    """Best-effort calendar date for a 'when' phrase, relative to the meeting date."""
+    if not text:
+        return None
+    m = _WHEN_WORD.search(text)
+    if m:
+        month = _MONTHS.get(m.group("mon").lower().rstrip("."))
+        day, year = int(m.group("d")), m.group("y")
+    else:
+        m = _WHEN_NUM.search(text)
+        if not m:
+            return None
+        month, day, year = int(m.group("m")), int(m.group("d")), m.group("y")
+    if not month:
+        return None
+    if year:
+        y = int(year)
+        y = y + 2000 if y < 100 else y
+        # A stated year is trusted when it fits; a wrong one is retried as this year.
+        candidates = [(y, AHEAD_DAYS), (ref.year, NEAR_DAYS)]
+    else:
+        # No year: the next occurrence, if it's within the coming months.
+        candidates = [(ref.year, NEAR_DAYS), (ref.year + 1, NEAR_DAYS)]
+    for y, window in candidates:
+        try:
+            d = date(y, month, day)
+        except ValueError:
+            continue
+        if -3 <= (d - ref).days <= window:
+            return d
     return None

@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'months' %}
+{% block title %}{{ month.label }} | {{ site.title }}{% endblock %}
+{% block description %}{{ month.headline or month.stats }}{% endblock %}
+{% block main_attrs %} data-pagefind-body data-pagefind-filter="type:Month"{% endblock %}
+{% block header %}
+<header class="page-header">
+  <p class="crumb"><a href="{{ root }}months/">Archive</a></p>
+  <h1 class="page-heading">{{ month.label }}</h1>
+  <p class="week-stats">{{ month.stats }}{% if month.decisions %} · {{ month.decisions|length }} vote{{ 's' if month.decisions|length != 1 }}{% endif %}</p>
+</header>
+{% endblock %}
+{% block main %}
+{% if month.synopsis %}
+<section class="overview">
+  {% if month.headline %}<p class="week-headline">{{ month.headline }}</p>{% endif %}
+  <p class="synopsis">{{ month.synopsis }}</p>
+</section>
+{% endif %}
+
+{% if month.top_items %}
+<section class="block">
+  <h2 class="block-title">What mattered this month</h2>
+  <ul class="highlights">{% for h in month.top_items %}{{ ui.highlight(root, h) }}{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if month.issues %}
+<section class="block" data-pagefind-ignore>
+  <h2 class="block-title">Issues that came up</h2>
+  <ul class="issue-list">{% for i in month.issues %}{{ ui.issue_card(root, i) }}{% endfor %}</ul>
+</section>
+{% endif %}
+
+<section class="block" data-pagefind-ignore>
+  <h2 class="block-title">Weeks</h2>
+  <ul class="week-links">
+    {% for w in month.weeks %}<li><a href="{{ root }}weeks/{{ w.key }}/">{{ w.label }}</a> <span class="muted">{{ w.stats }}</span>{% if w.headline %}<br><span class="index-headline">{{ w.headline }}</span>{% endif %}</li>{% endfor %}
+  </ul>
+</section>
+
+{% if month.decisions %}
+<section class="block" data-pagefind-ignore>
+  <h2 class="block-title">Votes</h2>
+  {{ ui.decisions_table(root, month.decisions) }}
+</section>
+{% endif %}
+
+<nav class="pager" aria-label="Other months" data-pagefind-ignore>
+  {% if older %}<a class="pager-older" href="{{ root }}months/{{ older.key }}/">Earlier: {{ older.label }}</a>{% else %}<span></span>{% endif %}
+  {% if newer %}<a class="pager-newer" href="{{ root }}months/{{ newer.key }}/">Later: {{ newer.label }}</a>{% endif %}
+</nav>
+{% endblock %}

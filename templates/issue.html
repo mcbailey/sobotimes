@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'issues' %}
+{% block title %}{{ issue.name }} | {{ site.title }}{% endblock %}
+{% block description %}{{ issue.status or issue.description }}{% endblock %}
+{% block feeds %}<link rel="alternate" type="application/atom+xml" title="{{ issue.name }}" href="feed.xml">{% endblock %}
+{% block main_attrs %} data-pagefind-body data-pagefind-filter="type:Issue"{% endblock %}
+{% block header %}
+<header class="page-header">
+  <p class="crumb"><a href="{{ root }}issues/">Issues</a> › {{ issue.category }}</p>
+  <h1 class="page-heading">{{ issue.name }}</h1>
+  {% if issue.description %}<p class="page-lede">{{ issue.description }}</p>{% endif %}
+  <p class="week-stats">{{ issue.meeting_count }} meeting{{ 's' if issue.meeting_count != 1 }} from {{ issue.first_day }} to {{ issue.last_day }} · {% for b in issue.boards %}<a href="{{ root }}boards/{{ issue.board_slugs[loop.index0] }}/">{{ b }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
+</header>
+{% endblock %}
+{% block main %}
+{% if issue.status %}
+<section class="status-box" aria-label="Where it stands">
+  <p class="status-label">Where it stands{% if issue.status_day %} <span class="muted">as of {{ issue.status_day }}</span>{% endif %}</p>
+  <p class="status-text">{{ issue.status }}</p>
+</section>
+{% endif %}
+
+{% if issue.events %}
+<section class="block" data-pagefind-ignore>
+  <h2 class="block-title">Coming up</h2>
+  <ul class="events">{% for e in issue.events %}{{ ui.event_row(root, e, true) }}{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if issue.votes %}
+<section class="block" data-pagefind-ignore>
+  <h2 class="block-title">Votes</h2>
+  {{ ui.decisions_table(root, issue.votes) }}
+</section>
+{% endif %}
+
+<section class="block">
+  <h2 class="block-title">Every time it came up <span class="muted count">newest first</span></h2>
+  <ol class="issue-timeline">
+    {% for x in issue.entries %}
+    {% set m = x.meeting %}{% set t = x.topic %}
+    <li class="tl-item is-{{ t.importance }}">
+      <p class="tl-when"><time datetime="{{ m.date.isoformat() }}">{{ m.date_short }}</time> · <a href="{{ root }}boards/{{ m.board_slugs[0] }}/">{{ m.body }}</a></p>
+      <h3 class="tl-title" id="e-{{ t.anchor }}">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</h3>
+      {% if t.summary %}<p class="tl-summary">{{ t.summary }}</p>{% endif %}
+      {% if t.key_details %}<ul class="details">{% for d in t.key_details %}<li>{{ d }}</li>{% endfor %}</ul>{% endif %}
+      {% if t.outcome %}<p class="topic-outcome"><strong>Outcome:</strong> {{ t.outcome }}</p>{% endif %}
+      <p class="tl-links">{% if t.watch %}<a href="{{ t.url }}">Watch {{ t.watch }}</a> · {% endif %}<a href="{{ root }}weeks/{{ m.week }}/#{{ t.anchor }}">See the whole meeting</a></p>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endblock %}
+{% block footer_extra %} · <a href="feed.xml">Follow this issue (feed)</a>{% endblock %}

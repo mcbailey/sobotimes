@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'calendar' %}
+{% block title %}Coming up | {{ site.title }}{% endblock %}
+{% block description %}Hearings, deadlines, Town Meeting and other dates mentioned in Southborough's public meetings.{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">Coming up</h1>
+  <p class="page-lede">Hearings, deadlines, votes and meetings that boards mentioned, with links to where they came up. These dates come from what was said in meetings, so check the town's posted agendas before you go.</p>
+  <p class="subscribe"><a class="button" href="{{ root }}calendar.ics">Subscribe in your calendar app</a> <span class="muted">Copy the link into Google Calendar, Apple Calendar or Outlook to add it as a calendar that updates itself.</span></p>
+</header>
+{% endblock %}
+{% block main %}
+{% if not groups %}<p class="muted">No upcoming dates mentioned yet.</p>{% endif %}
+{% for g in groups %}
+<section class="block">
+  <h2 class="block-title">{{ g.label }}</h2>
+  <ul class="events">{% for e in g.events %}{{ ui.event_row(root, e, true) }}{% endfor %}</ul>
+</section>
+{% endfor %}
+{% if recent_past %}
+<details class="routine">
+  <summary>The last two weeks ({{ recent_past|length }})</summary>
+  <ul class="events is-past">{% for e in recent_past %}{{ ui.event_row(root, e, true) }}{% endfor %}</ul>
+</details>
+{% endif %}
+{% endblock %}

@@ -51,8 +51,11 @@ assumed_video_minutes = 150
 max_attempts = 2
 # Stop starting new videos after this many minutes in a single run.
 run_time_limit_minutes = 60
-# Weekly synopses are cheap text-only calls, but cap them anyway.
+# Weekly synopses, issue linking and monthly roll-ups are cheap text-only
+# calls, but cap them anyway.
 max_week_summaries_per_run = 8
+max_link_weeks_per_run = 12
+max_month_summaries_per_run = 4
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
@@ -82,7 +85,18 @@ redo_outdated_summaries = true
 
 [site]
 title = "southborough.info"
-description = "Plain-English summaries of Southborough's public meetings, organized by week, with links to the moment each topic comes up on video."
+description = "Plain-English summaries of every Southborough public meeting: what is coming up, the issues boards are working on, what they decided, and a link to the moment each item comes up on video."
 # Public URL of the site, used for the Atom feed. Leave blank to use relative links.
 base_url = "https://southborough.info"
 max_weeks_on_index = 52
+
+# Board pages group meetings by the board's name. Gemini mostly names boards
+# consistently; map any stray spellings here (case doesn't matter). A leading
+# "Southborough" is dropped automatically.
+[site.board_aliases]
+"ZBA" = "Zoning Board of Appeals"
+"Board of Trustees of the Affordable Housing Trust" = "Affordable Housing Trust"
+"Board of Trustees of the Affordable Housing Trust (AHT)" = "Affordable Housing Trust"
+"Affordable Housing Trust (AHT)" = "Affordable Housing Trust"
+"CPC" = "Community Preservation Committee"
+"Board of Selectmen" = "Select Board"

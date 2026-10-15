@@ -6,9 +6,11 @@
 <title>{% block title %}{{ site.title }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ root }}feed.xml">
+{% block feeds %}{% endblock %}
 <link rel="preload" href="{{ root }}fonts/public-sans.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="{{ root }}fonts/source-serif-4.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="{{ root }}style.css">
+{% block head %}{% endblock %}
 <link rel="icon" href="{{ root }}brand/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="{{ root }}brand/favicon-32.png" type="image/png" sizes="32x32">
 <link rel="apple-touch-icon" href="{{ root }}brand/apple-touch-icon.png">
@@ -16,18 +18,30 @@
 <meta property="og:image" content="{{ site_base }}brand/mark-512.png">
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 {% if banner %}<div class="banner" role="note">{{ banner }}</div>{% endif %}
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="topbar-home" href="{{ root }}"><img src="{{ root }}brand/favicon.svg" alt="" width="28" height="28"><span>{{ site.title }}</span></a>
+    <nav class="topnav" aria-label="Site">
+      {% set links = [("calendar", "calendar/", "Coming up"), ("issues", "issues/", "Issues"), ("decisions", "decisions/", "Decisions"), ("boards", "boards/", "Boards"), ("months", "months/", "Archive")] %}
+      {% for key, href, label in links %}<a href="{{ root }}{{ href }}"{% if nav == key %} aria-current="page"{% endif %}>{{ label }}</a>{% endfor %}
+      <a href="{{ root }}search/" class="topnav-search"{% if nav == 'search' %} aria-current="page"{% endif %}><svg aria-hidden="true" width="15" height="15" viewBox="0 0 16 16"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M11 11l4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Search</a>
+    </nav>
+  </div>
+</header>
 <div class="page{% block page_class %}{% endblock %}">
 {% block rail %}{% endblock %}
 {% block header %}{% endblock %}
-<main id="main">
+<main id="main"{% block main_attrs %}{% endblock %}>
 {% block main %}{% endblock %}
 </main>
 <footer class="site-footer">
-  <p>These summaries are written by an AI model (Google Gemini) from public recordings posted by {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %}. They can contain mistakes, so follow the time links to hear exactly what was said. This site is not affiliated with the Town of {{ channel.town.split(',')[0] }} or {{ sources|map(attribute='name')|join(' or ') }}.</p>
-  <p>Updated {{ updated_text }}. <a href="{{ root }}feed.xml">Subscribe to the weekly feed</a>.</p>
+  <p>These summaries are written by an AI model (Google Gemini) from public recordings posted by {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %}. They can contain mistakes, so follow the time links to hear exactly what was said. Dates on the calendar come from what was said in meetings; check the town's posted agendas before you go. This site is not affiliated with the Town of {{ channel.town.split(',')[0] }} or {{ sources|map(attribute='name')|join(' or ') }}.</p>
+  <p>Updated {{ updated_text }}. <a href="{{ root }}feed.xml">Weekly feed</a> · <a href="{{ root }}calendar.ics">Calendar (.ics)</a>{% block footer_extra %}{% endblock %}</p>
 </footer>
 </div>
+<script src="{{ root }}site.js" defer></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>

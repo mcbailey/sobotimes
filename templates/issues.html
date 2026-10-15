@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'issues' %}
+{% block title %}Issues | {{ site.title }}{% endblock %}
+{% block description %}Every matter Southborough's boards are working on, followed across meetings and weeks.{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">Issues</h1>
+  <p class="page-lede">Each issue follows one matter, such as a project, a property, a budget or a warrant article, across every board and week it comes up. Newest activity first.</p>
+</header>
+{% endblock %}
+{% block main %}
+{% if not active and not earlier %}
+<p class="muted">Issues appear here once the daily update has linked meetings together.</p>
+{% else %}
+{{ ui.filter_bar("issues", categories=used_categories) }}
+<div data-filter-scope="issues">
+{% if active %}
+<section class="block">
+  <h2 class="block-title">Active in the last six weeks <span class="muted count">{{ active|length }}</span></h2>
+  <ul class="issue-list">{% for i in active %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
+</section>
+{% endif %}
+{% if earlier %}
+<section class="block">
+  <h2 class="block-title">Earlier <span class="muted count">{{ earlier|length }}</span></h2>
+  <ul class="issue-list">{% for i in earlier %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
+</section>
+{% endif %}
+<p class="filter-empty muted" hidden>No issues match.</p>
+</div>
+{% endif %}
+{% endblock %}

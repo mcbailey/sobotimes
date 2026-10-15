@@ -1,0 +1,69 @@
+{# Pieces shared across pages. Every macro takes root so links work at any depth. #}
+
+{% macro issue_tag(root, issue, count=None) %}
+{% if issue %}<a class="issue-tag" href="{{ root }}issues/{{ issue.id }}/">{{ issue.name }}{% if count and count > 1 %}<span class="issue-tag-count"> · {{ count }} meetings</span>{% endif %}</a>{% endif %}
+{% endmacro %}
+
+{% macro highlight(root, h, counts={}) %}
+<li class="highlight is-{{ h.importance }}">
+  <p class="highlight-title">{% if h.anchor %}<a class="plain" href="{{ root }}weeks/{{ h.week }}/#{{ h.anchor }}">{% endif %}{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}{% if h.anchor %}</a>{% endif %}</p>
+  <p class="highlight-why">{{ h.why }}</p>
+  <p class="highlight-source">{{ h.body }}{% if h.watch %}, <a href="{{ h.url }}">watch {{ h.watch }}</a>{% endif %}{% if h.issue %} {{ issue_tag(root, h.issue, counts.get(h.issue.id)) }}{% endif %}</p>
+</li>
+{% endmacro %}
+
+{% macro event_row(root, e, show_source=false) %}
+<li class="event{% if e.big %} is-big{% endif %}">
+  <span class="event-when"><time datetime="{{ e.date.isoformat() }}">{{ e.day }}</time></span>
+  <span class="event-what">
+    {% if e.big %}<mark>{{ e.what }}</mark>{% else %}{{ e.what }}{% endif %}
+    <span class="event-meta">{% for b in e.boards %}<a href="{{ root }}boards/{{ e.board_slugs[loop.index0] }}/">{{ b }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% if e.issue %} {{ issue_tag(root, e.issue) }}{% endif %}{% if show_source %}{% set m = e.mentions[0] %} · <a href="{{ root }}weeks/{{ m.week }}/#{{ m.anchor }}">mentioned {{ m.date.strftime('%b') }} {{ m.date.day }}</a>{% endif %}</span>
+  </span>
+</li>
+{% endmacro %}
+
+{% macro issue_card(root, i, show_category=false) %}
+<li class="issue-card" data-category="{{ i.category }}" data-text="{{ (i.name ~ ' ' ~ (i.description or '') ~ ' ' ~ i.boards|join(' '))|lower }}">
+  <h3 class="issue-card-title"><a href="{{ root }}issues/{{ i.id }}/">{{ i.name }}</a></h3>
+  {% if i.status %}<p class="issue-card-status">{{ i.status }}</p>{% elif i.description %}<p class="issue-card-status">{{ i.description }}</p>{% endif %}
+  <p class="issue-card-meta">{% if show_category %}{{ i.category }} · {% endif %}Last discussed {{ i.last_day }} · {{ i.meeting_count }} meeting{{ 's' if i.meeting_count != 1 }} · {{ i.boards|join(', ') }}{% if i.next_event %} · <strong>Next: {{ i.next_event.day }}</strong>{% endif %}</p>
+</li>
+{% endmacro %}
+
+{% macro decision_row(root, d, show_board=true) %}
+<tr data-board="{{ d.board }}" data-result="{{ d.result }}" data-category="{{ d.category }}" data-text="{{ (d.motion ~ ' ' ~ d.board ~ ' ' ~ (d.issue.name if d.issue else ''))|lower }}">
+  <td class="dec-date"><time datetime="{{ d.date.isoformat() }}">{{ d.day }}</time></td>
+  {% if show_board %}<td class="dec-board"><a href="{{ root }}boards/{{ d.board_slug }}/">{{ d.board }}</a></td>{% endif %}
+  <td class="dec-motion">{{ d.motion }}{% if d.issue %} {{ issue_tag(root, d.issue) }}{% endif %}</td>
+  <td class="vote-result is-{{ d.result }}">{{ d.result|capitalize }}{% if d.tally %}<span class="tally">{{ d.tally }}</span>{% endif %}</td>
+  <td class="dec-watch">{% if d.ts %}<a href="{{ d.url }}" aria-label="Watch the vote at {{ d.ts }}">{{ d.ts }}</a>{% endif %}</td>
+</tr>
+{% endmacro %}
+
+{% macro decisions_table(root, rows, show_board=true) %}
+<div class="table-wrap">
+<table class="votes decisions">
+  <thead><tr><th scope="col">Date</th>{% if show_board %}<th scope="col">Board</th>{% endif %}<th scope="col">Motion</th><th scope="col">Result</th><th scope="col">Video</th></tr></thead>
+  <tbody>
+    {% for d in rows %}{{ decision_row(root, d, show_board) }}{% endfor %}
+  </tbody>
+</table>
+</div>
+{% endmacro %}
+
+{% macro meeting_row(root, m, show_board=true) %}
+<li class="index-item">
+  <p class="index-head">{% if show_board %}<a href="{{ root }}weeks/{{ m.week }}/#{{ m.anchor }}">{{ m.body }}</a> <span class="muted">{{ m.date_short }}{% if m.duration %} · {{ m.duration }}{% endif %}</span>{% else %}<a href="{{ root }}weeks/{{ m.week }}/#{{ m.anchor }}">{{ m.date_long }}</a>{% if m.duration %} <span class="muted">{{ m.duration }}</span>{% endif %}{% endif %}{% if m.high_count %} <span class="key-count">{{ m.high_count }} key item{{ 's' if m.high_count != 1 }}</span>{% endif %}</p>
+  {% if m.headline %}<p class="index-headline">{{ m.headline }}</p>{% endif %}
+</li>
+{% endmacro %}
+
+{% macro filter_bar(label, categories=[], boards=[], results=false) %}
+<form class="filters" role="search" data-filter-target="{{ label }}" hidden>
+  <label class="filter-text"><span class="sr-only">Filter</span><input type="search" name="q" placeholder="Filter…" autocomplete="off"></label>
+  {% if boards %}<label><span class="sr-only">Board</span><select name="board"><option value="">All boards</option>{% for b in boards %}<option>{{ b }}</option>{% endfor %}</select></label>{% endif %}
+  {% if categories %}<label><span class="sr-only">Category</span><select name="category"><option value="">All categories</option>{% for c in categories %}<option>{{ c }}</option>{% endfor %}</select></label>{% endif %}
+  {% if results %}<label><span class="sr-only">Result</span><select name="result"><option value="">Any result</option><option value="passed">Passed</option><option value="failed">Failed</option><option value="continued">Continued</option><option value="tabled">Tabled</option><option value="withdrawn">Withdrawn</option><option value="other">Other</option></select></label>{% endif %}
+  <output class="filter-count" aria-live="polite"></output>
+</form>
+{% endmacro %}

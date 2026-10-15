@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% set nav = 'search' %}
+{% block title %}Search | {{ site.title }}{% endblock %}
+{% block head %}<link rel="stylesheet" href="{{ root }}pagefind/pagefind-ui.css">{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">Search</h1>
+  <p class="page-lede">Search every summarized meeting, issue and month. Try a street, a project, a dollar amount or a board.</p>
+</header>
+{% endblock %}
+{% block main %}
+<div id="search" class="search-ui"></div>
+<p class="search-missing muted" hidden>The search index isn't available in this copy of the site. It is built when the site is published.</p>
+{% endblock %}
+{% block scripts %}
+<script src="{{ root }}pagefind/pagefind-ui.js"></script>
+<script>
+window.addEventListener("DOMContentLoaded", function () {
+  if (typeof PagefindUI === "undefined") {
+    document.querySelector(".search-missing").hidden = false;
+    return;
+  }
+  var ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, resetStyles: false });
+  var q = new URLSearchParams(location.search).get("q");
+  if (q) ui.triggerSearch(q);
+  var input = document.querySelector("#search input");
+  if (input && !q) input.focus();
+});
+</script>
+{% endblock %}

@@ -1,7 +1,10 @@
 {% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
 {% block title %}Week of {{ week.label }} | {{ site.title }}{% endblock %}
+{% set nav = 'months' %}
 {% block description %}{{ week.synopsis or week.stats }}{% endblock %}
 {% block page_class %}{% if week.meetings|length > 1 %} has-rail{% endif %}{% endblock %}
+{% block main_attrs %} data-pagefind-body data-pagefind-filter="type:Week"{% endblock %}
 
 {% macro meeting_link(m) %}
 <li class="index-item">
@@ -11,9 +14,9 @@
 {% endmacro %}
 
 {% macro topic_full(t) %}
-<li class="topic is-{{ t.importance }}" id="{{ t.anchor }}">
-  <h4 class="topic-title">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</h4>
-  <p class="topic-meta">{{ t.category }}{% if t.watch %}. <a href="{{ t.url }}">Watch {{ t.watch }}</a>{% endif %}</p>
+<li class="topic is-{{ t.importance }}">
+  <h4 class="topic-title" id="{{ t.anchor }}">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</h4>
+  <p class="topic-meta">{{ t.category }}{% if t.watch %}. <a href="{{ t.url }}">Watch {{ t.watch }}</a>{% endif %}{% if t.issue %} {{ ui.issue_tag(root, t.issue, issue_counts.get(t.issue.id)) }}{% endif %}</p>
   {% if t.summary %}<p class="topic-summary">{{ t.summary }}</p>{% endif %}
   {% if t.key_details %}
   <ul class="details">{% for d in t.key_details %}<li>{{ d }}</li>{% endfor %}</ul>
@@ -24,7 +27,7 @@
 {% endmacro %}
 
 {% macro timeline(m, with_key) %}
-<div class="timeline" aria-hidden="true">
+<div class="timeline" aria-hidden="true" data-pagefind-ignore>
   <div class="timeline-track">
     {% for s in m.timeline.segments %}<a class="seg is-{{ s.importance }}" href="{{ s.url }}" tabindex="-1" title="{{ s.ts }} {{ s.title }}" style="left:{{ s.left }}%;width:{{ s.width }}%"></a>{% endfor %}
   </div>
@@ -33,9 +36,9 @@
 {% endmacro %}
 
 {% macro meeting_section(m) %}
-<section class="meeting{% if not m.key %} is-minor{% endif %}" id="{{ m.anchor }}">
-  <h3 class="meeting-title">{{ m.body }}</h3>
-  <p class="meeting-meta">{{ m.date_long }}{% if m.duration %}, {{ m.duration }} recording{% endif %}. <a href="{{ m.url }}">Watch the full meeting</a></p>
+<section class="meeting{% if not m.key %} is-minor{% endif %}">
+  <h3 class="meeting-title" id="{{ m.anchor }}">{{ m.body }}</h3>
+  <p class="meeting-meta">{{ m.date_long }}{% if m.duration %}, {{ m.duration }} recording{% endif %}. <a href="{{ m.url }}">Watch the full meeting</a>{% for b in m.boards %} · <a href="{{ root }}boards/{{ m.board_slugs[loop.index0] }}/">All {{ b }} meetings</a>{% endfor %}</p>
 
   {% if m.headline %}<p class="meeting-headline">{{ m.headline }}</p>{% endif %}
 
@@ -45,7 +48,7 @@
   {% if glance %}
   <ul class="glance" aria-label="Topics">
     {% for t in glance %}
-    <li><a class="glance-title" href="#{{ t.anchor }}">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</a>{% if m.key and t.outcome and t.importance == 'high' %}<span class="glance-outcome">{{ t.outcome }}</span>{% endif %}</li>
+    <li><a class="glance-title" href="#{{ t.anchor }}">{% if t.importance == 'high' %}<mark>{{ t.title }}</mark>{% else %}{{ t.title }}{% endif %}</a>{% if t.issue %} {{ ui.issue_tag(root, t.issue, issue_counts.get(t.issue.id)) }}{% endif %}{% if m.key and t.outcome and t.importance == 'high' %}<span class="glance-outcome">{{ t.outcome }}</span>{% endif %}</li>
     {% endfor %}
   </ul>
   {% endif %}
@@ -112,10 +115,10 @@
 
 {% block rail %}
 {% if week.meetings|length > 1 %}
-<aside class="rail" aria-label="On this page">
+<aside class="rail" aria-label="On this page" data-pagefind-ignore>
   <div class="rail-inner">
     <p class="rail-week"><a href="#top">{{ week.label }}</a></p>
-    {% if week.looking_ahead %}<p class="rail-link"><a href="#coming-up">Coming up</a></p>{% endif %}
+    {% if week.looking_ahead %}<p class="rail-link"><a href="#coming-up">Dates mentioned</a></p>{% endif %}
     {% if week.key_meetings %}
     <p class="rail-group">Key meetings</p>
     <ul class="rail-list">
@@ -135,7 +138,7 @@
 
 {% block header %}
 <header class="week-header" id="top">
-  <p class="crumb"><a href="{{ root }}" class="crumb-home"><img src="{{ root }}brand/favicon.svg" alt="" width="28" height="28">{{ site.title }}</a></p>
+  <p class="crumb"><a href="{{ root }}months/">Archive</a>{% if week.meetings %} › <a href="{{ root }}months/{{ week.meetings[0].date.isoformat()[:7] }}/">{{ week.meetings[0].date.strftime('%B %Y') }}</a>{% endif %}</p>
   <h1 class="week-heading">{{ week.label }}</h1>
   {% if week.stats %}<p class="week-stats">{{ week.stats }}</p>{% endif %}
 </header>
@@ -152,30 +155,25 @@
 <section class="block">
   <h2 class="block-title">What mattered this week</h2>
   <ul class="highlights">
-    {% for h in week.highlights %}
-    <li class="highlight is-{{ h.importance }}">
-      <p class="highlight-title">{% if h.importance == 'high' %}<mark>{{ h.title }}</mark>{% else %}{{ h.title }}{% endif %}</p>
-      <p class="highlight-why">{{ h.why }}</p>
-      <p class="highlight-source">{{ h.body }}{% if h.watch %}, <a href="{{ h.url }}">watch {{ h.watch }}</a>{% endif %}</p>
-    </li>
-    {% endfor %}
+    {% for h in week.highlights %}{{ ui.highlight(root, h, issue_counts) }}{% endfor %}
   </ul>
 </section>
 {% endif %}
 
 {% if week.looking_ahead %}
 <section class="block" id="coming-up">
-  <h2 class="block-title">Coming up</h2>
+  <h2 class="block-title">Dates mentioned</h2>
   <ul class="ahead">
     {% for a in week.looking_ahead %}
-    <li>{% if a.when %}<span class="ahead-when">{{ a.when }}<span class="sr-only">: </span></span>{% endif %}<span class="ahead-what">{{ a.what }}{% if a.body %} ({{ a.body }}){% endif %}</span></li>
+    <li{% if a.past %} class="is-past"{% endif %}>{% if a.when %}<span class="ahead-when">{{ a.when }}<span class="sr-only">: </span></span>{% endif %}<span class="ahead-what">{{ a.what }}{% if a.body %} ({{ a.body }}){% endif %}{% if a.past %} <span class="past-note">(past)</span>{% endif %}</span></li>
     {% endfor %}
   </ul>
+  <p class="block-more"><a href="{{ root }}calendar/">Everything coming up</a></p>
 </section>
 {% endif %}
 
 {% if week.meetings|length > 1 %}
-<nav class="block meeting-index" aria-label="Meetings this week">
+<nav class="block meeting-index" aria-label="Meetings this week" data-pagefind-ignore>
   <div class="index-top">
     <h2 class="block-title">Meetings this week</h2>
     <button type="button" class="expand-all" hidden>Expand all</button>
@@ -223,7 +221,7 @@
 </section>
 {% endif %}
 
-<nav class="pager" aria-label="Other weeks">
+<nav class="pager" aria-label="Other weeks" data-pagefind-ignore>
   {% if older %}<a class="pager-older" href="{{ root }}weeks/{{ older.key }}/">Earlier: {{ older.label }}</a>{% else %}<span></span>{% endif %}
   {% if newer %}<a class="pager-newer" href="{{ root }}weeks/{{ newer.key }}/">Later: {{ newer.label }}</a>{% endif %}
 </nav>

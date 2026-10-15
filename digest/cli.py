@@ -1,4 +1,4 @@
-"""Command line: python -m digest {run,build,status,requeue}"""
+"""Command line: python -m digest {run,build,status,requeue,issues,merge-issues}"""
 from __future__ import annotations
 
 import argparse
@@ -8,7 +8,7 @@ from pathlib import Path
 
 from .config import load_config
 from .gemini import InteractionsClient
-from .pipeline import DONE, QUEUED, Pipeline, RunReport
+from .pipeline import DONE, QUEUED, Pipeline, RunReport, merge_issues
 from .site import build_site
 from .store import Store
 
@@ -28,6 +28,8 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--dry-run", action="store_true", help="show what would be summarized; no Gemini calls")
     r.add_argument("--max-videos", type=int, default=None, help="override budget.max_videos_per_run")
     r.add_argument("--backfill-days", type=int, default=None, help="override discovery.backfill_days")
+    r.add_argument("--daily-minutes", type=int, default=None,
+                   help="override budget.daily_video_minutes (raise it on a paid Gemini tier to catch up faster)")
 
     b = sub.add_parser("build", help="render the static site")
     b.add_argument("--out", default="_site")
@@ -37,6 +39,11 @@ def main(argv: list[str] | None = None) -> int:
 
     q = sub.add_parser("requeue", help="summarize these videos again on the next run")
     q.add_argument("video_ids", nargs="+")
+
+    sub.add_parser("issues", help="list tracked issues")
+    mi = sub.add_parser("merge-issues", help="fold one issue into another (when two were created for the same matter)")
+    mi.add_argument("source", help="issue id to remove")
+    mi.add_argument("target", help="issue id to keep")
 
     args = p.parse_args(argv)
     cfg = load_config(args.config)
@@ -50,6 +57,20 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.cmd == "status":
         return _status(store)
+    if args.cmd == "issues":
+        issues = store.load_issues()
+        for i in sorted(issues.values(), key=lambda i: i.get("last_seen") or "", reverse=True):
+            print(f"{i.get('last_seen') or '?':10}  {i['id']:40}  {i['name']}")
+        print(f"{len(issues)} issues")
+        return 0
+    if args.cmd == "merge-issues":
+        try:
+            moved = merge_issues(store, args.source, args.target)
+        except KeyError as e:
+            print(e)
+            return 1
+        print(f"Merged {args.source} into {args.target} ({moved} links moved)")
+        return 0
     if args.cmd == "requeue":
         state = store.load_state()
         for vid in args.video_ids:
@@ -72,6 +93,8 @@ def _run(cfg, store: Store, args) -> int:
             print("GEMINI_API_KEY is not set. Add it as a repository secret (see README).", file=sys.stderr)
             return 1
         client = InteractionsClient(api_key, api_revision=cfg.gemini.api_revision)
+    if args.daily_minutes is not None:
+        cfg.budget.daily_video_minutes = args.daily_minutes
     pipeline = Pipeline(
         cfg,
         store,
@@ -96,6 +119,8 @@ def format_report(report: RunReport, store: Store) -> str:
     refreshed = f", plus {len(report.refreshed)} refreshed with improved prompts" if report.refreshed else ""
     lines.append(f"- Summarized: {len(report.summarized)}{refreshed} ({report.minutes_used} video minutes)")
     lines.append(f"- Weekly synopses written: {len(report.weeks_written)}")
+    lines.append(f"- Weeks linked to issues: {len(report.links_written)}")
+    lines.append(f"- Monthly roll-ups written: {len(report.months_written)}")
     if report.rate_limited:
         lines.append("- Stopped early: Gemini was busy or a usage limit was reached. Nothing was marked as failed; remaining videos will be picked up next run.")
     if state.get("usage"):

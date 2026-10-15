@@ -19,8 +19,8 @@ import sample_data  # noqa: E402
 from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
 from digest.config import DiscoveryConfig, load_config  # noqa: E402
 from digest.gemini import GeminiError, InteractionsClient, RateLimited, Result, TryLater  # noqa: E402
-from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline  # noqa: E402
-from digest.site import build_site  # noqa: E402
+from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline, apply_links, merge_issues  # noqa: E402
+from digest.site import board_names, build_site  # noqa: E402
 from digest.store import Store  # noqa: E402
 
 NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eastern
@@ -72,6 +72,11 @@ class FakeClient:
                 "topics": [], "votes": [], "public_comment": [], "upcoming": [], "caveats": None,
             }
             return Result(text=json.dumps(raw), usage=usage, interaction_id=f"i-{vid}")
+        if kw["schema"] is prompts.LINK_SCHEMA:
+            self.link_calls = getattr(self, "link_calls", 0) + 1
+            return Result(text=json.dumps(sample_data.fake_links(inp)), usage=usage)
+        if kw["schema"] is prompts.MONTH_SCHEMA:
+            return Result(text=json.dumps(sample_data.fake_month(inp)), usage=usage)
         # a weekly synopsis request
         assert kw["schema"] is prompts.WEEK_SCHEMA
         for week in sample_data.WEEKS.values():
@@ -406,17 +411,24 @@ class SiteTests(unittest.TestCase):
             client = FakeClient()
             cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
             p.run()
-            out = build_site(cfg, store, Path(tmp) / "_site", banner="Sample data")
+            out = build_site(cfg, store, Path(tmp) / "_site", banner="Sample data", now=NOW)
             index = (out / "index.html").read_text()
             self.assertIn("October 5–11, 2026", index)
             self.assertIn("<mark>FY28 budget guidance adopted</mark>", index)
-            self.assertIn("watch?v=sampleSB1006&amp;t=540s", index)
             self.assertIn("waiting to be summarized", index)           # sampleSB1013 pending
             self.assertNotIn("Harvest Fair", index)
+            # What's happening now: dated items, issues and decisions.
+            self.assertIn("Coming up", index)
+            self.assertIn('datetime="2026-10-21"', index)               # Turnpike Road hearing
+            self.assertIn('href="issues/fy28-budget/"', index)
+            self.assertIn("Award the Route 85 sidewalk reconstruction contract", index)
             week = (out / "weeks" / "2026-10-05" / "index.html").read_text()
             self.assertIn("Route 85 sidewalk reconstruction contract", week)
             self.assertIn("Routine business (1 item)", week)
             self.assertIn('class="seg is-high"', week)
+            self.assertIn("watch?v=sampleSB1006&amp;t=540s", week)
+            self.assertIn('href="../../issues/fy28-budget/"', week)    # topics link to their issue
+            self.assertIn("data-pagefind-body", week)
             older = (out / "weeks" / "2026-09-28" / "index.html").read_text()
             self.assertIn("longer than the automatic summarizer handles", older)   # Board of Health
             feed = (out / "feed.xml").read_text()
@@ -424,11 +436,143 @@ class SiteTests(unittest.TestCase):
             ET.fromstring(feed)  # well-formed
             self.assertIn("Week of October 5–11, 2026", feed)
 
+            issue = (out / "issues" / "fy28-budget" / "index.html").read_text()
+            self.assertIn("FY28 town budget", issue)
+            self.assertIn("School Committee", issue)                    # followed across boards
+            self.assertIn("Select Board", issue)
+            self.assertIn("Where it stands", issue)
+            ET.fromstring((out / "issues" / "fy28-budget" / "feed.xml").read_text())
+            board = (out / "boards" / "planning-board" / "index.html").read_text()
+            self.assertIn("Turnpike Road 24-unit housing", board)
+            ET.fromstring((out / "boards" / "planning-board" / "feed.xml").read_text())
+            decisions = (out / "decisions" / "index.html").read_text()
+            self.assertIn('data-result="continued"', decisions)
+            self.assertIn("Issue order of conditions for the culvert replacement", decisions)
+            month = (out / "months" / "2026-10" / "index.html").read_text()
+            self.assertIn("Budget pressure and housing proposals dominated the month.", month)
+            cal = (out / "calendar" / "index.html").read_text()
+            self.assertIn("Turnpike Road hearing continues", cal)
+            ics = (out / "calendar.ics").read_bytes().decode()
+            self.assertTrue(ics.startswith("BEGIN:VCALENDAR\r\n"))
+            self.assertIn("DTSTART;VALUE=DATE:20261021", ics)
+            self.assertTrue(all(len(line.encode()) <= 75 for line in ics.split("\r\n")))
+            self.assertTrue((out / "search" / "index.html").exists())
+            self.assertTrue((out / "site.js").exists())
+
+    def test_calendar_hides_past_dates(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg, store, p = make_pipeline(tmp, FakeClient(), daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            later = datetime(2026, 10, 25, 16, 0, tzinfo=timezone.utc)
+            out = build_site(cfg, store, Path(tmp) / "_site", now=later)
+            cal = (out / "calendar" / "index.html").read_text()
+            upcoming, _, recent = cal.partition("The last two weeks")
+            self.assertNotIn("Turnpike Road hearing continues", upcoming)   # Oct 21
+            self.assertIn("Turnpike Road hearing continues", recent)
+            self.assertIn("40B hearing continues", upcoming)                 # Oct 29
+
     def test_empty_site(self):
         with tempfile.TemporaryDirectory() as tmp:
             cfg = load_config(ROOT / "config.toml")
             out = build_site(cfg, Store(Path(tmp) / "data"), Path(tmp) / "_site")
             self.assertIn("No meetings summarized yet", (out / "index.html").read_text())
+
+
+class LinkTests(unittest.TestCase):
+    def test_pipeline_links_issues_and_writes_months(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertEqual(report.links_written, ["2026-09-28", "2026-10-05"])   # oldest first
+            self.assertEqual(sorted(report.months_written), ["2026-09", "2026-10"])
+            issues = store.load_issues()
+            self.assertIn("fy28-budget", issues)
+            self.assertEqual(issues["fy28-budget"]["last_seen"], "2026-10-08")
+            links = store.read_links("2026-10-05")
+            self.assertEqual(links["topics"]["sampleSB1006#1"]["issue"], "fy28-budget")
+            self.assertEqual(links["topics"]["sampleSC1008#1"]["issue"], "fy28-budget")   # across boards
+            self.assertEqual(links["upcoming"]["samplePB1007#u0"], {"date": "2026-10-21", "issue": "turnpike-road-housing"})
+            # Nothing changed, so a second run makes no text calls at all.
+            before = len(client.calls)
+            again = p.run()
+            self.assertEqual((again.links_written, again.months_written, again.weeks_written), ([], [], []))
+            self.assertEqual(len(client.calls), before)
+
+    def _meetings(self):
+        return [{"video": {"id": "v1", "published_at": "2026-10-07T12:00:00Z"},
+                 "summary": {"meeting_date": "2026-10-06",
+                             "topics": [{"title": "Bridge"}, {"title": "Routine business"}],
+                             "upcoming": [{"what": "Town Meeting", "when": "October 17"}, {"what": "Hearing", "when": "Oct 18, 2024"}]}}]
+
+    def test_clean_links_validates_everything(self):
+        existing = {"peninsula-trail-bridge": {"id": "peninsula-trail-bridge", "name": "Peninsula Trail bridge"}}
+        raw = {
+            "new_issues": [
+                {"id": "Peninsula Trail Bridge", "name": "Peninsula trail bridge", "description": "", "category": "Parks, trails & recreation"},
+                {"id": "golf-irrigation", "name": "Golf course irrigation", "description": "x", "category": "Nonsense"},
+                {"id": "unused", "name": "Never referenced", "description": "", "category": "Other"},
+            ],
+            "topics": [
+                {"ref": "v1#0", "issue": "Peninsula Trail Bridge", "category": "Parks, trails & recreation"},
+                {"ref": "v1#1", "issue": "made-up", "category": "Governance & committees"},
+                {"ref": "v9#0", "issue": "golf-irrigation", "category": "Other"},
+            ],
+            "upcoming": [
+                {"ref": "v1#u0", "date": "2026-10-17", "issue": "golf-irrigation"},
+                {"ref": "v1#u1", "date": "2024-10-18", "issue": None},
+            ],
+            "statuses": [{"issue": "peninsula-trail-bridge", "status": "Goes to Town Meeting October 17."}],
+        }
+        out = prompts.clean_links(raw, self._meetings(), existing)
+        self.assertEqual(out["topics"]["v1#0"]["issue"], "peninsula-trail-bridge")  # "new" duplicate reused
+        self.assertIsNone(out["topics"]["v1#1"]["issue"])                          # unknown id dropped
+        self.assertNotIn("v9#0", out["topics"])                                    # unknown ref dropped
+        self.assertEqual(out["upcoming"]["v1#u0"], {"date": "2026-10-17", "issue": "golf-irrigation"})
+        self.assertIsNone(out["upcoming"]["v1#u1"]["date"])                        # 2024 is implausible
+        self.assertEqual(list(out["new_issues"]), ["golf-irrigation"])             # unused one dropped
+        self.assertEqual(out["new_issues"]["golf-irrigation"]["category"], "Other")
+        self.assertIn("peninsula-trail-bridge", out["statuses"])
+
+    def test_older_week_never_overwrites_newer_status(self):
+        issues = {"x": {"id": "x", "name": "X", "status": "Approved.", "status_as_of": "2026-10-20", "last_seen": "2026-10-20"}}
+        links = {"new_issues": {}, "topics": {"v1#0": {"issue": "x", "category": "Other"}}, "upcoming": {}, "statuses": {"x": "Under discussion."}}
+        apply_links(issues, links, self._meetings(), "2026-10-05")
+        self.assertEqual(issues["x"]["status"], "Approved.")
+        self.assertEqual(issues["x"]["last_seen"], "2026-10-20")
+
+    def test_merge_issues(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            cfg, store, p = make_pipeline(tmp, FakeClient(), daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            moved = merge_issues(store, "route-85-sidewalks", "fy28-budget")
+            self.assertGreater(moved, 0)
+            self.assertNotIn("route-85-sidewalks", store.load_issues())
+            self.assertIn("route-85-sidewalks", store.load_issues()["fy28-budget"]["aliases"])
+            topics = store.read_links("2026-10-05")["topics"]
+            self.assertNotIn("route-85-sidewalks", {t["issue"] for t in topics.values()})
+
+    def test_board_names(self):
+        aliases = {"ZBA": "Zoning Board of Appeals", "Affordable Housing Trust (AHT)": "Affordable Housing Trust"}
+        self.assertEqual(board_names("Select Board and Advisory Committee", aliases), ["Select Board", "Advisory Committee"])
+        self.assertEqual(board_names("Southborough Cultural Arts Council", aliases), ["Cultural Arts Council"])
+        self.assertEqual(board_names("ZBA", aliases), ["Zoning Board of Appeals"])
+        self.assertEqual(board_names("Parks and Recreation Commission", aliases), ["Parks and Recreation Commission"])
+        self.assertEqual(board_names("Board of Health and Human Services", aliases), ["Board of Health and Human Services"])
+        self.assertEqual(board_names("Select Board Meeting", aliases), ["Select Board"])
+
+    def test_resolve_when(self):
+        ref = date(2026, 10, 8)
+        r = timeutil.resolve_when
+        self.assertEqual(r("October 17", ref), date(2026, 10, 17))
+        self.assertEqual(r("Tuesday, November 10", ref), date(2026, 11, 10))
+        self.assertEqual(r("October 27, 2026 at 7:00 PM", ref), date(2026, 10, 27))
+        self.assertEqual(r("October 18, 2024", ref), date(2026, 10, 18))   # wrong year corrected
+        self.assertEqual(r("January 1, 2027", ref), date(2027, 1, 1))
+        self.assertEqual(r("10/27", ref), date(2026, 10, 27))
+        self.assertIsNone(r("September 3, 2024", ref))                     # a past reference
+        self.assertIsNone(r("next month", ref))
+        self.assertIsNone(r(None, ref))
 
 
 class UnitTests(unittest.TestCase):

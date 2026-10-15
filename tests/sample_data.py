@@ -274,3 +274,81 @@ WEEKS = {
         ],
     },
 }
+
+
+# Issues the fake links call assigns, by a phrase in the topic's title or
+# upcoming item: id -> (name, category, description, phrases).
+ISSUES = {
+    "fy28-budget": ("FY28 town budget", "Budget & taxes",
+                    "Next year's operating budget, including school costs and a possible override.", ["FY28"]),
+    "neary-school-project": ("Neary School building project", "Schools",
+                             "Whether to renovate or replace the Neary Elementary School.", ["Neary"]),
+    "turnpike-road-housing": ("Turnpike Road 24-unit housing", "Housing",
+                              "A proposed 24-unit residential development on Turnpike Road.", ["Turnpike Road"]),
+    "adu-bylaw": ("Accessory apartment bylaw", "Zoning & development",
+                  "A zoning bylaw to allow accessory dwelling units.", ["ADU", "Accessory dwelling"]),
+    "40b-apartments": ("40B apartment project", "Housing",
+                       "A comprehensive permit for a 108-unit apartment project.", ["40B"]),
+    "fayville-park": ("Fayville Park master plan", "Parks, trails & recreation",
+                      "A phased plan to rebuild Fayville Park.", ["Fayville"]),
+    "route-85-sidewalks": ("Route 85 sidewalks", "Roads, water & infrastructure",
+                           "Rebuilding the sidewalks along Route 85.", ["Route 85"]),
+}
+_CATEGORY_WORDS = {"Routine": "Governance & committees", "MCAS": "Schools", "roof": "Buildings & facilities",
+                   "Police": "Public safety", "Culvert": "Roads, water & infrastructure", "wetlands": "Environment & conservation",
+                   "Cemetery": "Governance & committees", "Public comment": "Other", "Town Meeting": "Town Meeting & elections"}
+
+
+def _section(text, start, end):
+    return text.split(start, 1)[1].split(end, 1)[0]
+
+
+def _issue_for(text):
+    for iid, (_, _, _, phrases) in ISSUES.items():
+        if any(ph.lower() in (text or "").lower() for ph in phrases):
+            return iid
+    return None
+
+
+def fake_links(prompt: str) -> dict:
+    """What a careful links call would return for the sample meetings."""
+    import json
+    from datetime import date
+    from digest.timeutil import resolve_when
+
+    tracked = {i["id"] for i in json.loads(_section(prompt, "Issues already tracked (JSON):\n", "\n\nThis week's")
+                                             .replace(" (none yet)", ""))}
+    meetings = json.loads(_section(prompt, "by their ref:\n", "\n\nReturn JSON"))
+    out = {"new_issues": [], "topics": [], "upcoming": [], "statuses": []}
+    used = {}
+    for m in meetings:
+        ref_date = date.fromisoformat(m["meeting_date"])
+        for t in m["topics"]:
+            iid = _issue_for(t["title"])
+            cat = ISSUES[iid][1] if iid else next(
+                (c for w, c in _CATEGORY_WORDS.items() if w.lower() in t["title"].lower()), "Other")
+            out["topics"].append({"ref": t["ref"], "issue": iid, "category": cat})
+            if iid:
+                used[iid] = t.get("outcome") or t["title"]
+        for u in m["upcoming"]:
+            d = resolve_when(u["when"], ref_date)
+            out["upcoming"].append({"ref": u["ref"], "date": d.isoformat() if d else None, "issue": _issue_for(u["what"])})
+    for iid, latest in used.items():
+        if iid not in tracked:
+            name, cat, desc, _ = ISSUES[iid]
+            out["new_issues"].append({"id": iid, "name": name, "description": desc, "category": cat})
+        out["statuses"].append({"issue": iid, "status": latest})
+    return out
+
+
+def fake_month(prompt: str) -> dict:
+    import json
+    meetings = json.loads(prompt.split("Meetings:\n", 1)[1].split("\n\nReturn JSON", 1)[0])
+    items = [
+        {"title": t["title"], "why": t.get("outcome") or t["summary"], "body": m["body"], "importance": "high",
+         "issue": t.get("issue"), "video_id": m["video_id"], "start": t["start"]}
+        for m in meetings for t in m["topics"] if t["importance"] == "high"
+    ]
+    return {"headline": "Budget pressure and housing proposals dominated the month.",
+            "synopsis": "Boards set budget guidance and weighed two housing projects. More hearings are scheduled.",
+            "top_items": items}

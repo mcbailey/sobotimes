@@ -3,6 +3,9 @@
 data/state.json            video registry, daily usage ledger, last run info
 data/meetings/<id>.json    one summary per meeting video
 data/weeks/<monday>.json   one synopsis per week
+data/links/<monday>.json   that week's topics tagged with issues, categories and dates
+data/issues.json           every tracked issue: name, description, latest status
+data/months/<YYYY-MM>.json one roll-up per month
 """
 from __future__ import annotations
 
@@ -48,6 +51,9 @@ class Store:
         self.state_path = self.dir / "state.json"
         self.meetings_dir = self.dir / "meetings"
         self.weeks_dir = self.dir / "weeks"
+        self.links_dir = self.dir / "links"
+        self.months_dir = self.dir / "months"
+        self.issues_path = self.dir / "issues.json"
 
     # --- state -----------------------------------------------------------
     def load_state(self) -> dict:
@@ -89,3 +95,30 @@ class Store:
 
     def write_week(self, week_key: str, obj: dict) -> None:
         _write_json(self.week_path(week_key), obj)
+
+    # --- links (issues, categories, dates for one week) ---------------------
+    def read_links(self, week_key: str) -> dict | None:
+        return _read_json(self.links_dir / f"{week_key}.json")
+
+    def write_links(self, week_key: str, obj: dict) -> None:
+        _write_json(self.links_dir / f"{week_key}.json", obj)
+
+    def all_links(self) -> dict[str, dict]:
+        if not self.links_dir.exists():
+            return {}
+        return {p.stem: _read_json(p, {}) for p in sorted(self.links_dir.glob("*.json"))}
+
+    # --- issues --------------------------------------------------------------
+    def load_issues(self) -> dict:
+        """{issue_id: {id, name, description, category, status, status_as_of, ...}}"""
+        return (_read_json(self.issues_path, None) or {}).get("issues", {})
+
+    def save_issues(self, issues: dict) -> None:
+        _write_json(self.issues_path, {"version": 1, "issues": dict(sorted(issues.items()))})
+
+    # --- months --------------------------------------------------------------
+    def read_month(self, month_key: str) -> dict | None:
+        return _read_json(self.months_dir / f"{month_key}.json")
+
+    def write_month(self, month_key: str, obj: dict) -> None:
+        _write_json(self.months_dir / f"{month_key}.json", obj)

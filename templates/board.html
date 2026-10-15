@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import "_macros.html" as ui with context %}
+{% set nav = 'boards' %}
+{% block title %}{{ board.name }} | {{ site.title }}{% endblock %}
+{% block description %}Recent {{ board.name }} meetings, issues and votes in plain English.{% endblock %}
+{% block feeds %}<link rel="alternate" type="application/atom+xml" title="{{ board.name }}" href="feed.xml">{% endblock %}
+{% block header %}
+<header class="page-header">
+  <p class="crumb"><a href="{{ root }}boards/">Boards</a></p>
+  <h1 class="page-heading">{{ board.name }}</h1>
+  <p class="week-stats">{{ board.count }} meeting{{ 's' if board.count != 1 }} summarized{% if board.hours %} ({{ board.hours }} of video){% endif %}, {{ board.first_day }} to {{ board.last_day }} · <a href="feed.xml">Follow this board (feed)</a></p>
+</header>
+{% endblock %}
+{% block main %}
+{% if board.events %}
+<section class="block">
+  <h2 class="block-title">Coming up</h2>
+  <ul class="events">{% for e in board.events[:8] %}{{ ui.event_row(root, e) }}{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if board.issues %}
+<section class="block">
+  <h2 class="block-title">Issues this board has taken up</h2>
+  <ul class="issue-list">{% for i in board.issues[:12] %}{{ ui.issue_card(root, i) }}{% endfor %}</ul>
+  {% if board.issues|length > 12 %}<p class="block-more"><a href="{{ root }}issues/">All issues</a></p>{% endif %}
+</section>
+{% endif %}
+
+<section class="block">
+  <h2 class="block-title">Meetings</h2>
+  <ul class="index-list">{% for m in board.meetings %}{{ ui.meeting_row(root, m, false) }}{% endfor %}</ul>
+</section>
+
+{% if board.decisions %}
+<section class="block">
+  <h2 class="block-title">Votes</h2>
+  {{ ui.decisions_table(root, board.decisions[:40], false) }}
+  {% if board.decisions|length > 40 %}<p class="block-more"><a href="{{ root }}decisions/">Every decision</a></p>{% endif %}
+</section>
+{% endif %}
+{% endblock %}
