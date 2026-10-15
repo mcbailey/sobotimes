@@ -128,6 +128,11 @@ mark {
   line-height: 0.95;
 }
 .site-title a { color: inherit; text-decoration: none; }
+.logo-link { display: block; }
+.logo { display: block; width: 100%; max-width: 38rem; height: auto; }
+.crumb-home { display: inline-flex; align-items: center; gap: 0.45rem; font-weight: 600; text-decoration: none; }
+.crumb-home:hover { text-decoration: underline; }
+.crumb-home img { width: 1.75rem; height: 1.75rem; }
 
 .site-description {
   margin-top: 1rem;

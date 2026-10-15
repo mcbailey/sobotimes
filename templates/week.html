@@ -135,7 +135,7 @@
 
 {% block header %}
 <header class="week-header" id="top">
-  <p class="crumb"><a href="{{ root }}">{{ site.title }}</a></p>
+  <p class="crumb"><a href="{{ root }}" class="crumb-home"><img src="{{ root }}brand/favicon.svg" alt="" width="28" height="28">{{ site.title }}</a></p>
   <h1 class="week-heading">{{ week.label }}</h1>
   {% if week.stats %}<p class="week-stats">{{ week.stats }}</p>{% endif %}
 </header>

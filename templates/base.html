@@ -9,6 +9,11 @@
 <link rel="preload" href="{{ root }}fonts/public-sans.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="{{ root }}fonts/source-serif-4.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="{{ root }}style.css">
+<link rel="icon" href="{{ root }}brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{{ root }}brand/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{{ root }}brand/apple-touch-icon.png">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ site_base }}brand/mark-512.png">
 </head>
 <body>
 {% if banner %}<div class="banner" role="note">{{ banner }}</div>{% endif %}

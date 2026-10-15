@@ -1,7 +1,14 @@
 {% extends "base.html" %}
 {% block header %}
 <header class="masthead">
-  <h1 class="site-title"><a href="{{ root }}">{{ site.title }}</a></h1>
+  <h1 class="site-title">
+    <a href="{{ root }}" class="logo-link">
+      <picture>
+        <source srcset="{{ root }}brand/logo-dark.svg" media="(prefers-color-scheme: dark)">
+        <img class="logo" src="{{ root }}brand/logo.svg" alt="{{ site.title }}: Town Meetings &amp; Summaries" width="1163" height="212">
+      </picture>
+    </a>
+  </h1>
   <p class="site-description">{{ site.description }}</p>
 </header>
 {% endblock %}

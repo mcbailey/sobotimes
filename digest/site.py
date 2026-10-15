@@ -244,6 +244,7 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
 
     common = {
         "site": cfg.site,
+        "site_base": (cfg.site.base_url.rstrip("/") + "/") if cfg.site.base_url else "/",
         "channel": cfg.channel,
         "channel_url": f"https://www.youtube.com/channel/{cfg.channel.id}",
         "sources": [{"name": cfg.channel.name, "url": f"https://www.youtube.com/channel/{cfg.channel.id}"}]
@@ -280,5 +281,6 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
     )
     shutil.copy(PKG_ROOT / "static" / "style.css", out / "style.css")
     shutil.copytree(PKG_ROOT / "static" / "fonts", out / "fonts")
+    shutil.copytree(PKG_ROOT / "static" / "brand", out / "brand")
     (out / ".nojekyll").write_text("")
     return out
