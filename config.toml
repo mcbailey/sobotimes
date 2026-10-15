@@ -84,5 +84,5 @@ redo_outdated_summaries = true
 title = "Southborough This Week"
 description = "Plain-English summaries of Southborough's public meetings, organized by week, with links to the moment each topic comes up on video."
 # Public URL of the site, used for the Atom feed. Leave blank to use relative links.
-base_url = ""
+base_url = "https://southborough.info"
 max_weeks_on_index = 52
