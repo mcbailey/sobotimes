@@ -42,11 +42,11 @@ exclude_patterns = [
 ]
 
 [budget]
-# Paid tier (billing enabled with a spend cap): 50 hours of video a day while
+# Paid tier (billing enabled with a spend cap): 100 hours of video a day while
 # catching up. On the free tier, set this back to 420 (Google allows 8 hours).
-daily_video_minutes = 3000
+daily_video_minutes = 6000
 # Hard cap on videos summarized in one run.
-max_videos_per_run = 20
+max_videos_per_run = 60
 # Videos longer than this are flagged instead of summarized.
 max_video_minutes = 300
 # Assumed length when the duration is unknown (RSS-only discovery).
@@ -54,12 +54,12 @@ assumed_video_minutes = 150
 # A video that fails this many times is marked failed and left alone.
 max_attempts = 2
 # Stop starting new videos after this many minutes in a single run.
-run_time_limit_minutes = 120
+run_time_limit_minutes = 150
 # Weekly synopses, issue linking and monthly roll-ups are cheap text-only
 # calls, but cap them anyway.
-max_week_summaries_per_run = 8
-max_link_weeks_per_run = 12
-max_month_summaries_per_run = 4
+max_week_summaries_per_run = 30
+max_link_weeks_per_run = 30
+max_month_summaries_per_run = 8
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
