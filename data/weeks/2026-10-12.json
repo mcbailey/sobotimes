@@ -1,0 +1,67 @@
+{
+  "synopsis": "During the week of October 12, 2026, town boards prepared for Special Town Meeting and reviewed environmental and health measures. The Golf Committee finalized its strategy to advocate for Community Preservation Act and revolving funds to complete a course irrigation project, while also voting to authorize funds for environmental certification consulting. The Board of Health approved a septic variance contingent on Conservation Commission review to allow a residential conversion on Breakneck Hill Road. In addition, health officials received an update on seasonal flu vaccination clinics as supplies run low.",
+  "highlights": [
+    {
+      "title": "Irrigation funding strategy for Special Town Meeting",
+      "why": "The committee coordinated outreach for an article that extends $550,000 in past Community Preservation Act funds and requests roughly $350,000 in new CPA money plus $100,000 in revolving funds. Members decided against seeking floor amendments and agreed to present a united case.",
+      "body": "Golf Committee",
+      "importance": "high",
+      "video_id": "XB-8MuC8GBo",
+      "start_seconds": 574
+    },
+    {
+      "title": "Septic variance approved for Breakneck Hill Road conversion",
+      "why": "The board approved a variance allowing an 85-foot wetland setback and an upgraded treatment unit to support converting a commercial property into a four-bedroom home. The approval remains contingent on Conservation Commission review.",
+      "body": "Board of Health",
+      "importance": "medium",
+      "video_id": "BTBCj00PeQw",
+      "start_seconds": 142
+    },
+    {
+      "title": "Revolving funds authorized for golf course Audubon certification",
+      "why": "The committee voted to pay $500 in past dues and authorized up to $4,500 from its revolving account to make up a funding gap for an environmental certification consultant bid.",
+      "body": "Golf Committee",
+      "importance": "medium",
+      "video_id": "XB-8MuC8GBo",
+      "start_seconds": 15
+    },
+    {
+      "title": "Flu vaccination clinics approach final sessions",
+      "why": "Health staff reported that vaccine supplies are running low after three weeks of clinics. Remaining sessions are scheduled for schools, daycares, and town public safety staff.",
+      "body": "Board of Health",
+      "importance": "medium",
+      "video_id": "BTBCj00PeQw",
+      "start_seconds": 78
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Special Town Meeting, including an article on golf course irrigation funding",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": "Special Town Meeting"
+    },
+    {
+      "what": "Special meeting to vote on the department operating budget",
+      "when": "October 20, 2026 at 10:00 AM",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Next regular Golf Committee meeting",
+      "when": "November 10, 2026",
+      "body": "Golf Committee"
+    },
+    {
+      "what": "Regular Board of Health meeting",
+      "when": "November 17, 2026 at 11:00 AM",
+      "body": "Board of Health"
+    }
+  ],
+  "week": "2026-10-12",
+  "fingerprint": "f66d7d9284222d7e",
+  "video_ids": [
+    "BTBCj00PeQw",
+    "XB-8MuC8GBo"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T11:12:29Z"
+}

@@ -1,0 +1,117 @@
+{
+  "video": {
+    "id": "XB-8MuC8GBo",
+    "title": "Golf Committee 10/13/26",
+    "published_at": "2026-10-14T14:22:31Z",
+    "duration_s": 3154
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Golf Committee",
+    "meeting_date": "2026-10-13",
+    "headline": "The Golf Committee authorized up to $5,000 in revolving funds for Audubon certification and finalized its Town Meeting strategy for golf course irrigation funding.",
+    "summary": "The Golf Committee voted to fund Audubon International membership dues and authorized up to $4,500 from its revolving account to cover a consultant bid for golf course environmental certification. Members also prepared their presentation and advocacy plan for an upcoming Special Town Meeting article seeking additional Community Preservation Act funds for the course irrigation system. Committee members agreed not to pursue floor amendments to alter the article and arranged logistics for resident outreach and meeting attendance.",
+    "topics": [
+      {
+        "title": "Audubon certification dues and consultant funding",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The committee discussed bringing the golf course into good standing with Audubon International and hiring a consultant to complete the environmental certification process. A single proposal from Conservation Works came in at $18,400, which exceeds the existing Community Preservation Act allocation by approximately $4,500. The committee voted to pay past dues and authorize up to $4,500 from its revolving fund to make up the difference while seeking opportunities to negotiate the final scope.",
+        "key_details": [
+          "Membership dues of $500 are owed for the past year, with another $500 due in November.",
+          "Three firms were solicited for the Audubon certification scope; two declined and Conservation Works submitted a proposal of $18,400.",
+          "The proposal exceeded available CPA funds by approximately $4,500.",
+          "Committee members authorized up to $4,500 from the revolving fund to cover the balance."
+        ],
+        "outcome": "Approved $500 in dues and up to $4,500 from the revolving fund for consultant costs.",
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting preparation for irrigation funding article",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee coordinated plans for Special Town Meeting on October 17 regarding a warrant article that extends the sunset clause on $550,000 in previously allocated CPA funds and requests roughly $350,000 in new CPA funding, plus $100,000 from the revolving fund, to complete the golf course irrigation project. Members considered whether to ask the Community Preservation Committee to amend or split the article if it faces opposition, but agreed by consensus to keep the article intact and present a united case. The committee also organized informational flyers, poster displays, and resident testimonials.",
+        "key_details": [
+          "The warrant article addresses the expiration of $550,000 approved in 2024 and requests approximately $350,000 in additional CPA funding plus $100,000 from the revolving fund.",
+          "Town Moderator Paul Cimino informed committee members that projector slides would not be permitted for general floor speakers.",
+          "Members decided against asking the Community Preservation Committee to sponsor a fallback floor amendment.",
+          "The committee arranged to set up an informational table with flyers and posters outside the meeting hall.",
+          "Members planned to recruit golfers, league members, and long-time residents to speak in favor."
+        ],
+        "outcome": "Agreed to proceed with the warrant article as written without seeking floor amendments.",
+        "why_it_matters": "The outcome of the Town Meeting vote will determine whether the town proceeds with the full golf course irrigation system and whether previously appropriated CPA funds expire.",
+        "start_seconds": 574,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved meeting minutes with a minor spelling correction, set a tentative date for its next regular meeting in November, and adjourned.",
+        "key_details": [
+          "Prior meeting minutes were approved subject to a minor editorial change.",
+          "The next regular meeting was tentatively scheduled for November 10, 2026."
+        ],
+        "outcome": "Minutes approved and future meeting scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 2885,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve payment of $500 in annual Audubon dues from the revolving fund",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 494
+      },
+      {
+        "motion": "To allocate up to $4,500 from the revolving fund to cover the additional cost for the Audubon consultant",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 518
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Pre-Town Meeting Golf Committee gathering",
+        "when": "Saturday, October 17 at 9:30 AM"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "Saturday, October 17 at 10:00 AM"
+      },
+      {
+        "what": "Next regular Golf Committee meeting",
+        "when": "Tuesday, November 10"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T11:12:02Z",
+  "usage": {
+    "total_tokens": 123694,
+    "total_input_tokens": 121177,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 120486
+      },
+      {
+        "modality": "text",
+        "tokens": 691
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1294,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1223
+  }
+}

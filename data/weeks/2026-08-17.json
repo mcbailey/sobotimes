@@ -1,0 +1,48 @@
+{
+  "synopsis": "The Elementary School Building Committee met this week to evaluate design concepts and long-term planning options for the Neary Elementary School project. The committee instructed architects to drop central school district administration offices from future building designs to dedicate more square footage to classroom and educational needs. Members also dismissed a conceptual 10-year phased capital repair schedule, determining that a decade of ongoing construction would repeatedly disrupt students without delivering modern learning spaces. Additionally, the committee agreed to migrate project archives to the municipal website after the previous project website lapsed.",
+  "highlights": [
+    {
+      "title": "Central district offices dropped from Neary building design",
+      "why": "The committee reviewed an addition and renovation concept and instructed architects to remove central school district administration offices to keep the building focused on grades 4 and 5 educational needs.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "In0K8NmFMco",
+      "start_seconds": 406
+    },
+    {
+      "title": "Committee dismisses 10-year phased repair plan",
+      "why": "Members rejected a proposed decade-long capital repair schedule because of the continuous disruption it would cause students, though they asked for high-level cost estimates to show Town Meeting why it is not viable.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "In0K8NmFMco",
+      "start_seconds": 1920
+    },
+    {
+      "title": "Project archives moving to official town website",
+      "why": "Following the expiration of the standalone project website, the committee agreed to work with town staff to post project documents on the municipal site and discussed future coordination with other town boards.",
+      "body": "Elementary School Building Committee",
+      "importance": "medium",
+      "video_id": "In0K8NmFMco",
+      "start_seconds": 5285
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Review of updated design schemes without central administration",
+      "when": "September 3, 2024",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Review of preliminary cost estimates",
+      "when": "September 24, 2024",
+      "body": "Elementary School Building Committee"
+    }
+  ],
+  "week": "2026-08-17",
+  "fingerprint": "8170c99eaa8373d9",
+  "video_ids": [
+    "In0K8NmFMco"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-15T11:12:56Z"
+}

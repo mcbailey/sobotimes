@@ -450,13 +450,16 @@
       "published_at": "2026-10-14T14:28:19Z",
       "duration_s": 1280,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-14T15:58:35Z",
       "meeting_date": "2026-10-13",
-      "week": "2026-10-12"
+      "week": "2026-10-12",
+      "processed_at": "2026-10-15T11:11:13Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     },
     "XB-8MuC8GBo": {
       "id": "XB-8MuC8GBo",
@@ -465,13 +468,50 @@
       "published_at": "2026-10-14T14:22:31Z",
       "duration_s": 3154,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-14T15:58:35Z",
       "meeting_date": "2026-10-13",
-      "week": "2026-10-12"
+      "week": "2026-10-12",
+      "processed_at": "2026-10-15T11:12:02Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
+    },
+    "VZd0rZYyRHI": {
+      "id": "VZd0rZYyRHI",
+      "title": "Tricentennial Committee 10/14/26",
+      "description": "",
+      "published_at": "2026-10-14T22:35:09Z",
+      "duration_s": 8855,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 1,
+      "discovered_at": "2026-10-15T11:08:47Z",
+      "meeting_date": "2026-10-14",
+      "week": "2026-10-12",
+      "last_error": "static processing: 403: There was a problem processing your request. You will not be charged."
+    },
+    "In0K8NmFMco": {
+      "id": "In0K8NmFMco",
+      "title": "Elementary School Building Committee 8/19/26",
+      "description": "",
+      "published_at": "2026-10-14T18:49:59Z",
+      "duration_s": 7164,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-15T11:08:47Z",
+      "meeting_date": "2026-08-19",
+      "week": "2026-08-17",
+      "processed_at": "2026-10-15T11:10:23Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     }
   },
   "usage": {
@@ -490,13 +530,21 @@
       "output_tokens": 54742,
       "thought_tokens": 58932,
       "tool_use_tokens": 0
+    },
+    "2026-10-15": {
+      "video_minutes": 193,
+      "calls": 5,
+      "input_tokens": 449226,
+      "output_tokens": 5360,
+      "thought_tokens": 7260,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-14T15:58:34Z",
-    "discovered": 27,
-    "summarized": 0,
+    "at": "2026-10-15T11:08:46Z",
+    "discovered": 28,
+    "summarized": 3,
     "refreshed": 0,
-    "errors": 0
+    "errors": 1
   }
 }

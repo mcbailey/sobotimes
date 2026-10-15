@@ -1,0 +1,120 @@
+{
+  "video": {
+    "id": "In0K8NmFMco",
+    "title": "Elementary School Building Committee 8/19/26",
+    "published_at": "2026-10-14T18:49:59Z",
+    "duration_s": 7164
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-08-19",
+    "headline": "The committee decided to drop central district offices from Neary Elementary renovation designs and rejected a 10-year phased repair approach.",
+    "summary": "Tappe Architects presented updated design concepts for the Neary Elementary School project, including an addition with a new gymnasium and auditorium stage, along with a theoretical 10-year phased maintenance schedule. Committee members firmly rejected the 10-year piecemeal repair model, citing constant disruption to students and a failure to meet modern educational goals. The committee also decided to remove central district administration offices from the building's scope to prioritize educational space, and discussed restoring a dedicated project website to improve public communication.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting and reviewed and approved minutes from several previous sessions.",
+        "key_details": [
+          "Approved meeting minutes from April 8, April 13, April 15, June 17, and July 8."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 1,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary addition and renovation Option 4 review",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Tappe Architects presented Option 4, an addition and renovation concept featuring a new 13,000-square-foot gymnasium and stage to the east of the building, plus an expanded front entryway. The committee reviewed classroom space allocations and debated whether the central school district administration offices should remain housed at Neary or be removed from the project scope.",
+        "key_details": [
+          "Option 4 includes an approximately 13,000-square-foot gym addition with bleachers and stage seating up to 400 people.",
+          "Existing gross building area is approximately 62,150 square feet with about 47,000 square feet of net usable space.",
+          "Members voiced concerns about traffic congestion at the entrance and student privacy regarding the counseling offices situated near the main foyer.",
+          "School leadership indicated that retaining the central office would require more space than currently available, which would detract from educational space.",
+          "The committee directed architects to drop central district offices from the building design to keep focus entirely on grades 4 and 5 educational needs."
+        ],
+        "outcome": "The committee instructed architects to remove central administration offices from future building design iterations.",
+        "why_it_matters": "Removing district administration offices frees up substantial square footage for elementary instruction but means the town must address housing central school administration elsewhere.",
+        "start_seconds": 406,
+        "end_seconds": null
+      },
+      {
+        "title": "Evaluation of 10-year phased maintenance plan",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Architects presented a conceptual 10-year phased capital repair schedule (2028-2037) outlining the work required to maintain code compliance and system functionality without major educational restructuring. Committee members broadly rejected the concept, arguing that spanning construction over a decade would severely disrupt elementary students and waste resources without improving learning environments.",
+        "key_details": [
+          "The phased plan outlined immediate work in year one including roof replacement, window seals, fire alarms, and basic accessibility improvements.",
+          "Later phases across years 3 through 9 covered electrical, emergency power, fire suppression sprinklers, boilers, ventilation, and asbestos abatement.",
+          "Members pointed out that phased piecemeal construction is inefficient, requires temporary modular classrooms, and repeatedly tears into walls and ceilings.",
+          "The committee agreed not to pursue the phased approach but asked architects for high-level numbers simply to demonstrate to Town Meeting why it is not a viable alternative."
+        ],
+        "outcome": "The 10-year phased renovation plan was effectively dismissed from consideration as an active project option.",
+        "why_it_matters": "A piecemeal 10-year repair schedule would keep Neary in continuous construction while failing to provide modern educational upgrades.",
+        "start_seconds": 1920,
+        "end_seconds": null
+      },
+      {
+        "title": "Public outreach and inter-board coordination",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed communication shortcomings, noting that the prior building committee website had lapsed and town residents lack an accessible repository for project documents. The committee also debated the timing of outreach to other town bodies such as the Recreation Commission, Conservation Commission, and Planning Board.",
+        "key_details": [
+          "The committee learned the previous standalone Neary project website lapsed because its hosting license expired.",
+          "All historical project documents are backed up and will be migrated to the official town website.",
+          "A member urged early collaboration with boards like Recreation and Conservation to build community consensus before Town Meeting.",
+          "Other members noted that site plans must be narrowed down further before detailed consultations with regulatory boards can occur."
+        ],
+        "outcome": "The committee agreed to work with town staff to post all project archives on the municipal website.",
+        "why_it_matters": null,
+        "start_seconds": 5285,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident who also serves as the Recreation Commission chair spoke in favor of early communication, urging the committee to consult the Recreation Commission regarding gym designs, indoor space needs, and field impacts rather than making assumptions.",
+        "start_seconds": 6737
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Elementary School Building Committee meeting to review updated design schemes without central administration",
+        "when": "September 3, 2024"
+      },
+      {
+        "what": "Elementary School Building Committee meeting to review preliminary cost estimates",
+        "when": "September 24, 2024"
+      }
+    ],
+    "caveats": "The slide deck in the presentation and the meeting announcement displayed the year 2026, but the recording timestamp confirms the meeting occurred on August 19, 2024."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T11:10:23Z",
+  "usage": {
+    "total_tokens": 278088,
+    "total_input_tokens": 274367,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 695
+      },
+      {
+        "modality": "video",
+        "tokens": 273672
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1449,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2272
+  }
+}

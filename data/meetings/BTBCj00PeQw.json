@@ -1,0 +1,124 @@
+{
+  "video": {
+    "id": "BTBCj00PeQw",
+    "title": "Board of Health 10/13/26",
+    "published_at": "2026-10-14T14:28:19Z",
+    "duration_s": 1280
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-10-13",
+    "headline": "The Board of Health approved a septic variance for 66 Breakneck Hill Road to support a commercial-to-residential conversion.",
+    "summary": "The Board of Health met on October 13, 2026, and approved a septic variance for a residential conversion at 66 Breakneck Hill Road, contingent upon Conservation Commission review. Staff shared updates on successful ongoing seasonal flu vaccination clinics across schools and town departments. The board also set upcoming meeting dates and scheduled a follow-up meeting to review the department operating budget after a posting delay.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved the meeting minutes from September 15, 2026.",
+        "key_details": [
+          "Minutes from September 15, 2026 approved without edits."
+        ],
+        "outcome": "Approved.",
+        "why_it_matters": null,
+        "start_seconds": 36,
+        "end_seconds": null
+      },
+      {
+        "title": "Flu clinic updates",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff reported on the progress of local influenza vaccination clinics. After three weeks of clinics, supplies are running low, with final sessions scheduled for schools, daycares, and town public safety personnel.",
+        "key_details": [
+          "Three weeks of successful flu clinics completed.",
+          "Remaining clinics planned for two schools and two daycares.",
+          "Vaccinations underway for police and fire department shifts."
+        ],
+        "outcome": "Information only; clinics will continue as scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 78,
+        "end_seconds": null
+      },
+      {
+        "title": "Septic variance for 66 Breakneck Hill Road",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The board reviewed a variance request for 66 Breakneck Hill Road to upgrade and expand a septic system from 330 gallons per day to 440 gallons per day as part of converting the property from commercial to residential use. The applicant proposed an 85-foot setback from bordering wetlands where 100 feet is standard, representing an improvement over the existing 79-foot setback. The board voted to approve the variance with an upgraded nitrogen-reducing treatment unit, contingent on Conservation Commission approval.",
+        "key_details": [
+          "Property is converting from commercial use to a four-bedroom single-family residence.",
+          "System capacity increases from 330 gallons per day to 440 gallons per day.",
+          "Requested wetland setback variance of 85 feet instead of 100 feet, which moves the leach field further from the wetland than the existing 79-foot setback.",
+          "Project adds an extra foot of groundwater separation, increasing from 4 feet to 5 feet.",
+          "A Singulair 960 DN nitrogen-reducing treatment tank will replace the standard septic tank."
+        ],
+        "outcome": "Approved unanimously, contingent on Conservation Commission review.",
+        "why_it_matters": null,
+        "start_seconds": 142,
+        "end_seconds": null
+      },
+      {
+        "title": "Future meeting schedule and budget discussion",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Staff noted that the department budget item was not posted in time for this agenda and needed to be rescheduled. Board members coordinated their availability for a short budget meeting and finalized their late autumn meeting dates.",
+        "key_details": [
+          "Budget vote meeting set for Tuesday, October 20 at 10:00 AM.",
+          "November regular meeting set for November 17 at 11:00 AM.",
+          "December regular meeting set for December 15 at 9:30 AM."
+        ],
+        "outcome": "Future meeting dates agreed upon.",
+        "why_it_matters": null,
+        "start_seconds": 977,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the septic variance request for 66 Breakneck Hill Road contingent upon Conservation Commission approval, with authorization for the health agent or inspector to sign off.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 958
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special Board of Health meeting to vote on the department budget",
+        "when": "October 20, 2026 at 10:00 AM"
+      },
+      {
+        "what": "Regular Board of Health meeting",
+        "when": "November 17, 2026 at 11:00 AM"
+      },
+      {
+        "what": "Regular Board of Health meeting",
+        "when": "December 15, 2026 at 9:30 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T11:11:13Z",
+  "usage": {
+    "total_tokens": 52094,
+    "total_input_tokens": 49588,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 48896
+      },
+      {
+        "modality": "text",
+        "tokens": 692
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1227,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1279
+  }
+}
