@@ -84,6 +84,8 @@ class GeminiConfig:
     thinking_level: str = "medium"
     meeting_max_output_tokens: int = 16000
     week_max_output_tokens: int = 6000
+    link_max_output_tokens: int = 32000
+    month_max_output_tokens: int = 16000
     call_timeout_minutes: int = 20
     api_revision: str = ""
     redo_outdated_summaries: bool = True

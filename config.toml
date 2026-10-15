@@ -76,9 +76,12 @@ video_processing = "static"
 fallback_to_static = true
 static_fps = 0.2                      # frames per second in static mode; audio is always used
 thinking_level = "medium"             # low | medium | high, or "" for the model default
-# Output caps include the model's thinking, which agentic video navigation uses.
+# Output caps include the model's thinking (agentic video navigation and issue
+# linking both think a lot). A call that hits its cap comes back incomplete.
 meeting_max_output_tokens = 32000
 week_max_output_tokens = 6000
+link_max_output_tokens = 32000
+month_max_output_tokens = 16000
 call_timeout_minutes = 20
 # Optional: pin the Interactions API revision (for example "2026-05-20").
 api_revision = ""

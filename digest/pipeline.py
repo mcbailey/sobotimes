@@ -529,7 +529,7 @@ class Pipeline:
             try:
                 used_model, result = self._text_call(
                     state, prompts.link_prompt(label, meetings, issues), prompts.link_system(cfg.channel.town),
-                    prompts.LINK_SCHEMA, cfg.gemini.week_max_output_tokens * 2,
+                    prompts.LINK_SCHEMA, cfg.gemini.link_max_output_tokens,
                 )
                 links = prompts.clean_links(result.json(), meetings, issues)
             except TryLater as e:
@@ -590,7 +590,7 @@ class Pipeline:
                 used_model, result = self._text_call(
                     state, prompts.month_prompt(label, meetings, issues, topic_issue),
                     prompts.month_system(cfg.channel.town), prompts.MONTH_SCHEMA,
-                    cfg.gemini.week_max_output_tokens,
+                    cfg.gemini.month_max_output_tokens,
                 )
                 month_obj = prompts.clean_month(result.json(), meetings, issues)
             except TryLater as e:
