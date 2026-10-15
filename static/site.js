@@ -41,6 +41,7 @@
       history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash);
     }
     form.addEventListener("input", apply);
+    form.addEventListener("change", apply);  // older mobile Safari fires only change on <select>
     form.addEventListener("submit", function (e) { e.preventDefault(); apply(); });
     apply();
   });

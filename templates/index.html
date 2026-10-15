@@ -4,6 +4,8 @@
 {% block page_class %} is-wide{% endblock %}
 {% block header %}
 <header class="masthead">
+<div class="masthead-grid">
+<div class="masthead-main">
   <h1 class="site-title">
     <a href="{{ root }}" class="logo-link">
       <picture>
@@ -18,6 +20,16 @@
     <input id="hero-q" type="search" name="q" placeholder="Search every meeting: a street, a project, a board…">
     <button type="submit">Search</button>
   </form>
+</div>
+{% if big_event %}
+<a class="big-event" href="{{ root }}calendar/">
+  <span class="big-event-label">Next big date</span>
+  <span class="big-event-when">{{ big_event.day_long }}</span>
+  <span class="big-event-what">{{ big_event.what }}</span>
+  <span class="big-event-more">Full calendar →</span>
+</a>
+{% endif %}
+</div>
 </header>
 {% endblock %}
 
@@ -29,12 +41,6 @@
 </section>
 {% else %}
 
-{% if big_event %}
-<a class="big-event" href="{{ root }}calendar/">
-  <span class="big-event-when">{{ big_event.day_long }}</span>
-  <span class="big-event-what">{{ big_event.what }}</span>
-</a>
-{% endif %}
 
 <div class="home-grid">
   <section class="home-block home-ahead" aria-labelledby="h-ahead">
