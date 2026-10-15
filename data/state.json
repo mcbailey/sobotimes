@@ -484,16 +484,18 @@
       "title": "Tricentennial Committee 10/14/26",
       "description": "",
       "published_at": "2026-10-14T22:35:09Z",
-      "duration_s": 8855,
+      "duration_s": 8848,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 1,
       "discovered_at": "2026-10-15T11:08:47Z",
       "meeting_date": "2026-10-14",
       "week": "2026-10-12",
-      "last_error": "static processing: 403: There was a problem processing your request. You will not be charged."
+      "last_error": null,
+      "processed_at": "2026-10-15T15:47:46Z",
+      "prompt_version": "2026-10-13b"
     },
     "In0K8NmFMco": {
       "id": "In0K8NmFMco",
@@ -532,19 +534,19 @@
       "tool_use_tokens": 0
     },
     "2026-10-15": {
-      "video_minutes": 193,
-      "calls": 5,
-      "input_tokens": 449226,
-      "output_tokens": 5360,
-      "thought_tokens": 7260,
+      "video_minutes": 340,
+      "calls": 7,
+      "input_tokens": 792865,
+      "output_tokens": 9128,
+      "thought_tokens": 12823,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-15T11:08:46Z",
-    "discovered": 28,
-    "summarized": 3,
+    "at": "2026-10-15T15:45:30Z",
+    "discovered": 25,
+    "summarized": 1,
     "refreshed": 0,
-    "errors": 1
+    "errors": 0
   }
 }
