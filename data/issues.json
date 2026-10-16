@@ -8,8 +8,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-07-13",
       "last_seen": "2026-09-16",
-      "status": "The Zoning Board of Appeals voted 5-0 to approve a frontage variance allowing an MWRA easement to serve two residential lots on a common driveway and accepted the withdrawal of the companion special permit.",
-      "status_as_of": "2026-09-16"
+      "status": "The Zoning Board of Appeals approved a 15-foot frontage variance on September 16, 2026, allowing two proposed residential lots to access Northborough Road via an existing MWRA right-of-way, and accepted the withdrawal of the companion special permit application. Town counsel advised that the board had authority to grant frontage relief but could not override subdivision control or create lots. The project will still require subdivision approval from the Planning Board before the land can be divided.",
+      "status_as_of": "2026-09-16",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 5-0 on Sep 16 to grant the frontage variance and accepted the withdrawal of the special permit."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "A speaker related to the applicant supported the variance, citing a past town approval allowing development access across water department property."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "831bccad4fb2383f",
+      "status_model": "gemini-3.8-flash"
     },
     "0-southville-road": {
       "id": "0-southville-road",
@@ -18,8 +33,18 @@
       "category": "Housing",
       "first_seen": "2026-04-27",
       "last_seen": "2026-10-08",
-      "status": "The Conservation Commission voted 4-0 to continue the Notice of Intent and stormwater management permit hearing for two apartment buildings to a future session.",
-      "status_as_of": "2026-10-08"
+      "status": "The proposed construction of two apartment buildings at 0 Southville Road remains under review by the Conservation Commission. On October 8, 2026, the commission voted to continue the public hearing on the Notice of Intent and stormwater management permit application at the applicant's request. The applicant previously sought continuances to revise site plans in response to peer review feedback.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "undecided",
+          "detail": "Has not taken a position on the application, voting 4-0 on October 8 to continue the hearing at the applicant's request."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "1c2472feef504639",
+      "status_model": "gemini-3.8-flash"
     },
     "0-valley-road-trail": {
       "id": "0-valley-road-trail",
@@ -28,8 +53,23 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-22",
       "last_seen": "2026-07-29",
-      "status": "The Conservation Commission voted 4-0 to close the public hearing and 3-0-1 to issue an Order of Conditions with special conditions for the footbridge and trail project on Southborough Open Land Foundation property.",
-      "status_as_of": "2026-07-29"
+      "status": "The Conservation Commission approved the Order of Conditions for the 0 Valley Road boardwalk and trail system in July 2026. While abutters raised objections over traffic, parking, trespassing, and wildlife disturbance, the commission found the Eagle Scout project complied with wetland protection standards. With the standard appeal period concluded, the project is permitted to move forward with construction.",
+      "status_as_of": "2026-07-29",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 3-0-1 on July 29, 2026, to issue an Order of Conditions permitting the boardwalk and trail project."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "The Southborough Open Land Foundation supported the project for passive recreation, while Valley Road abutters opposed it citing on-street parking, traffic, trespassing, and environmental impacts."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d0be829b76eed2dd",
+      "status_model": "gemini-3.8-flash"
     },
     "1-overlook-drive-pool": {
       "id": "1-overlook-drive-pool",
@@ -38,8 +78,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-09-14",
       "last_seen": "2026-10-08",
-      "status": "The Conservation Commission voted 4-0 to close the public hearing and approve an Order of Conditions with special conditions for the pool, cabana, and patio project at 1 Overlook Drive.",
-      "status_as_of": "2026-10-08"
+      "status": "The Conservation Commission approved the project on October 8, 2026, closing the public hearing and issuing an order of conditions. Approval requires the perpetual maintenance of eight native mitigation shrubs and a pre-construction site inspection to review machinery access near the 20-foot buffer. With conditions set, work can proceed once the pre-construction access review is completed.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 4-0 on October 8, 2026, to approve an order of conditions requiring native plantings and equipment access protections."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b23c65ebb1dc6489",
+      "status_model": "gemini-3.8-flash"
     },
     "104-boston-road-water-appeal": {
       "id": "104-boston-road-water-appeal",
@@ -48,8 +98,23 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-15",
-      "status": "The Select Board voted 4-0-1 acting as Water Commissioners to grant a partial bill abatement for 104 Boston Road, reducing a $2,872 underground leak bill to $1,100.",
-      "status_as_of": "2026-09-15"
+      "status": "The water bill appeal has been resolved. Acting as the Water Commissioners, the Select Board voted on September 15, 2026, to grant a partial abatement, reducing the $2,872.03 bill caused by an underground leak down to $1,100. No further action on the matter is pending.",
+      "status_as_of": "2026-09-15",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-0-1 on Sep 15 to grant a partial abatement, setting the final bill at $1,100 to cover wholesale water costs and typical usage."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "A resident urged granting full bill relief in light of the farm's historic presence in town and called for accelerated installation of smart meters."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b78e983515f02bc6",
+      "status_model": "gemini-3.8-flash"
     },
     "14-newton-street": {
       "id": "14-newton-street",
@@ -58,8 +123,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-06-22",
       "last_seen": "2026-08-11",
-      "status": "The Board of Health voted 2-1 to approve setback variances to replace a failed septic system and accommodate an accessory dwelling unit.",
-      "status_as_of": "2026-08-11"
+      "status": "The proposed garage, accessory dwelling unit, and replacement septic system have received the necessary local regulatory approvals. The Conservation Commission approved an Order of Conditions in July 2026 following revisions to the roof-runoff infiltration plan. In August 2026, the Board of Health granted the required setback variances to accommodate expanded system flow despite concerns from the chair about expanding on a constrained lot.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 3-0-1 on July 29, 2026, to issue an Order of Conditions after the applicant revised stormwater drywell plans."
+        },
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted 2-1 on August 11, 2026, to approve septic setback variances, with the chair dissenting over permitting an expansion on a constrained site."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "9bd7803ef95e8a9b",
+      "status_model": "gemini-3.8-flash"
     },
     "154-turnpike-road": {
       "id": "154-turnpike-road",
@@ -68,8 +148,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-04-27",
       "last_seen": "2026-09-28",
-      "status": "The Planning Board voted 4-0 to continue the site plan modification hearing to October 19, 2026, without testimony and voted 4-0 to extend its statutory action deadline to October 23, 2026.",
-      "status_as_of": "2026-09-28"
+      "status": "The Planning Board is reviewing proposed site plan modifications to address site lighting and landscaping non-compliance at 154 Turnpike Road. The applicant has submitted updated fixtures and lighting dimmer plans to satisfy calculations, subject to board inspection. A draft decision is being prepared ahead of an extended statutory action deadline of October 23, 2026.",
+      "status_as_of": "2026-09-28",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Reviewing lighting and landscaping remedies, with members conducting site inspections before reviewing a draft decision."
+        }
+      ],
+      "next": "Planning Board public hearing on October 19, 2026",
+      "status_fingerprint": "5dc664ee2529aa64",
+      "status_model": "gemini-3.8-flash"
     },
     "170-woodland-road-coc": {
       "id": "170-woodland-road-coc",
@@ -78,8 +168,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-04-27",
       "last_seen": "2026-06-04",
-      "status": "The Conservation Commission voted 4-0 to issue a Certificate of Compliance for DEP #290-1129 at 170 Woodland Road.",
-      "status_as_of": "2026-06-04"
+      "status": "The Certificate of Compliance for residential work at 170 Woodland Road has been approved. The Conservation Commission voted 4-0 on June 4, 2026, to issue the certificate following confirmation that required mitigation plantings were healthy. The matter is now concluded.",
+      "status_as_of": "2026-06-04",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 4-0 on June 4, 2026, to issue the Certificate of Compliance after the conservation agent confirmed required plantings were in good condition."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "e49073919dc9f5b0",
+      "status_model": "gemini-3.8-flash"
     },
     "200-turnpike-road": {
       "id": "200-turnpike-road",
@@ -88,8 +188,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-06-01",
       "last_seen": "2026-06-22",
-      "status": "The Planning Board voted 5-0 to accept a surety agreement backed by a $30,000 bond for landscaping and recommended the issuance of a permanent certificate of occupancy.",
-      "status_as_of": "2026-06-22"
+      "status": "The Planning Board has recommended approval of a full certificate of occupancy for 200 Turnpike Road after accepting a $30,000 surety agreement to cover outstanding landscaping and slope stabilization. The applicant was required to replace plantings and stabilize an eroded embankment slope by October 1, 2026. A one-year look-back inspection will occur in fall 2027 to confirm plant survival and slope stability before the bond is released.",
+      "status_as_of": "2026-06-22",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 22 to accept the $30,000 surety agreement and recommend a full certificate of occupancy."
+        }
+      ],
+      "next": "Follow-up inspection for plant survival and slope stability on October 1, 2027",
+      "status_fingerprint": "62a1a7f5c6c0c776",
+      "status_model": "gemini-3.8-flash"
     },
     "2030-master-plan-update": {
       "id": "2030-master-plan-update",
@@ -98,8 +208,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-07",
       "last_seen": "2026-10-08",
-      "status": "The Master Plan Implementation Committee finalized recommendations urging the Planning Board to take ownership of the 2030 Master Plan and establish a dedicated committee in 2027, ahead of a joint meeting scheduled for October 19, 2026.",
-      "status_as_of": "2026-10-08"
+      "status": "Preparations for Southborough's 2030 Master Plan update are in the early planning stages. The Master Plan Implementation Committee is recommending a hybrid approach pairing town volunteers with a professional consultant, funded through state grants or a Town Meeting warrant article. The Planning Board is weighing the framework and considering whether to establish a dedicated 2030 committee in 2027. The two boards are scheduled to meet jointly on October 19, 2026, to review consultant cost estimates and the overall strategy.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Master Plan Implementation Committee",
+          "stance": "support",
+          "detail": "Recommends forming a dedicated Master Plan 2030 committee in 2027 and hiring a planning consultant under a hybrid model funded by grants or a Town Meeting article."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Has reviewed the hybrid consultant proposal and potential funding sources, deferring formal decisions until a joint meeting with the implementation committee."
+        }
+      ],
+      "next": "Joint meeting of the Planning Board and Master Plan Implementation Committee on October 19, 2026.",
+      "status_fingerprint": "cfa461b7a0e2e80a",
+      "status_model": "gemini-3.8-flash"
     },
     "21-coslin-drive-costco": {
       "id": "21-coslin-drive-costco",
@@ -108,8 +233,28 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "status": "Costco Wholesale presented initial site, grading, traffic, and stormwater plans for a proposed 167,000-square-foot warehouse and 30-position fueling station, drawing resident traffic concerns. The Planning Board voted 4-0 to continue the public hearing to October 19, 2026.",
-      "status_as_of": "2026-09-28"
+      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position fueling station at 21 Coslin Drive is currently under major site plan and special permit review before the Planning Board. The Zoning Board of Appeals granted variances for retaining walls and taller light poles in July, but the broader site development remains pending. Key open issues include Route 9 traffic congestion, neighborhood cut-through traffic on Flagg Road, truck turnarounds at Route 85, and state environmental reviews. The Planning Board will resume its public hearing on October 19, 2026.",
+      "status_as_of": "2026-09-28",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Currently reviewing the major site plan and special permit applications, with a town traffic peer review report pending."
+        },
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 15 to approve variances for retaining walls up to 31 feet high and light poles up to 36.5 feet."
+        },
+        {
+          "body": "Public comment",
+          "stance": "oppose",
+          "detail": "Residents raised concerns about Route 9 traffic congestion, cut-through traffic on Flagg and Southville roads, truck turning hazards at Route 85, and vehicle emissions."
+        }
+      ],
+      "next": "Planning Board public hearing on October 19, 2026 at 7:00 PM.",
+      "status_fingerprint": "46c9715487fab309",
+      "status_model": "gemini-3.8-flash"
     },
     "21-highland-street-use": {
       "id": "21-highland-street-use",
@@ -118,8 +263,18 @@
       "category": "Buildings & facilities",
       "first_seen": "2026-06-29",
       "last_seen": "2026-09-17",
-      "status": "The Recreation Commission continues evaluating whether to relocate its offices and expand programming at 21 Highland Street once Youth and Family Services transitions to Flagg School.",
-      "status_as_of": "2026-09-17"
+      "status": "The Recreation Commission is planning to expand its use of 21 Highland Street for after-school programming and civic meetings as Youth and Family Services prepares to relocate. The department expects space to open up when Youth and Family Services completes its move to the Flagg School in late October. The building's long-term municipal future remains an open question following earlier Select Board discussions about a potential sale of the property.",
+      "status_as_of": "2026-09-17",
+      "positions": [
+        {
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Supports utilizing vacated office space at 21 Highland Street for recreation programs and shared civic meeting space."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b81f22ac90d8d1bf",
+      "status_model": "gemini-3.8-flash"
     },
     "22-newton-street-variance": {
       "id": "22-newton-street-variance",
@@ -128,8 +283,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-05-04",
       "last_seen": "2026-06-10",
-      "status": "The Zoning Board of Appeals voted 5-0 to approve the applicant's request to withdraw the garage variance application without prejudice.",
-      "status_as_of": "2026-06-10"
+      "status": "The variance application to construct a detached two-car garage at 22 Newton Street has been withdrawn. The Zoning Board of Appeals voted in June 2026 to grant the applicant's request to withdraw without prejudice following concerns regarding zero-foot side setbacks and blocked access for septic system maintenance. No further hearings are scheduled while the homeowner reconsiders design options.",
+      "status_as_of": "2026-06-10",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "neutral",
+          "detail": "Voted 5-0 on June 10, 2026, to allow the variance petition to be withdrawn without prejudice so the applicant can reconsider options."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "7c9681b5a1eaef33",
+      "status_model": "gemini-3.8-flash"
     },
     "22-turnpike-road": {
       "id": "22-turnpike-road",
@@ -138,8 +303,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-28",
-      "status": "The Planning Board voted 4-0 to continue the major site plan modification hearing to October 19, 2026, without testimony while a draft decision is finalized.",
-      "status_as_of": "2026-09-28"
+      "status": "The major site plan modification for the 22 Turnpike Road golf range is currently under review by the Planning Board while a draft decision is prepared. The Conservation Commission approved a negative determination of applicability for an equipment storage shed on the site in April. The Planning Board is scheduled to review the draft decision on October 19, 2026, ahead of its October 23 decision deadline.",
+      "status_as_of": "2026-09-28",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Continued the hearing to October 19 while a draft decision is finalized, with a decision deadline extended to October 23."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 5-0 on April 30 to approve a negative determination of applicability with standard conditions for a driving range storage shed outside the wetland buffer zone."
+        }
+      ],
+      "next": "Planning Board public hearing on October 19, 2026",
+      "status_fingerprint": "fab797a5e08d59ec",
+      "status_model": "gemini-3.8-flash"
     },
     "229-parkerville-road-coc": {
       "id": "229-parkerville-road-coc",
@@ -148,8 +328,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-05-11",
       "last_seen": "2026-06-04",
-      "status": "The Conservation Commission reached an agreement to keep an existing split-rail fence in place while requiring removal of trellises in the buffer zone, deferring final action on the Certificate of Compliance until a fall site visit.",
-      "status_as_of": "2026-06-04"
+      "status": "The Certificate of Compliance remains pending a final inspection following an agreement reached between the property owner and the Conservation Commission. Under the agreement, an existing split-rail fence may remain as the permanent boundary line, while gardening trellises extending into the 20-foot buffer zone must be removed to allow the area to revegetate. The conservation agent must conduct a follow-up site visit before the certificate is officially issued.",
+      "status_as_of": "2026-06-04",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Agreed to allow the existing split-rail fence to remain and to issue the certificate once a site visit confirms trellises beyond the fence have been dismantled."
+        }
+      ],
+      "next": "Conservation agent follow-up site visit in fall 2026.",
+      "status_fingerprint": "9e9ee4df04f3ef3d",
+      "status_model": "gemini-3.8-flash"
     },
     "250-turnpike-road": {
       "id": "250-turnpike-road",
@@ -158,8 +348,33 @@
       "category": "Housing",
       "first_seen": "2026-04-27",
       "last_seen": "2026-10-08",
-      "status": "The Conservation Commission voted 4-0 to continue the Notice of Intent hearing for the 32-unit rental townhouse development while peer review by Lucas Environmental is completed.",
-      "status_as_of": "2026-10-08"
+      "status": "The Zoning Board of Appeals unanimously approved the Chapter 40B comprehensive permit for the proposed 32-unit rental townhouse development in May 2026. The project remains before the Conservation Commission, which continued its Notice of Intent hearing on October 8 pending a peer review report from Lucas Environmental. Site wastewater plans also advanced in September when the Board of Health approved a septic variance for the property.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted unanimously on May 6, 2026, to approve the comprehensive permit conditions and waivers for the 32-unit townhouse project."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "undecided",
+          "detail": "Continued the Notice of Intent hearing on Oct 8, 2026, while awaiting a completed peer review from Lucas Environmental."
+        },
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted 2-1 on Sep 15, 2026, to grant a 6-foot foundation setback variance for a septic pump chamber on the property."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 22, 2026, to recommend a 90-day extension of the temporary certificate of occupancy for the site's storage facility."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "be36193508b6a8a6",
+      "status_model": "gemini-3.8-flash"
     },
     "34-turnpike-road-special-permit": {
       "id": "34-turnpike-road-special-permit",
@@ -168,8 +383,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-05-04",
       "last_seen": "2026-06-10",
-      "status": "The Zoning Board of Appeals voted 5-0 to approve 1.3 feet of side setback relief on the condition that the Board of Health certifies the property's septic capacity.",
-      "status_as_of": "2026-06-10"
+      "status": "The Zoning Board of Appeals conditionally approved 1.3 feet of side setback relief for unpermitted construction at 34 Turnpike Road. The approval requires the contractor to cut back an unauthorized foundation bump-out at grade and is conditioned on Board of Health confirmation that the septic capacity accommodates the home's bedroom count. An abutting property owner objected to the expansion, questioning the structure's overall size and septic adequacy.",
+      "status_as_of": "2026-06-10",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 10, 2026, to approve the side setback relief subject to Board of Health certification of septic system capacity."
+        },
+        {
+          "body": "Public comment",
+          "stance": "oppose",
+          "detail": "A representative for an abutting owner opposed the expansion, citing lot history and dwelling size and urging zoning relief be delayed pending Board of Health review."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "ff6745046f0710cb",
+      "status_model": "gemini-3.8-flash"
     },
     "355-turnpike-road-coc": {
       "id": "355-turnpike-road-coc",
@@ -178,8 +408,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-08-24",
       "last_seen": "2026-09-17",
-      "status": "The Conservation Commission noted no new information regarding the Certificate of Compliance request for 355 Turnpike Road, leaving action tabled pending site cleanup and engineering clarifications.",
-      "status_as_of": "2026-09-17"
+      "status": "The request for a Certificate of Compliance at 355 Turnpike Road remains on hold before the Conservation Commission pending additional information. A site inspection identified unapproved asphalt paving, uncleaned catch basins with an oil sheen, and an uncleared stormwater outlet. The commission has tabled action until the applicant completes required cleanup, conducts stormwater maintenance, and provides engineering clarification.",
+      "status_as_of": "2026-09-17",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "undecided",
+          "detail": "Tabled the request pending required site cleanup, catch basin maintenance, and engineering clarification regarding unpermitted paving."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b2ea49c5c874b0c5",
+      "status_model": "gemini-3.8-flash"
     },
     "40-42-central-street": {
       "id": "40-42-central-street",
@@ -188,8 +428,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-04-27",
       "last_seen": "2026-09-16",
-      "status": "The Zoning Board of Appeals continued the hearing to October 21, 2026, while the applicant completes paving and inspection of required accessible parking spaces.",
-      "status_as_of": "2026-09-16"
+      "status": "Site plan compliance and occupancy permitting for 40-42 Central Street remain unresolved while the applicant completes required accessible parking paving and inspections. The Planning Board previously recommended revoking the site's temporary certificate of occupancy and held an executive session regarding threatened litigation from the owner, while outstanding compliance matters also remain before the building commissioner. The Zoning Board of Appeals is set to resume its hearing on an appeal of the occupancy denial on October 21, 2026.",
+      "status_as_of": "2026-09-16",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "oppose",
+          "detail": "Voted 4-1 on May 11 to recommend revoking the temporary certificate of occupancy and met in executive session in June to discuss threatened litigation from the property owner."
+        },
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "undecided",
+          "detail": "Has continued the appeal of the building commissioner's occupancy denial to October 21 while accessible parking is paved, inspected, and compliance issues are addressed."
+        }
+      ],
+      "next": "Zoning Board of Appeals continued public hearing on October 21, 2026.",
+      "status_fingerprint": "961efdeac5ba5bb2",
+      "status_model": "gemini-3.8-flash"
     },
     "55-plus-housing-bylaw": {
       "id": "55-plus-housing-bylaw",
@@ -198,8 +453,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
       "last_seen": "2026-09-23",
-      "status": "The Affordable Housing Trust continued drafting revisions to the 55-plus housing bylaw following consultations with planning staff and the Zoning Board of Appeals. A revised draft is scheduled for review in October 2026 before submission to town counsel ahead of Annual Town Meeting.",
-      "status_as_of": "2026-09-23"
+      "status": "The Affordable Housing Trust is actively drafting revisions to the town's 55-plus housing zoning bylaw. The proposed amendment would eliminate the townwide cap on senior housing units while establishing a mandatory 12.5 percent affordability requirement and considering minimum lot size standards. An updated draft incorporating public feedback is being prepared for town counsel review ahead of submission to Annual Town Meeting.",
+      "status_as_of": "2026-09-23",
+      "positions": [
+        {
+          "body": "Affordable Housing Trust",
+          "stance": "support",
+          "detail": "Drafting bylaw revisions to remove senior housing unit caps and mandate 12.5 percent affordability."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "df0c3e78baec944a",
+      "status_model": "gemini-3.8-flash"
     },
     "6-walker-street-variance": {
       "id": "6-walker-street-variance",
@@ -208,8 +473,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-15",
-      "status": "The Zoning Board of Appeals voted 4-0 to modify a 1965 variance restriction and grant a 6.5-foot side setback variance allowing a residential garage addition.",
-      "status_as_of": "2026-07-15"
+      "status": "The Zoning Board of Appeals unanimously approved the application to modify a 1965 variance condition and grant a 6.5-foot side setback variance for 6 Walker Street. The board approved the relief based on lot shape and septic constraints that made alternative garage siting impractical. No further board reviews or municipal approvals are pending.",
+      "status_as_of": "2026-07-15",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 15, 2026, to grant the side setback variance and modify the 1965 restriction, citing site constraints."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "Abutters submitted letters of support for the application, and no opposition was voiced at the public hearing."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "f35c23de274ed588",
+      "status_model": "gemini-3.8-flash"
     },
     "65c-school-street-coc": {
       "id": "65c-school-street-coc",
@@ -218,8 +498,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "status": "The Conservation Commission voted 4-0 to approve a Certificate of Compliance for 65C School Street following native shrub plantings and lawn restoration in the 20-foot wetland buffer.",
-      "status_as_of": "2026-07-29"
+      "status": "The Conservation Commission approved a Certificate of Compliance for 65C School Street following completed remediation of the 20-foot wetland buffer zone. The approval came after the homeowner restored the disturbed area, planted native shrubs, and submitted an updated as-built plan demarcating the garden boundary. With the certificate issued, the review process is complete.",
+      "status_as_of": "2026-07-29",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 29, 2026, to issue the Certificate of Compliance following buffer zone remediation."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "ff8cb837a252e263",
+      "status_model": "gemini-3.8-flash"
     },
     "66-breakneck-hill-road-variance": {
       "id": "66-breakneck-hill-road-variance",
@@ -228,8 +518,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-13",
-      "status": "The Board of Health voted unanimously to approve a septic variance with an upgraded treatment unit for 66 Breakneck Hill Road, contingent on Conservation Commission approval.",
-      "status_as_of": "2026-10-13"
+      "status": "The Board of Health unanimously approved a septic variance for 66 Breakneck Hill Road on October 13 to accommodate converting a commercial building into a four-bedroom home. The variance permits an 85-foot wetland setback rather than the standard 100 feet, which improves upon the existing 79-foot setback and incorporates a nitrogen-reducing treatment unit. The project now awaits review and approval from the Conservation Commission.",
+      "status_as_of": "2026-10-13",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted unanimously on Oct 13 to approve the wetland setback variance contingent on Conservation Commission approval."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "bf7d86122e71449e",
+      "status_model": "gemini-3.8-flash"
     },
     "7-turnpike-road-bodywork-compliance": {
       "id": "7-turnpike-road-bodywork-compliance",
@@ -238,8 +538,18 @@
       "category": "Health & human services",
       "first_seen": "2026-05-04",
       "last_seen": "2026-08-11",
-      "status": "The Board of Health voted 3-0 to deny an establishment license application for Jojo Bodywork and directed staff and town counsel to execute a written decision.",
-      "status_as_of": "2026-08-11"
+      "status": "The Board of Health unanimously denied the establishment license application for Jojo Bodywork following ongoing noncompliance and operation under a cease-and-desist order. The board authorized staff and town counsel to draft and execute a formal written decision documenting the denial, citing missing practitioner credentials and unapproved operation. No further board proceedings on the matter are currently scheduled.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "oppose",
+          "detail": "Voted 3-0 on August 11, 2026, to deny the establishment license application due to missing practitioner certifications and operation during an active cease-and-desist order."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "4b058fa52c2bf453",
+      "status_model": "gemini-3.8-flash"
     },
     "8-partridge-hill-road-variance": {
       "id": "8-partridge-hill-road-variance",
@@ -248,8 +558,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-11",
-      "status": "The Board of Health voted 3-0 to approve septic variances reducing groundwater separation and the reservoir setback for 8 Partridge Hill Road.",
-      "status_as_of": "2026-08-11"
+      "status": "The septic repair variance for 8 Partridge Hill Road has been approved. The Board of Health voted unanimously in August 2026 to grant relief for groundwater separation and reservoir setback to replace a failed 1975 system. The Department of Conservation and Recreation raised no objections to the plan, and no further board action is pending.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted 3-0 on August 11, 2026, to approve variances reducing groundwater separation to 2.5 feet and setback to the Sudbury Reservoir to approximately 230 feet."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "79c1888627d811a5",
+      "status_model": "gemini-3.8-flash"
     },
     "911-field-bond-and-fees": {
       "id": "911-field-bond-and-fees",
@@ -258,8 +578,18 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-13",
-      "status": "The Recreation Commission reviewed the field bond repayment schedule and deferred action on proposed fall hourly league fee increases pending updated revenue models.",
-      "status_as_of": "2026-05-13"
+      "status": "The Recreation Commission is reviewing debt repayment schedules and user fees for the 911 Field turf complex after revolving fund revenues fell short of initial pre-COVID projections. Commissioners are weighing a repayment schedule of $30,000 to $45,000 annually through FY35 alongside a proposed $5-per-hour fee increase for sports leagues. Action remains pending finalized revenue models from the recreation director and finance director.",
+      "status_as_of": "2026-05-13",
+      "positions": [
+        {
+          "body": "Recreation Commission",
+          "stance": "undecided",
+          "detail": "Deferred action in May 2026 pending refined revenue projections and fee models to address the remaining bond balance and a proposed $5-per-hour fee increase."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "3895693f020c87aa",
+      "status_model": "gemini-3.8-flash"
     },
     "appointed-town-clerk": {
       "id": "appointed-town-clerk",
@@ -268,8 +598,23 @@
       "category": "Governance & committees",
       "first_seen": "2026-08-31",
       "last_seen": "2026-10-06",
-      "status": "The Advisory Committee finalized report language supporting Article 1 to make the Town Clerk an appointed position while recommending that future employment contracts include termination-for-cause protections ahead of Special Town Meeting.",
-      "status_as_of": "2026-10-06"
+      "status": "The proposal to convert the town clerk from an elected office to an appointed position goes before voters as Article 1 at Special Town Meeting, with an interim clerk currently serving through May 2027. Both the Select Board and the Advisory Committee unanimously support the transition to expand recruitment for an increasingly technical role. The primary concern raised involves the loss of direct voter control, prompting Advisory to recommend contractual termination-for-cause protections. If approved at Town Meeting, the change will require subsequent approval at the May 11, 2027 town election.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 6-0 to recommend approval of Article 1 to widen the hiring pool for a technical position, while recommending termination-for-cause contract clauses to address concerns over voter control."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 to recommend approval of Article 1 after appointing an interim town clerk through May 2027."
+        }
+      ],
+      "next": "Special Town Meeting vote on Article 1 on October 17, 2026.",
+      "status_fingerprint": "e030bc90c40628b9",
+      "status_model": "gemini-3.8-flash"
     },
     "board-of-health-body-art-regulations": {
       "id": "board-of-health-body-art-regulations",
@@ -278,8 +623,18 @@
       "category": "Health & human services",
       "first_seen": "2026-06-08",
       "last_seen": "2026-06-09",
-      "status": "The Board of Health unanimously adopted revised body art regulations updating practitioner training and apprenticeship standards and explicitly prohibiting vaping in procedure areas.",
-      "status_as_of": "2026-06-09"
+      "status": "The Board of Health has approved updated municipal body art regulations, adopting them as enforceable local standards aligned with state model language. The revised rules restore training requirements for practitioners, establish standards for apprenticeships, and prohibit vaping in procedure areas. No further action on the revisions is pending.",
+      "status_as_of": "2026-06-09",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted 3-0 on June 9, 2026, to approve the updated regulations with revisions including training mandates and a ban on vaping in procedure areas."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "e64466da2f70c88f",
+      "status_model": "gemini-3.8-flash"
     },
     "breakneck-hill-restoration": {
       "id": "breakneck-hill-restoration",
@@ -288,8 +643,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-04",
-      "status": "The Stewardship Committee is developing a comprehensive five-zone ecological restoration plan with the town planner and voted 4-0 to appoint Freddie Gillespie as committee liaison to the invasive plant contractor.",
-      "status_as_of": "2026-08-04"
+      "status": "Planning is underway for a comprehensive five-zone ecological restoration at Breakneck Hill Conservation Land to address invasive species, vehicle-related soil compaction, and damage to the beecology research meadow. The town recovered $47,000 from remediation contractors to help finance meadow repairs. The committee and town planner are currently drafting a formal scope of work to solicit bids for botanical surveys, site grading, and native replanting.",
+      "status_as_of": "2026-08-04",
+      "positions": [
+        {
+          "body": "Stewardship Committee",
+          "stance": "support",
+          "detail": "Voted 4-0 on Aug 4 to appoint a liaison for contractor invasive species work while drafting a broader restoration scope for bidding."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "cd1b5bd4946325be",
+      "status_model": "gemini-3.8-flash"
     },
     "brox-asphalt-plant-complaints": {
       "id": "brox-asphalt-plant-complaints",
@@ -298,8 +663,18 @@
       "category": "Health & human services",
       "first_seen": "2026-05-04",
       "last_seen": "2026-06-09",
-      "status": "MassDEP reported that Brox emissions meet federal standards despite continued resident complaints, and town health staff will continue tracking real-time complaint logs.",
-      "status_as_of": "2026-06-09"
+      "status": "Resident complaints regarding odor and early-morning noise from the Brox Industries asphalt plant in Marlborough remain under state oversight, as Town Counsel confirmed Southborough lacks regulatory jurisdiction over the facility. Although Brox installed a closed-loop exhaust mitigation system and MassDEP determined emissions meet federal standards with no known direct health threat, Southborough neighbors continue to report persistent odors. Southborough health officials are tracking local reports and urging residents to submit detailed real-time logs directly to MassDEP to assist state regulators.",
+      "status_as_of": "2026-06-09",
+      "positions": [
+        {
+          "body": "Public comment",
+          "stance": "oppose",
+          "detail": "A Stow Road resident reported persistent chemical odors and early-morning noise, requesting that Southborough and Marlborough jointly fund an independent air quality consultant to test for toxins."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "6021a9702e865a10",
+      "status_model": "gemini-3.8-flash"
     },
     "cannabis-delivery-opt-out": {
       "id": "cannabis-delivery-opt-out",
@@ -308,8 +683,28 @@
       "category": "Health & human services",
       "first_seen": "2026-07-06",
       "last_seen": "2026-08-11",
-      "status": "A motion to opt out of state regulations allowing adult-use cannabis home delivery failed 1-4 before the Select Board, leaving licensed delivery permitted in Southborough.",
-      "status_as_of": "2026-08-11"
+      "status": "Adult-use cannabis home delivery remains permitted in Southborough after the Select Board rejected a municipal opt-out waiver in August 2026. A motion to request the two-year waiver from the Cannabis Control Commission failed 1-4, allowing state-licensed retail deliveries to verified adults aged 21 and older. The issue is resolved, with no further municipal review or action planned.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "oppose",
+          "detail": "Voted 1-4 on August 11 against seeking a two-year state opt-out waiver, leaving retail home delivery permitted in town."
+        },
+        {
+          "body": "Board of Health",
+          "stance": "mixed",
+          "detail": "Discussed the issue on July 7 with divergent views regarding youth access risks versus adult access and alcohol parity, declining to take a formal vote."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "A resident supported opting out, citing skepticism over courier doorstep ID checks and arguing delivery offers no public benefit."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "45785fc0fa0d047c",
+      "status_model": "gemini-3.8-flash"
     },
     "cemetery-expansion": {
       "id": "cemetery-expansion",
@@ -318,8 +713,12 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-08-31",
       "last_seen": "2026-09-15",
-      "status": "The Select Board voted 5-0 to formally reduce the Cemetery Expansion Committee charge from five to three members to help achieve quorums.",
-      "status_as_of": "2026-09-15"
+      "status": "Town cemetery expansion planning is currently in the site evaluation phase to address projected municipal cemetery capacity shortages by 2035 or 2036. The Cemetery Expansion Committee is finalizing an evaluation matrix to screen 58 candidate parcels of five or more acres, though town boards have not yet weighed in on specific sites. The committee is expected to present its final site recommendations before June.",
+      "status_as_of": "2026-09-15",
+      "positions": [],
+      "next": "",
+      "status_fingerprint": "5be57d18e442ceea",
+      "status_model": "gemini-3.8-flash"
     },
     "classification-and-compensation-study": {
       "id": "classification-and-compensation-study",
@@ -328,8 +727,23 @@
       "category": "Staffing & operations",
       "first_seen": "2026-05-25",
       "last_seen": "2026-09-08",
-      "status": "Consultant MGT has gathered compensation survey data from 14 of 18 peer communities and plans to conclude collection within a week ahead of recommendations for the March 2027 Annual Town Meeting.",
-      "status_as_of": "2026-09-08"
+      "status": "The municipal classification and compensation study is under review by consultant MGT, which is concluding data collection from surveyed peer communities. The Personnel Board has paused individual job reclassifications so all non-union positions can be evaluated collectively once the consultant reports. Final study recommendations will be presented to voters at the Annual Town Meeting in March 2027.",
+      "status_as_of": "2026-09-08",
+      "positions": [
+        {
+          "body": "Personnel Board",
+          "stance": "support",
+          "detail": "Voted to commission the study and approved the peer community list, holding off on individual reclassifications until consultant findings are complete."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "A municipal employee objected to the board's decision to exclude Dover from the peer communities list, urging reliance on the consultant's independent process."
+        }
+      ],
+      "next": "Presentation of study recommendations at the Annual Town Meeting in March 2027",
+      "status_fingerprint": "d2206ce62a236e7f",
+      "status_model": "gemini-3.8-flash"
     },
     "conservation-land-use-regulations": {
       "id": "conservation-land-use-regulations",
@@ -338,8 +752,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-04-27",
       "last_seen": "2026-04-30",
-      "status": "The Conservation Commission voted 5-0 to formally adopt updated land use regulations for town-owned conservation land under Town Code Section 43-2.",
-      "status_as_of": "2026-04-30"
+      "status": "The Conservation Commission unanimously adopted regulations governing town-owned conservation land under Section 43-2 of the Town Code in April 2026. The approved rules incorporate recommendations from the Breakneck Hill Stewardship Committee. While the regulations are now in effect, the commission noted that potential future amendments could address issues such as exterior light trespass from abutting parcels.",
+      "status_as_of": "2026-04-30",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 5-0 on April 30, 2026, to adopt the land use regulations pursuant to Section 43-2 of the Town Code."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "05785281f134d7bc",
+      "status_model": "gemini-3.8-flash"
     },
     "constitution-drive-drainage-and-acceptance": {
       "id": "constitution-drive-drainage-and-acceptance",
@@ -348,8 +772,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-31",
       "last_seen": "2026-09-02",
-      "status": "The Select Board voted unanimously to authorize a one-time $5,000 DPW driveway repair under a homeowner hold-harmless agreement and directed town staff and legal counsel to resolve unrecorded street and drainage easements.",
-      "status_as_of": "2026-09-02"
+      "status": "The Select Board authorized the DPW to carry out an estimated $5,000 one-time repair of a recurring sinkhole at 11 Constitution Drive, contingent on a signed homeowner hold-harmless and right-of-entry agreement. Town staff and town counsel are investigating legal mechanisms to formally record the street and drainage easements, which were never deeded despite past Town Meeting approval. The driveway sinkhole sits over a 17.5-foot-deep town storm drainage pipe.",
+      "status_as_of": "2026-09-02",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted unanimously on Sep 2 to authorize the DPW sinkhole repair with a hold-harmless agreement and to pursue legal remedies for unrecorded easements."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "2fab0b7eac94c5ca",
+      "status_model": "gemini-3.8-flash"
     },
     "costco-special-act-liquor-license": {
       "id": "costco-special-act-liquor-license",
@@ -358,8 +792,18 @@
       "category": "Other",
       "first_seen": "2026-06-15",
       "last_seen": "2026-06-16",
-      "status": "The Select Board agreed to submit a letter of support for refined special legislation that includes a two-year timeline to award the license and a three-year sunset clause, ahead of a State House legislative hearing on June 23, 2026.",
-      "status_as_of": "2026-06-16"
+      "status": "Special state legislation authorizing an additional off-premises liquor license for Costco remains pending at the State House. The Select Board supports the bill and agreed to submit written testimony backing refined legislative language that gives the town two years to issue the license. No further town discussions or subsequent steps have been scheduled on the local record.",
+      "status_as_of": "2026-06-16",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Agreed on June 16, 2026, to submit written testimony in support of the special legislation."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "bfd735684aaca305",
+      "status_model": "gemini-3.8-flash"
     },
     "culvert-infrastructure-replacements": {
       "id": "culvert-infrastructure-replacements",
@@ -368,8 +812,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-06-01",
       "last_seen": "2026-08-11",
-      "status": "The Select Board voted unanimously to accept permanent drainage easements from three Willow Street property owners to advance ongoing culvert replacement work.",
-      "status_as_of": "2026-08-11"
+      "status": "Culvert infrastructure replacements are moving forward following Southborough's award of nearly $3.9 million from the Massachusetts Community Culvert Grant Program, which allows the town to avoid previously authorized borrowing. In August, the Select Board approved permanent drainage easements along Willow Street required for ongoing culvert work and state permitting. Town Meeting will eventually need to vote to rescind the original $3.9 million borrowing authorization.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted unanimously on August 11, 2026, to accept three private drainage easements needed to advance the Willow Street culvert replacement."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "95e24623a9942420",
+      "status_model": "gemini-3.8-flash"
     },
     "downtown-wayfinding-plan": {
       "id": "downtown-wayfinding-plan",
@@ -378,8 +832,23 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-06-15",
       "last_seen": "2026-06-24",
-      "status": "The Historical Commission reviewed the draft wayfinding plan and agreed to share feedback with town administration highlighting historic sites and raising concerns over signage clutter.",
-      "status_as_of": "2026-06-24"
+      "status": "The draft Downtown Southborough Wayfinding Plan remains under review as officials evaluate sign styles and destination listings. The Historical Commission and Select Board have urged the inclusion of omitted historic landmarks like the Community House and Burnett Mansion, while cautioning against visual clutter and overly modern designs. Town administration plans to seek state One Stop grant funding to develop fabrication specifications and install the signs.",
+      "status_as_of": "2026-06-24",
+      "positions": [
+        {
+          "body": "Historical Commission",
+          "stance": "mixed",
+          "detail": "Raised concerns about sign clutter and suburban-style designs while urging the inclusion of omitted historic sites."
+        },
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Reviewed the draft presentation and suggested simpler designs and additional historic locations before moving forward."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "404a738af940d07c",
+      "status_model": "gemini-3.8-flash"
     },
     "fay-school-25-middle-road": {
       "id": "fay-school-25-middle-road",
@@ -388,8 +857,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-28",
-      "status": "Fay School presented an updated landscape mitigation plan featuring native plantings and a pollinator garden to satisfy prior site plan conditions. The Planning Board continued the discussion to October 19, 2026, pending review of as-built documentation needed for a final certificate of occupancy.",
-      "status_as_of": "2026-09-28"
+      "status": "The Planning Board is reviewing Fay School's updated landscape mitigation and as-built documentation required to obtain a final certificate of occupancy for its 25 Middle Road addition. Open matters include verifying that proposed replacement plantings are native and certified free of neonicotinoid pesticides, addressing invasive species, and completing a pending engineering peer review. The board previously approved a temporary certificate of occupancy in August and will resume its review later this month.",
+      "status_as_of": "2026-09-28",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Reviewing an updated native planting plan and awaiting completion of an engineering peer review before approving an enforceable agreement for a final certificate of occupancy."
+        },
+        {
+          "body": "Public comment",
+          "stance": "neutral",
+          "detail": "A resident involved with local biodiversity urged the school to eliminate neonicotinoid-treated plants, avoid non-native species, and eradicate invasive porcelain berry."
+        }
+      ],
+      "next": "Planning Board discussion on October 19, 2026",
+      "status_fingerprint": "88e155620bd97c8b",
+      "status_model": "gemini-3.8-flash"
     },
     "fay-school-athletic-fields": {
       "id": "fay-school-athletic-fields",
@@ -398,8 +882,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-24",
       "last_seen": "2026-10-08",
-      "status": "The Conservation Commission voted 3-0, with one commissioner recused, to grant a continuance request and resume the Notice of Intent hearing for the athletic fields project at a future meeting.",
-      "status_as_of": "2026-10-08"
+      "status": "The proposed redevelopment of Fay School's athletic fields at 0 Marlborough Junction remains under review by the Conservation Commission. The commission has not yet evaluated the proposal on its merits, as previous hearings have been continued at the applicant's request or pending state DEP file numbers and peer review. On October 8, the commission voted to continue the public hearing on the Notice of Intent and stormwater management permit.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "undecided",
+          "detail": "Has not taken a position on the application, voting 3-0 with one recusal on Oct 8 to continue the public hearing."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "f5937859afeda35a",
+      "status_model": "gemini-3.8-flash"
     },
     "fayville-memorial-park-improvements": {
       "id": "fayville-memorial-park-improvements",
@@ -408,8 +902,28 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-04",
       "last_seen": "2026-09-17",
-      "status": "Recreation staff are consulting town counsel and the Community Preservation Committee regarding potential Article 97 restrictions and parking layout options near the reservoir.",
-      "status_as_of": "2026-09-17"
+      "status": "The park improvement project is under revision after the Recreation Commission withdrew its $1.5 million Community Preservation Act application from the fall warrant, deferring the request to the spring 2027 Annual Town Meeting. The Recreation Commission favors adding angled street parking along Central Street to preserve green space within the park, while the Select Board has requested further engineering and sight-line analysis before taking a position. Main open questions include resolving Article 97 open space restrictions, addressing neighborhood traffic safety concerns, and the outcome of an application for a federal Land and Water Conservation Fund grant.",
+      "status_as_of": "2026-09-17",
+      "positions": [
+        {
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Supports advancing park renovations with angled parking along Central Street (Option 2) and deferred its funding request to spring 2027 to address design and legal considerations."
+        },
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Reviewed proposed parking layouts on Sep 2 without voting, requesting additional engineering details on sight lines and traffic buffers."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Residents voiced safety concerns about blind spots and vehicle speeds with angled parking on Central Street, while also raising questions about dog park regulations and oversight."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "8e0a657129e10dee",
+      "status_model": "gemini-3.8-flash"
     },
     "flagg-turnpike-hydrant-relocation": {
       "id": "flagg-turnpike-hydrant-relocation",
@@ -418,8 +932,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-11",
-      "status": "The Planning Board voted 5-0 to approve removing 10 feet of scenic stone wall on Flagg Road to allow DPW to relocate a fire hydrant away from vehicle strikes.",
-      "status_as_of": "2026-05-11"
+      "status": "The Planning Board approved the Department of Public Works' request to remove approximately 10 feet of scenic road stone wall at Flagg Road and 361 Turnpike Road to relocate a frequently struck fire hydrant. The approval requires removed stones to remain on Flagg Road, with first priority given to adjacent wall reconstruction. With local regulatory approval granted, the town can proceed with setting the hydrant roughly 10 feet back into an acquired utility easement.",
+      "status_as_of": "2026-05-11",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on May 11, 2026, to approve the scenic road wall removal with conditions governing the reuse of the stones."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d04ab8a98a087242",
+      "status_model": "gemini-3.8-flash"
     },
     "fy27-road-paving-contracts": {
       "id": "fy27-road-paving-contracts",
@@ -428,8 +952,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-15",
-      "status": "The Select Board voted 5-0 to award FY27 DPW contracts for road paving and sidewalk improvements.",
-      "status_as_of": "2026-09-15"
+      "status": "The contracts for fiscal year 2027 road paving and sidewalk maintenance have been awarded. The Select Board voted unanimously in September to approve the awards after bids came in roughly $400,000 below engineering estimates. The work will cover six roads, including interim maintenance on Cordaville Road and Cranberry Road.",
+      "status_as_of": "2026-09-15",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Sep 15 to award the FY27 road paving and sidewalk maintenance contracts."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "66bb94773120d75a",
+      "status_model": "gemini-3.8-flash"
     },
     "fy27-school-operating-budget": {
       "id": "fy27-school-operating-budget",
@@ -438,8 +972,18 @@
       "category": "Schools",
       "first_seen": "2026-05-11",
       "last_seen": "2026-09-09",
-      "status": "The School Committee voted to request that the Select Board allocate an additional $105,485 received in Chapter 70 state education aid into the town's Special Education Stabilization Fund.",
-      "status_as_of": "2026-09-09"
+      "status": "The Southborough School Committee voted in May 2026 to support a revised 3.99% operating budget increase for FY27 after adjusting offsets and limiting reserve fund drawdowns to avoid future deficits. In September 2026, the committee requested that the Select Board allocate an unanticipated $105,485 in Chapter 70 state aid into the town's Special Education Stabilization Fund to buffer against out-of-district costs. The proposed transfer of state aid currently awaits Select Board consideration.",
+      "status_as_of": "2026-09-09",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Voted 4-0 on May 12, 2026, to endorse a 3.99% operating budget increase and later requested that surplus state education aid be placed in the special education stabilization fund."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d44eb82c13d96fc9",
+      "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
       "id": "fy28-operating-budget",
@@ -448,8 +992,53 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
       "last_seen": "2026-10-13",
-      "status": "The Board of Health rescheduled its vote on its departmental operating budget request to a special meeting on October 20, 2026, after the item was not posted in time.",
-      "status_as_of": "2026-10-13"
+      "status": "Town officials are preparing the FY28 operating budget while facing a projected deficit exceeding $2 million, prompting consideration of a Proposition 2 1/2 operational override. Departments were instructed to submit dual budget scenarios—one level-service and one zero-growth—raising concerns among several departments about potential cuts to staff hours. The Library Trustees and Recreation Commission have approved their budget requests, while other boards are still finalizing submissions. The Select Board and Advisory Committee will begin joint budget reviews in early November.",
+      "status_as_of": "2026-10-13",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Exploring a potential multi-year operational override to close an anticipated $2 million deficit and directed departments to submit dual-scenario budgets."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "mixed",
+          "detail": "Counseled caution regarding multi-year overrides, recommending stricter fiscal discipline such as hiring freezes and evaluating pension borrowing options."
+        },
+        {
+          "body": "Personnel Board",
+          "stance": "support",
+          "detail": "Voted 4-0 on Sep 8 to recommend a 5% total salary adjustment for FY28, pairing a 3% COLA with a 2% step increment."
+        },
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Voted 6-0 on Oct 5 to approve its FY28 operating budget while balancing state materials expenditure compliance."
+        },
+        {
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Voted unanimously on Oct 7 to approve its $4,250 operating budget request after clarifying trail mowing contracts."
+        },
+        {
+          "body": "Board of Health",
+          "stance": "undecided",
+          "detail": "Approved its small elected board budget but postponed a vote on its departmental operating budget options until Oct 20."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "mixed",
+          "detail": "Voiced frustration over zero-increase guidelines that would force cuts to staff hours and delayed formal action to draft an explanatory memo."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Speakers suggested budget consolidation to improve efficiency but warned against changing traditional line-item presentations during an override year."
+        }
+      ],
+      "next": "Board of Health vote on department budget on October 20, 2026.",
+      "status_fingerprint": "faf02bac930319aa",
+      "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
       "id": "glow-sobo-holiday-lighting",
@@ -458,8 +1047,23 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-09-14",
-      "status": "The Library Board of Trustees unanimously approved the Tricentennial Committee's plan to install exterior decorative holiday lighting and permanent outdoor power outlets at the Southborough Library.",
-      "status_as_of": "2026-09-14"
+      "status": "The Glow SoBo holiday lighting display and kickoff event are approved to move forward for December. The Tricentennial Committee authorized a $10,456 contract for professional exterior lighting on municipal buildings and grounds, and the Library Board of Trustees approved decorating library property along with the installation of permanent outdoor outlets. Decisions on whether to open the library for after-hours indoor activities during the event remain deferred.",
+      "status_as_of": "2026-09-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Voted 6-0 on Aug 12 to approve a $10,456 professional lighting contract for town buildings and trees."
+        },
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Voted unanimously on Sep 14 to approve exterior decorations and permanent electrical outlet installation on library grounds."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "cd490c0515d7e4e4",
+      "status_model": "gemini-3.8-flash"
     },
     "hopkinton-water-connection": {
       "id": "hopkinton-water-connection",
@@ -468,8 +1072,12 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-07",
-      "status": "The Select Board reviewed the status of intermunicipal agreement negotiations to convey MWRA water to Hopkinton, noting upcoming needs for independent engineering peer review and special counsel. The board plans to vote on appointing independent special counsel at a future meeting.",
-      "status_as_of": "2026-07-07"
+      "status": "The proposed intermunicipal agreement to convey MWRA water to Hopkinton is under review after negotiations resumed. Before contract terms can be finalized, Hopkinton must secure state approvals, Southborough must conduct an independent engineering review, and the Zoning Board of Appeals must review plans for a taller replacement water tank on Oak Hill Road. The Select Board plans to take up a vote to appoint special counsel to negotiate the agreement due to town counsel representing both municipalities.",
+      "status_as_of": "2026-07-07",
+      "positions": [],
+      "next": "",
+      "status_fingerprint": "ed86a7a68d06ed7c",
+      "status_model": "gemini-3.8-flash"
     },
     "housing-and-food-enforcement-policies": {
       "id": "housing-and-food-enforcement-policies",
@@ -478,8 +1086,18 @@
       "category": "Health & human services",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-11",
-      "status": "The Board of Health reviewed draft violation enforcement policies and fee schedules, with refined violation correction timelines scheduled for review on September 15, 2026.",
-      "status_as_of": "2026-08-11"
+      "status": "Draft enforcement policies establishing standardized violation procedures and fee schedules for housing and food establishments remain under review by the Board of Health. In August, the board tabled formal approval to allow staff to clarify how written compliance deadlines are determined based on violation severity. Revised policies were scheduled to return for board review in September.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "undecided",
+          "detail": "Tabled formal approval in August to allow staff to clarify how compliance deadlines are determined based on violation severity."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "8d5552fccc2cef60",
+      "status_model": "gemini-3.8-flash"
     },
     "kallander-field-repairs": {
       "id": "kallander-field-repairs",
@@ -488,8 +1106,12 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-13",
-      "status": "The Recreation Commission received an $8,000 to $9,000 repair estimate from the original turf installer and scheduled a formal presentation and decision for June 2026.",
-      "status_as_of": "2026-05-13"
+      "status": "Repairs to the turf at Kallander Field remain pending after the Recreation Commission received an estimate of $8,000 to $9,000 from the original installer, North Turf, with the Department of Public Works assisting with materials. The quote is significantly lower than earlier vendor estimates approaching $40,000 and falls within the commission's remaining capital balance of $13,000 to $14,000. A full presentation and decision were planned for June 2026, but the commission took no formal action and no further steps have been scheduled.",
+      "status_as_of": "2026-05-13",
+      "positions": [],
+      "next": "",
+      "status_fingerprint": "ee5cb12bb6a90044",
+      "status_model": "gemini-3.8-flash"
     },
     "kratom-retail-ban": {
       "id": "kratom-retail-ban",
@@ -498,8 +1120,12 @@
       "category": "Health & human services",
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-15",
-      "status": "Board of Health staff reviewed local retail compliance following Massachusetts designating kratom as a Schedule I substance, finding only one local retailer carrying the product.",
-      "status_as_of": "2026-09-15"
+      "status": "Following a temporary statewide order designating kratom as a Schedule I controlled substance effective August 2026, town health staff monitored local retailers to ensure products were removed from shelves. Staff informed the Board of Health in September that only one Southborough retailer carried kratom, and guidance was provided on returning or lawfully disposing of remaining inventory. No further local board action is currently required.",
+      "status_as_of": "2026-09-15",
+      "positions": [],
+      "next": "",
+      "status_fingerprint": "0f1818184879d8e7",
+      "status_model": "gemini-3.8-flash"
     },
     "landfill-environmental-assessment": {
       "id": "landfill-environmental-assessment",
@@ -508,8 +1134,23 @@
       "category": "Environment & conservation",
       "first_seen": "2026-05-04",
       "last_seen": "2026-10-06",
-      "status": "The Advisory Committee voted 6-0 to recommend Town Meeting approval of Article 7 to fund water connections and service lines for two homes near the Parkerville Road landfill from water retained earnings.",
-      "status_as_of": "2026-10-06"
+      "status": "A proposal to extend municipal water service to two homes near the Parkerville Road landfill is heading to Special Town Meeting as Article 7. The $240,000 appropriation from water retained earnings would connect the residences to town water to eliminate contamination risks and avoid perpetual state-mandated well monitoring. Both the Select Board and the Advisory Committee recommend approval, with the town agreeing to cover service line installation from the street into the homes.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 6-0 on Oct 6 to recommend approval of Article 7 after confirming the town will cover the service lines from the street into the houses."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-0-1 on Sep 15 to recommend approval of Article 7 to extend municipal water service to the two homes near the landfill."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d11fe2ea7d8b3349",
+      "status_model": "gemini-3.8-flash"
     },
     "latisquama-road-errant-golf-balls": {
       "id": "latisquama-road-errant-golf-balls",
@@ -518,8 +1159,18 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-14",
-      "status": "The Golf Committee reviewed abutter concerns about errant golf balls striking homes on Latisquama Road near the 7th tee and agreed to consult a golf architect on potential hole redesign options.",
-      "status_as_of": "2026-07-14"
+      "status": "The Golf Committee is reviewing mitigation options to address high volumes of errant golf balls striking residences and vehicles on Latisquama Road near the 7th hole. Members have discussed several course redesign ideas, including moving the tee box, reorienting the green, or shortening the hole to a par 3. The committee is keeping the issue on its agenda while awaiting input from the golf architect.",
+      "status_as_of": "2026-07-14",
+      "positions": [
+        {
+          "body": "Golf Committee",
+          "stance": "undecided",
+          "detail": "Seeking recommendations from the golf architect on potential redesign options for the 7th hole to mitigate neighborhood property damage."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "f6d8a0a276ab66e1",
+      "status_model": "gemini-3.8-flash"
     },
     "library-book-drop-repair": {
       "id": "library-book-drop-repair",
@@ -528,8 +1179,18 @@
       "category": "Buildings & facilities",
       "first_seen": "2026-05-11",
       "last_seen": "2026-09-14",
-      "status": "The Library Board of Trustees scheduled repair of the concrete platform beneath the book drops for October 3, 2026, temporarily relocating book drops to the front lawn.",
-      "status_as_of": "2026-09-14"
+      "status": "The Library Board of Trustees approved funding the repair of the damaged concrete platform beneath the book drop using library State Aid funds, with work scheduled for early October. The board also moved to resolve recurring maintenance disputes by preparing a letter to town officials to clarify groundskeeping responsibilities between the library and the Department of Public Works. No subsequent actions or determinations on municipal maintenance boundaries have been reported.",
+      "status_as_of": "2026-09-14",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Voted unanimously in May to fund the concrete repair through State Aid and to draft a letter seeking clarification on town maintenance responsibilities."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "725ca35099b4cc4b",
+      "status_model": "gemini-3.8-flash"
     },
     "library-cpa-signage": {
       "id": "library-cpa-signage",
@@ -538,8 +1199,23 @@
       "category": "Library, arts & community",
       "first_seen": "2026-07-20",
       "last_seen": "2026-08-10",
-      "status": "The Community Preservation Committee approved plaque phrasing crediting Southborough residents, and invoices have been submitted for reimbursement.",
-      "status_as_of": "2026-08-10"
+      "status": "Commemorative plaques crediting Community Preservation Act funding for library restoration projects have been approved and commissioned. Both the Library Board of Trustees and the Community Preservation Committee agreed on wording that thanks Southborough \"residents\" rather than taxpayers and features the town seal. Invoices have been submitted to the CPC for reimbursement to close out the grants.",
+      "status_as_of": "2026-08-10",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Advocated for wording crediting \"residents\" and reported in August that the signs have been commissioned."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "support",
+          "detail": "Voted 5-1 on July 21 to approve plaque language crediting the residents of Southborough with the town seal."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d992f07da5ca60e9",
+      "status_model": "gemini-3.8-flash"
     },
     "library-parking-lot-repaving": {
       "id": "library-parking-lot-repaving",
@@ -548,8 +1224,18 @@
       "category": "Buildings & facilities",
       "first_seen": "2026-06-08",
       "last_seen": "2026-09-14",
-      "status": "Library trustees and town facilities confirmed that parking lot repaving is deferred from the FY28 capital cycle to future town capital plans due to costly drainage and engineering constraints.",
-      "status_as_of": "2026-09-14"
+      "status": "The library parking lot repaving project is currently on hold after being deferred from the FY28 capital budget cycle. Site engineering requirements to manage runoff and protect the water table significantly increased costs beyond what could be funded soon or covered by library state aid. The Library Board of Trustees plans to submit the project for town capital planning in two to three years.",
+      "status_as_of": "2026-09-14",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "neutral",
+          "detail": "Deferred submitting a capital funding request for two to three years after engineering requirements raised projected costs."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "7a251d323077dc2e",
+      "status_model": "gemini-3.8-flash"
     },
     "mcauliffe-hearing-room-av": {
       "id": "mcauliffe-hearing-room-av",
@@ -558,8 +1244,18 @@
       "category": "Buildings & facilities",
       "first_seen": "2026-05-11",
       "last_seen": "2026-07-28",
-      "status": "Front desk screens were lowered and microphone upgrades began to improve visibility and sound in the McAuliffe Hearing Room, while the Municipal Technology Committee continues monitoring resident feedback.",
-      "status_as_of": "2026-07-28"
+      "status": "Audiovisual upgrades in the McAuliffe Hearing Room have been installed and are currently undergoing fine-tuning. Recent adjustments include lowering front desk monitors to improve sightlines, while microphone calibration, camera framing, and in-room displays of remote attendee lists remain under refinement. Staff and technicians continue to work on resolving software and configuration issues as user feedback is monitored.",
+      "status_as_of": "2026-07-28",
+      "positions": [
+        {
+          "body": "Municipal Technology Committee",
+          "stance": "support",
+          "detail": "Supports the hybrid meeting upgrades and is monitoring user feedback as technicians address remaining microphone, display, and camera framing issues."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "e6adb9cd3fd3ece6",
+      "status_model": "gemini-3.8-flash"
     },
     "metrowest-recc-borrowing": {
       "id": "metrowest-recc-borrowing",
@@ -568,8 +1264,23 @@
       "category": "Public safety",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-19",
-      "status": "The Select Board voted 4-1 to approve up to $12.5 million in short-term borrowing authority to bridge state grant funding for regional dispatch center construction.",
-      "status_as_of": "2026-05-19"
+      "status": "The Select Board approved up to $12.5 million in short-term borrowing authorization in May 2026 to serve as a bridge loan for MetroWest Regional Emergency Communication Center grant funding. The measure passed 4-1 following similar approvals in member towns Grafton and Westborough, allowing facility construction to continue without pauses between state disbursements. Opposition centered on Southborough taking on municipal borrowing risk for the regional district, alongside public concern over town liability for non-reimbursable lease expenses.",
+      "status_as_of": "2026-05-19",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-1 on May 19, 2026, to authorize the borrowing to maintain the regional dispatch construction schedule, over one member's dissent regarding regional district borrowing risk."
+        },
+        {
+          "body": "Public comment",
+          "stance": "oppose",
+          "detail": "A resident expressed concern over town exposure to non-reimbursable lease, legal, and insurance costs, requesting financial agreements be posted to the town website."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "9fade35fe4d27e26",
+      "status_model": "gemini-3.8-flash"
     },
     "municipal-grants-management-policy": {
       "id": "municipal-grants-management-policy",
@@ -585,8 +1296,18 @@
       "category": "Budget & taxes",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-11",
-      "status": "The Select Board voted 5-0 to adopt MGL Chapter 32B Sections 21 through 23 to begin expedited negotiations with the Public Employee Committee on health plan design changes.",
-      "status_as_of": "2026-08-11"
+      "status": "The town has accepted Massachusetts General Law Chapter 32B, Sections 21 through 23, authorizing expedited negotiations with the Public Employee Committee to modify municipal health insurance plan designs. The Select Board unanimously approved the statute in August to coordinate with Northborough and the regional school district on reducing premium costs. The parties are moving into formal collective negotiations ahead of planned implementation.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Aug 11 to accept MGL Chapter 32B Sections 21-23 to pursue plan design changes that lower premium costs."
+        }
+      ],
+      "next": "Implementation of proposed plan design changes on July 1, 2027.",
+      "status_fingerprint": "7bc453ae56664482",
+      "status_model": "gemini-3.8-flash"
     },
     "national-grid-vegetation-plan": {
       "id": "national-grid-vegetation-plan",
@@ -595,8 +1316,28 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-17",
-      "status": "The Planning Board voted 3-0 and the Tree Warden concurred to approve National Grid's FY27 vegetation management plan, with tree pruning along town distribution circuits scheduled to begin within weeks.",
-      "status_as_of": "2026-08-17"
+      "status": "National Grid's fiscal year 2027 vegetation management plan is approved following a joint review by the Planning Board and the town tree warden. The plan encompasses routine distribution circuit pruning along Parmenter Road, Pine Hill Road, Nichols Street, and Clemmons Street, with contractor Northern Tree overseeing notifications and daily schedules. No full tree removals are included under the routine trimming plan, with any hazardous trees to be reviewed separately through joint hearings.",
+      "status_as_of": "2026-08-17",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 3-0 on Aug 17, 2026, to approve the FY27 vegetation management plan."
+        },
+        {
+          "body": "Town Tree Warden",
+          "stance": "support",
+          "detail": "Concurred on Aug 17, 2026, to approve the FY27 plan during the joint session."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "A resident expressed concern about the aesthetic impact of roadside tree trimming and inquired about how utility specifications compare to town standards."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "747b7e034e936bc2",
+      "status_model": "gemini-3.8-flash"
     },
     "native-plant-landscape-regulations": {
       "id": "native-plant-landscape-regulations",
@@ -605,8 +1346,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-04-27",
       "last_seen": "2026-05-11",
-      "status": "The Planning Board voted 5-0 to adopt new Native Landscape Regulations mandating native species and prohibiting neonicotinoids for site plan review projects.",
-      "status_as_of": "2026-05-11"
+      "status": "The Planning Board unanimously adopted new Native Landscape Regulations for site plan review in May 2026. The regulations require all new vegetation in site plan review projects to consist of native species, prohibit systemic neonicotinoid pesticides, and restrict dyed mulches. More complex invasive species management requirements that were originally proposed alongside the native planting standards were deferred for separate study.",
+      "status_as_of": "2026-05-11",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on May 11, 2026, to adopt the Native Landscape Regulations for site plan review as amended."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "751907bc8d48dde2",
+      "status_model": "gemini-3.8-flash"
     },
     "neary-school-building-project": {
       "id": "neary-school-building-project",
@@ -615,8 +1366,23 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-24",
-      "status": "The Elementary School Building Committee voted 3-1 to eliminate Option 4 and 4-0 to direct consultants to focus on Options 1, 3, and a $15 million baseline scope. Consultants will deliver draft presentation materials on October 13 ahead of an October 15 committee meeting and the October 17 Town Meeting presentation.",
-      "status_as_of": "2026-09-24"
+      "status": "The Elementary School Building Committee is evaluating renovation options for Neary Elementary School after voting to eliminate Option 4 and focus consultants on Options 1, 3, and a scoped $15 million baseline. Preliminary cost estimates range between $24.4 million and $38.5 million, significantly exceeding the earlier $15 million figure discussed at previous Town Meetings. Outstanding questions center on balancing code repairs with educational enhancements, preserving athletic fields and gym availability, and accounting for district office relocation costs. Project options are scheduled for presentation at Fall Town Meeting on October 17, 2026.",
+      "status_as_of": "2026-09-24",
+      "positions": [
+        {
+          "body": "Elementary School Building Committee",
+          "stance": "undecided",
+          "detail": "Voted on September 24 to eliminate Option 4 and directed consultants to focus on Options 1, 3, and a $15 million baseline scope."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Commenters raised concerns regarding parking, athletic field impacts, weekend gym access, and the potential costs of relocating district central offices."
+        }
+      ],
+      "next": "Elementary School Building Committee meeting on October 15, 2026.",
+      "status_fingerprint": "24f8fa9d1708d6bd",
+      "status_model": "gemini-3.8-flash"
     },
     "neary-school-roof-replacement": {
       "id": "neary-school-roof-replacement",
@@ -625,8 +1391,18 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-06-10",
-      "status": "Combined low bids totaled approximately $2.8 million and construction is scheduled to begin in late June, with summer childcare relocated to Finn School and substantial completion targeted for late August 2026.",
-      "status_as_of": "2026-06-10"
+      "status": "The Neary Elementary School roof replacement moved into construction over the summer of 2026 after competitive bids totaled approximately $2.8 million, well below the $4.5 million borrowing authorization approved by voters. Work was targeted to reach 85% to 90% completion before the start of school in late August. No subsequent updates or outstanding disputes have been brought before the School Committee this fall.",
+      "status_as_of": "2026-06-10",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Supported proceeding with construction after combined bids came in approximately $1.7 million under the voter-approved $4.5 million budget."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "42f97fc481adbeeb",
+      "status_model": "gemini-3.8-flash"
     },
     "opeb-funding-strategy": {
       "id": "opeb-funding-strategy",
@@ -635,8 +1411,18 @@
       "category": "Budget & taxes",
       "first_seen": "2026-04-27",
       "last_seen": "2026-04-28",
-      "status": "The Select Board reviewed actuarial valuations of the town's OPEB liability and directed the actuary to model several future contribution scenarios.",
-      "status_as_of": "2026-04-28"
+      "status": "Long-term funding strategy for the town's Other Post-Employment Benefits liability remains under review. The Select Board is examining Southborough's roughly 8 percent funded ratio and potential long-term approaches, including redirecting regional pension catch-up payments to OPEB once the retirement system reaches full funding around 2036. The town continues to contribute its baseline $250,000 annually while awaiting modeled scenario projections from actuaries.",
+      "status_as_of": "2026-04-28",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Exploring contribution options and requested actuarial models targeting 80 to 100 percent funded status by various target years."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "7a87ca6cf625cd55",
+      "status_model": "gemini-3.8-flash"
     },
     "parkerville-road-utility-pole": {
       "id": "parkerville-road-utility-pole",
@@ -645,8 +1431,23 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-05-18",
       "last_seen": "2026-06-25",
-      "status": "The Conservation Commission closed the public hearing and voted 5-0 to issue an Order of Conditions for the replacement and installation of utility distribution poles along Parkerville Road and Lynbrook Road.",
-      "status_as_of": "2026-06-25"
+      "status": "The utility pole petition has been approved by both town boards. The Select Board approved the petition in June 2026 after National Grid agreed to shift the proposed pole roughly 1,000 feet away from direct abutters. The Conservation Commission also approved the roadside work and issued an Order of Conditions later that month.",
+      "status_as_of": "2026-06-25",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 16, 2026, to approve the petition following an agreement to relocate the pole to an area without direct abutters."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 25, 2026, to issue a standard Order of Conditions after receiving a state DEP file number without substantive objections."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b2507a06a86fd7ef",
+      "status_model": "gemini-3.8-flash"
     },
     "peninsula-trail-phase-2": {
       "id": "peninsula-trail-phase-2",
@@ -655,8 +1456,43 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
       "last_seen": "2026-10-08",
-      "status": "The Community Preservation Committee voted 3-2 to advance the $217,318 CPA funding article to Special Town Meeting as written, while the Advisory Committee unanimously opposes the appropriation due to cost. The Trails Committee will present the article as drafted on October 17 without offering a floor amendment.",
-      "status_as_of": "2026-10-08"
+      "status": "Article 4 heads to Fall Special Town Meeting on October 17, requesting $217,318 in additional Community Preservation Act funds to construct a 65-foot pedestrian bridge along Route 30, bringing the total project cost to $428,550. Town boards are sharply split: the Trails Committee, Community Preservation Committee, Conservation Commission, and Recreation Commission support the appropriation, while the Select Board and Advisory Committee oppose it. The primary dispute centers on the project's roughly $5,000 per linear foot cost versus pedestrian safety hazards where the trail currently ends at the roadway.",
+      "status_as_of": "2026-10-08",
+      "positions": [
+        {
+          "body": "Trails Committee",
+          "stance": "support",
+          "detail": "Sponsors Article 4 to fund the bridge as an essential pedestrian safety solution connecting trail segments along Route 30."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "support",
+          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed without scaling back the $217,318 CPA request."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Voted 0-7 on Sep 16 against recommending Article 4, citing excessive costs of roughly $5,000 per linear foot."
+        },
+        {
+          "body": "Select Board",
+          "stance": "oppose",
+          "detail": "Voted 1-4 on Sep 24 against supporting Article 4, questioning the project's cost amid broader town budget pressures."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 5-0 on Jun 25 to send a letter of support for the revised bridge-only CPA application."
+        },
+        {
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Voted 3-0 on Jun 30 to submit a letter of support for the Trails Committee's CPA funding request."
+        }
+      ],
+      "next": "Special Town Meeting vote on Article 4 on October 17, 2026.",
+      "status_fingerprint": "89179fde10fc1ff8",
+      "status_model": "gemini-3.8-flash"
     },
     "personal-property-tax-exemption": {
       "id": "personal-property-tax-exemption",
@@ -665,8 +1501,23 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "The Advisory Committee updated its Special Town Meeting report text to clarify that raising the tax exemption threshold to $2,500 would exempt 22 accounts with a combined assessed value of $40,100.",
-      "status_as_of": "2026-10-06"
+      "status": "Article 8 proposes increasing Southborough's personal property tax exemption threshold from $1,500 to $2,500 starting in fiscal year 2028, exempting 22 accounts to eliminate administrative costs that exceed tax collections. The measure is headed to Town Meeting with unanimous support from town boards. The Advisory Committee recently finalized its warrant report language detailing the minimal financial impact.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 7-0 on Sep 16 to recommend approval, noting that administrative overhead exceeds the minimal revenue collected from 22 small accounts."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Sep 15 to recommend approval of Article 8."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "4ca8e6aaa95949f4",
+      "status_model": "gemini-3.8-flash"
     },
     "police-drone-program": {
       "id": "police-drone-program",
@@ -675,8 +1526,28 @@
       "category": "Public safety",
       "first_seen": "2026-06-22",
       "last_seen": "2026-08-27",
-      "status": "The Municipal Technology Committee voted 4-0 to recommend approval of the Police Department's five-year drone program under a phased deployment featuring pre-deployment verification, an initial pilot, and formal reviews after 90 days and 12 months.",
-      "status_as_of": "2026-08-27"
+      "status": "The proposed five-year police drone program has been approved for funding and recommended for phased implementation. The Select Board voted narrowly in June to authorize the purchase using year-end department salary surplus, while the Capital Improvement and Planning Committee endorsed the safety priority but questioned the funding mechanism. In August, the Municipal Technology Committee unanimously recommended conditional deployment with operational privacy safeguards and formal follow-up reviews.",
+      "status_as_of": "2026-08-27",
+      "positions": [
+        {
+          "body": "Municipal Technology Committee",
+          "stance": "support",
+          "detail": "Voted 4-0 on August 27 to recommend conditional approval and phased deployment subject to operational safeguards and reviews at 90 days and 12 months."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 3-2 on June 29 to authorize bottom-line budget surplus spending for the drone package, having initially excluded it earlier that month."
+        },
+        {
+          "body": "Capital Improvement and Planning Committee",
+          "stance": "support",
+          "detail": "Voted 3-0 on June 24 to support the drone acquisition as an immediate safety priority, while deferring the funding mechanism to the Select Board."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "6c416184bd976039",
+      "status_model": "gemini-3.8-flash"
     },
     "presidential-fisher-waterline-looping": {
       "id": "presidential-fisher-waterline-looping",
@@ -685,8 +1556,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-11",
-      "status": "The Select Board voted unanimously to authorize a $1 million interest-free MWRA loan application to fund the waterline looping project under CSX railroad tracks.",
-      "status_as_of": "2026-08-11"
+      "status": "The Select Board unanimously approved an application for a $1 million zero-interest loan from the Massachusetts Water Resources Authority to fund the project, which was previously authorized by Town Meeting. The project will connect dead-end water mains along Presidential Drive and Fisher Road under the CSX railroad tracks to improve water pressure and reduce bacterial buildup. The loan is expected to save the town more than $400,000 in interest costs compared to traditional borrowing.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted unanimously on Aug 11 to approve the $1 million zero-interest MWRA loan application for the project."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "6d9859c794a232e0",
+      "status_model": "gemini-3.8-flash"
     },
     "rescinding-unissued-borrowing": {
       "id": "rescinding-unissued-borrowing",
@@ -695,8 +1576,28 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "The Advisory Committee refined its warrant report to explain that Article 6 cancels unused debt authority for completed projects rather than returning cash ahead of Special Town Meeting.",
-      "status_as_of": "2026-10-06"
+      "status": "Article 6 for Special Town Meeting proposes rescinding over $1.1 million in unissued borrowing authority for completed projects at Breakneck Hill and the Neary School study. The Select Board and Advisory Committee both support the article to clear town accounts and prevent unnecessary future debt. However, the Conservation Commission has requested preserving $100,000 of the Breakneck Hill authority to ensure sufficient funding for planned site restoration.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 7-0 on Sep 16 to recommend approval of Article 6 to clear the books and prevent unneeded debt on completed projects."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Sep 15 to recommend approval of Article 6."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "mixed",
+          "detail": "Voted 4-1 on Sep 17 to ask the Select Board to reduce the rescinded borrowing capacity by $100,000 to retain flexibility for Breakneck Hill site restoration."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "4e8a2df5cd5dac12",
+      "status_model": "gemini-3.8-flash"
     },
     "reserve-fund-transfer-policy": {
       "id": "reserve-fund-transfer-policy",
@@ -705,8 +1606,18 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-27",
       "last_seen": "2026-08-05",
-      "status": "The Advisory Committee revised its reserve fund transfer guidelines to require vetting by the town administrator and prohibit reimbursement of previously paid or encumbered expenses. A clean working draft is being prepared for final approval at a future meeting.",
-      "status_as_of": "2026-08-05"
+      "status": "The Advisory Committee is in the process of updating its written policy and procedures governing departmental Reserve Fund transfer requests. The revised draft tightens guidelines to ensure requests cover extraordinary and unforeseen future expenses rather than retroactive reimbursements, while requiring executive board oversight and vetting by the town administrator. The committee is awaiting a clean working draft for final approval.",
+      "status_as_of": "2026-08-05",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Working to finalize updated guidelines that tighten statutory criteria, require Town Administrator vetting, and prohibit retroactive reimbursements."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "70b70bc76b7e952d",
+      "status_model": "gemini-3.8-flash"
     },
     "route-9-495-gateway-study": {
       "id": "route-9-495-gateway-study",
@@ -715,8 +1626,28 @@
       "category": "Zoning & development",
       "first_seen": "2026-05-18",
       "last_seen": "2026-09-03",
-      "status": "The Wastewater Study Committee paused further meetings and consultant hiring while awaiting the state's Community One Stop for Growth grant announcement in October 2026.",
-      "status_as_of": "2026-09-03"
+      "status": "Southborough is awaiting a decision on a joint $150,000 state Community One Stop for Growth grant application submitted with Westborough to study zoning, economic development, and wastewater along the Route 9 and I-495 corridor. The project has unanimous backing from town boards, with Southborough slated to provide a $7,500 local cash match if funds are awarded. The Planning Board conditioned its support on ensuring adjacent residential neighborhoods are safeguarded while focusing on commercial development opportunities. The Wastewater Study Committee is pausing further consultant work and meetings until the state announces grant awards.",
+      "status_as_of": "2026-09-03",
+      "positions": [
+        {
+          "body": "Wastewater Study Committee",
+          "stance": "support",
+          "detail": "Endorsed the joint grant application and decided on Sep 3, 2026, to hold off on retaining engineering consultants until award decisions are announced."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 4-0 on May 21, 2026, to endorse an amended letter of support after adding neighborhood buffer protections and emphasizing commercial development."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on May 19, 2026, to approve an amended letter supporting the regional grant application."
+        }
+      ],
+      "next": "State Community One Stop for Growth grant award announcement in October 2026",
+      "status_fingerprint": "008df445614e3ebf",
+      "status_model": "gemini-3.8-flash"
     },
     "route-9-wastewater-infrastructure": {
       "id": "route-9-wastewater-infrastructure",
@@ -725,8 +1656,23 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-04-20",
       "last_seen": "2026-09-03",
-      "status": "The Wastewater Study Committee agreed to focus planning on a modular sewer collection design along the south side of Route 9 and deferred warrant articles to the spring 2027 Annual Town Meeting. Committee representatives will participate in an informational consultation with MassDEP in late September 2026.",
-      "status_as_of": "2026-09-03"
+      "status": "The Route 9 wastewater infrastructure plan is under active review and design development, with the Wastewater Study Committee deferring any warrant articles to the spring 2027 Annual Town Meeting. The committee and the Select Board support pursuing the project and exploring District Improvement Financing, though the committee determined it lacked sufficient cost and engineering details for the fall 2026 Special Town Meeting. Major open challenges include finding 15 to 20 acres for ground effluent leaching and resolving state environmental permitting issues such as Zone C water protection restrictions and interbasin transfer rules. Planning is currently focused on a modular, expandable collection and treatment layout along the south side of Route 9.",
+      "status_as_of": "2026-09-03",
+      "positions": [
+        {
+          "body": "Wastewater Study Committee",
+          "stance": "support",
+          "detail": "Focusing on a modular facility layout along Route 9 and targeting the spring 2027 Annual Town Meeting to present financing and engineering plans."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-1 in June 2026 to fund financial analysis for District Improvement Financing and voted 4-0-1 in April to extend the committee's charge through June 2027."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b4aaf28eff916b72",
+      "status_model": "gemini-3.8-flash"
     },
     "ruby-estates-subdivision": {
       "id": "ruby-estates-subdivision",
@@ -735,8 +1681,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
-      "status": "The Planning Board voted 5-0 to accept a surety agreement backed by a bond exceeding $300,000 and released all six subdivision lots from the covenant.",
-      "status_as_of": "2026-06-22"
+      "status": "The Planning Board has approved the surety agreement and released all six subdivision lots from their covenant following roadway binder and utility installation. The developer's bond covers remaining subdivision improvements. No outstanding issues or board reviews remain pending.",
+      "status_as_of": "2026-06-22",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 22, 2026, to accept the surety agreement and release all six lots from the subdivision covenant."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "140061e067c158f9",
+      "status_model": "gemini-3.8-flash"
     },
     "rural-cemetery-water-tower": {
       "id": "rural-cemetery-water-tower",
@@ -745,8 +1701,23 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-08",
       "last_seen": "2026-08-03",
-      "status": "The Community Preservation Committee formally deferred the water tower restoration funding application to the spring 2027 Annual Town Meeting round due to consultant workloads.",
-      "status_as_of": "2026-08-03"
+      "status": "Funding and assessment plans for the Rural Cemetery stone water tower are deferred until the spring 2027 Annual Town Meeting. The Historical Commission is preparing an application for Community Preservation Act funding to conduct an architectural and engineering assessment, having dropped earlier concepts to repurpose the tower interior as a columbarium. The proposal was postponed from the fall round to give the consultant time to document the structure and prepare bid specifications.",
+      "status_as_of": "2026-08-03",
+      "positions": [
+        {
+          "body": "Community Preservation Committee",
+          "stance": "undecided",
+          "detail": "Agreed on Aug 3 to defer the funding application to the spring Annual Town Meeting round due to consultant preparation workloads."
+        },
+        {
+          "body": "Historical Commission",
+          "stance": "support",
+          "detail": "Is advancing an application for Community Preservation Act funding to conduct an architectural and engineering restoration study."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "0d745885ffee62d8",
+      "status_model": "gemini-3.8-flash"
     },
     "sarsenstone-way-coc": {
       "id": "sarsenstone-way-coc",
@@ -755,8 +1726,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-07-27",
       "last_seen": "2026-08-27",
-      "status": "The Conservation Commission voted 5-0 to approve a full Certificate of Compliance for the subdivision under DEP File 290-100 after archival Department of Public Works records confirmed that required roadway and drainage infrastructure had been built.",
-      "status_as_of": "2026-08-27"
+      "status": "The matter is resolved following the Conservation Commission's unanimous approval of a full Certificate of Compliance on August 27, 2026. The approval came after town staff located historic Department of Public Works as-built plans confirming road and drainage requirements were satisfied. The commission had previously granted a partial certificate in July for two specific parcels involved in probate proceedings.",
+      "status_as_of": "2026-08-27",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 5-0 on August 27, 2026, to approve the full Certificate of Compliance after records confirmed subdivision requirements were met."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "c005bb4073c80753",
+      "status_model": "gemini-3.8-flash"
     },
     "scenic-road-tree-removals": {
       "id": "scenic-road-tree-removals",
@@ -775,8 +1756,12 @@
       "category": "Schools",
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-13",
-      "status": "The district reported improved bus route reliability with contractor NRT and plans to meet in June to negotiate contract penalties for delayed technology rollouts.",
-      "status_as_of": "2026-05-13"
+      "status": "Bus operations and driver staffing with contractor NRT have stabilized, with live security cameras and turn-by-turn GPS now operational. However, the rollout of student RFID tap cards has faced delays due to hardware and driver training issues, prompting district administration to pursue contractual penalty deductions. The School Committee accepted an update on the service in May 2026 without taking a formal position.",
+      "status_as_of": "2026-05-13",
+      "positions": [],
+      "next": "",
+      "status_fingerprint": "07af048d58782203",
+      "status_model": "gemini-3.8-flash"
     },
     "school-food-service-contract": {
       "id": "school-food-service-contract",
@@ -785,8 +1770,18 @@
       "category": "Schools",
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-13",
-      "status": "The School Committee voted unanimously to extend its food service contract with Whitsons Culinary Group for the 2026-2027 school year.",
-      "status_as_of": "2026-05-13"
+      "status": "The district's food services contract with Whitsons Culinary Group has been extended for the 2026–2027 school year following a unanimous School Committee vote. The renewal incorporated a 3.9% CPI fee increase and retained a guaranteed return provision after the program ran a net deficit through March 2026. District administration plans to evaluate Whitsons' performance later this fall to determine whether to continue into a third year or put the contract out to bid.",
+      "status_as_of": "2026-05-13",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Voted unanimously on May 13, 2026, to extend Whitsons' contract for the 2026–2027 school year with a 3.9% CPI adjustment."
+        }
+      ],
+      "next": "Administrative performance review in December 2026 to determine whether to rebid or continue the contract for year three.",
+      "status_fingerprint": "a71ad64c46be1c2d",
+      "status_model": "gemini-3.8-flash"
     },
     "senior-tax-work-off-policy": {
       "id": "senior-tax-work-off-policy",
@@ -795,8 +1790,18 @@
       "category": "Budget & taxes",
       "first_seen": "2026-04-27",
       "last_seen": "2026-04-28",
-      "status": "The Select Board voted unanimously to adopt a revised Senior Tax Work-Off Policy and set the program's allocation at 40 slots.",
-      "status_as_of": "2026-04-28"
+      "status": "The Senior Tax Work-Off Policy stands approved with an expanded allocation of 40 participant positions. The Select Board unanimously re-approved the policy in September 2026, adding CORI check requirements and exclusions for other employee benefits following earlier revisions that streamlined eligibility rules. No further board reviews or updates are currently scheduled.",
+      "status_as_of": "2026-09-02",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted unanimously on September 2, 2026, to re-approve the amended policy requiring CORI checks and excluding other employee benefits."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "2e7ed7748553b2bf",
+      "status_model": "gemini-3.8-flash"
     },
     "southborough-golf-club-audubon-plan": {
       "id": "southborough-golf-club-audubon-plan",
@@ -805,8 +1810,23 @@
       "category": "Environment & conservation",
       "first_seen": "2026-05-18",
       "last_seen": "2026-10-13",
-      "status": "The Golf Committee voted unanimously to pay $500 in Audubon International dues and authorized up to $4,500 from its revolving fund to bridge the funding gap for a consultant's certification proposal.",
-      "status_as_of": "2026-10-13"
+      "status": "The Golf Committee is moving forward with hiring consultant Conservation Works to complete an environmental management plan for Audubon International certification. After the sole $18,400 proposal exceeded available Community Preservation Act funding, the committee voted on October 13 to cover the $4,500 shortfall using its revolving fund and pay overdue membership dues. The committee plans to negotiate the final contract scope while working to demonstrate progress ahead of Town Meeting.",
+      "status_as_of": "2026-10-13",
+      "positions": [
+        {
+          "body": "Golf Committee",
+          "stance": "support",
+          "detail": "Voted unanimously on October 13 to authorize up to $4,500 from its revolving fund to cover the consultant funding gap and pay past-due membership fees."
+        },
+        {
+          "body": "Public comment",
+          "stance": "neutral",
+          "detail": "A resident inquired about past attempts at Audubon certification and funding set aside for golf course projects."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "a8deac4deba53317",
+      "status_model": "gemini-3.8-flash"
     },
     "southborough-golf-club-irrigation": {
       "id": "southborough-golf-club-irrigation",
@@ -815,8 +1835,38 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-01",
       "last_seen": "2026-10-13",
-      "status": "The Golf Committee agreed by consensus to present its CPA funding article as written at the October 17 Special Town Meeting without seeking floor amendments.",
-      "status_as_of": "2026-10-13"
+      "status": "A request for additional Community Preservation Act funding to complete a $1.087 million irrigation replacement at the Southborough Golf Club heads to Special Town Meeting on October 17, 2026. The Select Board, Community Preservation Committee, and Golf Committee support the article, which pairs roughly $433,500 in new CPA funds with $100,000 from the golf revolving fund and previous appropriations. The Advisory Committee unanimously opposes it, arguing that golf course capital projects should be self-funded through player fees rather than town CPA funds.",
+      "status_as_of": "2026-10-13",
+      "positions": [
+        {
+          "body": "Golf Committee",
+          "stance": "support",
+          "detail": "Supports the warrant article as drafted to complete the irrigation replacement without seeking floor amendments."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "support",
+          "detail": "Voted 4-1 to recommend appropriating $433,546 in CPA funds subject to conservation and certification conditions."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on September 24 to recommend approval of Article 3."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Voted 0-7 against the article, contending the course should remain self-sustaining through player surcharges rather than CPA funds."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Reached consensus supporting the proposed design, including directional utility boring and a pump station under the conservation restriction."
+        }
+      ],
+      "next": "Special Town Meeting on October 17, 2026",
+      "status_fingerprint": "cf04a4945b504a27",
+      "status_model": "gemini-3.8-flash"
     },
     "sta-unit-c-contract": {
       "id": "sta-unit-c-contract",
@@ -825,8 +1875,18 @@
       "category": "Schools",
       "first_seen": "2026-06-15",
       "last_seen": "2026-06-18",
-      "status": "The School Committee voted 5-0 to approve a three-year collective bargaining agreement with the Southborough Teachers Association covering Unit C administrative assistants and educational support professionals.",
-      "status_as_of": "2026-06-18"
+      "status": "The Southborough School Committee unanimously approved a three-year collective bargaining agreement with the Southborough Teachers Association for Unit C in June 2026. The contract covers administrative assistants and educational support professionals following what administration described as collaborative negotiations. The agreement was slated to be made public once ratified by both parties.",
+      "status_as_of": "2026-06-18",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 18, 2026, to approve the three-year contract following collaborative negotiations."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "450817409adbe3c6",
+      "status_model": "gemini-3.8-flash"
     },
     "stewardship-committee-structure": {
       "id": "stewardship-committee-structure",
@@ -835,8 +1895,33 @@
       "category": "Governance & committees",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-11",
-      "status": "The Select Board voted 4-1 to amend the committee charge to add a fourth at-large member and 5-0 to appoint Freddie Gillespie to the seat through June 2027.",
-      "status_as_of": "2026-08-11"
+      "status": "The Select Board resolved immediate membership questions on August 11, 2026, voting 4-1 to amend the Stewardship Committee charge to add an at-large seat and appointing Freddie Gillespie. Both the Stewardship Committee and the Conservation Commission oppose merging Stewardship with the Open Space Preservation Commission, arguing its land management role should remain distinct. While Select Board members have discussed conducting broader reviews of conservation and open space committee structures, no consolidation plan is currently scheduled for action.",
+      "status_as_of": "2026-08-11",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Voted 4-1 to convert the disputed seat into an at-large position and appointed Freddie Gillespie 5-0, while keeping broader reviews of committee consolidation open."
+        },
+        {
+          "body": "Stewardship Committee",
+          "stance": "oppose",
+          "detail": "Opposes merging with the Open Space Preservation Commission, maintaining that it should remain an independent entity focused strictly on managing Breakneck Hill and the Town Forest."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "oppose",
+          "detail": "Voted 5-0 on June 25, 2026, to send a letter opposing consolidation and urging the Select Board to preserve the Stewardship Committee's separate mission."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "Commenters spoke in favor of reappointing Freddie Gillespie, emphasizing her extensive conservation record, volunteer commitment, and habitat management expertise."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "bdb04060543039dd",
+      "status_model": "gemini-3.8-flash"
     },
     "stormwater-enterprise-fund": {
       "id": "stormwater-enterprise-fund",
@@ -845,8 +1930,23 @@
       "category": "Environment & conservation",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "The Advisory Committee adjusted its report language for Article 5 ahead of Special Town Meeting, emphasizing that establishing the enterprise fund structure does not implement any fees without future Town Meeting approval.",
-      "status_as_of": "2026-10-06"
+      "status": "A proposed warrant article to establish a municipal stormwater enterprise fund starting in fiscal year 2028 is awaiting Town Meeting consideration. Both the Advisory Committee and the Select Board have voted to recommend approval of Article 5. Officials have emphasized that the measure creates only an accounting framework, meaning any future fee structure or operating budget would require separate Town Meeting approval.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 7-0 on Sep 16 to recommend approval, later adjusting report language to clarify that creating the fund does not implement any fees."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-1 on Sep 15 to recommend approval after examining cost modeling that would eventually bill properties based on impervious surface area."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "40f7ea5858010bf4",
+      "status_model": "gemini-3.8-flash"
     },
     "street-tree-planting-program": {
       "id": "street-tree-planting-program",
@@ -855,8 +1955,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
-      "status": "The Planning Board voted 5-0 to approve a $5,500 expenditure for Davey Resource Group to conduct an initial street tree planting pilot study evaluating 10 to 15 streets.",
-      "status_as_of": "2026-06-22"
+      "status": "The street tree planting pilot study has been approved and funded. The Planning Board unanimously authorized $5,500 from the tree fund for Davey Resource Group to assess canopy cover along 10 to 15 streets and locate approximately 25 replacement planting sites. A board member was designated as liaison to work with the tree warden on the project.",
+      "status_as_of": "2026-06-22",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on June 22, 2026, to approve the $5,500 pilot study proposal from Davey Resource Group."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "288b7e64578c35d7",
+      "status_model": "gemini-3.8-flash"
     },
     "town-budget-process-policy": {
       "id": "town-budget-process-policy",
@@ -865,8 +1975,23 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-27",
       "last_seen": "2026-09-15",
-      "status": "The Select Board reviewed a proposed budget policy defining board roles and timelines, agreeing to seek further input from Town Counsel and the Department of Revenue.",
-      "status_as_of": "2026-09-15"
+      "status": "The draft town budget process policy is currently on hold following the Select Board's decision to table the measure on September 15. The primary dispute involves defining the division of responsibilities among the Select Board, Town Administrator, and Advisory Committee in developing the budget and preparing warrants. The Select Board is awaiting legal guidance from Town Counsel and clarification from the state Department of Revenue before taking further action.",
+      "status_as_of": "2026-09-15",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Tabled the draft policy on Sep 15 to seek clarification from Town Counsel and state officials regarding statutory versus advisory committee roles."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "mixed",
+          "detail": "Drafted revisions to protect its independent authority to evaluate, present, and defend the budget at Town Meeting, while expressing concern that the policy omits school spending."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "d16a64e55416d1f6",
+      "status_model": "gemini-3.8-flash"
     },
     "town-common-fence-restoration": {
       "id": "town-common-fence-restoration",
@@ -875,8 +2000,18 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-01",
       "last_seen": "2026-06-24",
-      "status": "A contract was executed with Kneeland Construction, with a multi-department coordination meeting scheduled for June 29, 2026.",
-      "status_as_of": "2026-06-24"
+      "status": "The Town Common fence and railing restoration is moving forward after the Select Board awarded the base contract to Kneeland Construction. Total base project costs, including engineering and construction oversight, are estimated at $82,000 to $83,000, within the project's $120,000 Community Preservation Act funding. The town plans to address a missing section lost during state highway construction separately through MassDOT or a future bid.",
+      "status_as_of": "2026-06-02",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-1 on June 2, 2026, to award the $70,500 base restoration contract to Kneeland Construction."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "c568d1224fe214db",
+      "status_model": "gemini-3.8-flash"
     },
     "town-forest-footbridge": {
       "id": "town-forest-footbridge",
@@ -885,8 +2020,18 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-04",
-      "status": "The Stewardship Committee voted 4-0 to approve the use of pressure-treated lumber for an Eagle Scout footbridge project in the Town Forest after reviewing environmental findings from the Conservation Commission.",
-      "status_as_of": "2026-08-04"
+      "status": "The Stewardship Committee has authorized the use of pre-cut pressure-treated lumber for the Eagle Scout footbridge project in the Town Forest. The approval followed a review of findings indicating that modern treated wood poses minimal risk to the surrounding wetland and vernal pool. No further committee reviews or subsequent steps are currently scheduled.",
+      "status_as_of": "2026-08-04",
+      "positions": [
+        {
+          "body": "Stewardship Committee",
+          "stance": "support",
+          "detail": "Voted 4-0 on Aug 4 to approve using pre-cut pressure-treated wood, citing findings that modern treated lumber leaches minimal chemicals into wetlands."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "3b954565938090c8",
+      "status_model": "gemini-3.8-flash"
     },
     "town-governance-study": {
       "id": "town-governance-study",
@@ -895,8 +2040,18 @@
       "category": "Governance & committees",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "Consultant Bill Keegan presented an initial overview of Southborough's governance model, town manager authority, and committee structures to the Select Board as the municipal structure study gets underway.",
-      "status_as_of": "2026-10-06"
+      "status": "The town government structure study is currently underway, with consultant Capital Strategic Strategies presenting an initial overview to the Select Board in early October. The study is evaluating Southborough's governance model, town manager authority, charter versus bylaws, and the town's 68 committees. The 18-week project was commissioned to identify organizational efficiencies and reporting improvements.",
+      "status_as_of": "2026-10-06",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-1 on Aug 11 to award the $24,650 study contract, with one member dissenting over spending during impending budget deficits."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "af75f65356847976",
+      "status_model": "gemini-3.8-flash"
     },
     "town-satisfaction-survey": {
       "id": "town-satisfaction-survey",
@@ -905,8 +2060,23 @@
       "category": "Governance & committees",
       "first_seen": "2026-09-21",
       "last_seen": "2026-09-23",
-      "status": "The Municipal Technology Committee and Affordable Housing Trust refined survey questions and finalized community outreach plans for the 2026 survey, which is scheduled to run from October 1 through November 30, 2026.",
-      "status_as_of": "2026-09-23"
+      "status": "The 2026 Southborough Satisfaction Survey is currently open to residents and running through November 30. The Municipal Technology Committee streamlined the questions and added sections on affordable housing and Council on Aging services to address drop-off rates seen in previous years. Following outreach at community events earlier in the month, the survey remains active online.",
+      "status_as_of": "2026-09-23",
+      "positions": [
+        {
+          "body": "Municipal Technology Committee",
+          "stance": "support",
+          "detail": "Organizing and conducting the 2026 survey, focusing on streamlined questions and expanded community outreach to boost response and completion rates."
+        },
+        {
+          "body": "Affordable Housing Trust",
+          "stance": "support",
+          "detail": "Drafted and submitted recommendations on housing questions, clarifying terminology around development types and locations for inclusion in the survey."
+        }
+      ],
+      "next": "Survey closes on November 30, 2026.",
+      "status_fingerprint": "f889644862186186",
+      "status_model": "gemini-3.8-flash"
     },
     "town-website-redesign": {
       "id": "town-website-redesign",
@@ -915,8 +2085,12 @@
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
       "last_seen": "2026-09-23",
-      "status": "Contract and module discussions with CivicPlus for the town website upgrade remain scheduled to begin around November 2026, targeting implementation in early 2027.",
-      "status_as_of": "2026-09-23"
+      "status": "The municipal website redesign is currently in preparation, with implementation targeted for early 2027. Contract and module discussions with vendor CivicPlus are scheduled to begin around November. Committee discussions have also focused on the lack of dedicated town communications staff to oversee content and messaging, as well as plans to review web analytics ahead of the overhaul.",
+      "status_as_of": "2026-09-23",
+      "positions": [],
+      "next": "Contract and module discussions with CivicPlus are expected to begin in November 2026.",
+      "status_fingerprint": "feb33e42527e7864",
+      "status_model": "gemini-3.8-flash"
     },
     "transfer-station-fees-and-regulations": {
       "id": "transfer-station-fees-and-regulations",
@@ -925,8 +2099,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-07-06",
       "last_seen": "2026-09-02",
-      "status": "The Select Board voted unanimously to continue participating in the 35-member municipal consortium negotiating bulk disposal rates with WIN Waste ahead of the contract expiration in December 2027.",
-      "status_as_of": "2026-09-02"
+      "status": "The Select Board has approved updated transfer station rules and FY27 permit fees, and voted to remain in a 35-community municipal consortium to negotiate its next regional waste disposal contract. Under the revised regulations, the Department of Public Works clarified Swap Shop operations and excluded child car seats based on pediatric safety advice. The town retains the right to review individual contract terms as consortium negotiations proceed ahead of the current disposal agreement's December 2027 expiration.",
+      "status_as_of": "2026-09-02",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Unanimously approved updated facility rules in August and voted in September to continue participating in the regional consortium for refuse disposal negotiations."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "07ba6422124fad1f",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-firefighters-muster": {
       "id": "tricentennial-firefighters-muster",
@@ -935,8 +2119,18 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "Eight antique fire apparatus teams have confirmed participation for the 2027 muster, and organizers are preparing site and parking layouts ahead of the next committee meeting.",
-      "status_as_of": "2026-10-14"
+      "status": "Planning for the July 17, 2027 antique firefighter's muster at Woodward School is underway under a $25,000 budget authorized by the Tricentennial Committee. Eight antique fire pumping apparatus teams have confirmed participation, with organizers expecting up to 20 teams alongside demonstrations by Southborough's restored historic hand tubs. Organizers are currently preparing site and parking layouts to submit to the committee next month.",
+      "status_as_of": "2026-10-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Voted 6-0 on June 10, 2026, to approve an event budget not to exceed $25,000 and is overseeing ongoing event logistics."
+        }
+      ],
+      "next": "Presentation of site and parking layouts at the Tricentennial Committee meeting in November 2026.",
+      "status_fingerprint": "5e71a05c8a54ce5c",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-first-day": {
       "id": "tricentennial-first-day",
@@ -945,8 +2139,18 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "A contract was executed for a 200-drone light show for January 1, 2027, and committee leaders scheduled a site walk to inspect potential bonfire locations ahead of a November 17 student artwork deadline.",
-      "status_as_of": "2026-10-14"
+      "status": "Planning is underway for the town's January 1, 2027 Tricentennial kickoff celebration, with a contract executed for a 200-drone aerial light show launching from St. Mark's field. The Tricentennial Committee is currently adjusting logistical details for other activities, including considering tractor wagons instead of costly horse-drawn rides. Potential field damage and wiring concerns at Woodward School have also prompted committee members to reconsider the bonfire's timing and location. Committee leaders and staff will inspect prospective bonfire sites during an upcoming site walk.",
+      "status_as_of": "2026-10-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Finalized the drone show contract and is actively organizing kickoff activities while resolving venue and cost logistics for the bonfire and hayrides."
+        }
+      ],
+      "next": "Site walk to evaluate bonfire locations on October 18, 2026.",
+      "status_fingerprint": "7062963077db2e3a",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-heritage-day-parade": {
       "id": "tricentennial-heritage-day-parade",
@@ -955,8 +2159,18 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "The parade working group is reviewing route and staging options and coordinating with public safety officials ahead of future parades.",
-      "status_as_of": "2026-10-14"
+      "status": "Planning for the 2027 Tricentennial Heritage Day Parade remains underway as the Tricentennial Committee evaluates route options and logistics. The committee is focused on addressing low spectator turnout seen in past parades by considering shorter parade lengths, college marching bands, and staging cannons at Sharp Field. Next, the parade working group will review route alternatives and coordinate planning with public safety officials.",
+      "status_as_of": "2026-10-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Supports the expanded celebration and is actively exploring route options, staging locations, and entertainment to increase spectator turnout."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "cd65f1a6bfd74bbd",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-street-banners": {
       "id": "tricentennial-street-banners",
@@ -965,8 +2179,18 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "Town administration is continuing utility permitting paperwork to install celebratory banners on utility poles across town.",
-      "status_as_of": "2026-10-14"
+      "status": "Town administration is coordinating with utility companies to secure attachment permits for commemorative street banners across Southborough's historic villages. The Tricentennial Committee has approved visual designs and recently reduced proposed banner locations from 67 toward a cap of 50 poles to avoid extra inspection fees. Permitting remains pending with National Grid and Verizon before installation can move forward.",
+      "status_as_of": "2026-10-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Approved visual designs and is actively coordinating utility permits, targeting a cap of 50 poles to minimize utility inspection costs."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "b5b24d8866d66ba0",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-summer-nights": {
       "id": "tricentennial-summer-nights",
@@ -975,8 +2199,18 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "Organizers are finalizing stage specifications and coordinating event layouts with police, fire, and recreation departments for the August 21, 2027 music festival, ahead of an accessibility grant application deadline on October 18, 2026.",
-      "status_as_of": "2026-10-14"
+      "status": "Planning is underway to expand the annual Summer Nights event into a multi-stage music festival on August 21, 2027, at the Neary School grounds for the town's Tricentennial. The Tricentennial Committee is currently finalizing stage specifications, securing a headlining act, and pursuing grant funding for accessibility features such as shuttle services and a hospitality tent. Organizers will next coordinate site layout and logistics with the recreation, police, and fire departments.",
+      "status_as_of": "2026-10-14",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Actively advancing plans for the expanded August 2027 festival, including stage specifications, performer agreements, and grant funding."
+        }
+      ],
+      "next": "Submission of grant application for festival accessibility features on October 18, 2026",
+      "status_fingerprint": "4d4066078e057dac",
+      "status_model": "gemini-3.8-flash"
     },
     "tricentennial-time-capsule": {
       "id": "tricentennial-time-capsule",
@@ -985,8 +2219,18 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-09-16",
-      "status": "The Tricentennial Committee continues coordinating collection protocols offline for items to be placed inside the 300th anniversary time capsule.",
-      "status_as_of": "2026-09-16"
+      "status": "The Tricentennial Committee is moving forward with an above-ground time capsule display inside a public building to protect archival records and avoid underground enclosure costs. Committee members are currently coordinating offline on item collection protocols with assistance from Boy Scout Troop 1. A formal recommendation on placement is expected to go before the Select Board.",
+      "status_as_of": "2026-09-16",
+      "positions": [
+        {
+          "body": "Tricentennial Committee",
+          "stance": "support",
+          "detail": "Supports an above-ground indoor display to protect photographs and written records while keeping preservation costs down."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "5d5e21dd0fb163cb",
+      "status_model": "gemini-3.8-flash"
     },
     "trottier-finn-expansion-studies": {
       "id": "trottier-finn-expansion-studies",
@@ -1005,8 +2249,18 @@
       "category": "Schools",
       "first_seen": "2026-03-23",
       "last_seen": "2026-05-12",
-      "status": "The School Committee incorporated the Trottier Middle School roof project into the FY27 capital plan ahead of an MSBA funding determination.",
-      "status_as_of": "2026-05-12"
+      "status": "The proposed Trottier Middle School roof replacement is currently part of the district's reshuffled FY27 capital plan, with a gross estimate of nearly $8.9 million and an anticipated 41% MSBA reimbursement. The project will require Town Meeting to vote on the full gross authorization amount rather than the net cost after reimbursement. The School Committee supports the project and has focused on educating voters about the project's funding structure.",
+      "status_as_of": "2026-05-12",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Supports advancing the roof replacement and voted 4-0 on March 24, 2026, to approve an informational flyer explaining the gross authorization and net cost to taxpayers."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "97a86b59382f8a38",
+      "status_model": "gemini-3.8-flash"
     },
     "two-family-zoning-amendment": {
       "id": "two-family-zoning-amendment",
@@ -1015,8 +2269,38 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-10-07",
-      "status": "The Zoning Board of Appeals voted unanimously to support the proposed bylaw amendment as drafted, while the Advisory Committee finalized report language recommending against approval ahead of the October 17 Special Town Meeting.",
-      "status_as_of": "2026-10-07"
+      "status": "The proposed zoning amendment to eliminate the two-year waiting period for converting single-family homes into two-family dwellings is headed to Special Town Meeting as Article 2. The Zoning Board of Appeals and Select Board support the article, but the Advisory Committee voted against recommending it due to concerns over speculative house-flipping, septic impacts, and increased density. The Planning Board has not yet taken a formal stance as members weigh whether the text creates unintended loopholes in commercial districts. The Planning Board will conclude its public hearing on the morning of October 17, 2026, ahead of Special Town Meeting.",
+      "status_as_of": "2026-10-07",
+      "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Sponsored the amendment and voted unanimously on Oct 7 to advance Article 2 to Town Meeting as drafted."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Sep 24 to support the revised article on the Special Town Meeting warrant."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Voted 3-4 on Sep 16 against recommending approval, citing worries about property flipping, smaller lot sizes in Residential B zones, and septic capacity."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Has not voted on a recommendation while reviewing how lot size baselines apply across residential and commercial zoning districts."
+        },
+        {
+          "body": "Public comment",
+          "stance": "oppose",
+          "detail": "A former Planning Board chair warned that repeating district lot-size requirements creates ambiguity that could allow two-family homes on undersized commercial lots."
+        }
+      ],
+      "next": "Planning Board public hearing continuation on October 17, 2026 at 9:05 AM",
+      "status_fingerprint": "cf30b6ca7428ee76",
+      "status_model": "gemini-3.8-flash"
     },
     "well-and-septic-regulations": {
       "id": "well-and-septic-regulations",
@@ -1025,8 +2309,18 @@
       "category": "Health & human services",
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-07",
-      "status": "Following a public hearing, the Board of Health voted unanimously to adopt updated well and septic regulations requiring separation of septic design and installation roles, guaranteed access for repairs, a 25-foot pool setback, and mandatory pre-transfer well testing.",
-      "status_as_of": "2026-07-07"
+      "status": "The Board of Health unanimously approved the amendments to Southborough's private well and subsurface sewage disposal regulations following a public hearing in July 2026. The updated rules separate roles for septic design and installation, mandate repair access, establish a 25-foot setback between new wells and swimming pools, and require well testing prior to home sales with a mutual opt-out provision. No further board action or review is pending.",
+      "status_as_of": "2026-07-07",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted unanimously on July 7, 2026, to adopt the updated well and septic regulations as presented."
+        }
+      ],
+      "next": "",
+      "status_fingerprint": "80c414ae13953c6a",
+      "status_model": "gemini-3.8-flash"
     }
   }
 }
