@@ -18,6 +18,12 @@
 <section class="status-box" aria-label="Where it stands">
   <p class="status-label">Where it stands{% if issue.status_day %} <span class="muted">as of {{ issue.status_day }}</span>{% endif %}</p>
   <p class="status-text">{{ issue.status }}</p>
+  {% if issue.positions %}
+  <ul class="positions">
+    {% for p in issue.positions %}<li><span class="stance is-{{ p.stance }}">{{ {'support': 'For', 'oppose': 'Against', 'mixed': 'Mixed', 'neutral': 'Neutral', 'undecided': 'Undecided'}[p.stance] }}</span> <strong>{{ p.body }}</strong> <span class="muted">{{ p.detail }}</span></li>{% endfor %}
+  </ul>
+  {% endif %}
+  {% if issue.next %}<p class="status-next"><strong>Next:</strong> {{ issue.next }}</p>{% endif %}
 </section>
 {% endif %}
 

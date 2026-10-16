@@ -59,6 +59,8 @@ run_time_limit_minutes = 120
 max_week_summaries_per_run = 8
 max_link_weeks_per_run = 30
 max_month_summaries_per_run = 12
+# "Where it stands" for each issue whose record changed.
+max_issue_statuses_per_run = 100
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
@@ -81,6 +83,7 @@ meeting_max_output_tokens = 32000
 week_max_output_tokens = 6000
 link_max_output_tokens = 32000
 month_max_output_tokens = 16000
+issue_max_output_tokens = 16000
 call_timeout_minutes = 20
 # Optional: pin the Interactions API revision (for example "2026-05-20").
 api_revision = ""

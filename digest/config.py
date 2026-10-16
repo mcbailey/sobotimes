@@ -71,6 +71,7 @@ class BudgetConfig:
     max_week_summaries_per_run: int = 8
     max_link_weeks_per_run: int = 12
     max_month_summaries_per_run: int = 4
+    max_issue_statuses_per_run: int = 100
 
 
 @dataclass
@@ -86,6 +87,7 @@ class GeminiConfig:
     week_max_output_tokens: int = 6000
     link_max_output_tokens: int = 32000
     month_max_output_tokens: int = 16000
+    issue_max_output_tokens: int = 16000
     call_timeout_minutes: int = 20
     api_revision: str = ""
     redo_outdated_summaries: bool = True

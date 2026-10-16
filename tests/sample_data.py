@@ -343,6 +343,19 @@ def fake_links(prompt: str) -> dict:
     return out
 
 
+def fake_issue_status(prompt: str) -> dict:
+    """A status built from the record: every board that discussed it gets a position."""
+    import json
+    record = json.loads(prompt.split("Record (JSON):\n", 1)[1].split("\n\nReturn JSON", 1)[0])
+    boards = [b["board"] for b in record["by_board"]]
+    last = record["by_board"][0]["latest"][0] if record["by_board"] else {}
+    return {
+        "status": last.get("outcome") or last.get("summary") or "Under discussion.",
+        "positions": [{"body": b, "stance": "undecided", "detail": "Discussed it."} for b in boards],
+        "next": "",
+    }
+
+
 def fake_month(prompt: str) -> dict:
     import json
     meetings = json.loads(prompt.split("Meetings:\n", 1)[1].split("\n\nReturn JSON", 1)[0])

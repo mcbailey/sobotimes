@@ -79,6 +79,9 @@ class FakeClient:
         if kw["schema"] is prompts.LINK_SCHEMA:
             self.link_calls = getattr(self, "link_calls", 0) + 1
             return Result(text=json.dumps(sample_data.fake_links(inp)), usage=usage)
+        if kw["schema"] is prompts.ISSUE_SCHEMA:
+            self.issue_calls = getattr(self, "issue_calls", 0) + 1
+            return Result(text=json.dumps(sample_data.fake_issue_status(inp)), usage=usage)
         if kw["schema"] is prompts.MONTH_SCHEMA:
             return Result(text=json.dumps(sample_data.fake_month(inp)), usage=usage)
         # a weekly synopsis request
@@ -448,6 +451,7 @@ class SiteTests(unittest.TestCase):
             ET.fromstring((out / "issues" / "fy28-budget" / "feed.xml").read_text())
             # Votes are tagged by what the motion is about, not the topic under way.
             self.assertIn("Adopt FY28 budget guidance", issue)
+            self.assertIn('class="positions"', issue)
             self.assertNotIn("Route 85 sidewalk", issue)
             board = (out / "boards" / "planning-board" / "index.html").read_text()
             self.assertIn("Turnpike Road 24-unit housing", board)
@@ -502,6 +506,11 @@ class LinkTests(unittest.TestCase):
             self.assertEqual(links["upcoming"]["samplePB1007#u0"], {"date": "2026-10-21", "issue": "turnpike-road-housing"})
             self.assertEqual(links["votes"]["sampleSB1006#v0"], {"issue": "fy28-budget"})
             self.assertEqual(links["votes"]["sampleSB1006#v1"], {"issue": "route-85-sidewalks"})
+            # "Where it stands" is written from the issue's whole record, across boards.
+            fy28 = store.load_issues()["fy28-budget"]
+            self.assertIn("status_fingerprint", fy28)
+            self.assertEqual({p["body"] for p in fy28["positions"]}, {"Select Board", "School Committee"})
+            self.assertIn("fy28-budget", report.issues_written)
             # Nothing changed, so a second run makes no text calls at all.
             before = len(client.calls)
             again = p.run()

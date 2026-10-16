@@ -22,6 +22,7 @@ PROMPT_VERSION = "2026-10-13b"
 WEEK_PROMPT_VERSION = "2026-10-15"
 LINK_PROMPT_VERSION = "2026-10-16"
 MONTH_PROMPT_VERSION = "2026-10-15"
+ISSUE_PROMPT_VERSION = "2026-10-16"
 
 CATEGORIES = [
     "Budget & taxes",
@@ -785,6 +786,119 @@ def clean_links(raw: dict, meetings: list[dict], issues: dict) -> dict:
 def _meeting_date(m: dict) -> date:
     md = m["summary"].get("meeting_date") or m["video"].get("published_at", "")[:10]
     return date.fromisoformat(md[:10])
+
+
+# --------------------------------------------------------------------------
+# Where an issue stands (text only, one call per issue)
+# --------------------------------------------------------------------------
+
+ISSUE_SYSTEM = """\
+You write the "Where it stands" box for one issue on a site that summarizes \
+{town} public meetings. Residents read it to learn the current thinking on the \
+matter from every board involved. Today is {today}.
+
+You receive the issue's record grouped by board: each board's most recent \
+discussions in full, its earlier ones in brief, every vote on the issue, \
+public comment from those meetings, and dates mentioned for it.
+
+Write about now, not the history:
+- status: two to four plain sentences: where the matter stands today (for \
+example approved, awaiting Town Meeting, under review, stalled), where the \
+boards currently line up, the main open questions or concerns, and what \
+happens next. Mention earlier events only when they explain the present, such \
+as a board reversing itself or a plan changing substantially. A date that has \
+passed is no longer "upcoming".
+- positions: one entry for each board, committee or group whose current view \
+the record shows, based on its most recent discussion or vote. stance is \
+support, oppose, mixed, neutral or undecided. detail is one short sentence on \
+its current thinking and the basis, such as "Voted 0-7 on Sep 16 to recommend \
+against Article 4, citing the per-foot cost." If its view has shifted, say so \
+briefly ("now opposes; supported the application in June"). Include residents \
+as "Public comment" when comments on this matter were made, giving the range \
+of views. Leave out boards that only heard updates without forming a view.
+- next: the next scheduled step and its date, or an empty string if none is known.
+
+Neutral tone. Facts from the input only: never infer a position that the \
+record doesn't show. Comments listed as "other_comments_at_meeting" may be about \
+other matters; use only those clearly about this issue.
+"""
+
+ISSUE_PROMPT = """\
+Issue (JSON):
+{issue}
+
+Record (JSON):
+{record}
+
+Return JSON matching the schema.
+"""
+
+STANCES = ["support", "oppose", "mixed", "neutral", "undecided"]
+
+ISSUE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "status": {"type": "string"},
+        "positions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "body": {"type": "string", "description": "Board, committee or group, e.g. 'Advisory Committee'."},
+                    "stance": {"type": "string", "enum": STANCES},
+                    "detail": {"type": "string"},
+                },
+                "required": ["body", "stance", "detail"],
+            },
+        },
+        "next": {"type": "string"},
+    },
+    "required": ["status", "positions", "next"],
+}
+
+
+def issue_system(town: str, today: date) -> str:
+    return ISSUE_SYSTEM.format(town=town, today=today.isoformat())
+
+
+ISSUE_RECENT_PER_BOARD = 2
+
+
+def issue_prompt(issue: dict, record: dict) -> str:
+    """The record grouped by board: recent discussions in full, older ones in brief."""
+    head = {k: issue.get(k) for k in ("name", "description", "category")}
+    boards: dict[str, list[dict]] = {}
+    for d in record["discussions"]:  # oldest first
+        boards.setdefault(d["board"], []).append(d)
+    by_board = []
+    for board, ds in sorted(boards.items(), key=lambda kv: kv[1][-1]["date"], reverse=True):
+        recent = ds[-ISSUE_RECENT_PER_BOARD:]
+        earlier = [
+            {k: d[k] for k in ("date", "title", "outcome") if d.get(k)}
+            for d in ds[:-ISSUE_RECENT_PER_BOARD]
+        ]
+        entry = {"board": board, "latest": list(reversed([{k: v for k, v in d.items() if k != "board"} for d in recent]))}
+        if earlier:
+            entry["earlier"] = list(reversed(earlier))
+        by_board.append(entry)
+    shaped = {"by_board": by_board, "votes": list(reversed(record["votes"])), "dates": record["dates"]}
+    return ISSUE_PROMPT.format(
+        issue=json.dumps(head, ensure_ascii=False),
+        record=json.dumps(shaped, ensure_ascii=False, indent=1),
+    )
+
+
+def clean_issue_status(raw: dict) -> dict:
+    status = _str(raw.get("status"))
+    if not status:
+        raise ValueError("no status in response")
+    positions = []
+    for p in raw.get("positions") or []:
+        if isinstance(p, dict) and _str(p.get("body")) and _str(p.get("detail")):
+            positions.append(
+                {"body": _str(p["body"]), "stance": _enum(p.get("stance"), STANCES, "undecided"), "detail": _str(p["detail"])}
+            )
+    return {"status": status, "positions": positions, "next": _str(raw.get("next"))}
 
 
 # --------------------------------------------------------------------------

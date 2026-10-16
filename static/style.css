@@ -351,6 +351,15 @@ mark {
 .status-label { font: 700 0.8rem var(--sans); text-transform: uppercase; letter-spacing: 0.06em; }
 .status-label .muted { text-transform: none; letter-spacing: 0; font-weight: 400; }
 .status-text { font-size: 1.2rem; line-height: 1.5; margin-top: 0.25rem !important; }
+.positions { list-style: none; padding: 0; margin: 0.75rem 0 0; font-family: var(--sans); font-size: 0.92rem; }
+.positions li { padding: 0.3rem 0; line-height: 1.4; }
+.positions .muted { display: block; margin-left: 5.2rem; }
+.stance { display: inline-block; min-width: 4.6rem; margin-right: 0.5rem; padding: 0.05rem 0.4rem; border-radius: 4px; font-size: 0.78rem; font-weight: 700; text-align: center; border: 1px solid var(--rule); }
+.stance.is-support { color: var(--evergreen); border-color: currentColor; }
+.stance.is-oppose { color: #b0412e; border-color: currentColor; }
+.status-next { font-family: var(--sans); font-size: 0.92rem; margin-top: 0.6rem !important; }
+@media (prefers-color-scheme: dark) { .stance.is-oppose { color: #f08b75; } }
+@media (max-width: 34rem) { .positions .muted { margin-left: 0; } }
 
 .issue-timeline { list-style: none; padding: 0; margin: 0; }
 .tl-item { position: relative; padding: 0 0 1.5rem 1.4rem; border-left: 2px solid var(--rule); }

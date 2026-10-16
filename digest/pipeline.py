@@ -55,6 +55,7 @@ class RunReport:
     weeks_written: list[str] = field(default_factory=list)
     links_written: list[str] = field(default_factory=list)
     months_written: list[str] = field(default_factory=list)
+    issues_written: list[str] = field(default_factory=list)
     rate_limited: bool = False
     minutes_used: int = 0
 
@@ -237,7 +238,7 @@ class Pipeline:
             self.store.save_state(state)  # keep progress even if the job is killed
 
         # 4. Weekly synopses, issue links, monthly roll-ups (all text only) ----
-        for step in (self._update_weeks, self._update_links, self._update_months):
+        for step in (self._update_weeks, self._update_links, self._update_issue_statuses, self._update_months):
             if report.rate_limited:
                 break
             step(state, report)
@@ -570,6 +571,59 @@ class Pipeline:
             written += 1
 
     # ------------------------------------------------------------------
+    def _update_issue_statuses(self, state: dict, report: RunReport) -> None:
+        """Rewrite "Where it stands" for each issue whose record changed.
+
+        Each status is written from the issue's whole record (every discussion,
+        vote, comment and date), so it reflects every board's current position
+        rather than only the latest week.
+        """
+        cfg = self.cfg
+        if self.client is None:
+            return
+        issues = self.store.load_issues()
+        records = issue_records(self.store)
+        today = local_date(self.now(), cfg.channel.timezone)
+        written = 0
+        order = sorted(records, key=lambda i: (issues.get(i) or {}).get("last_seen") or "", reverse=True)
+        for iid in order:
+            rec, record = issues.get(iid), records[iid]
+            if rec is None:
+                continue
+            ahead = sum(1 for u in record["dates"] if (u.get("date") or "") >= today.isoformat())
+            fingerprint = hashlib.sha256(
+                json.dumps([prompts.ISSUE_PROMPT_VERSION, cfg.gemini.synthesis_model, ahead, rec.get("name"), record]).encode()
+            ).hexdigest()[:16]
+            if rec.get("status_fingerprint") == fingerprint:
+                continue
+            if written >= cfg.budget.max_issue_statuses_per_run:
+                self.log(f"Issue {iid}: status deferred (per-run cap)")
+                continue
+            self.log(f"Writing status for {rec.get('name') or iid}")
+            try:
+                used_model, result = self._text_call(
+                    state, prompts.issue_prompt(rec, record), prompts.issue_system(cfg.channel.town, today),
+                    prompts.ISSUE_SCHEMA, cfg.gemini.issue_max_output_tokens,
+                )
+                out = prompts.clean_issue_status(result.json())
+            except TryLater as e:
+                report.rate_limited = True
+                self.log(f"Rate limited while writing issue statuses: {e}")
+                break
+            except (GeminiError, ValueError, KeyError) as e:
+                report.errors.append(f"issue {iid}: {e}")
+                self.log(f"Failed to write status for {iid}: {e}")
+                continue
+            rec.update(out)
+            rec["status_as_of"] = max(x["date"] for x in record["discussions"] + record["votes"]) if (
+                record["discussions"] or record["votes"]) else rec.get("status_as_of")
+            rec["status_fingerprint"] = fingerprint
+            rec["status_model"] = used_model
+            self.store.save_issues(issues)
+            report.issues_written.append(iid)
+            written += 1
+
+    # ------------------------------------------------------------------
     def _update_months(self, state: dict, report: RunReport) -> None:
         cfg = self.cfg
         if self.client is None:
@@ -640,11 +694,71 @@ def _fingerprint(head: list, vids: list[dict]) -> str:
     ).hexdigest()[:16]
 
 
+def issue_records(store: Store) -> dict[str, dict]:
+    """Everything recorded about each issue, oldest first, from every week's links."""
+    meetings: dict[str, dict | None] = {}
+    out: dict[str, dict] = {}
+
+    def rec(iid: str) -> dict:
+        return out.setdefault(iid, {"discussions": [], "votes": [], "dates": []})
+
+    for week, lk in sorted(store.all_links().items()):
+        refs: dict[str, dict] = {}
+        for section in ("topics", "votes", "upcoming"):
+            for ref, item in (lk.get(section) or {}).items():
+                if item.get("issue"):
+                    refs[ref] = item
+        vids = sorted({ref.split("#", 1)[0] for ref in refs})
+        for vid in vids:
+            if vid not in meetings:
+                meetings[vid] = store.read_meeting(vid)
+            m = meetings[vid]
+            if not m:
+                continue
+            s = m["summary"]
+            md = prompts._meeting_date(m).isoformat()
+            body = s.get("body") or m["video"].get("title", "")
+            topics = s.get("topics", [])
+            starts = [t.get("start_seconds") for t in topics]
+            for i, t in enumerate(topics):
+                iid = (refs.get(prompts.topic_ref(vid, i)) or {}).get("issue")
+                if not iid:
+                    continue
+                lo = starts[i]
+                hi = t.get("end_seconds") or next((x for x in starts[i + 1:] if x is not None and lo is not None and x > lo), None)
+                during, other = [], []
+                for c in s.get("public_comment", []):
+                    cs = c.get("start_seconds")
+                    inside = lo is not None and cs is not None and cs >= lo and (hi is None or cs < hi)
+                    (during if inside else other).append(c["summary"])
+                entry = {"date": md, "board": body, "title": t.get("title"), "summary": t.get("summary"),
+                         "outcome": t.get("outcome"), "details": t.get("key_details") or []}
+                if during:
+                    entry["public_comment"] = during
+                if other:
+                    entry["other_comments_at_meeting"] = other
+                rec(iid)["discussions"].append(entry)
+            for i, x in enumerate(s.get("votes", [])):
+                iid = (refs.get(prompts.vote_ref(vid, i)) or {}).get("issue")
+                if iid:
+                    rec(iid)["votes"].append({"date": md, "board": body, "motion": x.get("motion"),
+                                              "result": x.get("result"), "tally": x.get("tally")})
+            for i, u in enumerate(s.get("upcoming", [])):
+                item = refs.get(prompts.upcoming_ref(vid, i)) or {}
+                if item.get("issue"):
+                    rec(item["issue"])["dates"].append({"mentioned": md, "board": body, "what": u.get("what"),
+                                                        "date": item.get("date"), "when": u.get("when")})
+    for r in out.values():
+        r["discussions"].sort(key=lambda x: x["date"])
+        r["votes"].sort(key=lambda x: x["date"])
+    return out
+
+
 def apply_links(issues: dict, links: dict, meetings: list[dict], week: str) -> None:
     """Merge one week's links into the issue registry, in place.
 
-    A status only replaces an older one: relinking an earlier week never
-    overwrites what a later week said.
+    The week's status line is only a stand-in until the issue's status is
+    written from its whole record, and never replaces a newer one.
     """
     for iid, new in links["new_issues"].items():
         issues.setdefault(iid, {**new, "first_seen": week})
@@ -661,6 +775,8 @@ def apply_links(issues: dict, links: dict, meetings: list[dict], week: str) -> N
             continue
         rec = issues[iid]
         rec["last_seen"] = max(rec.get("last_seen") or "", md)
+        if rec.get("status_fingerprint"):
+            continue  # written from the whole record; _update_issue_statuses keeps it current
         if iid in links["statuses"] and md >= (rec.get("status_as_of") or ""):
             rec["status"] = links["statuses"][iid]
             rec["status_as_of"] = md
@@ -687,6 +803,7 @@ def merge_issues(store: Store, source: str, target: str) -> int:
     if (src.get("status_as_of") or "") > (dst.get("status_as_of") or ""):
         dst["status"], dst["status_as_of"] = src.get("status"), src.get("status_as_of")
     dst.setdefault("aliases", []).append(source)
+    dst.pop("status_fingerprint", None)  # rewrite its status from the merged record
     store.save_issues(issues)
     return moved
 
