@@ -446,6 +446,9 @@ class SiteTests(unittest.TestCase):
             self.assertIn("Select Board", issue)
             self.assertIn("Where it stands", issue)
             ET.fromstring((out / "issues" / "fy28-budget" / "feed.xml").read_text())
+            # Votes are tagged by what the motion is about, not the topic under way.
+            self.assertIn("Adopt FY28 budget guidance", issue)
+            self.assertNotIn("Route 85 sidewalk", issue)
             board = (out / "boards" / "planning-board" / "index.html").read_text()
             self.assertIn("Turnpike Road 24-unit housing", board)
             ET.fromstring((out / "boards" / "planning-board" / "feed.xml").read_text())
@@ -497,6 +500,8 @@ class LinkTests(unittest.TestCase):
             self.assertEqual(links["topics"]["sampleSB1006#1"]["issue"], "fy28-budget")
             self.assertEqual(links["topics"]["sampleSC1008#1"]["issue"], "fy28-budget")   # across boards
             self.assertEqual(links["upcoming"]["samplePB1007#u0"], {"date": "2026-10-21", "issue": "turnpike-road-housing"})
+            self.assertEqual(links["votes"]["sampleSB1006#v0"], {"issue": "fy28-budget"})
+            self.assertEqual(links["votes"]["sampleSB1006#v1"], {"issue": "route-85-sidewalks"})
             # Nothing changed, so a second run makes no text calls at all.
             before = len(client.calls)
             again = p.run()

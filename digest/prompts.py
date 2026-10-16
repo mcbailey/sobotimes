@@ -20,7 +20,7 @@ PROMPT_VERSION = "2026-10-13b"
 # The text-only calls have their own versions, so changing one doesn't mean
 # re-watching any video.
 WEEK_PROMPT_VERSION = "2026-10-15"
-LINK_PROMPT_VERSION = "2026-10-15"
+LINK_PROMPT_VERSION = "2026-10-16"
 MONTH_PROMPT_VERSION = "2026-10-15"
 
 CATEGORIES = [
@@ -519,7 +519,7 @@ You maintain the issue tracker for a site that summarizes {town} public \
 meetings. Residents use it to follow one matter (a project, a property, a \
 proposal, a budget item, a warrant article, a policy) across every board and \
 week it comes up. You receive the list of issues already being tracked and \
-the topics from one week's meetings.
+the topics, votes and upcoming dates from one week's meetings.
 
 For each topic:
 - issue: the id of the tracked issue it belongs to. Reuse an existing issue \
@@ -532,14 +532,22 @@ budget", never broad buckets like "Budget" or "Zoning". A single warrant \
 article is its own issue, linked to the subject it funds or changes.
 - category: the best fit from the allowed list.
 
+For each vote, give the issue its motion is about, judged from the motion \
+itself rather than from the topic it falls under: a block of votes on several \
+warrant articles links each article's vote to that article's subject. Use null \
+for procedural or routine motions (minutes, contracts for clerks, adjourning).
+
 For each upcoming item, give its calendar date (YYYY-MM-DD) using the meeting \
 date as the reference, or null if no specific day is stated ("next month", \
 "in the spring"). Correct an obviously wrong year: a meeting in 2026 is not \
 scheduling something in 2024. Link it to an issue when it clearly belongs to one.
 
 For every issue that comes up this week, existing or new, write status: one \
-plain sentence on where it stands after this week (what was decided last and \
-what happens next). Plain text, neutral, facts from the input only.
+or two plain sentences on where it stands after this week: the latest \
+decision, where boards stand on it (which have recommended for or against, \
+with tallies), and what happens next. Start from the issue's existing status \
+and keep earlier positions that still hold unless this week changes them. \
+Plain text, neutral, facts from the input only.
 """
 
 LINK_PROMPT = """\
@@ -548,10 +556,10 @@ Week of {label}.
 Issues already tracked (JSON):
 {issues}
 
-This week's meetings (JSON). Refer to topics and upcoming items by their ref:
+This week's meetings (JSON). Refer to topics, votes and upcoming items by their ref:
 {payload}
 
-Return JSON matching the schema. Every topic ref and every upcoming ref above \
+Return JSON matching the schema. Every topic, vote and upcoming ref above \
 must appear exactly once.
 """
 
@@ -585,6 +593,17 @@ LINK_SCHEMA = {
                 "required": ["ref", "issue", "category"],
             },
         },
+        "votes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "ref": {"type": "string"},
+                    "issue": {"type": ["string", "null"], "description": "Issue id the motion is about, or null."},
+                },
+                "required": ["ref", "issue"],
+            },
+        },
         "upcoming": {
             "type": "array",
             "items": {
@@ -609,7 +628,7 @@ LINK_SCHEMA = {
             },
         },
     },
-    "required": ["new_issues", "topics", "upcoming", "statuses"],
+    "required": ["new_issues", "topics", "votes", "upcoming", "statuses"],
 }
 
 
@@ -623,6 +642,10 @@ def topic_ref(video_id: str, index: int) -> str:
 
 def upcoming_ref(video_id: str, index: int) -> str:
     return f"{video_id}#u{index}"
+
+
+def vote_ref(video_id: str, index: int) -> str:
+    return f"{video_id}#v{index}"
 
 
 def link_prompt(label: str, meetings: list[dict], issues: dict) -> str:
@@ -649,6 +672,10 @@ def link_prompt(label: str, meetings: list[dict], issues: dict) -> str:
                     }
                     for i, t in enumerate(s.get("topics", []))
                 ],
+                "votes": [
+                    {"ref": vote_ref(vid, i), "motion": x.get("motion"), "result": x.get("result"), "tally": x.get("tally")}
+                    for i, x in enumerate(s.get("votes", []))
+                ],
                 "upcoming": [
                     {"ref": upcoming_ref(vid, i), "what": u.get("what"), "when": u.get("when")}
                     for i, u in enumerate(s.get("upcoming", []))
@@ -671,19 +698,21 @@ def slugify(text: str, max_len: int = 60) -> str:
 
 
 def clean_links(raw: dict, meetings: list[dict], issues: dict) -> dict:
-    """Validate the links call. Returns {"topics", "upcoming", "new_issues", "statuses"}.
+    """Validate the links call. Returns {"topics", "votes", "upcoming", "new_issues", "statuses"}.
 
     Unknown refs are dropped, unknown issue ids become null, and dates outside
     what a meeting could plausibly point ahead to are dropped.
     """
     from .timeutil import plausible_ahead
 
-    topic_refs, upcoming_refs = {}, {}
+    topic_refs, upcoming_refs, vote_refs = {}, {}, set()
     for m in meetings:
         vid, s = m["video"]["id"], m["summary"]
         ref_date = _meeting_date(m)
         for i, _ in enumerate(s.get("topics", [])):
             topic_refs[topic_ref(vid, i)] = ref_date
+        for i, _ in enumerate(s.get("votes", [])):
+            vote_refs.add(vote_ref(vid, i))
         for i, _ in enumerate(s.get("upcoming", [])):
             upcoming_refs[upcoming_ref(vid, i)] = ref_date
 
@@ -723,6 +752,10 @@ def clean_links(raw: dict, meetings: list[dict], issues: dict) -> dict:
                 "issue": issue_of(t.get("issue")),
                 "category": _enum(t.get("category"), TOPIC_CATEGORIES, "Other"),
             }
+    votes = {}
+    for x in raw.get("votes") or []:
+        if isinstance(x, dict) and _str(x.get("ref")) in vote_refs:
+            votes[_str(x["ref"])] = {"issue": issue_of(x.get("issue"))}
     upcoming = {}
     for u in raw.get("upcoming") or []:
         if not isinstance(u, dict) or _str(u.get("ref")) not in upcoming_refs:
@@ -737,7 +770,7 @@ def clean_links(raw: dict, meetings: list[dict], issues: dict) -> dict:
             d = None
         upcoming[ref] = {"date": d.isoformat() if d else None, "issue": issue_of(u.get("issue"))}
 
-    used = {t["issue"] for t in topics.values() if t["issue"]} | {u["issue"] for u in upcoming.values() if u["issue"]}
+    used = {x["issue"] for part in (topics, votes, upcoming) for x in part.values() if x["issue"]}
     statuses = {}
     for st in raw.get("statuses") or []:
         if isinstance(st, dict):
@@ -746,7 +779,7 @@ def clean_links(raw: dict, meetings: list[dict], issues: dict) -> dict:
                 statuses[iid] = _str(st["status"])
     # Only keep new issues that something actually points at.
     new_issues = {k: v for k, v in new_issues.items() if k in used}
-    return {"topics": topics, "upcoming": upcoming, "new_issues": new_issues, "statuses": statuses}
+    return {"topics": topics, "votes": votes, "upcoming": upcoming, "new_issues": new_issues, "statuses": statuses}
 
 
 def _meeting_date(m: dict) -> date:

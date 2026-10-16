@@ -319,7 +319,7 @@ def fake_links(prompt: str) -> dict:
     tracked = {i["id"] for i in json.loads(_section(prompt, "Issues already tracked (JSON):\n", "\n\nThis week's")
                                              .replace(" (none yet)", ""))}
     meetings = json.loads(_section(prompt, "by their ref:\n", "\n\nReturn JSON"))
-    out = {"new_issues": [], "topics": [], "upcoming": [], "statuses": []}
+    out = {"new_issues": [], "topics": [], "votes": [], "upcoming": [], "statuses": []}
     used = {}
     for m in meetings:
         ref_date = date.fromisoformat(m["meeting_date"])
@@ -330,6 +330,8 @@ def fake_links(prompt: str) -> dict:
             out["topics"].append({"ref": t["ref"], "issue": iid, "category": cat})
             if iid:
                 used[iid] = t.get("outcome") or t["title"]
+        for x in m.get("votes", []):
+            out["votes"].append({"ref": x["ref"], "issue": _issue_for(x["motion"] or "")})
         for u in m["upcoming"]:
             d = resolve_when(u["when"], ref_date)
             out["upcoming"].append({"ref": u["ref"], "date": d.isoformat() if d else None, "issue": _issue_for(u["what"])})

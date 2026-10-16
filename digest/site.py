@@ -196,17 +196,28 @@ def _meeting_view(m: dict, cfg: Config, links: dict, issues: dict) -> dict:
         for i, t in enumerate(s.get("topics", []))
     ]
     boards = board_names(s.get("body") or v["title"], cfg.site.board_aliases)
+    vote_links = links.get("votes")
     votes = []
-    for x in s.get("votes", []):
+    for i, x in enumerate(s.get("votes", [])):
         t = _topic_at(topics, x.get("start_seconds"))
+        if vote_links is None:
+            # Weeks linked before votes were tagged: use the topic under discussion.
+            issue = t["issue"] if t else None
+        else:
+            iid = (vote_links.get(prompts.vote_ref(vid, i)) or {}).get("issue")
+            issue = {"id": iid, "name": issues[iid]["name"]} if iid in issues else None
+        if issue and issues.get(issue["id"], {}).get("category"):
+            category = issues[issue["id"]]["category"]
+        else:
+            category = t["category"] if t else "Other"
         votes.append(
             {
                 **x,
                 "ts": fmt_timestamp(x.get("start_seconds")),
                 "url": watch_url(vid, x.get("start_seconds")),
                 "topic": t,
-                "issue": t["issue"] if t else None,
-                "category": t["category"] if t else "Other",
+                "issue": issue,
+                "category": category,
             }
         )
     events = []

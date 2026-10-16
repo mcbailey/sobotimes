@@ -57,8 +57,8 @@ run_time_limit_minutes = 120
 # Weekly synopses, issue linking and monthly roll-ups are cheap text-only
 # calls, but cap them anyway.
 max_week_summaries_per_run = 8
-max_link_weeks_per_run = 12
-max_month_summaries_per_run = 4
+max_link_weeks_per_run = 30
+max_month_summaries_per_run = 12
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video

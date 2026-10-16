@@ -560,6 +560,7 @@ class Pipeline:
                     "week": week,
                     "fingerprint": fingerprint,
                     "topics": links["topics"],
+                    "votes": links["votes"],
                     "upcoming": links["upcoming"],
                     "model": used_model,
                     "generated_at": iso(self.now()),
@@ -673,7 +674,7 @@ def merge_issues(store: Store, source: str, target: str) -> int:
     moved = 0
     for week, lk in store.all_links().items():
         changed = False
-        for section in ("topics", "upcoming"):
+        for section in ("topics", "votes", "upcoming"):
             for item in (lk.get(section) or {}).values():
                 if item.get("issue") == source:
                     item["issue"] = target
