@@ -1,6 +1,6 @@
 {
   "week": "2026-10-05",
-  "fingerprint": "11b9ba602a1b3a82",
+  "fingerprint": "b150f15438f120f6",
   "topics": {
     "2dGufO1TwE4#0": {
       "issue": "two-family-zoning-amendment",
@@ -8,7 +8,7 @@
     },
     "6sb8sVUyin4#0": {
       "issue": "landfill-environmental-assessment",
-      "category": "Environment & conservation"
+      "category": "Roads, water & infrastructure"
     },
     "6sb8sVUyin4#1": {
       "issue": "personal-property-tax-exemption",
@@ -39,8 +39,8 @@
       "category": "Governance & committees"
     },
     "6sb8sVUyin4#8": {
-      "issue": null,
-      "category": "Town Meeting & elections"
+      "issue": "neary-school-building-project",
+      "category": "Schools"
     },
     "6sb8sVUyin4#9": {
       "issue": null,
@@ -56,7 +56,7 @@
     },
     "BwulXCVw_6g#2": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Staffing & operations"
     },
     "BwulXCVw_6g#3": {
       "issue": null,
@@ -76,15 +76,15 @@
     },
     "DIW91Vw3LIY#3": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Parks, trails & recreation"
     },
     "Dlomobo7FQ4#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "Dlomobo7FQ4#1": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Buildings & facilities"
     },
     "Dlomobo7FQ4#2": {
       "issue": null,
@@ -107,20 +107,32 @@
       "category": "Parks, trails & recreation"
     },
     "G9S9K_Mene8#2": {
-      "issue": null,
-      "category": "Budget & taxes"
+      "issue": "community-preservation-appropriations",
+      "category": "Town Meeting & elections"
     },
     "G9S9K_Mene8#3": {
-      "issue": null,
+      "issue": "cpa-project-signage-program",
       "category": "Parks, trails & recreation"
     },
     "G9S9K_Mene8#4": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "G9S9K_Mene8#5": {
       "issue": null,
       "category": "Governance & committees"
+    },
+    "UNs9kGkhiEM#0": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "UNs9kGkhiEM#1": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "UNs9kGkhiEM#2": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
     },
     "jIrNNYw8PME#0": {
       "issue": "town-governance-study",
@@ -136,7 +148,7 @@
     },
     "jIrNNYw8PME#3": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "nrTrCqF8IJA#0": {
       "issue": null,
@@ -151,15 +163,15 @@
       "category": "Zoning & development"
     },
     "nrTrCqF8IJA#3": {
-      "issue": null,
+      "issue": "27-pine-hill-road-coc",
       "category": "Environment & conservation"
     },
     "nrTrCqF8IJA#4": {
-      "issue": null,
+      "issue": "21-southville-road-coc",
       "category": "Environment & conservation"
     },
     "nrTrCqF8IJA#5": {
-      "issue": null,
+      "issue": "6-lynbrook-road-enforcement-order",
       "category": "Environment & conservation"
     },
     "nrTrCqF8IJA#6": {
@@ -251,13 +263,13 @@
       "issue": "fay-school-athletic-fields"
     },
     "nrTrCqF8IJA#v1": {
-      "issue": null
+      "issue": "27-pine-hill-road-coc"
     },
     "nrTrCqF8IJA#v2": {
-      "issue": null
+      "issue": "21-southville-road-coc"
     },
     "nrTrCqF8IJA#v3": {
-      "issue": null
+      "issue": "6-lynbrook-road-enforcement-order"
     },
     "nrTrCqF8IJA#v4": {
       "issue": "250-turnpike-road"
@@ -290,8 +302,8 @@
       "issue": null
     },
     "2dGufO1TwE4#u1": {
-      "date": "2026-10-07",
-      "issue": null
+      "date": null,
+      "issue": "two-family-zoning-amendment"
     },
     "6sb8sVUyin4#u0": {
       "date": "2026-10-13",
@@ -329,6 +341,34 @@
       "date": "2026-10-27",
       "issue": null
     },
+    "UNs9kGkhiEM#u0": {
+      "date": "2026-10-20",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "UNs9kGkhiEM#u1": {
+      "date": "2026-10-21",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "UNs9kGkhiEM#u2": {
+      "date": "2026-11-18",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "UNs9kGkhiEM#u3": {
+      "date": "2027-01-20",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "UNs9kGkhiEM#u4": {
+      "date": "2027-02-24",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "UNs9kGkhiEM#u5": {
+      "date": "2027-03-20",
+      "issue": null
+    },
+    "UNs9kGkhiEM#u6": {
+      "date": "2027-04-26",
+      "issue": null
+    },
     "jIrNNYw8PME#u0": {
       "date": "2026-10-17",
       "issue": null
@@ -359,13 +399,13 @@
     },
     "yXLL6UMLaag#u0": {
       "date": "2026-10-13",
-      "issue": "southborough-golf-club-irrigation"
+      "issue": null
     },
     "yXLL6UMLaag#u1": {
-      "date": "2026-10-27",
+      "date": "2026-10-17",
       "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:24:56Z"
+  "generated_at": "2026-10-16T19:24:24Z"
 }

@@ -1,7 +1,35 @@
 {
   "week": "2026-06-15",
-  "fingerprint": "32801b30efb58820",
+  "fingerprint": "e4ece7b47c07ab5b",
   "topics": {
+    "HobQ8oacv6w#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "HobQ8oacv6w#6": {
+      "issue": null,
+      "category": "Schools"
+    },
     "NfkgvDJIPog#0": {
       "issue": null,
       "category": "Staffing & operations"
@@ -20,7 +48,7 @@
     },
     "NfkgvDJIPog#4": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Staffing & operations"
     },
     "NfkgvDJIPog#5": {
       "issue": null,
@@ -44,7 +72,7 @@
     },
     "mCf5Dw5Wi6c#1": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Governance & committees"
     },
     "mCf5Dw5Wi6c#2": {
       "issue": "costco-special-act-liquor-license",
@@ -84,7 +112,7 @@
     },
     "mCf5Dw5Wi6c#11": {
       "issue": null,
-      "category": "Housing"
+      "category": "Governance & committees"
     },
     "mmpLfpY8-s0#0": {
       "issue": "sta-unit-c-contract",
@@ -94,12 +122,68 @@
       "issue": null,
       "category": "Schools"
     },
-    "t2MR3sJzMA0#0": {
+    "qR_TyEvUBFA#0": {
       "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#2": {
+      "issue": "regional-school-athletic-complex-bond",
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#6": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#7": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#9": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "qR_TyEvUBFA#10": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "t2MR3sJzMA0#0": {
+      "issue": "northborough-road-chapter-61a-parcel",
       "category": "Housing"
     }
   },
   "votes": {
+    "HobQ8oacv6w#v0": {
+      "issue": null
+    },
+    "HobQ8oacv6w#v1": {
+      "issue": null
+    },
+    "HobQ8oacv6w#v2": {
+      "issue": null
+    },
+    "HobQ8oacv6w#v3": {
+      "issue": null
+    },
     "NfkgvDJIPog#v0": {
       "issue": null
     },
@@ -151,11 +235,34 @@
     "mmpLfpY8-s0#v0": {
       "issue": "sta-unit-c-contract"
     },
-    "t2MR3sJzMA0#v0": {
+    "qR_TyEvUBFA#v0": {
+      "issue": "regional-school-athletic-complex-bond"
+    },
+    "qR_TyEvUBFA#v1": {
       "issue": null
+    },
+    "qR_TyEvUBFA#v2": {
+      "issue": null
+    },
+    "qR_TyEvUBFA#v3": {
+      "issue": null
+    },
+    "qR_TyEvUBFA#v4": {
+      "issue": null
+    },
+    "t2MR3sJzMA0#v0": {
+      "issue": "northborough-road-chapter-61a-parcel"
     }
   },
   "upcoming": {
+    "HobQ8oacv6w#u0": {
+      "date": "2026-09-16",
+      "issue": null
+    },
+    "HobQ8oacv6w#u1": {
+      "date": null,
+      "issue": null
+    },
     "NfkgvDJIPog#u0": {
       "date": null,
       "issue": "classification-and-compensation-study"
@@ -191,8 +298,24 @@
     "mCf5Dw5Wi6c#u3": {
       "date": "2027-03-20",
       "issue": null
+    },
+    "qR_TyEvUBFA#u0": {
+      "date": null,
+      "issue": null
+    },
+    "qR_TyEvUBFA#u1": {
+      "date": null,
+      "issue": "school-food-service-contract"
+    },
+    "qR_TyEvUBFA#u2": {
+      "date": null,
+      "issue": null
+    },
+    "qR_TyEvUBFA#u3": {
+      "date": null,
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:33:57Z"
+  "generated_at": "2026-10-16T19:17:51Z"
 }

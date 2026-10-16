@@ -1,54 +1,54 @@
 {
-  "headline": "The Select Board set Town Meeting dates, funded Route 9 wastewater planning, and denied an Open Space appointment, while schools advanced Neary planning.",
-  "synopsis": "The Select Board scheduled the Fall Special Town Meeting for October 17, 2026, and the 2027 Annual Town Meeting for March 20, 2027. It also approved $30,000 for financial analysis of a Route 9 wastewater district, stripped a $105,000 drone request from police year-end spending, and voted against reappointing Freddie Gillespie to the Open Space Preservation Commission. In school developments, the Elementary School Building Committee launched a revised Neary School study with Tappé Architects focused on tiered renovation choices, while the School Committee approved a three-year contract for support staff. Additionally, the Personnel Board adopted FY27 municipal wage rates and finalized a contract for a comprehensive salary study.",
+  "headline": "Southborough scheduled its upcoming town meetings, advanced school building and athletic projects, approved municipal pay rates, and finalized school labor contracts.",
+  "synopsis": "The Select Board set the Fall Special Town Meeting for October 17, 2026, and the 2027 Annual Town Meeting for March 20, 2027, while approving $30,000 for a Route 9 wastewater study and rejecting a $105,000 police drone request. Regional school officials approved a $7.115 million bond sale for high school athletic facilities and announced a transition to school-issued Chromebooks paired with cell phone restrictions for fall 2026. The Elementary School Building Committee met with newly hired architects to plan tiered renovation options for the Neary School. Multiple boards also resolved personnel and compensation matters, including approving FY27 municipal pay rates, ratifying school support staff contracts, and granting Superintendent Greg Martineau a 3.5 percent raise.",
   "highlights": [
     {
-      "title": "Town Meeting dates set for fall and spring",
-      "why": "The Select Board scheduled the Fall Special Town Meeting for Saturday, October 17, 2026, and the Annual Town Meeting for Saturday, March 20, 2027. Both sessions will start at 10:00 AM on Saturdays to accommodate families and seniors.",
+      "title": "Town Meeting dates set and wastewater study funded",
+      "why": "The Select Board scheduled the Fall Special Town Meeting for October 17, 2026, and the 2027 Annual Town Meeting for March 20, 2027. The board also reallocated $30,000 from the Economic Development Committee budget for a Route 9 corridor wastewater financing study, while rejecting a $105,000 police drone system.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "mCf5Dw5Wi6c",
       "start_seconds": 10060
     },
     {
-      "title": "Funding approved for Route 9 wastewater study",
-      "why": "The Select Board voted 4-1 to allocate $30,000 from Economic Development Committee surplus funds for MassDevelopment consultant projections. The analysis will model property tax revenues to support a proposed District Improvement Financing article in the fall.",
-      "body": "Select Board",
+      "title": "Bond approved for Algonquin athletic complex and cell phone ban planned",
+      "why": "The Regional School Committee authorized a $7.115 million general obligation bond sale at a 3.07 percent interest rate to build the high school athletic complex and amenities building. Officials also announced that Algonquin will supply Chromebooks to all students in fall 2026 and implement bell-to-bell cell phone restrictions.",
+      "body": "Northborough-Southborough Regional School Committee",
       "importance": "high",
-      "video_id": "mCf5Dw5Wi6c",
-      "start_seconds": 9520
+      "video_id": "qR_TyEvUBFA",
+      "start_seconds": 1833
     },
     {
-      "title": "Neary School study relaunches with tiered options",
-      "why": "Tappé Architects met with the Elementary School Building Committee to develop multiple renovation tiers ranging from basic code repairs to educational upgrades. The architects suggested October is too early for a full construction funding vote.",
+      "title": "Architects launch revised Neary School renovation study",
+      "why": "The Elementary School Building Committee initiated work with Tappé Architects following the earlier failed building proposal. The team plans to develop a menu of tiered renovation options, and architects advised that the October Special Town Meeting will likely serve as an informational update rather than a full funding vote.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "g-eEt2SJdRI",
       "start_seconds": 27
     },
     {
-      "title": "Select Board blocks $105,000 police drone program",
-      "why": "While approving year-end surplus funds for medical gear and ballistic plates, the board excluded a $105,000 five-year drone request, stating it should be vetted by the Capital Committee and Town Meeting.",
-      "body": "Select Board",
-      "importance": "high",
-      "video_id": "mCf5Dw5Wi6c",
-      "start_seconds": 1886
-    },
-    {
-      "title": "Freddie Gillespie denied Open Space reappointment",
-      "why": "The Select Board voted 0-5 against reappointing longtime conservation volunteer Freddie Gillespie to the Open Space Preservation Commission, citing past procedural disputes and committee restructuring goals.",
-      "body": "Select Board",
-      "importance": "high",
-      "video_id": "mCf5Dw5Wi6c",
-      "start_seconds": 6447
-    },
-    {
-      "title": "Three-year contract approved for school support personnel",
-      "why": "The School Committee unanimously approved a three-year collective bargaining agreement with the Southborough Teachers Association covering Unit C administrative assistants and educational support professionals.",
+      "title": "Support staff labor agreements and superintendent raise approved",
+      "why": "The Southborough and Regional school committees ratified collective bargaining agreements with Unit C educational support professionals and high school custodians. Combined school committees also rated Superintendent Greg Martineau exemplary and voted to grant him a 3.5 percent salary increase for the 2026-2027 school year.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "mmpLfpY8-s0",
       "start_seconds": 26
+    },
+    {
+      "title": "FY27 municipal pay rates approved amid evaluation concerns",
+      "why": "The Personnel Board approved municipal wage rates for FY27 while criticizing department heads for late performance evaluations that risk delaying raises. A proposal to grant an extra 2 percent raise outside the step system to an employee who reached the top step failed on a 2-2 tie vote.",
+      "body": "Personnel Board",
+      "importance": "medium",
+      "video_id": "NfkgvDJIPog",
+      "start_seconds": 591
+    },
+    {
+      "title": "Health survey shows substance drop but female and LGBTQ+ mental health gaps",
+      "why": "The 2025 MetroWest Adolescent Health Survey revealed significant decreases in student substance use alongside concerns about smartphone overuse. The data showed persistent disparities in stress and anxiety among female, LGBTQ+, and minority students, which districts can address through grant funding.",
+      "body": "Northborough, Southborough, and Regional School Committees and Superintendency Union #3",
+      "importance": "medium",
+      "video_id": "HobQ8oacv6w",
+      "start_seconds": 258
     }
   ],
   "looking_ahead": [
@@ -58,40 +58,42 @@
       "body": "Select Board"
     },
     {
-      "what": "Kickoff meeting with MGT for town-wide salary and classification study",
-      "when": "late June or early July",
-      "body": "Personnel Board"
-    },
-    {
-      "what": "Select Board meeting to review wayfinding plan designs and warrant items",
-      "when": "July 7, 2026",
-      "body": "Select Board"
-    },
-    {
-      "what": "Next Elementary School Building Committee meeting to review work plan and schedule",
+      "what": "Meeting to review Neary project work plan and schedule with Tappé Architects",
       "when": "July 8, 2024 at 7:00 PM",
       "body": "Elementary School Building Committee"
     },
     {
+      "what": "Discussion on Downtown Wayfinding Plan next steps and warrant items",
+      "when": "July 7, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "High school presentation on cell phone policy and 1:1 computing rollout",
+      "when": "September",
+      "body": "Northborough-Southborough Regional School Committee"
+    },
+    {
       "what": "Fall Special Town Meeting",
       "when": "October 17, 2026 at 10:00 AM",
-      "body": null
+      "body": "Select Board"
     },
     {
       "what": "Annual Town Meeting",
       "when": "March 20, 2027 at 10:00 AM",
-      "body": null
+      "body": "Select Board"
     }
   ],
   "week": "2026-06-15",
-  "fingerprint": "c9508bff69b3a8f4",
+  "fingerprint": "efe315ee5069192c",
   "video_ids": [
+    "HobQ8oacv6w",
     "NfkgvDJIPog",
     "g-eEt2SJdRI",
     "mCf5Dw5Wi6c",
     "mmpLfpY8-s0",
+    "qR_TyEvUBFA",
     "t2MR3sJzMA0"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:09:16Z"
+  "generated_at": "2026-10-16T19:12:42Z"
 }

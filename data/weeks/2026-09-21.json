@@ -1,42 +1,42 @@
 {
-  "headline": "The Elementary School Building Committee narrowed Neary School design options, while the Select Board took positions on Special Town Meeting warrant articles.",
-  "synopsis": "The Elementary School Building Committee voted to eliminate Option 4 for the Neary School project and instructed consultants to study Options 1, 3, and a 15 million dollar baseline ahead of Fall Town Meeting. The Select Board reopened the October 17 Special Town Meeting warrant, voting to support revised articles on two-family housing and an irrigation project while voting against a trail cleanup article. The Municipal Technology Committee finalized plans to launch the 2026 town satisfaction survey on October 1, working in collaboration with the Affordable Housing Trust on survey questions. Additionally, the Affordable Housing Trust explored investing roughly 1 million dollars in idle funds into higher-yield options and continued drafting a 55-plus housing bylaw.",
+  "headline": "The Elementary School Building Committee narrowed Neary School renovation options, while the Select Board finalized positions on Special Town Meeting warrant articles.",
+  "synopsis": "The Elementary School Building Committee voted to eliminate the most expensive design proposal for Neary Elementary School, narrowing focus to two architectural options and a $15 million baseline study ahead of Special Town Meeting. The Select Board reopened its October 17 warrant to endorse revised articles on two-family zoning and Community Preservation Act irrigation, while voting against CPA trail funding. Both the Affordable Housing Trust and the Municipal Technology Committee coordinated questions for the upcoming town satisfaction survey launching in October. The trust also examined options to invest roughly $1 million in idle funds, while town IT staff advanced municipal phone and firewall upgrades.",
   "highlights": [
     {
-      "title": "Neary School Option 4 eliminated as costs are reviewed",
-      "why": "The committee voted 3-1 to drop Option 4 and voted 4-0 to direct consultants to focus on Options 1, 3, and a 15 million dollar baseline after preliminary project costs were estimated between 24.4 million and 49.2 million dollars.",
+      "title": "Neary School options narrowed to three paths",
+      "why": "The committee voted to eliminate Option 4 and direct designers to focus on Options 1, 3, and a $15 million baseline after project cost projections ranged up to $49.2 million.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "QmtBoOh20QA",
       "start_seconds": 1324
     },
     {
-      "title": "Select Board votes recommendations on Special Town Meeting articles",
-      "why": "The board voted 5-0 to support revised Article 2 on two-family housing and Article 3 on an irrigation project, but voted 1-4 against supporting Article 4 for trail cleanup before reclosing the warrant.",
+      "title": "Select Board acts on Special Town Meeting warrant articles",
+      "why": "The board voted to support revised articles on two-family zoning and CPA irrigation funding, but voted 1-4 against supporting CPA trails funding for the October 17 warrant.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "Ze-vdyanglw",
       "start_seconds": 46
     },
     {
-      "title": "Affordable Housing Trust explores investing 1 million dollars in cash",
-      "why": "Trustees learned that holding approximately 1 million dollars in near-zero interest accounts has forgone substantial returns over past years and agreed to consult town finance officials regarding higher-yield investment options.",
+      "title": "Affordable Housing Trust explores investing cash reserves",
+      "why": "Trustees initiated consultations with town finance staff to explore moving approximately $1 million currently held in near-zero interest accounts into higher-yield investments.",
       "body": "Affordable Housing Trust",
       "importance": "high",
       "video_id": "S_GDFNCBXyc",
       "start_seconds": 3018
     },
     {
-      "title": "2026 Town Satisfaction Survey prepared for October launch",
-      "why": "The committee finalized question adjustments to reduce survey drop-offs and added questions on affordable housing and senior services ahead of an October 1 to November 30 survey run.",
+      "title": "Satisfaction survey finalized for October launch",
+      "why": "The committee prepared to launch the 2026 town satisfaction survey from October 1 through November 30, streamlining questions and incorporating input on affordable housing.",
       "body": "Municipal Technology Committee",
       "importance": "medium",
       "video_id": "q6tCMfNCb5g",
       "start_seconds": 673
     },
     {
-      "title": "Educators favor Option 3 for Neary site plan",
-      "why": "Architects presented feedback from first responders, public works, and staff, highlighting strong educator support for Option 3 because it encloses the courtyard for a gymnasium and keeps existing play fields intact.",
+      "title": "Neary traffic circulation and site layout refined",
+      "why": "Architects proposed looping parent drop-offs around the rear cafeteria entrance while keeping buses at the front canopy to resolve queuing backups on the access road.",
       "body": "Elementary School Building Committee",
       "importance": "medium",
       "video_id": "QmtBoOh20QA",
@@ -50,23 +50,23 @@
       "body": "Municipal Technology Committee"
     },
     {
-      "what": "Select Board meeting covering financial policies and Breakneck Hill debt reduction",
+      "what": "Discussion on financial procurement policy and Breakneck Hill debt authorization",
       "when": "October 6, 2026",
       "body": "Select Board"
     },
     {
-      "what": "Elementary School Building Committee meeting to finalize Town Meeting presentation",
+      "what": "Meeting to finalize Neary School Town Meeting presentation",
       "when": "October 15, 2026",
       "body": "Elementary School Building Committee"
     },
     {
       "what": "Special Town Meeting",
       "when": "October 17, 2026",
-      "body": "Select Board"
+      "body": null
     }
   ],
   "week": "2026-09-21",
-  "fingerprint": "b80b8df94a86770b",
+  "fingerprint": "c8b3bdc9953f7b3b",
   "video_ids": [
     "QmtBoOh20QA",
     "S_GDFNCBXyc",
@@ -74,5 +74,5 @@
     "q6tCMfNCb5g"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T19:18:06Z"
+  "generated_at": "2026-10-16T19:12:14Z"
 }

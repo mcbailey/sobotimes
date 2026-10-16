@@ -1,73 +1,73 @@
 {
-  "headline": "Southborough secured a $3.9 million culvert grant, authorized a $105,000 police drone package, and advanced Neary School building plans in June 2026.",
-  "synopsis": "Southborough municipal boards navigated significant capital and financial decisions throughout June 2026. The town received nearly $3.9 million from the state culvert program, sparing taxpayers from issuing previously approved debt. After extensive debate over funding mechanisms, the Select Board voted 3-2 to approve a $105,000 police drone system using year-end operating surplus. Neary Elementary School advanced on two fronts, executing a $165,000 feasibility contract with Tappe Architects while receiving favorable $2.8 million roof replacement bids. Meanwhile, the Wastewater Study Committee halted a proposed $30,000 Route 9 economic analysis to confirm site viability first, postponing a District Improvement Financing article ahead of the October 17 Special Town Meeting.",
+  "headline": "Southborough secured a $3.9 million state culvert grant, issued regional school bonds, and approved a disputed $105,000 police drone purchase in June.",
+  "synopsis": "June brought major financial developments for Southborough, highlighted by a nearly $3.9 million state grant for culvert repairs that avoids town borrowing, and the sale of $7.115 million in regional school athletic facility bonds. The Select Board approved a $105,000 police drone package using year-end budget surplus after intense debate over bypassing Town Meeting. School officials launched a feasibility study for Neary Elementary School while confirming that Neary roof bids came in well under budget at $2.8 million. The Wastewater Study Committee shelved a proposed $30,000 financial study, pushing Route 9 sewer district plans past Fall Town Meeting. Additionally, the Select Board scheduled Fall Special Town Meeting for October 17, 2026, and Annual Town Meeting for March 20, 2027.",
   "top_items": [
     {
-      "title": "Select Board approves $105,000 police drone purchase",
-      "why": "The Select Board voted 3-2 to authorize year-end department surplus funds for a five-year drone package.",
-      "body": "After initially excluding the drone purchase from year-end spending requests on June 16, the Select Board voted 3-2 on June 29 to approve acquiring a $105,000 Axon outdoor drone package using surplus personnel funds, offset by a $20,000 contribution from Fay School. While the Capital Improvement and Planning Committee endorsed the system as an immediate public safety priority, members debated whether funding major capital programs through operational salary surplus rather than Town Meeting established an unfavorable financial precedent.",
-      "importance": "high",
-      "video_id": "eJY0jkb5BOE",
-      "start_seconds": 6,
-      "issue": "police-drone-program"
-    },
-    {
-      "title": "State culvert grant saves town $3.9 million in borrowing",
-      "why": "Southborough received nearly $3.9 million from the Massachusetts Community Culvert Grant Program.",
-      "body": "The Select Board announced that Southborough received nearly $3.9 million in state grant funding for culvert infrastructure replacements. Because Town Meeting had previously approved $3.9 million in borrowing for the work, the grant allows the Department of Public Works to execute the culvert repairs without issuing municipal debt.",
+      "title": "Town secures $3.9M state grant for culvert replacements",
+      "why": "Southborough was awarded nearly $3.9 million from the Massachusetts Community Culvert Grant Program. The state funding eliminates the need to issue $3.9 million in municipal debt previously approved by Town Meeting.",
+      "body": "The Select Board announced the receipt of nearly $3.9 million from the Massachusetts Community Culvert Grant Program. The funds cover infrastructure replacements and state permitting across multiple town culverts. Because Town Meeting voters had previously approved borrowing up to $3.9 million for the projects, the grant allows the work to proceed entirely without taking on municipal debt, leaving the prior loan authorization to be rescinded.",
       "importance": "high",
       "video_id": "QOopXboMCl0",
       "start_seconds": 2080,
       "issue": "culvert-infrastructure-replacements"
     },
     {
-      "title": "Neary Elementary School advances feasibility study and roof project",
-      "why": "Tappe Architects began the school building study, while roof bids arrived well under budget at $2.8 million.",
-      "body": "The Select Board approved a $165,000 contract with Tappe Architects for the Neary Elementary School feasibility study, followed by a committee kickoff session to outline design options for Town Meeting. Concurrently, the School Committee reported that low bids for the summer Neary roof replacement totaled roughly $2.8 million, well below the $4.5 million authorized by Town Meeting.",
+      "title": "Select Board approves $105,000 police drone program using year-end surplus",
+      "why": "In a 3-2 vote, the Select Board authorized the Police Department to spend $105,000 from unspent FY26 salary surplus on a five-year drone package.",
+      "body": "Following initial resistance earlier in the month, the Select Board voted 3-2 to authorize Police Chief Ryan Newell to use year-end personnel budget surplus for a $105,000 five-year drone package through Axon, offset by a $20,000 contribution from Fay School. The Capital Improvement and Planning Committee endorsed the program as an immediate public safety priority but had deferred the funding mechanism to the board. Dissenting members expressed concern over using operating surplus for a major capital purchase rather than returning the money to free cash for a Town Meeting appropriation.",
       "importance": "high",
-      "video_id": "QOopXboMCl0",
-      "start_seconds": 2590,
+      "video_id": "eJY0jkb5BOE",
+      "start_seconds": 6,
+      "issue": "police-drone-program"
+    },
+    {
+      "title": "Regional School Committee sells $7.1M in athletic complex bonds",
+      "why": "The Northborough-Southborough Regional School Committee awarded and sold $7.115 million in general obligation school bonds at a 3.07 percent true interest cost.",
+      "body": "Favorable bidding conditions allowed the regional district to resize the borrowing down from $7.735 million to $7.115 million for the Algonquin athletic complex and amenities building. Loop Capital Markets LLC was awarded the sale at a 3.07 percent true interest cost. In other regional action, the committee ratified new collective bargaining agreements with custodians and Unit C educational support professionals.",
+      "importance": "high",
+      "video_id": "qR_TyEvUBFA",
+      "start_seconds": 1833,
+      "issue": "regional-school-athletic-complex-bond"
+    },
+    {
+      "title": "Neary School feasibility contract executed as roof bids come in under budget",
+      "why": "A $165,000 contract was signed with Tappé Architects for elementary school facility planning, while Neary roof bids totaled $2.8 million against a $4.5 million budget.",
+      "body": "The Elementary School Building Committee kicked off its feasibility study with Tappé Architects under a $165,000 contract, aiming to evaluate both options approved by Town Meeting without eliminating either prematurely. Separately, the School Committee learned that competitive bids for the Neary Elementary School roof replacement totaled roughly $2.8 million, significantly below the $4.5 million appropriation approved by voters, allowing construction to begin in late June.",
+      "importance": "high",
+      "video_id": "D0OA5yLzTtQ",
+      "start_seconds": 2140,
       "issue": "neary-school-building-project"
     },
     {
-      "title": "Wastewater committee rejects $30,000 Route 9 financial study",
-      "why": "The committee voted 0-5 against spending $30,000 on an economic study before verifying site viability.",
-      "body": "Although the Select Board approved transferring $30,000 from the Economic Development Committee budget for MassDevelopment consulting, the Wastewater Study Committee unanimously rejected executing the Camoin Associates study. Members determined it was premature to model financial projections before identifying an environmentally viable treatment and disposal site within the Sudbury Reservoir watershed, postponing a District Improvement Financing warrant article for Fall Town Meeting.",
+      "title": "Wastewater Committee halts $30,000 financial study, delaying Town Meeting article",
+      "why": "The Wastewater Study Committee voted 0-5 against spending $30,000 on an economic analysis for a Route 9 District Improvement Financing area.",
+      "body": "Although the Select Board had authorized transferring $30,000 from the Economic Development Committee budget for a consultant study by Camoin Associates, the Wastewater Study Committee unanimously rejected funding the study. Members cited watershed restrictions around the Sudbury Reservoir and concluded it was premature to model financial returns before identifying a physically feasible site for treatment and discharge. The decision postpones a planned DIF warrant article for Fall Special Town Meeting.",
       "importance": "high",
       "video_id": "wXOvCKRJRp4",
       "start_seconds": 30,
       "issue": "route-9-wastewater-infrastructure"
     },
     {
-      "title": "Peninsula Trail Phase 2 drops boardwalk, seeks CPA bridge funds",
-      "why": "The Trails Committee scaled back its proposal to an estimated $440,000 to $450,000 footbridge over the reservoir.",
-      "body": "After combined bids for both a bridge and boardwalk reached roughly $630,000, the Trails Committee decided to drop the boardwalk and reroute the trail across natural upland terrain. The committee finalized an application for Community Preservation Act funding to cover the footbridge and abutments, which earned formal letters of support from both the Conservation Commission and the Recreation Commission.",
-      "importance": "high",
+      "title": "Peninsula Trail Phase 2 application scaled back to bridge only",
+      "why": "Facing high construction estimates, the Trails Committee dropped a boardwalk from its Fall Town Meeting request to seek Community Preservation Act funds solely for a footbridge.",
+      "body": "After winter bids showed combined costs reaching roughly $630,000, the Trails Committee voted to scale back its Phase 2 Community Preservation Act application. The revised proposal seeks approximately $440,000 to $450,000, focusing strictly on a 65-foot footbridge over the reservoir while rerouting trail approaches onto natural soil to bypass wetlands. Both the Conservation Commission and Recreation Commission voted to send formal letters of support for the application.",
+      "importance": "medium",
       "video_id": "40fpbLASGN4",
       "start_seconds": 318,
       "issue": "peninsula-trail-phase-2"
     },
     {
-      "title": "Southborough Golf Club irrigation estimate approaches $1 million",
-      "why": "Higher construction bids and a required booster pump station raised the project estimate to roughly $900,000.",
-      "body": "The Golf Committee and DPW reviewed adjusted costs for the golf course irrigation system with the Community Preservation Committee. While value engineering reduced scope by approximately $160,000, engineers determined that adding a booster pump station will cost $200,000, bringing total projections close to $900,000 and prompting discussions over using golf revolving funds to bridge the shortfall.",
+      "title": "Select Board schedules town meetings and acts on committee appointments",
+      "why": "The Select Board scheduled the Fall Special Town Meeting for October 17, 2026, and the 2027 Annual Town Meeting for March 20, 2027.",
+      "body": "The Select Board established Southborough's upcoming legislative schedule, setting Fall Special Town Meeting for October 17 at 10:00 AM and Annual Town Meeting for March 20 at 10:00 AM. During the same session, the board voted 0-5 against reappointing Freddie Gillespie to the Open Space Preservation Commission, drawing subsequent letters of protest from both the Conservation Commission and Stewardship Committee requesting that her seat be converted to at-large to preserve committee independence.",
       "importance": "medium",
-      "video_id": "wXmki6I0Q3k",
-      "start_seconds": 3382,
-      "issue": "southborough-golf-club-irrigation"
-    },
-    {
-      "title": "Conservation Commission reviews 32-unit 40B on Turnpike Road",
-      "why": "A proposed rental development at 250 Turnpike Road requires local wetland buffer and vernal pool reviews.",
-      "body": "Expedited Engineering presented a Notice of Intent on behalf of FD 250 Turnpike LLC for a Chapter 40B development consisting of 32 townhouse-style rental units. Approximately 3.5 acres of the 5.2-acre parcel will be altered, prompting commissioner questions regarding the town's 20-foot no-disturb zone and salamander migration corridors near an onsite vernal pool before continuing the hearing for peer review.",
-      "importance": "medium",
-      "video_id": "g_7SIaQJK7M",
-      "start_seconds": 1164,
-      "issue": "250-turnpike-road"
+      "video_id": "mCf5Dw5Wi6c",
+      "start_seconds": 10060,
+      "issue": "stewardship-committee-structure"
     }
   ],
   "month": "2026-06",
-  "fingerprint": "7689f58f84ac3389",
+  "fingerprint": "ef21ea3143a1a5b6",
   "video_ids": [
     "20bBFqxSPkE",
     "40fpbLASGN4",
@@ -76,6 +76,7 @@
     "Cs-N1fuzc9E",
     "D0OA5yLzTtQ",
     "EAI8SMnejZQ",
+    "HobQ8oacv6w",
     "Ino0rbMC--c",
     "IrDN9mU1ybM",
     "JqdlZNYHfYk",
@@ -95,10 +96,11 @@
     "mmpLfpY8-s0",
     "naNh8DiADss",
     "phdC64CYpRc",
+    "qR_TyEvUBFA",
     "t2MR3sJzMA0",
     "wXOvCKRJRp4",
     "wXmki6I0Q3k"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:31:22Z"
+  "generated_at": "2026-10-16T19:43:43Z"
 }

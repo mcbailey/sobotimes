@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "fingerprint": "3a302c654dee3f61",
+  "fingerprint": "dfc8aaf1819f7816",
   "topics": {
     "QmtBoOh20QA#0": {
       "issue": "neary-school-building-project",
@@ -15,7 +15,7 @@
       "category": "Schools"
     },
     "QmtBoOh20QA#3": {
-      "issue": "neary-school-building-project",
+      "issue": null,
       "category": "Schools"
     },
     "QmtBoOh20QA#4": {
@@ -32,7 +32,7 @@
     },
     "S_GDFNCBXyc#2": {
       "issue": "55-plus-housing-bylaw",
-      "category": "Zoning & development"
+      "category": "Housing"
     },
     "S_GDFNCBXyc#3": {
       "issue": null,
@@ -44,7 +44,7 @@
     },
     "S_GDFNCBXyc#5": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Housing"
     },
     "S_GDFNCBXyc#6": {
       "issue": null,
@@ -59,20 +59,20 @@
       "category": "Town Meeting & elections"
     },
     "Ze-vdyanglw#1": {
-      "issue": null,
-      "category": "Governance & committees"
+      "issue": "municipal-financial-policies",
+      "category": "Budget & taxes"
     },
     "Ze-vdyanglw#2": {
       "issue": null,
       "category": "Governance & committees"
     },
     "q6tCMfNCb5g#0": {
-      "issue": "town-website-redesign",
+      "issue": null,
       "category": "Staffing & operations"
     },
     "q6tCMfNCb5g#1": {
       "issue": null,
-      "category": "Town Meeting & elections"
+      "category": "Governance & committees"
     },
     "q6tCMfNCb5g#2": {
       "issue": "town-satisfaction-survey",
@@ -132,7 +132,7 @@
     },
     "Ze-vdyanglw#u0": {
       "date": "2026-10-06",
-      "issue": null
+      "issue": "municipal-financial-policies"
     },
     "Ze-vdyanglw#u1": {
       "date": "2026-10-17",
@@ -160,5 +160,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:20:15Z"
+  "generated_at": "2026-10-16T19:19:16Z"
 }

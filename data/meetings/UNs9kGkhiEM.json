@@ -1,0 +1,124 @@
+{
+  "video": {
+    "id": "UNs9kGkhiEM",
+    "title": "Regional School Com. Operational Budget Subcom. & Capital Planning Subcom. Meeting / October 7, 2026",
+    "published_at": "2026-10-08T17:58:56Z",
+    "duration_s": 3511
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
+    "meeting_date": "2026-10-07",
+    "headline": "Subcommittees reviewed five FY28 Algonquin capital projects totaling $460,000, an upcoming $800,000 drop in regional debt service, and healthcare restructuring.",
+    "summary": "The joint subcommittees reviewed initial FY28 capital project requests for Algonquin Regional High School, including security radios, pipe repairs, and a failed cafeteria rooftop heating unit, while noting that older renovation debt will roll off in FY28. School officials also outlined the FY28 operating budget process, highlighting cost pressures from special education and energy, town-level guidance to prepare constrained budget scenarios, and an effort to restructure health insurance to save an estimated $600,000. Additionally, the district drafted strategic budget priorities, including a proposal to ask both town meetings to establish a Special Education Stabilization Fund.",
+    "topics": [
+      {
+        "title": "FY28 Algonquin capital improvement plan and debt outlook",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Staff presented the FY28 capital requests for Algonquin Regional High School and reviewed ongoing FY27 projects. Committee members identified an arithmetic error on the draft presentation, clarifying that five proposed projects total approximately $460,000 rather than $645,000. Officials also noted that the original 2004 high school renovation debt expires at the end of FY27, creating an estimated $800,000 net reduction in regional debt service even after adding borrowing for the new athletic complex.",
+        "key_details": [
+          "FY28 capital projects total $460,000: $100,000 for two-way security radios, $30,000 for exterior caulking and weatherproofing, $150,000 for victaulic pipe fitting and valve repairs, $30,000 for heating system glycol restoration, and $150,000 to replace a failed 25-year-old cafeteria rooftop heating unit.",
+          "The district received a $50,000 state legislative grant to assist with ongoing valve replacements in FY27.",
+          "The cafeteria currently operates with one working rooftop heater after its second unit suffered an unrepairable heat exchanger failure, eliminating heating redundancy.",
+          "The 2004 high school building debt rolls off in FY28, reducing total debt service by roughly $800,000 across both towns after factoring in the athletic complex debt.",
+          "Longer-term capital needs include sectional roof replacements, rooftop HVAC units, and parking lot reclamation and repaving."
+        ],
+        "outcome": "Staff will correct the spreadsheet totals and present the updated capital plan to the full Regional School Committee.",
+        "why_it_matters": "Capital projects and debt service directly determine the regional assessment charged to Southborough and Northborough taxpayers.",
+        "start_seconds": 23,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget guidelines and health insurance restructuring",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Superintendent Greg Martineau and Director of Finance Becky Polloghese presented the economic landscape and timeline for developing the FY28 regional operating budget. District leadership warned of tight municipal fiscal climates under Proposition 2 1/2 in both towns and reported ongoing work to alter employee health insurance plans to mirror state Group Insurance Commission deductibles, which could yield about $600,000 in regional savings.",
+        "key_details": [
+          "The FY27 regional budget increased by 5.81% but required eliminating 5.5 full-time equivalent positions and reducing curriculum supplies; double-digit FTE positions were eliminated over the last three years.",
+          "Key budget drivers for FY28 include special education transportation and out-of-district tuitions, health insurance, and fluctuating energy supplier rates.",
+          "The district is forming a Public Employee Committee with union representatives and retirees to negotiate health insurance deductible changes, aiming to finalize the plan structure by early December.",
+          "Southborough instructed departments to submit two budgets: a level-service budget using FY26 actuals for non-salary lines, and a level-funded non-salary budget.",
+          "Northborough requested three budget scenarios: level service, a 3% budget increase cap, and level funded."
+        ],
+        "outcome": "School administrators will prepare level-service, 3% cap, and level-funded budget models for presentation to the School Committee on November 18, 2026.",
+        "why_it_matters": "The regional school budget represents Southborough's largest single expenditure, and town revenue constraints mean budget growth beyond town guidelines could threaten staff and academic programs or require an override.",
+        "start_seconds": 1815,
+        "end_seconds": null
+      },
+      {
+        "title": "Draft FY28 budget priorities",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The subcommittees reviewed five draft strategic budget priorities aligned with the district's Vision 2032 plan. Discussion centered on special education planning, creating a five-year financial forecast, and determining the appropriate scope and funding for district communications.",
+        "key_details": [
+          "Priority 1 maintains funding for high-quality instruction and class size policies.",
+          "Priority 2 focuses on collaborative healthcare cost reductions with both towns.",
+          "Priority 3 addresses communications; members recommended shifting focus to creating a five-year communications plan rather than seeking new personnel given budget constraints.",
+          "Priority 4 includes proposing a town meeting warrant article in both Southborough and Northborough to establish a Special Education Stabilization Fund.",
+          "Priority 5 directs the creation of a five-year financial outlook model alongside the annual budget."
+        ],
+        "outcome": "Staff will refine the communications priority into a planning goal and present the priorities to the Regional School Committee.",
+        "why_it_matters": null,
+        "start_seconds": 2855,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "FY28 budget requests submitted by school administrators to district finance",
+        "when": "October 20, 2026"
+      },
+      {
+        "what": "Full Regional School Committee meeting discussion on capital and budget priorities",
+        "when": "October 21, 2026"
+      },
+      {
+        "what": "Preliminary FY28 budget presentation to the Regional School Committee",
+        "when": "November 18, 2026"
+      },
+      {
+        "what": "Superintendent's recommended FY28 budget presentation",
+        "when": "January 20, 2027"
+      },
+      {
+        "what": "Regional School Committee vote on FY28 budget",
+        "when": "February 24, 2027"
+      },
+      {
+        "what": "Southborough Annual Town Meeting",
+        "when": "March 20, 2027"
+      },
+      {
+        "what": "Northborough Annual Town Meeting",
+        "when": "April 26, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T19:07:09Z",
+  "usage": {
+    "total_tokens": 131918,
+    "total_input_tokens": 128204,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 1122
+      },
+      {
+        "modality": "video",
+        "tokens": 127082
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1692,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2022
+  }
+}
