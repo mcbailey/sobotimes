@@ -2526,6 +2526,21 @@
       "processed_at": "2026-10-16T11:14:15Z",
       "prompt_version": "2026-10-13b",
       "last_error": null
+    },
+    "QdzU1T7dKiU": {
+      "id": "QdzU1T7dKiU",
+      "title": "Elementary School Building Committee 10/15/26",
+      "description": "",
+      "published_at": "2026-10-16T12:52:08Z",
+      "duration_s": 5395,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-16T15:34:50Z",
+      "meeting_date": "2026-10-15",
+      "week": "2026-10-12"
     }
   },
   "usage": {
@@ -2563,8 +2578,8 @@
     }
   },
   "last_run": {
-    "at": "2026-10-16T12:26:25Z",
-    "discovered": 26,
+    "at": "2026-10-16T15:34:50Z",
+    "discovered": 24,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
