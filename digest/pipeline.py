@@ -11,7 +11,7 @@ from typing import Callable
 
 from . import prompts
 from .config import Config
-from .gemini import GeminiError, RateLimited, TryLater, video_part
+from .gemini import GeminiError, OutOfTokens, RateLimited, TryLater, video_part
 from .store import Store
 from .timeutil import (
     date_from_title,
@@ -479,15 +479,27 @@ class Pipeline:
     def _text_call(self, state: dict, text: str, system: str, schema: dict, max_tokens: int):
         g = self.cfg.gemini
         models = [g.synthesis_model] + [m for m in g.fallback_models if m != g.synthesis_model]
-        used_model, result = self._run_models(models, lambda model: self.client.run(
-            model=model,
-            input=text,
-            system_instruction=system,
-            schema=schema,
-            max_output_tokens=max_tokens,
-            thinking_level=g.thinking_level or None,
-            timeout_s=g.call_timeout_minutes * 60,
-        ))
+
+        def call(thinking: str | None):
+            return self._run_models(models, lambda model: self.client.run(
+                model=model,
+                input=text,
+                system_instruction=system,
+                schema=schema,
+                max_output_tokens=max_tokens,
+                thinking_level=thinking,
+                timeout_s=g.call_timeout_minutes * 60,
+            ))
+
+        try:
+            used_model, result = call(g.thinking_level or None)
+        except OutOfTokens:
+            # The model occasionally thinks until the cap leaves no room for the
+            # answer. These are sorting and writing jobs; low thinking is enough.
+            if g.thinking_level == "low":
+                raise
+            self.log("  Answer was cut off by long thinking; retrying with low thinking")
+            used_model, result = call("low")
         ledger = state["usage"].setdefault(quota_day(self.now()), {"video_minutes": 0, "calls": 0})
         _add_usage(ledger, result.usage)
         return used_model, result

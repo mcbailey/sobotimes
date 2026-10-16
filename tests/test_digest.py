@@ -18,7 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sample_data  # noqa: E402
 from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
 from digest.config import DiscoveryConfig, load_config  # noqa: E402
-from digest.gemini import GeminiError, InteractionsClient, RateLimited, Result, TryLater  # noqa: E402
+from digest.gemini import GeminiError, InteractionsClient, OutOfTokens, RateLimited, Result, TryLater  # noqa: E402
 from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline, apply_links, merge_issues  # noqa: E402
 from digest.site import board_names, build_site  # noqa: E402
 from digest.store import Store  # noqa: E402
@@ -28,7 +28,8 @@ NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eas
 
 class FakeClient:
     def __init__(self, fail_ids=(), ratelimit_ids=(), agentic_fail_ids=(), busy_ids=(), busy_models=(), limited_models=(),
-                 minute_limits=None, too_big=()):
+                 minute_limits=None, too_big=(), cutoff_links=0):
+        self.cutoff_links = cutoff_links                 # link calls to cut off unless thinking is low
         self.minute_limits = dict(minute_limits or {})  # model -> times to refuse with a per-minute limit
         self.too_big = set(too_big)                      # (model, video_id) always over the per-minute limit
         self.busy_models = set(busy_models)
@@ -72,6 +73,9 @@ class FakeClient:
                 "topics": [], "votes": [], "public_comment": [], "upcoming": [], "caveats": None,
             }
             return Result(text=json.dumps(raw), usage=usage, interaction_id=f"i-{vid}")
+        if kw["schema"] is prompts.LINK_SCHEMA and self.cutoff_links and kw.get("thinking_level") != "low":
+            self.cutoff_links -= 1
+            raise OutOfTokens("interaction incomplete (hit the output cap)")
         if kw["schema"] is prompts.LINK_SCHEMA:
             self.link_calls = getattr(self, "link_calls", 0) + 1
             return Result(text=json.dumps(sample_data.fake_links(inp)), usage=usage)
@@ -499,6 +503,16 @@ class LinkTests(unittest.TestCase):
             self.assertEqual((again.links_written, again.months_written, again.weeks_written), ([], [], []))
             self.assertEqual(len(client.calls), before)
 
+    def test_cut_off_link_call_retries_with_low_thinking(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient(cutoff_links=1)
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            report = p.run()
+            self.assertEqual(report.links_written, ["2026-09-28", "2026-10-05"])
+            self.assertEqual(report.errors, [])
+            lows = [c for c in client.calls if c["schema"] is prompts.LINK_SCHEMA and c.get("thinking_level") == "low"]
+            self.assertEqual(len(lows), 1)
+
     def _meetings(self):
         return [{"video": {"id": "v1", "published_at": "2026-10-07T12:00:00Z"},
                  "summary": {"meeting_date": "2026-10-06",
@@ -737,6 +751,15 @@ class GeminiClientTests(unittest.TestCase):
         self.assertEqual(body["generation_config"], {"max_output_tokens": 100, "thinking_level": "low"})
         self.assertTrue(sent[1][1].endswith("/interactions/int-1"))
         self.assertEqual(sleeps, [10.0, 15.0])
+
+    def test_incomplete_interaction_is_out_of_tokens(self):
+        def fake_request(*a, **kw):
+            return json.dumps({"id": "i", "status": "incomplete", "usage": {"total_thought_tokens": 30720}}).encode()
+
+        http.request = fake_request
+        client = InteractionsClient("k", sleep=lambda s: None)
+        with self.assertRaises(OutOfTokens):
+            client.run(model="m", input="x")
 
     def test_http_429_is_rate_limited(self):
         def fake_request(*a, **kw):

@@ -24,6 +24,10 @@ class TryLater(GeminiError):
     """Gemini is overloaded or unreachable. Stop for now; don't blame the video."""
 
 
+class OutOfTokens(GeminiError):
+    """The answer was cut off at max_output_tokens (usually by long thinking)."""
+
+
 class RateLimited(TryLater):
     """Quota or rate limit hit (HTTP 429). Don't blame the video.
 
@@ -178,6 +182,8 @@ class InteractionsClient:
                 raise RateLimited(details)
             if any(s in upper for s in ("UNAVAILABLE", '"CODE": 503', "HIGH DEMAND", "OVERLOADED")):
                 raise TryLater(details)
+            if status == "incomplete":
+                raise OutOfTokens(f"interaction incomplete (hit the output cap): {details}")
             raise GeminiError(f"interaction {status}: {details}")
         return Result(text=output_text(inter), usage=inter.get("usage") or {}, interaction_id=iid)
 
