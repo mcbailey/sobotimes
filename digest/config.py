@@ -71,7 +71,7 @@ class BudgetConfig:
     max_week_summaries_per_run: int = 8
     max_link_weeks_per_run: int = 12
     max_month_summaries_per_run: int = 4
-    max_issue_statuses_per_run: int = 100
+    max_issue_statuses_per_run: int = 40
 
 
 @dataclass
