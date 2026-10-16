@@ -1,0 +1,136 @@
+{
+  "video": {
+    "id": "0P1sB_TDhqU",
+    "title": "Tricentennial Committee 3/11/26",
+    "published_at": "2026-03-17T21:10:43Z",
+    "duration_s": 3117
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Tricentennial Committee",
+    "meeting_date": "2026-03-11",
+    "headline": "The Tricentennial Committee discussed parade financing, time capsule logistics, and a Town Meeting zoning article allowing celebratory banners.",
+    "summary": "The Tricentennial Committee reviewed progress across major events planned for the town's 300th anniversary, including parade coordination, drone show contracts, and time capsule design options. Members discussed a zoning article headed to Annual Town Meeting that will permit commemorative banners on utility poles and municipal property. The committee also evaluated marketing efforts, newsletter readership, and upcoming community presentations.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the minutes from its February 11 meeting with minor textual amendments and later voted to adjourn.",
+        "key_details": [
+          "Amendments clarified committee names regarding Open Space Preservation and Breakneck Hill stewardship.",
+          "The committee voted to adjourn at the end of the agenda."
+        ],
+        "outcome": "Minutes approved as amended; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 54,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial event planning updates",
+        "category": "Other",
+        "importance": "high",
+        "summary": "Committee members reported on the progress of various celebratory events, focusing on parade logistics, contracts, and the town time capsule. A draft contract for the drone light show is under review by town counsel, while parade planning estimated overall expenses between $50,000 and $75,000. Members also reviewed time capsule quotes and debated whether burial should take place in July 2027 or December 2027 to capture the complete anniversary year.",
+        "key_details": [
+          "Parade costs are estimated at $50,000 to $75,000, with typical participating units averaging $2,300 each.",
+          "The committee intends to request up to $25,000 in advance authorization from the supporting 501(c)(3) to begin contracting parade participants once an itemized priority budget is prepared.",
+          "The drone show contract is currently with town counsel Jay Talerman for legal review.",
+          "A deluxe time capsule and associated burial work is estimated to cost roughly $7,000, with the capsule container accounting for about $3,500.",
+          "The Knox Artillery and oxen group are not committing to parade appearances until early 2027."
+        ],
+        "outcome": "Draft budgets and participant priority lists will be prepared for review at the April meeting.",
+        "why_it_matters": "Parade commitments and celebratory contracts involve significant financial commitments and affect the town-wide 2027 celebration.",
+        "start_seconds": 314,
+        "end_seconds": null
+      },
+      {
+        "title": "Newsletter metrics and editorial schedule",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed performance data for its digital newsletter and established a monthly deadline for event write-ups. The publication currently reaches approximately 700 recipients with a strong open rate.",
+        "key_details": [
+          "The newsletter distribution list has roughly 700 subscribers with an open rate near 70 percent.",
+          "Event leads were asked to submit blurbs and updates during the last week of each month.",
+          "Newsletters will be distributed during the first week of every month."
+        ],
+        "outcome": "Working groups will submit promotional blurbs by the end of March for the April newsletter.",
+        "why_it_matters": null,
+        "start_seconds": 1583,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting zoning article for display banners",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The committee discussed a temporary zoning warrant article drafted for the upcoming Annual Town Meeting that will allow celebratory banners across town. The Planning Board voted 4-0 in favor of the proposal, which will allow banners on municipal property, non-residential parcels, and utility poles with owner permission. The committee plans to staff an informational table at Town Meeting to answer questions and promote the celebration.",
+        "key_details": [
+          "The Planning Board unanimously supported the proposed zoning article 4-0.",
+          "The article allows temporary banners for the Tricentennial on municipal property, non-residential properties, and utility poles.",
+          "Pole banners under consideration are envisioned around 12 by 18 inches, while sponsor banners could reach 6 feet wide.",
+          "A committee member will represent the article on the Town Meeting floor.",
+          "Flyers explaining the article and anniversary events will be distributed to attendees."
+        ],
+        "outcome": "The zoning article will go before voters at Annual Town Meeting on April 11.",
+        "why_it_matters": "Town Meeting approval is required to amend zoning bylaws to allow celebratory banners on utility poles and public properties throughout Southborough.",
+        "start_seconds": 1803,
+        "end_seconds": null
+      },
+      {
+        "title": "Marketing and promotional outreach campaign",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed a broader marketing strategy to raise public awareness and expand the committee's contact database. Outreach avenues include school take-home packets, yard signs, lawn displays, senior center publications, and partnerships with local businesses.",
+        "key_details": [
+          "Marketing leads plan to utilize weekly school take-home packets to engage families.",
+          "The committee is exploring yard signs, which neighboring towns identified as their most effective marketing vehicle.",
+          "Committee representatives will present event plans at the Rotary Club meeting on March 18 at 7:00 PM at the Southborough Library.",
+          "A brick fundraiser presentation was deferred to April to coincide with the 501(c)(3) treasurer's report."
+        ],
+        "outcome": "Committee members will continue refining audience-specific marketing materials.",
+        "why_it_matters": null,
+        "start_seconds": 2542,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Rotary Club meeting presentation at the Southborough Library",
+        "when": "March 18, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Next Tricentennial Committee regular meeting",
+        "when": "April 8, 2026"
+      },
+      {
+        "what": "Annual Town Meeting with vote on banner zoning article",
+        "when": "April 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T18:00:01Z",
+  "usage": {
+    "total_tokens": 123661,
+    "total_input_tokens": 120007,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 119025
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1582,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2072
+  }
+}

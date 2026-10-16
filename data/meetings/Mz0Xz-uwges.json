@@ -1,0 +1,128 @@
+{
+  "video": {
+    "id": "Mz0Xz-uwges",
+    "title": "Municipal Technology Committee 4/14/26",
+    "published_at": "2026-04-15T17:11:13Z",
+    "duration_s": 3738
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-04-14",
+    "headline": "The Municipal Technology Committee reviewed a student-designed civic reporting app and analyzed town survey results showing declining satisfaction with municipal web services.",
+    "summary": "The Municipal Technology Committee welcomed new member Megan Handley and heard an eighth-grade student presentation on a prototype community issue-reporting app. Committee members received an update on ongoing audiovisual upgrades to the McAuliffe Hearing Room and the town-approved migration to a cloud-based phone system. The committee also analyzed multi-year survey results regarding town communications, noting a decline in satisfaction with the town website and strong resident preference for email notifications.",
+    "topics": [
+      {
+        "title": "Routine business and member introductions",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee called the meeting to order, excused absent members, approved the March meeting minutes, and welcomed new member Megan Handley. Members introduced their professional backgrounds in technology, design, and education.",
+        "key_details": [
+          "March meeting minutes were approved unanimously.",
+          "Members Yash and Jay were excused from the meeting.",
+          "New member Megan Handley teaches digital media and graphic design remotely for Penn State.",
+          "Library Director Ryan Donovan attended as an ex-officio committee member."
+        ],
+        "outcome": "Minutes approved; introductions completed.",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "Student presentation: SBoro Buzz reporting app prototype",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Rishiel Kumbhojkar, an eighth grader at Trottier Middle School, presented a civics action project featuring a mobile app prototype called SBoro Buzz. The app allows residents to report public works issues like cracked sidewalks or fallen trees, view town announcements, and track repair status via an administrative interface.",
+        "key_details": [
+          "The prototype was created in React Native using the Expo Go development sandbox.",
+          "Key features include an issue feed, an interactive town map, photo uploads, and an administrative dashboard for the Department of Public Works.",
+          "The project compared similar tools used in nearby towns, including SeeClickFix and Sudbury's municipal app.",
+          "Committee members recommended exploring app accessibility standards, data security, and tools like Code.org App Lab and Figma for UI design."
+        ],
+        "outcome": "Informational presentation; student will incorporate accessibility and security considerations as the project progresses.",
+        "why_it_matters": null,
+        "start_seconds": 566,
+        "end_seconds": null
+      },
+      {
+        "title": "Technology department status update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The chair summarized recent progress from the town technology department, including upgrades to meeting room systems and Town Meeting budget approvals. Modernization of the McAuliffe Hearing Room is underway to support automated hybrid meeting experiences.",
+        "key_details": [
+          "Audiovisual upgrades in the McAuliffe Hearing Room feature ceiling microphone arrays, automated zooming cameras, separate displays for content and remote attendees, and self-service touch controls.",
+          "The McAuliffe room installation is scheduled to be completed by the end of April 2026.",
+          "Annual Town Meeting approved the regular IT operating budget and funding for a new cloud-based phone system to replace the legacy on-premises PBX."
+        ],
+        "outcome": "Informational update; implementation of meeting room technology and phone system migration will continue.",
+        "why_it_matters": null,
+        "start_seconds": 1503,
+        "end_seconds": null
+      },
+      {
+        "title": "Five-year strategic technology plan update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed annual maintenance of the town's five-year strategic technology plan, which is mandated by town bylaw. The plan is maintained by Angela Varner and is scheduled for its annual update after full review of town survey data.",
+        "key_details": [
+          "Maintaining a five-year technology plan across town departments is required by Southborough town bylaws.",
+          "A current version of the plan is published on the town website.",
+          "The document is slated for a formal annual update toward the end of summer 2026."
+        ],
+        "outcome": "Department liaisons will share the plan with departments and integrate feedback ahead of the summer update.",
+        "why_it_matters": null,
+        "start_seconds": 1818,
+        "end_seconds": null
+      },
+      {
+        "title": "Technology and communications survey data analysis",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The chair presented an in-depth trend analysis of resident feedback from the town's annual satisfaction surveys spanning 2021 through 2025. Data indicated overall satisfaction with town technology dipped in 2025, driven by frustration with website navigation, meeting links, and digital forms, while email remains the overwhelmingly preferred notification method.",
+        "key_details": [
+          "The survey dataset included 1,529 eligible resident responses across four annual waves, including 237 in 2025.",
+          "Overall technology satisfaction dropped from 3.39 out of 5 in 2024 to 3.29 in 2025.",
+          "The lowest-scoring areas in 2025 were civic engagement technology (2.84), board and committee websites (3.03), and the town website (3.05).",
+          "Email was selected as the preferred notification channel by 79 percent of respondents in 2025, while monthly use of the town Twitter/X account fell to 2.5 percent.",
+          "The recommended roadmap proposed establishing official email subscription digests, redesigning website architecture, and eventually deploying a 311/CRM resident portal and AI-assisted meeting summaries."
+        ],
+        "outcome": "Survey findings will be distributed to department heads and incorporated into upcoming website contract and architecture discussions.",
+        "why_it_matters": "Resident satisfaction with town digital services is declining, and the survey data will guide how the town redesigns its website, issues official announcements, and handles online payments.",
+        "start_seconds": 2045,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Municipal Technology Committee meeting",
+        "when": "May 11, 2026 (backup date May 19, 2026)"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:03:35Z",
+  "usage": {
+    "total_tokens": 145903,
+    "total_input_tokens": 143723,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 983
+      },
+      {
+        "modality": "video",
+        "tokens": 142740
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1548,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 632
+  }
+}

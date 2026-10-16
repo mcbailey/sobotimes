@@ -1,0 +1,154 @@
+{
+  "video": {
+    "id": "GzmDgSFDiu0",
+    "title": "Advisory Committee 4/6/26",
+    "published_at": "2026-04-07T15:21:10Z",
+    "duration_s": 5680
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Advisory Committee",
+    "meeting_date": "2026-04-06",
+    "headline": "The Advisory Committee voted against Town Meeting warrant articles on larger accessory dwelling units and a plastic bag ban.",
+    "summary": "Ahead of Annual Town Meeting, the Advisory Committee reviewed and voted on several warrant articles, voting 2-5 against Article 29, which would allow accessory dwelling units up to 1,200 square feet by right, and 0-7 against Article 34, a citizen petition banning non-reusable plastic bags. Members chose not to take a formal vote on Article 33, a citizen petition proposing a separate finance and audit committee, until after hearing the presentation at Town Meeting. The committee also refined its Town Meeting advisory report, including long-term budget forecasts and road bond commentary, and approved vice chair Andrew Pfaff serving on the Neary School Building Committee.",
+    "topics": [
+      {
+        "title": "Article 29: Accessory Dwelling Units zoning bylaw amendment",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Zoning Board of Appeals member Doris Cahill presented Article 29, which would remove the special permit requirement for accessory dwelling units (ADUs) and allow them by right up to 1,200 square feet. Cahill explained the change aims to eliminate the existing 50 percent gross floor area cap, which prevents smaller homes from building a practical ADU. Committee members expressed concern that 1,200 square feet is excessive without special permit oversight, effectively allowing two standalone houses on single residential lots.",
+        "key_details": [
+          "State baseline allows ADUs up to 900 square feet by right, while the proposal expands that to 1,200 square feet by right in Southborough.",
+          "Town assessor records show approximately 34 registered accessory units currently in town, mostly built on larger properties.",
+          "Cahill noted that handicapped-accessible two-bedroom units typically need between 1,000 and 1,300 square feet.",
+          "Members voiced concerns about neighborhood density, impacts on town services, and schools.",
+          "A motion to recommend approval of Article 29 failed in a 2-5 vote."
+        ],
+        "outcome": "Failed 2-5; committee recommends disapproval.",
+        "why_it_matters": "Zoning changes for accessory dwellings affect town density, housing stock, neighborhood character, and whether homeowners can build secondary living units without a Zoning Board of Appeals special permit.",
+        "start_seconds": 98,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 33: Citizen petition for separate finance and audit committee",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed Article 33, a citizen petition submitted by Jack Baron proposing to establish an independent finance committee to conduct audits and fiscal oversight. Members noted the petitioner was absent and raised legal and practical concerns regarding the proposed committee structure, which called for representatives from existing boards. Members felt auditing authority rests with state bodies or independent external firms rather than an unspecialized volunteer committee.",
+        "key_details": [
+          "Petitioner requested a $20,000 budget to conduct independent financial reviews and audits.",
+          "Members noted volunteer audit committees lack statutory subpoena or investigative powers beyond normal public records requests.",
+          "The proposed committee composition improperly designated appointments from the Advisory Committee, Planning Board, and ZBA.",
+          "Members suggested mechanisms like an online open checkbook would provide better transparency.",
+          "The committee agreed not to take a vote and will evaluate the article after hearing the presentation on the Town Meeting floor."
+        ],
+        "outcome": "No vote taken; action deferred to Town Meeting floor.",
+        "why_it_matters": null,
+        "start_seconds": 2395,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 34: Citizen petition to ban non-reusable plastic checkout bags",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The committee reviewed Article 34, a citizen petition submitted by local youth seeking to adopt a town general bylaw prohibiting non-reusable plastic checkout bags in certain retail situations effective January 1, 2027. While commending the students for their civic engagement, members noted the article was drafted as an advisory measure rather than an actionable, enforceable bylaw with clear definitions, penalties, and enforcement mechanisms.",
+        "key_details": [
+          "Proposal targets retail checkout bags while exempting produce, meat, newspaper, and biodegradable bags.",
+          "Members pointed out the town has very few retail businesses that use plastic checkout bags, with Costco already not using them.",
+          "Town counsel and committee members noted the petition text lacked formal bylaw language and enforcement structure.",
+          "The committee voted unanimously against recommending the article as written."
+        ],
+        "outcome": "Failed 0-7; committee recommends disapproval.",
+        "why_it_matters": null,
+        "start_seconds": 3254,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of Advisory Committee Town Meeting report",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed and edited its draft booklet report to Town Meeting, detailing recommendations on the operating budget, capital articles, and warrant questions. Members agreed to highlight Article 13, a $25 million roadway and sidewalk improvement borrowing proposal, as a major standalone discussion. The report will also include multi-year budget forecast tables and warnings about structural deficits and the likelihood of a future Proposition 2 1/2 operational override.",
+        "key_details": [
+          "Article 13 proposes $25 million in borrowing for town road and sidewalk infrastructure improvements.",
+          "Committee plans to include a long-term forecast highlighting town deficit trends, unfunded mandates, and lagging state aid.",
+          "Members will incorporate an updated table showing the average single-family tax bill impact.",
+          "Consent agenda articles will be clearly designated with parenthetical notes in the summary table.",
+          "Final edits will be compiled for printing and online publication ahead of Town Meeting."
+        ],
+        "outcome": "Report revisions directed for final administrative compilation.",
+        "why_it_matters": "The Advisory Committee's printed report provides Southborough voters with background information and official recommendations on all budget, capital, and borrowing articles at Town Meeting.",
+        "start_seconds": 3700,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business: Minutes and appointments",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved vice chair Andrew Pfaff serving as an at-large member of the Neary Elementary School Building Committee following his selection by the Select Board. The committee also approved four sets of past meeting minutes and reviewed its post-Town Meeting calendar.",
+        "key_details": [
+          "Pfaff's membership on the school building committee was approved 6-0 with Pfaff abstaining.",
+          "Minutes approved for January 13, 2026, January 24, 2026, February 4, 2026, and February 20, 2026.",
+          "The committee plans to recess after Town Meeting and reconvene in late May or early June 2026 to work on budget process policies and stormwater utility fees."
+        ],
+        "outcome": "Appointment and four sets of minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 4590,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend approval of Article 29 (Amend Zoning Bylaw - ADUs)",
+        "result": "failed",
+        "tally": "2-5",
+        "start_seconds": 2357
+      },
+      {
+        "motion": "Recommend approval of Article 34 (Citizen Petition - Ban Non-Reusable Plastic Bags)",
+        "result": "failed",
+        "tally": "0-7",
+        "start_seconds": 3517
+      },
+      {
+        "motion": "Approve Advisory Committee member Andrew Pfaff serving on the ad hoc Neary Elementary School Building Committee",
+        "result": "passed",
+        "tally": "6-0-1",
+        "start_seconds": 4759
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026"
+      },
+      {
+        "what": "Next Advisory Committee meeting to review budget policy and stormwater fees",
+        "when": "Late May or early June 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:28:21Z",
+  "usage": {
+    "total_tokens": 220325,
+    "total_input_tokens": 217938,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 981
+      },
+      {
+        "modality": "video",
+        "tokens": 216957
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2019,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 368
+  }
+}

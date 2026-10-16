@@ -1,0 +1,106 @@
+{
+  "headline": "Town boards advanced key Town Meeting articles this week, including school and municipal budgets, major school building projects, and an appointed clerk proposal.",
+  "synopsis": "Southborough officials focused heavily on preparations for the April 11 Annual Town Meeting, with the Select Board tentatively endorsing a 4.88% municipal budget increase and the School Committee holding a public hearing on its $26.1 million operating budget. School leaders also approved bid specifications for the Neary Elementary School feasibility study and reviewed an $8.8 million roof replacement for Trottier Middle School that qualifies for partial state funding. Capital planners and town officials evaluated major borrowing proposals, including a $25 million authorization for road and sidewalk improvements. Additionally, the Conservation Commission opened hearings on a multi-family proposal under the MBTA Communities zoning overlay, and the joint school committees approved several updated district policies.",
+  "highlights": [
+    {
+      "title": "Select Board endorses FY27 budget and Town Meeting articles",
+      "why": "The Select Board voted 3-1-1 to conditionally endorse an FY27 operating budget reflecting a 4.88% increase and leaving a $414,000 levy balance. Final votes on union contract figures, healthcare numbers, and major capital borrowing were deferred to March 17.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "4qfPD1Qpccs",
+      "start_seconds": 5840
+    },
+    {
+      "title": "Trottier Middle School roof replacement project reviewed",
+      "why": "The School Committee reviewed plans for an $8,833,964 roof replacement heading to Town Meeting as Article 15. The Massachusetts School Building Authority has approved a 41.32% grant covering roughly $3.4 million, leaving a net cost to Southborough of approximately $5.4 million subject to Town Meeting and ballot approval.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "DdzxtcAtpew",
+      "start_seconds": 6752
+    },
+    {
+      "title": "Neary School feasibility study bid document approved",
+      "why": "Following approval of $175,000 at the March Special Town Meeting, the School Committee voted 4-0 to approve the Request for Services to hire an architect and engineer. The study will analyze comprehensive renovation options and evaluate deferred maintenance capped at $15 million less the cost of roof replacement.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "DdzxtcAtpew",
+      "start_seconds": 4925
+    },
+    {
+      "title": "Proposed $25 million borrowing for town roads and sidewalks",
+      "why": "Capital planners and the town administrator reviewed a proposed $25 million multi-year borrowing authorization to address road and sidewalk infrastructure. Select Board members agreed that large-scale road and sidewalk debt should be separated into its own warrant article subject to a town-wide debt exclusion vote.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "68vtg6_LvIU",
+      "start_seconds": 517
+    },
+    {
+      "title": "Proposal to make Town Clerk an appointed office",
+      "why": "The Select Board voted 5-0 to support Article 25, which would convert the Town Clerk from an elected position to an appointed one. The change requires approval by Annual Town Meeting voters and a majority vote on the annual town election ballot.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "4qfPD1Qpccs",
+      "start_seconds": 3310
+    },
+    {
+      "title": "MBTA overlay apartment development hearing opened",
+      "why": "The Conservation Commission began reviewing a Notice of Intent and Stormwater Permit for two apartment buildings and a clubhouse on 4 acres at 0 Southville Road. Neighbors raised concerns regarding environmental impacts, fire access, and past site clearing, leading the commission to continue the hearing to April 30.",
+      "body": "Conservation Commission",
+      "importance": "high",
+      "video_id": "oG4b8H-IoeM",
+      "start_seconds": 1790
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board meeting to finalize warrant language, vote on held capital and zoning articles, and sign the Annual Town Meeting warrant",
+      "when": "March 17, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Joint meeting between the Select Board and School Committee to finalize the Neary School Building Committee charge",
+      "when": "March 17, 2026",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Breakneck Hill Stewardship Committee meeting to review draft conservation land regulations",
+      "when": "March 19, 2026",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Consultant proposal deadline for the Neary School feasibility study Request for Services",
+      "when": "April 2, 2026",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Continued public hearing on Lynbrook Road water main replacement Notice of Intent",
+      "when": "April 2, 2026",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 11, 2026",
+      "body": null
+    },
+    {
+      "what": "Continued public hearing on 0 Southville Road apartment development Notice of Intent and Stormwater Permit",
+      "when": "April 30, 2026",
+      "body": "Conservation Commission"
+    }
+  ],
+  "week": "2026-03-09",
+  "fingerprint": "f0f7be4cef760ac3",
+  "video_ids": [
+    "0P1sB_TDhqU",
+    "3Wtzigng52g",
+    "4qfPD1Qpccs",
+    "68vtg6_LvIU",
+    "DdzxtcAtpew",
+    "MH85yg5K1Mk",
+    "NKExd-6grWk",
+    "mgWw2EVBdVI",
+    "oG4b8H-IoeM"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:20:14Z"
+}

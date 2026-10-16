@@ -1,22 +1,91 @@
 {
-  "headline": "The Southborough School Committee appointed educators Craig Williams and Heather McCloud to the town's Elementary School Building Committee.",
-  "synopsis": "During a brief special meeting this week, the Southborough School Committee finalized its two appointments to the five-member Elementary School Building Committee. The committee voted unanimously to select active educators Craig Williams and Heather McCloud for the Neary School project. These positions join three members previously designated by the Select Board. Committee members noted the importance of incorporating current operational, classroom, and special education perspectives into the planning process.",
+  "headline": "The Select Board backed a 25 million dollar road borrowing article, while town boards completed appointments to the school building committee.",
+  "synopsis": "Ahead of the April 11 Annual Town Meeting, the Select Board voted 3-2 to support a 25 million dollar borrowing authorization for five years of road and sidewalk improvements. The Select Board and School Committee also appointed five members to the newly formed Elementary School Building Committee to oversee the Neary School project. Both the Planning Board and Conservation Commission prepared critical comment letters to the Zoning Board of Appeals regarding site plan, boundary, and wetland issues on the 250 Turnpike Road 40B proposal. In addition, the Planning Board continued its hearing on data center zoning regulations, and the Conservation Commission permitted water main work on Lynbrook Road.",
   "highlights": [
     {
-      "title": "Appointments to Elementary School Building Committee",
-      "why": "The committee voted 3-0 to appoint active educators Craig Williams and Heather McCloud to fill its two designated seats on the committee overseeing the Neary School project.",
-      "body": "Southborough School Committee",
+      "title": "Road and sidewalk borrowing authorization for Town Meeting",
+      "why": "The Select Board voted 3-2 to recommend Article 13, authorizing 25 million dollars in borrowing over five years for 33 miles of road repairs and four sidewalk projects. For a median-valued home, the project would add an estimated 508.73 dollars to annual tax bills at peak debt service.",
+      "body": "Select Board",
       "importance": "high",
-      "video_id": "qYAkzbUTmaY",
-      "start_seconds": 55
+      "video_id": "MBM3fuLLTZA",
+      "start_seconds": 6555
+    },
+    {
+      "title": "Elementary School Building Committee member appointments",
+      "why": "The Select Board appointed Robert Moss, Andrew Pfaff, and Jason Malinowski to the building committee for the Neary School project after joint interviews. The School Committee later appointed educators Craig Williams and Heather McCloud to fill its two assigned seats.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "MBM3fuLLTZA",
+      "start_seconds": 374
+    },
+    {
+      "title": "Conservation concerns on 250 Turnpike Road 40B",
+      "why": "The commission prepared comments for the Zoning Board of Appeals citing missing erosion controls, practical issues with retaining walls, and intrusions into the 20-foot wetland buffer. The draft also raised concerns that an enclosed amphibian tunnel design would block light and moisture needed for migration.",
+      "body": "Conservation Commission",
+      "importance": "high",
+      "video_id": "3JDB7DRAYlg",
+      "start_seconds": 1140
+    },
+    {
+      "title": "Planning review of 250 Turnpike Road 40B application",
+      "why": "The Planning Board agreed to send an updated comment letter to the ZBA requesting that any permit require site plan modification approval. Members noted unaddressed concerns about boundary adjustments, oversized off-site sign waivers, and plan discrepancies regarding existing trees.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "AOOUdTedaXQ",
+      "start_seconds": 431
+    },
+    {
+      "title": "Public hearing on data center zoning regulations",
+      "why": "The board opened a hearing on Town Meeting Article 17 to establish special permit regulations for data centers in the Industrial Park district under Planning Board authority. The hearing was continued to the morning of Town Meeting.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "AOOUdTedaXQ",
+      "start_seconds": 24
+    },
+    {
+      "title": "Order of Conditions for Lynbrook Road water main replacement",
+      "why": "The commission closed its hearing and approved an Order of Conditions for DPW water main replacement near Lovers Lane. The permit requires contractor dewatering setups and final plans to be reviewed and approved prior to construction.",
+      "body": "Conservation Commission",
+      "importance": "medium",
+      "video_id": "3JDB7DRAYlg",
+      "start_seconds": 87
     }
   ],
-  "looking_ahead": [],
+  "looking_ahead": [
+    {
+      "what": "Select Board meeting",
+      "when": "April 7, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Pre-Town Meeting session and continued data center zoning hearing",
+      "when": "April 11, 2026, at 9:00 AM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 11, 2026, at 10:00 AM",
+      "body": null
+    },
+    {
+      "what": "Public hearing on proposed Conservation Land Use Regulations",
+      "when": "Next commission meeting",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Annual Town Election",
+      "when": "May 12, 2026",
+      "body": null
+    }
+  ],
   "week": "2026-03-30",
-  "fingerprint": "d4856db5dd109c5e",
+  "fingerprint": "6451a420aa8c0625",
   "video_ids": [
+    "3JDB7DRAYlg",
+    "AOOUdTedaXQ",
+    "MBM3fuLLTZA",
     "qYAkzbUTmaY"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:12:49Z"
+  "generated_at": "2026-10-16T18:18:54Z"
 }

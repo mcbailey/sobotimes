@@ -1,28 +1,93 @@
 {
-  "headline": "The School Committee approved an informational flyer detailing the proposed $8.8 million Trottier Middle School roof project ahead of Annual Town Meeting.",
-  "synopsis": "The Southborough School Committee met to review and approve an informational flyer regarding the proposed Trottier Middle School roof project. The flyer explains that voters at the April 11 Annual Town Meeting must authorize the total estimated gross cost of $8,833,964 to meet state guidelines. State grant reimbursements are projected to cover 41.52 percent of the project, lowering the net cost to taxpayers to approximately $5.38 million. The committee approved the flyer for distribution through school channels, municipal buildings, and local media.",
+  "headline": "Town boards advanced preparations for the April 11 Annual Town Meeting, reviewing major warrant articles, school capital projects, and multi-unit housing proposals.",
+  "synopsis": "Ahead of the April 11 Annual Town Meeting, town boards focused on warrant articles spanning municipal finances, capital requests, and zoning rules. The School Committee approved an informational flyer detailing the $8.8 million Trottier Middle School roof project, while the Advisory Committee recommended four warrant articles and reviewed a draft FY27 operating budget of $71.4 million. The Planning Board and Advisory Committee both reviewed Article 17, which would overhaul industrial park zoning and set strict standards for data centers. Meanwhile, housing discussions advanced as the Affordable Housing Trust reviewed a 60-unit proposal on Southville Road and evaluated a potential land acquisition on Northborough Road.",
   "highlights": [
     {
-      "title": "Trottier Middle School roof project informational flyer",
-      "why": "Voters will be asked to authorize $8.8 million at Annual Town Meeting, with state grant reimbursements expected to lower the net town cost to $5.38 million. The approved flyer clarifies total project costs and state requirements ahead of town votes.",
+      "title": "Trottier Middle School roof project informational flyer approved",
+      "why": "The School Committee approved a flyer explaining that Town Meeting voters must authorize the gross cost of $8.8 million for the roof replacement, with state grants expected to lower the net town share to roughly $5.38 million.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "y4CrPffK4fo",
       "start_seconds": 105
+    },
+    {
+      "title": "Article 17: Industrial Park zoning update and data centers",
+      "why": "The proposed bylaw overhauls 40-year-old industrial rules, establishing noise and odor standards while requiring a 1,000-foot setback and a special permit for data centers capped at 50,000 square feet.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "6s0--zLvHVc",
+      "start_seconds": 316
+    },
+    {
+      "title": "Draft Advisory Committee report and FY27 budget review",
+      "why": "The committee reviewed its draft Town Meeting report featuring a recommended FY27 operating budget of $71,415,873, representing an estimated 4.64 percent property tax increase for an average single-family home.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "9wWw5PxEqGQ",
+      "start_seconds": 3681
+    },
+    {
+      "title": "60-unit Southville Road apartment complex proposal",
+      "why": "Developer James Venincasa presented plans for a 60-unit MBTA Communities development across two buildings on Southville Road, with the trust exploring potential town subsidies to add affordable units beyond the required six.",
+      "body": "Board of Trustees of the Affordable Housing Trust",
+      "importance": "high",
+      "video_id": "uupnzKNv2Mo",
+      "start_seconds": 315
+    },
+    {
+      "title": "Town Common rail restoration bid restructuring",
+      "why": "After preliminary estimates came in nearly double the authorized budget, the town restructured the railing project into a base bid with two add-alternates before issuing procurement documents.",
+      "body": "Community Preservation Committee",
+      "importance": "medium",
+      "video_id": "emRyskob8kg",
+      "start_seconds": 8
+    },
+    {
+      "title": "154 Turnpike Road lighting violations and shade tree removal",
+      "why": "The Planning Board reviewed site non-compliance where outdoor lighting exceeded allowed limits by nearly 80,000 lumens, alongside landscaping shortfalls and an unpermitted shade tree removal requiring a joint hearing with the Tree Warden.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "6s0--zLvHVc",
+      "start_seconds": 3161
     }
   ],
   "looking_ahead": [
     {
-      "what": "Annual Town Meeting vote on Trottier roof project",
-      "when": "April 11",
+      "what": "Planning Board meeting on data center special permit zoning and the 250 Turnpike Road 40B application",
+      "when": "March 30, 2026, at 6:30 PM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Advisory Committee meeting to finalize warrant article recommendations and Town Meeting report",
+      "when": "March 30, 2026, at 7:30 PM",
+      "body": "Advisory Committee"
+    },
+    {
+      "what": "Release of bid package for Town Common rail restoration",
+      "when": "April 1, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 11, 2026, at 10:00 AM",
       "body": null
+    },
+    {
+      "what": "Continued hearings for 22 Turnpike Road (April 13) and 154 Turnpike Road with Tree Warden (April 27)",
+      "when": "April 13 and April 27, 2026",
+      "body": "Planning Board"
     }
   ],
   "week": "2026-03-23",
-  "fingerprint": "de3416453581ebc5",
+  "fingerprint": "7a80591754c62e0f",
   "video_ids": [
+    "6s0--zLvHVc",
+    "9wWw5PxEqGQ",
+    "_0nA-AHsRQA",
+    "emRyskob8kg",
+    "uupnzKNv2Mo",
     "y4CrPffK4fo"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:13:00Z"
+  "generated_at": "2026-10-16T18:19:20Z"
 }

@@ -1,23 +1,260 @@
 {
   "week": "2026-03-23",
-  "fingerprint": "38a5d05bc35b9486",
+  "fingerprint": "2c8d356a8bd22e7c",
   "topics": {
+    "6s0--zLvHVc#0": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#1": {
+      "issue": "tricentennial-street-banners",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#2": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#3": {
+      "issue": "mbta-communities-zoning-correction",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#4": {
+      "issue": "affordable-housing-trust-zoning-cleanup",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#5": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#6": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#7": {
+      "issue": "subdivision-rules-and-regulations-update",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#8": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "6s0--zLvHVc#9": {
+      "issue": "scenic-road-tree-removals",
+      "category": "Environment & conservation"
+    },
+    "6s0--zLvHVc#10": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "6s0--zLvHVc#11": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9wWw5PxEqGQ#0": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "9wWw5PxEqGQ#1": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "9wWw5PxEqGQ#2": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "9wWw5PxEqGQ#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "_0nA-AHsRQA#0": {
+      "issue": "2030-master-plan-update",
+      "category": "Schools"
+    },
+    "_0nA-AHsRQA#1": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "_0nA-AHsRQA#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "emRyskob8kg#0": {
+      "issue": "town-common-fence-restoration",
+      "category": "Parks, trails & recreation"
+    },
+    "emRyskob8kg#1": {
+      "issue": "southborough-golf-club-audubon-plan",
+      "category": "Environment & conservation"
+    },
+    "emRyskob8kg#2": {
+      "issue": "community-preservation-appropriations",
+      "category": "Town Meeting & elections"
+    },
+    "emRyskob8kg#3": {
+      "issue": "community-preservation-appropriations",
+      "category": "Governance & committees"
+    },
+    "emRyskob8kg#4": {
+      "issue": "cpa-project-signage-program",
+      "category": "Parks, trails & recreation"
+    },
+    "emRyskob8kg#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uupnzKNv2Mo#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uupnzKNv2Mo#1": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "uupnzKNv2Mo#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uupnzKNv2Mo#3": {
+      "issue": "community-preservation-appropriations",
+      "category": "Budget & taxes"
+    },
+    "uupnzKNv2Mo#4": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Housing"
+    },
+    "uupnzKNv2Mo#5": {
+      "issue": "northborough-road-chapter-61a-parcel",
+      "category": "Housing"
+    },
+    "uupnzKNv2Mo#6": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
     "y4CrPffK4fo#0": {
       "issue": "trottier-school-roof-replacement",
       "category": "Schools"
     }
   },
   "votes": {
+    "6s0--zLvHVc#v0": {
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "6s0--zLvHVc#v1": {
+      "issue": "tricentennial-street-banners"
+    },
+    "6s0--zLvHVc#v2": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6s0--zLvHVc#v3": {
+      "issue": "mbta-communities-zoning-correction"
+    },
+    "6s0--zLvHVc#v4": {
+      "issue": "affordable-housing-trust-zoning-cleanup"
+    },
+    "6s0--zLvHVc#v5": {
+      "issue": "22-turnpike-road"
+    },
+    "6s0--zLvHVc#v6": {
+      "issue": "154-turnpike-road"
+    },
+    "9wWw5PxEqGQ#v0": {
+      "issue": "culvert-infrastructure-replacements"
+    },
+    "uupnzKNv2Mo#v0": {
+      "issue": null
+    },
+    "uupnzKNv2Mo#v1": {
+      "issue": null
+    },
+    "uupnzKNv2Mo#v2": {
+      "issue": null
+    },
     "y4CrPffK4fo#v0": {
       "issue": "trottier-school-roof-replacement"
     }
   },
   "upcoming": {
+    "6s0--zLvHVc#u0": {
+      "date": "2026-03-30",
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6s0--zLvHVc#u1": {
+      "date": "2026-03-31",
+      "issue": "subdivision-rules-and-regulations-update"
+    },
+    "6s0--zLvHVc#u2": {
+      "date": "2026-04-11",
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6s0--zLvHVc#u3": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "6s0--zLvHVc#u4": {
+      "date": "2026-04-13",
+      "issue": "22-turnpike-road"
+    },
+    "6s0--zLvHVc#u5": {
+      "date": "2026-04-27",
+      "issue": "154-turnpike-road"
+    },
+    "9wWw5PxEqGQ#u0": {
+      "date": "2026-03-30",
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "_0nA-AHsRQA#u0": {
+      "date": null,
+      "issue": "2030-master-plan-update"
+    },
+    "_0nA-AHsRQA#u1": {
+      "date": "2026-04-30",
+      "issue": "2030-master-plan-update"
+    },
+    "_0nA-AHsRQA#u2": {
+      "date": null,
+      "issue": "2030-master-plan-update"
+    },
+    "emRyskob8kg#u0": {
+      "date": "2026-04-01",
+      "issue": "town-common-fence-restoration"
+    },
+    "emRyskob8kg#u1": {
+      "date": "2026-04-11",
+      "issue": "community-preservation-appropriations"
+    },
+    "emRyskob8kg#u2": {
+      "date": "2026-04-14",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "emRyskob8kg#u3": {
+      "date": "2026-04-22",
+      "issue": "town-common-fence-restoration"
+    },
+    "emRyskob8kg#u4": {
+      "date": "2026-05-20",
+      "issue": "community-preservation-appropriations"
+    },
+    "emRyskob8kg#u5": {
+      "date": "2026-08-31",
+      "issue": "community-preservation-appropriations"
+    },
+    "uupnzKNv2Mo#u0": {
+      "date": "2026-04-11",
+      "issue": "community-preservation-appropriations"
+    },
+    "uupnzKNv2Mo#u1": {
+      "date": "2026-04-28",
+      "issue": null
+    },
+    "uupnzKNv2Mo#u2": {
+      "date": "2026-05-26",
+      "issue": null
+    },
     "y4CrPffK4fo#u0": {
       "date": "2026-04-11",
       "issue": "trottier-school-roof-replacement"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:08:00Z"
+  "generated_at": "2026-10-16T18:31:32Z"
 }

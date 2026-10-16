@@ -1,0 +1,361 @@
+{
+  "week": "2026-04-13",
+  "fingerprint": "bb8d5fc222f34e66",
+  "topics": {
+    "78YAzZD8fYM#0": {
+      "issue": "cpa-project-signage-program",
+      "category": "Parks, trails & recreation"
+    },
+    "78YAzZD8fYM#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "78YAzZD8fYM#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "78YAzZD8fYM#3": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "78YAzZD8fYM#4": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "78YAzZD8fYM#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "78YAzZD8fYM#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "78YAzZD8fYM#7": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "78YAzZD8fYM#8": {
+      "issue": "library-book-drop-repair",
+      "category": "Buildings & facilities"
+    },
+    "Mz0Xz-uwges#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Mz0Xz-uwges#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Mz0Xz-uwges#2": {
+      "issue": "mcauliffe-hearing-room-av",
+      "category": "Buildings & facilities"
+    },
+    "Mz0Xz-uwges#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Mz0Xz-uwges#4": {
+      "issue": "town-satisfaction-survey",
+      "category": "Governance & committees"
+    },
+    "OgJvJPAuw7E#0": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "OgJvJPAuw7E#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "OgJvJPAuw7E#2": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "OgJvJPAuw7E#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "OgJvJPAuw7E#4": {
+      "issue": "911-field-bond-and-fees",
+      "category": "Parks, trails & recreation"
+    },
+    "OgJvJPAuw7E#5": {
+      "issue": "kallander-field-repairs",
+      "category": "Parks, trails & recreation"
+    },
+    "OgJvJPAuw7E#6": {
+      "issue": "northborough-road-chapter-61a-parcel",
+      "category": "Housing"
+    },
+    "OgJvJPAuw7E#7": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "OgJvJPAuw7E#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "_UvIRwZM3eg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "_UvIRwZM3eg#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "_UvIRwZM3eg#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "_UvIRwZM3eg#3": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "_UvIRwZM3eg#4": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "_UvIRwZM3eg#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "bsfT_oIHCRY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "bsfT_oIHCRY#1": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "igJUFW_ilpo#0": {
+      "issue": "12-wood-street-special-permit",
+      "category": "Zoning & development"
+    },
+    "igJUFW_ilpo#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "igJUFW_ilpo#2": {
+      "issue": "34-turnpike-road-special-permit",
+      "category": "Zoning & development"
+    },
+    "igJUFW_ilpo#3": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "igJUFW_ilpo#4": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "mFq2QvESulQ#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "mFq2QvESulQ#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "mFq2QvESulQ#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "mFq2QvESulQ#3": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "mFq2QvESulQ#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uzARxOEZKLY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uzARxOEZKLY#1": {
+      "issue": "northborough-road-chapter-61a-parcel",
+      "category": "Housing"
+    },
+    "yXe5DKqRaCw#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "yXe5DKqRaCw#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "zhyOV9gRS8Q#0": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "zhyOV9gRS8Q#1": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "zhyOV9gRS8Q#2": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "zhyOV9gRS8Q#3": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "zhyOV9gRS8Q#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "zhyOV9gRS8Q#5": {
+      "issue": "subdivision-rules-and-regulations-update",
+      "category": "Zoning & development"
+    },
+    "zhyOV9gRS8Q#6": {
+      "issue": "200-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "zhyOV9gRS8Q#7": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "zhyOV9gRS8Q#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "78YAzZD8fYM#v0": {
+      "issue": null
+    },
+    "_UvIRwZM3eg#v0": {
+      "issue": "classification-and-compensation-study"
+    },
+    "_UvIRwZM3eg#v1": {
+      "issue": null
+    },
+    "igJUFW_ilpo#v0": {
+      "issue": "12-wood-street-special-permit"
+    },
+    "igJUFW_ilpo#v1": {
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "igJUFW_ilpo#v2": {
+      "issue": "250-turnpike-road"
+    },
+    "mFq2QvESulQ#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "mFq2QvESulQ#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "uzARxOEZKLY#v0": {
+      "issue": "northborough-road-chapter-61a-parcel"
+    },
+    "yXe5DKqRaCw#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "zhyOV9gRS8Q#v0": {
+      "issue": "22-turnpike-road"
+    }
+  },
+  "upcoming": {
+    "78YAzZD8fYM#u0": {
+      "date": null,
+      "issue": null
+    },
+    "78YAzZD8fYM#u1": {
+      "date": null,
+      "issue": null
+    },
+    "78YAzZD8fYM#u2": {
+      "date": "2026-05-11",
+      "issue": null
+    },
+    "78YAzZD8fYM#u3": {
+      "date": null,
+      "issue": null
+    },
+    "78YAzZD8fYM#u4": {
+      "date": "2026-06-01",
+      "issue": null
+    },
+    "Mz0Xz-uwges#u0": {
+      "date": "2026-05-11",
+      "issue": null
+    },
+    "OgJvJPAuw7E#u0": {
+      "date": "2026-05-03",
+      "issue": null
+    },
+    "OgJvJPAuw7E#u1": {
+      "date": null,
+      "issue": null
+    },
+    "OgJvJPAuw7E#u2": {
+      "date": "2026-05-16",
+      "issue": null
+    },
+    "OgJvJPAuw7E#u3": {
+      "date": "2026-05-20",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "_UvIRwZM3eg#u0": {
+      "date": null,
+      "issue": null
+    },
+    "bsfT_oIHCRY#u0": {
+      "date": "2026-04-27",
+      "issue": "2030-master-plan-update"
+    },
+    "bsfT_oIHCRY#u1": {
+      "date": "2026-04-30",
+      "issue": "2030-master-plan-update"
+    },
+    "bsfT_oIHCRY#u2": {
+      "date": null,
+      "issue": null
+    },
+    "igJUFW_ilpo#u0": {
+      "date": "2026-05-06",
+      "issue": "250-turnpike-road"
+    },
+    "igJUFW_ilpo#u1": {
+      "date": "2026-05-06",
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "igJUFW_ilpo#u2": {
+      "date": "2026-06-10",
+      "issue": null
+    },
+    "igJUFW_ilpo#u3": {
+      "date": "2026-07-15",
+      "issue": null
+    },
+    "igJUFW_ilpo#u4": {
+      "date": "2026-08-19",
+      "issue": null
+    },
+    "mFq2QvESulQ#u0": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "mFq2QvESulQ#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "yXe5DKqRaCw#u0": {
+      "date": "2026-04-15",
+      "issue": "neary-school-building-project"
+    },
+    "zhyOV9gRS8Q#u0": {
+      "date": "2026-04-27",
+      "issue": "40-42-central-street"
+    },
+    "zhyOV9gRS8Q#u1": {
+      "date": "2026-04-27",
+      "issue": "22-turnpike-road"
+    },
+    "zhyOV9gRS8Q#u2": {
+      "date": "2026-05-11",
+      "issue": "scenic-road-tree-removals"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:41:06Z"
+}

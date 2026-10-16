@@ -1,0 +1,200 @@
+{
+  "video": {
+    "id": "OgJvJPAuw7E",
+    "title": "Recreation Commission 4/15/26",
+    "published_at": "2026-04-16T12:18:06Z",
+    "duration_s": 4735
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-04-15",
+    "headline": "The Recreation Commission reviewed updated redesign options for Fay Memorial Park and debated fee hikes for the 911 turf field.",
+    "summary": "The Recreation Commission evaluated revised conceptual designs by Activitas for improvements to Fay Memorial Park, focusing on splash pad placement, fencing, and outreach strategies for an upcoming community forum on May 20. Commissioners also reviewed the 911 turf field revolving fund and modeled hourly rate increases of $5 to $10, though they delayed any vote until meeting with the finance director regarding bond payback schedules. Additionally, the commission learned that one of its two departmental transport vans failed state inspection due to frame rot, and heard updates on drainage investigations at Kallander Field.",
+    "topics": [
+      {
+        "title": "Department updates and upcoming programs",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The recreation director reported strong spring and summer program registrations, with March revenue outpacing the previous year by roughly $15,000. He previewed upcoming community events, field trip registrations for April vacation, and town partnerships for Mental Health Awareness Month in May.",
+        "key_details": [
+          "March program registration revenue exceeded March 2025 by nearly $15,000.",
+          "April vacation field trips to Launch and the WooSox both sold out.",
+          "Touch-a-Truck is scheduled for Sunday, May 3, from 10 a.m. to noon at Woodward School.",
+          "The RecConnect Spring Fling adaptive recreation dance will take place Saturday, May 16, at the Southborough Senior Center.",
+          "Summer camp session one (June 30 to July 2) has lower enrollment due to the school year calendar, while subsequent weeks have met minimum enrollment targets."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 17,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay Memorial Park redesign concepts and outreach",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Commissioners reviewed two revised concept plans prepared by consultant Activitas for Fay Memorial Park improvements funded through the Community Preservation Act. The primary difference centers on whether the proposed 2,250-square-foot splash pad is positioned centrally adjacent to open green space and the dog park, or relocated next to the existing playground on the eastern edge. The commission planned community outreach using display boards and online surveys at the Touch-a-Truck event ahead of a formal public forum.",
+        "key_details": [
+          "The splash pad footprint has been scaled down from an original 8,000-square-foot proposal to 2,250 square feet.",
+          "Option 1 places the splash pad centrally, while Option 2 places it next to the existing playground to consolidate children's play areas.",
+          "Commissioners discussed safety and maintenance issues including poured rubber surfacing versus wood chips and fencing between the playground and dog park.",
+          "The commission plans to send a letter to the Select Board requesting dedicated dusk-to-dawn parking at Fayville Hall for park users.",
+          "A formal public engagement session is scheduled for May 20, 2026."
+        ],
+        "outcome": "The commission agreed to publicize design options on the town website and gather resident feedback at upcoming community events ahead of the May 20 public meeting.",
+        "why_it_matters": "The project will overhaul Fay Memorial Park with major amenities including a splash pad, dog park, and walking loop, requiring town approval and Community Preservation Act funding at Town Meeting.",
+        "start_seconds": 533,
+        "end_seconds": null
+      },
+      {
+        "title": "Fayville Hall parking update",
+        "category": "Roads & infrastructure",
+        "importance": "low",
+        "summary": "The recreation director reported on recent discussions with the Planning Board regarding parking at Fayville Hall. The town plans to stripe and mark eight deeded town parking spaces within the next several weeks.",
+        "key_details": [
+          "Eight parking spaces deeded to the town at Fayville Hall are expected to be marked within a few weeks.",
+          "The department continues to pursue a satellite parking arrangement with the Fayville Athletic Association."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 2248,
+        "end_seconds": null
+      },
+      {
+        "title": "Recreation Commissioner recruitment",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Commissioners provided brief updates on recruiting candidates to fill an open seat on the Recreation Commission, noting outreach to local youth sports coaches and community groups.",
+        "key_details": [
+          "Outreach was conducted at a recent youth soccer coaches meeting.",
+          "Several residents have expressed preliminary interest in the vacancy."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 2448,
+        "end_seconds": null
+      },
+      {
+        "title": "911 turf field fee structure and bond payback",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The commission analyzed the financial model for the 911 turf field revolving fund, evaluating how potential hourly rental rate increases would impact local youth sports organizations. Annual billable field hours average 516 hours, and members examined fee bumps of $5 or $10 per hour. The board delayed any vote on fee increases until meeting with the finance director to clarify the town's bond repayment schedule.",
+        "key_details": [
+          "A $5-per-hour rate increase would raise the rate from $100 to $105, costing Southborough Youth Soccer roughly $1,390 more per year, or about $5 per player.",
+          "A $10-per-hour increase would raise rates to $110, generating an estimated $5,000 annually across all user groups.",
+          "Revolving fund annual maintenance expenses are projected below $6,000 for FY26.",
+          "Bond payback obligations to the town have fluctuated between $30,000 and $50,000 annually.",
+          "The commission intends to invite the finance director to its May meeting to clarify future debt service payback requirements."
+        ],
+        "outcome": "Action on the fee increase was postponed to May pending a discussion with the finance director on the bond payback schedule.",
+        "why_it_matters": null,
+        "start_seconds": 2570,
+        "end_seconds": null
+      },
+      {
+        "title": "Kallander Field condition and contractor review",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The director provided an update on ongoing turf settling and drainage issues at Kallander Field. Following discussions with the Department of Public Works and original contractor North Turf, the contractor has agreed to inspect the field in person.",
+        "key_details": [
+          "Settling issues stem from past reconstruction work and discussions over whether engineered soil versus a sand-soil mix was utilized.",
+          "North Turf plans to visit the site in the coming weeks to evaluate field conditions.",
+          "The commission noted that capital projects are now managed more closely with the Department of Public Works under the Capital Improvement Fund."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 3982,
+        "end_seconds": null
+      },
+      {
+        "title": "Northborough Road property",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission briefly noted that the town has a right of first refusal on a parcel on Northborough Road. The Affordable Housing trust or committee is actively evaluating the site, and the Recreation Commission will monitor the process.",
+        "key_details": [
+          "The town holds a right of first refusal for the Northborough Road parcel.",
+          "Affordable Housing is currently reviewing the property for potential use."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 4160,
+        "end_seconds": null
+      },
+      {
+        "title": "Recreation department van inspection failure",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The director reported that the department's 12-year-old passenger van failed its state inspection due to significant undercarriage frame rot and is currently undriveable. Estimated repair costs are $4,000 to $5,000. Because the department operates a second newer van that sufficiently covers current programming needs, commissioners discussed surplus disposal or offering it to another town department rather than investing in repairs.",
+        "key_details": [
+          "The 12-year-old van failed state inspection due to severe frame rust and rot.",
+          "DPW estimated repair costs between $4,000 and $5,000.",
+          "The department's second van is approximately 6 to 7 years old and passed inspection.",
+          "The recreation director will check whether another town department can use the older vehicle before taking steps to declare it surplus."
+        ],
+        "outcome": "The director will consult other municipal departments regarding potential interest in the vehicle before pursuing surplus disposal.",
+        "why_it_matters": null,
+        "start_seconds": 4195,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Commissioners agreed to defer approval of the March 18, 2026 meeting minutes to the May meeting because a member was unable to access the files. The commission discussed scheduling for its May regular meeting and adjourned.",
+        "key_details": [
+          "Approval of March 18, 2026 minutes was postponed to the next meeting.",
+          "The next regular meeting will be scheduled for a Wednesday in early to mid-May 2026.",
+          "The meeting adjourned at 8:25 p.m."
+        ],
+        "outcome": "Minutes deferred and meeting adjourned by roll call vote.",
+        "why_it_matters": null,
+        "start_seconds": 4500,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Touch-a-Truck event at Woodward School",
+        "when": "May 3, 2026"
+      },
+      {
+        "what": "Next Recreation Commission meeting",
+        "when": "Mid-May 2026"
+      },
+      {
+        "what": "RecConnect Spring Fling dance at the Southborough Senior Center",
+        "when": "May 16, 2026"
+      },
+      {
+        "what": "Public engagement session on Fay Memorial Park schematic design",
+        "when": "May 20, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:02:11Z",
+  "usage": {
+    "total_tokens": 186440,
+    "total_input_tokens": 181840,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 983
+      },
+      {
+        "modality": "video",
+        "tokens": 180857
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2559,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2041
+  }
+}

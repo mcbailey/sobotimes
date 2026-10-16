@@ -1,0 +1,147 @@
+{
+  "video": {
+    "id": "NKExd-6grWk",
+    "title": "Board of Health 3/10/26",
+    "published_at": "2026-03-10T14:11:14Z",
+    "duration_s": 844
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-03-10",
+    "headline": "The Board of Health authorized its health agent to approve septic local upgrades and discussed potential regulations for battery energy storage systems.",
+    "summary": "At its March 10 meeting, the Southborough Board of Health voted to delegate approval authority for Title 5 local septic upgrades to Health Agent Chris Craig to streamline repairs. Staff reported that local food inspections are currently up to date and agreed to review food code rules ahead of April for food trucks and a potential farmers market. The board noted the closure of a housing enforcement case at 88 Turnpike Road and discussed drafting local health regulations for battery energy storage systems. Upcoming meetings were scheduled through June, and members noted health department items on the April 11 Annual Town Meeting warrant.",
+    "topics": [
+      {
+        "title": "Local upgrade approvals delegation",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The board discussed delegating authority to Health Agent Chris Craig to review and grant local upgrade approvals for septic system repairs under Title 5. This administrative authority was previously held by past staff to streamline septic repair timelines, while all septic variance requests will still require full board hearings.",
+        "key_details": [
+          "Delegates authority to Chris Craig for Title 5 septic local upgrade approvals",
+          "Applies to repair situations where system flow is not expanding",
+          "Requires systems to achieve maximum feasible compliance",
+          "Full septic variances will continue to require board approval"
+        ],
+        "outcome": "Approved unanimously",
+        "why_it_matters": null,
+        "start_seconds": 10,
+        "end_seconds": null
+      },
+      {
+        "title": "Food inspection update and regulation review",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff updated the board on town food inspections, noting that inspector Vinnie has eliminated the inspection backlog and brought all establishments into compliance except one restaurant with limited operating hours. The board also requested that staff review outdated food regulations ahead of April, specifically addressing mobile food trucks and requirements for a proposed town farmers market.",
+        "key_details": [
+          "Inspection backlog has been cleared with all establishments compliant except one pending visit",
+          "Staff is reviewing local food regulations to present suggested updates in April",
+          "Potential new regulations will address a proposed farmers market",
+          "Staff noted preparations for the upcoming food truck season"
+        ],
+        "outcome": "Staff will prepare regulation updates for the April meeting",
+        "why_it_matters": null,
+        "start_seconds": 166,
+        "end_seconds": null
+      },
+      {
+        "title": "Housing complaint status",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Health Agent Chris Craig provided an update on recent housing inspection complaints in town. The board was informed that the enforcement case regarding 88 Turnpike Road has reached maximum feasible compliance and is officially closed, while minor seasonal heating complaints were resolved as needed.",
+        "key_details": [
+          "Case at 88 Turnpike Road was officially closed after reaching maximum feasible compliance",
+          "Hearing regarding 88 Turnpike Road had been held several months prior",
+          "Minor routine heating issues in other residences were addressed as reported"
+        ],
+        "outcome": "Discussion only; case closed",
+        "why_it_matters": null,
+        "start_seconds": 328,
+        "end_seconds": null
+      },
+      {
+        "title": "Energy storage system regulations",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board discussed whether to adopt Board of Health regulations for battery energy storage systems as the Planning Board prepares industrial zoning bylaws. Staff reported that state Department of Energy Resources regulations are expected in April, and the board noted it holds independent legal authority to establish health conditions on such systems without Town Meeting approval.",
+        "key_details": [
+          "Planning Board is updating industrial park zoning bylaws to incorporate energy storage",
+          "State Department of Energy Resources regulations are expected to be released in April",
+          "Board of Health can adopt local health regulations independently after public hearings",
+          "Staff is consulting regional public health resources to review regulations used in other towns"
+        ],
+        "outcome": "Staff will research regional models and monitor state regulations",
+        "why_it_matters": null,
+        "start_seconds": 395,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board set its upcoming meeting schedule for May and June and noted that the health department operating budget and a salary administration plan stipend article will appear before Annual Town Meeting on April 11. The meeting adjourned with no public comments offered.",
+        "key_details": [
+          "Next meeting scheduled for April 7 at 9:00 a.m.",
+          "Annual Town Meeting scheduled for April 11",
+          "Regular meetings scheduled for May 5 at 9:00 a.m. and June 9 at 11:00 a.m.",
+          "Meeting adjourned at 9:14 a.m."
+        ],
+        "outcome": "Meeting schedule confirmed",
+        "why_it_matters": null,
+        "start_seconds": 581,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Authorize Chris Craig to approve Title 5 local upgrade approvals without requiring board review",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 156
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Regular Board of Health meeting",
+        "when": "April 7, 2026"
+      },
+      {
+        "what": "Annual Town Meeting covering health budget and SAP stipend article",
+        "when": "April 11, 2026"
+      },
+      {
+        "what": "Regular Board of Health meeting",
+        "when": "May 5, 2026"
+      },
+      {
+        "what": "Regular Board of Health meeting",
+        "when": "June 9, 2026"
+      }
+    ],
+    "caveats": "The meeting adjourned at 0:12:03; the remainder of the recording consists of a black screen with no audio."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T18:13:48Z",
+  "usage": {
+    "total_tokens": 36600,
+    "total_input_tokens": 33212,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 32231
+      },
+      {
+        "modality": "text",
+        "tokens": 981
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1503,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1885
+  }
+}

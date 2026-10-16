@@ -1,0 +1,86 @@
+{
+  "video": {
+    "id": "uzARxOEZKLY",
+    "title": "Board of Trustees of the Affordable Housing Trust (AHT) 4/14/26",
+    "published_at": "2026-04-15T13:17:31Z",
+    "duration_s": 883
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Affordable Housing Trust",
+    "meeting_date": "2026-04-14",
+    "headline": "The Affordable Housing Trust voted to enter executive session to discuss acquiring a Chapter 61A parcel for affordable housing.",
+    "summary": "The Affordable Housing Trust met briefly in open session on April 14, 2026, approving past meeting minutes before addressing a potential Chapter 61A property opportunity. Trustee Al Hamilton stated he had a conflict of interest regarding the parcel and recused himself from board deliberations, using public comment as a private citizen to urge the trust to pursue the site for affordable housing. The trust then voted 4-0 to enter executive session to discuss property acquisition and did not return to open session.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved open session minutes from March 25, 2026, with minor corrections, and approved and retained executive session minutes from April 9, 2026.",
+        "key_details": [
+          "March 25, 2026 open session minutes approved 3-0.",
+          "April 9, 2026 executive session minutes approved and retained 3-0."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 7,
+        "end_seconds": null
+      },
+      {
+        "title": "Chapter 61A property acquisition and executive session",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The chair reported consulting with town counsel, who confirmed that discussions of the Chapter 61A property opportunity qualified for executive session regarding potential real property acquisition. Trustee Al Hamilton recused himself from official participation due to a conflict of interest. Following public comment from Hamilton as a private citizen, the board voted to enter executive session under state open meeting law exemption 6.",
+        "key_details": [
+          "Town counsel confirmed the land opportunity qualifies for executive session under MGL Chapter 30A, Section 21(a)(6).",
+          "Trustee Al Hamilton recused himself after consulting with the Attorney General's office regarding a conflict of interest.",
+          "Discussion in open session could have a detrimental effect on the town's negotiating position.",
+          "The board had no intention to return to open session after executive session."
+        ],
+        "outcome": "Voted 4-0 to enter executive session.",
+        "why_it_matters": "Acquiring Chapter 61A land could create new municipal affordable housing units and affect town finances and future land use.",
+        "start_seconds": 214,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Enter executive session under MGL Chapter 30A, Section 21(a)(6) to discuss potential property acquisition, without returning to open session.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 850
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "Al Hamilton spoke as a private citizen, noting he had recused himself as a board member due to a conflict of interest. He urged the trust to move expeditiously to pursue acquiring the Chapter 61A property for affordable housing and recommended involving the Select Board at its next meeting.",
+        "start_seconds": 715
+      }
+    ],
+    "upcoming": [],
+    "caveats": "The board entered executive session at approximately 14:24 and did not return to open session; subsequent discussions and any executive session votes were not recorded."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:04:02Z",
+  "usage": {
+    "total_tokens": 36862,
+    "total_input_tokens": 34669,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 33679
+      },
+      {
+        "modality": "text",
+        "tokens": 990
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 875,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1318
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "week": "2026-04-06",
+  "fingerprint": "5813ff0d38f2fd25",
+  "topics": {
+    "3tvk5LPNga4#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "3tvk5LPNga4#1": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "3tvk5LPNga4#2": {
+      "issue": "7-turnpike-road-bodywork-compliance",
+      "category": "Health & human services"
+    },
+    "3tvk5LPNga4#3": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "3tvk5LPNga4#4": {
+      "issue": "fy27-operating-budget",
+      "category": "Town Meeting & elections"
+    },
+    "3tvk5LPNga4#5": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "3tvk5LPNga4#6": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "FedQgvRmM1g#0": {
+      "issue": "school-choice-participation",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "FedQgvRmM1g#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#3": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#4": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#5": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#6": {
+      "issue": "preschool-tuition-and-assistance",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#7": {
+      "issue": "preschool-tuition-and-assistance",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#8": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "FedQgvRmM1g#9": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Town Meeting & elections"
+    },
+    "FedQgvRmM1g#10": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#11": {
+      "issue": "school-choice-participation",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#12": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#13": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#14": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "FedQgvRmM1g#15": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "GJaOrmVzrJE#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "GJaOrmVzrJE#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "GzmDgSFDiu0#0": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "GzmDgSFDiu0#1": {
+      "issue": "independent-finance-committee-bylaw",
+      "category": "Town Meeting & elections"
+    },
+    "GzmDgSFDiu0#2": {
+      "issue": "plastic-bag-ban-bylaw",
+      "category": "Town Meeting & elections"
+    },
+    "GzmDgSFDiu0#3": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "GzmDgSFDiu0#4": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "R3MM609h0cc#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "R3MM609h0cc#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "R3MM609h0cc#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "R3MM609h0cc#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "R3MM609h0cc#4": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "R3MM609h0cc#5": {
+      "issue": "tricentennial-glosobo-winter-lights",
+      "category": "Library, arts & community"
+    },
+    "R3MM609h0cc#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "UXVBSlxQf90#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "UXVBSlxQf90#1": {
+      "issue": "peninsula-trail-phase-1",
+      "category": "Parks, trails & recreation"
+    },
+    "UXVBSlxQf90#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "UXVBSlxQf90#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "UXVBSlxQf90#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "UXVBSlxQf90#5": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "hmZ0A_tbpag#0": {
+      "issue": "opeb-funding-strategy",
+      "category": "Budget & taxes"
+    },
+    "hmZ0A_tbpag#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hmZ0A_tbpag#2": {
+      "issue": "downtown-wayfinding-plan",
+      "category": "Roads, water & infrastructure"
+    },
+    "hmZ0A_tbpag#3": {
+      "issue": "municipal-financial-policies",
+      "category": "Governance & committees"
+    },
+    "hmZ0A_tbpag#4": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
+    },
+    "hmZ0A_tbpag#5": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Budget & taxes"
+    }
+  },
+  "votes": {
+    "3tvk5LPNga4#v0": {
+      "issue": null
+    },
+    "FedQgvRmM1g#v0": {
+      "issue": "preschool-tuition-and-assistance"
+    },
+    "FedQgvRmM1g#v1": {
+      "issue": "preschool-tuition-and-assistance"
+    },
+    "FedQgvRmM1g#v2": {
+      "issue": "school-choice-participation"
+    },
+    "FedQgvRmM1g#v3": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "GJaOrmVzrJE#v0": {
+      "issue": null
+    },
+    "GJaOrmVzrJE#v1": {
+      "issue": null
+    },
+    "GzmDgSFDiu0#v0": {
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "GzmDgSFDiu0#v1": {
+      "issue": "plastic-bag-ban-bylaw"
+    },
+    "GzmDgSFDiu0#v2": {
+      "issue": "neary-school-building-project"
+    },
+    "R3MM609h0cc#v0": {
+      "issue": "tricentennial-glosobo-winter-lights"
+    },
+    "R3MM609h0cc#v1": {
+      "issue": null
+    },
+    "UXVBSlxQf90#v0": {
+      "issue": null
+    },
+    "hmZ0A_tbpag#v0": {
+      "issue": null
+    },
+    "hmZ0A_tbpag#v1": {
+      "issue": "municipal-financial-policies"
+    },
+    "hmZ0A_tbpag#v2": {
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "hmZ0A_tbpag#v3": {
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    }
+  },
+  "upcoming": {
+    "3tvk5LPNga4#u0": {
+      "date": "2026-04-11",
+      "issue": "fy27-operating-budget"
+    },
+    "3tvk5LPNga4#u1": {
+      "date": "2026-05-05",
+      "issue": null
+    },
+    "3tvk5LPNga4#u2": {
+      "date": "2026-06-09",
+      "issue": null
+    },
+    "3tvk5LPNga4#u3": {
+      "date": "2026-07-07",
+      "issue": null
+    },
+    "FedQgvRmM1g#u0": {
+      "date": "2026-04-11",
+      "issue": "fy27-school-operating-budget"
+    },
+    "FedQgvRmM1g#u1": {
+      "date": "2026-05-12",
+      "issue": "neary-school-roof-replacement"
+    },
+    "FedQgvRmM1g#u2": {
+      "date": "2026-04-29",
+      "issue": "neary-school-roof-replacement"
+    },
+    "FedQgvRmM1g#u3": {
+      "date": "2026-05-21",
+      "issue": "neary-school-roof-replacement"
+    },
+    "FedQgvRmM1g#u4": {
+      "date": null,
+      "issue": "school-food-service-contract"
+    },
+    "GJaOrmVzrJE#u0": {
+      "date": "2026-04-13",
+      "issue": "neary-school-building-project"
+    },
+    "GJaOrmVzrJE#u1": {
+      "date": "2026-04-15",
+      "issue": "neary-school-building-project"
+    },
+    "GzmDgSFDiu0#u0": {
+      "date": "2026-04-11",
+      "issue": "fy27-operating-budget"
+    },
+    "GzmDgSFDiu0#u1": {
+      "date": null,
+      "issue": "town-budget-process-policy"
+    },
+    "R3MM609h0cc#u0": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "R3MM609h0cc#u1": {
+      "date": "2026-05-02",
+      "issue": null
+    },
+    "R3MM609h0cc#u2": {
+      "date": "2026-05-13",
+      "issue": null
+    },
+    "UXVBSlxQf90#u0": {
+      "date": "2026-05-07",
+      "issue": null
+    },
+    "UXVBSlxQf90#u1": {
+      "date": null,
+      "issue": "peninsula-trail-phase-2"
+    },
+    "UXVBSlxQf90#u2": {
+      "date": "2027-02-01",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "hmZ0A_tbpag#u0": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "hmZ0A_tbpag#u1": {
+      "date": "2026-04-28",
+      "issue": "opeb-funding-strategy"
+    },
+    "hmZ0A_tbpag#u2": {
+      "date": "2026-05-12",
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "hmZ0A_tbpag#u3": {
+      "date": "2026-05-19",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:37:01Z"
+}

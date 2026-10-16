@@ -1,0 +1,105 @@
+{
+  "video": {
+    "id": "_0nA-AHsRQA",
+    "title": "Master Plan Implementation Committee (MPIC) 3/26/26",
+    "published_at": "2026-03-27T13:24:39Z",
+    "duration_s": 3652
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Master Plan Implementation Committee",
+    "meeting_date": "2026-03-26",
+    "headline": "MPIC began preliminary planning for Southborough's 2030 Master Plan, discussing a hybrid consultant model, budget estimates, and tracking updates.",
+    "summary": "The Master Plan Implementation Committee reviewed updates to its progress tracking spreadsheet, focusing on reconciling recent School Committee strategic plans with the town's 2021 Master Plan. Members also began early planning for the upcoming 2030 Master Plan cycle, discussing a hybrid drafting model combining volunteer input with a paid consultant estimated at $50,000 to $60,000. The committee considered using artificial intelligence to analyze town meeting minutes for recurring themes and agreed to prepare recommendations for the Planning Board and Select Board ahead of a planned joint meeting in June.",
+    "topics": [
+      {
+        "title": "School strategic plan integration in Master Plan tracker",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Member Sam Stivers reported that the school administration provided detailed strategic planning updates, but their current goals have evolved through several revisions since the 2021 Master Plan and no longer directly match the committee's tracking spreadsheet. To prevent formula errors on the tracker's summary dashboard, members agreed to maintain the original baseline and create a separate updated section or tab for the schools' current framework.",
+        "key_details": [
+          "School administration updated its strategic plan multiple times since the 2021 Master Plan, adding new focus areas such as diversity.",
+          "School goals currently span 2025 to 2026 while working toward a 2030 horizon.",
+          "Directly overwriting older fields would disrupt automated summary formulas on the spreadsheet tracker's cover page.",
+          "Committee agreed to test an updated format on a practice tab before updating the live tracking document."
+        ],
+        "outcome": "Stivers will create a draft spreadsheet structure reflecting the school department's updated strategic plan for committee testing.",
+        "why_it_matters": null,
+        "start_seconds": 50,
+        "end_seconds": null
+      },
+      {
+        "title": "Master Plan 2030 preparation and consultant budgeting",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The committee began discussing preparations and timing for the next comprehensive plan, Master Plan 2030, which members recommended convening by 2028. Discussion centered on recommending a hybrid consulting model where town volunteers and boards generate raw local input while an external consultant synthesizes the document, with initial cost estimates discussed around $50,000 to $60,000. Members also discussed using artificial intelligence tools to review several years of board minutes to identify overarching town themes, as well as developing a stronger public relations and marketing campaign to improve resident participation.",
+        "key_details": [
+          "A member with professional planning experience estimated a hybrid consultant contract would likely cost approximately $50,000 to $60,000.",
+          "Members recommended forming a new Master Plan Committee by approximately 2028 to allow 18 to 24 months to draft the 2030 plan.",
+          "Stivers proposed feeding municipal meeting minutes into artificial intelligence tools to extract recurring cross-departmental priorities and themes.",
+          "Members emphasized shifting from departmental silos toward broad town themes, including housing, trails and open space, and environmental sustainability.",
+          "The committee plans to coordinate with the Planning Board in April and seek a joint meeting with the Select Board in June following the May 12 town election."
+        ],
+        "outcome": "Members agreed to gather comparable municipal consultant costs and draft recommended process changes for the Planning Board.",
+        "why_it_matters": null,
+        "start_seconds": 925,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the draft meeting minutes from February 5, 2026, scheduled its next regular meeting for April 30, 2026, and adjourned.",
+        "key_details": [
+          "Minutes of the February 5, 2026 meeting were approved by roll call vote (4-0).",
+          "Next meeting was scheduled for Thursday, April 30, 2026, at 5:30 p.m.",
+          "Meeting adjourned at 59:53."
+        ],
+        "outcome": "February 5, 2026 minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 3304,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Discussion with Planning Board regarding Master Plan 2030 preparations and committee charge updates",
+        "when": "April 2026"
+      },
+      {
+        "what": "Master Plan Implementation Committee regular meeting",
+        "when": "April 30, 2026 at 5:30 p.m."
+      },
+      {
+        "what": "Proposed joint meeting with the Select Board and Planning Board",
+        "when": "June 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:34:32Z",
+  "usage": {
+    "total_tokens": 143223,
+    "total_input_tokens": 140465,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 139477
+      },
+      {
+        "modality": "text",
+        "tokens": 988
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1236,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1522
+  }
+}

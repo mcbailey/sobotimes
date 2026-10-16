@@ -1,0 +1,285 @@
+{
+  "video": {
+    "id": "eGWVk9sEbBw",
+    "title": "Select Board Meeting 3/17/26",
+    "published_at": "2026-03-18T14:43:15Z",
+    "duration_s": 13184
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-03-17",
+    "headline": "The Select Board backed the $8.8M Trottier roof project, finalized warrant articles, and approved the Neary school building committee structure.",
+    "summary": "In a joint session with the School Committee, the Select Board approved a five-member structure for the Elementary School Building Committee and reviewed plans for an $8.8 million Trottier Middle School roof replacement heading to Town Meeting. Actuaries reported that Southborough's net retiree health care liability surged to $54.4 million, driven by an 88 percent spike in Medicare Advantage premiums. The board also finalized several Annual Town Meeting warrant articles, voting 3-2 to support the FY27 operating budget and backing an amended easement acquisition for Willow Street while postponing action on a $22 million roads bond and the Atwood tank soil remediation.",
+    "topics": [
+      {
+        "title": "Historical Commission Knox Trail recognition",
+        "category": "Other",
+        "importance": "low",
+        "summary": "The chair of the Historical Commission presented the board with a commemorative plaque and a state proclamation honoring Southborough's role in Henry Knox's 1776 Noble Train of Artillery expedition. The recognition coincides with the 250th anniversary of Evacuation Day and regional commemorative events held in Framingham.",
+        "key_details": [
+          "Commemorates the 250th anniversary of Henry Knox moving artillery from Fort Ticonderoga to Boston",
+          "A plaque and state proclamation signed by Governor Healey and Lieutenant Governor Driscoll were presented",
+          "The Historical Commission plans to frame the documents and hang them in the Town House"
+        ],
+        "outcome": "Plaque accepted for display in the Town House.",
+        "why_it_matters": null,
+        "start_seconds": 368,
+        "end_seconds": null
+      },
+      {
+        "title": "Common victualler license for Fuel Fusion Nutrition",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed an application for a common victualler license for Fitness Fusion LLC, operating as Fuel Fusion Nutrition at 155 Boston Road. The operators explained the business offers healthy shakes and teas for fitness clients inside their existing training facility.",
+        "key_details": [
+          "Business located at 155 Boston Road inside BP Training",
+          "Owners Becky and Nicholas Pollinger plan to sell healthy shakes and teas to workout clients"
+        ],
+        "outcome": "License approved unanimously (5-0).",
+        "why_it_matters": null,
+        "start_seconds": 680,
+        "end_seconds": null
+      },
+      {
+        "title": "Elementary School Building Committee charge",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Meeting jointly with the School Committee, the board debated the membership composition of the new Elementary School Building Committee charged with evaluating options for the Neary School. While the School Committee had favored five joint appointments, the Select Board voted to approve a structure where the Select Board appoints three members and the School Committee appoints two.",
+        "key_details": [
+          "Committee charged with studying options for the Neary School project following the March 2 special town meeting vote",
+          "School Committee had voted 4-0 on March 11 to propose five joint appointments",
+          "Select Board voted 4-0-1 to retain three Select Board appointments and two School Committee appointments",
+          "Candidates will apply to a shared pool and be interviewed jointly on March 31, 2026"
+        ],
+        "outcome": "Charge approved 4-0-1 with Kathleen Cook abstaining; joint candidate interviews scheduled for March 31.",
+        "why_it_matters": "The committee will direct the feasibility study and design options that will determine the future of Southborough elementary school facilities and major capital expenditures.",
+        "start_seconds": 761,
+        "end_seconds": null
+      },
+      {
+        "title": "Trottier Middle School roof replacement project",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Assistant Superintendent of Operations Keith LaVoie presented plans and cost estimates for replacing the roof at Trottier Middle School through the Massachusetts School Building Authority Accelerated Repair Program. The total project is estimated at $8.83 million, with MSBA reimbursing 41.32 percent, leaving an estimated net town cost of $5.39 million to be funded by a Proposition 2 1/2 debt exclusion.",
+        "key_details": [
+          "Total gross cost estimated at $8,833,964 with an MSBA grant of $3,446,336",
+          "Net cost to the town is $5,387,628, proposed as a Proposition 2 1/2 debt exclusion under Article 15",
+          "Project requires a two-thirds vote at Town Meeting on April 11 and majority approval at the May 12 ballot election",
+          "The roof was installed in 1998 with improper decking attachment and has suffered persistent leaks and mold risks",
+          "Replacement involves a 40-year PVC membrane for flat sections and shingles for pitched sections"
+        ],
+        "outcome": "Select Board later voted unanimously (5-0) to support Article 15 on the warrant.",
+        "why_it_matters": "Approval commits taxpayers to roughly $5.39 million in excluded debt borrowing to fix chronic leaks and protect the town's middle school facility.",
+        "start_seconds": 2166,
+        "end_seconds": null
+      },
+      {
+        "title": "OPEB actuarial valuation report",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Consulting actuaries from KMS Actuaries presented the biennial valuation of Southborough's Other Postemployment Benefits liability as of June 30, 2025. The net liability increased from $38.7 million to $54.4 million, primarily due to an 88 percent spike in premiums for the town's Medicare Advantage plan and 27 percent increases in non-Medicare plans.",
+        "key_details": [
+          "Total OPEB liability rose to $59,017,000 against trust assets of $4,645,000, leaving a net liability of $54,372,000",
+          "Funded ratio stands at 7.87 percent as of June 30, 2025",
+          "Aetna Medicare Advantage premiums jumped 88 percent over two years due to federal Inflation Reduction Act drug caps shifting costs to premiums",
+          "Town currently contributes $250,000 annually and plans to redirect Worcester Regional Retirement System pension funding to OPEB after full pension funding in FY37",
+          "Board members expressed concern that the current funding schedule is inadequate and requested modeling of alternative funding paths and benefit cost-share adjustments"
+        ],
+        "outcome": "Report received; actuaries will provide additional schedule projections to model paths to full funding.",
+        "why_it_matters": "A $54.4 million unfunded retiree benefit liability poses a long-term fiscal challenge that could affect town credit ratings and require higher tax allocations.",
+        "start_seconds": 3292,
+        "end_seconds": null
+      },
+      {
+        "title": "Atwood Road water tank soil remediation",
+        "category": "Environment & conservation",
+        "importance": "high",
+        "summary": "DPW Director Bill Cundiff and consultant Tim Tease presented Option 2 for remediating lead-contaminated soil at the former Atwood Road water tank site. While the cleanup to state standards is estimated between $800,000 and $850,000, the Advisory Committee recommended postponing the appropriation to the fall to allow residents to determine future site uses, prompting officials to cancel current bids and plan a re-bid for fall Town Meeting.",
+        "key_details": [
+          "Option 2 removes roughly 1,000 cubic yards of lead-contaminated soil to achieve an average concentration around 125 parts per million",
+          "Estimated project cost is $800,000 to $850,000, down from original estimates of up to $1.3 million",
+          "Site is exempt from Massachusetts Contingency Plan deadlines because contamination originated from applied paint on the former tank",
+          "Advisory Committee voted 5-0 to recommend postponing funding to the fall special town meeting",
+          "Town will cancel current bids, perform temporary site stabilization this spring, and re-bid in August"
+        ],
+        "outcome": "Town will cancel current contract bids and prepare Article 9 for action at the fall special town meeting.",
+        "why_it_matters": "Taxpayers face an estimated $800,000 to $850,000 cleanup cost for municipal land contaminated with lead paint, with future development options tied to the site's remediation.",
+        "start_seconds": 7222,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant: Citizen petitions",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "The board heard presentations on two citizen petitions proposed for the April 11 Annual Town Meeting warrant. Sponsor Jack Baron presented Article 34 to establish an independent finance committee to oversee town accounting and purchasing, which the board voted 1-3-1 not to support. High school students Lily Roy and Ali Feingold presented Article 35 proposing a plastic bag ban; the board advised them to postpone the petition and collaborate with the Board of Health on enforceable regulations for the fall.",
+        "key_details": [
+          "Article 34 proposed a separate 5-member committee appointed by multiple boards with up to $20,000 in annual spending authority to review accounting compliance",
+          "Select Board voted 1-3-1 against supporting Article 34",
+          "Article 35 proposed banning single-use plastic checkout bags at Southborough businesses",
+          "Select Board members noted Article 35 lacked enforcement mechanisms and suggested working with the Board of Health to adopt regulations or bring a refined bylaw in the fall"
+        ],
+        "outcome": "Board voted 1-3-1 against recommending Article 34; took no action on Article 35 pending sponsor discussions with the Board of Health.",
+        "why_it_matters": "Both citizen petitions propose binding town bylaws affecting municipal fiscal oversight and commercial retail operations in Southborough.",
+        "start_seconds": 8727,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant: Operating budget and town articles",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board voted recommendations on remaining warrant articles for the Annual Town Meeting. The board voted 3-2 to recommend the FY27 operating budget under Article 6 after adjustments to health insurance projections required deferring one DPW truck and shifting a $75,000 brush truck to the Amos Fund. The board deferred voting on a $22 million road and sidewalk borrowing package until a full debt impact presentation is given on April 7, while approving support for capital borrowing, zoning updates, and a donated easement on Willow Street.",
+        "key_details": [
+          "Article 6 (Operating Budget): supported 3-2; members in opposition cited town tax increases of 4.6 percent and police department headcount additions",
+          "Article 12 (Capital Budget Borrowing): supported unanimously (5-0) with Atwood tank remediation removed",
+          "Article 13 (Roads and Sidewalks Borrowing): recommendation deferred to April 7 to review debt schedule impacts on median households",
+          "Article 17 (Zoning Bylaw IP District Uses): supported 4-0-1 (one abstention) to modernize allowed uses including data centers and fitness centers",
+          "Article 26 (Appointed Town Clerk): withdrawn by the Town Clerk due to a statutory 60-day gap requirement between Town Meeting and Town Election",
+          "Article 27 (Willow Street Easement): amended to remove purchase and eminent domain authority, supported 5-0 as an acquisition by donation"
+        ],
+        "outcome": "Articles 6, 12, 17, and 27 supported; Article 13 recommendation deferred to April 7; Articles 26 and 29/30 withdrawn.",
+        "why_it_matters": "These votes set the Select Board's official recommendations for Town Meeting on the town operating budget, capital projects, zoning amendments, and land transactions.",
+        "start_seconds": 9880,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board finalized administrative business, including setting the date for the annual municipal employee breakfast, reviewing award nominations, approving an ad hoc committee charge, and signing the Annual Town Meeting warrant.",
+        "key_details": [
+          "Town employee breakfast scheduled for Monday, April 13, 2026",
+          "Nominations for the Laurie Sugarman Whittier Wellness Award open through April 7, 2026",
+          "Select Board signed the warrant for the April 11, 2026 Annual Town Meeting",
+          "Approved the charge for the Ad Hoc Cemetery Expansion Committee by unanimous vote (5-0)"
+        ],
+        "outcome": "Warrant signed; Cemetery Expansion Committee charge approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 12530,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve a common victualler license for Fitness Fusion LLC doing business as Fuel Fusion Nutrition at 155 Boston Road.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 751
+      },
+      {
+        "motion": "Approve the draft charge for the Elementary School Building Committee with three members appointed by the Select Board and two appointed by the School Committee.",
+        "result": "passed",
+        "tally": "4-0-1",
+        "start_seconds": 2064
+      },
+      {
+        "motion": "Support Article 34 on the Annual Town Meeting warrant to create a separate finance committee.",
+        "result": "failed",
+        "tally": "1-3-1",
+        "start_seconds": 9450
+      },
+      {
+        "motion": "Support Article 6 (operating budget) on the Annual Town Meeting warrant as reflected in the current draft.",
+        "result": "passed",
+        "tally": "3-2",
+        "start_seconds": 11404
+      },
+      {
+        "motion": "Support Article 12 (capital budget borrowing) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 11481
+      },
+      {
+        "motion": "Support Article 15 (Trottier Middle School roof replacement) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 11835
+      },
+      {
+        "motion": "Support Article 17 (Industrial Park district zoning bylaw amendment) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "4-0-1",
+        "start_seconds": 11958
+      },
+      {
+        "motion": "Support Article 27 on the Annual Town Meeting warrant as amended to acquire the Willow Street easement by donation only.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12433
+      },
+      {
+        "motion": "Sign the warrant for the April 11, 2026 Annual Town Meeting.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12645
+      },
+      {
+        "motion": "Approve the charge for the Ad Hoc Cemetery Expansion Committee.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12814
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of General Henry Knox Road urged the Select Board and School Committee to build consensus and avoid division when structuring the Elementary School Building Committee.",
+        "start_seconds": 1946
+      },
+      {
+        "summary": "A resident of Atwood Road questioned whether the Atwood tank soil remediation and any future affordable housing proposals would be handled as separate articles at Town Meeting.",
+        "start_seconds": 8345
+      },
+      {
+        "summary": "A resident of Atwood Road asked how town contractors will verify that all lead contamination has been fully removed during soil excavation.",
+        "start_seconds": 8440
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Joint Select Board and School Committee meeting to interview candidates for the Elementary School Building Committee",
+        "when": "March 31, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Select Board meeting including presentation on town debt and Article 13 road borrowing impact",
+        "when": "April 7, 2026"
+      },
+      {
+        "what": "Nominations deadline for the Laurie Sugarman Whittier Wellness Award",
+        "when": "April 7, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026"
+      },
+      {
+        "what": "Annual Town Election ballot vote",
+        "when": "May 12, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:56:57Z",
+  "usage": {
+    "total_tokens": 514740,
+    "total_input_tokens": 504611,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 503627
+      },
+      {
+        "modality": "text",
+        "tokens": 984
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4178,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 5951
+  }
+}

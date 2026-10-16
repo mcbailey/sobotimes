@@ -1,80 +1,98 @@
 {
-  "headline": "Town boards advanced plans for a Route 9 wastewater system and District Improvement Financing district while reviewing major residential and school development projects.",
-  "synopsis": "In April 2026, town officials focused on long-term capital infrastructure, housing proposals, and local regulatory updates. The Select Board and Wastewater Study Committee progressed plans for an estimated $40 million to $50 million wastewater system along Route 9, aiming for a District Improvement Financing vote at Special Town Meeting and extending the study committee through 2027. The Southborough School Committee selected two appointees to the Elementary School Building Committee to help lead planning for the Neary School project. In housing and development, the Conservation Commission reviewed wetland impacts for proposed apartments on Southville Road and formally adopted updated land use regulations for town conservation properties. Meanwhile, the Planning Board advanced new native landscape standards and penalized an unauthorized public tree removal on Route 9, while the Select Board expanded the Senior Tax Work-Off program to 40 participants.",
+  "headline": "Southborough advanced school and capital planning in April, selecting an architect for the Neary School study and backing a $25 million road borrowing measure.",
+  "synopsis": "April saw town boards finalize preparations for Annual Town Meeting and the May town election, including the Select Board placing a $25 million road borrowing debt exclusion on the ballot. The newly organized Elementary School Building Committee reviewed architect bids and voted to negotiate a contract with Tappe Architects for the Neary School feasibility study. The Zoning Board of Appeals closed its public hearing on a 32-unit Chapter 40B housing proposal on Turnpike Road, while the Conservation Commission continued reviews of a 60-unit project on Southville Road. The Select Board and Wastewater Study Committee continued shaping a $40 million to $50 million Route 9 wastewater infrastructure initiative, extending the committee's term through 2027. Meanwhile, the Trails Committee faced high bids on Peninsula Trail Phase 2, prompting plans to adjust the project scope before seeking additional funding in the fall.",
   "top_items": [
     {
-      "title": "Route 9 wastewater infrastructure and financing district",
-      "why": "The Select Board and Wastewater Study Committee reviewed a $40 million to $50 million wastewater plan for Route 9 and extended the planning committee's term through June 2027.",
-      "body": "The Regional Wastewater Planning Committee presented a status report to the Select Board outlining a municipal wastewater collection and treatment project along Route 9 estimated between $40 million and $50 million. The project will require a 15- to 20-acre leaching area, and officials are preparing a District Improvement Financing (DIF) plan to present at fall Special Town Meeting. The Select Board voted 4-0-1 to extend the committee's charge through June 30, 2027.",
+      "title": "Tappe Architects Selected for Neary School Feasibility Study",
+      "why": "The Elementary School Building Committee voted 3-0 to select Tappe Architects for contract negotiations after evaluating five proposals and interviewing three finalists.",
+      "body": "Following the formation of the Elementary School Building Committee, members scored proposals from five design firms for the updated Neary School feasibility study. After narrowing the field to Arrowstreet, RGB Architects, and Tappe Architects for interviews, the committee unanimously voted to advance Tappe Architects to reference checks and contract negotiations. The study will evaluate renovation and repair options for the school ahead of future Town Meeting votes.",
+      "importance": "high",
+      "video_id": "mFq2QvESulQ",
+      "start_seconds": 7700,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Select Board Backs $25M Road Borrowing for Town Ballot",
+      "why": "The Select Board revoted 4-0-1 to recommend Article 13 and voted 5-0 to place debt exclusion questions on the May 12 ballot.",
+      "body": "The Select Board revisited its position on Annual Town Meeting Article 13, voting 4-0-1 to recommend borrowing up to $25 million across multiple years for comprehensive town road and sidewalk maintenance. The board also voted 5-0 to place the debt exclusion questions on the May 12 Annual Town Election ballot, allowing voters to decide whether to fund the borrowing outside Proposition 2 1/2 limits.",
+      "importance": "high",
+      "video_id": "hmZ0A_tbpag",
+      "start_seconds": 6030,
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    {
+      "title": "ZBA Closes Hearing on 250 Turnpike Road 40B Application",
+      "why": "The Zoning Board of Appeals voted unanimously to close the public hearing for the proposed 32-unit rental development at 250 Turnpike Road.",
+      "body": "The Zoning Board of Appeals concluded public testimony on the Chapter 40B comprehensive permit application by 250 Turnpike LLC to construct 32 rental townhomes. Discussions addressed wildlife culvert passages, retaining walls near wetland buffers, and stormwater drainage, alongside neighbor concerns over watershed impacts and buffers. With the hearing closed, the board scheduled deliberations and condition drafting for May 6.",
+      "importance": "high",
+      "video_id": "igJUFW_ilpo",
+      "start_seconds": 1838,
+      "issue": "250-turnpike-road"
+    },
+    {
+      "title": "Route 9 Wastewater Planning Extends to June 2027",
+      "why": "The Select Board extended the Regional Wastewater Planning Committee through June 2027 as planning proceeds on a $40 million to $50 million corridor system.",
+      "body": "The Regional Wastewater Planning Committee updated the Select Board on efforts to establish a municipal wastewater system serving commercial properties along Route 9. The project is estimated at $40 million to $50 million, requires a 15- to 20-acre leaching area, and involves a proposed District Improvement Financing district. The Select Board voted 4-0-1 to extend the committee's charge through June 30, 2027, to continue engineering and intermunicipal coordination.",
       "importance": "high",
       "video_id": "Z4yuMDzSo_o",
       "start_seconds": 5390,
       "issue": "route-9-wastewater-infrastructure"
     },
     {
-      "title": "Elementary School Building Committee appointments",
-      "why": "The School Committee named Craig Williams and Heather McCloud to the building committee overseeing the Neary School project.",
-      "body": "The School Committee voted 3-0 to appoint Craig Williams and Heather McCloud as its representatives to the newly formed Elementary School Building Committee. Members prioritized candidates with educational and administrative backgrounds, citing Williams' experience in school transitions and McCloud's background in classroom functionality and special education.",
+      "title": "Advisory Committee Recommends Disapproval of ADU and Bag Bylaws",
+      "why": "The Advisory Committee voted against Article 29 regarding accessory dwelling units and Article 34 proposing a plastic bag ban.",
+      "body": "The Advisory Committee voted 2-5 to recommend disapproval of Article 29, which would remove the special permit requirement for accessory dwelling units and allow them by right up to 1,200 square feet, citing concerns over density and oversight. The committee also voted 0-7 against Article 34, a citizen petition to ban non-reusable plastic checkout bags, finding it drafted as an unenforceable advisory measure.",
       "importance": "high",
-      "video_id": "qYAkzbUTmaY",
-      "start_seconds": 55,
-      "issue": "neary-school-building-project"
+      "video_id": "GzmDgSFDiu0",
+      "start_seconds": 98,
+      "issue": "accessory-dwelling-units-zoning"
     },
     {
-      "title": "0 Southville Road apartment development review",
-      "why": "The Conservation Commission opened hearings on riverfront impacts for a proposed two-building apartment complex.",
-      "body": "Apartments at Southville Road LLC submitted a Notice of Intent and Stormwater Management Permit application for two apartment buildings at 0 Southville Road. The commission and public discussed approximately 4,500 square feet of disturbance within the outer riparian riverfront area, peer review by Lucas Environmental, and the intersection between local wetland bylaws and MBTA Communities Act zoning. The hearing was continued to May 14, 2026.",
+      "title": "Peninsula Trail Phase 2 Bids Double Available Funds",
+      "why": "Construction bids for the bridge and boardwalk reached $445,000 to $468,000, exceeding the available budget of roughly $211,000.",
+      "body": "The Trails Committee reviewed bid results for Peninsula Trail Phase 2, which came in at more than double the available funding. Because structural standards require the bridge over Stony Brook to meet specific engineering criteria, the committee discussed constructing only the bridge first while omitting the boardwalk. The committee agreed to adjust the project scope and seek voter authorization at Fall Special Town Meeting to transfer $47,000 in unspent Phase 1 funds.",
       "importance": "high",
-      "video_id": "znWhFcdIV3k",
-      "start_seconds": 786,
-      "issue": "0-southville-road"
+      "video_id": "UXVBSlxQf90",
+      "start_seconds": 1782,
+      "issue": "peninsula-trail-phase-2"
     },
     {
-      "title": "Senior Tax Work-Off program expansion and grants policy",
-      "why": "The Select Board revised the Senior Tax Work-Off program to provide 40 positions and established new oversight rules for town grants.",
-      "body": "The Select Board unanimously adopted an updated Senior Tax Work-Off Policy, revising eligibility requirements and setting the program size at 40 participants. The board also unanimously approved a new Grants Management Policy to ensure that grant-funded projects receive proper administrative review and do not create unfunded operating costs or ongoing personnel obligations.",
+      "title": "School Committee Increases Preschool Tuition and Opts Out of Choice",
+      "why": "The School Committee approved a 3% tuition increase for preschool and voted to opt out of interdistrict school choice for next year.",
+      "body": "The Southborough School Committee voted unanimously to increase tuition for the district preschool program by 3% for the upcoming academic year, noting rates had not changed since FY22. The committee also approved updated financial assistance guidelines capping assistance at 10% of program revenue. Following a public hearing, the committee voted unanimously to opt out of the state interdistrict school choice program due to class size limits and low state reimbursement rates.",
       "importance": "medium",
-      "video_id": "Z4yuMDzSo_o",
-      "start_seconds": 7592,
-      "issue": "senior-tax-work-off-policy"
-    },
-    {
-      "title": "Conservation land use regulations adoption",
-      "why": "The Conservation Commission formally adopted rules governing town-owned conservation land under Town Code Section 43-2.",
-      "body": "The Conservation Commission voted 5-0 to adopt updated land use regulations governing Southborough's municipal conservation properties. The new regulations incorporated feedback from the Breakneck Hill Stewardship Committee, and commissioners noted that future amendments could address concerns such as exterior lighting shining onto conservation parcels from adjacent private properties.",
-      "importance": "medium",
-      "video_id": "znWhFcdIV3k",
-      "start_seconds": 2495,
-      "issue": "conservation-land-use-regulations"
-    },
-    {
-      "title": "Native plant landscaping standards for site plans",
-      "why": "The Planning Board moved forward with rules requiring native plants and limiting pesticides in commercial landscape plans.",
-      "body": "The Planning Board reviewed a draft policy from Open Space Preservation Commission Chair Freddie Gillespie aimed at mandating native plants, soft landings, and pollinator-friendly designs in developments subject to site plan review. Members supported restricting neonicotinoids and systemic pesticides, agreeing to draft formal native planting standards for incorporation into site plan regulations while addressing invasive species management separately.",
-      "importance": "medium",
-      "video_id": "jsNUGSfKF7c",
-      "start_seconds": 6465,
-      "issue": "native-plant-landscape-regulations"
-    },
-    {
-      "title": "Replacement penalty for unauthorized Route 9 tree removal",
-      "why": "The Planning Board required a developer to provide six replacement shade trees after cutting down a public tree on Route 9 without authorization.",
-      "body": "Following a joint public hearing with the tree warden, the Planning Board addressed the unauthorized removal of a public shade tree at Route 9 and Breakneck Hill Road by Capital Group Properties. The board accepted mitigation requiring the developer to donate six three-inch caliper trees to be planted by the town.",
-      "importance": "medium",
-      "video_id": "jsNUGSfKF7c",
-      "start_seconds": 4120,
-      "issue": "154-turnpike-road"
+      "video_id": "FedQgvRmM1g",
+      "start_seconds": 1742,
+      "issue": "preschool-tuition-and-assistance"
     }
   ],
   "month": "2026-04",
-  "fingerprint": "5f955cf5ca6ea1b0",
+  "fingerprint": "e543e5e02dffc905",
   "video_ids": [
+    "3JDB7DRAYlg",
+    "3tvk5LPNga4",
+    "78YAzZD8fYM",
+    "FedQgvRmM1g",
+    "GJaOrmVzrJE",
+    "GzmDgSFDiu0",
+    "Mz0Xz-uwges",
+    "OgJvJPAuw7E",
     "PAtEimNNvz4",
+    "R3MM609h0cc",
+    "UXVBSlxQf90",
     "Z4yuMDzSo_o",
+    "_UvIRwZM3eg",
+    "bsfT_oIHCRY",
+    "hmZ0A_tbpag",
+    "igJUFW_ilpo",
     "jsNUGSfKF7c",
+    "mFq2QvESulQ",
     "qYAkzbUTmaY",
+    "uzARxOEZKLY",
+    "yXe5DKqRaCw",
+    "zhyOV9gRS8Q",
     "znWhFcdIV3k"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:33:02Z"
+  "generated_at": "2026-10-16T19:02:58Z"
 }

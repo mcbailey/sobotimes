@@ -1,0 +1,118 @@
+{
+  "video": {
+    "id": "92IH_XzKPio",
+    "title": "Wastewater Study Committee 3/19/26",
+    "published_at": "2026-03-20T15:05:20Z",
+    "duration_s": 3283
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-03-19",
+    "headline": "The committee reviewed a draft District Improvement Financing district along Route 9 and discussed regional wastewater cooperation with Westborough.",
+    "summary": "The Wastewater Study Committee reviewed preliminary discussions with Westborough officials regarding potential regional wastewater collaboration along Route 9 near the Dell property, including pursuing a state One Stop planning grant. The committee also examined a draft District Improvement Financing plan using an interactive parcel mapping tool to define a proposed funding district encompassing 580 parcels along Route 9. Members discussed siting requirements for treatment and effluent disposal, economic return metrics, and plans to brief the Select Board in April ahead of the Fall 2026 Town Meeting.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting, confirmed a quorum, and approved meeting minutes from February 18. Members noted the minutes had been drafted using artificial intelligence tools. The committee adjourned at the end of the meeting.",
+        "key_details": [
+          "Roll call confirmed five members present in person and one member participating remotely.",
+          "February 18 meeting minutes were approved unanimously."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 2,
+        "end_seconds": null
+      },
+      {
+        "title": "Document storage and public access",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Members discussed setting up a shared OneDrive folder structure to collaborate on drafts, maps, and technical reports. The committee clarified that while member access is restricted through town email addresses, specific files or read-only links can be made accessible to the public or town web pages as needed.",
+        "key_details": [
+          "Committee members will use a standardized folder structure for wastewater documents and GIS maps.",
+          "Public access can be granted for specific view-only documents without providing broad internal access."
+        ],
+        "outcome": "The committee agreed on folder structures and file-sharing procedures.",
+        "why_it_matters": null,
+        "start_seconds": 98,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional coordination with Westborough and One Stop grant",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Committee members reported on an introductory meeting with Westborough officials, including Westborough's town manager, economic development coordinator, and DPW director. The discussion centered on exploring regional wastewater treatment options along Route 9 and on the Dell property. The committee also considered applying jointly or taking the lead on a state One Stop Community Planning grant of roughly $100,000 to fund professional planning and regional feasibility work.",
+        "key_details": [
+          "Discussions focused on mutual Route 9 corridor needs and potential treatment and disposal sites near the municipal boundary.",
+          "The committee is targeting a regional application under the Massachusetts One Stop for Growth Community Planning grant program.",
+          "Grant application deadlines are in early June, with informational seminars occurring in early April.",
+          "A follow-up meeting with Westborough officials is anticipated in late April after their town meeting."
+        ],
+        "outcome": "Claire Reynolds will prepare a draft regional grant expression of interest and follow up with Westborough officials.",
+        "why_it_matters": "Regional collaboration could lower capital and operational costs for Southborough commercial wastewater infrastructure along Route 9.",
+        "start_seconds": 373,
+        "end_seconds": null
+      },
+      {
+        "title": "District Improvement Financing draft and parcel mapping",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The chair presented an interactive GIS tool and a draft District Improvement Financing (DIF) plan to help fund future wastewater construction. The model currently outlines a proposed district covering 580 parcels along Route 9 with approximately $785.8 million in total assessed value, representing about 1,547 acres. The committee discussed technical challenges of finding 15 to 20 acres of suitable soils for effluent discharge, the difference between treatment plant footprint and discharge fields, and economic data from a 2018 UMass Donahue Institute study showing broad commercial tax base expansion from wastewater investment.",
+        "key_details": [
+          "The modeled DIF boundary contains 580 parcels totaling $785.8 million in assessed value and 1,547 acres.",
+          "DIF captures a portion of tax revenue from new commercial development within the designated district to pay debt service on infrastructure.",
+          "The physical treatment plant requires less than one acre, but effluent discharge fields need an estimated 15 to 20 acres of suitable soils.",
+          "A 2018 UMass study cited indicated each dollar invested in municipal wastewater projects stimulated $15 in private investment and added $14 to local tax bases.",
+          "The committee aims to bring a DIF district proposal to the Fall 2026 Town Meeting."
+        ],
+        "outcome": "Members will refine parcel boundary criteria, review soil maps, and schedule a presentation for the Select Board.",
+        "why_it_matters": "A DIF district would allocate future tax growth from Route 9 commercial expansion to pay off sewer infrastructure debt, shielding existing taxpayers from general-fund tax increases.",
+        "start_seconds": 1158,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting attendance and wastewater status update",
+        "when": "April 21, 2026"
+      },
+      {
+        "what": "Next Wastewater Study Committee meeting",
+        "when": "April 23, 2026"
+      },
+      {
+        "what": "Target date for bringing a DIF district authorization warrant article to Town Meeting",
+        "when": "Fall 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:45:13Z",
+  "usage": {
+    "total_tokens": 129716,
+    "total_input_tokens": 126331,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 125350
+      },
+      {
+        "modality": "text",
+        "tokens": 981
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1387,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1998
+  }
+}

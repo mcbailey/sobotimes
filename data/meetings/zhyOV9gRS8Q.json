@@ -1,0 +1,211 @@
+{
+  "video": {
+    "id": "zhyOV9gRS8Q",
+    "title": "Planning Board 4/13/26",
+    "published_at": "2026-04-14T13:16:09Z",
+    "duration_s": 8299
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-04-13",
+    "headline": "Planning Board reviewed open space monitoring, addressed zoning noncompliance at commercial sites, and continued the 22 Turnpike Road hearing.",
+    "summary": "The Planning Board reviewed the draft FY25 open space monitoring report from Lucas Environmental, covering conditions and encroachments across six subdivisions. Board members addressed ongoing site plan and temporary certificate of occupancy issues at 40-42 Central Street and discussed enforcement challenges regarding 200 Turnpike Road and other noncompliant properties. The board also debriefed the recent Annual Town Meeting, approved a letter on state clean energy siting regulations, and continued a hearing for 22 Turnpike Road.",
+    "topics": [
+      {
+        "title": "FY25 open space monitoring report",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "Consultant Joseph Orzel of Lucas Environmental presented the draft FY25 Open Space Monitoring Report covering six subdivisions inspected in June 2025. The presentation detailed easement conditions, boundary markers, invasive species infestations, and resident encroachments such as brush dumping and lawn clearing. The consultant and board discussed establishing permanent bounds, potential boundary signage, and the legal durability of 30-year deed restrictions under state law.",
+        "key_details": [
+          "Monitored sites were Chestnut Meadow (Dairy Farm Lane), Ledge Hill (Whisler Lane), Maple Street Extension, Southland Acres (Asaree Drive), Schipper Farm Estates, and Cain's Crossing at Lincoln Square (141 Southville Road).",
+          "Encroachments noted across sites included yard waste and brush dumping, clearing of understory vegetation, unapproved landscaping, and dense growth of invasive oriental bittersweet and Japanese knotweed.",
+          "The consultant recommended investigating whether open space restrictions from older approvals require rerecording under Massachusetts General Laws Chapter 184, Section 27 to prevent expiration after 30 years.",
+          "Five additional subdivisions were added to the town deed research database using ARPA and remaining 2012 Town Meeting funds: All American Storage, Stonebrook Village, Villabella Estates, 28 Boston Road, and Cain's Crossing."
+        ],
+        "outcome": "Report accepted for review; town counsel will be asked to review Chapter 184 deed restriction expirations.",
+        "why_it_matters": null,
+        "start_seconds": 47,
+        "end_seconds": null
+      },
+      {
+        "title": "Public hearing continuation: 22 Turnpike Road",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The board took up a procedural motion to continue the public hearing for a major site plan modification at 22 Turnpike Road without receiving testimony.",
+        "key_details": [
+          "The application concerns a site plan modification for the golf range property at 22 Turnpike Road.",
+          "The applicant requested a continuation without testimony."
+        ],
+        "outcome": "Public hearing continued without testimony to April 27, 2026, at 6:45 PM.",
+        "why_it_matters": null,
+        "start_seconds": 2845,
+        "end_seconds": null
+      },
+      {
+        "title": "Site plan compliance update: 40-42 Central Street",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed site plan compliance for Fayville Hall at 40-42 Central Street, where a temporary certificate of occupancy is set to expire on May 1, 2026. The property owner had agreed to submit an application for site plan modification, a complete as-built plan, lighting plans, and a peer review deposit by April 8, but had not yet completed the filings. The property representative agreed to coordinate with town staff and their civil engineer to submit revised plans and payments ahead of the next meeting.",
+        "key_details": [
+          "The site plan was originally approved in 2023 for a project associated with the Southborough Historical Society.",
+          "Conditions of the temporary certificate of occupancy required submission of a modification application, lighting review, accessible parking compliance, and a peer review retainer of approximately $4,000.",
+          "Town staff noted that an as-built plan submitted earlier was incomplete and lacked required engineer certification and details on surface features.",
+          "The representative committed to having the project engineer contact the town planner to rectify omissions."
+        ],
+        "outcome": "Discussion continued to April 27, 2026, at 6:30 PM.",
+        "why_it_matters": "Ensures commercial and institutional developments adhere to approved safety, parking, lighting, and zoning conditions before receiving permanent occupancy.",
+        "start_seconds": 2908,
+        "end_seconds": null
+      },
+      {
+        "title": "2026 Annual Town Meeting debrief",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Board members reviewed the results of Annual Town Meeting, where all planning board zoning articles were adopted, including the Industrial Park rezoning, downtown zoning adjustments, MBTA Communities table revisions, and scenic roads. The board discussed low citizen turnout and strategies to improve community outreach and communications, noting ongoing technical flaws with the town website notification system.",
+        "key_details": [
+          "Zoning articles covering the Industrial Park, downtown Shop C to SAHT zoning, MBTA zoning table fixes, and outdoor lighting amendments passed with required majorities.",
+          "Attendance at Town Meeting hovered around 170 voters at its peak out of roughly 7,000 registered voters.",
+          "Members discussed collaborating with the Council on Aging and Senior Center for informational sessions ahead of future town meetings.",
+          "The town planner noted MAPC grant work is underway examining community engagement across three municipalities, with a report expected by summer."
+        ],
+        "outcome": "Discussion only; board members will explore improved notification and outreach methods.",
+        "why_it_matters": null,
+        "start_seconds": 5440,
+        "end_seconds": null
+      },
+      {
+        "title": "DOER clean energy siting regulations letter",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The board reviewed a draft letter prepared by the town planner to the Select Board regarding proposed Massachusetts Department of Energy Resources regulations for clean energy siting and permitting. The board agreed to strike a sentence that had become outdated following recent town bylaw adoptions.",
+        "key_details": [
+          "The letter addresses 225 CMR clean energy siting regulations and town input.",
+          "A reference to previous interpretations was deleted since the town adopted updated bylaw definitions.",
+          "Quick reference summaries and Massachusetts Municipal Association guidance will be attached."
+        ],
+        "outcome": "Letter approved with minor edits to be forwarded to the Select Board.",
+        "why_it_matters": null,
+        "start_seconds": 6025,
+        "end_seconds": null
+      },
+      {
+        "title": "Subdivision rules and regulations update",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The town planner gave a brief update on developing an Approval Not Required checklist and updating subdivision regulations to provide clear, standardized guidelines for applicants.",
+        "key_details": [
+          "Staff is drafting a standardized checklist to clearly define requirements for ANR plans.",
+          "The board aims to clarify existing guidelines to eliminate the need for applicants to consult secondary handbooks."
+        ],
+        "outcome": "Informational update; drafting is ongoing.",
+        "why_it_matters": null,
+        "start_seconds": 6138,
+        "end_seconds": null
+      },
+      {
+        "title": "Zoning enforcement and occupancy at 200 Turnpike Road",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board debated serious compliance and enforcement issues after learning that building permits and certificates of occupancy were issued for 200 Turnpike Road without adherence to planning board site plan approvals. Members expressed deep concern over a perceived lack of zoning enforcement and discussed scheduling a joint workshop with the building commissioner and town administrator to align on enforcement procedures under Town Code Section 174-10.J and 174-24.A.",
+        "key_details": [
+          "200 Turnpike Road involves commercial plowing, landscaping, and a 100-by-40-foot salt shed and 100-by-80-foot warehouse addition.",
+          "Building permits and temporary certificates of occupancy were issued for portions of the building and shell without required planning board approvals or certified as-built plans.",
+          "The board discussed Town Code Section 174-24.A, which authorizes fines up to $300 per day for each day a zoning violation continues.",
+          "Members voiced frustration that noncompliant commercial properties operate for months or years without enforcement, shifting administrative burdens onto planning staff.",
+          "Board members agreed to organize a workshop with the building commissioner, town administrator, and Select Board to establish a clear enforcement pipeline."
+        ],
+        "outcome": "The town planner will coordinate an enforcement workshop with the building commissioner and town administration.",
+        "why_it_matters": "Enforcement of zoning bylaws and site plan conditions protects public safety and neighborhood standards by holding commercial developments accountable before buildings are occupied.",
+        "start_seconds": 6202,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Planner report",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The town planner briefed the board on upcoming items, including a 40B submission to the Zoning Board of Appeals for 250 Turnpike Road, regional historic preservation training, Tree City USA proclamations, and upcoming scenic road tree removal hearings.",
+        "key_details": [
+          "A planning board comment letter was submitted to the ZBA regarding the 250 Turnpike Road 40B project.",
+          "The town received its Tree City USA proclamation from the Select Board.",
+          "Scenic road tree removal hearings are pending for 154 Turnpike Road and multiple DPW tree locations, scheduled for late April or May."
+        ],
+        "outcome": "Informational update; no action taken.",
+        "why_it_matters": null,
+        "start_seconds": 7752,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved open meeting minutes from March 23, 2026, as amended, and approved the format of executive session minutes from March 30, 2026, before adjourning.",
+        "key_details": [
+          "March 23, 2026 minutes were amended on line 103 to change covered trees to covered tees.",
+          "March 30, 2026 minutes format was approved.",
+          "The meeting adjourned at approximately 8:45 PM."
+        ],
+        "outcome": "Minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 8090,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing without testimony for 22 Turnpike Road golf range modification major site plan approval to April 27, 2026 at 6:45 PM.",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 2901
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "The chair of the Open Space Preservation Commission asked about the 30-year expiration of subdivision open space deed restrictions under state law and advocated for strict invasive plant management requirements during the planning and permitting process for new developments.",
+        "start_seconds": 2205
+      },
+      {
+        "summary": "A resident and property owner commented on state deed restriction laws, explaining that the statute was intended to prevent ancient encumbrances, and later shared concerns that the town had not fulfilled stormwater management and tree planting commitments in a town drainage easement on his property near Main Street and Parkerville Road.",
+        "start_seconds": 2737
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Discussion on site plan modification and as-built plans for 40-42 Central Street",
+        "when": "April 27, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Continued public hearing for 22 Turnpike Road major site plan approval modification",
+        "when": "April 27, 2026 at 6:45 PM"
+      },
+      {
+        "what": "Scenic road public hearing for tree removals",
+        "when": "May 11, 2026"
+      }
+    ],
+    "caveats": "Meeting audio was muted or inaudible for the first 41 seconds of the recording before being resolved by participants."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:06:43Z",
+  "usage": {
+    "total_tokens": 312341,
+    "total_input_tokens": 308049,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 983
+      },
+      {
+        "modality": "video",
+        "tokens": 307066
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2974,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1318
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "video": {
+    "id": "FedQgvRmM1g",
+    "title": "Southborough School Committee April 8, 2026",
+    "published_at": "2026-04-09T00:40:40Z",
+    "duration_s": 3481
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-04-08",
+    "headline": "The Southborough School Committee voted to opt out of school choice, approved a 3% preschool tuition increase, and prepared for Annual Town Meeting.",
+    "summary": "The Southborough School Committee conducted a public hearing and voted to withdraw from the state's interdistrict school choice program for the upcoming academic year due to funding shortfalls and capacity limits. Members approved a 3% tuition increase for preschool and updated financial assistance guidelines for preschool and extended day programs. The committee also reviewed preparations for Annual Town Meeting warrant articles, including school capital requests and the Trottier Middle School roof replacement, and received updates on the Neary school building project and roof repairs.",
+    "topics": [
+      {
+        "title": "School choice public hearing",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee opened a required annual public hearing on whether to participate in the Massachusetts interdistrict school choice program. The superintendent recommended opting out, noting the state reimbursement of $5,000 per student is substantially below the district's per-pupil operating costs and that current class sizes remain near policy limits.",
+        "key_details": [
+          "State tuition reimbursement is set at $5,000 per student.",
+          "District per-pupil expenditure was cited as $23,911.",
+          "School committee class size guidelines leave little excess capacity."
+        ],
+        "outcome": "Hearing closed; formal vote held later in the meeting.",
+        "why_it_matters": null,
+        "start_seconds": 102,
+        "end_seconds": null
+      },
+      {
+        "title": "Recognition of departing committee member",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee and administration honored member Denise Eddy at her final meeting after serving a one-year appointment filling a vacancy. Citations of appreciation from the Massachusetts State Senate and House of Representatives were presented.",
+        "key_details": [
+          "Denise Eddy concluded one year of service filling a vacant committee seat.",
+          "Citations were presented from the State Senate and House of Representatives."
+        ],
+        "outcome": "Recognition completed.",
+        "why_it_matters": null,
+        "start_seconds": 280,
+        "end_seconds": null
+      },
+      {
+        "title": "Principals' reports and school highlights",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "The committee reviewed monthly updates and student activities across Southborough public schools. Highlights included Community Read Day and an Eagle Scout garden fence project at Finn School, STEM lessons and March Mathness at Woodward School, a visiting author and custodian appreciation day at Neary School, and science fair honors and an upcoming WICN radio recording for Trottier Middle School's big band.",
+        "key_details": [
+          "Eagle Scout James Henneberry designed and built a protective garden fence at Finn School.",
+          "Woodward students completed 104,951 math puzzles during March Mathness.",
+          "Neary recognized head custodian Mike Dagle on Mr. Dagle Day.",
+          "Trottier sixth grader Emma Lee placed second at the Worcester Regional Science Fair.",
+          "Trottier Big Band was invited to record a session with WICN radio's Emerging Artist series."
+        ],
+        "outcome": "Information presented.",
+        "why_it_matters": null,
+        "start_seconds": 491,
+        "end_seconds": null
+      },
+      {
+        "title": "Food service operations update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The assistant superintendent provided an update on the district's first year contracting food service management with Whitsons. The district completed a state Department of Elementary and Secondary Education administrative review with minimal corrective action required, navigated a midyear management change, and is gathering staff and parent feedback ahead of a contract renewal recommendation in May.",
+        "key_details": [
+          "Contract with Whitsons must be renewed annually up to a five-year maximum.",
+          "DESE administrative audit was completed with minimal corrective action required.",
+          "Linda St. Hilaire took over as food service director after Thanksgiving.",
+          "Surveys of staff, students, and parents are informing program evaluation.",
+          "Recommendation on contract extension will come before the committee in May."
+        ],
+        "outcome": "Discussion held; recommendation expected in May.",
+        "why_it_matters": null,
+        "start_seconds": 1041,
+        "end_seconds": null
+      },
+      {
+        "title": "Elementary School Building Committee appointments",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent reported that all five members of the newly established Elementary School Building Committee have been appointed following a joint interview session with the Select Board. The school committee appointed Heather MacLeod and Craig Williams to represent the committee on the building group.",
+        "key_details": [
+          "Select Board appointed three members; School Committee appointed two members.",
+          "Heather MacLeod and Craig Williams appointed by the School Committee.",
+          "The building committee's first meeting was scheduled for the same evening at 8:00 p.m."
+        ],
+        "outcome": "Appointments finalized.",
+        "why_it_matters": null,
+        "start_seconds": 1608,
+        "end_seconds": null
+      },
+      {
+        "title": "Architectural designer bids for Neary building project",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Five architectural designer proposals were received in response to the request for services for the Neary building project. The submissions were forwarded to the Elementary School Building Committee for scoring and evaluation.",
+        "key_details": [
+          "Five architectural firms submitted proposals: Arrowstreet, RGB Architects, Socotec AE Consulting, The Galante Architectural Studio, and Tappe Architects.",
+          "Proposals will be scored against established criteria by the Elementary School Building Committee."
+        ],
+        "outcome": "Proposals referred to the building committee for evaluation.",
+        "why_it_matters": null,
+        "start_seconds": 1683,
+        "end_seconds": null
+      },
+      {
+        "title": "Preschool tuition rate increase",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee approved a recommended 3% tuition increase for the district preschool program for the upcoming academic year. The administration stated that the modest increase is necessary to offset rising costs for labor, health insurance, and operations, noting that rates had not been adjusted since FY22.",
+        "key_details": [
+          "Approved a 3% tuition increase for the upcoming school year.",
+          "Preschool rates were previously adjusted by 3% in FY22.",
+          "Revenues support rising staff and operational expenses in the revolving fund."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "Increases tuition costs by 3% for Southborough families with children enrolled in the public preschool program.",
+        "start_seconds": 1742,
+        "end_seconds": null
+      },
+      {
+        "title": "Preschool and extended day financial assistance guidelines",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee reviewed and approved revised financial assistance guidelines for preschool and extended day programs. Assistance is capped at 10% of annual program tuition revenue, awarded first come, first served, offering up to a 90% tuition reduction for families at or below 130% of the federal poverty level and up to 60% for families at or below 185%.",
+        "key_details": [
+          "Assistance total is capped at 10% of annual program tuition revenue.",
+          "Families at or below 130% of federal poverty level qualify for up to 90% tuition reduction.",
+          "Families at or below 185% of federal poverty level qualify for up to 60% tuition reduction.",
+          "Historically, up to four families per year have required financial assistance in the district."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 1846,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee completed routine administrative items including accepting an $85 gift donation to the Southborough Extended Day Program, approving warrant and payroll commitments, approving meeting minutes from five previous sessions, and adjourning.",
+        "key_details": [
+          "Accepted an $85 donation from the American Online Giving Foundation for Southborough Extended Day.",
+          "Approved warrants and payroll commitments as presented.",
+          "Approved open session meeting minutes for February 23, March 3, March 11, March 17, and March 24.",
+          "Adjourned at 7:27 p.m."
+        ],
+        "outcome": "All routine motions approved.",
+        "why_it_matters": null,
+        "start_seconds": 2121,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual Town Meeting warrant preparations",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed school-related articles on the upcoming Annual Town Meeting warrant, including the school operating budget (Article 6), capital requests for security, interactive whiteboards, and Finn flooring, and the Trottier Middle School roof project (Article 15). The Trottier roof requires a two-thirds majority at Town Meeting and approval on the town election ballot, with the MSBA covering 41% of eligible costs.",
+        "key_details": [
+          "Town Meeting is scheduled for Saturday with the school committee meeting at 9:15 a.m.",
+          "School capital article includes security upgrades, smartboards, and Finn School flooring.",
+          "Trottier roof project under Article 15 requires a two-thirds vote at Town Meeting and ballot approval.",
+          "MSBA reimbursement rate for the Trottier roof project is 41%.",
+          "Town must act within a 60-day window to preserve MSBA grant funding if any vote fails."
+        ],
+        "outcome": "Discussion completed in preparation for Town Meeting presentations.",
+        "why_it_matters": "Involves school operating budgets and major capital spending, including roof replacement borrowing that requires resident approval at Town Meeting and on the local ballot.",
+        "start_seconds": 2154,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School roof repair status",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The administration reported that design documents for repairs to the existing Neary School roof are approximately 90% complete, with bids expected to be solicited in late April and due by May 21. If approved on the town ballot on May 12, work is targeted for completion during the summer before teachers return in late August.",
+        "key_details": [
+          "Bid documents are 90% complete with solicitation targeted for April 29.",
+          "Bids are expected to be due no later than May 21, contingent on ballot approval May 12.",
+          "Problem roof areas are currently ballasted with weighted buckets to prevent leaks.",
+          "Target completion date is before teachers return August 27 and students return September 2."
+        ],
+        "outcome": "Information presented.",
+        "why_it_matters": null,
+        "start_seconds": 2500,
+        "end_seconds": null
+      },
+      {
+        "title": "School choice participation vote",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Following the earlier public hearing, the committee took a formal vote to opt out of the state interdistrict school choice program for the upcoming school year.",
+        "key_details": [
+          "Committee voted to withdraw from interdistrict school choice for the upcoming academic year.",
+          "Decision maintains Southborough enrollment exclusively for town residents."
+        ],
+        "outcome": "Voted unanimously to opt out.",
+        "why_it_matters": null,
+        "start_seconds": 2815,
+        "end_seconds": null
+      },
+      {
+        "title": "Kindergarten and district enrollment report",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent reported that kindergarten enrollment reached 117 students following outreach to census households. Class sizes across schools remain within established school committee policy guidelines.",
+        "key_details": [
+          "Kindergarten enrollment reached 117 students.",
+          "Staff conducted phone outreach to all census households not yet registered.",
+          "Class size totals remain within policy guidelines."
+        ],
+        "outcome": "Report accepted.",
+        "why_it_matters": null,
+        "start_seconds": 2838,
+        "end_seconds": null
+      },
+      {
+        "title": "Monthly budget report and line item transfers",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed the General Fund budget report through the third quarter and approved required line item transfers. Deficits were reported in heating projections and special education teaching costs, which were offset by surplus funds in teacher salary lines.",
+        "key_details": [
+          "Total expenditures reached $15,815,452.74 with $9,225,557.76 encumbered through Q3.",
+          "Projected year-end heating budget deficit of $38,751.57.",
+          "Special education instruction deficit increased by $41,607.37 due to education support professional needs for a new student.",
+          "Transfers included $1,140.42 for SPED teaching and $1,266.75 for translation services from teacher salary lines."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "Authorizes budget transfers to keep operational accounts balanced and accommodate unanticipated special education staffing and heating costs.",
+        "start_seconds": 2955,
+        "end_seconds": null
+      },
+      {
+        "title": "Capital plan and revolving accounts review",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee examined updated capital plan sheets and revolving account balances. The facilities rental fund balance dropped to $22,773.77 after funding an $85,000 engineering and architectural assessment for the Neary roof, while food service and extended day revolving accounts maintained healthy reserve balances.",
+        "key_details": [
+          "Food services revolving fund anticipated year-end balance is $175,506.25.",
+          "Facilities rental account balance is $22,773.77, the lowest in years after paying $85,000 for the Neary roof assessment.",
+          "Extended Day anticipated balance is $662,835.26.",
+          "Preschool revolving fund balance is projected at $106,442.67."
+        ],
+        "outcome": "Discussion held; preschool separation accounting update planned for next meeting.",
+        "why_it_matters": null,
+        "start_seconds": 3165,
+        "end_seconds": null
+      },
+      {
+        "title": "Personnel appointments and resignations",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The superintendent noted that new principals Deb Lemieux (Finn School) and Thomas Millett (Neary School) have begun transition activities and hiring involvement. Resignations were reported for a Trottier Middle School administrative office assistant and an Extended Day group leader.",
+        "key_details": [
+          "Deb Lemieux appointed principal of Finn School.",
+          "Thomas Millett appointed principal of Neary School.",
+          "Nancy Langway resigned from Trottier Middle School office to take a position in Fayville.",
+          "Search is underway for the Trottier office vacancy."
+        ],
+        "outcome": "Report received.",
+        "why_it_matters": null,
+        "start_seconds": 3301,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the recommended 3 percent tuition increase for preschool for the upcoming school year.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1840
+      },
+      {
+        "motion": "Approve the financial assistance guidelines for preschool and extended day for the upcoming school year.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2118
+      },
+      {
+        "motion": "Accept the superintendent recommendation to opt out of interdistrict school choice for the upcoming school year.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2834
+      },
+      {
+        "motion": "Accept the monthly General Fund report as of March 31 and approve overexpended budget function code transfers.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3116
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Southborough Annual Town Meeting (school committee meets at 9:15 a.m.)",
+        "when": "Saturday"
+      },
+      {
+        "what": "Annual town election ballot vote on Neary and Trottier roof projects",
+        "when": "May 12"
+      },
+      {
+        "what": "Neary roof bid solicitation date",
+        "when": "April 29"
+      },
+      {
+        "what": "Neary roof bids due",
+        "when": "May 21"
+      },
+      {
+        "what": "Food service contract renewal recommendation and preschool accounting update",
+        "when": "next meeting in May"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:24:42Z",
+  "usage": {
+    "total_tokens": 141532,
+    "total_input_tokens": 133924,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 132942
+      },
+      {
+        "modality": "text",
+        "tokens": 982
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4164,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3444
+  }
+}

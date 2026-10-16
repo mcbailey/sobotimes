@@ -1,0 +1,168 @@
+{
+  "video": {
+    "id": "MBM3fuLLTZA",
+    "title": "Select Board Meeting 3/31/26",
+    "published_at": "2026-04-01T14:20:32Z",
+    "duration_s": 12369
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-03-31",
+    "headline": "The Select Board voted 3-2 to support a 25 million dollar road and sidewalk borrowing article for Annual Town Meeting and appointed three members to the Elementary School Building Committee.",
+    "summary": "At a joint session with the School Committee, the Select Board interviewed seven candidates and appointed Robert Moss, Andrew Pfaff, and Jason Malinowski to the new Elementary School Building Committee. Meeting jointly with the Capital Improvement Planning Committee, the board engaged in a lengthy debate over Article 13, a 25 million dollar, five-year borrowing package for road pavement and sidewalks, ultimately voting 3-2 to support the full authorization. The board also received an update on permitting for the proposed Costco project, made two DPW appointments, and finalized Town Meeting article motion assignments.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board heard a public comment from the town clerk regarding Town Meeting amendment forms, approved meeting minutes, confirmed two DPW personnel appointments, finalized article motion assignments for Annual Town Meeting, and voted to enter executive session.",
+        "key_details": [
+          "The town clerk requested residents intending to propose Town Meeting amendments submit forms in advance.",
+          "Meeting minutes from March 3 and March 10 were approved; March 17 minutes were approved as amended.",
+          "Approved appointment of an Equipment Operator 2 and a Truck Driver/Laborer for the DPW on a 4-1 vote.",
+          "Swapped board member assignments for motions on Article 32 (Tricentennial zoning bylaw).",
+          "Voted to enter executive session regarding union negotiations with MassCOP Local 523 and contracts for the Finance Director and DPW Superintendent."
+        ],
+        "outcome": "Appointments and minutes approved; meeting adjourned to executive session.",
+        "why_it_matters": null,
+        "start_seconds": 305,
+        "end_seconds": null
+      },
+      {
+        "title": "Interviews and appointments to Elementary School Building Committee",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The Select Board and School Committee held a joint meeting to interview seven candidates for five open seats on the newly formed Elementary School Building Committee. Under the committee charge, the Select Board appoints three members and the School Committee appoints two. Candidates discussed educational facility needs, building code complexities, construction management, and public outreach strategies for the Neary School project.",
+        "key_details": [
+          "Seven candidates interviewed: Mark Davis, Tim Litt, Jason Malinowski, Heather Landis McCloud, Bob Moss, Andrew Pfaff, and Craig Williams.",
+          "Candidate Bob Moss highlighted over 50 years of commercial construction experience and value engineering.",
+          "Select Board member Kathy Cook recused herself from the interview and vote regarding Bob Moss.",
+          "The School Committee deferred its two appointments to an upcoming meeting on Thursday, April 2, at 12:30 PM.",
+          "The Select Board voted to appoint Robert Moss, Andrew Pfaff, and Jason Malinowski to the building committee."
+        ],
+        "outcome": "Robert Moss appointed unanimously (with Kathy Cook recused); Andrew Pfaff and Jason Malinowski appointed by vote.",
+        "why_it_matters": "The committee will oversee options and planning for the Neary School building project, which represents one of the town's most significant upcoming capital decisions.",
+        "start_seconds": 374,
+        "end_seconds": null
+      },
+      {
+        "title": "Road and sidewalk pavement management plan borrowing (Article 13)",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Meeting with the Capital Improvement Planning Committee, the board reviewed the DPW Superintendent's five-year pavement management implementation plan covering approximately 33 miles of roads and four sidewalk projects. The board debated whether to seek full Town Meeting borrowing authorization for the entire 25 million dollar plan or scale the request down to 10 to 17 million dollars for the initial two to three years. Concerns were raised regarding borrowing for routine and preventative maintenance over a 20-year bond term in relation to the town's debt policy, but the board ultimately voted 3-2 to recommend the full article.",
+        "key_details": [
+          "Article 13 seeks up to 22,255,000 dollars for roads and 2,745,000 dollars for four sidewalk projects, totaling 25 million dollars.",
+          "Year one road paving priorities include sections of Acre Bridge Road, Northborough Road, Pine Hill Road, and Woodland Road.",
+          "Four proposed sidewalks include Parkerville Road, Richards Road, Woodland Road, and Oak Hill Road.",
+          "For a median home valued at 898,100 dollars, the annual household tax impact is estimated to reach 508.73 dollars at peak debt service in FY32.",
+          "A board member argued that funding 1.55 million dollars of routine and preventative maintenance through 20-year borrowing conflicts with town debt policy."
+        ],
+        "outcome": "The Select Board voted 3-2 to support Article 13 as printed in the warrant.",
+        "why_it_matters": "If approved by Town Meeting and a subsequent ballot vote, the 25 million dollar borrowing would be the largest in Southborough history and directly impact residential property taxes.",
+        "start_seconds": 6555,
+        "end_seconds": null
+      },
+      {
+        "title": "Costco development and MEPA review update",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "A board member reported on an interagency meeting held with MassDOT Region 3, developer representatives, and traffic consultants regarding the proposed Costco development. The primary purpose was determining whether the project requires full Massachusetts Environmental Policy Act (MEPA) review, which could add an extra year to the construction schedule. If MEPA review is not required, representatives indicated the store could potentially open in the fourth quarter of 2027.",
+        "key_details": [
+          "Meeting included MassDOT District 3 officials, Atlantic representatives, and Costco traffic consultants.",
+          "Costco representatives stated the building can be constructed in 180 days, with inventory moved in after 90 days.",
+          "Project legal counsel and town officials anticipate a formal determination shortly on whether MEPA review applies.",
+          "Without MEPA review delays, projected opening would be Q4 2027."
+        ],
+        "outcome": "Information presented; town is awaiting formal response from state transportation officials.",
+        "why_it_matters": null,
+        "start_seconds": 11862,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Robert Moss to the Elementary School Building Committee",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 5914
+      },
+      {
+        "motion": "Appoint Andrew Pfaff and Jason Malinowski to the Elementary School Building Committee",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 5934
+      },
+      {
+        "motion": "Support Article 13 (Roads and Sidewalks borrowing) as printed in the warrant for 25 million dollars",
+        "result": "passed",
+        "tally": "3-2",
+        "start_seconds": 11664
+      },
+      {
+        "motion": "Approve the appointments of DPW Equipment Operator 2 and Truck Driver/Laborer",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 12113
+      },
+      {
+        "motion": "Enter into executive session to discuss MassCOP Local 523 contract negotiations and contract negotiations with the Finance Director and DPW Superintendent, not to return to open session",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12366
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "Town Clerk Jim Hegarty asked residents who plan to offer amendments at the upcoming Annual Town Meeting to fill out and submit the amendment form in advance so motions can be typed and formatted into slides ahead of time.",
+        "start_seconds": 325
+      },
+      {
+        "summary": "A resident of Woodland Road spoke in favor of funding the full road paving program, arguing that delaying portions will only increase municipal overhead and future construction costs.",
+        "start_seconds": 10753
+      },
+      {
+        "summary": "A resident of Hillside Avenue advocated for the road program, stating the town has reached a tipping point where residents and visitors judge Southborough based on the poor condition of its roads.",
+        "start_seconds": 10777
+      },
+      {
+        "summary": "A resident of Oak Hill Road supported the full 25 million dollar borrowing, noting that kicking the can down the road creates larger problems and road projects should include drainage and sidewalks.",
+        "start_seconds": 10811
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "School Committee meeting to vote on its two appointments to the Elementary School Building Committee",
+        "when": "April 2, 2026 at 12:30 PM"
+      },
+      {
+        "what": "Select Board meeting",
+        "when": "April 7, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:33:15Z",
+  "usage": {
+    "total_tokens": 477235,
+    "total_input_tokens": 473481,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 984
+      },
+      {
+        "modality": "video",
+        "tokens": 472497
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2230,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1524
+  }
+}

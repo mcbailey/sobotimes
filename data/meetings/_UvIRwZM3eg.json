@@ -1,0 +1,155 @@
+{
+  "video": {
+    "id": "_UvIRwZM3eg",
+    "title": "Personnel Board 4/17/26",
+    "published_at": "2026-04-18T01:19:59Z",
+    "duration_s": 2697
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-04-17",
+    "headline": "The Personnel Board approved a scope for a comprehensive salary survey and authorized $5,000 for employee professional development as the chair announced his resignation.",
+    "summary": "The Southborough Personnel Board approved the scope of services to solicit proposals for an upcoming townwide salary classification and compensation study funded by Free Cash. The board authorized $5,000 for employee professional development, covering board relations training with town counsel and webinars on topics including artificial intelligence. Board members also established annual performance review deadlines and learned that Board Chair Jason will step down next week.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board opened the floor for public comment and approved the meeting minutes from March 10, 2026.",
+        "key_details": [
+          "No public comments were offered in person or online.",
+          "Minutes from March 10, 2026 were approved unanimously."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 149,
+        "end_seconds": null
+      },
+      {
+        "title": "Employee transition report",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff briefed the board on recent municipal staff departures and new hires across town departments.",
+        "key_details": [
+          "Amber Smith started as the new Deputy Town Clerk.",
+          "Jill Littlebridge started as the new Program Manager at the Senior Center.",
+          "Rachel Murphy joined as Executive Assistant to the Select Board from Marlborough City Hall.",
+          "Final interviews are underway for the Business Administrator position in Youth and Family Services.",
+          "Elyse Curry resigned from the part-time Administrative Assistant role in the Town Clerk office."
+        ],
+        "outcome": "Information received.",
+        "why_it_matters": null,
+        "start_seconds": 181,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual performance review process modifications",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed setting clear schedules and streamlining evaluation forms for annual department performance reviews. The board affirmed that reviews will cover the evaluation period of June 1 through May 31, with submissions due the first Wednesday in June.",
+        "key_details": [
+          "The standard review cycle was established as June 1 through May 31.",
+          "All reviews will be due to the Personnel Board on the first Wednesday in June, giving departments roughly 45 days notice.",
+          "Members discussed automating review forms to auto-populate employee step and grade information so department heads only need to recommend ratings rather than compute salary amounts.",
+          "Board members emphasized that timely performance reviews are required to ensure employees receive timely July 1 step increases."
+        ],
+        "outcome": "Dates and process revisions agreed upon by consensus.",
+        "why_it_matters": null,
+        "start_seconds": 289,
+        "end_seconds": null
+      },
+      {
+        "title": "Salary survey classification and compensation scope of services",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board finalized the scope of services to solicit quotes for a townwide classification and compensation study funded by Town Meeting Free Cash. The study will evaluate Salary Administration Plan Schedule A positions and create updated job descriptions and market rate benchmarks.",
+        "key_details": [
+          "Because the study is estimated under $50,000, procurement will use written quotes rather than a formal Central Register RFP.",
+          "The board discussed incorporating performance evaluation form reviews and establishing clear mediation steps if employees dispute findings.",
+          "The board agreed not to rush results for Fall Town Meeting and instead target recommendations for the 2027 Annual Town Meeting.",
+          "Police lieutenants have negotiated contracts taking effect July 1, and dispatchers are moving toward regional dispatch around October 2027."
+        ],
+        "outcome": "Approved and released the scope of services as amended by a 4-0 vote.",
+        "why_it_matters": "The salary survey sets benchmark pay and grade classifications for non-union town employees and determines future town budget requests for wages.",
+        "start_seconds": 755,
+        "end_seconds": null
+      },
+      {
+        "title": "Staff professional development funding requests",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff requested $5,000 from the board's professional development funds for two upcoming employee training initiatives. The board discussed ensuring high attendance among eligible staff before voting approval.",
+        "key_details": [
+          "A $3,000 allocation was approved for in-person training with town counsel on board relations, open meeting law, and public records for staff serving town boards.",
+          "A $2,000 allocation was approved for virtual webinars and lunch-and-learn programs, including sessions on artificial intelligence in municipal government.",
+          "Staff noted town offices may be closed for short morning or afternoon periods so eligible personnel can attend training."
+        ],
+        "outcome": "Approved funding of $5,000 by a 4-0 vote.",
+        "why_it_matters": null,
+        "start_seconds": 1581,
+        "end_seconds": null
+      },
+      {
+        "title": "Chair resignation and board reorganization",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Personnel Board Chair Jason announced his resignation from the board effective the following week. The board opted to postpone board officer reorganization until its next meeting.",
+        "key_details": [
+          "The chair will submit his resignation next week, citing that his tenure was concluding.",
+          "The board agreed to postpone electing a new chair until the next meeting, with Vice Chair John presiding in the interim.",
+          "Member John requested a discussion on maxed-out salary steps for Council on Aging staff be placed on the next agenda."
+        ],
+        "outcome": "Reorganization deferred to the next scheduled meeting.",
+        "why_it_matters": null,
+        "start_seconds": 2423,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve and release the final scope of services study for the salary survey subject to edits discussed",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1573
+      },
+      {
+        "motion": "Accept the proposal for a total of $5,000 to be spent between the two professional development trainings outlined in the packet",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 2350
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Personnel Board meeting to reorganize officers and review Council on Aging salary step limits",
+        "when": "May 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T16:55:51Z",
+  "usage": {
+    "total_tokens": 106767,
+    "total_input_tokens": 103960,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 980
+      },
+      {
+        "modality": "video",
+        "tokens": 102980
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1651,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1156
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "video": {
+    "id": "bsfT_oIHCRY",
+    "title": "Master Plan Implementation Committee (MPIC) 4/15/26",
+    "published_at": "2026-04-16T12:22:59Z",
+    "duration_s": 1202
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Master Plan Implementation Committee",
+    "meeting_date": "2026-04-15",
+    "headline": "The Master Plan Implementation Committee discussed pursuing a state One Stop grant to hire a consultant for the Master Plan 2030 update.",
+    "summary": "The Master Plan Implementation Committee met briefly to discuss seeking external grant funding to hire a hybrid consultant for the upcoming Master Plan 2030 process. Members explored applying for Massachusetts One Stop grant funding of roughly $200,000, which would require an estimated 25 percent town match that could potentially be satisfied partly through in-kind staff hours. With the grant deadline falling on April 30, members agreed to coordinate with town staff and the Planning Board chair to determine feasibility before the Planning Board meets on April 27.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved meeting minutes as presented.",
+        "key_details": [
+          "Minutes approved unanimously by roll call vote."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 51,
+        "end_seconds": null
+      },
+      {
+        "title": "State One Stop grant application for Master Plan consultant",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Members discussed a concept to apply for state One Stop grant funding to hire an external consultant to assist with Southborough's Master Plan 2030 update under a hybrid management model. Committee member Sam Stivers suggested targeting around $200,000 in grant funding, noting that the program typically requires a local match of about 25 percent ($50,000), which might be covered in whole or in part by in-kind town staff support. Because the grant application is due April 30, members debated whether there is sufficient time to prepare a submission and agreed to consult with staff grant writer Claire Reynolds and the Planning Board chair before taking formal action.",
+        "key_details": [
+          "Targeted grant request would be approximately $200,000 with an estimated 25 percent ($50,000) local contribution.",
+          "Local match could potentially be satisfied in-kind through town staff hours, subject to Select Board and Planning Board agreement.",
+          "State One Stop grant application deadline is April 30, 2026, with grant announcements in October and funding available in 2027.",
+          "A committee member will consult grant writer Claire Reynolds, and the chair will consult Planning Board Chair Meme Luttrell.",
+          "The Planning Board is scheduled to meet on April 27, 2026, to review the proposal if an application is drafted."
+        ],
+        "outcome": "Members agreed to investigate application requirements with town staff and confer with the Planning Board.",
+        "why_it_matters": null,
+        "start_seconds": 88,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Planning Board meeting to consider potential Master Plan grant proposal",
+        "when": "April 27, 2026"
+      },
+      {
+        "what": "State One Stop grant application filing deadline",
+        "when": "April 30, 2026"
+      },
+      {
+        "what": "Next Master Plan Implementation Committee meeting",
+        "when": "To be determined via email"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:00:47Z",
+  "usage": {
+    "total_tokens": 48776,
+    "total_input_tokens": 46868,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 45882
+      },
+      {
+        "modality": "text",
+        "tokens": 986
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 844,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1064
+  }
+}

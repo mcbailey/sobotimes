@@ -1,0 +1,112 @@
+{
+  "video": {
+    "id": "AOOUdTedaXQ",
+    "title": "Planning Board 3/30/26",
+    "published_at": "2026-03-31T21:41:39Z",
+    "duration_s": 2142
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-03-30",
+    "headline": "The Planning Board prepared an updated comment letter on the 250 Turnpike Road 40B proposal and continued its data center zoning hearing.",
+    "summary": "The Planning Board opened a hearing on proposed zoning amendments establishing special permit regulations for data centers, continuing the hearing to its April 11 pre-Town Meeting session. Members reviewed site plan discrepancies and outstanding concerns regarding the 250 Turnpike Road comprehensive permit application to send to the Zoning Board of Appeals. The town planner reported on regional clean energy permitting updates and upcoming Arbor Day proclamations ahead of Annual Town Meeting.",
+    "topics": [
+      {
+        "title": "Public hearing: Zoning amendment for data centers",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board opened a public hearing on an amendment to Town Code Section 174-9 regarding special permits to regulate data centers in the Industrial Park district for Annual Town Meeting Article 17. The chair clarified that the Planning Board is proposed as the special permit granting authority to align with site plan review authority and streamline permitting. With no public testimony offered, the board voted to continue the hearing to its pre-Town Meeting meeting.",
+        "key_details": [
+          "Proposed amendment adds Section K to Town Code Section 174-9.",
+          "Governs data centers in the Industrial Park (IP) district.",
+          "Included in the Annual Town Meeting warrant as Article 17.",
+          "Planning Board would serve as the special permit granting authority."
+        ],
+        "outcome": "Continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": "The proposed zoning article determines the local permitting requirements and board oversight for data center developments in Southborough.",
+        "start_seconds": 24,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road 40B comment letter to ZBA",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed previous correspondence submitted to the Zoning Board of Appeals regarding the 250 Turnpike Road 40B application, noting that prior concerns have not been addressed. Members discussed property boundary revisions, potential site plan noncompliance, setback compliance, and a misrepresentation of existing mature trees labeled as grass near the driveway sightlines. The board agreed to draft an updated letter asking the ZBA to condition any permit on requiring a site plan modification approval from the Planning Board.",
+        "key_details": [
+          "Address: 250 Turnpike Road.",
+          "Board members noted proposed property line modifications would place the project out of compliance with its approved site plan.",
+          "Discrepancies identified on plan sheet D6, which shows lawn where trees over 6-inch caliper currently stand.",
+          "Signage waiver request under 40B flagged because the proposed sign is on a different lot outside the 40B locus and exceeds 75 square feet.",
+          "Chair will draft the updated comment letter for staff and board review before submission to the ZBA."
+        ],
+        "outcome": "Chair will update and submit the comment letter to the ZBA.",
+        "why_it_matters": "The board is seeking enforceable conditions to ensure town site plan standards and tree preservation rules are maintained on a major Route 9 housing development.",
+        "start_seconds": 431,
+        "end_seconds": null
+      },
+      {
+        "title": "Town planner report and administrative updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town planner reported on an Arbor Day proclamation submitted to the Select Board following Southborough's Tree City USA recognition. She also briefed the board on clean energy siting and consolidated permitting guidance from the Department of Energy Resources regarding battery energy storage systems.",
+        "key_details": [
+          "Select Board is expected to consider the Arbor Day proclamation at an upcoming meeting.",
+          "DOER recommends towns wait until October 1 to accept consolidated clean energy applications, though statutory authority allows starting July 1.",
+          "Annual Town Meeting is scheduled for April 11 at 10:00 AM, with town elections on May 12."
+        ],
+        "outcome": "Informational only.",
+        "why_it_matters": null,
+        "start_seconds": 1926,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To continue the public hearing to amend Special Permit 174-9 to add Section K Data Centers to April 11 at 9:00 AM.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 421
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Planning Board pre-Town Meeting session and continued data center zoning hearing",
+        "when": "April 11, 2026, at 9:00 AM"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026, at 10:00 AM"
+      },
+      {
+        "what": "Annual Town Election",
+        "when": "May 12, 2026"
+      }
+    ],
+    "caveats": "The recording ends as the board prepares to enter executive session."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:33:42Z",
+  "usage": {
+    "total_tokens": 84858,
+    "total_input_tokens": 82760,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 81780
+      },
+      {
+        "modality": "text",
+        "tokens": 980
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1268,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 830
+  }
+}

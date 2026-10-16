@@ -1,83 +1,92 @@
 {
-  "headline": "The Golf Committee prepared for Special Town Meeting irrigation funding, while town committees advanced 2027 tricentennial plans and approved a septic variance.",
-  "synopsis": "Ahead of Special Town Meeting, the Golf Committee finalized its advocacy strategy for an article extending and adding Community Preservation Act funds for golf course irrigation, while also voting to fund Audubon certification costs. The Tricentennial Committee executed a contract for a 200-drone light show to kick off Southborough's 300th anniversary in January 2027 and reviewed plans for an expanded summer music festival, parades, and fundraisers. The Board of Health approved a septic variance to allow a commercial-to-residential conversion at 66 Breakneck Hill Road and reviewed ongoing seasonal flu clinics.",
+  "headline": "Elementary school building planners favored a $38M Neary School renovation, while committees advanced golf irrigation funding and 2027 tricentennial plans.",
+  "synopsis": "Architects advised the Elementary School Building Committee that a $15 million base repair of Neary School would net only $5.8 million in direct construction after mandatory code upgrades, prompting the committee to advance a $38 million addition-renovation plan. The Golf Committee finalized its strategy for Special Town Meeting to pursue extended and additional Community Preservation Act funds for course irrigation, while voting to fund an Audubon environmental consultant. Southborough tricentennial organizers executed a contract for a 200-drone aerial light show to launch the town 300th anniversary on New Year's Day 2027. Additionally, the Board of Health granted a septic variance for a residential conversion on Breakneck Hill Road and noted that seasonal flu vaccine supplies are nearly depleted.",
   "highlights": [
     {
-      "title": "Special Town Meeting golf irrigation funding strategy",
-      "why": "The Golf Committee finalized its presentation plans for a warrant article requesting new and extended CPA funds alongside revolving funds for golf course irrigation, agreeing not to pursue floor amendments.",
+      "title": "Neary School renovation options and cost analysis",
+      "why": "Architects demonstrated that a $15 million upgrade nets only $5.8 million in direct construction due to code-mandated accessibility and sprinkler work, leading planners to favor a $38 million addition and renovation plan.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "QdzU1T7dKiU",
+      "start_seconds": 165
+    },
+    {
+      "title": "Golf course irrigation funding warrant article",
+      "why": "The committee organized its advocacy for Special Town Meeting to extend $550,000 in expiring Community Preservation Act funds and seek roughly $350,000 in new CPA funding plus $100,000 from revolving funds.",
       "body": "Golf Committee",
       "importance": "high",
       "video_id": "XB-8MuC8GBo",
       "start_seconds": 574
     },
     {
-      "title": "Contract signed for 2027 tricentennial drone light show",
-      "why": "The committee executed a contract with Firefly for a 200-drone aerial light show on January 1, 2027, which will feature 20 formations including two designs from local middle school students.",
+      "title": "Tricentennial drone show contract and kickoff plans",
+      "why": "The town executed a contract with Firefly for a 200-drone light show on January 1, 2027, featuring custom formations including artwork designed by local middle school students.",
       "body": "Tricentennial Committee",
       "importance": "high",
       "video_id": "VZd0rZYyRHI",
       "start_seconds": 5038
     },
     {
-      "title": "Septic variance approved for 66 Breakneck Hill Road",
-      "why": "The Board of Health voted unanimously to approve an 85-foot wetland setback variance with a nitrogen-reducing treatment tank to support converting a commercial site into a four-bedroom home, contingent on Conservation Commission review.",
+      "title": "Septic variance for 66 Breakneck Hill Road",
+      "why": "The Board of Health unanimously approved an 85-foot wetland setback variance to allow converting a commercial building into a four-bedroom single-family home using advanced nitrogen-reducing treatment.",
       "body": "Board of Health",
       "importance": "medium",
       "video_id": "BTBCj00PeQw",
-      "start_seconds": 142
+      "start_seconds": 146
     },
     {
-      "title": "Revolving funds approved for golf course Audubon certification",
-      "why": "The committee voted to pay $500 in membership dues and authorize up to $4,500 from its revolving fund to cover a consultant bid to complete environmental certification.",
+      "title": "Audubon certification dues and consultant funding",
+      "why": "The committee voted to pay $500 in membership dues and authorized up to $4,500 from its revolving account to hire an environmental consultant to complete the golf course certification process.",
       "body": "Golf Committee",
       "importance": "medium",
       "video_id": "XB-8MuC8GBo",
       "start_seconds": 15
     },
     {
-      "title": "Expansion of Summer Nights into 2027 music festival",
-      "why": "Organizers advanced plans to expand the annual Summer Nights event into a full-day, multi-stage music festival on August 21, 2027, at Neary School grounds.",
-      "body": "Tricentennial Committee",
+      "title": "Town flu vaccine supplies nearly depleted",
+      "why": "Health officials reported that town-run influenza vaccination clinics are concluding with remaining supplies limited to two schools, two daycares, and emergency personnel as seasonal flu cases emerge.",
+      "body": "Board of Health",
       "importance": "medium",
-      "video_id": "VZd0rZYyRHI",
-      "start_seconds": 4258
+      "video_id": "BTBCj00PeQw",
+      "start_seconds": 78
     }
   ],
   "looking_ahead": [
     {
-      "what": "Special Town Meeting",
-      "when": "Saturday, October 17 at 10:00 AM",
-      "body": "Town Meeting"
+      "what": "Special Town Meeting, including vote on golf course irrigation funding",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": "Golf Committee"
     },
     {
-      "what": "Special Board of Health meeting to vote on the department budget",
+      "what": "Special Board of Health meeting to review and approve the operating budget",
       "when": "October 20, 2026 at 10:00 AM",
       "body": "Board of Health"
     },
     {
-      "what": "Next regular Golf Committee meeting",
-      "when": "Tuesday, November 10",
-      "body": "Golf Committee"
+      "what": "Special meeting to formally vote on advancing schematic design for Neary School Option 3",
+      "when": "October 21, 2026",
+      "body": "Elementary School Building Committee"
     },
     {
-      "what": "Regular Board of Health meeting",
-      "when": "November 17, 2026 at 11:00 AM",
-      "body": "Board of Health"
+      "what": "Elementary School Building Committee meeting to review refined schematic designs and renderings",
+      "when": "November 12, 2026",
+      "body": "Elementary School Building Committee"
     },
     {
-      "what": "Deadline for Trottier student artwork submissions for drone show designs",
-      "when": "November 17",
-      "body": "Tricentennial Committee"
+      "what": "Joint Neary School project presentation with Select Board, Advisory Committee, and Capital Planning Committee",
+      "when": "November 17, 2026",
+      "body": "Elementary School Building Committee"
     }
   ],
   "week": "2026-10-12",
-  "fingerprint": "920d170e1b8d489f",
+  "fingerprint": "cbd080df621845fb",
   "video_ids": [
     "BTBCj00PeQw",
+    "QdzU1T7dKiU",
     "VZd0rZYyRHI",
     "XB-8MuC8GBo",
     "XWT8M6ozUrU"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T11:14:42Z"
+  "generated_at": "2026-10-16T18:17:33Z"
 }

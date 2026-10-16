@@ -1,0 +1,373 @@
+{
+  "week": "2026-03-16",
+  "fingerprint": "4ddaf26ce1651fd7",
+  "topics": {
+    "12My_XciHTw#0": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "12My_XciHTw#1": {
+      "issue": "facilities-van-replacement",
+      "category": "Buildings & facilities"
+    },
+    "12My_XciHTw#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "12My_XciHTw#3": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "12My_XciHTw#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "5t7mI7e3Mlk#0": {
+      "issue": "12-darlene-drive-variance",
+      "category": "Zoning & development"
+    },
+    "5t7mI7e3Mlk#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "5t7mI7e3Mlk#2": {
+      "issue": "34-turnpike-road-special-permit",
+      "category": "Zoning & development"
+    },
+    "5t7mI7e3Mlk#3": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "5t7mI7e3Mlk#4": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "92IH_XzKPio#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "92IH_XzKPio#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "92IH_XzKPio#2": {
+      "issue": "route-9-495-gateway-study",
+      "category": "Roads, water & infrastructure"
+    },
+    "92IH_XzKPio#3": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "OgThwJ-ZbEA#0": {
+      "issue": "kallander-field-repairs",
+      "category": "Parks, trails & recreation"
+    },
+    "OgThwJ-ZbEA#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "OgThwJ-ZbEA#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "OgThwJ-ZbEA#3": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "OgThwJ-ZbEA#4": {
+      "issue": "911-field-bond-and-fees",
+      "category": "Parks, trails & recreation"
+    },
+    "OgThwJ-ZbEA#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "OgThwJ-ZbEA#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "_FIcnoGcikQ#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "_FIcnoGcikQ#1": {
+      "issue": "atwood-property-remediation",
+      "category": "Environment & conservation"
+    },
+    "_FIcnoGcikQ#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "_FIcnoGcikQ#3": {
+      "issue": "fy27-water-enterprise-budget",
+      "category": "Roads, water & infrastructure"
+    },
+    "_FIcnoGcikQ#4": {
+      "issue": "presidential-fisher-waterline-looping",
+      "category": "Roads, water & infrastructure"
+    },
+    "_FIcnoGcikQ#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "_FIcnoGcikQ#6": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
+    },
+    "_FIcnoGcikQ#7": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    },
+    "eGWVk9sEbBw#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "eGWVk9sEbBw#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "eGWVk9sEbBw#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "eGWVk9sEbBw#3": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    },
+    "eGWVk9sEbBw#4": {
+      "issue": "opeb-funding-strategy",
+      "category": "Budget & taxes"
+    },
+    "eGWVk9sEbBw#5": {
+      "issue": "atwood-property-remediation",
+      "category": "Environment & conservation"
+    },
+    "eGWVk9sEbBw#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "eGWVk9sEbBw#7": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "eGWVk9sEbBw#8": {
+      "issue": "cemetery-expansion",
+      "category": "Parks, trails & recreation"
+    },
+    "jsPdqzDxTWg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "jsPdqzDxTWg#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "jsPdqzDxTWg#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "jsPdqzDxTWg#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    }
+  },
+  "votes": {
+    "12My_XciHTw#v0": {
+      "issue": "facilities-van-replacement"
+    },
+    "12My_XciHTw#v1": {
+      "issue": "classroom-interactive-touch-displays"
+    },
+    "12My_XciHTw#v2": {
+      "issue": "fy27-operating-budget"
+    },
+    "12My_XciHTw#v3": {
+      "issue": null
+    },
+    "12My_XciHTw#v4": {
+      "issue": null
+    },
+    "12My_XciHTw#v5": {
+      "issue": "appointed-town-clerk"
+    },
+    "12My_XciHTw#v6": {
+      "issue": "tax-payment-agreements-bylaw"
+    },
+    "5t7mI7e3Mlk#v0": {
+      "issue": "12-darlene-drive-variance"
+    },
+    "5t7mI7e3Mlk#v1": {
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "5t7mI7e3Mlk#v2": {
+      "issue": "250-turnpike-road"
+    },
+    "OgThwJ-ZbEA#v0": {
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "OgThwJ-ZbEA#v1": {
+      "issue": "911-field-bond-and-fees"
+    },
+    "OgThwJ-ZbEA#v2": {
+      "issue": null
+    },
+    "_FIcnoGcikQ#v0": {
+      "issue": null
+    },
+    "_FIcnoGcikQ#v1": {
+      "issue": "fy27-water-enterprise-budget"
+    },
+    "_FIcnoGcikQ#v2": {
+      "issue": null
+    },
+    "_FIcnoGcikQ#v3": {
+      "issue": "trottier-school-roof-replacement"
+    },
+    "eGWVk9sEbBw#v0": {
+      "issue": null
+    },
+    "eGWVk9sEbBw#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "eGWVk9sEbBw#v2": {
+      "issue": "independent-finance-committee-bylaw"
+    },
+    "eGWVk9sEbBw#v3": {
+      "issue": "fy27-operating-budget"
+    },
+    "eGWVk9sEbBw#v4": {
+      "issue": null
+    },
+    "eGWVk9sEbBw#v5": {
+      "issue": "trottier-school-roof-replacement"
+    },
+    "eGWVk9sEbBw#v6": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "eGWVk9sEbBw#v7": {
+      "issue": "culvert-infrastructure-replacements"
+    },
+    "eGWVk9sEbBw#v8": {
+      "issue": null
+    },
+    "eGWVk9sEbBw#v9": {
+      "issue": "cemetery-expansion"
+    }
+  },
+  "upcoming": {
+    "12My_XciHTw#u0": {
+      "date": "2026-03-23",
+      "issue": null
+    },
+    "12My_XciHTw#u1": {
+      "date": "2026-03-25",
+      "issue": null
+    },
+    "12My_XciHTw#u2": {
+      "date": "2026-03-30",
+      "issue": null
+    },
+    "12My_XciHTw#u3": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "5t7mI7e3Mlk#u0": {
+      "date": "2026-03-23",
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "5t7mI7e3Mlk#u1": {
+      "date": "2026-04-09",
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "5t7mI7e3Mlk#u2": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "5t7mI7e3Mlk#u3": {
+      "date": "2026-04-15",
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "5t7mI7e3Mlk#u4": {
+      "date": "2026-04-15",
+      "issue": "250-turnpike-road"
+    },
+    "5t7mI7e3Mlk#u5": {
+      "date": "2026-04-29",
+      "issue": "250-turnpike-road"
+    },
+    "5t7mI7e3Mlk#u6": {
+      "date": "2026-05-06",
+      "issue": null
+    },
+    "5t7mI7e3Mlk#u7": {
+      "date": "2026-06-10",
+      "issue": null
+    },
+    "92IH_XzKPio#u0": {
+      "date": "2026-04-21",
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "92IH_XzKPio#u1": {
+      "date": "2026-04-23",
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "92IH_XzKPio#u2": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "OgThwJ-ZbEA#u0": {
+      "date": "2026-04-14",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "OgThwJ-ZbEA#u1": {
+      "date": "2026-04-15",
+      "issue": null
+    },
+    "OgThwJ-ZbEA#u2": {
+      "date": "2026-05-20",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "_FIcnoGcikQ#u0": {
+      "date": null,
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "_FIcnoGcikQ#u1": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "_FIcnoGcikQ#u2": {
+      "date": null,
+      "issue": "trottier-school-roof-replacement"
+    },
+    "eGWVk9sEbBw#u0": {
+      "date": "2026-03-31",
+      "issue": "neary-school-building-project"
+    },
+    "eGWVk9sEbBw#u1": {
+      "date": "2026-04-07",
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "eGWVk9sEbBw#u2": {
+      "date": "2026-04-07",
+      "issue": null
+    },
+    "eGWVk9sEbBw#u3": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "eGWVk9sEbBw#u4": {
+      "date": "2026-05-12",
+      "issue": null
+    },
+    "jsPdqzDxTWg#u0": {
+      "date": null,
+      "issue": null
+    },
+    "jsPdqzDxTWg#u1": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:27:27Z"
+}

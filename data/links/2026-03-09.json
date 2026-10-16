@@ -1,0 +1,494 @@
+{
+  "week": "2026-03-09",
+  "fingerprint": "4aeb97acafef4347",
+  "topics": {
+    "0P1sB_TDhqU#0": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "0P1sB_TDhqU#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "0P1sB_TDhqU#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "0P1sB_TDhqU#3": {
+      "issue": "tricentennial-street-banners",
+      "category": "Town Meeting & elections"
+    },
+    "0P1sB_TDhqU#4": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "3Wtzigng52g#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "3Wtzigng52g#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "3Wtzigng52g#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "3Wtzigng52g#3": {
+      "issue": "masc-calendar-study-resolution",
+      "category": "Schools"
+    },
+    "3Wtzigng52g#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "3Wtzigng52g#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "3Wtzigng52g#6": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "4qfPD1Qpccs#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "4qfPD1Qpccs#1": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "4qfPD1Qpccs#2": {
+      "issue": "salary-administration-plan-amendments",
+      "category": "Town Meeting & elections"
+    },
+    "4qfPD1Qpccs#3": {
+      "issue": "facilities-van-replacement",
+      "category": "Buildings & facilities"
+    },
+    "4qfPD1Qpccs#4": {
+      "issue": "appointed-town-clerk",
+      "category": "Governance & committees"
+    },
+    "4qfPD1Qpccs#5": {
+      "issue": "community-preservation-appropriations",
+      "category": "Town Meeting & elections"
+    },
+    "4qfPD1Qpccs#6": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "4qfPD1Qpccs#7": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "4qfPD1Qpccs#8": {
+      "issue": "fy27-water-enterprise-budget",
+      "category": "Roads, water & infrastructure"
+    },
+    "4qfPD1Qpccs#9": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
+    },
+    "4qfPD1Qpccs#10": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "4qfPD1Qpccs#11": {
+      "issue": "costco-special-act-liquor-license",
+      "category": "Town Meeting & elections"
+    },
+    "4qfPD1Qpccs#12": {
+      "issue": "tax-payment-agreements-bylaw",
+      "category": "Budget & taxes"
+    },
+    "4qfPD1Qpccs#13": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "68vtg6_LvIU#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "68vtg6_LvIU#1": {
+      "issue": "facilities-van-replacement",
+      "category": "Buildings & facilities"
+    },
+    "68vtg6_LvIU#2": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Budget & taxes"
+    },
+    "DdzxtcAtpew#0": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#2": {
+      "issue": "classroom-interactive-touch-displays",
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#5": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#6": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#7": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    },
+    "DdzxtcAtpew#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "MH85yg5K1Mk#0": {
+      "issue": "fy27-operating-budget",
+      "category": "Staffing & operations"
+    },
+    "MH85yg5K1Mk#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "MH85yg5K1Mk#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "MH85yg5K1Mk#3": {
+      "issue": "salary-administration-plan-amendments",
+      "category": "Town Meeting & elections"
+    },
+    "MH85yg5K1Mk#4": {
+      "issue": "salary-administration-plan-amendments",
+      "category": "Town Meeting & elections"
+    },
+    "NKExd-6grWk#0": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "NKExd-6grWk#1": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "NKExd-6grWk#2": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "NKExd-6grWk#3": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Health & human services"
+    },
+    "NKExd-6grWk#4": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "mgWw2EVBdVI#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mgWw2EVBdVI#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mgWw2EVBdVI#2": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "mgWw2EVBdVI#3": {
+      "issue": "youth-services-flagg-school-relocation",
+      "category": "Buildings & facilities"
+    },
+    "mgWw2EVBdVI#4": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "mgWw2EVBdVI#5": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "oG4b8H-IoeM#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "oG4b8H-IoeM#1": {
+      "issue": "lynbrook-road-water-main-rehabilitation",
+      "category": "Roads, water & infrastructure"
+    },
+    "oG4b8H-IoeM#2": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "oG4b8H-IoeM#3": {
+      "issue": "26-meadow-lane-coc",
+      "category": "Environment & conservation"
+    },
+    "oG4b8H-IoeM#4": {
+      "issue": "conservation-land-use-regulations",
+      "category": "Environment & conservation"
+    },
+    "oG4b8H-IoeM#5": {
+      "issue": null,
+      "category": "Environment & conservation"
+    }
+  },
+  "votes": {
+    "3Wtzigng52g#v0": {
+      "issue": null
+    },
+    "3Wtzigng52g#v1": {
+      "issue": null
+    },
+    "3Wtzigng52g#v2": {
+      "issue": null
+    },
+    "3Wtzigng52g#v3": {
+      "issue": null
+    },
+    "3Wtzigng52g#v4": {
+      "issue": null
+    },
+    "3Wtzigng52g#v5": {
+      "issue": null
+    },
+    "3Wtzigng52g#v6": {
+      "issue": null
+    },
+    "3Wtzigng52g#v7": {
+      "issue": null
+    },
+    "3Wtzigng52g#v8": {
+      "issue": null
+    },
+    "3Wtzigng52g#v9": {
+      "issue": null
+    },
+    "3Wtzigng52g#v10": {
+      "issue": null
+    },
+    "3Wtzigng52g#v11": {
+      "issue": null
+    },
+    "3Wtzigng52g#v12": {
+      "issue": null
+    },
+    "3Wtzigng52g#v13": {
+      "issue": null
+    },
+    "3Wtzigng52g#v14": {
+      "issue": null
+    },
+    "3Wtzigng52g#v15": {
+      "issue": null
+    },
+    "3Wtzigng52g#v16": {
+      "issue": null
+    },
+    "4qfPD1Qpccs#v0": {
+      "issue": null
+    },
+    "4qfPD1Qpccs#v1": {
+      "issue": null
+    },
+    "4qfPD1Qpccs#v2": {
+      "issue": "appointed-town-clerk"
+    },
+    "4qfPD1Qpccs#v3": {
+      "issue": "community-preservation-appropriations"
+    },
+    "4qfPD1Qpccs#v4": {
+      "issue": "fy27-operating-budget"
+    },
+    "4qfPD1Qpccs#v5": {
+      "issue": null
+    },
+    "4qfPD1Qpccs#v6": {
+      "issue": "fy27-water-enterprise-budget"
+    },
+    "4qfPD1Qpccs#v7": {
+      "issue": "fy27-water-enterprise-budget"
+    },
+    "4qfPD1Qpccs#v8": {
+      "issue": "presidential-fisher-waterline-looping"
+    },
+    "4qfPD1Qpccs#v9": {
+      "issue": "classification-and-compensation-study"
+    },
+    "4qfPD1Qpccs#v10": {
+      "issue": "costco-special-act-liquor-license"
+    },
+    "4qfPD1Qpccs#v11": {
+      "issue": "tax-payment-agreements-bylaw"
+    },
+    "4qfPD1Qpccs#v12": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "4qfPD1Qpccs#v13": {
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "68vtg6_LvIU#v0": {
+      "issue": "facilities-van-replacement"
+    },
+    "DdzxtcAtpew#v0": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "DdzxtcAtpew#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "DdzxtcAtpew#v2": {
+      "issue": null
+    },
+    "MH85yg5K1Mk#v0": {
+      "issue": "salary-administration-plan-amendments"
+    },
+    "MH85yg5K1Mk#v1": {
+      "issue": "salary-administration-plan-amendments"
+    },
+    "NKExd-6grWk#v0": {
+      "issue": null
+    },
+    "mgWw2EVBdVI#v0": {
+      "issue": "youth-services-flagg-school-relocation"
+    },
+    "oG4b8H-IoeM#v0": {
+      "issue": "lynbrook-road-water-main-rehabilitation"
+    },
+    "oG4b8H-IoeM#v1": {
+      "issue": "0-southville-road"
+    },
+    "oG4b8H-IoeM#v2": {
+      "issue": "26-meadow-lane-coc"
+    }
+  },
+  "upcoming": {
+    "0P1sB_TDhqU#u0": {
+      "date": "2026-03-18",
+      "issue": null
+    },
+    "0P1sB_TDhqU#u1": {
+      "date": "2026-04-08",
+      "issue": null
+    },
+    "0P1sB_TDhqU#u2": {
+      "date": "2026-04-11",
+      "issue": "tricentennial-street-banners"
+    },
+    "3Wtzigng52g#u0": {
+      "date": null,
+      "issue": "masc-calendar-study-resolution"
+    },
+    "3Wtzigng52g#u1": {
+      "date": "2026-06-01",
+      "issue": "masc-calendar-study-resolution"
+    },
+    "3Wtzigng52g#u2": {
+      "date": "2026-06-15",
+      "issue": null
+    },
+    "4qfPD1Qpccs#u0": {
+      "date": "2026-03-17",
+      "issue": null
+    },
+    "4qfPD1Qpccs#u1": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "68vtg6_LvIU#u0": {
+      "date": "2026-03-10",
+      "issue": null
+    },
+    "68vtg6_LvIU#u1": {
+      "date": null,
+      "issue": "atwood-property-remediation"
+    },
+    "DdzxtcAtpew#u0": {
+      "date": "2026-03-17",
+      "issue": "neary-school-building-project"
+    },
+    "DdzxtcAtpew#u1": {
+      "date": "2026-03-23",
+      "issue": "neary-school-building-project"
+    },
+    "DdzxtcAtpew#u2": {
+      "date": "2026-04-02",
+      "issue": "neary-school-building-project"
+    },
+    "DdzxtcAtpew#u3": {
+      "date": "2026-04-08",
+      "issue": null
+    },
+    "DdzxtcAtpew#u4": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "MH85yg5K1Mk#u0": {
+      "date": "2026-03-10",
+      "issue": "salary-administration-plan-amendments"
+    },
+    "MH85yg5K1Mk#u1": {
+      "date": null,
+      "issue": null
+    },
+    "NKExd-6grWk#u0": {
+      "date": "2026-04-07",
+      "issue": null
+    },
+    "NKExd-6grWk#u1": {
+      "date": "2026-04-11",
+      "issue": "salary-administration-plan-amendments"
+    },
+    "NKExd-6grWk#u2": {
+      "date": "2026-05-05",
+      "issue": null
+    },
+    "NKExd-6grWk#u3": {
+      "date": "2026-06-09",
+      "issue": null
+    },
+    "mgWw2EVBdVI#u0": {
+      "date": "2026-03-27",
+      "issue": null
+    },
+    "mgWw2EVBdVI#u1": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "mgWw2EVBdVI#u2": {
+      "date": null,
+      "issue": null
+    },
+    "mgWw2EVBdVI#u3": {
+      "date": "2026-05-12",
+      "issue": null
+    },
+    "mgWw2EVBdVI#u4": {
+      "date": null,
+      "issue": null
+    },
+    "oG4b8H-IoeM#u0": {
+      "date": "2026-04-02",
+      "issue": "lynbrook-road-water-main-rehabilitation"
+    },
+    "oG4b8H-IoeM#u1": {
+      "date": "2026-03-19",
+      "issue": "conservation-land-use-regulations"
+    },
+    "oG4b8H-IoeM#u2": {
+      "date": "2026-04-30",
+      "issue": "0-southville-road"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:26:36Z"
+}

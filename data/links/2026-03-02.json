@@ -1,0 +1,43 @@
+{
+  "week": "2026-03-02",
+  "fingerprint": "bbd0fa67fa7fb5ae",
+  "topics": {
+    "HukhWGB3_mg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "HukhWGB3_mg#1": {
+      "issue": "municipal-phone-system-upgrade",
+      "category": "Budget & taxes"
+    },
+    "HukhWGB3_mg#2": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "HukhWGB3_mg#3": {
+      "issue": "mcauliffe-hearing-room-av",
+      "category": "Buildings & facilities"
+    },
+    "HukhWGB3_mg#4": {
+      "issue": null,
+      "category": "Staffing & operations"
+    }
+  },
+  "votes": {
+    "HukhWGB3_mg#v0": {
+      "issue": "municipal-phone-system-upgrade"
+    }
+  },
+  "upcoming": {
+    "HukhWGB3_mg#u0": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "HukhWGB3_mg#u1": {
+      "date": "2026-04-14",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:21:30Z"
+}

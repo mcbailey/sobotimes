@@ -1,0 +1,118 @@
+{
+  "video": {
+    "id": "jsPdqzDxTWg",
+    "title": "Cultural Arts Council 3/17/26",
+    "published_at": "2026-03-19T13:00:00Z",
+    "duration_s": 2082
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Cultural Arts Council",
+    "meeting_date": "2026-03-17",
+    "headline": "The Cultural Arts Council discussed moving its annual grant reception to late summer and partnering with the Tercentennial Committee on public art.",
+    "summary": "Meeting without a quorum on March 17, 2026, the Southborough Cultural Arts Council welcomed prospective member Martha Bruccoleri and reviewed the annual grant cycle. The council discussed shifting the annual grant reception from spring to late August or early September to coincide with the opening of the next grant application cycle. Members also explored ideas for Southborough's 2027 tercentennial, including creating a matching grant program to paint downtown utility control boxes.",
+    "topics": [
+      {
+        "title": "Member introductions and council overview",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The council welcomed prospective member Martha Bruccoleri and reviewed the committee's purpose and recruitment needs. The council explained its role distributing Mass Cultural Council state funding to local projects and noted its goal of growing the committee to approximately eight members.",
+        "key_details": [
+          "Martha Bruccoleri introduced herself as a two-year Southborough resident and former educator.",
+          "The committee currently has five members and is seeking up to eight ahead of the next grant cycle.",
+          "Applicants must submit a one-page form to the Select Board and be sworn in by the Town Clerk."
+        ],
+        "outcome": "Bruccoleri will submit a volunteer application to the Select Board for formal appointment.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The council noted the lack of a quorum, preventing formal approval of previous meeting minutes, and adjourned the meeting.",
+        "key_details": [
+          "Minutes approval was postponed until the next meeting with a quorum.",
+          "Meeting adjourned at 7:42 p.m."
+        ],
+        "outcome": "Minutes were deferred to the next meeting.",
+        "why_it_matters": null,
+        "start_seconds": 535,
+        "end_seconds": null
+      },
+      {
+        "title": "Grant administration and reception timing",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members reviewed the transition to digital grant reimbursement processing and debated the timing of the annual grant reception. Due to volunteer constraints, the council supported postponing the reception from spring to late August or early September 2026 to pair the event with the launch of the next grant application cycle.",
+        "key_details": [
+          "Grant reimbursement submissions have shifted to a digital system to reduce administrative overhead.",
+          "Grantees offering to showcase work at the reception include a tercentennial musical composer and a high school student dancer.",
+          "Jane Gates agreed to lead the reception planning with support from the rest of the council."
+        ],
+        "outcome": "The council agreed to target late August or early September 2026 for the combined reception and grant promotion event.",
+        "why_it_matters": null,
+        "start_seconds": 557,
+        "end_seconds": null
+      },
+      {
+        "title": "Tercentennial collaboration and utility box art",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The council discussed potential collaborations with the town's Tercentennial Committee ahead of the 2027 celebration, including painting municipal utility control boxes downtown. Members considered offering a separate town-level grant with matching funds to support the project.",
+        "key_details": [
+          "The project would focus on public works and electrical control boxes standing on street corners downtown.",
+          "A similar mailbox and box painting project in California was estimated to cost around $1,500 per box.",
+          "The council discussed offering dollar-for-dollar matching grants of up to $1,000 for artists.",
+          "Members were advised to coordinate with Tercentennial Committee Chair Don Morris."
+        ],
+        "outcome": "The council plans to explore creating a secondary matching grant program alongside its standard cultural council funds.",
+        "why_it_matters": null,
+        "start_seconds": 1590,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident advised the prospective committee member on the Select Board volunteer appointment and swearing-in process, and suggested the Cultural Arts Council coordinate with the Tercentennial Committee to sponsor student or artist painting of downtown DPW utility control boxes.",
+        "start_seconds": 1522
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Next Cultural Arts Council meeting",
+        "when": "Early May 2026"
+      },
+      {
+        "what": "Combined annual grant reception and FY27 grant cycle launch",
+        "when": "Late August or early September 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:47:26Z",
+  "usage": {
+    "total_tokens": 82536,
+    "total_input_tokens": 80479,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 79498
+      },
+      {
+        "modality": "text",
+        "tokens": 981
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1191,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 866
+  }
+}

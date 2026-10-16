@@ -1,0 +1,176 @@
+{
+  "video": {
+    "id": "igJUFW_ilpo",
+    "title": "Zoning Board of Appeals Meeting 4/15/26",
+    "published_at": "2026-04-16T13:26:46Z",
+    "duration_s": 7739
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-04-15",
+    "headline": "The Zoning Board of Appeals closed the public hearing for a 32-unit Chapter 40B development at 250 Turnpike Road.",
+    "summary": "The Zoning Board of Appeals approved a special permit for a deck alteration at 12 Wood Street and continued a hearing for 34 Turnpike Road to May 6. The board also closed the long-running public hearing for a 32-unit Chapter 40B rental townhome development at 250 Turnpike Road following discussion on wildlife crossing culverts, wetland buffer zones, and abutter screening. The board plans to deliberate and draft a decision with conditions for 250 Turnpike Road at its next meeting on May 6.",
+    "topics": [
+      {
+        "title": "12 Wood Street special permit",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Alberto Jara of Pike Universe LLC requested a special permit under zoning bylaws Sections 174-18 and 174-9 to alter a pre-existing non-conforming single-family residential structure at 12 Wood Street. An as-built survey revealed that a newly constructed deck sits 13 feet from the rear boundary instead of the expected 16 feet, encroaching slightly toward the Sudbury River open space behind the lot. With no objections from board members or the public, the board approved the permit as submitted.",
+        "key_details": [
+          "12 Wood Street, Residence B zoning district",
+          "Deck setback reduced from 16 feet to 13 feet due to lot boundary angle",
+          "Structure borders the Sudbury River to the rear with no adjacent residential abutters behind it",
+          "A 20-day appeal period begins after the town clerk files the written decision"
+        ],
+        "outcome": "Special permit approved unanimously",
+        "why_it_matters": null,
+        "start_seconds": 18,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved the minutes of its March 18, 2026 meeting with minor corrections and established summer meeting dates for May 6, June 10, July 15, and August 19, 2026. The meeting was adjourned at 9:09 PM.",
+        "key_details": [
+          "March 18, 2026 minutes approved as amended (5-0-1)",
+          "Upcoming summer meeting schedule confirmed for May 6, June 10, July 15, and August 19, 2026",
+          "Meeting adjourned at 9:09 PM"
+        ],
+        "outcome": "Minutes approved; summer meeting dates scheduled",
+        "why_it_matters": null,
+        "start_seconds": 427,
+        "end_seconds": null
+      },
+      {
+        "title": "34 Turnpike Road continuance",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The applicant for 34 Turnpike Road requested a continuance to allow time to complete required materials and address outstanding matters. An abutter addressed the board regarding unpermitted site activity and complaints filed with the Board of Health. The board voted to continue the hearing to May 6.",
+        "key_details": [
+          "Applicant requested continuance to May 6, 2026, at 7:15 PM",
+          "Abutter from 38 Turnpike Road noted complaints filed regarding unpermitted work on the property",
+          "Board staff confirmed receipt of original site plans and as-builts, with narratives and elevations pending"
+        ],
+        "outcome": "Hearing continued to May 6, 2026",
+        "why_it_matters": null,
+        "start_seconds": 980,
+        "end_seconds": null
+      },
+      {
+        "title": "Discussion on two-family zoning regulations",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Board members reviewed recent discussions regarding two-family zoning definitions and restrictions, including the local bylaw requirement that single-family structures exist for two years before converting to two-family use. The board discussed how this rule interacts with state laws and accessory dwelling unit bylaws, and noted that 74 properties in Southborough are designated as two-family homes. A board member was assigned to coordinate with the Planning Board to explore clarifying definitions and potential zoning updates.",
+        "key_details": [
+          "Concerns centered on the two-year waiting rule for converting single-family homes into two-family units",
+          "Staff identified 74 two-family properties currently recorded in Southborough",
+          "Members noted ambiguities between duplex definitions, two-family designations, and accessory dwelling units",
+          "Board will coordinate research with the Planning Board ahead of future town meetings"
+        ],
+        "outcome": "Discussion only; board members will continue research with the Planning Board",
+        "why_it_matters": null,
+        "start_seconds": 1460,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road Chapter 40B comprehensive permit",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board continued review of the Chapter 40B comprehensive permit application by 250 Turnpike LLC to construct 32 rental townhomes at 250 Turnpike Road. The applicant and peer reviewers from Lucas Environmental and Howard Stein Hudson discussed adjustments to a wildlife passage culvert (shortened to roughly 54 feet, 4 feet wide by 2 feet high with an open road grate for moisture and light), retaining wall design near the 20-foot wetland buffer zone, and stormwater drainage modeling. Abutters asked the board to require six-foot privacy fencing and landscaping buffers, questioned whether the project could be reduced to 28 units, and raised concerns regarding proximity to the Sudbury Reservoir watershed. The board voted to close the public hearing, with deliberations and final conditions to be addressed on May 6.",
+        "key_details": [
+          "Proposal consists of 32 for-rent townhomes; applicant noted 32 units is the minimum economically feasible count",
+          "Wildlife passage culvert shortened from 65 feet to approximately 54 feet, measuring 4 feet wide by 2 feet high with a road grate",
+          "Retaining walls are proposed within the local 20-foot wetland buffer zone to limit grading and yard encroachment",
+          "Applicant agreed to install and maintain 6-foot privacy fencing and additional screening shrubs for abutting neighbors",
+          "Town is within three units of the 10 percent Subsidized Housing Inventory threshold to achieve Chapter 40B safe harbor"
+        ],
+        "outcome": "Public hearing closed; board deliberations and decision drafting scheduled for May 6, 2026",
+        "why_it_matters": "Approval of the 32-unit rental development would bring Southborough above the state's 10 percent Subsidized Housing Inventory threshold, granting the town temporary safe harbor from unwanted Chapter 40B proposals.",
+        "start_seconds": 1838,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the special permit application as written for 12 Wood Street",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 341
+      },
+      {
+        "motion": "Continue the public hearing for 34 Turnpike Road to May 6, 2026 at 7:15 PM",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1241
+      },
+      {
+        "motion": "Close the public hearing on the 250 Turnpike Road Chapter 40B comprehensive permit application",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 5187
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of 38 Turnpike Road reported filing formal complaints with the zoning board and Board of Health regarding unpermitted construction activities at neighboring 34 Turnpike Road.",
+        "start_seconds": 1068
+      },
+      {
+        "summary": "An attorney representing abutters on Skylark Drive requested that the board condition any approval on the applicant providing and perpetually maintaining a six-foot privacy fence and evergreen plantings, and suggested reducing the development from 32 to 28 units.",
+        "start_seconds": 5054
+      },
+      {
+        "summary": "A resident of 131 Parkerville Road voiced concerns about stormwater runoff, septic placement within the watershed of the Sudbury Reservoir, tree loss from past storms, and urged the board to examine the developer's pro forma financial data to verify whether requested zoning waivers are necessary.",
+        "start_seconds": 5795
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "ZBA public hearing and deliberation session on 250 Turnpike Road draft decision and conditions",
+        "when": "May 6, 2026"
+      },
+      {
+        "what": "Continued public hearing for 34 Turnpike Road",
+        "when": "May 6, 2026"
+      },
+      {
+        "what": "ZBA regular meeting",
+        "when": "June 10, 2026"
+      },
+      {
+        "what": "ZBA regular meeting",
+        "when": "July 15, 2026"
+      },
+      {
+        "what": "ZBA regular meeting",
+        "when": "August 19, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T16:58:07Z",
+  "usage": {
+    "total_tokens": 300548,
+    "total_input_tokens": 296613,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 985
+      },
+      {
+        "modality": "video",
+        "tokens": 295628
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2303,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1632
+  }
+}

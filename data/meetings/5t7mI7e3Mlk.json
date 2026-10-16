@@ -1,0 +1,181 @@
+{
+  "video": {
+    "id": "5t7mI7e3Mlk",
+    "title": "Zoning Board of Appeals Meeting 3/18/26",
+    "published_at": "2026-03-19T13:07:15Z",
+    "duration_s": 3972
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-03-18",
+    "headline": "The Zoning Board approved a setback variance for 12 Darlene Drive, continued hearings on two Turnpike Road projects, and prepped ADU zoning for Town Meeting.",
+    "summary": "The Zoning Board of Appeals approved a 1.5-foot front setback variance for a porch addition at 12 Darlene Drive. Public hearings for a special permit at 34 Turnpike Road and a 40B comprehensive permit at 250 Turnpike Road were both continued to April 15 while applicants gather peer review responses and departmental approvals. The board also reviewed preparations for the proposed Accessory Dwelling Unit zoning bylaw article appearing on the April 11 Town Meeting warrant.",
+    "topics": [
+      {
+        "title": "12 Darlene Drive front setback variance",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Homeowners at 12 Darlene Drive requested a variance to build a covered front porch addition extending six feet from the home, encroaching 1.5 feet into the required 30-foot front setback. The architect explained that when the house was originally constructed in 1994, a Shell oil pipeline easement forced the dwelling closer to the street than neighboring homes. Neighbors submitted letters in support, and board members found the request modest and justified by site conditions.",
+        "key_details": [
+          "12 Darlene Drive in Residence B district",
+          "Variance requested under Section 174-8.3 D(3)(a)",
+          "Porch addition extends 1.5 feet into the 30-foot setback",
+          "Fourteen-day period to file decision, followed by a 20-day appeal period"
+        ],
+        "outcome": "Approved unanimous (4-0)",
+        "why_it_matters": null,
+        "start_seconds": 31,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved draft meeting minutes from February 11, 2026, as amended, and discussed future meeting scheduling for May and June.",
+        "key_details": [
+          "February 11, 2026 meeting minutes approved as amended",
+          "Regular meeting scheduled for May 6, 2026",
+          "Regular meeting tentatively scheduled for June 10, 2026"
+        ],
+        "outcome": "Minutes approved; future meeting dates scheduled",
+        "why_it_matters": null,
+        "start_seconds": 530,
+        "end_seconds": null
+      },
+      {
+        "title": "34 Turnpike Road special permit continuance",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Petitioner Erasmo Barroso requested a special permit under Sections 174-19 and 174-9 for alteration of a pre-existing non-conforming structure at 34 Turnpike Road. The applicant's attorney requested a continuation to allow time to provide updated survey plans, address an encroaching overhang, and obtain outstanding Board of Health approval for the replacement septic system installed in 2022. The board agreed to continue the hearing without taking substantive testimony.",
+        "key_details": [
+          "34 Turnpike Road in Residence B district",
+          "Issues involve an encroaching roof overhang, site drainage, and pending Board of Health sign-off on the septic system",
+          "Town building inspector requested that the building on site be secured immediately",
+          "Abutter in attendance was instructed to submit written comments and photos to town staff"
+        ],
+        "outcome": "Hearing continued to April 15, 2026, at 7:15 PM",
+        "why_it_matters": null,
+        "start_seconds": 787,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road 40B comprehensive permit update",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Ferris Development Group provided a procedural status update on its proposed 40B comprehensive permit for 250 Turnpike Road and 0 Parkerville Road. Counsel reported that the Board of Health approved the project's septic plan in December, and the developer submitted revised site plans, stormwater reports, a buffer zone mitigation planting plan, and an updated waiver list. The developer requested a continuation to April 15 so town peer reviewers and applicant engineers can confer.",
+        "key_details": [
+          "250 Turnpike Road and 0 Parkerville Road (Park Central site)",
+          "Board of Health approved septic design in late December",
+          "Revised site plans narrowed the roadway between two detention basins to reduce the culvert length for wildlife passage",
+          "Added a waiver request to evaluate site lighting under multi-family standards rather than residential standards",
+          "Deadline to close the public hearing currently stands at April 29, 2026"
+        ],
+        "outcome": "Hearing continued to April 15, 2026, at 7:30 PM",
+        "why_it_matters": "Comprehensive permit applications under Chapter 40B significantly affect local housing inventory, traffic, and environmental resources.",
+        "start_seconds": 1745,
+        "end_seconds": null
+      },
+      {
+        "title": "Accessory Dwelling Unit (ADU) bylaw article prep",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board discussed its role in presenting and explaining the proposed ADU bylaw amendment at Annual Town Meeting on April 11. Board members discussed recent questions raised by the Planning Board regarding conversions of single-family homes into two-family structures versus ADUs, and reiterated that ADU approvals must still satisfy all Board of Health, building code, and wetland requirements. The board agreed to prepare a concise one-page informational handout comparing current zoning code to the proposed changes.",
+        "key_details": [
+          "Article is sponsored by the Select Board for Town Meeting on April 11, 2026, starting at 10:00 AM",
+          "One-page informational handout must be submitted to the town clerk's office by April 9",
+          "Proposed bylaw sets a 1,200-square-foot maximum for ADUs and eliminates the special permit path for larger units",
+          "Board members will attend the Planning Board hearing on March 23 to coordinate on any remaining questions"
+        ],
+        "outcome": "Board members agreed to draft a one-page informational sheet for Town Meeting",
+        "why_it_matters": "Town Meeting zoning votes change allowable residential uses and development rules town-wide.",
+        "start_seconds": 2320,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the petition for a front setback variance for a front porch addition at 12 Darlene Drive as requested",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 490
+      },
+      {
+        "motion": "Continue the public hearing for 34 Turnpike Road to April 15, 2026, at 7:15 PM",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1578
+      },
+      {
+        "motion": "Continue the public hearing for 250 Turnpike Road to April 15, 2026, at 7:30 PM",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 2240
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "An abutter to 34 Turnpike Road asked how neighbors can submit questions, concerns, and photographic evidence regarding property conditions prior to the continued hearing.",
+        "start_seconds": 1660
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Planning Board public hearing on ADU zoning bylaw",
+        "when": "March 23, 2026"
+      },
+      {
+        "what": "Deadline to submit one-page ADU handout to the town clerk for Town Meeting",
+        "when": "April 9, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026, at 10:00 AM"
+      },
+      {
+        "what": "Continued public hearing on 34 Turnpike Road special permit",
+        "when": "April 15, 2026, at 7:15 PM"
+      },
+      {
+        "what": "Continued public hearing on 250 Turnpike Road comprehensive permit",
+        "when": "April 15, 2026, at 7:30 PM"
+      },
+      {
+        "what": "Statutory deadline to close the public hearing for 250 Turnpike Road",
+        "when": "April 29, 2026"
+      },
+      {
+        "what": "ZBA regular meeting",
+        "when": "May 6, 2026"
+      },
+      {
+        "what": "ZBA regular meeting",
+        "when": "June 10, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:46:36Z",
+  "usage": {
+    "total_tokens": 156864,
+    "total_input_tokens": 152669,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 151684
+      },
+      {
+        "modality": "text",
+        "tokens": 985
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2228,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1967
+  }
+}

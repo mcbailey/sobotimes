@@ -1,0 +1,171 @@
+{
+  "video": {
+    "id": "3tvk5LPNga4",
+    "title": "Board of Health 4/7/26",
+    "published_at": "2026-04-07T14:56:33Z",
+    "duration_s": 1154
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-04-07",
+    "headline": "The Board of Health determined neighbor disputes over barking dogs and security cameras fall outside its jurisdiction, directing complaints to police.",
+    "summary": "The Board of Health addressed a resident complaint regarding a neighbor's barking dog and security cameras, voting that neither matter falls under public health jurisdiction. Staff reported on compliance efforts for a Turnpike Road bodyworks business and clarified updated farmers market food regulations prohibiting on-site prepared food service without a food truck permit. The board also reviewed preparations for Annual Town Meeting, regional public health strategic planning, and school nurse emergency exercises.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from February and March and established its upcoming meeting schedule for the late spring and summer.",
+        "key_details": [
+          "Minutes from February and March were approved unanimously.",
+          "Meeting dates scheduled: May 5 at 9:00 AM, June 9 at 11:00 AM, and July 7 at 11:00 AM."
+        ],
+        "outcome": "Minutes approved and future meeting schedule set.",
+        "why_it_matters": null,
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "Resident complaint on dog barking and security cameras",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The board considered a written complaint from a resident concerning noise from a neighbor's barking dog and the installation of neighbor security cameras. The board voted to respond formally that neither concern falls under the statutory authority of the Board of Health or the Health Department, advising the resident that any enforcement matters must be handled through the police department.",
+        "key_details": [
+          "The resident had previously contacted the Health Department multiple times before requesting board review.",
+          "The board affirmed that town bylaws and health regulations do not give the department authority over barking dogs or private security cameras."
+        ],
+        "outcome": "Voted 3-0 to notify the resident that the issues are outside the board's jurisdiction and should be directed to the police.",
+        "why_it_matters": null,
+        "start_seconds": 49,
+        "end_seconds": null
+      },
+      {
+        "title": "Food inspections and Turnpike Road bodyworks compliance",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Inspectors reported that routine food establishment inspections are up to date with no violations of concern. Staff also reported visiting a bodyworks business operating on Turnpike Road that had failed to respond to certified mail regarding town regulations passed several months prior.",
+        "key_details": [
+          "Routine food inspections across town were reported fully caught up and on schedule.",
+          "Staff conducted an on-site visit to a Turnpike Road bodyworks facility under guidance from town counsel.",
+          "The bodyworks business was notified that it must apply for local licensure to continue operations in town and was given time to comply."
+        ],
+        "outcome": "Information only; compliance process is ongoing.",
+        "why_it_matters": null,
+        "start_seconds": 373,
+        "end_seconds": null
+      },
+      {
+        "title": "Farmers market regulations and food permitting",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The board reviewed updated farmers market application forms and rules, broadening the application beyond the Fay School location to cover any market held in town. Staff explained that food vendors at farmers markets are limited to selling retail food products meant for home preparation or consumption, with on-site cooked food service restricted to fully permitted food trucks.",
+        "key_details": [
+          "Vendors selling high-risk foods must submit a food safety plan detailing commercial kitchen prep and temperature-controlled transport.",
+          "Agricultural producers selling whole produce are exempt from health permitting fees.",
+          "On-site prepared food service cannot be served from open tables due to sanitation rules and must be conducted from an inspected food truck.",
+          "Staff noted that any prospective alcohol vendor permits at community events are under the authority of the Select Board, not the Board of Health."
+        ],
+        "outcome": "Updated regulations and unified application form implemented.",
+        "why_it_matters": null,
+        "start_seconds": 500,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual Town Meeting warrant preview",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The board reviewed its presence and warrant articles for the upcoming Annual Town Meeting. The department's operating budget will appear under Article 6, and the annual renewal of its revolving account is expected to be included in the consent agenda.",
+        "key_details": [
+          "Annual Town Meeting is scheduled for Saturday, April 11, 2026.",
+          "The Health Department operating budget is part of Article 6.",
+          "The department revolving account authorization will also be voted on."
+        ],
+        "outcome": "Board members coordinated attendance for the meeting.",
+        "why_it_matters": null,
+        "start_seconds": 745,
+        "end_seconds": null
+      },
+      {
+        "title": "Department updates: Performance standards, strategic plan, and measles tabletop",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff provided updates on multiple regional and state health initiatives, including the annual state performance standards survey through the Massachusetts Department of Public Health. Additionally, consultant HRIA has begun stakeholder interviews for the Greater Boroughs Partnership for Health strategic plan, and local health officials recently conducted a four-hour measles preparedness tabletop exercise for Northborough and Southborough school nurses.",
+        "key_details": [
+          "The state performance survey includes more than 200 questions evaluating town compliance with state public health mandates and staffing capacity.",
+          "Consultant HRIA is interviewing key stakeholders for the Greater Boroughs strategic plan, with monthly progress meetings expected to follow.",
+          "A four-hour measles tabletop training was held with public school nurses to review identification and response protocols, though no local measles cases have occurred."
+        ],
+        "outcome": "Information only; strategic planning and survey completion continue.",
+        "why_it_matters": null,
+        "start_seconds": 802,
+        "end_seconds": null
+      },
+      {
+        "title": "School district opioid settlement funding request",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff briefed the board on an incoming request to allocate a small portion of municipal opioid settlement funds to the regional school district shared with Northborough. Action was deferred until after both towns complete their spring town meetings, as Northborough's Select Board and Southborough's Board of Health hold approval authority over their respective fund distributions.",
+        "key_details": [
+          "Funding would support shared district-level substance use or prevention programming in the regional schools.",
+          "Formal proposal and vote will come before the board at an upcoming meeting following Northborough's Town Meeting in late April."
+        ],
+        "outcome": "Discussion tabled until after town meetings conclude.",
+        "why_it_matters": null,
+        "start_seconds": 977,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Move that the Health Department inform the resident that complaints regarding neighbor dog barking and security cameras are not within the jurisdiction of the Board of Health or Health Department and should be directed to the police department.",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 365
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Southborough Annual Town Meeting",
+        "when": "April 11, 2026"
+      },
+      {
+        "what": "Board of Health regular meeting",
+        "when": "May 5, 2026 at 9:00 AM"
+      },
+      {
+        "what": "Board of Health regular meeting",
+        "when": "June 9, 2026 at 11:00 AM"
+      },
+      {
+        "what": "Board of Health regular meeting",
+        "when": "July 7, 2026 at 11:00 AM"
+      }
+    ],
+    "caveats": "The video experienced intermittent audio dropouts and frozen video during the chair's remarks between 0:01:00 and 0:04:40, but staff summarized the discussion clearly on the recording immediately afterward."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:29:10Z",
+  "usage": {
+    "total_tokens": 48173,
+    "total_input_tokens": 45068,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 44089
+      },
+      {
+        "modality": "text",
+        "tokens": 979
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1999,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1106
+  }
+}

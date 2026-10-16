@@ -1,0 +1,98 @@
+{
+  "video": {
+    "id": "GJaOrmVzrJE",
+    "title": "Southborough Elementary School Building Committee 4/8/26",
+    "published_at": "2026-04-09T14:39:13Z",
+    "duration_s": 2983
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-04-08",
+    "headline": "The Elementary School Building Committee organized leadership and scheduled April 13 and 15 meetings to evaluate five architect bids for the Neary School feasibility study.",
+    "summary": "At its kickoff meeting, the Southborough Elementary School Building Committee elected Craig Williams as chair and Andrew Pfaff as vice chair. The committee reviewed five proposals submitted by architectural firms to conduct a feasibility study for the Neary School. Members established a schedule to deliberate on proposal scores on April 13, 2026, followed by interviews with shortlisted firms on April 15. The recommended design contract will ultimately require approval and execution by the Select Board.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee convened to organize its leadership and procedural structure. Members unanimously elected Craig Williams as chair and Andrew Pfaff as vice chair, and decided to alternate minute-taking duties using automated transcripts rather than naming a secretary.",
+        "key_details": [
+          "Craig Williams was nominated and elected chair by a 5-0 vote.",
+          "Andrew Pfaff was nominated and elected vice chair by a 5-0 vote.",
+          "The committee opted against appointing a designated secretary and will alternate minute-taking responsibilities."
+        ],
+        "outcome": "Craig Williams elected chair (5-0) and Andrew Pfaff elected vice chair (5-0).",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School feasibility study architect selection",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee reviewed the procurement timeline and scoring rubric for five architectural proposals received for the Neary School feasibility study. Members agreed to review and score proposals individually before meeting to select finalists and conduct interviews. A brief member inquiry regarding an alternative pitched roof design for Neary School was stopped on a point of order because it was not on the posted agenda.",
+        "key_details": [
+          "The district received five proposals following the March 18 Request for Services (RFS).",
+          "Scoring criteria allocate 40 percent to experience and qualifications, 35 percent to project schedule and availability, 25 percent to past work and references, and 5 percent to submission quality.",
+          "Committee members will review submissions individually and meet April 13, 2026, at 7:00 PM to compare scores and pick finalist firms.",
+          "Finalist interviews will take place virtually on April 15, 2026, starting at 7:00 PM.",
+          "Contract execution requires Select Board approval, which may necessitate a special Select Board meeting before its regular April 28 session."
+        ],
+        "outcome": "The committee voted to set meetings for proposal deliberation on April 13 and virtual firm interviews on April 15.",
+        "why_it_matters": "The selected architect will conduct the feasibility study that determines design options and long-term capital investments for the town's elementary school facilities.",
+        "start_seconds": 404,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Elect Craig Williams as chair of the Elementary School Building Committee",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 128
+      },
+      {
+        "motion": "Elect Andrew Pfaff as vice chair of the Elementary School Building Committee",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 264
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Committee meeting to deliberate on proposal scores and select interview finalists",
+        "when": "April 13, 2026, at 7:00 PM"
+      },
+      {
+        "what": "Architectural firm finalist interviews",
+        "when": "April 15, 2026, at 7:00 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:21:04Z",
+  "usage": {
+    "total_tokens": 118167,
+    "total_input_tokens": 114955,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 113973
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 993,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2219
+  }
+}

@@ -1,73 +1,64 @@
 {
-  "headline": "Ahead of Special Town Meeting, Southborough boards split over major funding requests for golf course irrigation and a pedestrian bridge while finalizing warrant recommendations.",
-  "synopsis": "Ahead of the October 17 Special Town Meeting, Southborough committees finalized warrant positions on key financial and zoning proposals. Sharp divisions emerged over Community Preservation Act funding requests, with the Advisory Committee recommending against both a $1.087 million golf course irrigation project and a $217,318 supplemental appropriation for the Peninsula Trail footbridge. In contrast, the Advisory Committee unanimously endorsed a $240,000 water main extension to connect two homes near the Parkerville Road landfill and supported establishing a stormwater enterprise fund structure. The Zoning Board of Appeals voted to support a zoning amendment easing two-family home conversions, though the Advisory Committee recommended against it due to density and septic concerns. Meanwhile, the Select Board initiated a comprehensive review of the town governance structure, and departments began drafting initial FY28 operating budgets.",
+  "headline": "Committees finalized recommendations for the October Special Town Meeting while elementary school planners advanced a $38 million Neary addition and renovation plan.",
+  "synopsis": "Ahead of the October 17 Special Town Meeting, town boards reviewed and staked out positions on warrant articles covering zoning, capital projects, and municipal finance. The Advisory Committee recommended approval for establishing a stormwater enterprise fund and spending $240,000 from water reserves to connect two homes near the Parkerville Road landfill to town water, but opposed Community Preservation Act funding for both a Peninsula Trail footbridge and Southborough Golf Club irrigation. The Zoning Board of Appeals endorsed a zoning amendment permitting two-family dwellings by special permit, which Advisory recommended against over density and septic concerns. Meanwhile, the Elementary School Building Committee moved toward a $38 million addition and renovation for Neary Elementary after analysis showed a $15 million limited upgrade would be consumed almost entirely by code mandates. Consultants also delivered initial findings to the Select Board regarding Southborough's overall governance and committee structure.",
   "top_items": [
     {
-      "title": "Golf course irrigation funding divided town boards",
-      "why": "The Advisory Committee unanimously opposed using Community Preservation Act funds for the Southborough Golf Club's $1.087 million irrigation project, while the Golf Committee and Community Preservation Committee backed the article.",
-      "body": "Town boards debated Article 3 for the Special Town Meeting, which proposes funding a $1,087,296 irrigation system overhaul at the Southborough Golf Club using $433,546 in new CPA funds, $550,000 in previously authorized CPA funds, and $100,000 from the golf revolving fund. The Advisory Committee voted against the article, arguing capital improvements should be self-funded through golf fees or debt backed by player surcharges rather than taxpayer-funded CPA money. The Golf Committee agreed to move forward with the article as written without seeking floor amendments, approving $500 for informational flyers to present their case directly to voters.",
+      "title": "Neary School Building Committee backs $38 million addition-renovation",
+      "why": "Architectural analysis revealed that a $15 million upgrade option yields only $5.8 million in direct repairs after mandatory building code upgrades, leaving boilers, ventilation, and classrooms unaddressed.",
+      "body": "Tappé Architects presented a cost breakdown showing that required code upgrades, including full fire sprinklers and accessibility compliance, would consume most direct construction funds in a $15 million limited upgrade. That option would leave no funding for replacing aging boilers or unit ventilators and would not qualify for state reimbursement. The Elementary School Building Committee concluded the limited scope is non-viable and directed architects to prepare schematic designs for a $38 million addition and renovation plan ahead of a formal vote.",
       "importance": "high",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 3135,
-      "issue": "southborough-golf-club-irrigation"
+      "video_id": "QdzU1T7dKiU",
+      "start_seconds": 165,
+      "issue": "neary-school-building-project"
     },
     {
-      "title": "Peninsula Trail bridge advanced despite cost objections",
-      "why": "The Community Preservation Committee voted 3-2 to advance a $217,318 CPA funding request for a prefabricated footbridge, even as the Select Board and Advisory Committee opposed it over costs.",
-      "body": "Article 4 requests $217,318 in additional CPA funding to build a 65-foot prefabricated pedestrian bridge along Route 30, bringing total project funding to $428,550. The Advisory Committee and Select Board strongly opposed the measure, citing an estimated cost of approximately $5,000 per linear foot ($320,000 total for the bridge structure). After considering and dropping potential floor amendments to reduce the ask, both the Community Preservation Committee and the Trails Committee decided to present the funding article to Town Meeting as originally printed.",
+      "title": "Town boards split on Peninsula Trail footbridge CPA funding",
+      "why": "The Community Preservation Committee voted 3-2 to send a $217,318 supplemental funding request to Town Meeting, despite unanimous opposition from the Advisory Committee over project costs.",
+      "body": "Article 4 requests $217,318 in additional Community Preservation Act funds to construct a 65-foot prefabricated pedestrian footbridge along Route 30, bringing the total project cost to $428,550. The Advisory Committee voted against the appropriation due to an estimated bridge cost of roughly $5,000 per linear foot, and the Select Board also voted against it. After considering a floor amendment to cut contingency funds, the Trails Committee and CPC decided to present the funding request to Special Town Meeting as originally drafted.",
       "importance": "high",
       "video_id": "G9S9K_Mene8",
       "start_seconds": 30,
       "issue": "peninsula-trail-phase-2"
     },
     {
-      "title": "Boards split on two-family dwelling zoning changes",
-      "why": "The Zoning Board of Appeals voted to back Article 2 to ease two-family dwelling conversions, while the Advisory Committee issued an unfavorable recommendation citing septic and density concerns.",
-      "body": "Article 2 proposes eliminating the two-year ownership requirement for converting single-family houses into two-family dwellings and allowing new two-family construction by special permit. The Zoning Board of Appeals voted to support the warrant article as drafted after evaluating whether the wording could permit two-family homes on undersized business village lots. Conversely, the Advisory Committee recommended against the article, warning it could encourage speculative house flipping, strain septic systems on constrained lots, and increase density in Residential B districts.",
+      "title": "Dispute over funding golf course irrigation with CPA money",
+      "why": "Town officials head into Special Town Meeting divided over whether to allocate over $433,000 in new Community Preservation Act funds toward a $1.09 million golf course irrigation system.",
+      "body": "Article 3 asks voters to extend $550,000 in previously approved CPA funds, authorize $433,546 in new CPA funds, and draw $100,000 from the Golf Course Revolving Fund to replace the Southborough Golf Club irrigation system. The Golf Committee and Community Preservation Committee support the article, while the Advisory Committee opposes using tax-supported CPA revenues for a facility intended to be financially self-sustaining. The Golf Committee voted to approve flyer expenses and confirmed it will present the article without amendments.",
+      "importance": "high",
+      "video_id": "XB-8MuC8GBo",
+      "start_seconds": 574,
+      "issue": "southborough-golf-club-irrigation"
+    },
+    {
+      "title": "Two-family dwelling zoning amendment advances to Town Meeting",
+      "why": "The Zoning Board of Appeals voted to support Article 2 as drafted, while the Advisory Committee issued an unfavorable recommendation citing septic and density impacts.",
+      "body": "Article 2 would eliminate the two-year ownership waiting period to convert existing single-family homes into two-family dwellings and allow new two-family construction by special permit. The Zoning Board of Appeals debated potential impacts on undersized lots before voting unanimously to back the warrant article language as written. The Advisory Committee recommended against approval, expressing concern about speculative purchases, lot sizes in Residential B districts, and septic capacity.",
       "importance": "high",
       "video_id": "2dGufO1TwE4",
       "start_seconds": 0,
       "issue": "two-family-zoning-amendment"
     },
     {
-      "title": "Parkerville landfill water main extension recommended",
-      "why": "The Advisory Committee voted 6-0 to recommend Article 7, appropriating $240,000 from water retained earnings to connect two homes near the landfill to municipal water.",
-      "body": "Article 7 seeks $240,000 from water retained earnings to extend a municipal water main to two residences near the closed Parkerville Road landfill following contamination testing. Advisory Committee members confirmed with town leadership that the town will cover the installation of service lines extending all the way into the homes, which eliminates potential health risks and avoids ongoing state-mandated private well testing costs.",
+      "title": "Advisory recommends $240,000 water extension near landfill",
+      "why": "The Advisory Committee voted 6-0 to recommend connecting two homes near the Parkerville Road landfill to municipal water to eliminate contamination risks.",
+      "body": "Article 7 on the Special Town Meeting warrant requests $240,000 from water retained earnings to extend a municipal water main to two residences near the inactive Parkerville Road landfill. Following clarification that the town will cover the installation of service lines from the street into the houses, the Advisory Committee unanimously endorsed the article to address private well contamination concerns.",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 80,
       "issue": "landfill-environmental-assessment"
     },
     {
-      "title": "Select Board reviewed municipal governance study",
-      "why": "Consultant Bill Keegan presented initial findings evaluating Southborough's governance model, town manager powers, and board oversight.",
-      "body": "Bill Keegan of Capital Strategic Strategies delivered an overview of an 18-week study assessing Southborough's municipal government structure. The study compares Southborough's administration, town manager authority, and structure across its 68 local boards with other Massachusetts towns to evaluate potential shifts between charter and bylaw governance models.",
+      "title": "Consultant presents initial municipal governance structure study",
+      "why": "A preliminary review compared Southborough's governance model and town manager authority against other Massachusetts communities.",
+      "body": "Bill Keegan of Capital Strategic Strategies presented an initial progress update to the Select Board on the town government structure study. The 18-week study is analyzing town manager executive powers, committee structures across the town's numerous boards, and potential transitions between charter and bylaw frameworks. The Select Board accepted the update as part of the ongoing review.",
       "importance": "medium",
       "video_id": "jIrNNYw8PME",
       "start_seconds": 366,
       "issue": "town-governance-study"
-    },
-    {
-      "title": "Advisory Committee backed stormwater enterprise accounting framework",
-      "why": "The Advisory Committee finalized report language supporting Article 5 to establish a stormwater enterprise fund starting in fiscal year 2028.",
-      "body": "Article 5 proposes creating a municipal stormwater enterprise fund as an accounting structure to track stormwater compliance costs and potential revenues. The Advisory Committee clarified in its warrant report that the article does not implement user fees or funding, noting that any future fee system based on impervious surfaces—including charges on tax-exempt parcels—would require separate Town Meeting authorization.",
-      "importance": "medium",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 1860,
-      "issue": "stormwater-enterprise-fund"
-    },
-    {
-      "title": "Initial FY28 department operating budgets approved",
-      "why": "The Library Trustees and Recreation Commission voted to approve their FY28 operating budget requests as the town prepares for projected structural deficits.",
-      "body": "Amid projections of a municipal budget deficit exceeding $2 million for FY28, town departments began approving baseline budget requests. The Library Board of Trustees voted 6-0 to approve its FY28 operating budget, balancing state materials expenditure requirements against rising personnel and network costs, while the Recreation Commission unanimously approved an operating budget request of $4,250.",
-      "importance": "medium",
-      "video_id": "Dlomobo7FQ4",
-      "start_seconds": 933,
-      "issue": "fy28-operating-budget"
     }
   ],
   "month": "2026-10",
-  "fingerprint": "e41ef0f1117435d7",
+  "fingerprint": "ebfa7a7c724872de",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -77,6 +68,7 @@
     "Dlomobo7FQ4",
     "G9S9K_Mene8",
     "InzL5O9vgMQ",
+    "QdzU1T7dKiU",
     "VZd0rZYyRHI",
     "XB-8MuC8GBo",
     "XWT8M6ozUrU",
@@ -87,5 +79,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T11:47:51Z"
+  "generated_at": "2026-10-16T19:02:08Z"
 }

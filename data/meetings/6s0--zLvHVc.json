@@ -1,0 +1,299 @@
+{
+  "video": {
+    "id": "6s0--zLvHVc",
+    "title": "Planning Board 3/23/26",
+    "published_at": "2026-03-24T20:46:45Z",
+    "duration_s": 8968
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-03-23",
+    "headline": "The Planning Board advanced Town Meeting zoning articles, addressed site plan violations at 154 Turnpike Road, and reviewed upcoming Costco plans.",
+    "summary": "The Southborough Planning Board reviewed multiple zoning articles for the upcoming Annual Town Meeting, including updates to Industrial Park zoning governing data centers and clean energy infrastructure, continuing all hearings to April 11. The board engaged in a detailed review of 154 Turnpike Road regarding unresolved lighting and landscaping non-compliance and unpermitted shade tree removal, continuing the hearing to April 27. Additionally, board members discussed upcoming review procedures for a proposed Costco warehouse project and addressed procedural concerns surrounding emergency tree removals.",
+    "topics": [
+      {
+        "title": "Accessory Dwelling Unit bylaw update",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board opened the public hearing on a proposed zoning bylaw amendment governing Accessory Dwelling Units (ADUs). The proposed update aligns the local bylaw with state regulations, allowing ADUs by right up to 1,200 square feet, provided they do not exceed the principal dwelling's gross floor area and only one ADU is placed per lot.",
+        "key_details": [
+          "Allows ADUs by right up to 1,200 square feet.",
+          "Limits properties to one accessory dwelling unit per lot.",
+          "A board member filed a statutory appearance form to participate after missing the previous session."
+        ],
+        "outcome": "Hearing continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": null,
+        "start_seconds": 10,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial banner signage bylaw amendment",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The board considered a temporary zoning amendment to allow promotional banner signage on town-owned property and utility poles for Southborough's upcoming 2027 tricentennial celebration. The proposed temporary amendment would expire on January 31, 2028.",
+        "key_details": [
+          "Authorizes Tricentennial Committee promotional banners subject to Select Board approval.",
+          "Signage permission would expire January 31, 2028."
+        ],
+        "outcome": "Hearing continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": null,
+        "start_seconds": 188,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 17: Industrial Park zoning update and data centers",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed a presentation prepared for Annual Town Meeting on Article 17, which overhauls the town's 40-year-old Industrial Park zoning regulations. The amendment establishes performance standards for noise, vibration, and odors, incorporates required state standards for small clean energy infrastructure, and creates a comprehensive special permit framework for data centers capped at 50,000 square feet.",
+        "key_details": [
+          "Limits data centers to 50,000 square feet with a 1,000-foot setback from residences and conservation land.",
+          "Mandates at least two neighborhood meetings and notice to residents within a half-mile for proposed data centers.",
+          "Establishes strict baseline noise controls and limits generator testing.",
+          "Requires a two-thirds majority vote at Town Meeting to pass."
+        ],
+        "outcome": "Hearing continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": "The article establishes local safeguards, setbacks, and limits on noise and resource consumption before data centers or large clean energy installations can be developed in town.",
+        "start_seconds": 316,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 31: MBTA Communities Overlay District dimensional table",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The board reviewed Article 31, a housekeeping amendment correcting a transcription error in the MBTA Communities Overlay District dimensional table. The amendment replaces an errant word with a comma and removes a percent sign next to the floor area ratio value.",
+        "key_details": [
+          "Corrects typographical errors in the dimensional standards table.",
+          "Does not alter the underlying zoning or development standards."
+        ],
+        "outcome": "Hearing continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": null,
+        "start_seconds": 2001,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 30: Affordable Housing Trust code references",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The board reviewed Article 30, which replaces references to the defunct Southborough Housing Opportunity Partnership Committee with the Southborough Affordable Housing Trust throughout the zoning code.",
+        "key_details": [
+          "Updates references across town code chapters 9-16 and 174-13.2.",
+          "Reflects the governance transition from SHOPC to the Affordable Housing Trust."
+        ],
+        "outcome": "Hearing continued to April 11, 2026, at 9:00 AM.",
+        "why_it_matters": null,
+        "start_seconds": 2200,
+        "end_seconds": null
+      },
+      {
+        "title": "22 Turnpike Road site plan modification",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board continued its review of a major site plan modification application for the golf driving range at 22 Turnpike Road. Staff and peer reviewers noted that previous plan submissions lacked complete photometric data across the entire site as well as clear topographic contours and detention basin details.",
+        "key_details": [
+          "Applicant agreed to submit an updated photometric plan covering the full property.",
+          "Peer review engineer flagged incomplete existing condition topography and missing drainage basin data.",
+          "Board extended the statutory decision deadline to allow for revised submissions."
+        ],
+        "outcome": "Hearing continued to April 13, 2026, at 6:45 PM; decision deadline extended to May 1, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 2399,
+        "end_seconds": null
+      },
+      {
+        "title": "154 Turnpike Road site plan non-compliance and shade tree removal",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board heard testimony regarding longstanding non-compliance issues at 154 Turnpike Road, focusing on outdoor lighting that exceeds town Dark Sky lumen limits and landscaping shortages along Route 9 and Breakneck Hill Road. The discussion also addressed the developer's unauthorized removal of a public shade tree in the right of way, which requires formal mitigation and a joint public hearing with the Tree Warden.",
+        "key_details": [
+          "Town planner reported site lighting calculations totaled roughly 334,000 lumens against an allowable maximum of 256,000 lumens.",
+          "Property has major shrub and tree deficits compared to the approved site plan.",
+          "Applicant agreed to replace invasive grasses with native plantings and install evergreen screening instead of fencing.",
+          "A joint public hearing with the Tree Warden will be scheduled to address the removed public shade tree and determine required mitigation."
+        ],
+        "outcome": "Hearing continued to April 27, 2026, at 7:00 PM; decision deadline extended to May 1, 2026.",
+        "why_it_matters": "The board is requiring the commercial site to remediate unpermitted tree clearing along a scenic road and bring excess site lighting into compliance with town environmental standards.",
+        "start_seconds": 3161,
+        "end_seconds": null
+      },
+      {
+        "title": "Subdivision Rules and Regulations review update",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "A member reported on ongoing efforts to review and modernize the town's subdivision regulations and approval-not-required (ANR) processes. A working group of board members and the town planner scheduled meetings to assemble a list of proposed technical adjustments for full board consideration.",
+        "key_details": [
+          "Review covers technical standards such as cul-de-sacs, curb design, and catch basins.",
+          "Working group scheduled meetings for March 31 and April 2, 2026, with draft recommendations targeted for April 6."
+        ],
+        "outcome": "Discussion update only; recommendations expected ahead of the April 13 meeting.",
+        "why_it_matters": null,
+        "start_seconds": 5927,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road 40B application",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board discussed coordinating advisory comments to the Zoning Board of Appeals regarding an active Chapter 40B comprehensive permit application at 250 Turnpike Road. Members raised concerns that proposed property line alterations could impact required 50-foot setbacks and eliminate mature tree buffers approved under an existing contractor yard site plan.",
+        "key_details": [
+          "Zoning Board of Appeals hearing is scheduled for April 15, 2026.",
+          "Planning Board will hold a dedicated discussion on March 30, 2026, to draft a comment letter."
+        ],
+        "outcome": "Board scheduled a discussion for March 30, 2026, to finalize its response to the ZBA.",
+        "why_it_matters": null,
+        "start_seconds": 6337,
+        "end_seconds": null
+      },
+      {
+        "title": "Imminent hazard public shade tree removals",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The chair raised procedural concerns about public shade trees being removed by the Tree Warden under the 'imminent hazard' exemption of state law without prior public hearings or notice to the Planning Board. Board members emphasized the need to adhere to the town tree code, verify whether an arborist inventory exists, and track replanting funds.",
+        "key_details": [
+          "Recent removals under imminent hazard designations bypassed typical 14-day public notice periods.",
+          "Members highlighted that town tree canopy is thinning while replanting programs have stalled.",
+          "The board plans to address tree removal policies directly with the Tree Warden during the April 27 joint meeting."
+        ],
+        "outcome": "Matter referred to the April 27, 2026, meeting for discussion with the Tree Warden.",
+        "why_it_matters": null,
+        "start_seconds": 6667,
+        "end_seconds": null
+      },
+      {
+        "title": "Planner's Report: Costco pre-filing, meeting room relocation, and clean energy rules",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town planner briefed the board on several administrative matters, including a March 18 pre-filing meeting with Costco for a proposed warehouse store at the Atlantic Management property. Staff also reported that Town House meeting room renovations from April 8 to April 27 will temporarily shift meetings to the Public Safety Building, and discussed town requirements to designate a single project manager for consolidated state clean energy siting permits by October 1.",
+        "key_details": [
+          "Costco project at the Atlantic site would feature typical retail warehouse operations, tire center, and gas station; MEPA state review is expected.",
+          "Costco signaled interest in working subcommittee meetings; board members cautioned that any formal discussions must be open and transparent.",
+          "Town House hearing room will be offline April 8-27, 2026; April 13 and April 27 meetings will move to the Public Safety Building.",
+          "Select Board must designate a consolidated permit project manager (default is town administrator) by October 1, 2026.",
+          "A Chapter 61A right-of-first-refusal notice was received for a 1.46-acre parcel on Northborough Road."
+        ],
+        "outcome": "Information received; board will submit a letter recommending designation of the clean energy consolidated permit manager.",
+        "why_it_matters": null,
+        "start_seconds": 7146,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed and approved meeting minutes from March 9, 2026, with minor typographical corrections, and adjourned the meeting.",
+        "key_details": [
+          "Approved minutes of March 9, 2026, as amended.",
+          "Meeting adjourned at 9:01 PM."
+        ],
+        "outcome": "Minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 8672,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing for the ADU bylaw update to April 11, 2026, at 9:00 AM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 182
+      },
+      {
+        "motion": "Continue the public hearing for the Tricentennial Committee banner signage zoning amendment to April 11, 2026, at 9:00 AM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 308
+      },
+      {
+        "motion": "Continue the public hearing for the Industrial Park District expanded uses zoning amendment to April 11, 2026, at 9:00 AM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1992
+      },
+      {
+        "motion": "Continue the public hearing for the MBTA Communities Overlay District dimensional table correction to April 11, 2026, at 9:00 AM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2191
+      },
+      {
+        "motion": "Continue the public hearing for the zoning amendment replacing SHOPC with the Southborough Affordable Housing Trust to April 11, 2026, at 9:00 AM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2390
+      },
+      {
+        "motion": "Continue the public hearing for 22 Turnpike Road major site plan modification to April 13, 2026, at 6:45 PM, and extend the Planning Board action deadline to May 1, 2026.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3145
+      },
+      {
+        "motion": "Continue the public hearing for 154 Turnpike Road major site plan modification to April 27, 2026, at 7:00 PM, and extend the decision deadline to May 1, 2026.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5851
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Woodland Road commented on the Article 17 presentation, advising the board to emphasize proactive regulations over reactivity, ensure clarity that residential solar battery storage is exempt from the 1,000-foot industrial setback, and reconsider prohibiting Biosafety Level 3 and 4 facilities via zoning rather than Board of Health regulations.",
+        "start_seconds": 1731
+      },
+      {
+        "summary": "A resident of Woodland Road stated that municipal government has no legal duty to personally notify property owners of general bylaw changes, and suggested including explicit reminders in future site plan decisions that local regulations are subject to change.",
+        "start_seconds": 5739
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Remote Planning Board meeting to open public hearing on zoning section 174-9K (data center special permits) and discuss 250 Turnpike Road 40B application",
+        "when": "March 30, 2026, at 6:30 PM"
+      },
+      {
+        "what": "Subdivision regulations working group meetings",
+        "when": "March 31 and April 2, 2026"
+      },
+      {
+        "what": "Pre-Town Meeting Planning Board session to conclude public hearings on warrant articles 17, 30, 31, ADUs, and tricentennial signage",
+        "when": "April 11, 2026, at 9:00 AM"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026, at 10:00 AM"
+      },
+      {
+        "what": "Planning Board meeting at Public Safety Building (including continued hearing for 22 Turnpike Road)",
+        "when": "April 13, 2026, at 6:30 PM"
+      },
+      {
+        "what": "Planning Board meeting at Public Safety Building (including continued hearing and joint tree hearing for 154 Turnpike Road)",
+        "when": "April 27, 2026, at 7:00 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:43:49Z",
+  "usage": {
+    "total_tokens": 329674,
+    "total_input_tokens": 323788,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 322805
+      },
+      {
+        "modality": "text",
+        "tokens": 983
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4171,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1715
+  }
+}

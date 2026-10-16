@@ -1,0 +1,88 @@
+{
+  "video": {
+    "id": "yXe5DKqRaCw",
+    "title": "Southborough Elementary School Building Committee 4/13/26",
+    "published_at": "2026-04-14T20:01:00Z",
+    "duration_s": 2231
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-04-13",
+    "headline": "The Elementary School Building Committee shortlisted Arrowstreet, RGB Architects, and Tappe Architects for interviews for the Neary School feasibility study.",
+    "summary": "The Elementary School Building Committee met to review and score proposals from five design firms competing for the Neary School feasibility study contract. Members compared their scores and discussed firm availability, school design experience, and past project history. The committee voted to advance Arrowstreet, RGB Architects, and Tappe Architects to an interview round scheduled for April 15, 2026.",
+    "topics": [
+      {
+        "title": "Designer selection scoring and shortlisting for Neary School study",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Committee members reviewed their individual evaluation rubrics for five design firms competing to lead the Neary School feasibility study: Arrowstreet, RGB Architects, Socotec Consulting, The Galante Architecture Studio, and Tappe Architects. Members discussed concerns regarding schedule availability, MSBA educational design experience, and firm familiarity with elementary school programming. The committee reached consensus to eliminate Socotec Consulting and The Galante Architecture Studio and advance the other three firms to final interviews.",
+        "key_details": [
+          "Firms evaluated included Arrowstreet, RGB Architects, Socotec Consulting, The Galante Architecture Studio, and Tappe Architects.",
+          "Rubric criteria included schedule and availability, team qualifications and experience, quality of past work and references, and overall proposal quality.",
+          "Members noted Tappe Architects demonstrated strong alignment with the Neary educational plan and experience with school projects recovering from failed votes.",
+          "Concerns were raised regarding Galante's heavy emphasis on public safety buildings rather than schools, and Socotec's focus on building envelope engineering rather than educational planning.",
+          "The committee voted 3-0-1 to advance Arrowstreet, RGB Architects, and Tappe Architects to candidate interviews."
+        ],
+        "outcome": "Arrowstreet, RGB Architects, and Tappe Architects were selected for interviews.",
+        "why_it_matters": "Selecting a design firm is the critical initial step in evaluating building options, renovation plans, and potential costs for the Neary School project.",
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee discussed interview logistics, noting the agenda would be reduced from five interview slots to three. Members planned to designate someone following the interviews to work with town staff to negotiate the designer contract. The meeting adjourned by roll call vote.",
+        "key_details": [
+          "Interview times will be adjusted for the three shortlisted firms.",
+          "Contract negotiations will be coordinated with procurement and administration staff after selection.",
+          "The committee adjourned following a unanimous roll call vote."
+        ],
+        "outcome": "The meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 2110,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Move to advance Arrowstreet, RGB Architects, and Tappe Architects to the interview phase on Wednesday, April 15, 2026.",
+        "result": "passed",
+        "tally": "3-0-1",
+        "start_seconds": 2065
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Architectural firm interviews for the Neary School feasibility study",
+        "when": "April 15, 2026 at 7:00 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:04:28Z",
+  "usage": {
+    "total_tokens": 87959,
+    "total_input_tokens": 86193,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 984
+      },
+      {
+        "modality": "video",
+        "tokens": 85209
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 865,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 901
+  }
+}

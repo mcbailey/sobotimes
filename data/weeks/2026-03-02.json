@@ -1,0 +1,57 @@
+{
+  "headline": "The Municipal Technology Committee voted to back a $25,000 Town Meeting capital request to replace Southborough's aging municipal phone system.",
+  "synopsis": "The Municipal Technology Committee voted unanimously to support a $25,000 capital request for Annual Town Meeting to replace the town's aging on-premise phone system with a cloud-based service. Members also reviewed proposed Industrial Park zoning amendments aimed at creating local guardrails for battery energy storage systems and data centers. In addition, IT staff reported that installation of hybrid meeting room audiovisual equipment is scheduled to begin in late March. The committee also addressed mobile display glitches on the town website and reviewed progress on strategic technology planning surveys.",
+  "highlights": [
+    {
+      "title": "Municipal phone system upgrade request endorsed",
+      "why": "The committee voted 4-0 to support a $25,000 Annual Town Meeting capital request to replace a 15-year-old phone system that suffers from hardware sourcing issues and license limits.",
+      "body": "Municipal Technology Committee",
+      "importance": "high",
+      "video_id": "HukhWGB3_mg",
+      "start_seconds": 258
+    },
+    {
+      "title": "Zoning rules reviewed for battery storage and data centers",
+      "why": "Planning representatives briefed the committee on proposed Town Meeting amendments to update 1980s-era Industrial Park zoning bylaws to regulate battery energy storage and data center facilities.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "HukhWGB3_mg",
+      "start_seconds": 624
+    },
+    {
+      "title": "Hybrid meeting room audiovisual upgrades set for late March",
+      "why": "Staff reported that audiovisual components have been ordered and installation across town meeting spaces will start in late March, taking about two weeks to finish.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "HukhWGB3_mg",
+      "start_seconds": 836
+    },
+    {
+      "title": "Town website mobile formatting and technology surveys reviewed",
+      "why": "After a resident reported that job listings are unreadable on iPhones using mobile Safari, IT staff agreed to consult website vendor CivicPlus while continuing to analyze strategic technology survey responses.",
+      "body": "Municipal Technology Committee",
+      "importance": "low",
+      "video_id": "HukhWGB3_mg",
+      "start_seconds": 1085
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 11, 2026",
+      "body": "Town Meeting"
+    },
+    {
+      "what": "Municipal Technology Committee regular meeting",
+      "when": "April 14, 2026 at 6:30 PM",
+      "body": "Municipal Technology Committee"
+    }
+  ],
+  "week": "2026-03-02",
+  "fingerprint": "a3d300a8be41d712",
+  "video_ids": [
+    "HukhWGB3_mg"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:20:41Z"
+}

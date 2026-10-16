@@ -1,22 +1,100 @@
 {
-  "headline": "The School Committee approved an informational flyer detailing the proposed $8.8 million Trottier Middle School roof project ahead of Town Meeting.",
-  "synopsis": "Southborough municipal meetings in March focused on public outreach for upcoming school capital investments. The School Committee met to finalize informational materials regarding the proposed roof replacement at Trottier Middle School. Members voted 4-0 to approve an edited one-page flyer explaining the $8.8 million funding request to residents ahead of Town Meeting. Discussion centered on clarifying the difference between the gross borrowing authorization required by the state and the town's net cost following Massachusetts School Building Authority reimbursement. The project remains part of the district's capital plan as Southborough awaits final grant determinations.",
+  "headline": "Ahead of Annual Town Meeting, town boards advanced a $73.5 million operating budget, an $8.8 million school roof project, and $25 million in road borrowing.",
+  "synopsis": "Town boards focused heavily in March on preparing financial recommendations and warrant articles for the April 11 Annual Town Meeting. The Advisory Committee voted to recommend a $73.5 million municipal operating budget for FY27, while the Select Board voted 3-2 to support a $25 million multi-year road and sidewalk borrowing package. Multiple town committees endorsed an $8.83 million Trottier Middle School roof replacement supported by state reimbursement, and joint appointments launched the new Elementary School Building Committee for the Neary School. Major zoning articles also advanced, including an overhaul of the Industrial Park district to regulate data centers and an update to state accessory dwelling unit rules. Meanwhile, town officials removed an $820,000 soil cleanup project at the Atwood property from the spring warrant, deferring the request until the fall special town meeting.",
   "top_items": [
     {
-      "title": "Trottier Middle School roof project informational flyer",
-      "why": "The School Committee voted 4-0 to approve an informational flyer explaining the proposed $8.8 million Trottier roof replacement to voters.",
-      "body": "The School Committee reviewed and edited a one-page informational flyer ahead of Town Meeting to outline the condition of the Trottier Middle School roof and the pending funding request. Members emphasized presenting clear distinctions between the gross appropriation required by the Massachusetts School Building Authority and the town's net cost after state grant reimbursement.",
+      "title": "$25 Million Road and Sidewalk Borrowing (Article 13)",
+      "why": "The Select Board voted 3-2 to recommend a 20-year borrowing authorization of up to $25 million to fund a five-year pavement and sidewalk plan.",
+      "body": "Meeting with the Capital Improvement and Planning Committee, the Select Board debated whether to seek authorization for the full 25 million dollar plan or scale down the borrowing. Despite concerns raised about financing routine and preventative road maintenance over a 20-year bond term, the board supported presenting the full borrowing authorization to Town Meeting voters under Article 13.",
       "importance": "high",
-      "video_id": "y4CrPffK4fo",
-      "start_seconds": 105,
+      "video_id": "MBM3fuLLTZA",
+      "start_seconds": 6555,
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    {
+      "title": "FY27 Municipal Operating Budget Recommendation",
+      "why": "The Advisory Committee voted 5-0 to recommend an overall FY27 town budget of $73,455,973 to Town Meeting.",
+      "body": "The Advisory Committee finalized its recommended omnibus budget, representing a 4.64 percent expenditure increase, after removing an $820,000 bond for Atwood site remediation. The Select Board also voted to support the operating budget under Article 6, while the School Committee concluded its public hearing on a $26,114,718 operational budget.",
+      "importance": "high",
+      "video_id": "12My_XciHTw",
+      "start_seconds": 80,
+      "issue": "fy27-operating-budget"
+    },
+    {
+      "title": "Trottier Middle School Roof Replacement (Article 15)",
+      "why": "Town boards unanimously endorsed Article 15 to fund an $8.83 million roof replacement at Trottier Middle School.",
+      "body": "The project is partnered with the Massachusetts School Building Authority's Accelerated Repair Program, which provides a 41.32 percent reimbursement, leaving an estimated net town cost of $5.39 million subject to a Proposition 2 1/2 debt exclusion. The Select Board, Advisory Committee, and Capital Improvement and Planning Committee all voted unanimously to support the article.",
+      "importance": "high",
+      "video_id": "eGWVk9sEbBw",
+      "start_seconds": 2166,
       "issue": "trottier-school-roof-replacement"
+    },
+    {
+      "title": "Neary Feasibility Study and Building Committee Appointments",
+      "why": "Officials launched the Neary School feasibility review by finalizing bid documents and appointing members to an Elementary School Building Committee.",
+      "body": "The School Committee approved a Request for Services targeting up to $15 million in deferred maintenance under Option 2. Following joint candidate interviews, the Select Board and School Committee established the committee charge, with the Select Board appointing Robert Moss, Andrew Pfaff, and Jason Malinowski to the building committee.",
+      "importance": "high",
+      "video_id": "MBM3fuLLTZA",
+      "start_seconds": 374,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Proposed Transition to Appointed Town Clerk",
+      "why": "The Select Board and Advisory Committee voted unanimously to recommend changing the Town Clerk from an elected role to an appointed position.",
+      "body": "Outgoing Town Clerk Jim Hegarty presented the proposal to town boards, pointing to increasing election administration burdens, legal complexity, and the necessity to recruit qualified candidates beyond town borders. Both boards backed the warrant article, sending the measure to Annual Town Meeting.",
+      "importance": "high",
+      "video_id": "4qfPD1Qpccs",
+      "start_seconds": 3310,
+      "issue": "appointed-town-clerk"
+    },
+    {
+      "title": "Industrial Park Zoning Overhaul and Data Center Rules",
+      "why": "The Planning Board advanced Article 17 to modernize 40-year-old Industrial Park zoning and regulate data centers and clean energy.",
+      "body": "The proposed zoning amendments establish enforceable performance standards for noise, odors, and vibrations while setting a 1,000-foot buffer setback from residential and conservation parcels. The proposal also creates a special permit framework for data centers capped at 50,000 square feet, with the Planning Board designated as the special permit granting authority.",
+      "importance": "medium",
+      "video_id": "6s0--zLvHVc",
+      "start_seconds": 316,
+      "issue": "industrial-park-zoning-amendments"
+    },
+    {
+      "title": "Atwood Soil Remediation Postponed to Fall",
+      "why": "Town officials canceled current contractor bids and postponed an estimated $800,000 to $850,000 soil cleanup project to the fall special town meeting.",
+      "body": "Following an Advisory Committee recommendation to delay the remediation request so residents could evaluate future uses for the former water tank site, the Select Board and DPW agreed to cancel active contract bids. The borrowing request was removed from the spring Annual Town Meeting warrant to be re-bid ahead of the fall.",
+      "importance": "medium",
+      "video_id": "eGWVk9sEbBw",
+      "start_seconds": 7222,
+      "issue": "atwood-property-remediation"
     }
   ],
   "month": "2026-03",
-  "fingerprint": "b771c7a537e27aeb",
+  "fingerprint": "8c44269d457f080d",
   "video_ids": [
+    "0P1sB_TDhqU",
+    "12My_XciHTw",
+    "3Wtzigng52g",
+    "4qfPD1Qpccs",
+    "5t7mI7e3Mlk",
+    "68vtg6_LvIU",
+    "6s0--zLvHVc",
+    "92IH_XzKPio",
+    "9wWw5PxEqGQ",
+    "AOOUdTedaXQ",
+    "DdzxtcAtpew",
+    "HukhWGB3_mg",
+    "MBM3fuLLTZA",
+    "MH85yg5K1Mk",
+    "NKExd-6grWk",
+    "OgThwJ-ZbEA",
+    "_0nA-AHsRQA",
+    "_FIcnoGcikQ",
+    "eGWVk9sEbBw",
+    "emRyskob8kg",
+    "jsPdqzDxTWg",
+    "mgWw2EVBdVI",
+    "oG4b8H-IoeM",
+    "uupnzKNv2Mo",
     "y4CrPffK4fo"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:33:14Z"
+  "generated_at": "2026-10-16T19:03:48Z"
 }

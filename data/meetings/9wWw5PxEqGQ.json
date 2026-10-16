@@ -1,0 +1,127 @@
+{
+  "video": {
+    "id": "9wWw5PxEqGQ",
+    "title": "Advisory Committee 3/25/26",
+    "published_at": "2026-03-26T19:14:08Z",
+    "duration_s": 4694
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Advisory Committee",
+    "meeting_date": "2026-03-25",
+    "headline": "The Advisory Committee recommended four Town Meeting warrant articles, held proposals on industrial zoning and ADUs, and reviewed its draft Town Meeting report.",
+    "summary": "The Advisory Committee met to review outstanding warrant articles for the upcoming 2026 Annual Town Meeting, hearing a presentation from the Planning Board on industrial park zoning, MBTA communities corrections, and housing trust language updates. The committee voted 6-0 to recommend approval of articles concerning the Willow Street easement, Affordable Housing Trust terminology, MBTA zoning table corrections, and temporary Tricentennial banner signs. Members decided to hold articles on industrial zoning overhauls, accessory dwelling units, and citizen petitions for further discussion at their next meeting. The committee also refined its draft advisory report covering the FY27 operating budget and municipal health insurance initiatives.",
+    "topics": [
+      {
+        "title": "Planning Board zoning warrant articles presentation",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Planning Board Vice Chair Marnie Hoolahan presented proposed zoning bylaw amendments heading to Town Meeting. Key discussions focused on Article 17, which overhauls the outdated Industrial Park district regulations, establishes performance standards for noise, vibration, and odors, and institutes a 1,000-foot buffer setback from residential and conservation land for data centers and clean energy infrastructure. The board also reviewed administrative updates to replace references to the dissolved SHOPC committee with the Southborough Affordable Housing Trust and to fix transcription errors in the MBTA Communities zoning table.",
+        "key_details": [
+          "Article 17 modernizes Industrial Park zoning rules untouched for roughly 40 years, capping uses by right at 50,000 square feet.",
+          "Data centers and small clean energy infrastructure would require a 1,000-foot setback from residential abutter boundaries and conservation land.",
+          "Article 17 prohibits biological agents at biosafety levels 3 and 4 as well as chemical warfare materials.",
+          "Article 30 replaces outdated Southborough Opportunity Partnership Committee (SHOPC) references with the Southborough Affordable Housing Trust (SAHT).",
+          "Article 31 corrects transcription errors in the MBTA Communities overlay dimensional table by removing or and percentage signs."
+        ],
+        "outcome": "Discussion completed; the committee deferred action on Article 17 and took up the remaining articles for formal votes later in the meeting.",
+        "why_it_matters": "The industrial park overhaul significantly restricts where large facilities like data centers and battery storage can locate relative to residential neighborhoods and establishes strict noise and emission standards.",
+        "start_seconds": 162,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant articles review and recommendations",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The committee deliberated on several pending warrant articles and voted on four non-controversial proposals. Members expressed hesitation over a Zoning Board of Appeals proposal (Article 29) to allow accessory dwelling units (ADUs) up to 1,200 square feet by right, noting concerns about creating large secondary homes on residential lots, and agreed to invite the ZBA to discuss it. The committee also decided to hold the industrial park zoning article and two citizen petitions until its March 30 meeting.",
+        "key_details": [
+          "Voted 6-0 to recommend approval of Article 27 (Willow Street easements by donation), Article 30 (SAHT terminology), Article 31 (MBTA table correction), and Article 32 (Tricentennial banner signage).",
+          "Article 27 language was revised to ensure easements are acquired solely through donation rather than borrowing or purchase.",
+          "Article 29 would expand ADUs up to 1,200 square feet by right without requiring a special permit, compared to the state baseline of 900 square feet.",
+          "Article 17 (Industrial Park) was held so members can review the full text before taking a final position.",
+          "Article 35 (citizen petition for a separate Finance Committee) and Article 36 (citizen petition banning non-reusable plastic bags) were held for further discussion."
+        ],
+        "outcome": "Articles 27, 30, 31, and 32 recommended for approval (6-0). Articles 17, 29, 35, and 36 were held.",
+        "why_it_matters": "Warrant article recommendations directly guide voters at Annual Town Meeting on local land use regulations, easements, and town bylaws.",
+        "start_seconds": 2500,
+        "end_seconds": null
+      },
+      {
+        "title": "Draft Advisory Committee report for Annual Town Meeting",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Members reviewed the working draft of the Advisory Committee report that will be distributed to residents for the 2026 Annual Town Meeting. The discussion highlighted the recommended FY27 operating budget of $71,415,873, representing an estimated 4.64 percent tax bill increase for an average single-family home. The committee also discussed commentary on municipal health plan changes, noting that shifting to a high-deductible health plan with a Health Savings Account could save the town up to $750,000 annually, while emphasizing long-term OPEB liabilities and benefit contribution split ratios.",
+        "key_details": [
+          "FY27 recommended operating budget totals $71,415,873, representing a 4.64 percent tax impact on average single-family parcels.",
+          "The committee noted its prior recommendation to remove Atwood Street remediation funding from the FY27 capital plan pending a designated municipal purpose.",
+          "A proposed high-deductible health plan with Health Savings Accounts could produce annual savings between $70,000 and $750,000 depending on employee enrollment.",
+          "Members raised concerns regarding the town's current 75/25 premium split and growing other post-employment benefits (OPEB) liabilities.",
+          "A comment will be included regarding school technology capital items and transitioning recurring hardware updates into the operating budget."
+        ],
+        "outcome": "Members will submit revisions to the chair to update article numbers, reflect recent votes, and finalize the draft.",
+        "why_it_matters": null,
+        "start_seconds": 3681,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee scheduled its next meeting, postponed action on meeting minutes, and adjourned.",
+        "key_details": [
+          "The committee scheduled its next meeting for Monday, March 30, 2026, at 7:30 PM to meet with invited sponsors and finish warrant article deliberations.",
+          "Approval of recent meeting minutes was deferred to the March 30 meeting to allow members time to review drafts.",
+          "The meeting adjourned at approximately 8:50 PM."
+        ],
+        "outcome": "Meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 4500,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend approval of Article 27 (Willow Street Easements), Article 30 (Zoning Bylaw SHOPC to SAHT), Article 31 (MBTA Communities Table Correction), and Article 32 (Tricentennial Banner Signage).",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 3100
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident informed the committee that the Select Board withdrew the warrant article proposing to change the town clerk from an elected to an appointed position due to a 60-day election window requirement, noting the proposal is expected to return at the fall Special Town Meeting.",
+        "start_seconds": 4068
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Advisory Committee meeting to finalize warrant article votes and report draft with invited sponsors (ZBA and Jack Barron)",
+        "when": "March 30, 2026 at 7:30 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T17:38:10Z",
+  "usage": {
+    "total_tokens": 184191,
+    "total_input_tokens": 180298,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 983
+      },
+      {
+        "modality": "video",
+        "tokens": 179315
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1918,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1975
+  }
+}

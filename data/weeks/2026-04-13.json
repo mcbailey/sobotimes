@@ -1,0 +1,92 @@
+{
+  "headline": "Southborough boards advanced the Neary School feasibility study, closed hearings on a 32-unit housing development, and addressed commercial zoning compliance issues.",
+  "synopsis": "The Elementary School Building Committee selected Tappe Architects to negotiate a contract for the Neary School feasibility study following candidate interviews. The Zoning Board of Appeals concluded the public hearing for a 32-unit Chapter 40B rental townhome proposal at 250 Turnpike Road, with deliberations set for May. Planning Board members raised concerns over zoning enforcement after learning building permits and certificates of occupancy were issued at 200 Turnpike Road without required site plan compliance. Additionally, the Recreation Commission weighed redesign options for Fay Memorial Park ahead of public outreach, and the Municipal Technology Committee reviewed survey trends showing dissatisfaction with the town website.",
+  "highlights": [
+    {
+      "title": "Architect selected for Neary School feasibility study",
+      "why": "Following interviews with three finalists, the Elementary School Building Committee voted unanimously to advance Tappe Architects to contract negotiations. The firm will evaluate repair and renovation options for Neary School ahead of upcoming town meetings.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "mFq2QvESulQ",
+      "start_seconds": 7700
+    },
+    {
+      "title": "Public hearing closed for 32-unit Turnpike Road housing proposal",
+      "why": "The Zoning Board of Appeals concluded the public hearing on a Chapter 40B comprehensive permit for 32 rental townhomes at 250 Turnpike Road. The board will deliberate conditions and draft a formal decision in early May.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "igJUFW_ilpo",
+      "start_seconds": 1838
+    },
+    {
+      "title": "Zoning enforcement breakdown addressed at 200 Turnpike Road",
+      "why": "The Planning Board discussed commercial operations at 200 Turnpike Road that received building permits and occupancy without required board approvals or certified as-built plans. Members called for a joint workshop with the building commissioner and town administration to align on enforcement procedures.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "zhyOV9gRS8Q",
+      "start_seconds": 6202
+    },
+    {
+      "title": "Survey shows resident frustration with town web services",
+      "why": "Multi-year survey data showed technology satisfaction dropped in 2025, driven by poor marks for the municipal website and meeting access. Email remains the preferred channel for 79 percent of responding residents.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "Mz0Xz-uwges",
+      "start_seconds": 2045
+    },
+    {
+      "title": "Fay Memorial Park redesign options and splash pad plans reviewed",
+      "why": "Commissioners evaluated revised concept plans that scale down a proposed splash pad to 2,250 square feet and considered adjustments to parking and fencing. Public feedback will be gathered at community events leading up to a May 20 public forum.",
+      "body": "Recreation Commission",
+      "importance": "medium",
+      "video_id": "OgJvJPAuw7E",
+      "start_seconds": 533
+    },
+    {
+      "title": "Townwide salary classification study approved",
+      "why": "The Personnel Board approved a scope of services to solicit quotes for an evaluation of municipal positions and compensation benchmarks funded by Free Cash. The board aims to bring resulting recommendations to the 2027 Annual Town Meeting.",
+      "body": "Personnel Board",
+      "importance": "medium",
+      "video_id": "_UvIRwZM3eg",
+      "start_seconds": 755
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Planning Board discussion on site plan modification for Fayville Hall at 40-42 Central Street and hearing for 22 Turnpike Road",
+      "when": "April 27, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Filing deadline for state One Stop grant application for Master Plan consultant funding",
+      "when": "April 30, 2026",
+      "body": "Master Plan Implementation Committee"
+    },
+    {
+      "what": "Deliberations and decision drafting on 250 Turnpike Road Chapter 40B permit",
+      "when": "May 6, 2026",
+      "body": "Zoning Board of Appeals"
+    },
+    {
+      "what": "Public engagement forum on Fay Memorial Park schematic designs",
+      "when": "May 20, 2026",
+      "body": "Recreation Commission"
+    }
+  ],
+  "week": "2026-04-13",
+  "fingerprint": "82947e4346f58808",
+  "video_ids": [
+    "78YAzZD8fYM",
+    "Mz0Xz-uwges",
+    "OgJvJPAuw7E",
+    "_UvIRwZM3eg",
+    "bsfT_oIHCRY",
+    "igJUFW_ilpo",
+    "mFq2QvESulQ",
+    "uzARxOEZKLY",
+    "yXe5DKqRaCw",
+    "zhyOV9gRS8Q"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T18:18:00Z"
+}

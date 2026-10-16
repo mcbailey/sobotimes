@@ -1,7 +1,67 @@
 {
   "week": "2026-03-30",
-  "fingerprint": "b493bb91ab42de40",
+  "fingerprint": "4434983f8d29ef90",
   "topics": {
+    "3JDB7DRAYlg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "3JDB7DRAYlg#1": {
+      "issue": "lynbrook-road-water-main-rehabilitation",
+      "category": "Roads, water & infrastructure"
+    },
+    "3JDB7DRAYlg#2": {
+      "issue": "plastic-bag-ban-bylaw",
+      "category": "Environment & conservation"
+    },
+    "3JDB7DRAYlg#3": {
+      "issue": "northborough-road-chapter-61a-parcel",
+      "category": "Housing"
+    },
+    "3JDB7DRAYlg#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "3JDB7DRAYlg#5": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "3JDB7DRAYlg#6": {
+      "issue": "conservation-land-use-regulations",
+      "category": "Environment & conservation"
+    },
+    "3JDB7DRAYlg#7": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "AOOUdTedaXQ#0": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "AOOUdTedaXQ#1": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "AOOUdTedaXQ#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "MBM3fuLLTZA#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "MBM3fuLLTZA#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "MBM3fuLLTZA#2": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
+    },
+    "MBM3fuLLTZA#3": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
     "qYAkzbUTmaY#0": {
       "issue": "neary-school-building-project",
       "category": "Schools"
@@ -12,11 +72,64 @@
     }
   },
   "votes": {
+    "3JDB7DRAYlg#v0": {
+      "issue": "lynbrook-road-water-main-rehabilitation"
+    },
+    "3JDB7DRAYlg#v1": {
+      "issue": "lynbrook-road-water-main-rehabilitation"
+    },
+    "AOOUdTedaXQ#v0": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "MBM3fuLLTZA#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "MBM3fuLLTZA#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "MBM3fuLLTZA#v2": {
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "MBM3fuLLTZA#v3": {
+      "issue": null
+    },
+    "MBM3fuLLTZA#v4": {
+      "issue": null
+    },
     "qYAkzbUTmaY#v0": {
       "issue": "neary-school-building-project"
     }
   },
-  "upcoming": {},
+  "upcoming": {
+    "3JDB7DRAYlg#u0": {
+      "date": null,
+      "issue": "conservation-land-use-regulations"
+    },
+    "3JDB7DRAYlg#u1": {
+      "date": null,
+      "issue": "250-turnpike-road"
+    },
+    "AOOUdTedaXQ#u0": {
+      "date": "2026-04-11",
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "AOOUdTedaXQ#u1": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "AOOUdTedaXQ#u2": {
+      "date": "2026-05-12",
+      "issue": null
+    },
+    "MBM3fuLLTZA#u0": {
+      "date": "2026-04-02",
+      "issue": "neary-school-building-project"
+    },
+    "MBM3fuLLTZA#u1": {
+      "date": "2026-04-07",
+      "issue": null
+    }
+  },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:08:12Z"
+  "generated_at": "2026-10-16T18:32:55Z"
 }

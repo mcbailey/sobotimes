@@ -1,0 +1,357 @@
+{
+  "video": {
+    "id": "4qfPD1Qpccs",
+    "title": "Select Board Meeting 3/10/26",
+    "published_at": "2026-03-11T13:57:32Z",
+    "duration_s": 11368
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-03-10",
+    "headline": "The Select Board voted to support changing the Town Clerk position to appointed and advanced multiple Annual Town Meeting warrant articles.",
+    "summary": "Meeting jointly with the Advisory Committee to review the draft warrant for the April 11 Annual Town Meeting, the Select Board voted on several funding, governance, and zoning articles. The board voted unanimously to support making the Town Clerk an appointed position rather than an elected one, pending town election ballot approval, and endorsed a home rule petition for an all-alcohol license for Costco. The board also conditionally endorsed an FY27 operating budget increase of 4.88%, while deferring votes on major capital borrowing for roads, school roofs, and industrial park zoning changes to March 17.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved open session minutes from February 24, 2026, as amended. One member questioned whether open staff positions should be filled during municipal budget constraints, but the board voted 4-1 to approve two staff appointments.",
+        "key_details": [
+          "Approved February 24, 2026 open session meeting minutes with a one-word typographical correction.",
+          "Appointed the Select Board Executive Assistant in a 4-1 vote.",
+          "Appointed the Senior Center Program Manager in a 4-1 vote."
+        ],
+        "outcome": "Minutes approved; appointments approved 4-1.",
+        "why_it_matters": null,
+        "start_seconds": 608,
+        "end_seconds": null
+      },
+      {
+        "title": "Budget preview and free cash allocation",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Finance staff presented minor updates to the FY27 revenue cap and proposed capital funding from free cash. Four capital purchases totaling approximately $700,000, including police vehicles and Department of Public Works trucks, were proposed to be funded via free cash to allow ordering before the start of the fiscal year.",
+        "key_details": [
+          "Levy capacity increased by approximately $9,000.",
+          "A $28,000 budget addition for contractual stipends was offset by the ambulance fund.",
+          "Approximately $700,000 in capital purchases proposed from free cash to expedite vehicle orders, including two large DPW trucks totaling $262,000 and four police cruisers.",
+          "Roughly $9,000 in unspent funds from old articles will return to the general fund."
+        ],
+        "outcome": "Informational update discussed jointly with the Advisory Committee.",
+        "why_it_matters": "Using free cash for municipal vehicle purchases avoids long-term borrowing costs and allows departments to place vehicle orders before the fiscal year begins.",
+        "start_seconds": 937,
+        "end_seconds": null
+      },
+      {
+        "title": "Salary Administration Plan bylaw amendments (Article 4)",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The Capital Planning Committee chair presented the Personnel Board's proposed amendments to the Salary Administration Plan. The article updates the non-union salary grid and adjusts acting department head compensation.",
+        "key_details": [
+          "Includes a 3% cost-of-living adjustment and up to a 2% step increase based on satisfactory performance.",
+          "Adds stipends for certified accountant, records access officer, and registered sanitarian.",
+          "Includes a $4,000 stipend for the administrative cemetery agent.",
+          "Increases the temporary pay boost for employees serving as acting department heads from 10% up to 25%, capped at the departing incumbent's pay rate."
+        ],
+        "outcome": "Board voted to support Article 4 as part of a grouped warrant vote.",
+        "why_it_matters": null,
+        "start_seconds": 1134,
+        "end_seconds": null
+      },
+      {
+        "title": "Capital requests and facilities van funding",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The board and the Advisory Committee reviewed non-borrowing capital items, the capital plan, and an unexpected emergency vehicle replacement for the Facilities Department. To avoid adding the van to the Annual Town Meeting warrant, the Advisory Committee conducted an informal straw poll supporting a future reserve fund transfer.",
+        "key_details": [
+          "Facilities Department van condemned unexpectedly; replacement cost estimated at $70,000 to $71,000.",
+          "Advisory Committee took an affirmative straw poll to fund the van via a reserve fund transfer, leaving about $110,000 in the reserve fund.",
+          "Removing the van from the warrant reduces the FY27 levy burden.",
+          "Fire Department personal protective equipment ($40,000 from ambulance fund) will be reinserted into Article 9."
+        ],
+        "outcome": "Facilities van removed from draft capital warrant article; Advisory Committee to consider reserve fund transfer at a subsequent meeting.",
+        "why_it_matters": "Funding emergency vehicle replacements out of the existing reserve fund avoids raising the FY27 property tax levy.",
+        "start_seconds": 1680,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 25: Appointed Town Clerk proposal",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Town Clerk Jim Hegarty presented a proposal to convert the Town Clerk position from an elected role to an appointed one. Hegarty cited increasing statutory complexity, election administration burdens, and the need to recruit from a qualified professional pool outside of town residents.",
+        "key_details": [
+          "Conversion requires approval by Annual Town Meeting and a majority vote on the annual town election ballot.",
+          "Hegarty noted over 400 sections of Massachusetts General Laws govern the office.",
+          "About one-third of Massachusetts towns currently have appointed clerks, with the statewide trend moving toward appointment.",
+          "Appointment authority would default to the Select Board."
+        ],
+        "outcome": "Select Board voted 5-0 to support Article 25 on the Town Meeting warrant.",
+        "why_it_matters": "If passed at Town Meeting and approved on the May town ballot, Southborough voters will no longer elect the Town Clerk, making the position an appointed professional staff role.",
+        "start_seconds": 3310,
+        "end_seconds": null
+      },
+      {
+        "title": "Community Preservation Committee appropriations (Article 22)",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Community Preservation Committee Chair Lisa Braccio presented Article 22, covering annual CPA statutory allocations and $29,000 in administrative expenses. Board members questioned why 18 older CPA projects remain open; Braccio explained that projects cannot be closed until required statutory CPC signage is installed.",
+        "key_details": [
+          "Annual CPA allocations include statutory reserves for open space, historic resources, and community housing.",
+          "Estimated state match for FY26 is roughly 15%, bringing in $65,000 to $70,000 in state funds.",
+          "18 open projects totaling approximately $79,000 remain open primarily pending signage installation.",
+          "Members recommended consolidating and standardizing signs to close out legacy projects faster."
+        ],
+        "outcome": "Select Board voted 4-0-1 to support Article 22, with one member abstaining.",
+        "why_it_matters": "Approving CPA appropriations allocates local tax surcharges and state matching funds toward open space, historic preservation, and community housing projects.",
+        "start_seconds": 4069,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 operating budget endorsement (Article 6)",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The Select Board voted to tentatively endorse the FY27 operating budget contained in the draft warrant. Board members noted that final union contract numbers and healthcare figures are still pending and could prompt a revised vote.",
+        "key_details": [
+          "The proposed FY27 operating budget represents a 4.88% year-over-year increase.",
+          "The budget leaves a positive levy balance of $414,000.",
+          "A final vote will be taken on March 17 before the warrant goes to print."
+        ],
+        "outcome": "Select Board voted 3-1-1 to support Article 6 (one member opposed, one abstaining).",
+        "why_it_matters": "The operating budget funds municipal departments, public safety, and public schools for the upcoming fiscal year.",
+        "start_seconds": 5840,
+        "end_seconds": null
+      },
+      {
+        "title": "Warrant article consent block votes",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board bundled and voted on a series of routine annual warrant articles to streamline Town Meeting preparations.",
+        "key_details": [
+          "Articles approved in the block: 1 (PILOT payments), 2 (annual borrowing authorization), 3 (contracts over 3 years), 4 (Salary Administration Plan), 8 (OPEB Trust Fund), 15 (capital leases), 17 (retiree accrued leave), 18 (facilities maintenance fund), 19 (recreation maintenance fund), 20 (revolving funds), 23 (CPA adjustments), and 26 (dog kennel bylaw definition).",
+          "The board passed the combined motion unanimously."
+        ],
+        "outcome": "Articles 1, 2, 3, 4, 8, 15, 17, 18, 19, 20, 23, and 26 approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 6890,
+        "end_seconds": null
+      },
+      {
+        "title": "Water Enterprise budget and capital items (Articles 7, 10, 11)",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The board voted on Water Department warrant articles, including the operating budget, non-borrowing capital improvements, and a 0% interest loan authorization for main looping.",
+        "key_details": [
+          "Article 7 (Water Enterprise operating budget) approved 4-1-0.",
+          "Article 10 (Water capital budget: smart meters, tank RFP, main improvements) approved 5-0.",
+          "Article 11 (0% interest loan borrowing for Presidential and Fisher main looping) approved 4-1-0."
+        ],
+        "outcome": "Articles 7 and 11 passed 4-1-0; Article 10 passed 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 7188,
+        "end_seconds": null
+      },
+      {
+        "title": "Capital borrowing and major road projects (Article 12)",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The board discussed Article 12 capital borrowing, focusing on significant borrowing for roads and sidewalks and school security and technology. Members agreed that major multi-million dollar road and sidewalk work should be separated into its own warrant article subject to a debt exclusion vote.",
+        "key_details": [
+          "Roads and sidewalk borrowing involves major long-term debt and will be split from general capital borrowing.",
+          "School security and technology upgrades will be adjusted in the draft to clarify that they cover multiple schools, not just Trottier.",
+          "Atwood site remediation ($820,000) will be addressed separately once details are finalized."
+        ],
+        "outcome": "Vote held until the March 17 meeting to allow warrant text and article restructuring.",
+        "why_it_matters": "Major road and sidewalk projects represent significant long-term borrowing that would require town election ballot approval under a debt exclusion.",
+        "start_seconds": 7520,
+        "end_seconds": null
+      },
+      {
+        "title": "Insurance deductible bylaw change (Article 16)",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed Article 16, which authorizes funding for municipal insurance deductibles. Rather than continuing to present a $30,000 standalone warrant article each year, the board agreed to eliminate the article and fold the expense into the regular operating budget under benefits/insurance.",
+        "key_details": [
+          "Town currently maintains a standalone warrant article for $30,000 to cover property and auto deductibles.",
+          "Current balance in the fund is approximately $2,500 after paying claims this year.",
+          "Board reached consensus to remove Article 16 and absorb the deductible funding into the operating budget."
+        ],
+        "outcome": "Board agreed to remove Article 16 from the warrant.",
+        "why_it_matters": null,
+        "start_seconds": 8098,
+        "end_seconds": null
+      },
+      {
+        "title": "Home rule petition for Costco liquor license (Article 21)",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The Select Board voted to support a home rule petition requesting state legislative authorization for an additional all-alcohol package store license for Costco.",
+        "key_details": [
+          "The article authorizes the Select Board to petition the General Court for special legislation.",
+          "Follows town approval of the Costco development project."
+        ],
+        "outcome": "Select Board voted 5-0 to support Article 21.",
+        "why_it_matters": null,
+        "start_seconds": 8473,
+        "end_seconds": null
+      },
+      {
+        "title": "Tax payment agreements and license withholding bylaws (Articles 29 and 30)",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The board considered accepting state statutes allowing the town treasurer to enter into formal payment plans for delinquent taxes and to withhold municipal permits from entities with unpaid local taxes. The board approved the payment agreement article but held the permit withholding article for further study.",
+        "key_details": [
+          "Article 29 allows the treasurer to establish tax payment agreements and waive up to 50% of accrued interest.",
+          "About 30 tax liens are currently active in town.",
+          "Article 30 would authorize denying or revoking municipal permits and licenses for delinquent taxpayers; held over member concerns regarding scope."
+        ],
+        "outcome": "Article 29 supported 5-0; Article 30 held until March 17.",
+        "why_it_matters": null,
+        "start_seconds": 9150,
+        "end_seconds": null
+      },
+      {
+        "title": "Zoning bylaw amendments (Articles 31-35)",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed proposed zoning changes from the Planning Board, including updates for Accessory Dwelling Units to comply with state law, corrections to the MBTA zoning overlay, and major revisions to the Industrial Park District. The Industrial Park District article introduces regulations and special permit requirements for data centers and battery energy storage systems.",
+        "key_details": [
+          "Article 31 updates ADU bylaws to conform to state law (allowing ADUs up to 1,200 square feet by right); approved 5-0.",
+          "Articles 33, 34, and 35 (Shopsy definition update, MBTA zoning correction, and temporary banners) approved 5-0.",
+          "Article 32 updates allowed uses in the Industrial Park District, adding performance standards and special permit requirements for data centers and battery storage systems; held until March 17.",
+          "The board agreed to move the Industrial Park and Costco liquor license articles earlier in the Town Meeting warrant order."
+        ],
+        "outcome": "Articles 31, 33, 34, and 35 supported 5-0; Article 32 held for further review.",
+        "why_it_matters": "Zoning changes determine where data centers and battery storage systems can be built and ensure local rules align with state housing mandates for accessory apartments.",
+        "start_seconds": 9780,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint the Select Board Executive Assistant.",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 726
+      },
+      {
+        "motion": "Appoint the Senior Center Program Manager.",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 742
+      },
+      {
+        "motion": "Support Article 25 (changing Town Clerk from elected to appointed) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4025
+      },
+      {
+        "motion": "Support Article 22 (Community Preservation Committee appropriations) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "4-0-1",
+        "start_seconds": 5725
+      },
+      {
+        "motion": "Support the operating budget (Article 6) in the warrant reflecting a 4.88% increase and a $414,000 positive levy balance.",
+        "result": "passed",
+        "tally": "3-1-1",
+        "start_seconds": 5981
+      },
+      {
+        "motion": "Support Articles 1, 2, 3, 4, 8, 15, 17, 18, 19, 20, 23, and 26 on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 7094
+      },
+      {
+        "motion": "Support Article 7 (Water Enterprise Fund operating budget) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "4-1-0",
+        "start_seconds": 7269
+      },
+      {
+        "motion": "Support Article 10 (Water capital budget non-borrowing) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 7479
+      },
+      {
+        "motion": "Support Article 11 (water main looping borrowing authorization) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "4-1-0",
+        "start_seconds": 7515
+      },
+      {
+        "motion": "Support Article 13 (pay and classification study) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 7993
+      },
+      {
+        "motion": "Support Article 21 (all-alcohol license home rule petition for Costco) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 8488
+      },
+      {
+        "motion": "Support Article 29 (tax payment agreements) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 9443
+      },
+      {
+        "motion": "Support Articles 33, 34, and 35 on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 9906
+      },
+      {
+        "motion": "Support Article 31 (Accessory Dwelling Units zoning amendment) on the Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 10006
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident and Advisory Committee member spoke regarding Article 32, explaining the history of drafting the data center regulations, the environmental and power impacts of modern data centers, and why special permit oversight in the Industrial Park District is necessary.",
+        "start_seconds": 10370
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Select Board meeting to finalize warrant language, vote on held articles, and sign the Annual Town Meeting warrant",
+        "when": "March 17, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T18:12:59Z",
+  "usage": {
+    "total_tokens": 442094,
+    "total_input_tokens": 435185,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 434202
+      },
+      {
+        "modality": "text",
+        "tokens": 983
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4892,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2017
+  }
+}

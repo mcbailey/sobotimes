@@ -1,6 +1,6 @@
 {
   "week": "2026-10-12",
-  "fingerprint": "425956300ad3a728",
+  "fingerprint": "643d48c9e4d8eb12",
   "topics": {
     "BTBCj00PeQw#0": {
       "issue": null,
@@ -15,8 +15,20 @@
       "category": "Environment & conservation"
     },
     "BTBCj00PeQw#3": {
-      "issue": "fy28-operating-budget",
+      "issue": null,
       "category": "Budget & taxes"
+    },
+    "QdzU1T7dKiU#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QdzU1T7dKiU#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QdzU1T7dKiU#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
     },
     "VZd0rZYyRHI#0": {
       "issue": null,
@@ -48,7 +60,7 @@
     },
     "VZd0rZYyRHI#7": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "VZd0rZYyRHI#8": {
       "issue": "tricentennial-heritage-day-parade",
@@ -104,7 +116,7 @@
     },
     "XWT8M6ozUrU#9": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "XWT8M6ozUrU#10": {
       "issue": null,
@@ -129,7 +141,7 @@
   "upcoming": {
     "BTBCj00PeQw#u0": {
       "date": "2026-10-20",
-      "issue": "fy28-operating-budget"
+      "issue": null
     },
     "BTBCj00PeQw#u1": {
       "date": "2026-11-17",
@@ -138,6 +150,22 @@
     "BTBCj00PeQw#u2": {
       "date": "2026-12-15",
       "issue": null
+    },
+    "QdzU1T7dKiU#u0": {
+      "date": "2026-10-21",
+      "issue": "neary-school-building-project"
+    },
+    "QdzU1T7dKiU#u1": {
+      "date": "2026-11-12",
+      "issue": "neary-school-building-project"
+    },
+    "QdzU1T7dKiU#u2": {
+      "date": "2026-11-17",
+      "issue": "neary-school-building-project"
+    },
+    "QdzU1T7dKiU#u3": {
+      "date": null,
+      "issue": "neary-school-building-project"
     },
     "VZd0rZYyRHI#u0": {
       "date": "2026-10-18",
@@ -165,7 +193,7 @@
     },
     "XB-8MuC8GBo#u0": {
       "date": "2026-10-17",
-      "issue": null
+      "issue": "southborough-golf-club-irrigation"
     },
     "XB-8MuC8GBo#u1": {
       "date": "2026-10-17",
@@ -197,5 +225,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T11:16:06Z"
+  "generated_at": "2026-10-16T18:43:21Z"
 }

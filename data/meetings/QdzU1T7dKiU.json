@@ -1,0 +1,109 @@
+{
+  "video": {
+    "id": "QdzU1T7dKiU",
+    "title": "Elementary School Building Committee 10/15/26",
+    "published_at": "2026-10-16T12:52:08Z",
+    "duration_s": 5395
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-10-15",
+    "headline": "Architects reported that a $15M Neary School upgrade yields only $5.8M in repairs, prompting members to advance a $38M addition-renovation plan.",
+    "summary": "The Elementary School Building Committee reviewed detailed cost analyses from Tappé Architects comparing a $15 million base repair option with a $38 million addition and renovation plan for Neary Elementary School. Architects demonstrated that after accounting for the ongoing $3 million roof replacement, soft costs, markups, and state-mandated fire suppression and accessibility upgrades, a $15 million appropriation provides only $5.8 million for direct construction. This limited scope excludes major mechanical and HVAC replacements, sitework, and educational program improvements, while failing to qualify for state reimbursement. The committee agreed to hold a brief meeting on October 21, 2026, to formally vote to advance schematic design for the addition and renovation option.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair called the meeting to order and postponed approval of previous meeting minutes to a future session. The meeting adjourned following discussions without any other administrative actions.",
+        "key_details": [
+          "Review of prior meeting minutes was postponed.",
+          "The committee adjourned by roll call vote at the end of the meeting."
+        ],
+        "outcome": "Meeting minutes review postponed to a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School renovation options and cost comparison",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Tappé Architects presented a granular cost analysis of the proposed $15 million upgrade option for Margaret A. Neary Elementary School compared to a $38 million addition and renovation plan. The architects explained that deducting the ongoing $3 million roof replacement, roughly 27 percent in soft costs ($2.53 million), contractor overhead, contingencies, and inflation leaves only about $5.8 million for direct construction line items. Because spending exceeds one-third of the building's value, building codes require full fire sprinkler installation and extensive Americans with Disabilities Act accessibility work, consuming most of that budget. As a result, the $15 million option cannot fund boiler or univent replacements ($4.48 million), flooring, wall painting, kitchen equipment, parking lot paving, or educational enhancements, nor would it qualify for Massachusetts School Building Authority reimbursement.",
+        "key_details": [
+          "A $15 million project budget nets approximately $5.8 million for physical construction after soft costs, markups, and the $3 million roof contract.",
+          "State building codes trigger mandatory whole-building fire sprinklers and ADA accessibility upgrades once renovation spending exceeds 33 percent of assessed value.",
+          "The $15 million scope excludes HVAC and boiler replacement, leaving 40-year-old univents and aging mechanical systems in place.",
+          "Option 3, estimated at approximately $38 million, adds a full-size gym in the courtyard, a secure entrance and administrative suite, and renovates Grade 1 and Grade 4 classrooms.",
+          "Superintendent Greg Martineau confirmed that the School Committee voted that its preferred direction is the addition and renovation plan."
+        ],
+        "outcome": "The committee concluded the $15 million scope fails to address fundamental mechanical or educational needs and focused on advancing the addition and renovation option.",
+        "why_it_matters": "The choice between a basic code upgrade and a comprehensive addition and renovation directly affects town taxpayers, municipal borrowing capacity, and educational facilities for Southborough elementary students.",
+        "start_seconds": 165,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary project timeline and committee next steps",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee reviewed the project schedule leading up to Annual Town Meeting and coordinated upcoming presentations with other municipal boards. Members agreed that Tappé Architects should proceed with developing schematic design drawings, exterior renderings, and detailed budget models for Option 3 while formalizing the data refuting the feasibility of the $15 million option. Because taking a formal vote was not explicitly posted on the night's agenda, the committee scheduled a brief session for the following week to formally vote on authorizing the architects' scope of work.",
+        "key_details": [
+          "A special meeting was scheduled for Wednesday, October 21, 2026, to hold a formal vote directing the architects.",
+          "Tappé Architects will present refined schematic designs, floor plans, and perspective renderings on November 12, 2026.",
+          "A joint presentation with the Select Board, Advisory Committee, and Capital Planning Committee is tentatively targeted for mid-November 2026.",
+          "Final schematic design documents and cost estimates are targeted for completion by mid-December 2026.",
+          "Architects will engage directly with town department heads regarding recreation, conservation, and building code considerations."
+        ],
+        "outcome": "The committee scheduled a meeting for October 21, 2026, to take a formal vote on design directives and set its next major design review for November 12, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 3270,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special meeting to formally vote on advancing schematic design for Option 3 and finalizing upgrade option analysis",
+        "when": "October 21, 2026"
+      },
+      {
+        "what": "Elementary School Building Committee meeting to review schematic design drawings and renderings",
+        "when": "November 12, 2026"
+      },
+      {
+        "what": "Joint meeting and project presentation with Select Board, Advisory Committee, and Capital Planning Committee",
+        "when": "November 17, 2026"
+      },
+      {
+        "what": "Target deadline for completed schematic design package",
+        "when": "mid-December 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T16:55:02Z",
+  "usage": {
+    "total_tokens": 211083,
+    "total_input_tokens": 207077,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 986
+      },
+      {
+        "modality": "video",
+        "tokens": 206091
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1449,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2557
+  }
+}

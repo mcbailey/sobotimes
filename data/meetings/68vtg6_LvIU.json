@@ -1,0 +1,107 @@
+{
+  "video": {
+    "id": "68vtg6_LvIU",
+    "title": "Capital Improvement & Planning Committee (CIPC) 3/9/26",
+    "published_at": "2026-03-10T14:03:34Z",
+    "duration_s": 1450
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Capital Improvement and Planning Committee",
+    "meeting_date": "2026-03-09",
+    "headline": "The Capital Improvement and Planning Committee approved a $75,000 emergency van replacement and reviewed major warrant articles including a $25 million road bond.",
+    "summary": "The committee voted unanimously to add a $75,000 emergency replacement van for the Facilities Department to the FY27 capital plan. Members also reviewed the overall FY27 capital landscape, including a proposed $25 million multi-year borrowing authorization for town roads and sidewalks. Additionally, officials discussed an estimated $900,000 borrowing article for site remediation at the Atwood property and agreed to include committee recommendations directly in the annual Town Meeting warrant.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair opened the meeting and announced that committee member Tony has resigned due to scheduling constraints, leaving four members on the committee. Members divided responsibility for drafting pending minutes from January 5 and January 12 before moving into substantive business.",
+        "key_details": [
+          "A committee vacancy will be advertised through the Select Board office.",
+          "Members assigned minutes from January 5 and January 12 for preparation."
+        ],
+        "outcome": "Meeting opened and minutes drafting assigned.",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 Facilities Department replacement van",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Facilities Director John Parent presented an emergency request to purchase a replacement van for $75,000 in FY27 after the current vehicle was taken out of service for safety reasons. The department is currently renting a vehicle and working out of storage totes, as the specialized van serves as their mobile tool shop. The committee voted to add the request to the capital plan on the condition that it does not displace previously recommended capital items.",
+        "key_details": [
+          "Requested amount is $75,000 for a replacement facilities van.",
+          "The current van was declared unsafe to drive and removed from service.",
+          "Town administration confirmed the van is included as an emergency addition without displacing other items such as DPW overhead doors.",
+          "The motion requires the committee to reprioritize the entire plan if funding conflicts arise."
+        ],
+        "outcome": "Approved unanimously 3-0.",
+        "why_it_matters": "Adds $75,000 in vehicle capital spending to the FY27 budget proposal heading to Town Meeting.",
+        "start_seconds": 116,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 capital plan status and Town Meeting warrant review",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee discussed the status of the FY27 capital plan and upcoming articles for the Annual Town Meeting warrant with the town administrator and finance director. Major capital items include a proposed $25 million multi-year road and sidewalk borrowing authorization and an estimated $900,000 borrowing article for Atwood site environmental remediation. The town administrator confirmed the committee can publish its formal recommendations under capital articles in the warrant.",
+        "key_details": [
+          "The proposed road and sidewalk bond authorization is $25 million to be drawn down over five or more years with Select Board approval.",
+          "The Atwood property remediation borrowing is estimated at just under $900,000, aligning with Department of Environmental Protection expectations.",
+          "Police cruiser capital funding was reduced by $50,000 due to private donations.",
+          "Small capital items below the $10,000 threshold and a DPW small tractor were removed from the plan.",
+          "The committee requested a complete side-by-side reconciliation of capital requests before Town Meeting."
+        ],
+        "outcome": "Discussed; administration will include committee recommendations on warrant capital articles and prepare an updated reconciliation.",
+        "why_it_matters": "Shapes major borrowing articles on the Town Meeting warrant, including $25 million for infrastructure and $900,000 for environmental remediation.",
+        "start_seconds": 517,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To accept the Facilities Director request to add the van in the amount of $75,000 to the FY27 capital plan, with the understanding that it will not stand in the way of other already recommended capital requests, and that the committee will reprioritize the plan if that situation arises.",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 503
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting reviewing capital items and draft Town Meeting warrant",
+        "when": "March 10, 2026"
+      },
+      {
+        "what": "Presentation and committee review on Atwood property remediation project details",
+        "when": null
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-16T18:14:37Z",
+  "usage": {
+    "total_tokens": 58595,
+    "total_input_tokens": 56361,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 985
+      },
+      {
+        "modality": "video",
+        "tokens": 55376
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1206,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1028
+  }
+}
