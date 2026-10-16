@@ -353,6 +353,7 @@ def fake_issue_status(prompt: str) -> dict:
         "status": last.get("outcome") or last.get("summary") or "Under discussion.",
         "positions": [{"body": b, "stance": "undecided", "detail": "Discussed it."} for b in boards],
         "next": "",
+        "significance": 4 if "budget" in prompt.lower() else 2,
     }
 
 

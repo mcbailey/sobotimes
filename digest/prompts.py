@@ -22,7 +22,7 @@ PROMPT_VERSION = "2026-10-13b"
 WEEK_PROMPT_VERSION = "2026-10-15"
 LINK_PROMPT_VERSION = "2026-10-16"
 MONTH_PROMPT_VERSION = "2026-10-15"
-ISSUE_PROMPT_VERSION = "2026-10-16"
+ISSUE_PROMPT_VERSION = "2026-10-16b"
 
 CATEGORIES = [
     "Budget & taxes",
@@ -817,6 +817,18 @@ briefly ("now opposes; supported the application in June"). Include residents \
 as "Public comment" when comments on this matter were made, giving the range \
 of views. Leave out boards that only heard updates without forming a view.
 - next: the next scheduled step and its date, or an empty string if none is known.
+- significance: how much the matter affects the town as a whole, 1 to 5, \
+judged by money, reach and lasting effect rather than by how often it comes up:
+  5: town-wide and consequential: the operating budget or tax rate, a major \
+capital or school building project, a large development or 40B, a zoning \
+change or Town Meeting article affecting many residents.
+  4: significant: spending or borrowing in the hundreds of thousands, a \
+town policy or governance change, a contested project involving several boards.
+  3: moderate: a neighborhood-scale project, program or facility, or a \
+modest appropriation.
+  2: minor: one property's permit or variance, routine compliance, details of \
+planning an event or celebration.
+  1: routine: administrative or housekeeping items.
 
 Neutral tone. Facts from the input only: never infer a position that the \
 record doesn't show. Comments listed as "other_comments_at_meeting" may be about \
@@ -852,8 +864,9 @@ ISSUE_SCHEMA = {
             },
         },
         "next": {"type": "string"},
+        "significance": {"type": "integer", "minimum": 1, "maximum": 5},
     },
-    "required": ["status", "positions", "next"],
+    "required": ["status", "positions", "next", "significance"],
 }
 
 
@@ -898,7 +911,11 @@ def clean_issue_status(raw: dict) -> dict:
             positions.append(
                 {"body": _str(p["body"]), "stance": _enum(p.get("stance"), STANCES, "undecided"), "detail": _str(p["detail"])}
             )
-    return {"status": status, "positions": positions, "next": _str(raw.get("next"))}
+    try:
+        significance = min(5, max(1, int(raw.get("significance"))))
+    except (TypeError, ValueError):
+        significance = None
+    return {"status": status, "positions": positions, "next": _str(raw.get("next")), "significance": significance}
 
 
 # --------------------------------------------------------------------------

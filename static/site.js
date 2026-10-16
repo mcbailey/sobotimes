@@ -34,6 +34,8 @@
       });
       if (empty) empty.hidden = shown > 0;
       var filtering = fields.some(function (el) { return el.value.trim(); });
+      // Open folded lists while filtering so matches in them show.
+      scope.querySelectorAll("details").forEach(function (d) { if (filtering) d.open = true; });
       if (count) count.textContent = filtering ? shown + " of " + items.length : "";
       var next = new URLSearchParams();
       fields.forEach(function (el) { if (el.value.trim()) next.set(el.name, el.value.trim()); });

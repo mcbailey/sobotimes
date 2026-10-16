@@ -20,7 +20,7 @@ from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
 from digest.config import DiscoveryConfig, load_config  # noqa: E402
 from digest.gemini import GeminiError, InteractionsClient, OutOfTokens, RateLimited, Result, TryLater  # noqa: E402
 from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline, apply_links, merge_issues  # noqa: E402
-from digest.site import board_names, build_site  # noqa: E402
+from digest.site import board_names, build_site, issue_rank_score  # noqa: E402
 from digest.store import Store  # noqa: E402
 
 NOW = datetime(2026, 10, 13, 16, 0, tzinfo=timezone.utc)  # Tue Oct 13, noon Eastern
@@ -604,6 +604,19 @@ class LinkTests(unittest.TestCase):
 
 
 class UnitTests(unittest.TestCase):
+    def test_issue_rank_weighs_significance_over_frequency(self):
+        latest = date(2026, 10, 14)
+        def issue(n, importance, significance):
+            entries = [{"meeting": {"date": latest - timedelta(days=7 * k)}, "topic": {"importance": importance}} for k in range(n)]
+            return {"entries": entries, "votes": [], "boards": ["A"], "significance": significance}
+        parade = issue(8, "high", 2)  # a committee's main item at every meeting
+        budget = issue(3, "high", 5)
+        self.assertGreater(issue_rank_score(budget, latest), issue_rank_score(parade, latest))
+        unrated = issue(3, "high", None)  # counts as 3 until its status is written
+        self.assertLess(issue_rank_score(unrated, latest), issue_rank_score(budget, latest))
+        stale = dict(budget, entries=[dict(x, meeting={"date": x["meeting"]["date"] - timedelta(days=180)}) for x in budget["entries"]])
+        self.assertLess(issue_rank_score(stale, latest), issue_rank_score(budget, latest))
+
     def test_parse_duration(self):
         self.assertEqual(timeutil.parse_duration("PT2H13M5S"), 7985)
         self.assertEqual(timeutil.parse_duration("PT45M"), 2700)

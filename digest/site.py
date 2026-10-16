@@ -49,6 +49,15 @@ RECENT_ISSUE_DAYS = 21
 RECENT_DECISION_DAYS = 14
 AHEAD_DAYS = 21
 ACTIVE_ISSUE_DAYS = 45
+# The issues page leads with the TOP_ISSUES issues that rank highest on
+# significance times recent activity; the rest are folded away below them.
+TOP_ISSUES = 20
+TOP_ISSUE_DAYS = 90  # an issue must have come up this recently to be a top issue
+ISSUE_HALF_LIFE_DAYS = 45  # activity counts half as much after this many days
+IMPORTANCE_WEIGHT = {"high": 3.0, "medium": 1.0, "low": 0.25}
+# Multiplier for the town-wide significance (1-5) written with each issue's
+# status. Issues without one yet count as 3.
+SIGNIFICANCE_WEIGHT = {1: 0.15, 2: 0.4, 3: 1.0, 4: 1.8, 5: 3.0}
 # The event itself is a Town Meeting or an election ("Special Town Meeting at
 # Trottier"), not something about one ("finalize the Town Meeting presentation",
 # "Town Meeting warrant deadline").
@@ -492,8 +501,27 @@ def collect_issues(issues: dict, meetings: list[dict], events: list[dict], decis
         as_of = iv.get("status_as_of")
         iv["status_day"] = short_date(date.fromisoformat(as_of)) if as_of else None
         out.append(iv)
+    latest = max((i["last_date"] for i in out), default=today)
+    for iv in out:
+        iv["rank_score"] = issue_rank_score(iv, latest)
     out.sort(key=lambda i: (i["last_date"], i["high_count"]), reverse=True)
     return out
+
+
+def issue_rank_score(iv: dict, latest: date) -> float:
+    """Recent activity, weighted by how much the matter matters town-wide.
+
+    Activity is each discussion's importance plus each vote, decaying with age
+    and boosted when several boards are involved. The per-meeting importance
+    ratings are relative to that meeting, so the issue's own significance rating
+    is what keeps a parade's planning below the operating budget.
+    """
+    def decay(d: date) -> float:
+        return 0.5 ** ((latest - d).days / ISSUE_HALF_LIFE_DAYS)
+    activity = sum(IMPORTANCE_WEIGHT.get(x["topic"]["importance"], 1.0) * decay(x["meeting"]["date"]) for x in iv["entries"])
+    activity += 0.5 * sum(decay(v["date"]) for v in iv["votes"])
+    activity *= 1 + 0.15 * (len(iv["boards"]) - 1)
+    return activity * SIGNIFICANCE_WEIGHT.get(iv.get("significance") or 3, 1.0)
 
 
 def collect_boards(meetings: list[dict], issues: list[dict], decisions: list[dict], events: list[dict], today: date) -> list[dict]:
@@ -729,7 +757,7 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
     upcoming = [e for e in events if today <= e["date"] <= today + timedelta(days=AHEAD_DAYS)]
     big = next((e for e in upcoming if e["big"] and e["date"] <= today + timedelta(days=14)), None)
     recent_issues = [i for i in issues if i["last_date"] >= latest - timedelta(days=RECENT_ISSUE_DAYS)]
-    recent_issues.sort(key=lambda i: (-sum(1 for x in i["entries"] if x["meeting"]["date"] >= latest - timedelta(days=RECENT_ISSUE_DAYS) and x["topic"]["importance"] == "high"), -i["last_date"].toordinal()))
+    recent_issues.sort(key=lambda i: -i["rank_score"])
     recent_decisions = [
         d for d in decisions
         if d["date"] >= latest - timedelta(days=RECENT_DECISION_DAYS)
@@ -764,11 +792,13 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
         render("month.html", f"months/{mo['key']}/index.html", month=mo, newer=newer, older=older)
 
     # Issues --------------------------------------------------------------
-    active_since = latest - timedelta(days=ACTIVE_ISSUE_DAYS)
+    top_since = latest - timedelta(days=TOP_ISSUE_DAYS)
+    top = sorted((i for i in issues if i["last_date"] >= top_since), key=lambda i: -i["rank_score"])[:TOP_ISSUES]
+    top_ids = {i["id"] for i in top}
     render(
         "issues.html", "issues/index.html",
-        active=[i for i in issues if i["last_date"] >= active_since],
-        earlier=[i for i in issues if i["last_date"] < active_since],
+        top=top,
+        rest=[i for i in issues if i["id"] not in top_ids],
         used_categories=[c for c in prompts.TOPIC_CATEGORIES if any(i.get("category") == c for i in issues)],
     )
     for iv in issues:

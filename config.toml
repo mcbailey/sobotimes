@@ -60,7 +60,7 @@ max_week_summaries_per_run = 8
 max_link_weeks_per_run = 30
 max_month_summaries_per_run = 12
 # "Where it stands" for each issue whose record changed.
-max_issue_statuses_per_run = 100
+max_issue_statuses_per_run = 120
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video

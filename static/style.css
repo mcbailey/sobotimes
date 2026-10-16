@@ -802,3 +802,9 @@ mark {
 .stats dd { margin: 0; font: 800 1.9rem/1.1 var(--sans); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
 .stats-range { font-family: var(--sans); font-size: 0.88rem; }
 .prose h3 { font-size: 1.1rem; margin: 1.75rem 0 0.5rem; }
+
+/* Folded list below the top issues */
+.more-issues > summary { cursor: pointer; list-style: none; }
+.more-issues > summary::-webkit-details-marker { display: none; }
+.more-issues > summary::before { content: "▸ "; color: var(--granite); }
+.more-issues[open] > summary::before { content: "▾ "; }

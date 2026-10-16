@@ -6,25 +6,27 @@
 {% block header %}
 <header class="page-header">
   <h1 class="page-heading">Issues</h1>
-  <p class="page-lede">Each issue follows one matter, such as a project, a property, a budget or a warrant article, across every board and week it comes up. Newest activity first.</p>
+  <p class="page-lede">Each issue follows one matter, such as a project, a property, a budget or a warrant article, across every board and week it comes up. The top issues come first, ranked by how much each matters to the town and how actively boards are working on it.</p>
 </header>
 {% endblock %}
 {% block main %}
-{% if not active and not earlier %}
+{% if not top and not rest %}
 <p class="muted">Issues appear here once the daily update has linked meetings together.</p>
 {% else %}
 {{ ui.filter_bar("issues", categories=used_categories) }}
 <div data-filter-scope="issues">
-{% if active %}
+{% if top %}
 <section class="block">
-  <h2 class="block-title">Active in the last six weeks <span class="muted count">{{ active|length }}</span></h2>
-  <ul class="issue-list">{% for i in active %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
+  <h2 class="block-title">Top issues</h2>
+  <ul class="issue-list">{% for i in top %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
 </section>
 {% endif %}
-{% if earlier %}
+{% if rest %}
 <section class="block">
-  <h2 class="block-title">Earlier <span class="muted count">{{ earlier|length }}</span></h2>
-  <ul class="issue-list">{% for i in earlier %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
+  <details class="more-issues">
+    <summary class="block-title">Smaller and older matters <span class="muted count">{{ rest|length }}</span></summary>
+    <ul class="issue-list">{% for i in rest %}{{ ui.issue_card(root, i, true) }}{% endfor %}</ul>
+  </details>
 </section>
 {% endif %}
 <p class="filter-empty muted" hidden>No issues match.</p>
