@@ -1,0 +1,138 @@
+{
+  "week": "2026-09-21",
+  "fingerprint": "b80b8df94a86770b",
+  "topics": {
+    "QmtBoOh20QA#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QmtBoOh20QA#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QmtBoOh20QA#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QmtBoOh20QA#3": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QmtBoOh20QA#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "S_GDFNCBXyc#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "S_GDFNCBXyc#1": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "S_GDFNCBXyc#2": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "S_GDFNCBXyc#3": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "S_GDFNCBXyc#4": {
+      "issue": "town-satisfaction-survey",
+      "category": "Housing"
+    },
+    "S_GDFNCBXyc#5": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "S_GDFNCBXyc#6": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "S_GDFNCBXyc#7": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "Ze-vdyanglw#0": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "Ze-vdyanglw#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Ze-vdyanglw#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "q6tCMfNCb5g#0": {
+      "issue": "town-website-redesign",
+      "category": "Staffing & operations"
+    },
+    "q6tCMfNCb5g#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "q6tCMfNCb5g#2": {
+      "issue": "town-satisfaction-survey",
+      "category": "Governance & committees"
+    },
+    "q6tCMfNCb5g#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "QmtBoOh20QA#u0": {
+      "date": "2026-10-13",
+      "issue": "neary-school-building-project"
+    },
+    "QmtBoOh20QA#u1": {
+      "date": "2026-10-15",
+      "issue": "neary-school-building-project"
+    },
+    "QmtBoOh20QA#u2": {
+      "date": "2026-10-17",
+      "issue": "neary-school-building-project"
+    },
+    "S_GDFNCBXyc#u0": {
+      "date": "2026-10-07",
+      "issue": null
+    },
+    "S_GDFNCBXyc#u1": {
+      "date": "2026-10-28",
+      "issue": null
+    },
+    "Ze-vdyanglw#u0": {
+      "date": "2026-10-06",
+      "issue": "rescinding-unissued-borrowing"
+    },
+    "Ze-vdyanglw#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "q6tCMfNCb5g#u0": {
+      "date": "2026-10-01",
+      "issue": "town-satisfaction-survey"
+    },
+    "q6tCMfNCb5g#u1": {
+      "date": "2026-10-03",
+      "issue": "town-satisfaction-survey"
+    },
+    "q6tCMfNCb5g#u2": {
+      "date": "2026-10-12",
+      "issue": "town-satisfaction-survey"
+    },
+    "q6tCMfNCb5g#u3": {
+      "date": "2026-10-27",
+      "issue": null
+    },
+    "q6tCMfNCb5g#u4": {
+      "date": "2026-11-30",
+      "issue": "town-satisfaction-survey"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:58:43Z"
+}

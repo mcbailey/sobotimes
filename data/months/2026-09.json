@@ -1,74 +1,65 @@
 {
-  "headline": "Town boards prepared for October Special Town Meeting amidst sharp divisions over CPA funding, while Neary School renovation options were narrowed.",
-  "synopsis": "In September, Southborough boards focused on the October 17 Special Town Meeting warrant, elementary school facilities, and commercial development along Route 9. Town committees split sharply on capital spending, with the Advisory Committee voting against Community Preservation Act appropriations for golf course irrigation and a pedestrian trail bridge, as well as a proposed two-family zoning amendment. The Elementary School Building Committee narrowed its plans for Neary School after reviewing preliminary estimates ranging from $24.4 million to $49.2 million, eliminating an exterior addition and focusing on interior renovations. On Route 9, the Planning Board opened public hearings on a proposal by Costco Wholesale to build a 167,000-square-foot warehouse and 30-pump fueling station. Meanwhile, municipal departments drafted fiscal year 2028 operating budgets under competing scenarios, preparing for deep service reductions if a planned tax override question fails.",
+  "headline": "Southborough boards set positions for the October Special Town Meeting, narrowed Neary School renovation options, and opened hearings on a proposed Costco.",
+  "synopsis": "Town boards focused heavily in September on finalizing warrant articles for the October 17 Special Town Meeting, revealing sharp divisions between committees on key funding proposals. The Select Board and the Advisory Committee split on CPA funding articles for Southborough Golf Club irrigation and a Peninsula Trail pedestrian bridge, as well as a proposed zoning amendment for two-family dwellings. In school planning, the Elementary School Building Committee eliminated an exterior addition concept for Neary Elementary School to focus on interior courtyard renovations and a $15 million baseline repair scope. The Planning Board opened public hearings on a proposal to build a 167,000-square-foot Costco warehouse and 30-position gas station on Coslin Drive. Municipal departments also prepared dual FY28 budget submissions to model the potential impact of an override failure at the spring Annual Town Meeting.",
   "top_items": [
     {
-      "title": "Neary School Building Committee eliminates Option 4, focuses on renovations",
-      "why": "Preliminary cost estimates for Neary Elementary School renovation and addition options ranged from $24.4 million to $49.2 million. The committee voted 3-1 to eliminate Option 4 and directed architects to focus on interior options and a $15 million baseline.",
-      "body": "Facing estimated costs well above the $15 million figure previously cited to voters, the Elementary School Building Committee voted to eliminate Option 4, an exterior gymnasium addition that encountered poor soils and high groundwater. Consultants were directed by a 4-0 vote to focus on Option 1 (code compliance and repairs), Option 3 (renovations with an enclosed courtyard gymnasium), and an analysis detailing what scope can be achieved for a $15 million baseline.",
+      "title": "Neary School Building Project Options Narrowed",
+      "why": "The Elementary School Building Committee voted to eliminate Option 4 and focus design and estimating efforts on Options 1, 3, and a $15 million baseline.",
+      "body": "Preliminary cost estimates presented by consultants ranged from $24.4 million to $49.2 million across design options, including an estimated $4.5 million roof replacement. Architects advised that Option 4, which proposed an exterior gym addition, faced severe site challenges from high groundwater and unsuitable soils. The committee voted 3-1 to eliminate Option 4 and voted 4-0 to instruct designers to focus on interior courtyard renovations and a scoped $15 million baseline ahead of a multi-board review.",
       "importance": "high",
       "video_id": "QmtBoOh20QA",
       "start_seconds": 1324,
       "issue": "neary-school-building-project"
     },
     {
-      "title": "Planning Board opens hearing on proposed Coslin Drive Costco",
-      "why": "Costco Wholesale presented initial site and traffic plans for a 167,000-square-foot retail warehouse and 30-position gas station spanning 26.12 acres on the Westborough town line. Board members and residents raised concerns regarding traffic congestion along Route 9 and surrounding neighborhood streets.",
-      "body": "Costco Wholesale submitted major site plan and special permit applications for a 167,000-square-foot store and a 30-position fueling station at 21 Coslin Drive. During the initial hearing, Southborough residents expressed concerns about traffic impacts along Route 9, truck turnarounds at Route 85, and cut-through traffic on Flagg Road. The Planning Board continued the public hearing to October 19.",
+      "title": "Planning Board Opens Review of Coslin Drive Costco",
+      "why": "Costco Wholesale presented site and traffic plans for a proposed 167,000-square-foot warehouse and 30-pump gas station on Coslin Drive.",
+      "body": "The development team presented civil engineering, grading, stormwater management, and traffic modeling for the 26.12-acre parcel straddling the Southborough and Westborough town border. Residents and board members raised concerns regarding traffic congestion along Route 9, cut-through traffic on Flagg Road, and truck turnaround movements at Route 85. The Planning Board continued the public hearing to October 19, 2026.",
       "importance": "high",
       "video_id": "hCwuB4U1qOk",
       "start_seconds": 1914,
       "issue": "21-coslin-drive-costco"
     },
     {
-      "title": "Town boards clash over CPA funding for golf irrigation",
-      "why": "The Select Board and Community Preservation Committee endorsed appropriating over $433,000 in Community Preservation Act funds for a new Southborough Golf Club irrigation system. The Advisory Committee voted 0-7 against recommending the article for Special Town Meeting.",
-      "body": "After bids exceeded previous town appropriations, the total estimated cost to replace the Southborough Golf Club irrigation system rose to nearly $1.09 million. The proposal calls for $100,000 from the golf course revolving fund and $433,346 in additional CPA money. While the Select Board supported the article, Advisory Committee members argued against using tax-backed CPA funds for a municipal golf course intended to be self-sustaining.",
+      "title": "Boards Divide on Two-Family Housing Zoning Article",
+      "why": "The Select Board recommended approving a zoning amendment for two-family dwellings, while the Advisory Committee voted against supporting it.",
+      "body": "Sponsored by the Zoning Board of Appeals, Article 2 removes a two-year waiting period to convert existing single-family homes into two-family dwellings and regulates conversions and new construction by special permit. The Select Board voted 4-1 (and later 5-0 on revised text) to recommend the article to encourage housing variety, but the Advisory Committee voted 3-4 against recommending it due to concerns over density, municipal service burdens, and septic capacity. The Planning Board continued its public hearing on the bylaw to the morning of Town Meeting on October 17.",
+      "importance": "high",
+      "video_id": "uogPth-Nky8",
+      "start_seconds": 504,
+      "issue": "two-family-zoning-amendment"
+    },
+    {
+      "title": "Committees Split on $433,546 Golf Irrigation Funding",
+      "why": "The Advisory Committee voted unanimously against recommending $433,546 in CPA funds for golf course irrigation, despite support from the Select Board and CPC.",
+      "body": "The project to replace the failing irrigation system at the Southborough Golf Club has risen to an estimated cost of $1,087,296 after initial bids exceeded original estimates. Although the Community Preservation Committee voted 4-1 and the Select Board voted 5-0 to support the warrant article combining CPA funds with $100,000 from the golf revolving fund, the Advisory Committee voted 0-7 against it, maintaining that course capital improvements should be funded by user fees rather than town CPA balances.",
       "importance": "high",
       "video_id": "kC-X75Msc0s",
       "start_seconds": 1735,
       "issue": "southborough-golf-club-irrigation"
     },
     {
-      "title": "Peninsula Trail footbridge faces resistance ahead of Town Meeting",
-      "why": "The Trails Committee and Community Preservation Committee advanced an article requesting $217,318 in supplemental CPA funds for a 65-foot prefabricated pedestrian bridge. Both the Select Board (1-4) and the Advisory Committee (0-7) voted against supporting the appropriation.",
-      "body": "The Trails Committee sought additional CPA funds to cover cost escalations for a pedestrian bridge connecting sections of the Peninsula Trail along Route 30, bringing the total estimated project cost to $428,550. Opponents on the Select Board and Advisory Committee cited high costs and broader municipal budget pressures, prompting trail advocates to prepare public outreach and a potential warrant amendment extending existing funds.",
+      "title": "Select Board and Advisory Oppose Peninsula Trail Bridge",
+      "why": "The Select Board voted 1-4 and the Advisory Committee voted 0-7 against supporting $217,318 in additional CPA funding for a pedestrian footbridge.",
+      "body": "The Southborough Trails Committee requested supplementary CPA funds to install a 65-foot prefabricated pedestrian footbridge on the Framingham border, bringing the total estimated project cost to $428,550 after earlier bids exceeded original appropriations. While the Community Preservation Committee supported the article 5-0, both the Select Board and Advisory Committee voted not to recommend approval, citing municipal budget pressures and high costs. In response, the Trails Committee discussed public outreach and plans to seek an extension of existing CPA funds to December 2029.",
       "importance": "high",
-      "video_id": "kC-X75Msc0s",
-      "start_seconds": 2340,
+      "video_id": "uogPth-Nky8",
+      "start_seconds": 3495,
       "issue": "peninsula-trail-phase-2"
     },
     {
-      "title": "Advisory Committee opposes two-family zoning code amendment",
-      "why": "An amendment proposed by the Zoning Board of Appeals would eliminate the two-year waiting period to convert single-family homes into two-family dwellings. The Advisory Committee voted 3-4 against recommending the article, while the Select Board and ZBA endorsed it.",
-      "body": "Article 2 on the Special Town Meeting warrant seeks to clarify zoning definitions and remove the requirement that a single-family home exist for two years before converting to two-family housing. Advisory Committee opponents voiced concerns about residential density, school impacts, and septic capacity, while proponents pointed to regional housing shortages and expanded options. The Planning Board continued its hearing on the proposal to October 17.",
+      "title": "Departments Model Dual FY28 Budgets for Override",
+      "why": "Town administration directed departments to submit two FY28 budget models to account for the outcome of a planned spring tax override ballot question.",
+      "body": "Budget A reflects a level-service budget that accommodates a 5 percent total wage adjustment approved by the Personnel Board. Budget B assumes an override failure and requires a zero-percent increase over FY27 appropriations. Department heads across the Library, Health Department, and Conservation Commission reported that Budget B would force severe operational reductions, including eliminated programming, reduced staff working hours, and slashed professional training.",
       "importance": "high",
-      "video_id": "kC-X75Msc0s",
-      "start_seconds": 1064,
-      "issue": "two-family-zoning-amendment"
-    },
-    {
-      "title": "Departments model service cuts under FY28 budget guidelines",
-      "why": "Department heads were directed to submit two FY28 budget scenarios, including a zero-percent increase option anticipating the potential failure of a spring tax override. The Personnel Board voted to recommend a 5% total salary adjustment.",
-      "body": "Ahead of a planned spring tax override ballot question, Southborough departments prepared two fiscal year 2028 budgets. While Request A maintains level services with a recommended 3% cost-of-living adjustment and 2% step increment, Request B holds spending to fiscal year 2027 levels. Library, Health, and Conservation officials reported that flat funding would force staff hour reductions and eliminate operational and program line items.",
-      "importance": "medium",
-      "video_id": "TKelgkz3FaU",
-      "start_seconds": 568,
+      "video_id": "TwiZfHm90lU",
+      "start_seconds": 170,
       "issue": "fy28-operating-budget"
     },
     {
-      "title": "Select Board appoints interim clerk and advances appointed role",
-      "why": "The Select Board voted unanimously to appoint Amy Berry as interim town clerk through May 2027 following the departure of Jim Hegarty. Article 1 on the Special Town Meeting warrant proposes making the town clerk an appointed position.",
-      "body": "Amy Berry, previously a Southborough deputy town clerk and current Grafton town clerk, was appointed to serve as interim town clerk from October 1 through May 11, 2027. Both the Select Board and Advisory Committee voted to recommend approval of Special Town Meeting Article 1, which initiates changing the town clerk from an elected office to an appointed position subject to voter confirmation at the 2027 annual town election.",
-      "importance": "medium",
-      "video_id": "6vLlCQSNejs",
-      "start_seconds": 131,
-      "issue": "appointed-town-clerk"
-    },
-    {
-      "title": "Select Board renews regional waste consortium participation",
-      "why": "The Select Board voted unanimously to remain in a 35-town consortium negotiating bulk refuse disposal with WIN Waste. The town's existing waste agreement runs through December 31, 2027.",
-      "body": "Department of Public Works Director Bill Cundiff briefed the Select Board on upcoming contract negotiations for municipal waste disposal at the WIN Waste facility in Millbury. Southborough has participated in the 35-community group led by Walpole since 2006. The board agreed that the pricing leverage of regional volume outweighs legal representation concerns and voted to remain in the collaborative.",
+      "title": "Select Board Recommits to Regional Waste Consortium",
+      "why": "The Select Board voted unanimously to continue participating in a 35-community consortium to negotiate regional refuse disposal rates with WIN Waste.",
+      "body": "Southborough has participated in the Walpole-led municipal group since 2006 to negotiate bulk disposal rates at the Millbury waste-to-energy incinerator. The board evaluated town counsel concerns regarding shared legal representation against the pricing power of the 35-member block, voting 5-0 to stay in the consortium ahead of the current disposal agreement's expiration on December 31, 2027.",
       "importance": "medium",
       "video_id": "iXhlhTPe9wg",
       "start_seconds": 8140,
@@ -76,7 +67,7 @@
     }
   ],
   "month": "2026-09",
-  "fingerprint": "9c261b7819ec8907",
+  "fingerprint": "d6bc81aaf1011a44",
   "video_ids": [
     "3Fu66bBPayE",
     "6QpNCFmbloY",
@@ -107,5 +98,5 @@
     "uogPth-Nky8"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:08:42Z"
+  "generated_at": "2026-10-16T02:02:37Z"
 }

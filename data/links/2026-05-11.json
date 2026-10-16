@@ -1,0 +1,370 @@
+{
+  "week": "2026-05-11",
+  "fingerprint": "0ef7871ab588b2f3",
+  "topics": {
+    "AVYUJb0MKMY#0": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "AVYUJb0MKMY#1": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "AVYUJb0MKMY#2": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "C92hqzMJvgM#0": {
+      "issue": "911-field-bond-and-fees",
+      "category": "Parks, trails & recreation"
+    },
+    "C92hqzMJvgM#1": {
+      "issue": "kallander-field-repairs",
+      "category": "Parks, trails & recreation"
+    },
+    "C92hqzMJvgM#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "C92hqzMJvgM#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "LflS54Arapc#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "LflS54Arapc#1": {
+      "issue": "town-website-redesign",
+      "category": "Staffing & operations"
+    },
+    "LflS54Arapc#2": {
+      "issue": "mcauliffe-hearing-room-av",
+      "category": "Buildings & facilities"
+    },
+    "LflS54Arapc#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "LflS54Arapc#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "LflS54Arapc#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Od1pRH9mq6g#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Od1pRH9mq6g#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#2": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#3": {
+      "issue": "school-bus-transportation-operations",
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#6": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#7": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Od1pRH9mq6g#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "QtSBbzpaVec#0": {
+      "issue": "tricentennial-summer-nights",
+      "category": "Library, arts & community"
+    },
+    "QtSBbzpaVec#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QtSBbzpaVec#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "QtSBbzpaVec#3": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "QtSBbzpaVec#4": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "QtSBbzpaVec#5": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "QtSBbzpaVec#6": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "QtSBbzpaVec#7": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "SXZEdmFrxuc#0": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "SXZEdmFrxuc#1": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    },
+    "SXZEdmFrxuc#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Yj-7Il44CGk#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "Yj-7Il44CGk#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Yj-7Il44CGk#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "Yj-7Il44CGk#3": {
+      "issue": "library-book-drop-repair",
+      "category": "Buildings & facilities"
+    },
+    "Yj-7Il44CGk#4": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "Yj-7Il44CGk#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Yj-7Il44CGk#6": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "b6dhPxXuBgo#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "b6dhPxXuBgo#1": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "b6dhPxXuBgo#2": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "b6dhPxXuBgo#3": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "b6dhPxXuBgo#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "gobeHAshCpc#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "gobeHAshCpc#1": {
+      "issue": "flagg-turnpike-hydrant-relocation",
+      "category": "Roads, water & infrastructure"
+    },
+    "gobeHAshCpc#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "gobeHAshCpc#3": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "gobeHAshCpc#4": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "gobeHAshCpc#5": {
+      "issue": "ruby-estates-subdivision",
+      "category": "Zoning & development"
+    },
+    "gobeHAshCpc#6": {
+      "issue": "native-plant-landscape-regulations",
+      "category": "Environment & conservation"
+    },
+    "gobeHAshCpc#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "gobeHAshCpc#8": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "gobeHAshCpc#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "yEDv55tASKo#0": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "yEDv55tASKo#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    }
+  },
+  "upcoming": {
+    "AVYUJb0MKMY#u0": {
+      "date": null,
+      "issue": "neary-school-roof-replacement"
+    },
+    "AVYUJb0MKMY#u1": {
+      "date": null,
+      "issue": "neary-school-roof-replacement"
+    },
+    "AVYUJb0MKMY#u2": {
+      "date": null,
+      "issue": "neary-school-roof-replacement"
+    },
+    "C92hqzMJvgM#u0": {
+      "date": "2026-05-22",
+      "issue": "911-field-bond-and-fees"
+    },
+    "C92hqzMJvgM#u1": {
+      "date": "2026-05-23",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "C92hqzMJvgM#u2": {
+      "date": "2026-06-02",
+      "issue": null
+    },
+    "LflS54Arapc#u0": {
+      "date": "2026-06-22",
+      "issue": null
+    },
+    "Od1pRH9mq6g#u0": {
+      "date": "2026-05-22",
+      "issue": "neary-school-roof-replacement"
+    },
+    "Od1pRH9mq6g#u1": {
+      "date": "2026-06-12",
+      "issue": "school-bus-transportation-operations"
+    },
+    "Od1pRH9mq6g#u2": {
+      "date": "2026-06-10",
+      "issue": null
+    },
+    "Od1pRH9mq6g#u3": {
+      "date": "2026-06-15",
+      "issue": null
+    },
+    "QtSBbzpaVec#u0": {
+      "date": "2026-06-10",
+      "issue": null
+    },
+    "QtSBbzpaVec#u1": {
+      "date": "2026-06-16",
+      "issue": null
+    },
+    "QtSBbzpaVec#u2": {
+      "date": "2026-08-01",
+      "issue": "tricentennial-street-banners"
+    },
+    "QtSBbzpaVec#u3": {
+      "date": "2026-09-01",
+      "issue": null
+    },
+    "QtSBbzpaVec#u4": {
+      "date": "2027-01-01",
+      "issue": "tricentennial-first-day"
+    },
+    "QtSBbzpaVec#u5": {
+      "date": "2027-04-15",
+      "issue": null
+    },
+    "QtSBbzpaVec#u6": {
+      "date": null,
+      "issue": "tricentennial-summer-nights"
+    },
+    "SXZEdmFrxuc#u0": {
+      "date": null,
+      "issue": "fy27-school-operating-budget"
+    },
+    "SXZEdmFrxuc#u1": {
+      "date": null,
+      "issue": "fy27-school-operating-budget"
+    },
+    "SXZEdmFrxuc#u2": {
+      "date": null,
+      "issue": "trottier-school-roof-replacement"
+    },
+    "SXZEdmFrxuc#u3": {
+      "date": null,
+      "issue": "fy27-school-operating-budget"
+    },
+    "Yj-7Il44CGk#u0": {
+      "date": "2026-05-21",
+      "issue": null
+    },
+    "Yj-7Il44CGk#u1": {
+      "date": "2026-06-01",
+      "issue": null
+    },
+    "Yj-7Il44CGk#u2": {
+      "date": "2026-06-06",
+      "issue": null
+    },
+    "Yj-7Il44CGk#u3": {
+      "date": "2026-06-08",
+      "issue": null
+    },
+    "b6dhPxXuBgo#u0": {
+      "date": "2026-06-04",
+      "issue": "0-southville-road"
+    },
+    "gobeHAshCpc#u0": {
+      "date": "2026-06-01",
+      "issue": "22-turnpike-road"
+    },
+    "gobeHAshCpc#u1": {
+      "date": "2026-06-01",
+      "issue": "154-turnpike-road"
+    },
+    "gobeHAshCpc#u2": {
+      "date": "2026-05-12",
+      "issue": null
+    },
+    "gobeHAshCpc#u3": {
+      "date": "2026-06-01",
+      "issue": "ruby-estates-subdivision"
+    },
+    "yEDv55tASKo#u0": {
+      "date": null,
+      "issue": "fy27-school-operating-budget"
+    },
+    "yEDv55tASKo#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:44:27Z"
+}

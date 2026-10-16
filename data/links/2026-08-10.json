@@ -1,6 +1,6 @@
 {
   "week": "2026-08-10",
-  "fingerprint": "cb5110c448343d5a",
+  "fingerprint": "8caeee540654e585",
   "topics": {
     "-pJx0xWc2YM#0": {
       "issue": "tricentennial-first-day",
@@ -32,7 +32,7 @@
     },
     "-pJx0xWc2YM#7": {
       "issue": "tricentennial-firefighters-muster",
-      "category": "Library, arts & community"
+      "category": "Public safety"
     },
     "-pJx0xWc2YM#8": {
       "issue": "tricentennial-time-capsule",
@@ -40,13 +40,169 @@
     },
     "-pJx0xWc2YM#9": {
       "issue": "glow-sobo-holiday-lighting",
-      "category": "Budget & taxes"
+      "category": "Library, arts & community"
     },
     "-pJx0xWc2YM#10": {
       "issue": null,
       "category": "Governance & committees"
     },
     "-pJx0xWc2YM#11": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "FEB1UdYQ72U#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "FEB1UdYQ72U#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "FEB1UdYQ72U#2": {
+      "issue": "0-northborough-road-common-driveway",
+      "category": "Zoning & development"
+    },
+    "FEB1UdYQ72U#3": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "YVXhyk05YQ8#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#1": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "YVXhyk05YQ8#2": {
+      "issue": "transfer-station-fees-and-regulations",
+      "category": "Roads, water & infrastructure"
+    },
+    "YVXhyk05YQ8#3": {
+      "issue": "presidential-fisher-waterline-looping",
+      "category": "Roads, water & infrastructure"
+    },
+    "YVXhyk05YQ8#4": {
+      "issue": "stormwater-enterprise-fund",
+      "category": "Environment & conservation"
+    },
+    "YVXhyk05YQ8#5": {
+      "issue": "culvert-infrastructure-replacements",
+      "category": "Roads, water & infrastructure"
+    },
+    "YVXhyk05YQ8#6": {
+      "issue": "landfill-environmental-assessment",
+      "category": "Environment & conservation"
+    },
+    "YVXhyk05YQ8#7": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "YVXhyk05YQ8#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#10": {
+      "issue": "stewardship-committee-structure",
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#11": {
+      "issue": "appointed-town-clerk",
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#12": {
+      "issue": "municipal-health-insurance-reform",
+      "category": "Budget & taxes"
+    },
+    "YVXhyk05YQ8#13": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "YVXhyk05YQ8#14": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "YVXhyk05YQ8#15": {
+      "issue": "cannabis-delivery-opt-out",
+      "category": "Health & human services"
+    },
+    "cZVXi44YTi8#0": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "cZVXi44YTi8#1": {
+      "issue": "tricentennial-summer-nights",
+      "category": "Library, arts & community"
+    },
+    "cZVXi44YTi8#2": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "cZVXi44YTi8#3": {
+      "issue": "tricentennial-time-capsule",
+      "category": "Library, arts & community"
+    },
+    "cZVXi44YTi8#4": {
+      "issue": "glow-sobo-holiday-lighting",
+      "category": "Library, arts & community"
+    },
+    "cZVXi44YTi8#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "cZVXi44YTi8#6": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "o_6wQ5qmpYY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "o_6wQ5qmpYY#1": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "o_6wQ5qmpYY#2": {
+      "issue": "14-newton-street",
+      "category": "Health & human services"
+    },
+    "o_6wQ5qmpYY#3": {
+      "issue": "7-turnpike-road-bodywork-compliance",
+      "category": "Health & human services"
+    },
+    "o_6wQ5qmpYY#4": {
+      "issue": "housing-and-food-enforcement-policies",
+      "category": "Health & human services"
+    },
+    "tvbRz-2SMEI#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "tvbRz-2SMEI#1": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "tvbRz-2SMEI#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "tvbRz-2SMEI#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "tvbRz-2SMEI#4": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "tvbRz-2SMEI#5": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "tvbRz-2SMEI#6": {
       "issue": null,
       "category": "Library, arts & community"
     }
@@ -63,8 +219,72 @@
     "-pJx0xWc2YM#u2": {
       "date": null,
       "issue": "tricentennial-time-capsule"
+    },
+    "FEB1UdYQ72U#u0": {
+      "date": "2026-09-16",
+      "issue": null
+    },
+    "FEB1UdYQ72U#u1": {
+      "date": "2026-10-21",
+      "issue": null
+    },
+    "YVXhyk05YQ8#u0": {
+      "date": "2026-08-12",
+      "issue": "two-family-zoning-amendment"
+    },
+    "YVXhyk05YQ8#u1": {
+      "date": "2026-08-19",
+      "issue": "neary-school-building-project"
+    },
+    "YVXhyk05YQ8#u2": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "YVXhyk05YQ8#u3": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "YVXhyk05YQ8#u4": {
+      "date": "2026-11-04",
+      "issue": "fy28-operating-budget"
+    },
+    "cZVXi44YTi8#u0": {
+      "date": "2026-08-22",
+      "issue": null
+    },
+    "cZVXi44YTi8#u1": {
+      "date": null,
+      "issue": null
+    },
+    "cZVXi44YTi8#u2": {
+      "date": null,
+      "issue": "tricentennial-time-capsule"
+    },
+    "cZVXi44YTi8#u3": {
+      "date": "2026-09-16",
+      "issue": null
+    },
+    "o_6wQ5qmpYY#u0": {
+      "date": "2026-09-15",
+      "issue": "housing-and-food-enforcement-policies"
+    },
+    "o_6wQ5qmpYY#u1": {
+      "date": "2026-10-11",
+      "issue": null
+    },
+    "tvbRz-2SMEI#u0": {
+      "date": "2026-09-14",
+      "issue": null
+    },
+    "tvbRz-2SMEI#u1": {
+      "date": "2026-09-21",
+      "issue": null
+    },
+    "tvbRz-2SMEI#u2": {
+      "date": "2026-09-14",
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T19:21:16Z"
+  "generated_at": "2026-10-16T01:51:23Z"
 }

@@ -2544,18 +2544,18 @@
     },
     "2026-10-15": {
       "video_minutes": 8484,
-      "calls": 181,
-      "input_tokens": 20018187,
-      "output_tokens": 318719,
-      "thought_tokens": 584530,
+      "calls": 191,
+      "input_tokens": 20213619,
+      "output_tokens": 352852,
+      "thought_tokens": 663792,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-15T22:06:24Z",
-    "discovered": 143,
-    "summarized": 92,
+    "at": "2026-10-16T01:39:20Z",
+    "discovered": 26,
+    "summarized": 0,
     "refreshed": 0,
-    "errors": 6
+    "errors": 0
   }
 }

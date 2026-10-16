@@ -1,0 +1,450 @@
+{
+  "week": "2026-09-14",
+  "fingerprint": "ecae1298fde657d8",
+  "topics": {
+    "7c2pm_BqUTk#0": {
+      "issue": "21-highland-street-use",
+      "category": "Buildings & facilities"
+    },
+    "7c2pm_BqUTk#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "7c2pm_BqUTk#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "7c2pm_BqUTk#3": {
+      "issue": "neary-school-building-project",
+      "category": "Parks, trails & recreation"
+    },
+    "7c2pm_BqUTk#4": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "7c2pm_BqUTk#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "AbhYdScbz7I#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "AbhYdScbz7I#1": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "AbhYdScbz7I#2": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "AbhYdScbz7I#3": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "AbhYdScbz7I#4": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "AbhYdScbz7I#5": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "IW-Yyg8ixZc#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "IW-Yyg8ixZc#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "IW-Yyg8ixZc#2": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "IW-Yyg8ixZc#3": {
+      "issue": "0-northborough-road-common-driveway",
+      "category": "Zoning & development"
+    },
+    "IW-Yyg8ixZc#4": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "Nzknp6oL4v8#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Nzknp6oL4v8#1": {
+      "issue": "1-overlook-drive-pool",
+      "category": "Environment & conservation"
+    },
+    "Nzknp6oL4v8#2": {
+      "issue": "fay-school-athletic-fields",
+      "category": "Zoning & development"
+    },
+    "Nzknp6oL4v8#3": {
+      "issue": "rescinding-unissued-borrowing",
+      "category": "Budget & taxes"
+    },
+    "Nzknp6oL4v8#4": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "Nzknp6oL4v8#5": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "Nzknp6oL4v8#6": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#0": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#1": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#3": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#4": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "QrLqRNyQNCQ#6": {
+      "issue": "fay-school-25-middle-road",
+      "category": "Zoning & development"
+    },
+    "QrLqRNyQNCQ#7": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "Sg_jLEHga3k#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Sg_jLEHga3k#1": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "Sg_jLEHga3k#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "Sg_jLEHga3k#3": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "TwiZfHm90lU#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "TwiZfHm90lU#1": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "TwiZfHm90lU#2": {
+      "issue": "library-book-drop-repair",
+      "category": "Buildings & facilities"
+    },
+    "TwiZfHm90lU#3": {
+      "issue": "glow-sobo-holiday-lighting",
+      "category": "Library, arts & community"
+    },
+    "TwiZfHm90lU#4": {
+      "issue": "library-parking-lot-repaving",
+      "category": "Buildings & facilities"
+    },
+    "TwiZfHm90lU#5": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "TwiZfHm90lU#6": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "ZFwCQUWlbtI#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "ZFwCQUWlbtI#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "ZFwCQUWlbtI#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "ZFwCQUWlbtI#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "ZFwCQUWlbtI#4": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "ZFwCQUWlbtI#5": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "ZFwCQUWlbtI#6": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "ZFwCQUWlbtI#7": {
+      "issue": "tricentennial-time-capsule",
+      "category": "Library, arts & community"
+    },
+    "ZFwCQUWlbtI#8": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "hf3p_49fGzM#0": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "hf3p_49fGzM#1": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "kC-X75Msc0s#0": {
+      "issue": "appointed-town-clerk",
+      "category": "Town Meeting & elections"
+    },
+    "kC-X75Msc0s#1": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "kC-X75Msc0s#2": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "kC-X75Msc0s#3": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "kC-X75Msc0s#4": {
+      "issue": "stormwater-enterprise-fund",
+      "category": "Environment & conservation"
+    },
+    "kC-X75Msc0s#5": {
+      "issue": "rescinding-unissued-borrowing",
+      "category": "Budget & taxes"
+    },
+    "kC-X75Msc0s#6": {
+      "issue": "landfill-environmental-assessment",
+      "category": "Environment & conservation"
+    },
+    "kC-X75Msc0s#7": {
+      "issue": "personal-property-tax-exemption",
+      "category": "Budget & taxes"
+    },
+    "kC-X75Msc0s#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uogPth-Nky8#0": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "uogPth-Nky8#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "uogPth-Nky8#2": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "uogPth-Nky8#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uogPth-Nky8#4": {
+      "issue": "cemetery-expansion",
+      "category": "Parks, trails & recreation"
+    },
+    "uogPth-Nky8#5": {
+      "issue": "appointed-town-clerk",
+      "category": "Staffing & operations"
+    },
+    "uogPth-Nky8#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uogPth-Nky8#7": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "uogPth-Nky8#8": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "uogPth-Nky8#9": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "uogPth-Nky8#10": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    }
+  },
+  "upcoming": {
+    "7c2pm_BqUTk#u0": {
+      "date": "2026-09-19",
+      "issue": null
+    },
+    "7c2pm_BqUTk#u1": {
+      "date": "2026-10-07",
+      "issue": null
+    },
+    "7c2pm_BqUTk#u2": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "AbhYdScbz7I#u0": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "AbhYdScbz7I#u1": {
+      "date": "2026-11-17",
+      "issue": null
+    },
+    "IW-Yyg8ixZc#u0": {
+      "date": "2026-09-24",
+      "issue": "two-family-zoning-amendment"
+    },
+    "IW-Yyg8ixZc#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "IW-Yyg8ixZc#u2": {
+      "date": "2026-10-21",
+      "issue": "40-42-central-street"
+    },
+    "IW-Yyg8ixZc#u3": {
+      "date": "2026-12-14",
+      "issue": null
+    },
+    "Nzknp6oL4v8#u0": {
+      "date": "2026-10-08",
+      "issue": null
+    },
+    "Nzknp6oL4v8#u1": {
+      "date": "2026-10-08",
+      "issue": "fy28-operating-budget"
+    },
+    "Nzknp6oL4v8#u2": {
+      "date": "2026-10-08",
+      "issue": null
+    },
+    "QrLqRNyQNCQ#u0": {
+      "date": "2026-09-28",
+      "issue": "two-family-zoning-amendment"
+    },
+    "QrLqRNyQNCQ#u1": {
+      "date": "2026-09-28",
+      "issue": null
+    },
+    "QrLqRNyQNCQ#u2": {
+      "date": "2026-09-28",
+      "issue": "21-coslin-drive-costco"
+    },
+    "QrLqRNyQNCQ#u3": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "QrLqRNyQNCQ#u4": {
+      "date": "2026-10-23",
+      "issue": "22-turnpike-road"
+    },
+    "Sg_jLEHga3k#u0": {
+      "date": "2026-10-01",
+      "issue": null
+    },
+    "Sg_jLEHga3k#u1": {
+      "date": "2026-10-02",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "Sg_jLEHga3k#u2": {
+      "date": "2026-10-17",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "Sg_jLEHga3k#u3": {
+      "date": "2026-11-07",
+      "issue": null
+    },
+    "TwiZfHm90lU#u0": {
+      "date": "2026-10-05",
+      "issue": "fy28-operating-budget"
+    },
+    "TwiZfHm90lU#u1": {
+      "date": "2026-10-03",
+      "issue": "library-book-drop-repair"
+    },
+    "TwiZfHm90lU#u2": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "ZFwCQUWlbtI#u0": {
+      "date": "2026-09-27",
+      "issue": null
+    },
+    "ZFwCQUWlbtI#u1": {
+      "date": "2026-10-12",
+      "issue": null
+    },
+    "ZFwCQUWlbtI#u2": {
+      "date": "2026-10-14",
+      "issue": null
+    },
+    "ZFwCQUWlbtI#u3": {
+      "date": null,
+      "issue": null
+    },
+    "ZFwCQUWlbtI#u4": {
+      "date": "2027-01-01",
+      "issue": "tricentennial-first-day"
+    },
+    "hf3p_49fGzM#u0": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "kC-X75Msc0s#u0": {
+      "date": "2026-10-06",
+      "issue": null
+    },
+    "kC-X75Msc0s#u1": {
+      "date": "2026-10-13",
+      "issue": null
+    },
+    "kC-X75Msc0s#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "uogPth-Nky8#u0": {
+      "date": "2026-09-22",
+      "issue": "town-governance-study"
+    },
+    "uogPth-Nky8#u1": {
+      "date": "2026-10-06",
+      "issue": "town-governance-study"
+    },
+    "uogPth-Nky8#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:55:28Z"
+}
