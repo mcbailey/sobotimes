@@ -1,0 +1,211 @@
+{
+  "video": {
+    "id": "g_7SIaQJK7M",
+    "title": "Conservation Commission 6/4/26",
+    "published_at": "2026-06-05T12:51:58Z",
+    "duration_s": 4902
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Conservation Commission",
+    "meeting_date": "2026-06-04",
+    "headline": "The Conservation Commission reviewed a proposed 32-unit 40B development at 250 Turnpike Road and resolved a longstanding buffer zone dispute on Parkerville Road.",
+    "summary": "The Southborough Conservation Commission reviewed a Notice of Intent for a proposed 32-unit Chapter 40B townhouse rental development at 250 Turnpike Road, focusing on vernal pool protections and local bylaw waivers before continuing the hearing to June 25. Commissioners also reviewed utility pole replacements along Parkerville and Lynbrook roads and continued a hearing for an apartment project on Southville Road. The commission approved a Certificate of Compliance for 170 Woodland Road and agreed on a resolution for 229 Parkerville Road to remove garden encroachments while preserving an existing fence. In other business, members recommended Cori Gould for appointment to the board and received enforcement updates from the conservation agent.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission interviewed prospective new member Cori Gould, who shared her professional background in environmental policy and public service. The board voted to recommend her appointment to the Select Board and approved the meeting minutes of May 14, 2026.",
+        "key_details": [
+          "Candidate Cori Gould has worked for the Environmental Defense Fund and Conservation Law Foundation.",
+          "Commission voted unanimously to recommend Gould to the Select Board for appointment.",
+          "Minutes of May 14, 2026, were approved as submitted."
+        ],
+        "outcome": "Approved appointment recommendation 4-0; approved minutes 4-0.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "NOI: Parkerville Road and Lynbrook Road utility poles",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "Massachusetts Electric Company requested approval to replace three existing utility poles and install two new mid-span poles within the right-of-way of Parkerville and Lynbrook roads. Portions of the work are located within bordering vegetated wetland buffer zones and riverfront areas. The hearing was continued pending issuance of a state Department of Environmental Protection file number and narrative updates regarding Japanese knotweed management.",
+        "key_details": [
+          "Project includes two new mid-span poles and three replacement poles along Parkerville and Lynbrook roads.",
+          "Work falls within bordering vegetated wetland buffer zones and bordering land subject to flooding.",
+          "The commission requested an updated narrative outlining proper disposal of soils contaminated with Japanese knotweed near pole 102.",
+          "The project is still awaiting a Department of Environmental Protection file number."
+        ],
+        "outcome": "Hearing continued to June 25, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 605,
+        "end_seconds": null
+      },
+      {
+        "title": "NOI: 250 Turnpike Road 32-unit 40B townhouse development",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Expedited Engineering presented a Notice of Intent on behalf of FD 250 Turnpike LLC for a Chapter 40B comprehensive permit project consisting of 32 townhouse-style rental units. Approximately 3.5 acres of the 5.2-acre parcel will be altered, involving work within the 100-foot buffer zone and the local 20-foot no-disturb zone. Discussion centered on wildlife passage for salamanders near an onsite vernal pool, waiver of local town bylaws under Chapter 40B, and proposed native buffer plantings.",
+        "key_details": [
+          "Address: 250 Turnpike Road and 0 Parkerville Road, Map 27, Lots 46 and 2A.",
+          "Proposal includes 32 rental townhomes, with eight units designated affordable, allowing all 32 to count toward the town housing inventory.",
+          "Plans incorporate a 4-foot-wide by 2-foot-high critter culvert under the roadway for amphibian migration between wetland areas.",
+          "Local wetlands and stormwater bylaws were waived by the Zoning Board of Appeals under Chapter 40B, but state Wetlands Protection Act requirements still apply.",
+          "Awaiting formal peer review from Lucas Environmental and town counsel advice regarding whether waivers cover access parcel Lot 2A."
+        ],
+        "outcome": "Hearing continued to June 25, 2026.",
+        "why_it_matters": "The proposed 32-unit development adds rental and affordable housing near Route 9 while seeking waivers from local wetland bylaws near sensitive wetland resources.",
+        "start_seconds": 1164,
+        "end_seconds": null
+      },
+      {
+        "title": "NOI: 0 Southville Road apartment buildings",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The commission considered a continued hearing for a Notice of Intent and Stormwater Management Permit for two apartment buildings and site work at 0 Southville Road. The applicant requested a continuance because additional time was needed to address the commission's prior feedback.",
+        "key_details": [
+          "Project location: 0 Southville Road, Map 5, Lot 8.",
+          "Applicant: Apartments at Southville Road LLC.",
+          "Applicant requested a continuance without substantive discussion."
+        ],
+        "outcome": "Hearing continued to June 25, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 2967,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance: 170 Woodland Road",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "Goddard Consulting requested a Certificate of Compliance for completed residential work under DEP file number 290-1129 at 170 Woodland Road. The conservation agent confirmed that required plantings are healthy and recommended issuing the certificate.",
+        "key_details": [
+          "Address: 170 Woodland Road, DEP file number 290-1129.",
+          "Required mitigation trees and plantings were inspected and found in good condition."
+        ],
+        "outcome": "Certificate of Compliance approved 4-0.",
+        "why_it_matters": null,
+        "start_seconds": 3051,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance: 229 Parkerville Road",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission reviewed an outstanding Certificate of Compliance request under DEP file number 290-1024. The property owner and the commission reached an agreement to resolve non-compliance in the 20-foot buffer zone by allowing an existing split-rail fence to stay in place as the permanent work limit while requiring the removal of gardening trellises located beyond the fence.",
+        "key_details": [
+          "Address: 229 Parkerville Road, DEP file number 290-1024.",
+          "A garden area and trellises extended past the split-rail fence into the 20-foot no-disturb buffer zone.",
+          "The owner agreed to dismantle trellises beyond the fence and allow the area to naturally revegetate.",
+          "The commission agreed the existing fence does not need to be moved.",
+          "The agent will conduct a final site visit in the fall before the certificate is officially issued."
+        ],
+        "outcome": "Action deferred pending a site visit in the fall.",
+        "why_it_matters": null,
+        "start_seconds": 3149,
+        "end_seconds": null
+      },
+      {
+        "title": "Tree clearing inquiry: Cordaville Road triangle parcel",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The conservation agent reported on a site inspection with the owner of an unbuilt triangular parcel on Cordaville Road where unauthorized tree cutting occurred. The parcel is non-conforming, sits over an MWRA water pipeline, and contains wetland resources with an unlikelihood of passing Title 5 septic requirements. The owner ceased cutting and agreed that if the lot proves unbuildable within six to twelve months, he will install mitigation plantings.",
+        "key_details": [
+          "Parcel located at the corner of Cordaville Road and Mt. Vickery Road.",
+          "Site is constrained by wetlands, previous DEP determinations, and an underground 30-inch MWRA water line.",
+          "Trees were hand-sawn at waist height and are already resprouting.",
+          "The owner agreed to stop further work while exploring whether a house and septic can legally be engineered."
+        ],
+        "outcome": "Property owner agreed to halt cutting and plant mitigation if the lot cannot be developed.",
+        "why_it_matters": null,
+        "start_seconds": 3895,
+        "end_seconds": null
+      },
+      {
+        "title": "Conservation agent report and enforcement updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The conservation agent provided updates on several ongoing town matters, including court proceedings regarding 200 Southville Road where the town is seeking a formal injunction following lack of response from the property owner. Updates were also provided on utility trench mitigation at Valvoline, open pit remediation at 45 Southville Road, upcoming Eagle Scout trail bridge filings, and recent Select Board reappointments.",
+        "key_details": [
+          "Town counsel is preparing a formal injunction filing against the owner of 200 Southville Road for non-compliance and unpaid fines.",
+          "Valvoline is coordinating required mitigation plantings for tree removal and utility trench work in the buffer zone.",
+          "Work at 45 Southville Road is underway to address a safety concern regarding an open septic pit.",
+          "Upcoming filings include an accessory dwelling unit on Newton Street and two Eagle Scout footbridge projects.",
+          "Commissioners discussed a recurring proposal to potentially merge the Open Space Preservation Commission and the Stewardship Committee."
+        ],
+        "outcome": "Discussed ongoing court action and upcoming filings.",
+        "why_it_matters": null,
+        "start_seconds": 4381,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend Cori Gould to the Select Board for appointment to the Conservation Commission.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 515
+      },
+      {
+        "motion": "Continue the public hearing for the Parkerville Road and Lynbrook Road right-of-way utility pole replacement project to June 25, 2026.",
+        "result": "continued",
+        "tally": "4-0",
+        "start_seconds": 1135
+      },
+      {
+        "motion": "Continue the public hearing for 250 Turnpike Road and 0 Parkerville Road to June 25, 2026.",
+        "result": "continued",
+        "tally": "4-0",
+        "start_seconds": 2947
+      },
+      {
+        "motion": "Continue the public hearing for 0 Southville Road to June 25, 2026.",
+        "result": "continued",
+        "tally": "4-0",
+        "start_seconds": 3039
+      },
+      {
+        "motion": "Issue a Certificate of Compliance for DEP #290-1129 at 170 Woodland Road.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 3128
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next scheduled Conservation Commission meeting and continued public hearings",
+        "when": "June 25, 2026"
+      },
+      {
+        "what": "Conservation agent follow-up site visit for Certificate of Compliance at 229 Parkerville Road",
+        "when": "Fall 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:16:26Z",
+  "usage": {
+    "total_tokens": 195568,
+    "total_input_tokens": 187904,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 187213
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2824,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 4840
+  }
+}

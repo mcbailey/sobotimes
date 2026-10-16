@@ -1,0 +1,108 @@
+{
+  "video": {
+    "id": "PAtEimNNvz4",
+    "title": "Wastewater Study Committee 4/23/26",
+    "published_at": "2026-04-29T12:27:29Z",
+    "duration_s": 3811
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-04-23",
+    "headline": "The Wastewater Study Committee refined its Route 9 wastewater plan and District Improvement Financing proposal ahead of a Select Board update.",
+    "summary": "The Southborough Wastewater Study Committee prepared for its upcoming presentation to the Select Board regarding a Route 9 wastewater collection and treatment system. Members discussed establishing a District Improvement Financing (DIF) district covering roughly 580 parcels to capture future tax increments to fund infrastructure debt, targeting the fall 2026 Special Town Meeting for voter authorization. The committee also debated presentation strategies, evaluated site constraints for treatment and ground discharge facilities, and reviewed ongoing regional outreach with Westborough and the Planning Board.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the draft meeting minutes from its March 19, 2026 meeting.",
+        "key_details": [
+          "Minutes of March 19, 2026 were approved unanimously by roll call."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "Select Board presentation and District Improvement Financing strategy",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The committee reviewed draft presentation slides for the Select Board, focusing on a proposal to establish a District Improvement Financing (DIF) district along Route 9. Members debated whether to display a detailed parcel map showing 580 parcels, agreeing to simplify the graphic and emphasize high-level concepts to prevent voter confusion or premature concern about zoning and taxes. The timeline was extended to 2030 following an unfunded state One Stop grant, with a goal of presenting the DIF authorization and design funds at the fall 2026 Special Town Meeting.",
+        "key_details": [
+          "Proposed DIF area covers approximately 1,547 acres, 580 property parcels, and $786 million in current assessed value along Route 9.",
+          "DIF allows the town to pledge a portion of future incremental property tax growth within the district toward repaying wastewater infrastructure debt.",
+          "Establishing the DIF baseline requires a simple majority vote at Town Meeting, with a target effective baseline date of January 1, 2026 or 2027.",
+          "Implementation timeline extends to 2030 after the FY27 One Stop grant application for design funds was not approved.",
+          "The committee will request the Select Board extend the committee charge from June 30, 2026 to June 30, 2027."
+        ],
+        "outcome": "Members agreed to remove the detailed parcel-dot map from the main presentation and highlight the DIF concept.",
+        "why_it_matters": "A DIF district could capture new commercial tax revenue to help finance tens of millions of dollars in wastewater infrastructure along Route 9 without relying solely on general property taxes.",
+        "start_seconds": 70,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional coordination, grant opportunities, and site evaluation",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The committee discussed state grant programs, regional collaboration with Westborough, and land requirements for wastewater treatment and ground discharge. Members reviewed feedback from state One Stop webinars and explored partnering with Westborough and the Planning Board on Route 9 zoning enhancements. Technical discussions also addressed the difficulty of locating a single contiguous 20-acre parcel in town, leading members to explore connecting multiple non-contiguous parcels using pump systems.",
+        "key_details": [
+          "Target system capacity is estimated between 300,000 and 500,000 gallons per day.",
+          "Westborough officials and town planners met with Southborough representatives to discuss potential cross-border wastewater collaboration along the Route 9 corridor.",
+          "A combined treatment plant and discharge site ideally requires up to 20 acres, which is scarce along Route 9.",
+          "The committee agreed to approach the Planning Board in May to discuss joint planning and zoning along Route 9.",
+          "A committee member established a shared OneDrive site to centralize project data and research."
+        ],
+        "outcome": "The committee agreed to request time on the Planning Board agenda in May and continue evaluating multi-parcel discharge configurations.",
+        "why_it_matters": null,
+        "start_seconds": 2240,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting presentation by Wastewater Study Committee",
+        "when": "April 28, 2026"
+      },
+      {
+        "what": "Wastewater Study Committee joint discussion with Planning Board",
+        "when": "May 2026"
+      },
+      {
+        "what": "Next Wastewater Study Committee meeting",
+        "when": "May 21, 2026"
+      },
+      {
+        "what": "Fall Special Town Meeting consideration of DIF plan and design funds",
+        "when": "Fall 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-16T00:01:28Z",
+  "usage": {
+    "total_tokens": 148767,
+    "total_input_tokens": 146255,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 145562
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1234,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1278
+  }
+}

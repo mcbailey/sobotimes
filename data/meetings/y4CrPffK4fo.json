@@ -1,0 +1,73 @@
+{
+  "video": {
+    "id": "y4CrPffK4fo",
+    "title": "Southborough K-8 School Committee, Special Open meeting March 24, 2026",
+    "published_at": "2026-05-12T18:57:48Z",
+    "duration_s": 1219
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-03-24",
+    "headline": "The School Committee approved an informational flyer explaining the proposed $8.8 million Trottier roof project ahead of Town Meeting.",
+    "summary": "The Southborough School Committee held a brief special meeting to review an informational flyer for the Trottier Middle School roof project. Members adjusted wording to clarify that state rules require Town Meeting to authorize the full $8.8 million gross cost even though state grant reimbursements will lower the net town cost to roughly $5.38 million. The committee approved the revised flyer for distribution across school and municipal channels ahead of the April 11 Annual Town Meeting.",
+    "topics": [
+      {
+        "title": "Trottier Middle School roof project informational flyer",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee reviewed and revised a draft informational flyer to inform voters about the condition of the Trottier Middle School roof and the upcoming funding request. Members emphasized clearly distinguishing between the total gross appropriation required by the Massachusetts School Building Authority and the town's net cost after grant reimbursement.",
+        "key_details": [
+          "The project is scheduled for votes at the April 11 Annual Town Meeting and on the town election ballot.",
+          "Total estimated project cost is $8,833,964, with an estimated MSBA reimbursement of 41.52% ($3,456,367).",
+          "The estimated net cost to Southborough taxpayers is $5,377,597.",
+          "Members adjusted the flyer to clarify that voters must authorize the gross amount of approximately $8.8 million, simplify cost line items, and add a link to full project reports.",
+          "Plans for distributing the flyer include ParentSquare, elementary school student backpacks, town news sites, Town Hall, the library, and the Senior Center."
+        ],
+        "outcome": "Flyer approved as edited",
+        "why_it_matters": "Residents will vote at Town Meeting and the town election on whether to authorize borrowing for the multi-million dollar school roof replacement.",
+        "start_seconds": 105,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the one-page flyer for the Trottier Middle School roof project as edited",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1135
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Annual Town Meeting vote on Trottier roof project",
+        "when": "April 11"
+      }
+    ],
+    "caveats": "One committee member experienced remote connection issues during the discussion and was disconnected during the roll call vote."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:37:24Z",
+  "usage": {
+    "total_tokens": 47749,
+    "total_input_tokens": 45797,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 45096
+      },
+      {
+        "modality": "text",
+        "tokens": 701
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 661,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1291
+  }
+}

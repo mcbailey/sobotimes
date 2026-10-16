@@ -1,0 +1,73 @@
+{
+  "video": {
+    "id": "NSeY9P5X_sc",
+    "title": "Select Board Meeting 5/29/26",
+    "published_at": "2026-05-29T12:42:28Z",
+    "duration_s": 599
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-05-29",
+    "headline": "The Select Board appointed Joseph Lindberg as a full-time probationary police officer, bringing the police department to full staffing.",
+    "summary": "At a brief single-item special meeting, the Select Board voted unanimously to appoint Joseph Lindberg as a full-time probationary police officer. Lindberg brings prior law enforcement experience from Holden, Massachusetts and Billings, Montana, as well as specialized training in crash reconstruction. Following the vote, an official from the town clerk's office administered the oath of office.",
+    "topics": [
+      {
+        "title": "Appointment of Joseph Lindberg as probationary police officer",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "Police Chief Ryan Newell presented candidate Joseph Lindberg for appointment as a full-time probationary police officer. Newell reported that Lindberg completed all background, psychological, and physical evaluations and holds certifications in taser instruction and crash reconstruction. The appointment fills the final vacant officer position in the department, achieving full staffing.",
+        "key_details": [
+          "Lindberg holds a bachelor's degree in conservation law enforcement from Unity College in Maine.",
+          "He previously served three years with the Holden Police Department and three years with the Billings Airport Police Department in Montana.",
+          "He is certified in crash reconstruction following 240 hours of training, filling a department specialty vacancy.",
+          "Because of prior experience, his field training is expected to take six weeks or less instead of the standard 12 weeks.",
+          "His official start date is Monday following the appointment."
+        ],
+        "outcome": "Approved unanimously, followed by swearing-in by the town clerk's office.",
+        "why_it_matters": "Filling this vacancy brings the Southborough Police Department to full staffing levels authorized in recent town budget cycles.",
+        "start_seconds": 42,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Joseph Lindberg as a full-time probationary police officer with the Town of Southborough effective May 29, 2026.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 484
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Officer Joseph Lindberg begins local field training",
+        "when": "June 1, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:25:38Z",
+  "usage": {
+    "total_tokens": 24980,
+    "total_input_tokens": 23566,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 22875
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 600,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 814
+  }
+}

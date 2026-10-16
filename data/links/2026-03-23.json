@@ -1,0 +1,18 @@
+{
+  "week": "2026-03-23",
+  "fingerprint": "de3416453581ebc5",
+  "topics": {
+    "y4CrPffK4fo#0": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    }
+  },
+  "upcoming": {
+    "y4CrPffK4fo#u0": {
+      "date": "2026-04-11",
+      "issue": "trottier-school-roof-replacement"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:14:28Z"
+}

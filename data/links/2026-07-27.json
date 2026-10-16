@@ -1,0 +1,110 @@
+{
+  "week": "2026-07-27",
+  "fingerprint": "25724d722d7bad5c",
+  "topics": {
+    "JKZ8ZOjmCsQ#0": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "JKZ8ZOjmCsQ#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "JKZ8ZOjmCsQ#2": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "JKZ8ZOjmCsQ#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QRNUZNQbwv8#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QRNUZNQbwv8#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "QRNUZNQbwv8#2": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "QRNUZNQbwv8#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "QRNUZNQbwv8#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "QRNUZNQbwv8#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QRNUZNQbwv8#6": {
+      "issue": "town-website-redesign",
+      "category": "Staffing & operations"
+    },
+    "hxB6rx-EkQY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hxB6rx-EkQY#1": {
+      "issue": "0-valley-road-trail",
+      "category": "Parks, trails & recreation"
+    },
+    "hxB6rx-EkQY#2": {
+      "issue": "14-newton-street",
+      "category": "Zoning & development"
+    },
+    "hxB6rx-EkQY#3": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "hxB6rx-EkQY#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    }
+  },
+  "upcoming": {
+    "JKZ8ZOjmCsQ#u0": {
+      "date": "2026-08-05",
+      "issue": null
+    },
+    "JKZ8ZOjmCsQ#u1": {
+      "date": "2026-08-11",
+      "issue": "fy28-operating-budget"
+    },
+    "JKZ8ZOjmCsQ#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "JKZ8ZOjmCsQ#u3": {
+      "date": "2027-03-20",
+      "issue": null
+    },
+    "QRNUZNQbwv8#u0": {
+      "date": "2026-08-27",
+      "issue": null
+    },
+    "QRNUZNQbwv8#u1": {
+      "date": "2026-08-27",
+      "issue": null
+    },
+    "QRNUZNQbwv8#u2": {
+      "date": "2026-09-02",
+      "issue": null
+    },
+    "QRNUZNQbwv8#u3": {
+      "date": null,
+      "issue": null
+    },
+    "hxB6rx-EkQY#u0": {
+      "date": "2026-08-27",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:42:54Z"
+}

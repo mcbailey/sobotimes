@@ -1,0 +1,80 @@
+{
+  "video": {
+    "id": "mmpLfpY8-s0",
+    "title": "Southborough Special Open School Committee June 18, 2026",
+    "published_at": "2026-07-10T13:42:27Z",
+    "duration_s": 173
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-06-18",
+    "headline": "The School Committee unanimously approved a three-year collective bargaining agreement covering Unit C administrative assistants and educational support professionals.",
+    "summary": "In a brief special open meeting following an executive session, the Southborough School Committee voted unanimously to approve a three-year contract with the Southborough Teachers Association for Unit C. The bargaining unit includes school administrative assistants and educational support professionals. Officials commended the collaborative bargaining process and noted the agreement will be made public once ratified by both sides.",
+    "topics": [
+      {
+        "title": "Southborough Teachers Association Unit C contract approval",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The School Committee reconvened into open session to consider approval of a three-year contract negotiated with the Southborough Teachers Association for Unit C. District administration reported that negotiations were highly collaborative and productive.",
+        "key_details": [
+          "Covers Unit C administrative assistants and educational support professionals",
+          "Three-year contract term",
+          "Previously reviewed and voted on in executive session",
+          "Document will be made public after ratification by both parties"
+        ],
+        "outcome": "Approved unanimously by roll call vote (5-0)",
+        "why_it_matters": "The contract determines compensation, working conditions, and terms of employment for school support staff who work directly with students and school offices.",
+        "start_seconds": 26,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee conducted procedural business to conclude the special meeting.",
+        "key_details": [
+          "Adjourned at 2:02 PM by unanimous roll call vote"
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 153,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the agreement with the Southborough Teachers Association Unit C for administrative assistants and educational support professionals",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 138
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:40:37Z",
+  "usage": {
+    "total_tokens": 9097,
+    "total_input_tokens": 7333,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 695
+      },
+      {
+        "modality": "video",
+        "tokens": 6638
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 571,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1193
+  }
+}

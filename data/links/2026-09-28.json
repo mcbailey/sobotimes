@@ -1,0 +1,94 @@
+{
+  "week": "2026-09-28",
+  "fingerprint": "2fa6d1ec7a8032c7",
+  "topics": {
+    "InzL5O9vgMQ#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "InzL5O9vgMQ#1": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "InzL5O9vgMQ#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "InzL5O9vgMQ#3": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "hCwuB4U1qOk#0": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#1": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#3": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#4": {
+      "issue": "fay-school-25-middle-road",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#5": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "hCwuB4U1qOk#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hCwuB4U1qOk#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "InzL5O9vgMQ#u0": {
+      "date": "2026-10-03",
+      "issue": null
+    },
+    "InzL5O9vgMQ#u1": {
+      "date": "2026-10-08",
+      "issue": null
+    },
+    "InzL5O9vgMQ#u2": {
+      "date": "2026-10-12",
+      "issue": null
+    },
+    "InzL5O9vgMQ#u3": {
+      "date": "2026-10-17",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "InzL5O9vgMQ#u4": {
+      "date": "2026-11-07",
+      "issue": null
+    },
+    "hCwuB4U1qOk#u0": {
+      "date": "2026-10-08",
+      "issue": "neary-school-building-project"
+    },
+    "hCwuB4U1qOk#u1": {
+      "date": "2026-10-17",
+      "issue": "two-family-zoning-amendment"
+    },
+    "hCwuB4U1qOk#u2": {
+      "date": "2026-10-19",
+      "issue": null
+    },
+    "hCwuB4U1qOk#u3": {
+      "date": "2026-10-21",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:00:31Z"
+}

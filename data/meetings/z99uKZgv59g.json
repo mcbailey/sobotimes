@@ -1,0 +1,145 @@
+{
+  "video": {
+    "id": "z99uKZgv59g",
+    "title": "Board of Health 5/5/26",
+    "published_at": "2026-05-05T21:54:37Z",
+    "duration_s": 1850
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-05-05",
+    "headline": "The Board of Health addressed persistent odor and noise complaints regarding Marlborough's Brox asphalt plant and directed staff to seek legal action against an unlicensed massage business.",
+    "summary": "The Board of Health reviewed ongoing neighborhood complaints regarding the Brox asphalt plant on the Marlborough border, hearing from an affected Stow Road resident and reiterating that MassDEP holds primary regulatory jurisdiction. Staff received board backing to pursue a cease-and-desist order through Town Counsel against an unlicensed bodywork establishment operating at 7 Turnpike Road. The board also received an update on strategic planning for the Greater Boroughs Partnership for Health and finalized the timeline for annual staff performance reviews.",
+    "topics": [
+      {
+        "title": "Greater Boroughs Partnership for Health strategic planning update",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Health department staff updated the board on the five-year strategic planning process conducted alongside consultant HRiA for the regional health collaborative. Initial key informant interviews highlighted three main themes: communication and engagement, funding sustainability, and operational programming and structure.",
+        "key_details": [
+          "Consultant firm HRiA conducted key informant interviews across the partnership.",
+          "Three main priority themes were identified: engagement and communication, funding and sustainability, and programming and structure.",
+          "The collaborative is setting regional health department goals for the next five years.",
+          "Board members interested in participating in upcoming virtual working sessions were invited to notify staff."
+        ],
+        "outcome": "Staff will coordinate attendance for any board members wishing to join upcoming planning sessions.",
+        "why_it_matters": null,
+        "start_seconds": 16,
+        "end_seconds": null
+      },
+      {
+        "title": "Staff performance evaluations process",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board coordinated the annual review process for the health director and department staff. Board members agreed to independently complete evaluations of the director for the chair to compile and average.",
+        "key_details": [
+          "Director evaluation forms are due back to the chair by May 29, 2026.",
+          "Compiled evaluations will be formally presented at the June board meeting.",
+          "Staff reviews for other department employees will be coordinated jointly with Northborough and the Board of Assessors."
+        ],
+        "outcome": "Board members will complete individual evaluations and return them to the chair by May 29, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 146,
+        "end_seconds": null
+      },
+      {
+        "title": "Brox asphalt plant odor and noise complaints",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "Staff and board members discussed long-standing complaints from Southborough residents regarding odors and early-morning noise emanating from the Brox Industries asphalt plant located across the town line in Marlborough. Town Counsel advised that the facility is outside Southborough's regulatory jurisdiction, leaving formal enforcement to the Massachusetts Department of Environmental Protection and the City of Marlborough. MassDEP is organizing an on-site stakeholder meeting, which health department staff and a board member plan to attend.",
+        "key_details": [
+          "Brox Industries operates an asphalt plant located in Marlborough near the Southborough border.",
+          "Southborough Town Counsel advised the board that it lacks legal jurisdiction over an out-of-town facility and Southborough noise bylaws do not apply.",
+          "MassDEP is currently leading the regulatory investigation and logging complaints from local residents.",
+          "MassDEP and Brox are coordinating an on-site meeting tentatively planned for the week following Memorial Day.",
+          "A board member with a background in environmental health volunteered to join the health director at the upcoming meeting."
+        ],
+        "outcome": "The health director and a board member will attend the forthcoming multi-party meeting hosted by MassDEP.",
+        "why_it_matters": "Residents in northwestern Southborough experience chemical odors and early-morning industrial noise, but local health officials must rely on state regulators to enforce environmental standards across town boundaries.",
+        "start_seconds": 286,
+        "end_seconds": null
+      },
+      {
+        "title": "Bodywork regulations enforcement at 7 Turnpike Road",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Health inspectors reported that an apparent massage business operating at 7 Turnpike Road has failed to apply for a town bodywork permit more than a month after being notified of new town regulations. Staff sought the board's agreement to work with Town Counsel to issue a cease-and-desist order.",
+        "key_details": [
+          "Property location is 7 Turnpike Road.",
+          "Town inspectors visited the site in person after initial certified mail notifications received no response.",
+          "A business representative stated intentions to comply over a month ago, but no application was submitted.",
+          "The establishment is currently operating without a local bodyworks license."
+        ],
+        "outcome": "The board gave consensus approval for staff to consult Town Counsel and issue a cease-and-desist order.",
+        "why_it_matters": null,
+        "start_seconds": 1510,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board confirmed upcoming regular meeting dates for the summer, scheduling meetings for June and July while opting to skip a formal meeting in August unless urgent business arises.",
+        "key_details": [
+          "The next regular meeting was confirmed for June 9, 2026, at 11:00 AM.",
+          "The subsequent regular meeting was scheduled for July 7, 2026, at 11:00 AM.",
+          "The board adjourned at 9:35 AM."
+        ],
+        "outcome": "Summer meeting dates confirmed.",
+        "why_it_matters": null,
+        "start_seconds": 1666,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident of Stow Road addressed the board regarding persistent intermittent chemical and burnt-rubber odors and early-morning noise from the nearby Brox asphalt plant in Marlborough. The resident requested that the towns of Southborough and Marlborough jointly fund an independent air quality consultant to analyze emissions for potential toxins and health hazards, noting that informal complaints are widespread among neighbors who fear speaking out.",
+        "start_seconds": 661
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Submission deadline for board member evaluations of the health director",
+        "when": "May 29, 2026"
+      },
+      {
+        "what": "Tentative on-site stakeholder meeting at Brox Industries with MassDEP and town officials",
+        "when": "Week after Memorial Day"
+      },
+      {
+        "what": "Next Board of Health meeting",
+        "when": "June 9, 2026 at 11:00 AM"
+      },
+      {
+        "what": "Board of Health meeting",
+        "when": "July 7, 2026 at 11:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:55:00Z",
+  "usage": {
+    "total_tokens": 74378,
+    "total_input_tokens": 71361,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 70672
+      },
+      {
+        "modality": "text",
+        "tokens": 689
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1683,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1334
+  }
+}

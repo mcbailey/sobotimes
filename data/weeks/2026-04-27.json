@@ -1,0 +1,85 @@
+{
+  "headline": "The Select Board reviewed plans for a $40 million Route 9 sewer system, while town boards advanced conservation rules and development reviews.",
+  "synopsis": "The Select Board extended the Regional Wastewater Planning Committee charge to June 2027 as the town prepares a financing district for a proposed $40 million to $50 million Route 9 wastewater system. The board also reviewed long-term funding strategies for retiree health liabilities and expanded the Senior Tax Work-Off program to 40 positions. The Conservation Commission adopted updated rules for town conservation properties and continued review of a two-building apartment proposal at 0 Southville Road. Meanwhile, the Planning Board penalized an unauthorized public tree removal on Route 9 and began drafting native planting standards for future site plans.",
+  "highlights": [
+    {
+      "title": "Route 9 wastewater system update and committee extension",
+      "why": "The Regional Wastewater Planning Committee outlined plans for a $40 million to $50 million sewer system along Route 9, and the Select Board voted 4-0-1 to extend the committee's work through June 2027.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "Z4yuMDzSo_o",
+      "start_seconds": 5390
+    },
+    {
+      "title": "OPEB actuarial valuation and funding strategy",
+      "why": "Actuaries reported that Southborough's retiree health trust holds about $4.5 million, an 8 percent funded ratio, prompting discussions on redirecting regional pension funds once that system is fully funded around 2036.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "Z4yuMDzSo_o",
+      "start_seconds": 504
+    },
+    {
+      "title": "0 Southville Road apartment development review",
+      "why": "The Conservation Commission reviewed a notice of intent for two apartment buildings involving roughly 4,500 square feet of riverfront disturbance and continued the hearing for peer review.",
+      "body": "Conservation Commission",
+      "importance": "high",
+      "video_id": "znWhFcdIV3k",
+      "start_seconds": 786
+    },
+    {
+      "title": "Unauthorized tree removal mitigation at 154 Turnpike Road",
+      "why": "After a developer removed a 24-inch public shade tree without permission, the Planning Board and Tree Warden approved remediation requiring the developer to provide six replacement trees to the town.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "jsNUGSfKF7c",
+      "start_seconds": 4120
+    },
+    {
+      "title": "Adoption of town conservation land use regulations",
+      "why": "The Conservation Commission voted to formally adopt updated regulations governing municipal conservation land under Section 43-2 of the Town Code.",
+      "body": "Conservation Commission",
+      "importance": "medium",
+      "video_id": "znWhFcdIV3k",
+      "start_seconds": 2495
+    },
+    {
+      "title": "Senior Tax Work-Off program expansion",
+      "why": "The Select Board approved revisions to the Senior Tax Work-Off Policy, streamlining eligibility and increasing the maximum number of participant positions from 30 to 40.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "Z4yuMDzSo_o",
+      "start_seconds": 7592
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Zoning Board of Appeals deliberation on 250 Turnpike Road draft 40B decision",
+      "when": "May 6, 2026",
+      "body": "Zoning Board of Appeals"
+    },
+    {
+      "what": "Planning Board hearings for 22 and 154 Turnpike Road and adoption of native plant regulations",
+      "when": "May 11, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Continued hearing on 0 Southville Road apartment Notice of Intent",
+      "when": "May 14, 2026",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Anticipated Route 9 wastewater District Improvement Financing proposal at Special Town Meeting",
+      "when": "Fall 2026",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-04-27",
+  "fingerprint": "d52e7c4e67454813",
+  "video_ids": [
+    "Z4yuMDzSo_o",
+    "jsNUGSfKF7c",
+    "znWhFcdIV3k"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:12:11Z"
+}

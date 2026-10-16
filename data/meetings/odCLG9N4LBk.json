@@ -1,0 +1,151 @@
+{
+  "video": {
+    "id": "odCLG9N4LBk",
+    "title": "Stewardship Committee 8/4/26",
+    "published_at": "2026-08-05T16:37:23Z",
+    "duration_s": 3483
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Stewardship Committee",
+    "meeting_date": "2026-08-04",
+    "headline": "The Stewardship Committee reaffirmed its independent mission and approved treated wood for an Eagle Scout footbridge project in the Town Forest.",
+    "summary": "The Southborough Stewardship Committee discussed upcoming Select Board deliberations regarding committee membership and potential structural changes, reiterating its desire to maintain an independent focus on Breakneck Hill and the Town Forest. Members voted to approve the use of pre-purchased pressure-treated lumber for an Eagle Scout footbridge project near a vernal pool. The committee also designated a liaison for ongoing invasive species management and reviewed a planned five-area restoration package for Breakneck Hill, utilizing $47,000 recovered from contractors.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed meeting minutes from June 23, 2026, confirmed there were no new updates on the community gardens, and adjourned the meeting.",
+        "key_details": [
+          "Minutes of the June 23, 2026 meeting were approved unanimously.",
+          "Meeting adjourned at approximately 7:29 PM."
+        ],
+        "outcome": "Meeting minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 38,
+        "end_seconds": null
+      },
+      {
+        "title": "Select Board meeting preparation and committee structure",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed an upcoming August 11 Select Board agenda item concerning committee appointments and potential proposals to combine the Stewardship Committee with the Open Space Preservation Commission. Members expressed a unified stance that the Stewardship Committee should remain a distinct, ad-hoc entity focused strictly on maintenance and land management of Breakneck Hill and the Town Forest. The committee reaffirmed its support for appointing an experienced former member to an at-large seat.",
+        "key_details": [
+          "Select Board is scheduled to consider appointments on August 11.",
+          "Select Board members previously suggested exploring a merger of the Open Space Preservation Commission and the Stewardship Committee.",
+          "The committee supports keeping its specific land management mission separate from Open Space duties.",
+          "The Conservation Commission submitted a letter to the Select Board supporting keeping the bodies separate."
+        ],
+        "outcome": "Committee members agreed to attend the August 11 Select Board meeting to advocate for maintaining their current mission and structure.",
+        "why_it_matters": null,
+        "start_seconds": 258,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Forest footbridge construction materials",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee evaluated whether to proceed with pressure-treated lumber already purchased by the Trails Committee for an Eagle Scout footbridge project in the Town Forest or to substitute cedar. A member shared findings from the Conservation Commission indicating that modern pressure-treated wood leaches minimal copper and does not migrate significantly into soil or sensitive wetland areas.",
+        "key_details": [
+          "The project involves a footbridge near a vernal pool and wetland crossing in the Town Forest.",
+          "Lumber was already pre-cut and aged outdoors over a season, reducing surface residue risks.",
+          "Conservation Commission approved similar treated lumber for wetland crossings based on forestry research."
+        ],
+        "outcome": "Approved 4-0 to authorize the use of the pre-cut treated wood for the Eagle Scout project.",
+        "why_it_matters": null,
+        "start_seconds": 960,
+        "end_seconds": null
+      },
+      {
+        "title": "Breakneck Hill drone photography",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The chair proposed engaging a local high school student who holds an exception to fly a drone at Breakneck Hill Conservation Land to capture updated aerial footage. The footage would document restoration progress at the former farm dump site and be shared on the committee web page.",
+        "key_details": [
+          "Drones are generally prohibited at Breakneck Hill without explicit permission.",
+          "Aerial documentation will capture progress from the initial cleanup through revegetation."
+        ],
+        "outcome": "Committee members agreed to coordinate with the student to schedule summer drone flights.",
+        "why_it_matters": null,
+        "start_seconds": 1503,
+        "end_seconds": null
+      },
+      {
+        "title": "Invasive species management and restoration scope",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The committee discussed its ongoing invasive management plan and a broader restoration scope of work being prepared with the town planner. The comprehensive restoration plan spans five zones at Breakneck Hill, including the parking lot, access road, damaged beecology research meadow, transitional woods, and the remediated farm dump.",
+        "key_details": [
+          "The town recovered $47,000 from remediation contractors to repair damaged areas of the beecology meadow.",
+          "Soil compaction from heavy vehicles will require mechanical intervention before replanting.",
+          "A formal scope of work is being drafted to solicit bids for botanical surveys, native seed planting, and site grading."
+        ],
+        "outcome": "Voted 4-0 to appoint a former member as committee liaison to the invasive plant management contractor.",
+        "why_it_matters": null,
+        "start_seconds": 1788,
+        "end_seconds": null
+      },
+      {
+        "title": "Meadow maintenance and pollinator habitat updates",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "Members reviewed progress on the roadside meadow at Breakneck Hill, which is being maintained with high-height string mowing to knock back invasive weeds without harming emerging native wildflowers. A volunteer reported substantial success eradicating invasive purple loosestrife, resulting in strong native plant growth and an abundance of bumblebees.",
+        "key_details": [
+          "String mowing targeted tall weeds such as ragwort, Queen Anne's lace, and horseweed before they could set seed.",
+          "Purple loosestrife has dropped from over 90 percent coverage to trace amounts across the wetland area.",
+          "Native monkeyflower, swamp milkweed, and vervain have naturally returned to the site."
+        ],
+        "outcome": "Informational update; maintenance work will continue as planned.",
+        "why_it_matters": null,
+        "start_seconds": 2608,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the use of treated wood for the Town Forest Eagle Scout footbridge project.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1428
+      },
+      {
+        "motion": "Approve Freddie Gillespie as liaison for the invasive species treatment plan.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1909
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting discussing Stewardship Committee appointments and structure",
+        "when": "August 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:21:19Z",
+  "usage": {
+    "total_tokens": 136537,
+    "total_input_tokens": 133689,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 688
+      },
+      {
+        "modality": "video",
+        "tokens": 133001
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1684,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1164
+  }
+}

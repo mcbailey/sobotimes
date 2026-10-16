@@ -1,0 +1,150 @@
+{
+  "week": "2026-04-27",
+  "fingerprint": "d52e7c4e67454813",
+  "topics": {
+    "Z4yuMDzSo_o#0": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "Z4yuMDzSo_o#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "Z4yuMDzSo_o#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "Z4yuMDzSo_o#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Z4yuMDzSo_o#4": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "Z4yuMDzSo_o#5": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "jsNUGSfKF7c#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "jsNUGSfKF7c#1": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "jsNUGSfKF7c#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "jsNUGSfKF7c#3": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "jsNUGSfKF7c#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "jsNUGSfKF7c#5": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "jsNUGSfKF7c#6": {
+      "issue": "native-plant-landscape-regulations",
+      "category": "Environment & conservation"
+    },
+    "jsNUGSfKF7c#7": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "jsNUGSfKF7c#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "znWhFcdIV3k#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "znWhFcdIV3k#1": {
+      "issue": "22-turnpike-road",
+      "category": "Environment & conservation"
+    },
+    "znWhFcdIV3k#2": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "znWhFcdIV3k#3": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "znWhFcdIV3k#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "znWhFcdIV3k#5": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "znWhFcdIV3k#6": {
+      "issue": null,
+      "category": "Environment & conservation"
+    }
+  },
+  "upcoming": {
+    "Z4yuMDzSo_o#u0": {
+      "date": "2026-05-06",
+      "issue": null
+    },
+    "Z4yuMDzSo_o#u1": {
+      "date": "2026-05-07",
+      "issue": null
+    },
+    "Z4yuMDzSo_o#u2": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "Z4yuMDzSo_o#u3": {
+      "date": null,
+      "issue": null
+    },
+    "jsNUGSfKF7c#u0": {
+      "date": "2026-05-11",
+      "issue": "22-turnpike-road"
+    },
+    "jsNUGSfKF7c#u1": {
+      "date": "2026-05-11",
+      "issue": "154-turnpike-road"
+    },
+    "jsNUGSfKF7c#u2": {
+      "date": "2026-05-11",
+      "issue": "native-plant-landscape-regulations"
+    },
+    "jsNUGSfKF7c#u3": {
+      "date": "2026-06-05",
+      "issue": "154-turnpike-road"
+    },
+    "jsNUGSfKF7c#u4": {
+      "date": "2026-06-06",
+      "issue": "22-turnpike-road"
+    },
+    "znWhFcdIV3k#u0": {
+      "date": "2026-05-06",
+      "issue": "250-turnpike-road"
+    },
+    "znWhFcdIV3k#u1": {
+      "date": "2026-05-14",
+      "issue": "0-southville-road"
+    },
+    "znWhFcdIV3k#u2": {
+      "date": "2026-05-14",
+      "issue": null
+    },
+    "znWhFcdIV3k#u3": {
+      "date": "2026-05-25",
+      "issue": "250-turnpike-road"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:16:33Z"
+}

@@ -1,0 +1,145 @@
+{
+  "video": {
+    "id": "hQZmHwP8rnw",
+    "title": "Select Board Meeting 5/5/26",
+    "published_at": "2026-05-06T11:29:34Z",
+    "duration_s": 2792
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-05-05",
+    "headline": "The Select Board awarded the Neary School feasibility study design contract to Tappe Architects and backed funds for landfill testing.",
+    "summary": "The Select Board voted unanimously to award the Neary School building feasibility study architectural contract to Tappe Architects upon recommendation from the building committee. The board also authorized the Department of Public Works to utilize bottom-line budget transfers and voted to request a $24,900 Reserve Fund transfer to address DEP-mandated landfill environmental monitoring and residential well sampling. In addition, members paid tribute to outgoing board member Al Hamilton during his final meeting.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board handled routine committee appointments and approved consent agenda items. Three volunteers were appointed to the Cemetery Expansion Committee, and outstanding meeting minutes were approved with minor corrections.",
+        "key_details": [
+          "Appointed Bob Bazukas, Kyle Picubellas, and Mike Chef to the Cemetery Expansion Committee through June 30, 2027.",
+          "Approved consent agenda items including meeting minutes, with a correction noted for the spelling of a former member name."
+        ],
+        "outcome": "Approved unanimous.",
+        "why_it_matters": null,
+        "start_seconds": 13,
+        "end_seconds": null
+      },
+      {
+        "title": "Board announcements and farewell to Al Hamilton",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The chair highlighted upcoming community events and acknowledged departing town officials, with board members sharing extended tributes to member Al Hamilton on his final meeting after years of town service. A member also outlined town activities planned for Mental Health Awareness Month.",
+        "key_details": [
+          "Regional WooSox night scheduled for May 22 for regional towns including Southborough.",
+          "Select Board members praised Al Hamilton for his extensive public service, including work on the Advisory Committee, Affordable Housing Trust, and Regional Emergency Communications Center.",
+          "Mental Health Awareness Month activities include a Celebration of Wellness event at the Community House on May 22 from 6:30 to 7:30 p.m."
+        ],
+        "outcome": "Information shared; no formal action required.",
+        "why_it_matters": null,
+        "start_seconds": 111,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School feasibility study architect selection",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The Elementary School Building Committee reported on its evaluation of five proposals submitted for designer services on the Neary School feasibility study. After interviewing three finalists, the committee recommended Tappe Architects due to their community engagement strategy and school design expertise, and the board voted to award the contract.",
+        "key_details": [
+          "Five proposals were received and three firms were interviewed: Arrowstreet, RGB Architects, and Tappe Architects.",
+          "The committee unanimously favored Tappe Architects after an extensive evaluation and deliberation process.",
+          "Board members discussed ensuring community transparency and engagement throughout the feasibility process."
+        ],
+        "outcome": "Voted unanimously to accept the committee recommendation, award the contract to Tappe Architects, and authorize contract negotiations.",
+        "why_it_matters": "Selecting the designer advances the feasibility phase for modernizing or rebuilding the Neary Elementary School, a major capital investment for the town.",
+        "start_seconds": 800,
+        "end_seconds": null
+      },
+      {
+        "title": "DPW budget overages and landfill monitoring funding",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Department of Public Works Superintendent Bill Cundiff detailed department budget deficits driven by staffing vacancies, overtime, severe winter snow and ice expenses exceeding $170,000, and mandated landfill testing. The board approved bottom-line spending and voted to seek a $24,900 Reserve Fund transfer to fund private well testing and environmental risk assessment required by the state Department of Environmental Protection.",
+        "key_details": [
+          "DPW experienced a $15,800 salary deficit due to unfilled vacancies and overtime, as well as an approximately $170,000 snow and ice overage.",
+          "A 1,4-dioxane hit in a landfill monitoring well prompted the state DEP to mandate risk assessments and sampling of two adjacent private drinking wells.",
+          "Initial drinking well tests showed no exceedances of drinking water standards, but DEP is seeking ongoing PFAS monitoring.",
+          "Consultant PAR submitted a $24,900 contract amendment for the landfill and private well assessment work.",
+          "The town may consider a Fall Town Meeting article to extend municipal water service lines to the two neighboring homes to eliminate perpetual private well testing."
+        ],
+        "outcome": "Voted unanimously to approve DPW bottom-line spending and to request a $24,900 Reserve Fund transfer from the Advisory Committee for the PAR contract amendment.",
+        "why_it_matters": "Environmental monitoring protects residential drinking water quality near the closed landfill, while reserve fund transfers and budget adjustments keep public works operations solvent through the fiscal year.",
+        "start_seconds": 1586,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Bob Bazukas, Kyle Picubellas, and Mike Chef to the Cemetery Expansion Committee for terms expiring June 30, 2027.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 93
+      },
+      {
+        "motion": "Accept the Elementary School Building Committee recommendation, award the Neary School feasibility study contract to Tappe Architects, and authorize the committee to negotiate contract terms.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1507
+      },
+      {
+        "motion": "Authorize the Department of Public Works to utilize bottom-line spending for its operating budget.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1896
+      },
+      {
+        "motion": "Support the DPW request to the Advisory Committee for a reserve fund transfer for budget deficits.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1978
+      },
+      {
+        "motion": "Request the Advisory Committee approve a $24,900 reserve fund transfer to fund the PAR contract amendment for landfill environmental monitoring.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2697
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Final environmental assessment report on the landfill from consultant PAR expected",
+        "when": "next month"
+      },
+      {
+        "what": "Potential warrant article to fund municipal water service line extension to residences near the landfill",
+        "when": "fall Town Meeting"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:54:11Z",
+  "usage": {
+    "total_tokens": 111612,
+    "total_input_tokens": 107306,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 106617
+      },
+      {
+        "modality": "text",
+        "tokens": 689
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1666,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2640
+  }
+}

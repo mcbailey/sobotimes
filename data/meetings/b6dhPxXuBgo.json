@@ -1,0 +1,134 @@
+{
+  "video": {
+    "id": "b6dhPxXuBgo",
+    "title": "Conservation Commission 5/14/26",
+    "published_at": "2026-05-27T13:51:19Z",
+    "duration_s": 1768
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Conservation Commission",
+    "meeting_date": "2026-05-14",
+    "headline": "The Conservation Commission continued hearings and compliance reviews to June 4, including a proposed apartment project at 0 Southville Road.",
+    "summary": "The Conservation Commission met briefly to address hearings and compliance requests. A continued public hearing for a proposed apartment development at 0 Southville Road was pushed to June 4 at the applicant's request. The commission also deferred decisions on Certificate of Compliance requests for 170 Woodland Road and 229 Parkerville Road to allow members and staff adequate time to review submitted plans. Finally, commissioners discussed recent tree-clearing activity at a triangle parcel on Route 85 and Mount Vickery.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission called the meeting to order and approved the meeting minutes from April 30, 2026.",
+        "key_details": [
+          "Meeting opened at 7:00 p.m.",
+          "Minutes of April 30, 2026, were approved without edits."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Southville Road apartment project hearing continuation",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The commission considered a continued public hearing regarding a Notice of Intent and Stormwater Management Permit for 0 Southville Road. The applicant requested a continuance because revised materials and stormwater review were still pending following a site walk.",
+        "key_details": [
+          "Address: 0 Southville Road (Map 5, Lot 8).",
+          "Applicant: Apartments at Southville Road LLC.",
+          "Project scope: Construction of two apartment buildings with associated site work.",
+          "Applicant requested a continuance to allow completion of revised materials and peer reviews."
+        ],
+        "outcome": "Hearing continued to June 4, 2026.",
+        "why_it_matters": "The proposal involves the construction of two apartment buildings in Southborough, which directly affects local land use, stormwater management, and nearby wetlands.",
+        "start_seconds": 64,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance review for 170 Woodland Road",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "A representative presented an updated as-built plan for a Certificate of Compliance at 170 Woodland Road. The plan showed an installed drywell to capture runoff from the pool deck, but because the document arrived late in the day, the commission held the matter over for full review.",
+        "key_details": [
+          "Address: 170 Woodland Road (DEP File #290-1123).",
+          "Applicant: Sarah Schmidt, represented by Goddard Consulting.",
+          "A drywell was installed east of the pool to replace an open discharge pipe.",
+          "As-built plan was submitted late on the day of the meeting."
+        ],
+        "outcome": "Discussion continued to June 4, 2026, without a vote.",
+        "why_it_matters": null,
+        "start_seconds": 202,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance review for 229 Parkerville Road",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The homeowner of 229 Parkerville Road requested a Certificate of Compliance and addressed an alleged encroachment into the 20-foot no-disturb wetland buffer zone. The owner stated a corner post of a fenced vegetable garden encroaches by approximately six inches and sought guidance on whether it could remain or must be moved.",
+        "key_details": [
+          "Address: 229 Parkerville Road (DEP File #290-1024).",
+          "Homeowner indicated the garden fence corner penetrates into the 20-foot no-disturb zone by six inches.",
+          "Commissioners noted standard rules generally require an alternatives analysis or removal for work within the 20-foot buffer.",
+          "Conservation staff was absent due to a scheduling conflict and unable to clarify written notes."
+        ],
+        "outcome": "Discussion deferred to June 4, 2026, to allow staff input.",
+        "why_it_matters": null,
+        "start_seconds": 491,
+        "end_seconds": null
+      },
+      {
+        "title": "Tree cutting update at Route 85 and Mount Vickery triangle parcel",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "Commission members discussed reports of small tree removal occurring at the triangular parcel at Route 85 and Mount Vickery. A board member reported speaking with the individual clearing trees, who stated the work remained outside the wetland boundary, and staff plans follow-up communication.",
+        "key_details": [
+          "Location: Triangular parcel at the intersection of Route 85 and Mount Vickery.",
+          "Trees cut were reported to be small saplings roughly one to two inches in diameter.",
+          "The person conducting the work asserted compliance with wetland setbacks.",
+          "Conservation staff attempted contact and will follow up the following week."
+        ],
+        "outcome": "Staff will follow up with the property owner.",
+        "why_it_matters": null,
+        "start_seconds": 1519,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing for 0 Southville Road to June 4, 2026.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 189
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Conservation Commission meeting and continued hearings for 0 Southville Road, 170 Woodland Road, and 229 Parkerville Road",
+        "when": "June 4, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:27:43Z",
+  "usage": {
+    "total_tokens": 69835,
+    "total_input_tokens": 67189,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 66499
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1455,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1191
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "week": "2026-02-23",
+  "fingerprint": "2a579702fffe4330",
+  "topics": {
+    "qoPRkdI2yfs#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "qoPRkdI2yfs#1": {
+      "issue": "trottier-finn-expansion-studies",
+      "category": "Schools"
+    },
+    "qoPRkdI2yfs#2": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "qoPRkdI2yfs#3": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    }
+  },
+  "upcoming": {
+    "qoPRkdI2yfs#u0": {
+      "date": "2026-02-26",
+      "issue": null
+    },
+    "qoPRkdI2yfs#u1": {
+      "date": "2026-03-02",
+      "issue": null
+    },
+    "qoPRkdI2yfs#u2": {
+      "date": "2026-05-12",
+      "issue": "neary-school-roof-replacement"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:14:17Z"
+}

@@ -1,0 +1,104 @@
+{
+  "headline": "Neary School roof bids arrived well under budget at $2.8 million, an elementary feasibility study began, and major fall CPA requests took shape.",
+  "synopsis": "School officials reported that bids for the Neary Elementary School roof replacement totaled roughly $2.8 million, well below the $4.5 million appropriation, with construction beginning in late June. The district also executed a $165,000 feasibility study contract with Tappé Architects to evaluate elementary facility options ahead of a potential fall Special Town Meeting. Meanwhile, the Community Preservation Committee reviewed Fall Town Meeting project proposals, including an estimated $900,000 golf course irrigation project and Fay Memorial Park upgrades. Additionally, the Board of Health examined asphalt plant odor mitigation efforts, and the Zoning Board of Appeals granted setback relief for a Turnpike Road home subject to Board of Health septic review.",
+  "highlights": [
+    {
+      "title": "Neary School Roof Replacement Bids and Schedule",
+      "why": "Low bids for the Neary roof came in at $2.8 million, well under the $4.5 million authorized borrowing. Construction is scheduled to begin in late June, requiring the Southborough Extended Day summer program to relocate to Finn School.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "D0OA5yLzTtQ",
+      "start_seconds": 3254
+    },
+    {
+      "title": "Elementary School Building Feasibility Contract Executed",
+      "why": "A $165,000 contract was signed with Tappé Architects for feasibility and schematic design work on elementary school facilities. Officials aim to prepare options in time for voters at a potential fall Special Town Meeting.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "D0OA5yLzTtQ",
+      "start_seconds": 2140
+    },
+    {
+      "title": "Golf Course Irrigation Overhaul Estimated at $900,000",
+      "why": "Following value engineering and the addition of a required booster pump station, the revised golf course irrigation project is estimated at $900,000. Project sponsors are preparing a revised CPA application ahead of the June 30 deadline for Fall Town Meeting.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "wXmki6I0Q3k",
+      "start_seconds": 3382
+    },
+    {
+      "title": "Fay Memorial Park Dog Park and Splash Pad Plans",
+      "why": "The Recreation Commission is moving forward with plans for a dog park and splash pad at Fay Memorial Park after receiving an engineering parking and traffic study to address neighbor concerns. A revised funding application is due June 30.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "wXmki6I0Q3k",
+      "start_seconds": 2980
+    },
+    {
+      "title": "Brox Asphalt Plant Odor Follow-Up",
+      "why": "The plant installed a closed-loop burner exhaust system to reduce odors, though Southborough residents continue to submit complaints. MassDEP confirmed operations meet environmental permits with no known direct health threat, but urged residents to file detailed real-time odor logs.",
+      "body": "Board of Health",
+      "importance": "high",
+      "video_id": "Cs-N1fuzc9E",
+      "start_seconds": 139
+    },
+    {
+      "title": "34 Turnpike Road Setback Relief and Foundation Cutback",
+      "why": "The board approved 1.3 feet of side setback relief for an as-built foundation modification that encroached on septic system setbacks. Relief was conditioned on explicit Board of Health confirmation that the septic capacity meets the dwelling's bedroom count.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "Ino0rbMC--c",
+      "start_seconds": 975
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Pre-construction meeting with general contractor and subcontractors for Neary roof replacement",
+      "when": "Friday, June 12, 2026",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Trail construction and maintenance work party off Boston Road",
+      "when": "June 13, 2026, at 8:00 AM",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Joint meeting with the Select Board to appoint a trustee to fill the library board vacancy",
+      "when": "June 16, 2024 at 6:45 PM",
+      "body": "Library Board of Trustees"
+    },
+    {
+      "what": "Deadline for Community Preservation Act Phase 2 grant application",
+      "when": "June 30, 2026",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Deadline for revised applications for Fall Special Town Meeting CPA articles",
+      "when": "June 30, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Public hearing on draft revisions to septic and private well regulations",
+      "when": "July 7, 2026 at 11:00 AM",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Public hearings on two variances and a special permit for Costco lighting and retaining walls",
+      "when": "July 15, 2026",
+      "body": "Zoning Board of Appeals"
+    }
+  ],
+  "week": "2026-06-08",
+  "fingerprint": "6f8e80da685bfd8e",
+  "video_ids": [
+    "9y_hdDUi2PM",
+    "Cs-N1fuzc9E",
+    "D0OA5yLzTtQ",
+    "Ino0rbMC--c",
+    "WzSYItMVgpE",
+    "XrcCrapH9JA",
+    "wXmki6I0Q3k"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:09:43Z"
+}

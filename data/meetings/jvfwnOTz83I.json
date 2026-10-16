@@ -1,0 +1,113 @@
+{
+  "video": {
+    "id": "jvfwnOTz83I",
+    "title": "Wastewater Study Committee 7/23/26",
+    "published_at": "2026-07-27T17:23:37Z",
+    "duration_s": 3259
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-07-23",
+    "headline": "The Wastewater Study Committee agreed to consult MassDEP on watershed permitting and decided against bringing a proposal to Fall Town Meeting.",
+    "summary": "The committee reviewed site evaluation strategies for potential wastewater disposal along Route 9, focusing on MassDEP watershed restrictions surrounding the Sudbury Reservoir. Members agreed to schedule a preliminary meeting with MassDEP officials and gather historical soil testing data from past commercial developments. The committee also examined financial feasibility modeling approaches and confirmed it will not sponsor any warrant articles or financing districts at the Fall Special Town Meeting.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved meeting minutes from June 22 and June 29, 2026, and handled administrative matters before adjourning at the end of the session.",
+        "key_details": [
+          "June 22, 2026 minutes approved unanimously.",
+          "June 29, 2026 minutes approved unanimously."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 33,
+        "end_seconds": null
+      },
+      {
+        "title": "Committee vacancy",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Members discussed whether to recruit a replacement for an open seat on the committee. The committee decided to leave the position vacant for now unless a candidate with relevant finance or engineering expertise steps forward.",
+        "key_details": [
+          "The committee is currently operating down one member.",
+          "Members agreed recruitment can wait until project work or funding intensifies."
+        ],
+        "outcome": "Committee decided to keep the seat vacant for now.",
+        "why_it_matters": null,
+        "start_seconds": 259,
+        "end_seconds": null
+      },
+      {
+        "title": "Site screening and MassDEP regulations",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The committee reviewed preliminary AI and GIS site screening results and discussed state environmental restrictions surrounding the Sudbury Reservoir watershed under 310 CMR 22.20. Members agreed that clarifying MassDEP regulations regarding Zone C watershed discharge is an essential next step before commissioning expensive field testing. Members also noted that extensive soil percolation test data already exists in private engineering and former health department records for large Route 9 parcels like the former Dell property.",
+        "key_details": [
+          "Discussion centered on whether MassDEP allows wastewater recharge within Sudbury Reservoir watershed zones given its emergency water supply status.",
+          "A 36-acre residential section of the Dell property contains historical data from roughly 30 deep hole and perc tests.",
+          "Members plan to review existing Cornerstone Engineering and former town health agent files to avoid unnecessary test pit costs.",
+          "The chair and designated members will request a conference with MassDEP Worcester regional staff."
+        ],
+        "outcome": "The chair will arrange an informational meeting with MassDEP officials to clarify watershed permitting limits.",
+        "why_it_matters": "Identifying legally and environmentally permittable disposal sites is required before the town can consider any municipal or shared wastewater system along Route 9.",
+        "start_seconds": 434,
+        "end_seconds": null
+      },
+      {
+        "title": "Financial feasibility modeling and regional options",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee discussed creating an economic model to evaluate capital costs, operating costs, debt service, and potential betterment revenues from Route 9 commercial property owners. Members examined wastewater planning templates used in Cape Cod towns and reviewed the lack of near-term interest in regional capacity sharing from Westborough and Marlborough. The committee confirmed it is not prepared to submit a District Improvement Financing plan or any funding requests to the 2026 Fall Special Town Meeting.",
+        "key_details": [
+          "A member will obtain financial and economic planning documents from the town of Harwich as a comparative model.",
+          "Westborough and Marlborough have previously indicated they are not seeking to take on Southborough wastewater.",
+          "The committee plans to invite a MassDevelopment representative to discuss potential technical assistance and funding programs.",
+          "Members decided against placing a District Improvement Financing article on the Fall Special Town Meeting warrant."
+        ],
+        "outcome": "Members will collect outside financial modeling data and invite MassDevelopment to a future meeting; no proposal will be brought to Fall Town Meeting.",
+        "why_it_matters": "Any sewer infrastructure proposal will require taxpayer or commercial betterment funding and must demonstrate clear economic viability before facing Town Meeting voters.",
+        "start_seconds": 1262,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Informational consultation with MassDEP Worcester regional office staff regarding watershed discharge regulations",
+        "when": "Timeframe to be determined"
+      },
+      {
+        "what": "Next Wastewater Study Committee meeting",
+        "when": "September 3, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:26:36Z",
+  "usage": {
+    "total_tokens": 128526,
+    "total_input_tokens": 125183,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 124492
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1194,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2149
+  }
+}

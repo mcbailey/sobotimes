@@ -1,73 +1,64 @@
 {
-  "headline": "Town boards finalized recommendations and strategies for the October Special Town Meeting, focusing on contested CPA funding requests, zoning changes, and water infrastructure.",
-  "synopsis": "In October, town boards focused heavily on warrant articles for the October 17 Special Town Meeting. The Advisory Committee recommended approving $240,000 from water retained earnings to connect two homes near the Parkerville Road landfill to town water, but opposed Community Preservation Act funding for golf course irrigation and the Peninsula Trail footbridge due to high costs. Despite opposition from town finance leaders, the Community Preservation Committee and Trails Committee voted to keep the $428,550 trail bridge article intact on the warrant without floor amendments. The Zoning Board of Appeals voted to support a proposed zoning amendment allowing two-family dwellings, though the Advisory Committee issued an unfavorable recommendation citing density and septic concerns. In other business, the Library Trustees approved their FY28 operating budget, and the Select Board reviewed an initial study of Southborough's municipal governance structure.",
+  "headline": "Ahead of the October Special Town Meeting, Southborough boards finalized positions on housing, stormwater, water line funding, and contested CPA-funded recreation projects.",
+  "synopsis": "Ahead of the October 17 Special Town Meeting, town boards finalized reports and recommendations on warrant articles addressing infrastructure, zoning, and finances. The Community Preservation Committee voted 3-2 to advance a $217,318 CPA request for the Peninsula Trail pedestrian bridge, while the Advisory Committee issued unfavorable recommendations for both the bridge and a $1 million golf course irrigation overhaul. The Advisory Committee supported spending $240,000 from water retained earnings for water connections near the Parkerville Road landfill and clarified that a proposed stormwater enterprise fund would not levy fees without future Town Meeting approval. The Zoning Board of Appeals backed a two-family zoning amendment as drafted, though the Advisory Committee recommended against it due to lot size and septic capacity concerns. Meanwhile, the Select Board reviewed initial findings from a town governance study examining Southborough's administrative structure and town manager authority.",
   "top_items": [
     {
-      "title": "Peninsula Trail footbridge advances to Town Meeting amid cost debate",
-      "why": "The Trails Committee and Community Preservation Committee decided to push forward with a $428,550 bridge proposal despite negative recommendations from finance officials.",
-      "body": "Warrant Article 4 requests an additional $217,318 in Community Preservation Act funds for a 65-foot pedestrian bridge along Route 30, bringing total project costs to $428,550. Despite a 0-7 recommendation from the Advisory Committee and a 1-4 vote from the Select Board citing excessive expense, the Community Preservation Committee voted 3-2 to keep the article as printed rather than offering floor cuts. The Trails Committee dropped plans for a floor amendment and agreed to present the proposal as drafted with an explanatory FAQ.",
+      "title": "Peninsula Trail bridge CPA funding advances to Town Meeting",
+      "why": "The Community Preservation Committee voted 3-2 to send the $217,318 CPA funding request to Special Town Meeting as written, despite formal opposition from both the Advisory Committee and Select Board.",
+      "body": "The Trails Committee and Community Preservation Committee debated whether to scale back the project or introduce a floor amendment before deciding to present Article 4 as originally drafted. The article requests $217,318 in additional Community Preservation Act funds on top of an existing $211,000 allocation, setting the total cost for the 65-foot prefabricated pedestrian bridge along Route 30 at $428,550. While trail advocates highlighted pedestrian safety and regional connectivity, the Advisory Committee unanimously opposed the measure and the Select Board voted 1-4 against recommendation, citing high construction costs.",
       "importance": "high",
       "video_id": "G9S9K_Mene8",
       "start_seconds": 30,
-      "issue": null
+      "issue": "peninsula-trail-phase-2"
+    },
+    {
+      "title": "Debate over golf course irrigation funding ahead of vote",
+      "why": "The Advisory Committee recommended against spending CPA funds on an approximately $1 million irrigation system at the Southborough Golf Club, while the Golf Committee coordinated outreach to support Article 3.",
+      "body": "The Golf Committee finalized informational flyers and agreed to advance its funding plan to the October 17 Special Town Meeting without floor amendments. The proposal relies on roughly $433,546 in additional CPA funds, extending a $553,750 CPA appropriation from 2024, along with $100,000 to $150,000 from the golf revolving fund. The Advisory Committee opposed the measure, arguing that municipal golf course capital expenses should not be shifted to town taxpayers when the facility was intended to be self-sustaining.",
+      "importance": "high",
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 3135,
+      "issue": "southborough-golf-club-irrigation"
     },
     {
       "title": "Boards split on two-family dwelling zoning amendment",
-      "why": "The Zoning Board of Appeals backed the warrant article as written, while the Advisory Committee issued an unfavorable recommendation.",
-      "body": "Article 2 proposes easing restrictions on two-family dwellings by eliminating the requirement that a single-family home exist for two years before conversion. The Zoning Board of Appeals voted to support the language as drafted, concluding against last-minute revisions regarding lot sizes. However, the Advisory Committee raised concerns over septic capacity, lot impacts in Residential B zones, and property flipping, issuing an unfavorable recommendation.",
+      "why": "The Zoning Board of Appeals voted unanimously to support Article 2 as drafted, while the Advisory Committee voted to recommend against adoption at Special Town Meeting.",
+      "body": "The proposed zoning amendment would alter town code regarding two-family dwellings, removing certain minimum lot references across subsections. While the Zoning Board of Appeals decided against last-minute edits and voted to support the warrant article as written, the Advisory Committee issued an unfavorable recommendation. The Advisory Committee cited concerns about removing the two-year ownership requirement, lot sizes in Residential B zones, reliance on percolation tests for septic capacity, and the limited practical safeguards provided by special permits.",
       "importance": "high",
       "video_id": "2dGufO1TwE4",
       "start_seconds": 0,
       "issue": "two-family-zoning-amendment"
     },
     {
-      "title": "Advisory opposes CPA funding for golf course irrigation",
-      "why": "The Advisory Committee opposed using CPA funds for a $1 million irrigation system, but proponents decided to proceed with the warrant article.",
-      "body": "The Southborough Golf Club is seeking funding for a $1,087,296 irrigation replacement, using $553,750 approved in 2024, $100,000 from the golf revolving fund, and over $350,000 in new CPA funds. The Advisory Committee opposed the plan, arguing that the course should be self-sustaining rather than shifting capital expenses to taxpayers. The Golf Committee approved flyer printing and voted by consensus to bring the article to Town Meeting without requesting floor amendments.",
-      "importance": "high",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 3135,
-      "issue": null
-    },
-    {
-      "title": "Advisory Committee backs $240,000 Parkerville Road water main extension",
-      "why": "The committee unanimously recommended funding water service lines and a main extension for two homes affected by landfill contamination.",
-      "body": "The Advisory Committee voted 6-0 to recommend Article 7, which authorizes $240,000 from water retained earnings. The project will extend a water main and connect two homes near the Parkerville Road landfill following contamination testing, with the town covering the service line connections from the street into the residences.",
+      "title": "Water connection funds recommended for Parkerville landfill area",
+      "why": "The Advisory Committee voted 6-0 to recommend Town Meeting approval of Article 7, allocating $240,000 from water retained earnings for two homes near the landfill.",
+      "body": "Article 7 seeks $240,000 from water enterprise retained earnings to extend a water main and connect two residences near the Parkerville Road landfill following contamination testing. The Advisory Committee confirmed with the Select Board chair that town funds will cover the service connections from the street directly into the homes before unanimously approving their recommendation report.",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 80,
-      "issue": null
+      "issue": "landfill-environmental-assessment"
     },
     {
-      "title": "Consultant outlines review of Southborough town governance structure",
-      "why": "The Select Board received an initial overview analyzing town administrator authority and municipal board structures.",
-      "body": "Bill Keegan of Capital Strategic Strategies presented preliminary findings comparing Southborough's governance model, town manager powers, and committee organization against peer Massachusetts municipalities. The review comes as Special Town Meeting considers related governance articles, including converting the Town Clerk from an elected to an appointed position.",
+      "title": "Advisory clarifies stormwater enterprise fund creates no fees",
+      "why": "The Advisory Committee finalized report wording for Article 5, emphasizing that establishing the enterprise fund structure does not implement any fees.",
+      "body": "Ahead of Special Town Meeting, the Advisory Committee clarified that Article 5 is solely an accounting mechanism that establishes an enterprise fund framework to track stormwater expenses and revenues. The committee emphasized that implementing any fees would require a separate, subsequent Town Meeting vote. Board members noted the accounting model could eventually allow Southborough to distribute stormwater management costs across all properties based on impervious surface, including tax-exempt parcels.",
+      "importance": "high",
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 1860,
+      "issue": "stormwater-enterprise-fund"
+    },
+    {
+      "title": "Governance study consultant presents municipal structure review",
+      "why": "Consultant Bill Keegan presented initial findings on Southborough's governance model, town manager powers, and committee oversight to the Select Board.",
+      "body": "Capital Strategic Strategies consultant Bill Keegan delivered an overview of Southborough's municipal government structure to the Select Board, comparing local practices with other Massachusetts communities. The presentation reviewed town manager statutory authority, committee coordination, and structural options as part of an ongoing town governance study.",
       "importance": "medium",
       "video_id": "jIrNNYw8PME",
       "start_seconds": 366,
-      "issue": null
-    },
-    {
-      "title": "Library Trustees adopt FY28 operating budget",
-      "why": "Trustees voted 6-0 to approve the budget while balancing state materials spending rules with rising fixed costs.",
-      "body": "The Library Board of Trustees reviewed and unanimously approved the FY28 library operating budget. Board members focused on meeting the Massachusetts Board of Library Commissioners' 16 percent materials expenditure standard amid increases in fixed personnel and CW MARS network assessment costs.",
-      "importance": "medium",
-      "video_id": "Dlomobo7FQ4",
-      "start_seconds": 933,
-      "issue": null
-    },
-    {
-      "title": "Tricentennial Committee contracts drone show for 2027 kickoff",
-      "why": "Preparations advanced for Southborough's 300th anniversary, including executing a contract for a New Year's Day drone display.",
-      "body": "The Tricentennial Committee executed a contract for a 200-drone light show to open anniversary festivities on January 1, 2027, while reevaluating a proposed community bonfire. The committee also advanced coordination for a summer music festival, utility pole banners, and an antique fireman's muster with eight confirmed apparatus teams.",
-      "importance": "medium",
-      "video_id": "VZd0rZYyRHI",
-      "start_seconds": 5038,
-      "issue": "tricentennial-first-day"
+      "issue": "town-governance-study"
     }
   ],
   "month": "2026-10",
-  "fingerprint": "a3a057b190be3e29",
+  "fingerprint": "60982561850d04a7",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -86,5 +77,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T19:34:32Z"
+  "generated_at": "2026-10-16T01:07:52Z"
 }

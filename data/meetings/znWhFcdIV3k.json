@@ -1,0 +1,192 @@
+{
+  "video": {
+    "id": "znWhFcdIV3k",
+    "title": "Conservation Commission 4/30/26",
+    "published_at": "2026-05-01T13:37:34Z",
+    "duration_s": 3732
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Conservation Commission",
+    "meeting_date": "2026-04-30",
+    "headline": "The Conservation Commission approved new land use rules for town conservation areas and continued hearings on a Southville Road apartment proposal.",
+    "summary": "The Conservation Commission approved a negative determination of applicability for a driving range shed at 22 Turnpike Road and formally adopted updated land use regulations for town conservation properties. The commission continued the notice of intent hearing for a proposed two-building apartment development at 0 Southville Road to May 14, 2026, following discussion of riverfront impacts and public comment regarding zoning alternatives. Members also received an update on conservation conditions in the Zoning Board of Appeals draft decision for the 250 Turnpike Road 40B housing project.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission approved the meeting minutes from April 2, 2026, and adjourned at the conclusion of business.",
+        "key_details": [
+          "Minutes of April 2, 2026 approved."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "22 Turnpike Road driving range shed RDA",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission opened a public hearing on a Request for Determination of Applicability for Southborough Golf Realty Holding LLC at 22 Turnpike Road. The applicant sought permission to install a 15-by-11-foot equipment storage shed for the driving range. The commission confirmed the shed will be outside the 20-foot buffer zone in an existing maintained area with minimal ground disturbance.",
+        "key_details": [
+          "Address: 22 Turnpike Road, Map 39, Lot 29.",
+          "Shed footprint: 15 feet by 11 feet.",
+          "Work is outside the 20-foot wetland buffer zone on cinder blocks or concrete footings.",
+          "Negative determination of applicability approved unanimously."
+        ],
+        "outcome": "Negative determination of applicability approved with standard conditions.",
+        "why_it_matters": null,
+        "start_seconds": 60,
+        "end_seconds": null
+      },
+      {
+        "title": "170 Woodland Road Certificate of Compliance request",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "A representative presented a request for a Certificate of Compliance for completed pool, patio, walkway, pavilion, and retaining wall work under DEP file number 290-1123 at 170 Woodland Road. In response to peer review, a pool deck drain pipe was disconnected and redirected to an on-site drywell, and required mitigation plantings were installed. Because the stamped as-built plan verifying the drywell location had not yet arrived, the commission could not issue the certificate.",
+        "key_details": [
+          "Address: 170 Woodland Road, DEP file number 290-1123.",
+          "Work included a pool, patio, walkway, pavilion, and fence/wall adjustments.",
+          "Drywell installed to address pool deck runoff.",
+          "Action postponed awaiting final stamped as-built plan."
+        ],
+        "outcome": "Continued to May 14, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 401,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Southville Road apartment development NOI",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The commission reviewed a Notice of Intent and Stormwater Management Permit application by Apartments at Southville Road LLC to build two apartment buildings and related infrastructure at 0 Southville Road. The discussion focused on calculations showing approximately 4,500 square feet of disturbance within the outer riparian riverfront area, which the applicant argued is within allowable statutory limits. The commission and a member of the public discussed alternatives, peer review by Lucas Environmental, and how MBTA Communities Act zoning requirements interact with local wetland bylaws.",
+        "key_details": [
+          "Address: 0 Southville Road, Map 5, Lot 8.",
+          "Proposal entails construction of two apartment buildings and site infrastructure.",
+          "Applicant calculated 47,372 square feet of riverfront area on-site with approximately 4,500 square feet of proposed outer riparian disturbance.",
+          "Peer review consultant Lucas Environmental will conduct an on-site visit to inspect boundaries and disturbance calculations.",
+          "Applicant requested a continuance to May 14, 2026, to address review comments."
+        ],
+        "outcome": "Hearing continued to May 14, 2026.",
+        "why_it_matters": "The multi-family project involves substantial construction in the riverfront area and must demonstrate compliance with local and state environmental bylaws before building can proceed.",
+        "start_seconds": 786,
+        "end_seconds": null
+      },
+      {
+        "title": "Conservation Land Use Regulations adoption",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission reviewed and voted to formally adopt proposed land use regulations governing town-owned conservation land under Section 43-2 of the Southborough Town Code. The regulations incorporated feedback from the Breakneck Hill Stewardship Committee and had been posted with the town clerk. The conservation agent noted potential future amendments could address issues such as exterior light trespass from abutting parcels onto conservation property.",
+        "key_details": [
+          "Regulations adopted under Southborough Town Code Section 43-2.",
+          "Incorporates revisions recommended by the Breakneck Hill Stewardship Committee.",
+          "Regulations can be updated or amended at future public meetings if needed."
+        ],
+        "outcome": "Regulations adopted unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 2495,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road 40B application status",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Town staff updated the commission on the comprehensive permit application for 250 Turnpike Road. The Zoning Board of Appeals closed its public hearing on April 15 and is set to deliberate on a draft decision on May 6, with a statutory filing deadline of May 25. The draft decision incorporates various conservation-related conditions, including invasive species management, wildlife passage grates, fencing, and buffer zone plantings.",
+        "key_details": [
+          "ZBA closed the public hearing on April 15, 2026.",
+          "ZBA deliberation on draft decision scheduled for May 6, 2026; filing deadline is May 25, 2026.",
+          "Key conservation conditions include an invasive species management plan, grates on the wildlife tunnel, buffer zone plantings, and nesting boxes."
+        ],
+        "outcome": "Discussion only; no commission vote taken.",
+        "why_it_matters": null,
+        "start_seconds": 2794,
+        "end_seconds": null
+      },
+      {
+        "title": "Conservation agent updates and site monitoring",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "The conservation agent reported on local monitoring efforts, including ongoing requests to remove damaged compost wattles from utility work on Route 9, and temporary vehicle parking and site stabilization discussions at 241-245 Turnpike Road. Commissioners also discussed ongoing utility matting along the aqueduct and noted unpermitted tree cutting at the corner of Mount Vickery and Cordaville roads.",
+        "key_details": [
+          "Staff is monitoring site stabilization and temporary car storage at 241-245 Turnpike Road.",
+          "Utility work along the aqueduct using swamp mats is expected to continue through late summer.",
+          "Tree removal at Mount Vickery and Cordaville Road will be investigated by the conservation agent."
+        ],
+        "outcome": "Discussion only; no formal action taken.",
+        "why_it_matters": null,
+        "start_seconds": 3173,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Issue a negative determination of applicability with standard conditions for 22 Turnpike Road.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 370
+      },
+      {
+        "motion": "Continue the public hearing for the Notice of Intent at 0 Southville Road to May 14, 2026.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2478
+      },
+      {
+        "motion": "Adopt the proposed conservation land use regulations pursuant to Section 43-2 of the Southborough Town Code.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2767
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Southville Road commented on the 0 Southville Road alternatives analysis, arguing that the developer is not legally entitled to 60 units under the MBTA Communities Act zoning bylaws because the state calculated the site capacity at 46.8 units due to environmental constraints. The resident also stated that parking behind the buildings is required by zoning unless the planning board grants a waiver, and urged the commission to enforce wetland and riverfront protections without compromise.",
+        "start_seconds": 1602
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Zoning Board of Appeals deliberation on 250 Turnpike Road draft decision",
+        "when": "May 6, 2026"
+      },
+      {
+        "what": "Continued hearing for 0 Southville Road Notice of Intent",
+        "when": "May 14, 2026"
+      },
+      {
+        "what": "Continued review of Certificate of Compliance for 170 Woodland Road",
+        "when": "May 14, 2026"
+      },
+      {
+        "what": "Statutory deadline for ZBA to file 250 Turnpike Road 40B decision",
+        "when": "May 25, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:56:24Z",
+  "usage": {
+    "total_tokens": 147402,
+    "total_input_tokens": 143226,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 142534
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2420,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1756
+  }
+}

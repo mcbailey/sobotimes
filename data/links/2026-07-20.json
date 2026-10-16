@@ -1,0 +1,186 @@
+{
+  "week": "2026-07-20",
+  "fingerprint": "176a5cd49d49c8ee",
+  "topics": {
+    "9hceIu0ePss#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9hceIu0ePss#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "9hceIu0ePss#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9hceIu0ePss#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "9hceIu0ePss#4": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "9hceIu0ePss#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "9hceIu0ePss#6": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "9hceIu0ePss#7": {
+      "issue": "library-parking-lot-repaving",
+      "category": "Buildings & facilities"
+    },
+    "9hceIu0ePss#8": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "JG8iMC7OonI#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "JG8iMC7OonI#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "JG8iMC7OonI#2": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "JG8iMC7OonI#3": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "JG8iMC7OonI#4": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "JG8iMC7OonI#5": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "JG8iMC7OonI#6": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "Jnrh6WK4BQY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Jnrh6WK4BQY#1": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "Jnrh6WK4BQY#2": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "Jnrh6WK4BQY#3": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "Jnrh6WK4BQY#4": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "Jnrh6WK4BQY#5": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "QD_9SgG4w3I#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "QD_9SgG4w3I#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QD_9SgG4w3I#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "QD_9SgG4w3I#3": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "QD_9SgG4w3I#4": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "QD_9SgG4w3I#5": {
+      "issue": "rural-cemetery-water-tower",
+      "category": "Parks, trails & recreation"
+    },
+    "jvfwnOTz83I#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "jvfwnOTz83I#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "jvfwnOTz83I#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "jvfwnOTz83I#3": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    }
+  },
+  "upcoming": {
+    "9hceIu0ePss#u0": {
+      "date": "2026-08-10",
+      "issue": null
+    },
+    "9hceIu0ePss#u1": {
+      "date": null,
+      "issue": null
+    },
+    "9hceIu0ePss#u2": {
+      "date": null,
+      "issue": null
+    },
+    "JG8iMC7OonI#u0": {
+      "date": null,
+      "issue": null
+    },
+    "JG8iMC7OonI#u1": {
+      "date": null,
+      "issue": "55-plus-housing-bylaw"
+    },
+    "Jnrh6WK4BQY#u0": {
+      "date": null,
+      "issue": null
+    },
+    "Jnrh6WK4BQY#u1": {
+      "date": null,
+      "issue": null
+    },
+    "QD_9SgG4w3I#u0": {
+      "date": "2026-08-31",
+      "issue": null
+    },
+    "QD_9SgG4w3I#u1": {
+      "date": null,
+      "issue": null
+    },
+    "QD_9SgG4w3I#u2": {
+      "date": "2026-10-19",
+      "issue": null
+    },
+    "jvfwnOTz83I#u0": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "jvfwnOTz83I#u1": {
+      "date": "2026-09-03",
+      "issue": "route-9-wastewater-infrastructure"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:42:42Z"
+}

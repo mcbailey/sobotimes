@@ -1,0 +1,81 @@
+{
+  "video": {
+    "id": "KAKmu8l1HIw",
+    "title": "Southborough Special Open School Committee June 4, 2026",
+    "published_at": "2026-06-11T00:59:52Z",
+    "duration_s": 528
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-06-04",
+    "headline": "The Southborough School Committee unanimously voted to appoint Daniel Mazur as the new director of student support services for Southborough K-8.",
+    "summary": "In a brief special meeting, the Southborough School Committee voted unanimously to appoint Daniel Mazur as the district director of student support services for grades K-8 following a recommendation from the superintendent. Mazur previously served as assistant director of special education in the Acton-Boxborough Regional School District and earlier worked at Hopkinton Middle School and the New England Center for Children. The superintendent will now negotiate an employment contract, targeting a start date around July 1, 2024.",
+    "topics": [
+      {
+        "title": "Appointment of director of student support services",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Superintendent Gregory Martineau recommended the appointment of Daniel Mazur as the Southborough K-8 director of student support services. The committee voted unanimously in favor of the appointment following a multi-district search process.",
+        "key_details": [
+          "Daniel Mazur currently serves as assistant director of special education for the Acton-Boxborough Regional School District.",
+          "Mazur previously served as a special education team chair at Hopkinton Middle School and began his career at the New England Center for Children in Southborough.",
+          "School committee members met Mazur for questions during a screening session earlier in the week.",
+          "The superintendent and Mazur will negotiate a contract with a targeted start date around July 1, 2024, coordinating transition timing with Acton-Boxborough.",
+          "Southborough K-8 Extended School Year summer programming begins the Monday after the Fourth of July."
+        ],
+        "outcome": "Appointment approved 5-0.",
+        "why_it_matters": "The director of student support services oversees special education and related student support programming for all Southborough public elementary and middle school students.",
+        "start_seconds": 43,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Daniel Mazur to the position of director of student support services for Southborough K-8",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 231
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Superintendent contract negotiations with Daniel Mazur",
+        "when": "as soon as possible"
+      },
+      {
+        "what": "Target start date for the director of student support services",
+        "when": "July 1, 2024"
+      },
+      {
+        "what": "Extended School Year (ESY) program start",
+        "when": "July 8, 2024"
+      }
+    ],
+    "caveats": "The video title lists the year as 2026, but the on-screen timestamp and committee remarks confirm the meeting took place on June 4, 2024."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:11:32Z",
+  "usage": {
+    "total_tokens": 22758,
+    "total_input_tokens": 20807,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 20114
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 734,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1217
+  }
+}

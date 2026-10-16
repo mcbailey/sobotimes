@@ -1,0 +1,159 @@
+{
+  "video": {
+    "id": "phdC64CYpRc",
+    "title": "Municipal Technology Committee 6/22/26",
+    "published_at": "2026-06-23T19:57:16Z",
+    "duration_s": 3148
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-06-22",
+    "headline": "The Municipal Technology Committee appointed a volunteer data analyst, planned an October website refresh kickoff, and coordinated technology plans with the schools.",
+    "summary": "The Municipal Technology Committee welcomed Northborough-Southborough Public Schools IT Director Jon Parent as an ex-officio member to coordinate school and municipal technology initiatives. The committee voted unanimously to appoint a volunteer data science student to help analyze townwide survey results. Members also discussed scheduling the next town survey for October 2026, launching a town website refresh with CivicPlus in the fall, and developing policies around artificial intelligence.",
+    "topics": [
+      {
+        "title": "School technology coordination and committee introduction",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee welcomed Jon Parent, information technology director for Northborough-Southborough Public Schools, who will serve as a non-voting ex-officio liaison. Members discussed finding synergies between municipal and school technology infrastructure, including leveraging the town's redundant fiber network.",
+        "key_details": [
+          "Jon Parent has served as IT director for Northborough-Southborough Public Schools for nearly two years.",
+          "Parent previously served as tech director in Southbridge and network administrator in Hopkinton.",
+          "Town bylaws restrict the committee from overseeing educational or classroom technology, limiting advisory scope to administrative systems.",
+          "Discussion highlighted opportunities to connect schools to town-owned redundant fiber lines to improve reliability and reduce internet service costs."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the minutes from the May meeting, scheduled its next regular meeting, and adjourned.",
+        "key_details": [
+          "May meeting minutes were approved unanimously.",
+          "The next committee meeting was scheduled for July 27, 2026, at 6:30 PM.",
+          "The meeting adjourned at approximately 7:24 PM."
+        ],
+        "outcome": "May minutes approved 5-0; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 225,
+        "end_seconds": null
+      },
+      {
+        "title": "Town survey analysis and volunteer appointment",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed progress on analyzing town survey data across departments and voted to appoint a volunteer data analyst. Members also decided to schedule the 2026 annual town survey for October to align with department budget planning.",
+        "key_details": [
+          "Chair Matt Probst reported that per-department analysis of the 2025 survey remains underway.",
+          "Paul Probst, a college junior studying data science and the chair's son, offered to volunteer as a data analyst consultant.",
+          "The committee voted unanimously to appoint Paul Probst as a volunteer consultant.",
+          "Members agreed to distribute the next town survey in October 2026, avoiding holiday and back-to-school conflicts while providing timely data for fiscal year 2028 budget requests."
+        ],
+        "outcome": "Appointed Paul Probst as a volunteer data analyst consultant by a 5-0 vote.",
+        "why_it_matters": null,
+        "start_seconds": 268,
+        "end_seconds": null
+      },
+      {
+        "title": "Town website refresh and site consolidation",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed website feedback and prepared for an upcoming website redesign with vendor CivicPlus. Members discussed consolidating standalone departmental websites back into the main municipal platform.",
+        "key_details": [
+          "A regular three-year website redesign and refresh cycle with CivicPlus is scheduled to begin in October 2026.",
+          "Select Board member Andrew Dennington is participating in website goal-setting.",
+          "The Senior Center website is being migrated into CivicPlus after its independent webmaster retired.",
+          "The committee will explore whether the Recreation Department's third-party software (MyRec) can eventually be integrated or compared with CivicPlus recreation modules."
+        ],
+        "outcome": "Town IT staff will hold a kickoff meeting with CivicPlus in October 2026.",
+        "why_it_matters": null,
+        "start_seconds": 1140,
+        "end_seconds": null
+      },
+      {
+        "title": "Five-year strategic plan and artificial intelligence policy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed circulating the newly updated five-year strategic plan to department heads and addressed emerging questions around municipal and school artificial intelligence use. The group discussed data privacy risks, note-taking bots, and the need for townwide AI usage guidelines.",
+        "key_details": [
+          "The five-year strategic plan was uploaded to the committee's webpage and is ready for distribution to department heads.",
+          "School IT is drafting separate educational and administrative technology strategic plans.",
+          "Northborough-Southborough schools formed an AI study group co-chaired by Educational Technology Director Kathleen Carmaniani and Zeh School Principal John Bell.",
+          "Town staff noted that some municipal employees currently use AI tools for meeting note summaries, but Southborough does not yet have a formal AI policy."
+        ],
+        "outcome": "Town IT staff plan to draft a municipal AI policy for Select Board consideration.",
+        "why_it_matters": null,
+        "start_seconds": 1669,
+        "end_seconds": null
+      },
+      {
+        "title": "Finance, Assessor, and GIS departmental updates",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "A committee member reported on a recent liaison meeting with the Finance, Treasury, and Assessor departments regarding web updates and property mapping tools. Staff are satisfied with current technology but are continuing internal upgrades to Patriot Properties and ArcGIS mapping applications.",
+        "key_details": [
+          "Assessor and finance staff are comfortable with existing systems but seek consistent cross-linking on town webpages.",
+          "Updates are underway for GIS and property mapping tools using Patriot Properties and ArcGIS.",
+          "Finance and assessor staff expressed interest in AI but noted practical municipal use cases remain limited.",
+          "A committee member requested contact details for the town building and zoning departments to schedule future liaison discussions."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 2442,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Paul Probst as a volunteer consultant to assist with survey data analysis",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 649
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Municipal Technology Committee meeting",
+        "when": "July 27, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Kickoff of CivicPlus website refresh project",
+        "when": "October 2026"
+      },
+      {
+        "what": "Launch of 2026 annual town survey",
+        "when": "October 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:56:54Z",
+  "usage": {
+    "total_tokens": 123664,
+    "total_input_tokens": 120884,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 120193
+      },
+      {
+        "modality": "text",
+        "tokens": 691
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1734,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1046
+  }
+}

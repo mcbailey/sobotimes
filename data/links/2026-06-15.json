@@ -1,0 +1,142 @@
+{
+  "week": "2026-06-15",
+  "fingerprint": "c9508bff69b3a8f4",
+  "topics": {
+    "NfkgvDJIPog#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "NfkgvDJIPog#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "NfkgvDJIPog#2": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "NfkgvDJIPog#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "NfkgvDJIPog#4": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "NfkgvDJIPog#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "NfkgvDJIPog#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "g-eEt2SJdRI#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "g-eEt2SJdRI#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mCf5Dw5Wi6c#0": {
+      "issue": "parkerville-road-utility-pole",
+      "category": "Roads, water & infrastructure"
+    },
+    "mCf5Dw5Wi6c#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mCf5Dw5Wi6c#2": {
+      "issue": "costco-special-act-liquor-license",
+      "category": "Other"
+    },
+    "mCf5Dw5Wi6c#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mCf5Dw5Wi6c#4": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "mCf5Dw5Wi6c#5": {
+      "issue": "downtown-wayfinding-plan",
+      "category": "Roads, water & infrastructure"
+    },
+    "mCf5Dw5Wi6c#6": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "mCf5Dw5Wi6c#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mCf5Dw5Wi6c#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mCf5Dw5Wi6c#9": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "mCf5Dw5Wi6c#10": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "mCf5Dw5Wi6c#11": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "mmpLfpY8-s0#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "mmpLfpY8-s0#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "t2MR3sJzMA0#0": {
+      "issue": null,
+      "category": "Housing"
+    }
+  },
+  "upcoming": {
+    "NfkgvDJIPog#u0": {
+      "date": null,
+      "issue": "classification-and-compensation-study"
+    },
+    "NfkgvDJIPog#u1": {
+      "date": null,
+      "issue": null
+    },
+    "NfkgvDJIPog#u2": {
+      "date": null,
+      "issue": null
+    },
+    "g-eEt2SJdRI#u0": {
+      "date": "2026-07-08",
+      "issue": "neary-school-building-project"
+    },
+    "g-eEt2SJdRI#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#u0": {
+      "date": "2026-06-23",
+      "issue": "costco-special-act-liquor-license"
+    },
+    "mCf5Dw5Wi6c#u1": {
+      "date": "2026-07-07",
+      "issue": "downtown-wayfinding-plan"
+    },
+    "mCf5Dw5Wi6c#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#u3": {
+      "date": "2027-03-20",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:29:51Z"
+}

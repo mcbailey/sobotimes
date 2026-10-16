@@ -1,0 +1,17 @@
+{
+  "week": "2026-03-30",
+  "fingerprint": "d4856db5dd109c5e",
+  "topics": {
+    "qYAkzbUTmaY#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "qYAkzbUTmaY#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {},
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:14:40Z"
+}

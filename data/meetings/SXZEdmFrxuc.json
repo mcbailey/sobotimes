@@ -1,0 +1,115 @@
+{
+  "video": {
+    "id": "SXZEdmFrxuc",
+    "title": "Southborough K-8 School Committee, Special Open meeting, January 22, 2026",
+    "published_at": "2026-05-12T18:05:21Z",
+    "duration_s": 746
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": null,
+    "headline": "The Southborough School Committee voted 4-0 to support a revised FY27 recommended operating budget with a 3.99% increase.",
+    "summary": "At a brief special meeting, the Southborough School Committee reviewed adjustments to the proposed FY27 K-8 school operating budget, which stands at a 3.99% increase after adding a third-grade section, adjusting facilities accounts, and reducing circuit breaker offsets. The committee voted unanimously to support the revised recommended budget ahead of a joint budget session with the Select Board and Advisory Committee. Administrators also presented an updated FY27 capital plan featuring $1.4 million in districtwide security upgrades, $360,000 in technology investments, and the Trottier Middle School roof project estimated at nearly $8.9 million.",
+    "topics": [
+      {
+        "title": "FY27 recommended operating budget adjustments",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Superintendent Gregory Martineau and finance staff presented modifications to the FY27 school operating budget. Adjustments included reducing the applied circuit breaker reserve from $500,000 to $300,000, restoring several facilities accounts, and adding a 42nd classroom section in third grade. These additions were balanced by unexpected staff retirement savings and a reduction in out-of-district tuition, leaving the proposed operating budget increase at 3.99%.",
+        "key_details": [
+          "Circuit breaker offset reduced from $500,000 to $300,000, returning $200,000 to the operational budget.",
+          "Elementary sections increased from 41 to 42 by adding a section in Grade 3.",
+          "Net operating budget increase stands at 3.99%.",
+          "Final formal budget vote is expected in February following updated town revenue figures."
+        ],
+        "outcome": "Approved 4-0 to endorse the 3.99% revised recommended FY27 operating budget.",
+        "why_it_matters": "Sets the baseline funding request for K-8 schools that will go before town boards and voters at Annual Town Meeting.",
+        "start_seconds": 50,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 capital plan and roof projects update",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "District administrators reviewed the reshuffled FY27 capital plan, aligning technology, building security, and roof replacements into the upcoming fiscal year. Upgrades include districtwide security enhancements, technology equipment, and the proposed Trottier Middle School roof project ahead of an anticipated February MSBA board decision.",
+        "key_details": [
+          "Security system upgrades across all four schools totaled approximately $1.4 million.",
+          "Technology capital requests total approximately $360,000.",
+          "Trottier Middle School roof replacement gross estimate is just under $8.9 million, with an anticipated MSBA reimbursement rate around 41%.",
+          "Town Meeting in April will need to vote on the full gross authorization amount for the Trottier roof.",
+          "Neary School roof retains a placeholder estimate while Socatec completes an options evaluation."
+        ],
+        "outcome": "Discussion only; committee previously voted on the plan.",
+        "why_it_matters": "The town will seek significant borrowing and grant reimbursement for multi-million dollar school roof and security upgrades at Town Meeting.",
+        "start_seconds": 360,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional high school budget update",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "In response to a member inquiry, the superintendent reported that the Northborough-Southborough Regional School District preliminary budget currently reflects an 8.98% increase. He noted that the regional budget is one phase behind Southborough K-8 and administration is actively working to reduce that number prior to the recommended presentation in February.",
+        "key_details": [
+          "Preliminary regional high school budget increase is currently at 8.98%.",
+          "Regional administration is working to refine and lower the number before final recommendation in February."
+        ],
+        "outcome": "Discussion only.",
+        "why_it_matters": null,
+        "start_seconds": 684,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Support the 3.99% increase for the FY27 operational budget.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 280
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Joint meeting with Select Board and Advisory Committee on operating and capital budgets",
+        "when": "Saturday, January 24, 2026"
+      },
+      {
+        "what": "School Committee final vote on FY27 operating budget",
+        "when": "February 2026"
+      },
+      {
+        "what": "MSBA meeting regarding Trottier Middle School roof project funding",
+        "when": "February 2026"
+      },
+      {
+        "what": "Annual Town Meeting vote on full capital and operating authorizations",
+        "when": "April 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:41:29Z",
+  "usage": {
+    "total_tokens": 31058,
+    "total_input_tokens": 29174,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 28472
+      },
+      {
+        "modality": "text",
+        "tokens": 702
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1278,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 606
+  }
+}

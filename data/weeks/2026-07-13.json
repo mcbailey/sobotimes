@@ -1,0 +1,103 @@
+{
+  "headline": "The Zoning Board of Appeals approved variances for Costco and advanced a two-family housing bylaw, while committees prepared funding requests for town meeting.",
+  "synopsis": "The Zoning Board of Appeals approved retaining wall and light pole height variances for Costco Wholesale at 21 Coslin Drive and voted to forward a draft two-family zoning bylaw to the Select Board for October Special Town Meeting. The Planning Board granted occupancy sign-off for Chase Bank at 154 Turnpike Road while continuing site plan reviews for 22 and 154 Turnpike Road. Both the Trails Committee and Golf Committee prepared supplemental Community Preservation Act requests ahead of fall town meeting to fund the Peninsula Trail footbridge and a course irrigation project. In addition, the Golf Committee reviewed resident complaints regarding errant balls damaging property on Latisquama Road, and the Tricentennial Committee advanced logistics for 2027 anniversary events.",
+  "highlights": [
+    {
+      "title": "Costco variances approved for retaining walls and lighting",
+      "why": "The Zoning Board of Appeals approved variances allowing retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet high at 21 Coslin Drive. Major site plan review for the project remains pending before the Planning Board.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "SfMRh_yUWvM",
+      "start_seconds": 3570
+    },
+    {
+      "title": "Draft two-family zoning bylaw advanced to Select Board",
+      "why": "The board unanimously approved a draft zoning amendment to submit to the Select Board for the October 17 Special Town Meeting warrant. The proposed bylaw formally defines two-family homes, removes an obsolete two-year conversion waiting period, and aligns local rules with state standards.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "SfMRh_yUWvM",
+      "start_seconds": 5315
+    },
+    {
+      "title": "Trails Committee seeks additional CPA funds for footbridge",
+      "why": "After construction bids exceeded initial budgets, the committee finalized an additional $226,096 CPA grant application to bring the total Stony Brook footbridge budget to $437,328 ahead of fall Special Town Meeting.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "LJ2j8FHbFbo",
+      "start_seconds": 595
+    },
+    {
+      "title": "Golf Committee plans supplemental CPA request for irrigation",
+      "why": "The committee submitted a supplemental CPA request for roughly $320,000 to $350,000 to complete financing for an estimated $970,000 course irrigation project slated for Town Meeting approval.",
+      "body": "Golf Committee",
+      "importance": "high",
+      "video_id": "pwm7wBAQf8E",
+      "start_seconds": 58
+    },
+    {
+      "title": "Northborough Road residential division hearing continued",
+      "why": "A request for a special permit to divide an 8-acre parcel into two building lots served by a common driveway using an 1896 aqueduct right-of-way was continued to August 12 to consult Town Counsel regarding frontage legality.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "SfMRh_yUWvM",
+      "start_seconds": 1235
+    },
+    {
+      "title": "Errant golf balls cause damage on Latisquama Road",
+      "why": "Neighbors reported significant property damage and vehicle dents from errant balls near the 7th tee. The committee agreed to consult a golf course architect on potential hole redesigns or tee box adjustments.",
+      "body": "Golf Committee",
+      "importance": "medium",
+      "video_id": "pwm7wBAQf8E",
+      "start_seconds": 1187
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Community Preservation Committee presentation on Peninsula Trail footbridge funding",
+      "when": "July 21, 2026 at 7:00 PM",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Deadline to submit Choate Fund grant application for trail seating and signage",
+      "when": "July 31, 2026",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Filing deadline to submit two-family draft zoning bylaw to Select Board",
+      "when": "August 4, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Select Board agenda review to refer two-family zoning bylaw to Planning Board",
+      "when": "August 11, 2026 at 6:30 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Continued public hearing on 0 Northborough Road common driveway permit",
+      "when": "August 12, 2026 at 7:15 PM",
+      "body": "Zoning Board of Appeals"
+    },
+    {
+      "what": "Public forum on the draft two-family zoning bylaw",
+      "when": "August 12, 2026 at 7:30 PM",
+      "body": "Zoning Board of Appeals"
+    },
+    {
+      "what": "Public hearing continuations for 22 Turnpike Road and National Grid vegetation plan",
+      "when": "August 17, 2026",
+      "body": "Planning Board"
+    }
+  ],
+  "week": "2026-07-13",
+  "fingerprint": "f477f10d7996955c",
+  "video_ids": [
+    "LJ2j8FHbFbo",
+    "Q88Ipn6bDNY",
+    "SfMRh_yUWvM",
+    "VfNHNadf_2g",
+    "i3pBZm9DgSs",
+    "pwm7wBAQf8E"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:07:27Z"
+}

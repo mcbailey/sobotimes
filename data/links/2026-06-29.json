@@ -1,0 +1,82 @@
+{
+  "week": "2026-06-29",
+  "fingerprint": "74c65e66d2f1345c",
+  "topics": {
+    "YrcyfhtzkD8#0": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#3": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "YrcyfhtzkD8#5": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#6": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "YrcyfhtzkD8#7": {
+      "issue": "21-highland-street-use",
+      "category": "Buildings & facilities"
+    },
+    "YrcyfhtzkD8#8": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "eJY0jkb5BOE#0": {
+      "issue": "police-drone-program",
+      "category": "Public safety"
+    },
+    "wXOvCKRJRp4#0": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    }
+  },
+  "upcoming": {
+    "YrcyfhtzkD8#u0": {
+      "date": "2026-07-01",
+      "issue": null
+    },
+    "YrcyfhtzkD8#u1": {
+      "date": null,
+      "issue": "peninsula-trail-phase-2"
+    },
+    "YrcyfhtzkD8#u2": {
+      "date": null,
+      "issue": null
+    },
+    "YrcyfhtzkD8#u3": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "eJY0jkb5BOE#u0": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "wXOvCKRJRp4#u0": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "wXOvCKRJRp4#u1": {
+      "date": "2026-07-25",
+      "issue": "route-9-wastewater-infrastructure"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:33:56Z"
+}

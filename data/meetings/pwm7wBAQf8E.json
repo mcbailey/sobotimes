@@ -1,0 +1,138 @@
+{
+  "video": {
+    "id": "pwm7wBAQf8E",
+    "title": "Golf Committee 7/14/26",
+    "published_at": "2026-07-15T12:24:46Z",
+    "duration_s": 2115
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Golf Committee",
+    "meeting_date": "2026-07-14",
+    "headline": "The Golf Committee approved a scope of work for an Audubon consultant and discussed irrigation funding and errant balls on Latisquama Road.",
+    "summary": "The Southborough Golf Committee reviewed the funding plan for the golf course irrigation project, which includes a pending request to the Community Preservation Committee ahead of Fall Town Meeting. Members voted unanimously to approve a scope of work for hiring an Audubon environmental consultant to draft an RFP. The committee also discussed planning for tee box reconstruction projects and reviewed ongoing complaints regarding errant golf balls damaging property on Latisquama Road.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the minutes of the previous meeting without changes.",
+        "key_details": [
+          "The draft minutes were accepted as prepared."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 10,
+        "end_seconds": null
+      },
+      {
+        "title": "Golf course irrigation project funding update",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The chair provided an update on funding strategy and applications for the golf course irrigation project. The project is estimated at approximately $970,000, funded through previously approved Community Preservation Act funds, $100,000 from the golf revolving fund, and a new CPA application for roughly $320,000 to $350,000.",
+        "key_details": [
+          "Project cost is estimated around $970,000.",
+          "Initial CPA allocation of $550,000 was approved two years ago.",
+          "Golf course revolving fund is slated to contribute $100,000.",
+          "A supplemental CPA grant application was submitted for the remaining balance of roughly $320,000 to $350,000.",
+          "The committee expects to present the proposal at Fall Town Meeting for implementation next year."
+        ],
+        "outcome": "The CPA application was submitted and committee members await a hearing date with the Community Preservation Committee.",
+        "why_it_matters": "The project requires hundreds of thousands of dollars in town Community Preservation funds and revolving funds to install a modern irrigation system at the town-owned course.",
+        "start_seconds": 58,
+        "end_seconds": null
+      },
+      {
+        "title": "Audubon certification consultant scope of work",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed and formally approved the scope of work to solicit an Audubon International consultant. The scope will be handed over to town conservation staff to prepare a formal Request for Proposals from qualified consultants.",
+        "key_details": [
+          "Scope was updated to include feedback from committee members.",
+          "Conservation staff will format the scope into town RFP specifications.",
+          "The town intends to solicit at least three quotes by email.",
+          "Audubon International annual dues will need to be paid out of golf course accounts."
+        ],
+        "outcome": "Committee voted to approve the scope of work for the Audubon project.",
+        "why_it_matters": null,
+        "start_seconds": 245,
+        "end_seconds": null
+      },
+      {
+        "title": "Future capital improvements and tee box reconstructions",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee discussed prioritizing future course capital projects, focusing on rebuilding and enlarging the 5th, 8th, and 3rd tee boxes. Course management will seek recommendations and a fee estimate from a golf course architect to prepare design options and cost estimates.",
+        "key_details": [
+          "Rebuilding individual tee boxes is estimated at roughly $20,000 to $30,000 each.",
+          "A project covering three tee boxes is estimated between $80,000 and $120,000.",
+          "Course management agreed to contact an architect to formulate proposals and prices.",
+          "Additional discussion included long-term needs for cart paths and sand bunker maintenance."
+        ],
+        "outcome": "Course management will obtain design proposals and fee estimates from an architect for committee review.",
+        "why_it_matters": null,
+        "start_seconds": 690,
+        "end_seconds": null
+      },
+      {
+        "title": "Errant golf balls affecting Latisquama Road residences",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "A committee member raised neighborhood concerns regarding heavy volumes of errant golf balls hitting residences on Latisquama Road, particularly 30 Latisquama Road near the 7th tee. Members debated potential solutions, including moving the tee box, shortening the hole into a par 3, or reorienting the green away from the roadway.",
+        "key_details": [
+          "The property owner at 30 Latisquama Road reported collecting over 500 errant balls in a season.",
+          "Incidents include property damage, vehicle dents, and a shattered vehicle sunroof.",
+          "Higher rounds of play have exacerbated the frequency of errant balls.",
+          "Prior netting and tee relocations have not solved the problem."
+        ],
+        "outcome": "The committee agreed to keep the issue as a standing agenda item and seek input from the golf architect on hole redesign options.",
+        "why_it_matters": null,
+        "start_seconds": 1187,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the scope of work for the Audubon project consultant RFP.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 431
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Discussion with the Community Preservation Committee regarding the irrigation grant application",
+        "when": "Late July 2026"
+      },
+      {
+        "what": "Next regular Golf Committee meeting (subject to cancellation if an earlier Zoom meeting is called)",
+        "when": "September 1, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:39:44Z",
+  "usage": {
+    "total_tokens": 83729,
+    "total_input_tokens": 81466,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 80776
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1487,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 776
+  }
+}

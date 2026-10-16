@@ -1,0 +1,147 @@
+{
+  "video": {
+    "id": "LJ2j8FHbFbo",
+    "title": "Trails Committee 7/16/26",
+    "published_at": "2026-07-17T12:54:12Z",
+    "duration_s": 4879
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-07-16",
+    "headline": "The Trails Committee finalized a $226,096 CPA funding request for a Peninsula Trail footbridge ahead of fall Special Town Meeting.",
+    "summary": "The Trails Committee met to finalize its Community Preservation Act application seeking an additional $226,096 to construct a pedestrian footbridge on the Peninsula Trail, after construction bids exceeded initial estimates. Members also reviewed a recent site visit by MassTrails grant administrators and explored seeking state grant funding in 2027 to offset local costs. Additionally, the committee discussed submitting a $5,000 Choate Fund grant application for trail seating and clearing around signage, managing invasive Japanese knotweed, and answered public questions regarding trail routing and parking.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair called the meeting to order and the committee approved minutes from previous meetings.",
+        "key_details": [
+          "Meeting called to order at 6:37 PM.",
+          "Meeting minutes from June 11 and June 25, 2026 were approved."
+        ],
+        "outcome": "Approved minutes.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail Phase 1 update and MassTrails site visit",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair reported on an impromptu site visit conducted with MassTrails grant program administrators representing the Department of Conservation and Recreation. Officials toured the completed Phase 1 trailheads, fencing, signage, and the proposed bridge site, and discussed options for applying for grant funding in future cycles.",
+        "key_details": [
+          "State grant administrators toured the Central Street trailhead and the proposed bridge location over Stony Brook.",
+          "Officials noted that high contractor bids exceeding initial project budgets have been a common issue across Massachusetts trail projects.",
+          "The committee is preparing to apply for another round of MassTrails grant funding in February 2027.",
+          "The committee is assembling a project closeout video highlighting accessible use of the completed Phase 1 trail section."
+        ],
+        "outcome": "Site visit completed; committee moving forward with closeout documentation and planning a future grant application.",
+        "why_it_matters": null,
+        "start_seconds": 95,
+        "end_seconds": null
+      },
+      {
+        "title": "CPA application for Peninsula Trail footbridge",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed and edited its Community Preservation Act (CPA) application seeking additional town funding for the Peninsula Trail pedestrian footbridge across Stony Brook. After dropping an expensive boardwalk component, the committee is requesting an additional $226,096 to add to its previously approved $211,232 appropriation, bringing the total project budget to $437,328.",
+        "key_details": [
+          "Total project estimate is $437,328, including $346,440 for bridge fabrication and construction, $12,500 for engineering oversight by Beals and Thomas, and a 20 percent contingency of $72,888.",
+          "Town Meeting previously authorized $211,232 in 2024, leaving an additional request of $226,096 in CPA funds.",
+          "The application requests extending the spending authorization deadline through December 2028 to allow for potential state grant matching.",
+          "Committee agreed to specify wood decking for the bridge rather than fiber-reinforced polymer to reduce costs and avoid static electricity concerns.",
+          "A presentation before the Community Preservation Committee is scheduled for July 21."
+        ],
+        "outcome": "Application draft revised; committee will present to the Community Preservation Committee on July 21 ahead of fall Special Town Meeting.",
+        "why_it_matters": "The proposal requests $226,096 in additional town Community Preservation Act funds at the upcoming fall Special Town Meeting to bridge Stony Brook and connect regional trail systems.",
+        "start_seconds": 595,
+        "end_seconds": null
+      },
+      {
+        "title": "Equipment, tool storage, and trail maintenance",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The committee discussed newly acquired equipment purchased before the fiscal year-end, tool shed security, and methods for combating invasive species along the trails.",
+        "key_details": [
+          "Purchased tools, pop-up tents, tables, and a walk-behind weed trimmer with remaining year-end budget, leaving only $95 unspent.",
+          "Coordination is ongoing with the Recreation Department to improve security at the tool shed.",
+          "Committee discussed Japanese knotweed pushing up through asphalt along the trail and explored control methods, including fine wire mesh barriers."
+        ],
+        "outcome": "Discussion only; committee plans to schedule future trail work parties and finalize tool storage arrangements.",
+        "why_it_matters": null,
+        "start_seconds": 3006,
+        "end_seconds": null
+      },
+      {
+        "title": "Choate Fund grant proposal for trail seating and signage",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair proposed submitting a grant application for up to $5,000 to the Choate Fund to expand gravel pads around interpretive signs and install additional trail benches. Expanding the crushed stone pads would provide buffer space against encroaching poison ivy and offer resting spots for visitors with limited mobility.",
+        "key_details": [
+          "Choate Fund application deadline is July 31, 2026.",
+          "Proposed scope includes widening stone dust areas around trail signs, adding an extra interpretive sign, and installing backless benches.",
+          "The chair will circulate a grant proposal draft to committee members for individual feedback prior to the deadline."
+        ],
+        "outcome": "Chair to prepare and submit grant application by the July 31 deadline.",
+        "why_it_matters": null,
+        "start_seconds": 3115,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident asked about trail parking availability on Stony Brook Road near the commercial facility, the feasibility of crosswalks on Route 30, and the exact physical location of the proposed footbridge relative to MWRA property.",
+        "start_seconds": 4104
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Community Preservation Committee meeting regarding Peninsula Trail application",
+        "when": "July 21, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Choate Fund grant application deadline",
+        "when": "July 31, 2026"
+      },
+      {
+        "what": "Next Trails Committee meeting",
+        "when": "August 27, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Heritage Day public outreach table",
+        "when": "October 12, 2026"
+      },
+      {
+        "what": "Special Town Meeting consideration of CPA funding request",
+        "when": "October 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:33:26Z",
+  "usage": {
+    "total_tokens": 190390,
+    "total_input_tokens": 187086,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 186393
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1743,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1561
+  }
+}

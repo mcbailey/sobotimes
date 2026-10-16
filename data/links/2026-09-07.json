@@ -1,0 +1,202 @@
+{
+  "week": "2026-09-07",
+  "fingerprint": "74a40f92a660b4a0",
+  "topics": {
+    "3Fu66bBPayE#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "3Fu66bBPayE#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "3Fu66bBPayE#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "3Fu66bBPayE#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "3Fu66bBPayE#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "6QpNCFmbloY#0": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "6QpNCFmbloY#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "6QpNCFmbloY#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "FdQ5e5akTBk#0": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "FdQ5e5akTBk#1": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "FdQ5e5akTBk#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "JEIGQ-Svv2Y#0": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "JEIGQ-Svv2Y#1": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "K0f-6cLjO_Q#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "K0f-6cLjO_Q#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#5": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#6": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#7": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "K0f-6cLjO_Q#8": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "K0f-6cLjO_Q#9": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "K0f-6cLjO_Q#10": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "K0f-6cLjO_Q#11": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "K0f-6cLjO_Q#12": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "K0f-6cLjO_Q#13": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "TKelgkz3FaU#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "TKelgkz3FaU#1": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "TKelgkz3FaU#2": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "TKelgkz3FaU#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "3Fu66bBPayE#u0": {
+      "date": "2026-09-15",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "3Fu66bBPayE#u1": {
+      "date": "2026-09-17",
+      "issue": null
+    },
+    "3Fu66bBPayE#u2": {
+      "date": "2026-10-03",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "3Fu66bBPayE#u3": {
+      "date": "2026-10-12",
+      "issue": null
+    },
+    "3Fu66bBPayE#u4": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "6QpNCFmbloY#u0": {
+      "date": null,
+      "issue": "2030-master-plan-update"
+    },
+    "6QpNCFmbloY#u1": {
+      "date": "2026-10-08",
+      "issue": null
+    },
+    "FdQ5e5akTBk#u0": {
+      "date": "2026-09-14",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "JEIGQ-Svv2Y#u0": {
+      "date": null,
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "JEIGQ-Svv2Y#u1": {
+      "date": null,
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "K0f-6cLjO_Q#u0": {
+      "date": "2026-09-24",
+      "issue": "neary-school-building-project"
+    },
+    "K0f-6cLjO_Q#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "K0f-6cLjO_Q#u2": {
+      "date": null,
+      "issue": null
+    },
+    "K0f-6cLjO_Q#u3": {
+      "date": "2026-11-04",
+      "issue": null
+    },
+    "TKelgkz3FaU#u0": {
+      "date": "2026-10-06",
+      "issue": null
+    },
+    "TKelgkz3FaU#u1": {
+      "date": "2026-10-13",
+      "issue": "fy28-operating-budget"
+    },
+    "TKelgkz3FaU#u2": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:52:36Z"
+}

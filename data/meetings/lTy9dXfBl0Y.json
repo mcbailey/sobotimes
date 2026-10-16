@@ -1,0 +1,66 @@
+{
+  "video": {
+    "id": "lTy9dXfBl0Y",
+    "title": "Planning Board 6/4/26",
+    "published_at": "2026-06-05T14:54:26Z",
+    "duration_s": 44
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-06-04",
+    "headline": "The Planning Board voted to enter executive session regarding threatened litigation concerning 40-42 Central Street without returning to open session.",
+    "summary": "The Planning Board convened briefly on June 4, 2026, to conduct a roll call vote to enter executive session. The session was called under state open meeting law exemption 3 to discuss strategy regarding threatened litigation by the owner of 40-42 Central Street. The board did not reconvene in open session.",
+    "topics": [
+      {
+        "title": "Vote to enter executive session regarding 40-42 Central Street",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board voted by roll call to enter executive session to discuss legal strategy concerning threatened litigation from the owner of 40-42 Central Street. The chair declared that holding the discussion in open session would be detrimental to the town's position and noted the board would not return to open session.",
+        "key_details": [
+          "Executive session convened under M.G.L. Chapter 30A, Section 21, exemption 3",
+          "Subject matter involves threatened litigation by the property owner of 40-42 Central Street",
+          "The board did not return to open session afterward"
+        ],
+        "outcome": "Approved entering executive session",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Enter executive session to discuss strategy regarding threatened litigation concerning 40-42 Central Street and not return to open session",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 31
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [],
+    "caveats": "The recording covers only the open call to order and roll call vote to enter executive session, lasting under one minute. The substantive discussion occurred in closed executive session."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:14:12Z",
+  "usage": {
+    "total_tokens": 3639,
+    "total_input_tokens": 2375,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 687
+      },
+      {
+        "modality": "video",
+        "tokens": 1688
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 510,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 754
+  }
+}

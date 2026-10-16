@@ -1,0 +1,150 @@
+{
+  "week": "2026-08-03",
+  "fingerprint": "35ad842867fcf63c",
+  "topics": {
+    "EFRO31Iu9h4#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "EFRO31Iu9h4#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "EFRO31Iu9h4#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "FJ17Q-csvXQ#0": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "FJ17Q-csvXQ#1": {
+      "issue": "rural-cemetery-water-tower",
+      "category": "Parks, trails & recreation"
+    },
+    "FJ17Q-csvXQ#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "FJ17Q-csvXQ#3": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "FJ17Q-csvXQ#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "FJ17Q-csvXQ#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Qsq95EloGuk#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Qsq95EloGuk#1": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "Qsq95EloGuk#2": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "odCLG9N4LBk#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "odCLG9N4LBk#1": {
+      "issue": "stewardship-committee-structure",
+      "category": "Governance & committees"
+    },
+    "odCLG9N4LBk#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "odCLG9N4LBk#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "odCLG9N4LBk#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "odCLG9N4LBk#5": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "uSBMTe-eKjk#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uSBMTe-eKjk#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "uSBMTe-eKjk#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "uSBMTe-eKjk#3": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "uSBMTe-eKjk#4": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    }
+  },
+  "upcoming": {
+    "EFRO31Iu9h4#u0": {
+      "date": "2026-08-19",
+      "issue": "neary-school-building-project"
+    },
+    "EFRO31Iu9h4#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "EFRO31Iu9h4#u2": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "EFRO31Iu9h4#u3": {
+      "date": "2027-03-20",
+      "issue": "neary-school-building-project"
+    },
+    "FJ17Q-csvXQ#u0": {
+      "date": "2026-08-25",
+      "issue": null
+    },
+    "FJ17Q-csvXQ#u1": {
+      "date": "2026-09-01",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "Qsq95EloGuk#u0": {
+      "date": null,
+      "issue": "classification-and-compensation-study"
+    },
+    "Qsq95EloGuk#u1": {
+      "date": "2026-09-08",
+      "issue": null
+    },
+    "odCLG9N4LBk#u0": {
+      "date": "2026-08-11",
+      "issue": "stewardship-committee-structure"
+    },
+    "uSBMTe-eKjk#u0": {
+      "date": "2026-08-11",
+      "issue": "fy28-operating-budget"
+    },
+    "uSBMTe-eKjk#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "uSBMTe-eKjk#u2": {
+      "date": "2027-03-20",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:44:18Z"
+}

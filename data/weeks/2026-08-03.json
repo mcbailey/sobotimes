@@ -1,0 +1,79 @@
+{
+  "headline": "Southborough boards reviewed early Neary School renovation concepts, weighed rising Community Preservation project costs, and debated long-term budget and override strategies.",
+  "synopsis": "The Elementary School Building Committee reviewed three initial architectural concepts for modernizing Neary Elementary School and requested a fourth option featuring an exterior standalone gymnasium. The Community Preservation Committee examined updated funding requests for golf course irrigation, Fay Memorial Park, and the Peninsula Trail footbridge ahead of upcoming town meeting deadlines. The Advisory Committee refined town budget policies and evaluated multi-year fiscal forecasts, including potential operating overrides and hiring controls. Meanwhile, the Stewardship Committee authorized treated lumber for a Town Forest footbridge, and the Personnel Board maintained a hold on position reclassifications while a townwide compensation study proceeds.",
+  "highlights": [
+    {
+      "title": "Neary School renovation and addition design options",
+      "why": "Architects presented three preliminary concepts to modernize Neary School for grades 4 and 5, leading the committee to request an additional option with an exterior gym ahead of a planned March 2027 Town Meeting vote.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "EFRO31Iu9h4",
+      "start_seconds": 164
+    },
+    {
+      "title": "Budget projections and potential override strategy",
+      "why": "The committee prepared for talks with the Select Board on multi-year deficits, debating whether to pursue single-year or phased tax overrides while exploring hiring freezes to control municipal spending.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "uSBMTe-eKjk",
+      "start_seconds": 5450
+    },
+    {
+      "title": "Golf course irrigation system funding and scope update",
+      "why": "Revised consultant estimates pushed the golf course irrigation project to $970,475, prompting discussions on contractor lead times, sunset clauses, and golf revolving fund contributions.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "FJ17Q-csvXQ",
+      "start_seconds": 90
+    },
+    {
+      "title": "Peninsula Trail footbridge application revision",
+      "why": "The Trails Committee revised its Community Preservation Act request to $215,596 for the $471,828 modular footbridge, adding funding for construction-phase administration and a 20 percent construction contingency.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "FJ17Q-csvXQ",
+      "start_seconds": 2850
+    },
+    {
+      "title": "Fay Memorial Park improvements and parking planning",
+      "why": "Recreation officials updated plans for park amenities, parking flow, and site plan review requirements while pursuing an eligible federal Land and Water Conservation Fund grant.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "FJ17Q-csvXQ",
+      "start_seconds": 5365
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board discussion on Stewardship Committee appointments and committee structure",
+      "when": "August 11, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Elementary School Building Committee review of 10-year maintenance plan and Option 4 design",
+      "when": "August 19, 2026",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Next Community Preservation Committee meeting on funding applications",
+      "when": "August 25, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Joint meeting on Fay Memorial Park parking and traffic enhancements",
+      "when": "September 1, 2026",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-08-03",
+  "fingerprint": "35ad842867fcf63c",
+  "video_ids": [
+    "EFRO31Iu9h4",
+    "FJ17Q-csvXQ",
+    "Qsq95EloGuk",
+    "odCLG9N4LBk",
+    "uSBMTe-eKjk"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:06:05Z"
+}

@@ -1,0 +1,97 @@
+{
+  "headline": "The Select Board set Town Meeting dates, funded Route 9 wastewater planning, and denied an Open Space appointment, while schools advanced Neary planning.",
+  "synopsis": "The Select Board scheduled the Fall Special Town Meeting for October 17, 2026, and the 2027 Annual Town Meeting for March 20, 2027. It also approved $30,000 for financial analysis of a Route 9 wastewater district, stripped a $105,000 drone request from police year-end spending, and voted against reappointing Freddie Gillespie to the Open Space Preservation Commission. In school developments, the Elementary School Building Committee launched a revised Neary School study with Tappé Architects focused on tiered renovation choices, while the School Committee approved a three-year contract for support staff. Additionally, the Personnel Board adopted FY27 municipal wage rates and finalized a contract for a comprehensive salary study.",
+  "highlights": [
+    {
+      "title": "Town Meeting dates set for fall and spring",
+      "why": "The Select Board scheduled the Fall Special Town Meeting for Saturday, October 17, 2026, and the Annual Town Meeting for Saturday, March 20, 2027. Both sessions will start at 10:00 AM on Saturdays to accommodate families and seniors.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "mCf5Dw5Wi6c",
+      "start_seconds": 10060
+    },
+    {
+      "title": "Funding approved for Route 9 wastewater study",
+      "why": "The Select Board voted 4-1 to allocate $30,000 from Economic Development Committee surplus funds for MassDevelopment consultant projections. The analysis will model property tax revenues to support a proposed District Improvement Financing article in the fall.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "mCf5Dw5Wi6c",
+      "start_seconds": 9520
+    },
+    {
+      "title": "Neary School study relaunches with tiered options",
+      "why": "Tappé Architects met with the Elementary School Building Committee to develop multiple renovation tiers ranging from basic code repairs to educational upgrades. The architects suggested October is too early for a full construction funding vote.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "g-eEt2SJdRI",
+      "start_seconds": 27
+    },
+    {
+      "title": "Select Board blocks $105,000 police drone program",
+      "why": "While approving year-end surplus funds for medical gear and ballistic plates, the board excluded a $105,000 five-year drone request, stating it should be vetted by the Capital Committee and Town Meeting.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "mCf5Dw5Wi6c",
+      "start_seconds": 1886
+    },
+    {
+      "title": "Freddie Gillespie denied Open Space reappointment",
+      "why": "The Select Board voted 0-5 against reappointing longtime conservation volunteer Freddie Gillespie to the Open Space Preservation Commission, citing past procedural disputes and committee restructuring goals.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "mCf5Dw5Wi6c",
+      "start_seconds": 6447
+    },
+    {
+      "title": "Three-year contract approved for school support personnel",
+      "why": "The School Committee unanimously approved a three-year collective bargaining agreement with the Southborough Teachers Association covering Unit C administrative assistants and educational support professionals.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "mmpLfpY8-s0",
+      "start_seconds": 26
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Legislative hearing on Costco special act liquor license bill",
+      "when": "June 23, 2026 at 10:00 AM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Kickoff meeting with MGT for town-wide salary and classification study",
+      "when": "late June or early July",
+      "body": "Personnel Board"
+    },
+    {
+      "what": "Select Board meeting to review wayfinding plan designs and warrant items",
+      "when": "July 7, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Next Elementary School Building Committee meeting to review work plan and schedule",
+      "when": "July 8, 2024 at 7:00 PM",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Fall Special Town Meeting",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": null
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "March 20, 2027 at 10:00 AM",
+      "body": null
+    }
+  ],
+  "week": "2026-06-15",
+  "fingerprint": "c9508bff69b3a8f4",
+  "video_ids": [
+    "NfkgvDJIPog",
+    "g-eEt2SJdRI",
+    "mCf5Dw5Wi6c",
+    "mmpLfpY8-s0",
+    "t2MR3sJzMA0"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:09:16Z"
+}

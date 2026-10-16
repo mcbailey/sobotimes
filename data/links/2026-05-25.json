@@ -1,0 +1,42 @@
+{
+  "week": "2026-05-25",
+  "fingerprint": "30a5370b7cc69ea7",
+  "topics": {
+    "NSeY9P5X_sc#0": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "rSXalU_9VoA#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "rSXalU_9VoA#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "rSXalU_9VoA#2": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    }
+  },
+  "upcoming": {
+    "NSeY9P5X_sc#u0": {
+      "date": "2026-06-01",
+      "issue": null
+    },
+    "rSXalU_9VoA#u0": {
+      "date": "2026-06-04",
+      "issue": "classification-and-compensation-study"
+    },
+    "rSXalU_9VoA#u1": {
+      "date": "2026-06-05",
+      "issue": null
+    },
+    "rSXalU_9VoA#u2": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:24:45Z"
+}

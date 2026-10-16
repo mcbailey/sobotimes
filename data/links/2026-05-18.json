@@ -1,0 +1,158 @@
+{
+  "week": "2026-05-18",
+  "fingerprint": "a1fae6dc906a1b8c",
+  "topics": {
+    "C_4TOzgcpyo#0": {
+      "issue": "southborough-golf-club-audubon-plan",
+      "category": "Environment & conservation"
+    },
+    "C_4TOzgcpyo#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "C_4TOzgcpyo#2": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "C_4TOzgcpyo#3": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "C_4TOzgcpyo#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "C_4TOzgcpyo#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "C_4TOzgcpyo#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "X6ABrfEh-fQ#0": {
+      "issue": "route-9-495-gateway-study",
+      "category": "Zoning & development"
+    },
+    "YmD0athXTZs#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "YmD0athXTZs#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "aE6XZkN9G9s#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "aE6XZkN9G9s#1": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "aE6XZkN9G9s#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Budget & taxes"
+    },
+    "aE6XZkN9G9s#3": {
+      "issue": "route-9-495-gateway-study",
+      "category": "Roads, water & infrastructure"
+    },
+    "deu8b2Ix5zU#0": {
+      "issue": "parkerville-road-utility-pole",
+      "category": "Roads, water & infrastructure"
+    },
+    "deu8b2Ix5zU#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "deu8b2Ix5zU#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "deu8b2Ix5zU#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "deu8b2Ix5zU#4": {
+      "issue": "metrowest-recc-borrowing",
+      "category": "Public safety"
+    },
+    "deu8b2Ix5zU#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "deu8b2Ix5zU#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "deu8b2Ix5zU#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "deu8b2Ix5zU#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "C_4TOzgcpyo#u0": {
+      "date": "2026-06-11",
+      "issue": null
+    },
+    "C_4TOzgcpyo#u1": {
+      "date": "2026-06-30",
+      "issue": null
+    },
+    "C_4TOzgcpyo#u2": {
+      "date": "2026-07-31",
+      "issue": null
+    },
+    "C_4TOzgcpyo#u3": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "X6ABrfEh-fQ#u0": {
+      "date": "2026-06-01",
+      "issue": null
+    },
+    "X6ABrfEh-fQ#u1": {
+      "date": "2026-06-03",
+      "issue": "route-9-495-gateway-study"
+    },
+    "YmD0athXTZs#u0": {
+      "date": null,
+      "issue": null
+    },
+    "aE6XZkN9G9s#u0": {
+      "date": "2026-06-02",
+      "issue": "route-9-495-gateway-study"
+    },
+    "aE6XZkN9G9s#u1": {
+      "date": "2026-06-03",
+      "issue": "route-9-495-gateway-study"
+    },
+    "aE6XZkN9G9s#u2": {
+      "date": "2026-06-22",
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "deu8b2Ix5zU#u0": {
+      "date": "2026-06-02",
+      "issue": "parkerville-road-utility-pole"
+    },
+    "deu8b2Ix5zU#u1": {
+      "date": "2026-06-02",
+      "issue": null
+    },
+    "deu8b2Ix5zU#u2": {
+      "date": "2026-06-08",
+      "issue": null
+    },
+    "deu8b2Ix5zU#u3": {
+      "date": "2026-06-16",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:24:18Z"
+}

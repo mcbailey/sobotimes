@@ -1,0 +1,38 @@
+{
+  "week": "2026-04-20",
+  "fingerprint": "4f784c27f0b841ff",
+  "topics": {
+    "PAtEimNNvz4#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "PAtEimNNvz4#1": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "PAtEimNNvz4#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    }
+  },
+  "upcoming": {
+    "PAtEimNNvz4#u0": {
+      "date": "2026-04-28",
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "PAtEimNNvz4#u1": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "PAtEimNNvz4#u2": {
+      "date": "2026-05-21",
+      "issue": null
+    },
+    "PAtEimNNvz4#u3": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:15:08Z"
+}

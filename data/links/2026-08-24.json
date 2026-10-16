@@ -1,0 +1,206 @@
+{
+  "week": "2026-08-24",
+  "fingerprint": "841addf41f91fe5b",
+  "topics": {
+    "E6eHIu5yZok#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "E6eHIu5yZok#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "E6eHIu5yZok#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "E6eHIu5yZok#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "E6eHIu5yZok#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "E6eHIu5yZok#5": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "E6eHIu5yZok#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "GXZGc-hyvPg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "GXZGc-hyvPg#1": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "GXZGc-hyvPg#2": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "GXZGc-hyvPg#3": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "GXZGc-hyvPg#4": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "OyfCzyf7Z6k#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "OyfCzyf7Z6k#1": {
+      "issue": "police-drone-program",
+      "category": "Public safety"
+    },
+    "OyfCzyf7Z6k#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "OyfCzyf7Z6k#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "OyfCzyf7Z6k#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "PtDnRwzqC30#0": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "PtDnRwzqC30#1": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "PtDnRwzqC30#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "PtDnRwzqC30#3": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "PtDnRwzqC30#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "g5scXGcNtUc#0": {
+      "issue": "fay-school-athletic-fields",
+      "category": "Zoning & development"
+    },
+    "g5scXGcNtUc#1": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "g5scXGcNtUc#2": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "g5scXGcNtUc#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "g5scXGcNtUc#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#5": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#6": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#7": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#8": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#9": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "g5scXGcNtUc#10": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g5scXGcNtUc#11": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "E6eHIu5yZok#u0": {
+      "date": "2026-09-10",
+      "issue": null
+    },
+    "E6eHIu5yZok#u1": {
+      "date": "2026-09-15",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "E6eHIu5yZok#u2": {
+      "date": null,
+      "issue": null
+    },
+    "E6eHIu5yZok#u3": {
+      "date": null,
+      "issue": null
+    },
+    "GXZGc-hyvPg#u0": {
+      "date": "2026-09-23",
+      "issue": null
+    },
+    "GXZGc-hyvPg#u1": {
+      "date": null,
+      "issue": "55-plus-housing-bylaw"
+    },
+    "GXZGc-hyvPg#u2": {
+      "date": null,
+      "issue": null
+    },
+    "OyfCzyf7Z6k#u0": {
+      "date": "2026-09-02",
+      "issue": null
+    },
+    "OyfCzyf7Z6k#u1": {
+      "date": "2026-09-22",
+      "issue": null
+    },
+    "OyfCzyf7Z6k#u2": {
+      "date": null,
+      "issue": null
+    },
+    "PtDnRwzqC30#u0": {
+      "date": null,
+      "issue": null
+    },
+    "PtDnRwzqC30#u1": {
+      "date": "2026-09-08",
+      "issue": null
+    },
+    "PtDnRwzqC30#u2": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "g5scXGcNtUc#u0": {
+      "date": "2026-09-17",
+      "issue": null
+    },
+    "g5scXGcNtUc#u1": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:48:57Z"
+}

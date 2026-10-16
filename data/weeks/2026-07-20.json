@@ -1,0 +1,92 @@
+{
+  "headline": "Town committees reviewed rising costs for major park, golf, and trail projects, while housing and wastewater proposals were deferred past fall Town Meeting.",
+  "synopsis": "The Community Preservation Committee reviewed updated funding requests for three major projects heading toward fall Special Town Meeting, as projected costs climbed for Fay Memorial Park, Southborough Golf Course irrigation, and the Peninsula Trail footbridge. The Affordable Housing Trust decided to shift proposed revisions to the 55-plus housing bylaw to spring Town Meeting, while the Wastewater Study Committee also confirmed it will not bring any funding requests to the fall warrant. Meanwhile, the Community Preservation Committee resolved a wording dispute by voting 5-1 to credit Southborough residents on upcoming library plaques, matching the Library Board of Trustees preference. The Library Trustees also backed a future two-hour closure for staff dementia training and approved two internal promotions.",
+  "highlights": [
+    {
+      "title": "Fay Memorial Park project estimate rises to $1.5 million",
+      "why": "Revised plans added $240,000 for parking reconfiguration and road alterations along Central Street, bringing the overall estimate to about $1.5 million ahead of fall Special Town Meeting.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "QD_9SgG4w3I",
+      "start_seconds": 2563
+    },
+    {
+      "title": "Golf course irrigation estimate climbs to $976,470",
+      "why": "After previous bids exceeded the $553,000 approved in 2024, revised estimates increased sharply due to new pump station needs, prompting a request for additional Community Preservation Act funding.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "QD_9SgG4w3I",
+      "start_seconds": 4278
+    },
+    {
+      "title": "Peninsula Trail footbridge scope revised amid higher costs",
+      "why": "The Trails Committee eliminated a planned boardwalk to lower costs, presenting a revised $434,328 footbridge budget that requests $178,496 in supplemental Community Preservation Act funds.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "QD_9SgG4w3I",
+      "start_seconds": 5209
+    },
+    {
+      "title": "Wastewater committee defers fall Town Meeting proposal",
+      "why": "The committee confirmed it will not bring funding requests or financing districts to fall Special Town Meeting, choosing instead to consult MassDEP on watershed discharge restrictions along Route 9.",
+      "body": "Wastewater Study Committee",
+      "importance": "high",
+      "video_id": "jvfwnOTz83I",
+      "start_seconds": 1262
+    },
+    {
+      "title": "Proposed 55-plus housing bylaw revisions shifted to spring",
+      "why": "The Affordable Housing Trust decided to target the spring 2027 Annual Town Meeting to work with the Planning Board and town counsel on removing unit caps and refining affordability rules.",
+      "body": "Affordable Housing Trust",
+      "importance": "medium",
+      "video_id": "JG8iMC7OonI",
+      "start_seconds": 548
+    },
+    {
+      "title": "Committee approves library plaques crediting Southborough residents",
+      "why": "The Community Preservation Committee voted 5-1 to endorse bronze plaque wording thanking Southborough residents rather than taxpayers for prior facade and history collection funding, agreeing with library trustees.",
+      "body": "Community Preservation Committee",
+      "importance": "medium",
+      "video_id": "QD_9SgG4w3I",
+      "start_seconds": 20
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Next regular Board of Library Trustees meeting",
+      "when": "August 10, 2026 at 11:00 AM",
+      "body": "Library Board of Trustees"
+    },
+    {
+      "what": "Deadline for final CPC recommendations and finalized articles for Special Town Meeting",
+      "when": "August 31, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Next Wastewater Study Committee meeting",
+      "when": "September 3, 2026",
+      "body": "Wastewater Study Committee"
+    },
+    {
+      "what": "Two-hour library closure for staff Dementia Friends training",
+      "when": "Early fall 2026",
+      "body": "Library Board of Trustees"
+    },
+    {
+      "what": "Southborough Special Town Meeting",
+      "when": "October 19, 2026",
+      "body": null
+    }
+  ],
+  "week": "2026-07-20",
+  "fingerprint": "176a5cd49d49c8ee",
+  "video_ids": [
+    "9hceIu0ePss",
+    "JG8iMC7OonI",
+    "Jnrh6WK4BQY",
+    "QD_9SgG4w3I",
+    "jvfwnOTz83I"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:06:59Z"
+}

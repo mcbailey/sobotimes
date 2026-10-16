@@ -1,0 +1,282 @@
+{
+  "week": "2026-06-01",
+  "fingerprint": "03d45497d8bdb3ff",
+  "topics": {
+    "20bBFqxSPkE#0": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "20bBFqxSPkE#1": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "20bBFqxSPkE#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "20bBFqxSPkE#3": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "20bBFqxSPkE#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "20bBFqxSPkE#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "KAKmu8l1HIw#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "QOopXboMCl0#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "QOopXboMCl0#1": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "QOopXboMCl0#2": {
+      "issue": "parkerville-road-utility-pole",
+      "category": "Roads, water & infrastructure"
+    },
+    "QOopXboMCl0#3": {
+      "issue": "culvert-infrastructure-replacements",
+      "category": "Roads, water & infrastructure"
+    },
+    "QOopXboMCl0#4": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QOopXboMCl0#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QOopXboMCl0#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "QOopXboMCl0#7": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "QOopXboMCl0#8": {
+      "issue": "town-common-fence-restoration",
+      "category": "Parks, trails & recreation"
+    },
+    "QOopXboMCl0#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "g_7SIaQJK7M#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "g_7SIaQJK7M#1": {
+      "issue": "parkerville-road-utility-pole",
+      "category": "Roads, water & infrastructure"
+    },
+    "g_7SIaQJK7M#2": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "g_7SIaQJK7M#3": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "g_7SIaQJK7M#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g_7SIaQJK7M#5": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g_7SIaQJK7M#6": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "g_7SIaQJK7M#7": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "kpEDyrpGcHk#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "kpEDyrpGcHk#1": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#2": {
+      "issue": "200-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#3": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#4": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#5": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#6": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "kpEDyrpGcHk#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "kpEDyrpGcHk#8": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "kpEDyrpGcHk#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "lTy9dXfBl0Y#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "naNh8DiADss#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "naNh8DiADss#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "naNh8DiADss#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "naNh8DiADss#3": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "naNh8DiADss#4": {
+      "issue": "southborough-golf-club-audubon-plan",
+      "category": "Environment & conservation"
+    },
+    "naNh8DiADss#5": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    }
+  },
+  "upcoming": {
+    "20bBFqxSPkE#u0": {
+      "date": "2026-06-02",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "20bBFqxSPkE#u1": {
+      "date": "2026-06-11",
+      "issue": null
+    },
+    "20bBFqxSPkE#u2": {
+      "date": "2026-06-13",
+      "issue": null
+    },
+    "20bBFqxSPkE#u3": {
+      "date": "2026-06-30",
+      "issue": null
+    },
+    "20bBFqxSPkE#u4": {
+      "date": null,
+      "issue": null
+    },
+    "KAKmu8l1HIw#u0": {
+      "date": null,
+      "issue": null
+    },
+    "KAKmu8l1HIw#u1": {
+      "date": "2026-07-01",
+      "issue": null
+    },
+    "KAKmu8l1HIw#u2": {
+      "date": "2026-07-08",
+      "issue": null
+    },
+    "QOopXboMCl0#u0": {
+      "date": "2026-06-08",
+      "issue": null
+    },
+    "QOopXboMCl0#u1": {
+      "date": "2026-06-09",
+      "issue": null
+    },
+    "QOopXboMCl0#u2": {
+      "date": "2026-06-16",
+      "issue": "parkerville-road-utility-pole"
+    },
+    "QOopXboMCl0#u3": {
+      "date": "2026-06-16",
+      "issue": null
+    },
+    "g_7SIaQJK7M#u0": {
+      "date": "2026-06-25",
+      "issue": null
+    },
+    "g_7SIaQJK7M#u1": {
+      "date": null,
+      "issue": null
+    },
+    "kpEDyrpGcHk#u0": {
+      "date": "2026-06-04",
+      "issue": "40-42-central-street"
+    },
+    "kpEDyrpGcHk#u1": {
+      "date": "2026-06-08",
+      "issue": null
+    },
+    "kpEDyrpGcHk#u2": {
+      "date": "2026-06-11",
+      "issue": null
+    },
+    "kpEDyrpGcHk#u3": {
+      "date": "2026-06-22",
+      "issue": "22-turnpike-road"
+    },
+    "kpEDyrpGcHk#u4": {
+      "date": "2026-06-22",
+      "issue": "154-turnpike-road"
+    },
+    "kpEDyrpGcHk#u5": {
+      "date": "2026-07-15",
+      "issue": null
+    },
+    "kpEDyrpGcHk#u6": {
+      "date": "2026-10-01",
+      "issue": "200-turnpike-road"
+    },
+    "kpEDyrpGcHk#u7": {
+      "date": null,
+      "issue": "200-turnpike-road"
+    },
+    "naNh8DiADss#u0": {
+      "date": "2026-06-09",
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "naNh8DiADss#u1": {
+      "date": "2026-06-11",
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "naNh8DiADss#u2": {
+      "date": "2026-06-30",
+      "issue": null
+    },
+    "naNh8DiADss#u3": {
+      "date": "2026-07-14",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:28:00Z"
+}

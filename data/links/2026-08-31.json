@@ -1,0 +1,166 @@
+{
+  "week": "2026-08-31",
+  "fingerprint": "887dc4dacdfca0cf",
+  "topics": {
+    "6vLlCQSNejs#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "6vLlCQSNejs#1": {
+      "issue": "appointed-town-clerk",
+      "category": "Governance & committees"
+    },
+    "BcZY2en8mPo#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "BcZY2en8mPo#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "BcZY2en8mPo#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "BcZY2en8mPo#3": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "L-oPWBYbzKA#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "L-oPWBYbzKA#1": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "L-oPWBYbzKA#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "L-oPWBYbzKA#3": {
+      "issue": "route-9-495-gateway-study",
+      "category": "Zoning & development"
+    },
+    "L-oPWBYbzKA#4": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "L-oPWBYbzKA#5": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "UG6tol0L1QY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "UG6tol0L1QY#1": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "UG6tol0L1QY#2": {
+      "issue": "southborough-golf-club-audubon-plan",
+      "category": "Environment & conservation"
+    },
+    "UG6tol0L1QY#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "UG6tol0L1QY#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "iXhlhTPe9wg#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "iXhlhTPe9wg#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "iXhlhTPe9wg#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "iXhlhTPe9wg#3": {
+      "issue": "cemetery-expansion",
+      "category": "Parks, trails & recreation"
+    },
+    "iXhlhTPe9wg#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "iXhlhTPe9wg#5": {
+      "issue": "transfer-station-fees-and-regulations",
+      "category": "Roads, water & infrastructure"
+    },
+    "iXhlhTPe9wg#6": {
+      "issue": "constitution-drive-drainage-and-acceptance",
+      "category": "Roads, water & infrastructure"
+    },
+    "iXhlhTPe9wg#7": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "iXhlhTPe9wg#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "6vLlCQSNejs#u0": {
+      "date": "2026-10-17",
+      "issue": "appointed-town-clerk"
+    },
+    "6vLlCQSNejs#u1": {
+      "date": "2027-05-11",
+      "issue": "appointed-town-clerk"
+    },
+    "BcZY2en8mPo#u0": {
+      "date": "2026-09-09",
+      "issue": "neary-school-building-project"
+    },
+    "BcZY2en8mPo#u1": {
+      "date": "2026-09-24",
+      "issue": "neary-school-building-project"
+    },
+    "BcZY2en8mPo#u2": {
+      "date": "2026-10-06",
+      "issue": "neary-school-building-project"
+    },
+    "L-oPWBYbzKA#u0": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "L-oPWBYbzKA#u1": {
+      "date": null,
+      "issue": "route-9-495-gateway-study"
+    },
+    "L-oPWBYbzKA#u2": {
+      "date": null,
+      "issue": "route-9-495-gateway-study"
+    },
+    "UG6tol0L1QY#u0": {
+      "date": "2026-10-06",
+      "issue": null
+    },
+    "UG6tol0L1QY#u1": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "iXhlhTPe9wg#u0": {
+      "date": "2026-09-04",
+      "issue": "appointed-town-clerk"
+    },
+    "iXhlhTPe9wg#u1": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "iXhlhTPe9wg#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:51:12Z"
+}

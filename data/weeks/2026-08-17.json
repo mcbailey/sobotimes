@@ -1,48 +1,91 @@
 {
-  "synopsis": "The Elementary School Building Committee met this week to evaluate design concepts and long-term planning options for the Neary Elementary School project. The committee instructed architects to drop central school district administration offices from future building designs to dedicate more square footage to classroom and educational needs. Members also dismissed a conceptual 10-year phased capital repair schedule, determining that a decade of ongoing construction would repeatedly disrupt students without delivering modern learning spaces. Additionally, the committee agreed to migrate project archives to the municipal website after the previous project website lapsed.",
+  "headline": "The Elementary School Building Committee narrowed Neary renovation designs, while the Planning Board reviewed proposed two-family zoning amendments and utility tree trimming.",
+  "synopsis": "The Elementary School Building Committee directed architects to remove central administration offices from future Neary Elementary School design plans and rejected a 10-year phased maintenance approach to avoid student disruption. Meanwhile, the Planning Board reviewed draft zoning amendments that would remove the two-year waiting period to convert single-family homes into two-family dwellings. The Planning Board also approved National Grid's annual utility pruning plan and recommended a conditional 90-day temporary occupancy permit for Fay School.",
   "highlights": [
     {
-      "title": "Central district offices dropped from Neary building design",
-      "why": "The committee reviewed an addition and renovation concept and instructed architects to remove central school district administration offices to keep the building focused on grades 4 and 5 educational needs.",
+      "title": "Central administration offices removed from Neary School designs",
+      "why": "The committee instructed architects to drop central school district offices from future design iterations to preserve space exclusively for fourth and fifth grade educational needs.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "In0K8NmFMco",
       "start_seconds": 406
     },
     {
-      "title": "Committee dismisses 10-year phased repair plan",
-      "why": "Members rejected a proposed decade-long capital repair schedule because of the continuous disruption it would cause students, though they asked for high-level cost estimates to show Town Meeting why it is not viable.",
+      "title": "Ten-year phased repair plan rejected for Neary",
+      "why": "Committee members dismissed a decade-long capital repair schedule, concluding that continuous construction would severely disrupt students without delivering modern learning spaces.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "In0K8NmFMco",
       "start_seconds": 1920
     },
     {
-      "title": "Project archives moving to official town website",
-      "why": "Following the expiration of the standalone project website, the committee agreed to work with town staff to post project documents on the municipal site and discussed future coordination with other town boards.",
-      "body": "Elementary School Building Committee",
+      "title": "Zoning amendments drafted for two-family home conversions",
+      "why": "The board reviewed proposed warrant language to eliminate the mandatory two-year waiting period for two-family conversions ahead of a scheduled September public hearing.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "qUlxMeFyn1Y",
+      "start_seconds": 4953
+    },
+    {
+      "title": "National Grid power line pruning plan approved",
+      "why": "The board and the town tree warden approved tree pruning along four town streets to maintain required clearances around electrical distribution lines.",
+      "body": "Planning Board",
       "importance": "medium",
-      "video_id": "In0K8NmFMco",
-      "start_seconds": 5285
+      "video_id": "qUlxMeFyn1Y",
+      "start_seconds": 3890
+    },
+    {
+      "title": "Fay School addition recommended for temporary occupancy",
+      "why": "The board voted 3-0 to recommend a 90-day temporary occupancy permit on the condition that the school submit a mitigation plan for removed trees and landscape discrepancies.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "qUlxMeFyn1Y",
+      "start_seconds": 792
     }
   ],
   "looking_ahead": [
     {
-      "what": "Review of updated design schemes without central administration",
+      "what": "Pre-application review meeting with Costco development team",
+      "when": "August 24, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Joint meeting on Fayville Park expansion parking scenarios",
+      "when": "August 27, 2026",
+      "body": null
+    },
+    {
+      "what": "Elementary School Building Committee meeting to review updated design schemes without central administration",
       "when": "September 3, 2024",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Review of preliminary cost estimates",
+      "what": "Continued public hearing on 22 Turnpike Road site plan modification",
+      "when": "September 14, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Public hearing on proposed two-family dwelling zoning bylaw amendments",
+      "when": "September 14, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Elementary School Building Committee meeting to review preliminary cost estimates",
       "when": "September 24, 2024",
       "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Special Town Meeting at Trottier Middle School",
+      "when": "October 17, 2026",
+      "body": null
     }
   ],
   "week": "2026-08-17",
-  "fingerprint": "8170c99eaa8373d9",
+  "fingerprint": "25c7f1ce8a40a962",
   "video_ids": [
-    "In0K8NmFMco"
+    "In0K8NmFMco",
+    "qUlxMeFyn1Y"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T11:12:56Z"
+  "generated_at": "2026-10-16T00:05:11Z"
 }

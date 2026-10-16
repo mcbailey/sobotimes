@@ -1,0 +1,172 @@
+{
+  "video": {
+    "id": "naNh8DiADss",
+    "title": "Golf Committee 6/2/26",
+    "published_at": "2026-06-02T15:54:58Z",
+    "duration_s": 3059
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Golf Committee",
+    "meeting_date": "2026-06-02",
+    "headline": "The Golf Committee elected a new chair and evaluated funding strategies for an irrigation replacement project now estimated near $1 million.",
+    "summary": "At its June 2, 2026 meeting, the Southborough Golf Committee elected a new chair following the resignation of the previous chair. Members reviewed the golf course irrigation system project, confronting cost escalation toward $1 million and upcoming Community Preservation Act funding deadlines. The committee also discussed recruiting a fifth member, progressing on Audubon International certification planning, and moving forward with previously approved fencing and tree plantings once expired quotes are updated.",
+    "topics": [
+      {
+        "title": "Election of committee chair",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Following the departure and relocation of the prior chair, the committee held an election to appoint a new presiding officer. Member Tony agreed to step into the role, and the committee voted unanimously to elect him as chair.",
+        "key_details": [
+          "Prior committee chair relocated and resigned from the committee",
+          "Tony volunteered to take on the chair position with assistance from fellow members",
+          "The vote was approved unanimously by the members present"
+        ],
+        "outcome": "Tony elected committee chair",
+        "why_it_matters": null,
+        "start_seconds": 4,
+        "end_seconds": null
+      },
+      {
+        "title": "Recruitment for committee vacancy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed methods to recruit a fifth member to ensure steady quorums and spread the workload. Suggestions included drafting a recruitment announcement for MySouthborough, requesting an announcement at an upcoming Select Board meeting, and reviewing town census records.",
+        "key_details": [
+          "The committee currently has four members and requires a fifth member",
+          "A member volunteered to draft a notice for publication on MySouthborough",
+          "Select Board Chair Kathy Cook will be contacted to announce the vacancy at an upcoming meeting",
+          "An audience member suggested reviewing the annual town census list to identify residents with golf or sports occupations"
+        ],
+        "outcome": "Members will submit a notice to MySouthborough and contact the Select Board chair to publicize the opening",
+        "why_it_matters": null,
+        "start_seconds": 170,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved meeting minutes from March 10, 2026, and agreed to maintain a regular meeting schedule on the second Tuesday of each month.",
+        "key_details": [
+          "Minutes from March 10, 2026 approved unanimously",
+          "Noted in the minutes that no documents were submitted at the March 10 meeting",
+          "Agreed to hold future regular monthly meetings on the second Tuesday of each month"
+        ],
+        "outcome": "March 10 minutes approved",
+        "why_it_matters": null,
+        "start_seconds": 450,
+        "end_seconds": null
+      },
+      {
+        "title": "Golf course irrigation project funding and planning",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee held an extensive discussion on the stalled irrigation replacement project, which has seen projected costs rise from an initial $500,000 to nearly $1 million. Members reviewed Community Preservation Act grant expiration timelines, potential value engineering or phasing options, and an upcoming presentation to the Community Preservation Committee.",
+        "key_details": [
+          "Town Meeting previously appropriated roughly $575,000 to $600,000 in Community Preservation Act funds",
+          "Estimated total project costs have escalated to approximately $1 million due to materials and pump station requirements",
+          "Golf revolving fund currently holds about $180,000, with roughly $130,000 in additional receipts expected this season",
+          "Department of Revenue confirmed revolving funds cannot be used to repay municipal borrowing over time",
+          "A formal Community Preservation Act grant application is due June 30, with an informational appearance on June 11"
+        ],
+        "outcome": "Committee members will meet June 9 to coordinate preparations for the June 11 Community Preservation Committee meeting and check on grant expiration deadlines",
+        "why_it_matters": "The irrigation system is the golf course's primary capital project and could require additional taxpayer or Community Preservation Act funding to complete.",
+        "start_seconds": 510,
+        "end_seconds": null
+      },
+      {
+        "title": "Audubon International certification and management plan",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "A liaison reported on drafting criteria for an RFP to hire a consultant for the golf course Audubon International management plan. The Conservation Agent will draft the legal procurement document to solicit quotes from three vendors.",
+        "key_details": [
+          "The project is a joint effort between the Golf Committee and the Open Space Committee",
+          "Conservation Agent Melissa Danza will prepare the formal RFP document",
+          "Procurement requires soliciting quotes from at least three qualified firms",
+          "The consultant will review irrigation specifications against Audubon International environmental standards"
+        ],
+        "outcome": "Draft RFP criteria will be circulated to the committee for feedback before formal release",
+        "why_it_matters": null,
+        "start_seconds": 1887,
+        "end_seconds": null
+      },
+      {
+        "title": "Fencing, tree planting, and capital improvements",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed approved perimeter fencing and tree planting projects along the third hole fairway, noting contractor quotes have expired and need re-pricing. The committee also identified cart path and turf repair needs and requested a 3-to-5-year capital project estimate.",
+        "key_details": [
+          "Six Eastern White Pines were approved for planting along the third hole fairway with sign-off from the Tree Warden and Conservation Commission",
+          "Committee previously approved up to $30,000 for fencing, but contractor bids have expired after 90 days and require updated quotes",
+          "Turf erosion and washouts were noted on hillsides between holes 2 and 3 and hole 9",
+          "Committee member Bill will assemble a 3-to-5-year capital project forecast for the golf course by Thursday"
+        ],
+        "outcome": "Members will seek updated contractor pricing for fencing and trees through the Town Administrator and compile a multi-year project list",
+        "why_it_matters": null,
+        "start_seconds": 2198,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Tony as chair of the Golf Committee",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 154
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident suggested searching the annual town census list by occupation to find residents with golf or sports backgrounds to fill the committee vacancy, and suggested having the Select Board chair announce the opening during a meeting.",
+        "start_seconds": 319
+      },
+      {
+        "summary": "A resident reported that state Department of Revenue guidance prevents the town from using golf course revolving fund revenues to service long-term town borrowing for the irrigation project.",
+        "start_seconds": 1090
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Golf Committee meeting to prepare for CPC presentation",
+        "when": "June 9, 2026 at 9:00 AM"
+      },
+      {
+        "what": "Appearance before Community Preservation Committee regarding irrigation project",
+        "when": "June 11, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Deadline for Community Preservation Act grant application submissions",
+        "when": "June 30, 2026"
+      },
+      {
+        "what": "Regular monthly Golf Committee meeting",
+        "when": "July 14, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:22:18Z",
+  "usage": {
+    "total_tokens": 122230,
+    "total_input_tokens": 117536,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 688
+      },
+      {
+        "modality": "video",
+        "tokens": 116848
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1942,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2752
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "video": {
+    "id": "qYAkzbUTmaY",
+    "title": "Southborough K-8 School Committee, Special Open meeting, April 2, 2026",
+    "published_at": "2026-05-12T19:05:05Z",
+    "duration_s": 922
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-04-02",
+    "headline": "The Southborough School Committee appointed Craig Williams and Heather McCloud to the town's Elementary School Building Committee.",
+    "summary": "In a brief 15-minute special meeting, the Southborough School Committee selected two representatives for the five-member Elementary School Building Committee. The committee chose educators Craig Williams and Heather McCloud to fill the seats under the school committee's jurisdiction, complementing three members previously appointed by the Select Board. Committee members noted the importance of having active educators with operational and classroom experience involved in shaping the Neary School project.",
+    "topics": [
+      {
+        "title": "Appointments to Elementary School Building Committee",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee discussed and voted on its two appointments to the newly formed Elementary School Building Committee for the Neary School project. Members prioritized candidates with current educational experience, highlighting Williams' administrative background in school transitions and McCloud's focus on classroom functionality and special education.",
+        "key_details": [
+          "The Select Board previously appointed three members, leaving two seats for the School Committee to fill.",
+          "Appointees Craig Williams and Heather McCloud were selected for their backgrounds as active educators.",
+          "Members noted that previous building committee iterations lacked voting members who were current educators.",
+          "School officials and committee members expressed gratitude to other applicants, giving special recognition to past committee member Mark Davis."
+        ],
+        "outcome": "Craig Williams and Heather McCloud were appointed to the Elementary School Building Committee.",
+        "why_it_matters": "The appointees will directly help steer planning, educational programming requirements, and design priorities for the town's elementary school building project.",
+        "start_seconds": 55,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee concluded its business and voted to adjourn the meeting.",
+        "key_details": [
+          "The meeting adjourned at 12:46 p.m."
+        ],
+        "outcome": "Adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 890,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Craig Williams and Heather McCloud as the Southborough School Committee appointees to the Elementary School Building Committee",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 738
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:36:57Z",
+  "usage": {
+    "total_tokens": 37834,
+    "total_input_tokens": 35888,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 35188
+      },
+      {
+        "modality": "text",
+        "tokens": 700
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 639,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1307
+  }
+}

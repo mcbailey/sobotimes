@@ -1,0 +1,377 @@
+{
+  "video": {
+    "id": "YVXhyk05YQ8",
+    "title": "Select Board Meeting 8/11/26",
+    "published_at": "2026-08-12T14:34:05Z",
+    "duration_s": 12615
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-08-11",
+    "headline": "The Select Board set FY28 budget directives anticipating a potential override, adopted health insurance negotiation statutes, and permitted marijuana home delivery.",
+    "summary": "In a joint meeting with the Advisory Committee, the Select Board directed town departments to prepare two FY28 budget scenarios, including a level-service proposal and a balanced option requiring no tax override. The board voted to adopt Massachusetts General Law Chapter 32B, Sections 21 through 23, allowing the town to negotiate employee health insurance plan design changes to manage escalating benefit expenses. A motion to opt out of state-licensed retail marijuana home delivery failed 1-4, permitting residential deliveries in town. The board also approved a $24,650 government structure study, accepted a $1 million interest-free water line loan from the MWRA, and honored retiring Town Clerk Jim Hegarty.",
+    "topics": [
+      {
+        "title": "Recognition of retiring Town Clerk Jim Hegarty",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board recognized Town Clerk Jim Hegarty upon his announced retirement effective September 30, 2026, after serving the town since 2015. Board members, the town moderator, and a resident thanked him for modernizing town clerk operations, managing elections, and assisting town meetings. Hegarty addressed the board and shared reflections from his career.",
+        "key_details": [
+          "Hegarty submitted his resignation effective September 30, 2026.",
+          "He has served as Southborough town clerk since 2015.",
+          "Speakers highlighted his modernization of election procedures and voter engagement efforts."
+        ],
+        "outcome": "Discussion and recognition only; no formal vote taken.",
+        "why_it_matters": null,
+        "start_seconds": 155,
+        "end_seconds": null
+      },
+      {
+        "title": "Appointment of police officer Ross Souter",
+        "category": "Public safety",
+        "importance": "medium",
+        "summary": "The police chief presented candidate Ross Souter for appointment as a full-time probationary police officer to fill a vacancy created by an officer transfer. Souter holds degrees in criminal justice and political science and previously served in municipal and federal law enforcement. Following board approval, the town clerk administered the oath of office.",
+        "key_details": [
+          "Souter replaces an officer who transferred to the Marlborough Police Department.",
+          "Holds a bachelor degree from Westfield State University with experience in Rutland and federal law enforcement.",
+          "The appointment brings the police department back to full staffing."
+        ],
+        "outcome": "Appointed Ross Souter as full-time probationary police officer.",
+        "why_it_matters": null,
+        "start_seconds": 1225,
+        "end_seconds": null
+      },
+      {
+        "title": "Transfer station rules and regulations",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The board reviewed revised rules and regulations for the town transfer station following collaborative edits between the Department of Public Works and board members. Modifications focused on clarity for Swap Shop use and excluded child car seats based on Board of Health safety guidance. The board approved the updated regulations unanimously.",
+        "key_details": [
+          "Regulations clarify operations and guidelines for the Swap Shop.",
+          "Language regarding child car seats was removed based on Board of Health and pediatric safety recommendations.",
+          "DPW plans to install simplified signage highlighting key rules at the facility."
+        ],
+        "outcome": "Approved the updated transfer station rules and regulations.",
+        "why_it_matters": null,
+        "start_seconds": 1608,
+        "end_seconds": null
+      },
+      {
+        "title": "MWRA loan approval for waterline looping project",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The board voted to substantiate an application for an interest-free loan from the Massachusetts Water Resources Authority for the Presidential and Fisher Road waterline looping project. The project connects two dead-end water lines under the CSX railroad tracks to improve water pressure and reduce bacterial buildup. The loan is estimated to save the town over $400,000 in interest costs compared to traditional borrowing.",
+        "key_details": [
+          "$1,000,000 zero-interest loan from the MWRA.",
+          "Connects dead-end water mains on Presidential Drive and Fisher Road under the CSX railroad.",
+          "Project authorized by a previous Town Meeting vote."
+        ],
+        "outcome": "Approved the Select Board vote supporting the $1 million MWRA loan application.",
+        "why_it_matters": "Secures $1 million in interest-free state financing to upgrade local water infrastructure and reliability while saving residents approximately $400,000 in interest charges.",
+        "start_seconds": 1813,
+        "end_seconds": null
+      },
+      {
+        "title": "Stormwater Enterprise Fund proposal and policy review",
+        "category": "Environment & conservation",
+        "importance": "high",
+        "summary": "A board member and the DPW presented a proposal to establish a dedicated stormwater enterprise fund supported by user fees based on impervious surface area rather than property taxes. The model would shift roughly 30 percent of stormwater costs off residential single-family properties onto commercial, industrial, and tax-exempt parcels. Board members expressed general support for exploring the mechanism, though concerns were raised regarding additional fees and taxpayer impact.",
+        "key_details": [
+          "Estimated annual gross program revenue would range from $650,000 to $900,000.",
+          "Single-family residential parcels represent 81 percent of taxable value but only 52 percent of impervious surface.",
+          "The model charges tax-exempt institutions, commercial properties, and residential owners based on impervious area.",
+          "Targeted implementation could be brought forward for Town Meeting consideration in spring 2027."
+        ],
+        "outcome": "Board reached consensus via straw poll to proceed with further analysis and cost modeling.",
+        "why_it_matters": "Could introduce a dedicated stormwater utility fee for all property owners, reducing the tax burden on homeowners while requiring tax-exempt and commercial entities to pay for runoff management.",
+        "start_seconds": 1963,
+        "end_seconds": null
+      },
+      {
+        "title": "Willow Street culvert drainage easements",
+        "category": "Roads & infrastructure",
+        "importance": "low",
+        "summary": "The DPW director requested approval to accept permanent drainage easements from three private property owners along Willow Street. The easements are necessary to complete ongoing culvert replacement and state permitting work approved at a previous Town Meeting.",
+        "key_details": [
+          "Easements secured from Zeeland Corporation, Furman Joint Venture LLC, and EIP Allied South Owner LLC.",
+          "Enables permanent access and drainage maintenance for Willow Street culverts."
+        ],
+        "outcome": "Approved and signed the drainage easements.",
+        "why_it_matters": null,
+        "start_seconds": 3390,
+        "end_seconds": null
+      },
+      {
+        "title": "Parkerville Road water service extension warrant article",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The DPW director outlined a proposed warrant article for the October Special Town Meeting to extend municipal water service lines to two homes on Parkerville Road located near the town landfill. While recent well testing showed no contamination, upcoming state regulations will require ongoing testing for PFAS chemicals. Extending municipal service is designed to permanently eliminate contamination risks and avoid perpetual testing mandates.",
+        "key_details": [
+          "Applies to two residential properties located within 500 feet of the town landfill.",
+          "Project costs would be funded from the town water enterprise fund, with connection fees absorbed by the project.",
+          "Homeowners are receptive to connecting to town water."
+        ],
+        "outcome": "Supported inclusion of the article on the October Special Town Meeting warrant.",
+        "why_it_matters": null,
+        "start_seconds": 3477,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 budget guidelines and override planning",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Meeting jointly with the Advisory Committee, the board discussed instructions for departments preparing FY28 operating budgets in light of an anticipated structural deficit. The town entered the fiscal planning cycle with approximately $700,000 in excess levy capacity, while preliminary projections indicate a potential gap exceeding $2 million to maintain current service levels. Officials agreed to require departments to submit two budgets: Budget A representing level service with salary increases and non-salary expenses held to FY26 actuals, and Budget B showing no dollar increase over FY27 to illustrate cuts needed to avoid an override.",
+        "key_details": [
+          "Current excess levy capacity entering FY28 planning is approximately $700,000.",
+          "Budget A assumes a 5 percent increase for non-union salary steps and COLA, with non-salary expenses capped at FY26 actual levels.",
+          "Budget B requires a level-dollar total equal to FY27, which would require departmental staffing reductions.",
+          "Department budgets are scheduled to be submitted by October 13, 2026, with an initial review on November 4, 2026."
+        ],
+        "outcome": "Select Board and Advisory Committee agreed on budget guidance instructions for department heads.",
+        "why_it_matters": "Residents face either a multi-million-dollar operating tax override or significant municipal and school service reductions at the 2027 Annual Town Meeting.",
+        "start_seconds": 3708,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Administrator and Select Board reports",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town administrator and board members shared updates on major projects. The state environmental and traffic review for the Costco development at Crystal Pond Road is expected to wrap up by February 2027. The Elementary School Building Committee reviewed preliminary architectural layout options for Neary School renovations. Additionally, the town community electricity aggregation program has saved residents over $11 million since 2018, and Southborough received a $71,026 Green Communities grant to finish converting all municipal building lighting to LEDs.",
+        "key_details": [
+          "Costco state MEPA and MassDOT traffic light review expected to conclude by February 2027.",
+          "Neary School Building Committee evaluated preliminary options including gym expansions and classroom redesigns.",
+          "Community electricity aggregation rate of about 13 cents per kWh remains below National Grid basic service rates.",
+          "Awarded a $71,026 Green Communities grant for LED conversions at the townhouse, library, Cordaville Hall, and DPW facilities."
+        ],
+        "outcome": "Information updates only; no votes taken.",
+        "why_it_matters": null,
+        "start_seconds": 8912,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved consent agenda items, amended meeting minutes from July 7 and July 10, and appointed Casey Harvey and Melissa Fitzgerald to the Historical Commission.",
+        "key_details": [
+          "Approved meeting minutes of July 7 and July 10, 2026, as amended.",
+          "Appointed Casey Harvey (term expiring June 30, 2029) and Melissa Fitzgerald (term expiring June 30, 2027) to the Historical Commission."
+        ],
+        "outcome": "Approved consent agenda, amended minutes, and Historical Commission appointments.",
+        "why_it_matters": null,
+        "start_seconds": 9552,
+        "end_seconds": null
+      },
+      {
+        "title": "Stewardship Committee charge amendment and appointment",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The board reconsidered an appointment to the Southborough Stewardship Committee following previous procedural questions. Because the committee's existing charge designated one seat for an Open Space Committee representative and that committee was no longer represented by the applicant, the board voted 4-1 to amend the committee charge to convert the seat into a fourth at-large position. The board then unanimously appointed Freddie Gillespie to the at-large seat.",
+        "key_details": [
+          "Stewardship Committee charge amended to replace the Open Space Committee representative with a fourth at-large member.",
+          "Freddie Gillespie appointed to the vacant at-large seat for a term ending June 30, 2027.",
+          "Board members discussed future broad reviews of conservation and open space committee roles."
+        ],
+        "outcome": "Amended the committee charge 4-1 and appointed Freddie Gillespie 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 9815,
+        "end_seconds": null
+      },
+      {
+        "title": "Interim Town Clerk recruitment process",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Human Resources presented a plan to recruit and appoint an interim town clerk to serve from October 1, 2026, until the annual town election in May 2027. Under state law, the Select Board appoints a temporary clerk in the event of a vacancy. The position will be advertised for 10 days, followed by two rounds of interviews involving administration, a retired town clerk consultant, and the town moderator, with an employment contract to follow.",
+        "key_details": [
+          "Position to be posted for 10 days with interviews concluding around Labor Day.",
+          "Select Board expects to appoint an interim clerk in September before Hegarty departs.",
+          "A part-time administrative assistant in the clerk office was recently hired and starts August 24, 2026."
+        ],
+        "outcome": "Authorized human resources staff to proceed with recruitment and interviews.",
+        "why_it_matters": null,
+        "start_seconds": 10215,
+        "end_seconds": null
+      },
+      {
+        "title": "Adoption of MGL Chapter 32B Sections 21-23 for health insurance",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board voted to accept Massachusetts General Law Chapter 32B, Sections 21 through 23, authorizing the town to engage in expedited collective negotiations with the Public Employee Committee to modify municipal health insurance plan designs. Employee health insurance represents 11.2 percent of the municipal budget. Northborough and the regional school district adopted the same statute earlier in the week, allowing all three entities to pursue coordinated plan design changes intended to lower premium expenses beginning July 1, 2027.",
+        "key_details": [
+          "Health insurance costs make up 11.2 percent of Southborough town budget, up from 9 percent a decade ago.",
+          "Previous voluntary employee shifts to high-deductible plans saved the town over $350,000 and employees $124,000 in FY27.",
+          "Adoption enables formal negotiations under state law; proposed plan design changes would take effect July 1, 2027."
+        ],
+        "outcome": "Voted 5-0 to accept MGL Chapter 32B, Sections 21 through 23.",
+        "why_it_matters": "Initiates statutory negotiations to restructure municipal employee healthcare plans, aiming to mitigate significant cost increases that directly affect the town operating budget and property tax levy.",
+        "start_seconds": 10546,
+        "end_seconds": null
+      },
+      {
+        "title": "October 17 Special Town Meeting warrant review",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board reviewed 13 potential warrant articles for the October 17, 2026 Special Town Meeting. Articles include converting the town clerk position from elected to appointed, zoning amendments for two-family dwellings, several Community Preservation Act authorizations, water line extensions, and grant acceptances. Members discussed whether to keep the October 17 date given the relatively short warrant, confirming consensus to proceed on that Saturday morning.",
+        "key_details": [
+          "Special Town Meeting scheduled for Saturday, October 17, 2026, starting at 10:00 AM.",
+          "Town clerk article seeks Special Act authorization to make the position appointed, with a potential ballot question backup.",
+          "Articles also address zoning bylaws, Parkerville Road water extension, and rescinding unused borrowing authorizations."
+        ],
+        "outcome": "Reviewed draft articles; confirmed Special Town Meeting date for October 17, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 10844,
+        "end_seconds": null
+      },
+      {
+        "title": "Government structure study consultant contract",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board considered awarding a $24,650 contract to Community Software Consortium / Community Strategies to conduct an 18-week study of Southborough town government structure, operational reporting relationships, and governance models. Funded by an existing engineering/consulting warrant balance, the study aims to identify organizational efficiencies and reporting improvements. One board member objected to spending funds ahead of impending budget deficits, but the motion passed 4-1.",
+        "key_details": [
+          "Contract cost is $24,650, funded from an existing consultant engineering warrant article balance.",
+          "Study is scheduled to take approximately 18 weeks and include listening sessions with officials and the public.",
+          "Motion passed 4-1, with one member dissenting over expenditures during a tight financial environment."
+        ],
+        "outcome": "Approved the contract with CSS for the government structure study.",
+        "why_it_matters": null,
+        "start_seconds": 11871,
+        "end_seconds": null
+      },
+      {
+        "title": "Marijuana retail home delivery opt-out",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board evaluated whether to exercise a two-year municipal opt-out waiver against state regulations that permit state-licensed marijuana retail operators to deliver products directly to Southborough residences. Only 13 of 154 eligible municipalities in the state have opted out. A motion to opt out failed 1-4, meaning retail home delivery of cannabis by licensed couriers will be permitted to adult residents aged 21 and older in Southborough.",
+        "key_details": [
+          "State law allows municipalities without retail shops to opt out of home deliveries via a two-year waiver.",
+          "Only 13 Massachusetts communities have opted out to date.",
+          "Deliveries are restricted to verified individuals aged 21 and older with state ID.",
+          "The motion to opt out failed with 1 in favor and 4 opposed."
+        ],
+        "outcome": "Motion to opt out of marijuana delivery failed 1-4; delivery remains allowed.",
+        "why_it_matters": "Licensed cannabis delivery operators are permitted to deliver recreational marijuana products to Southborough residents 21 and older.",
+        "start_seconds": 12434,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the appointment of Ross Souter as full-time probationary police officer.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1360
+      },
+      {
+        "motion": "Approve the revised Transfer Station rules and regulations.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1808
+      },
+      {
+        "motion": "Approve the vote of the Select Board to authorize the $1 million MWRA interest-free loan application for the Presidential Drive and Fisher Road waterline looping project.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1955
+      },
+      {
+        "motion": "Accept drainage easements from Zeeland Corporation, Furman Joint Venture LLC, and EIP Allied South Owner LLC for the Willow Street culvert project.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3462
+      },
+      {
+        "motion": "Amend the charge of the ad hoc Southborough Stewardship Committee to replace the Open Space Committee representative with a fourth at-large member.",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 10175
+      },
+      {
+        "motion": "Appoint Freddie Gillespie to the at-large position on the Stewardship Committee for a term expiring June 30, 2027.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 10202
+      },
+      {
+        "motion": "Authorize the assistant town administrator and staff to conduct recruitment and interviews for an interim town clerk.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 10522
+      },
+      {
+        "motion": "Accept and engage in the process under Massachusetts General Law Chapter 32B, Sections 21 through 23, to negotiate health insurance plan design changes with the Public Employee Committee.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 10828
+      },
+      {
+        "motion": "Approve the contract with Community Software Consortium / CSS in the amount of $24,650 to conduct a study of town government structure.",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 12424
+      },
+      {
+        "motion": "Opt out of the state law permitting retail delivery of marijuana in Southborough.",
+        "result": "failed",
+        "tally": "1-4",
+        "start_seconds": 12591
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Oregon Road thanked retiring Town Clerk Jim Hegarty for his years of dedication, assistance with youth lacrosse and 9/11 turf field leasing, historical records preservation, and welcoming customer service.",
+        "start_seconds": 620
+      },
+      {
+        "summary": "The town moderator thanked retiring Town Clerk Jim Hegarty for his extensive behind-the-scenes work organizing and preparing town meetings and elections.",
+        "start_seconds": 796
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Zoning Board of Appeals public forum on the proposed two-family dwelling bylaw",
+        "when": "August 12, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Neary School Building Committee meeting",
+        "when": "August 19, 2026"
+      },
+      {
+        "what": "FY28 departmental budget submissions deadline to Select Board office",
+        "when": "October 13, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026 at 10:00 AM"
+      },
+      {
+        "what": "Joint Select Board and Advisory Committee initial FY28 budget review meeting",
+        "when": "November 4, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:13:47Z",
+  "usage": {
+    "total_tokens": 492995,
+    "total_input_tokens": 482577,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 481883
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 5447,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 4971
+  }
+}

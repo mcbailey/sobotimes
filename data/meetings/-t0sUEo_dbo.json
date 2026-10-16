@@ -1,0 +1,154 @@
+{
+  "video": {
+    "id": "-t0sUEo_dbo",
+    "title": "Board of Health 7/7/26",
+    "published_at": "2026-07-10T12:33:31Z",
+    "duration_s": 3371
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-07-07",
+    "headline": "The Board of Health approved updated well and septic rules and declined to recommend a ban on cannabis delivery.",
+    "summary": "At its July 7, 2026 meeting, the Southborough Board of Health voted to approve revisions to private well and septic regulations, introducing a 25-foot well setback from pools and requiring well testing before home sales. The board also received a briefing on a federal lawsuit challenging municipal enforcement of unauthorized flavored tobacco products across Massachusetts. Additionally, members debated whether the town should opt out of statewide adult-use cannabis home delivery, ultimately choosing to report their divided viewpoints to the Select Board without making a formal recommendation.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from its previous meeting and completed an annual appointment for regional tobacco inspection services.",
+        "key_details": [
+          "Approved the June 9, 2026 meeting minutes.",
+          "Reappointed Pari Velagapudi as tobacco control manager through MetroWest for the current fiscal year."
+        ],
+        "outcome": "Minutes approved and tobacco control manager reappointed.",
+        "why_it_matters": null,
+        "start_seconds": 27,
+        "end_seconds": null
+      },
+      {
+        "title": "Food and housing enforcement policy updates",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff presented draft revisions to formalize a clearer enforcement policy for repeat food code and housing sanitary violations. The board agreed to reframe the revisions as language updates to existing enforcement policies rather than fee schedule changes, with final review set for August.",
+        "key_details": [
+          "Aims to establish explicit stepped reinspection fees and enforcement stages after multiple repeat violations.",
+          "Targets repeated non-compliance seen during routine inspections at establishments such as restaurants.",
+          "Clarified that the update will be titled as enforcement policy language changes rather than fee schedule updates."
+        ],
+        "outcome": "Draft language will be finalized and considered for adoption at the August 11 meeting.",
+        "why_it_matters": null,
+        "start_seconds": 140,
+        "end_seconds": null
+      },
+      {
+        "title": "Well and septic regulation amendments",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "The board held a public hearing and approved updates to Southborough regulations governing private wells and subsurface sewage disposal systems. Changes include separation of roles for septic design and installation, guaranteed access for septic repairs, a 25-foot well setback from swimming pools, and required well testing prior to real estate transfers.",
+        "key_details": [
+          "Requires that the system installer and engineer cannot be the same individual.",
+          "Mandates reasonable physical access to septic systems for repairs when property owners construct additions like garages.",
+          "Establishes a 25-foot setback requirement between newly installed wells and swimming pools.",
+          "Requires private well testing before selling a home, with an option for buyer and seller to sign a mutual opt-out waiver."
+        ],
+        "outcome": "Regulations approved unanimously following the close of the public hearing.",
+        "why_it_matters": "Imposes new setback rules for private pools and wells and creates testing obligations or waiver paperwork during residential property sales.",
+        "start_seconds": 342,
+        "end_seconds": null
+      },
+      {
+        "title": "Flavored tobacco enforcement and federal lawsuit",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The executive director of the Massachusetts Association of Health Boards briefed the board on a federal lawsuit recently filed against 16 Massachusetts municipalities and the state Department of Public Health. Retailers are challenging municipal enforcement actions that penalize stores for selling flavored vaping and pouch products lacking FDA marketing granted orders.",
+        "key_details": [
+          "Massachusetts enforces a statewide ban on all flavored tobacco, vape, and oral nicotine products.",
+          "Local programs have been enforcing requirements that products hold an FDA marketing granted order (MGO) to remain in compliance with local permits.",
+          "Retailers filed a federal complaint against 16 Massachusetts communities claiming local enforcement is preempted by federal authority.",
+          "Southborough is not a named party in the federal litigation."
+        ],
+        "outcome": "The board decided to consult town counsel and monitor the lawsuit before pursuing this enforcement strategy locally.",
+        "why_it_matters": null,
+        "start_seconds": 696,
+        "end_seconds": null
+      },
+      {
+        "title": "Cannabis delivery opt-out recommendation",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "The board considered whether to recommend that the Select Board seek a two-year waiver from the Cannabis Control Commission to prohibit adult-use cannabis home delivery in town. Board members expressed divergent views on youth access risks versus adult access and parity with alcohol delivery, ultimately choosing not to take a formal stance.",
+        "key_details": [
+          "A 2026 state law revision permits licensed third-party couriers to deliver cannabis to adult consumers statewide.",
+          "Municipalities that already ban cannabis retail shops, like Southborough, may request a renewable two-year delivery waiver from the state Cannabis Control Commission.",
+          "The Select Board serves as the town governing body authorized to file the waiver request.",
+          "One board member raised public health concerns about youth access and high-potency products, while another noted delivery requires adult ID checks and questioned overregulating compared to alcohol delivery."
+        ],
+        "outcome": "The board took no formal vote and directed staff to send a memo summarizing their balanced discussion to the Select Board.",
+        "why_it_matters": "The Select Board will decide whether Southborough residents can legally receive home deliveries of adult-use cannabis.",
+        "start_seconds": 1915,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Reappoint Pari Velagapudi as tobacco control manager for the fiscal year",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 128
+      },
+      {
+        "motion": "Close the public hearing on well and septic regulations",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 669
+      },
+      {
+        "motion": "Approve updates to the well and septic regulations as presented",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 688
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Presidential Drive supported opting out of cannabis delivery, expressing skepticism over whether courier ID checks would be enforced at the doorstep and arguing that home delivery does not offer a public good.",
+        "start_seconds": 3268
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Board of Health meeting to review two variances and food and housing enforcement language",
+        "when": "August 11, 2026 at 9:30 AM"
+      },
+      {
+        "what": "Board of Health regular meeting",
+        "when": "September 15, 2026 at 11:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:41:27Z",
+  "usage": {
+    "total_tokens": 134332,
+    "total_input_tokens": 129429,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 128740
+      },
+      {
+        "modality": "text",
+        "tokens": 689
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1736,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3167
+  }
+}

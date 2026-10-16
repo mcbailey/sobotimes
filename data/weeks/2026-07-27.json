@@ -1,0 +1,85 @@
+{
+  "headline": "The Advisory Committee discussed an early concept for a five-year, ten-million-dollar operational tax override starting in FY28 alongside draft town budget policies.",
+  "synopsis": "The Advisory Committee held an initial discussion on an early Select Board concept for a five-year operational tax override of up to $10 million starting in FY28 and reviewed town budget development procedures. The Conservation Commission approved permits for an Eagle Scout footbridge on Valley Road and a detached garage with an accessory dwelling unit on Newton Street. In technology updates, officials reported completing interactive display installations across 200 classrooms and discussed scoping automated license plate readers for the transfer station.",
+  "highlights": [
+    {
+      "title": "FY28 proposed operational tax override discussion",
+      "why": "The Advisory Committee discussed an early Select Board concept for a multi-year override of up to $10 million starting in FY28, debating alternatives such as departmental efficiency plans.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "JKZ8ZOjmCsQ",
+      "start_seconds": 2794
+    },
+    {
+      "title": "Town budget process policy review",
+      "why": "Advisory members raised concerns that a draft municipal budget policy omits school spending and could compromise the committee's statutory authority to independently recommend budgets at Town Meeting.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "JKZ8ZOjmCsQ",
+      "start_seconds": 1100
+    },
+    {
+      "title": "Transfer station license plate readers and DPW technology",
+      "why": "The committee discussed deploying automated license plate readers at the transfer station to evaluate usage and monitor misuse before bringing forward formal funding requests.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "QRNUZNQbwv8",
+      "start_seconds": 291
+    },
+    {
+      "title": "School interactive display installations completed",
+      "why": "Crews completed installing interactive flat panel displays across 200 district classrooms, coming in approximately $15,000 under budget.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "QRNUZNQbwv8",
+      "start_seconds": 893
+    },
+    {
+      "title": "Order of Conditions approved for Valley Road trail",
+      "why": "The Conservation Commission approved an Order of Conditions for an Eagle Scout project constructing a wooden footbridge and dirt trail system on Southborough Open Land Foundation property.",
+      "body": "Conservation Commission",
+      "importance": "medium",
+      "video_id": "hxB6rx-EkQY",
+      "start_seconds": 57
+    },
+    {
+      "title": "Order of Conditions approved for Newton Street ADU",
+      "why": "The commission approved the construction of a detached garage with an accessory dwelling unit, septic replacement, and a roof runoff drywell.",
+      "body": "Conservation Commission",
+      "importance": "medium",
+      "video_id": "hxB6rx-EkQY",
+      "start_seconds": 667
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Advisory Committee meeting to review budget and reserve fund policy revisions",
+      "when": "August 5, 2026",
+      "body": "Advisory Committee"
+    },
+    {
+      "what": "Joint meeting with the Select Board to discuss FY28 override options with the Division of Local Services",
+      "when": "August 11, 2026",
+      "body": "Advisory Committee"
+    },
+    {
+      "what": "Municipal Technology Committee meeting and presentation of survey data analysis",
+      "when": "August 27, 2026 at 6:30 PM",
+      "body": "Municipal Technology Committee"
+    },
+    {
+      "what": "Conservation Commission regular meeting",
+      "when": "August 27, 2026",
+      "body": "Conservation Commission"
+    }
+  ],
+  "week": "2026-07-27",
+  "fingerprint": "25724d722d7bad5c",
+  "video_ids": [
+    "JKZ8ZOjmCsQ",
+    "QRNUZNQbwv8",
+    "hxB6rx-EkQY"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:06:32Z"
+}

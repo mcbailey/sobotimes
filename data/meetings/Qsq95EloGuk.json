@@ -1,0 +1,107 @@
+{
+  "video": {
+    "id": "Qsq95EloGuk",
+    "title": "Personnel Board 8/7/26",
+    "published_at": "2026-08-07T14:13:48Z",
+    "duration_s": 822
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-08-07",
+    "headline": "The Personnel Board received a progress update on the classification and compensation study and affirmed pausing job reclassifications until the study concludes.",
+    "summary": "The Southborough Personnel Board met to review the status of the townwide classification and compensation study conducted by MGT. Staff reported that all employee job questionnaires have been returned and virtual interviews are scheduled for late August. The board chair advised that individual reclassification requests, including inquiries regarding the town planner and the library, should remain paused until the study is complete. The board also approved amended minutes from July and noted several department staffing updates.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved amended minutes from its July 8 meeting to accurately record an earlier tied vote regarding the consultant's proposed comparable communities list. Staff also announced several recent personnel hires and promotions across municipal departments.",
+        "key_details": [
+          "Minutes from July 8 were revised at line 120 to record a failed 2-2 vote on accepting the consultant's initial community list before Dover was removed.",
+          "Laura Shanley was hired as administrative assistant in Youth and Family Services.",
+          "Kelly Steen was named part-time administrative assistant in the Town Clerk's office, starting August 24.",
+          "Library associates Jackson and Anastasia received promotions to higher-level positions with expanded hours.",
+          "The board agreed to schedule its next meeting for September 8."
+        ],
+        "outcome": "July 8 minutes approved as amended; routine personnel updates acknowledged.",
+        "why_it_matters": null,
+        "start_seconds": 188,
+        "end_seconds": null
+      },
+      {
+        "title": "Classification and compensation study update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff provided a status update on the townwide classification and compensation study conducted by MGT. All employee questionnaires have been collected, salary surveys have been distributed to comparable municipalities, and employee interviews will take place later this month.",
+        "key_details": [
+          "100 percent of employee Job Analysis Questionnaires have been completed and returned.",
+          "Salary survey forms were sent to approved comparable communities, with one response received so far.",
+          "Follow-up reminder emails will be sent to comparable towns early next week.",
+          "Virtual interviews between employees and MGT are scheduled for the final two weeks of August.",
+          "A full update on the employee interview phase is expected at the September board meeting."
+        ],
+        "outcome": "Informational update received; study remains on schedule.",
+        "why_it_matters": null,
+        "start_seconds": 374,
+        "end_seconds": null
+      },
+      {
+        "title": "Job reclassification requests",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board chair discussed two pending inquiries regarding position reclassifications. The chair recommended delaying action on any individual job reclassification until the MGT compensation study is completed and reviewed.",
+        "key_details": [
+          "Two reclassification inquiries were submitted, one concerning the town planner position and another involving the library.",
+          "The chair responded to both inquiries advising that reclassification requests should wait for the study findings.",
+          "The board intends to evaluate townwide positions collectively once the consultant delivers results."
+        ],
+        "outcome": "Individual reclassification requests remain on hold pending completion of the compensation study.",
+        "why_it_matters": null,
+        "start_seconds": 611,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A town employee expressed concern regarding the board's previous decision to remove Dover from the salary study's comparable communities list, urging the board to adhere to the independent consultant's process and ensure equity for municipal staff.",
+        "start_seconds": 37
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Employee virtual interviews with study consultant MGT",
+        "when": "Late August"
+      },
+      {
+        "what": "Next Personnel Board meeting",
+        "when": "September 8"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:18:16Z",
+  "usage": {
+    "total_tokens": 35761,
+    "total_input_tokens": 32051,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 31363
+      },
+      {
+        "modality": "text",
+        "tokens": 688
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1010,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2700
+  }
+}

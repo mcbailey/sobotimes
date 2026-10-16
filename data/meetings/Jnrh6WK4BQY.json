@@ -1,0 +1,155 @@
+{
+  "video": {
+    "id": "Jnrh6WK4BQY",
+    "title": "Affordable Housing Trust (AHT) 7/20/26",
+    "published_at": "2026-07-21T15:24:37Z",
+    "duration_s": 3593
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Affordable Housing Trust",
+    "meeting_date": "2026-07-20",
+    "headline": "The Affordable Housing Trust decided to pursue technical assistance grants and continue drafting revisions to the 55-plus housing bylaw.",
+    "summary": "The Affordable Housing Trust reviewed administrative matters, reappointing a member as representative to the Community Preservation Committee. The Trust discussed revising Southborough's 55-plus housing bylaw to remove unit caps, targeting spring Town Meeting rather than the fall. Members agreed to apply for Massachusetts Housing Partnership Mini-Boost grants to fund consulting on financing and strategic goals, and discussed parcel identification before entering executive session.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The Trust approved four sets of past minutes and reappointed a representative to the Community Preservation Committee. The board made minor clarifications to executive session minutes from May 22 and June 18 before approval.",
+        "key_details": [
+          "Approved open session minutes for May 22, 2026.",
+          "Approved and retained executive session minutes for May 22, June 12, and June 18, 2026.",
+          "Reappointed a board member to serve as the Trust representative on the Community Preservation Committee."
+        ],
+        "outcome": "Minutes approved and representative reappointed.",
+        "why_it_matters": null,
+        "start_seconds": 73,
+        "end_seconds": null
+      },
+      {
+        "title": "55-plus housing bylaw revision",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Members discussed proposed revisions to the town bylaw governing age-restricted housing for residents aged 55 and older. The Trust seeks to remove the existing cap on units and clarify affordability guidelines in collaboration with the Planning Board and town counsel. Due to summer scheduling and the need to resolve definitions, the board noted the proposal will likely head to spring Town Meeting rather than fall Special Town Meeting.",
+        "key_details": [
+          "Proposal stems from recommendations in the town Housing Production Plan.",
+          "Existing bylaw contains a cap that Southborough is currently close to reaching.",
+          "Members are working with the Planning Board to define affordability and eligible developers.",
+          "Members plan to consult with town counsel during monthly municipal office hours."
+        ],
+        "outcome": "Discussion held; revisions will be prepared for future consideration, likely at spring Town Meeting.",
+        "why_it_matters": null,
+        "start_seconds": 548,
+        "end_seconds": null
+      },
+      {
+        "title": "Financing approaches and technical assistance grants",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The Trust evaluated applying for technical assistance funding from the Massachusetts Housing Partnership Mini-Boost program, which offers up to $2,000 to $5,000 for pre-approved consultants. Members agreed to prepare two grant applications, one covering affordable housing financing and another covering board goals and strategies. The board also reviewed larger state grant programs, federal housing legislative trends, and potential local real estate transfer fees on high-value property sales.",
+        "key_details": [
+          "MHP Mini-Boost applications will be divided among members to draft.",
+          "The board discussed home-rule transfer fees of 0.5% to 2.0% on high-end property sales filed by towns like Nantucket and Concord.",
+          "A member discussed the pending federal 21st Century Road to Housing legislation and its potential local implications."
+        ],
+        "outcome": "Board members agreed to prepare and submit Mini-Boost grant applications.",
+        "why_it_matters": null,
+        "start_seconds": 884,
+        "end_seconds": null
+      },
+      {
+        "title": "Community engagement and outreach strategy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed methods to educate and engage Southborough residents on affordable housing initiatives. Rather than standalone forums, which historically draw very low attendance, members considered submitting housing questions to the Municipal Technology Committee annual town survey and coordinating with the MetroWest Regional Collaborative engagement project.",
+        "key_details": [
+          "Trust members noted that previous general community forums drew as few as five residents.",
+          "The Municipal Technology Committee survey typically generates 400 to 500 resident responses.",
+          "Southborough is participating in a regional community engagement study through the MetroWest Regional Collaborative."
+        ],
+        "outcome": "Members will coordinate with the Municipal Technology Committee and regional partners on outreach.",
+        "why_it_matters": null,
+        "start_seconds": 2508,
+        "end_seconds": null
+      },
+      {
+        "title": "CHAPA Housing Leadership Academy update",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "A member reported on participating in the Citizens Housing and Planning Association Housing Leadership Academy. The six-month program requires developing a local housing project and accompanying political strategy by the end of the year.",
+        "key_details": [
+          "The cohort includes roughly 30 municipal officials across Massachusetts.",
+          "A specific local policy or zoning project must be selected by late summer 2026."
+        ],
+        "outcome": "Information shared; project proposal will be selected by late summer.",
+        "why_it_matters": null,
+        "start_seconds": 3195,
+        "end_seconds": null
+      },
+      {
+        "title": "Parcels for potential acquisition and executive session",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The Trust discussed reviewing town-owned and private parcels suitable for affordable housing, including properties near Coslin Drive and Fairview Drive associated with Dell/EMC. The Trust then voted unanimously to enter executive session under state law to discuss real property acquisition strategies.",
+        "key_details": [
+          "A member agreed to retrieve and update a previously compiled inventory of town-owned land.",
+          "The Trust voted to enter executive session under MGL Chapter 30A, Section 21(a)(6) without returning to open session."
+        ],
+        "outcome": "Voted 4-0 to enter executive session.",
+        "why_it_matters": null,
+        "start_seconds": 3476,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Reappoint Ellen Marya as the Affordable Housing Trust representative to the Community Preservation Committee.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 520
+      },
+      {
+        "motion": "Enter executive session under MGL Chapter 30A, Section 21(a)(6) to discuss potential property acquisition, without intent to return to open session.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 3556
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Submission of MHP Mini-Boost technical assistance grant applications",
+        "when": "rolling basis"
+      },
+      {
+        "what": "Review of updated inventory of municipal parcels for potential housing",
+        "when": "next meeting"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:29:40Z",
+  "usage": {
+    "total_tokens": 141756,
+    "total_input_tokens": 137886,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 137192
+      },
+      {
+        "modality": "text",
+        "tokens": 694
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1705,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2165
+  }
+}

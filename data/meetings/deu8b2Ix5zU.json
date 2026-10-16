@@ -1,0 +1,254 @@
+{
+  "video": {
+    "id": "deu8b2Ix5zU",
+    "title": "Select Board Meeting 5/19/26",
+    "published_at": "2026-05-20T11:43:04Z",
+    "duration_s": 4312
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-05-19",
+    "headline": "The Select Board approved a $12.5 million borrowing authorization for the regional emergency dispatch center and elected Kathy Cook as board chair.",
+    "summary": "The Select Board voted 4-1 to authorize the MetroWest Regional Emergency Communication Center to issue up to $12.5 million in temporary borrowing to cover construction cash flow between state grants. The board also appointed two student police officers, agreed to re-advertise a vacancy on the Elementary School Building Committee, and continued a utility pole petition hearing to June 2. Concluding the meeting, the board reorganized for the coming year, electing member Kathy Cook as chair and member Michael Baff as vice chair.",
+    "topics": [
+      {
+        "title": "Parkerville Road utility pole petition hearing",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "National Grid and Verizon petitioned to install an additional intermediate utility pole between existing poles 101 and 102 on Parkerville Road as part of a system automation and reliability upgrade. An abutting property owner raised concerns about pole proliferation, aesthetics, and unaddressed damage to existing utility infrastructure. The board voted to continue the hearing to allow the property owner, utility engineers, and a board member to confer on potential alternative configurations.",
+        "key_details": [
+          "Petition filed jointly by Massachusetts Electric Company (National Grid) and Verizon New England.",
+          "Proposed intermediate pole is located between poles 101 and 102 along Parkerville Road near Main Street.",
+          "The upgrade supports automated reclosers to isolate power outages and shorten outage durations.",
+          "Abutter noted an existing damaged double pole across the street has remained unaddressed."
+        ],
+        "outcome": "Hearing continued to June 2, 2026, at 6:30 PM.",
+        "why_it_matters": null,
+        "start_seconds": 278,
+        "end_seconds": null
+      },
+      {
+        "title": "Appointment of police student officers",
+        "category": "Public safety",
+        "importance": "medium",
+        "summary": "The police chief recommended appointing two candidates as student officers to attend the upcoming Marlborough Police Academy. Both candidates successfully passed background checks, medical screenings, and psychological evaluations. Following the board vote, Town Clerk Jim Hegarty administered their oaths of office.",
+        "key_details": [
+          "Candidates appointed: Connor Emberg of Charlton and Matthew Hebert of Paxton.",
+          "Both hold bachelor degrees in criminal justice.",
+          "The Marlborough Police Academy session begins June 1, 2026, and runs for six months.",
+          "Following a 12-week field training program, both officers are anticipated to begin solo patrol duty in March 2027.",
+          "One remaining police department vacancy is expected to come before the board on June 2, 2026."
+        ],
+        "outcome": "Connor Emberg and Matthew Hebert were appointed as student officers effective June 1, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 875,
+        "end_seconds": null
+      },
+      {
+        "title": "Chair and member updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Board members reviewed several town updates, including an award for a local police officer, Memorial Day ceremonies, and the state Department of Energy Resources clean energy project siting rules. Members also received updates on the Costco project timeline, state liquor license legislation, and town health insurance enrollment figures.",
+        "key_details": [
+          "Officer Cleve Davis was recognized by Mothers Against Drunk Driving as an OUI Enforcement Officer of the Year.",
+          "Memorial Day observances include grave decoration on May 22 at 6:00 PM and the parade on May 25 at 9:00 AM.",
+          "Costco opening is delayed toward late 2027 due to state requirements for an updated traffic study.",
+          "Special legislation for an additional liquor license is pending before the state Legislature via Representative Kate Donaghue's office.",
+          "Enrollment in the new high-deductible health plan reached only about one-third of expectations, leaving a projected budget gap next fiscal year."
+        ],
+        "outcome": "Informational updates only; no formal action taken.",
+        "why_it_matters": null,
+        "start_seconds": 1372,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from April 28 and May 5, approved routine consent agenda items, appointed Marguerite Landry to the Cemetery Expansion Committee, and approved a letter of support for a Regional One-Stop grant application.",
+        "key_details": [
+          "Approved open session minutes of April 28, 2026 (4-0-1, Baff abstaining).",
+          "Approved open session minutes of May 5, 2026, as amended (5-0).",
+          "Approved consent agenda items B, D, E, F, H, and J (5-0).",
+          "Appointed Marguerite Landry to the Cemetery Expansion Committee (5-0).",
+          "Approved Regional One-Stop grant support letter as amended (5-0)."
+        ],
+        "outcome": "Routine motions and consent items approved.",
+        "why_it_matters": null,
+        "start_seconds": 1861,
+        "end_seconds": null
+      },
+      {
+        "title": "MetroWest Regional Emergency Communication Center borrowing authorization",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "The town administrator presented a request on behalf of the MetroWest Regional Emergency Communication Center to approve up to $12.5 million in borrowing authority. The short-term borrowing acts as a bridge loan to ensure construction contracts can proceed on schedule without pausing between state 911 development grant disbursements. One board member opposed, arguing the town should not accept borrowing risk on behalf of the regional district, while other members noted neighboring member towns Grafton and Westborough had already approved the measure.",
+        "key_details": [
+          "Borrowing authorized up to $12.5 million in short-term notes or bond anticipation notes.",
+          "Total estimated cost of the regional dispatch facility project is approximately $25 million.",
+          "The district has received roughly $13 million in state grant funding to date.",
+          "Grafton approved the authorization on May 5, 2026, and Westborough approved on May 12, 2026.",
+          "A resident voiced concerns during public comment about potential municipal exposure to lease, legal, and insurance costs."
+        ],
+        "outcome": "Approved 4-1, with member Tim Fling opposed.",
+        "why_it_matters": "Authorizes the regional emergency dispatch district to issue up to $12.5 million in debt backed by member towns if state grant reimbursements fail to cover project costs.",
+        "start_seconds": 2125,
+        "end_seconds": null
+      },
+      {
+        "title": "Committee review and wastewater committee appointments",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board discussed annual committee reappointments expiring June 30, with members suggesting that consolidating committees be made a board goal. To ensure immediate continuity on the Wastewater Treatment Committee, the board made two appointments ahead of the general cycle.",
+        "key_details": [
+          "Annual committee appointments expire June 30.",
+          "The board discussed evaluating and consolidating existing town committees during its June goal-setting session.",
+          "Al Hamilton was designated as an at-large member of the Wastewater Treatment Committee.",
+          "Board member Sam Stivers was designated as the Select Board representative to the Wastewater Treatment Committee."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 3310,
+        "end_seconds": null
+      },
+      {
+        "title": "Summer meeting schedule and fall town meeting planning",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board scheduled upcoming meetings for the summer and fall. Members set a goal-setting session for June 8, 2026, and agreed to adjust regular meeting dates to avoid election conflicts in September and November.",
+        "key_details": [
+          "Next regular meeting scheduled for June 2, 2026, at 6:30 PM.",
+          "Board goal-setting meeting scheduled for Monday, June 8, 2026, at 6:00 PM.",
+          "Summer regular meetings scheduled for July 7 and August 11, 2026.",
+          "Fall meetings moved to Wednesdays, September 2 and November 4, to avoid election dates."
+        ],
+        "outcome": "Meeting dates agreed upon by consensus.",
+        "why_it_matters": null,
+        "start_seconds": 3512,
+        "end_seconds": null
+      },
+      {
+        "title": "Elementary School Building Committee vacancy",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Following the resignation of committee member Bob Moss due to personal reasons, the board considered how to fill the vacancy. While one member suggested immediately appointing resident Mark Davis due to his regular attendance and construction knowledge, other members felt the seat should be advertised specifically to recruit candidates with professional construction or building experience who were not part of the prior Neary Building Committee.",
+        "key_details": [
+          "Vacancy created by the resignation of Bob Moss.",
+          "Board discussed appointing Mark Davis versus re-advertising the position.",
+          "Members emphasized the critical need for hands-on commercial construction and bidding experience on the committee.",
+          "Members expressed desire to avoid optics concerns regarding overlap with prior building committees."
+        ],
+        "outcome": "The board directed staff to re-advertise the vacancy with an emphasis on construction experience and consider candidates on June 2, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 3825,
+        "end_seconds": null
+      },
+      {
+        "title": "Select Board reorganization",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Outgoing Chair Andrew Dennington concluded his term leading the board and reflected on the completion of three successful town meetings during the prior year. The board conducted nominations and elected Kathy Cook as chair and Michael Baff as vice chair for the upcoming year.",
+        "key_details": [
+          "Andrew Dennington stepped down after serving one year as chair.",
+          "Kathy Cook was nominated and elected as chair.",
+          "Michael Baff was nominated and elected as vice chair."
+        ],
+        "outcome": "Kathy Cook was elected chair and Michael Baff was elected vice chair by unanimous vote (5-0).",
+        "why_it_matters": null,
+        "start_seconds": 4143,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing for the Parkerville Road utility pole petition to June 2, 2026, at 6:30 PM",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 863
+      },
+      {
+        "motion": "Appoint Connor Emberg and Matthew Hebert to the position of student officers for the Southborough Police Department effective June 1, 2026",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1146
+      },
+      {
+        "motion": "Approve the letter of support for the Regional One-Stop grant application as amended",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2107
+      },
+      {
+        "motion": "Approve the borrowing authorization for the MetroWest Regional Emergency Communication Center up to $12.5 million",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 3263
+      },
+      {
+        "motion": "Appoint Al Hamilton as at-large representative and Sam Stivers as Select Board representative to the Wastewater Treatment Committee",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3500
+      },
+      {
+        "motion": "Elect Kathy Cook as chair and Michael Baff as vice chair of the Select Board",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4275
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Main Street spoke regarding an ongoing drainage and invasive species issue on his property related to a town stormwater retention basin easement on Parkerville Road, stating that mowing crews have spread invasive weeds onto his land and the town has not fulfilled its maintenance agreement.",
+        "start_seconds": 150
+      },
+      {
+        "summary": "A resident questioned whether the town would face liability for non-reimbursable costs under the MetroWest Regional Emergency Communication Center lease agreement, citing concerns over leasehold improvements, insurance, and legal expenses, and urged the town to post financial agreements publicly on the town website.",
+        "start_seconds": 2535
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Continued public hearing on Parkerville Road utility pole petition",
+        "when": "June 2, 2026, at 6:30 PM"
+      },
+      {
+        "what": "Next regular Select Board meeting",
+        "when": "June 2, 2026, at 6:30 PM"
+      },
+      {
+        "what": "Select Board annual goal-setting session",
+        "when": "June 8, 2026, at 6:00 PM"
+      },
+      {
+        "what": "Select Board regular meeting",
+        "when": "June 16, 2026, at 6:30 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:31:51Z",
+  "usage": {
+    "total_tokens": 171746,
+    "total_input_tokens": 165365,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 164671
+      },
+      {
+        "modality": "text",
+        "tokens": 694
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3295,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3086
+  }
+}

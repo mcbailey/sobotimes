@@ -1,0 +1,183 @@
+{
+  "video": {
+    "id": "QD_9SgG4w3I",
+    "title": "Community Preservation Committee 7/21/26",
+    "published_at": "2026-07-22T13:34:37Z",
+    "duration_s": 12233
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-07-21",
+    "headline": "The Community Preservation Committee approved library plaque text and reviewed rising cost estimates for Fall Town Meeting applications.",
+    "summary": "The Community Preservation Committee met to debate commemorative signage wording for CPA-funded library projects, voting 5-1 to credit Southborough residents rather than taxpayers. The committee also held continued reviews of three major applications for the upcoming fall Special Town Meeting: Fay Memorial Park improvements, Southborough Golf Course irrigation upgrades, and the Peninsula Trail footbridge. With bids and project estimates rising significantly across multiple projects, applicants presented updated scopes and discussed grant matching timelines.",
+    "topics": [
+      {
+        "title": "Southborough Library commemorative signage",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed wording and layout for two signs acknowledging Community Preservation Act funding at the Southborough Library, covering the facade restoration and the local history collection. Members debated whether plaques should thank residents, taxpayers, or citizens, with the library trustees preferring residents while one committee member advocated for taxpayers to include local businesses. The committee approved bronze signs bearing the Town Seal crediting the residents of Southborough, with a later amendment refining the local history collection phrasing.",
+        "key_details": [
+          "Exterior facade sign is planned as a 10-by-6-inch plaque and interior plaque as 10-by-7-inch.",
+          "Signage recognizes prior CPA funding for the library facade restoration and local history collection.",
+          "One member opposed crediting residents instead of taxpayers, noting local businesses pay substantial CPA surcharges.",
+          "The committee designated a member to review and approve the final mockups from Crown Trophy."
+        ],
+        "outcome": "Approved 5-1 crediting residents of Southborough.",
+        "why_it_matters": null,
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee conducted annual administrative tasks, including approving membership dues for the Community Preservation Coalition, renewing the recording clerk contract, and discussing an open thank-you letter to local businesses.",
+        "key_details": [
+          "Approved $1,750 for FY27 Community Preservation Coalition membership dues.",
+          "Approved the recording clerk contract for Susan Peghiny at $50 per meeting hour through June 30, 2027.",
+          "Discussed drafting an open letter recognizing business taxpayers who contribute to CPA revenue."
+        ],
+        "outcome": "Dues and clerk contract approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 2486,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay Memorial Park improvement project",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Recreation Commission and recreation director presented a revised application for Fay Memorial Park that adds $240,000 for parking improvements, bringing the total estimated project budget to approximately $1.5 million. Based on traffic engineering recommendations and neighborhood feedback, the proposed plan reconfigures parking to create 17 angled spaces along Central Street, 12 deeded spaces across the street, 2 accessible spaces, and a pedestrian-activated flashing crosswalk. A federal Land and Water Conservation Fund grant could potentially reimburse up to $632,000 of the cost if awarded in late 2026.",
+        "key_details": [
+          "Total project estimate rose to approximately $1.5 million with $240,000 added for road and parking alterations.",
+          "Option 2 provides 17 angled spaces on Central Street and requires earthwork and a retaining wall.",
+          "Project features a scaled-down splash pad, fenced play area, and dog park.",
+          "Grant decision on a $632,000 federal LWCF reimbursement is anticipated in fall 2026.",
+          "Recreation officials must obtain approvals from DPW, police, Planning Board, and Select Board."
+        ],
+        "outcome": "Continued without a vote for updated paperwork and departmental sign-offs.",
+        "why_it_matters": "The $1.5 million park overhaul would significantly expand recreation amenities while adding street parking and safety measures that impact local neighbors and town CPA reserves.",
+        "start_seconds": 2563,
+        "end_seconds": null
+      },
+      {
+        "title": "Southborough Golf Course irrigation replacement",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Golf Course Committee presented an updated application for a complete 9-hole irrigation system replacement after original bids came in significantly above the $553,000 approved at 2024 Annual Town Meeting. Revised engineering estimates place the total project cost at $976,470, which includes a newly identified requirement for a booster pump station. The Golf Course Committee proposed contributing $100,000 from the Golf Course Revolving Fund toward the cost, with the remaining balance requested from CPA funds.",
+        "key_details": [
+          "Revised total project cost is estimated at $976,470, up from the original $553,000 town meeting appropriation.",
+          "The estimate includes an $872,970 base irrigation system and $103,500 in engineering, permitting, and rock contingencies.",
+          "The Golf Course Committee proposes funding $100,000 from its revolving fund, leaving an additional CPA request.",
+          "The project must coordinate with Audubon International certification requirements and Conservation Commission approvals."
+        ],
+        "outcome": "Continued without a vote pending verification of revolving fund spending limits and town counsel guidance on warrant article mechanics.",
+        "why_it_matters": "Replacing the failing irrigation system requires hundreds of thousands of dollars in additional municipal funding to keep the town-owned golf course operational.",
+        "start_seconds": 4278,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail pedestrian footbridge funding",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Southborough Trails Committee presented a revised funding request for the Peninsula Trail connection footbridge over the reservoir channel. Following bid openings that exceeded initial expectations, the committee eliminated the planned boardwalk component in favor of an upland trail and adjusted the overall bridge budget to $434,328. The committee is asking to apply the remaining balance of prior appropriations and seek $178,496 in additional CPA funding, with plans to seek a 2027 MassTrails grant to offset costs.",
+        "key_details": [
+          "Revised total bridge project budget is $434,328, requiring an additional $178,496 in CPA funds.",
+          "The boardwalk was removed from the project scope to reduce construction costs, leaving only the pedestrian footbridge.",
+          "Trails Committee requested extending the project authorization deadline to December 2028 to pursue grant funding.",
+          "The committee plans to apply for up to $100,000 from the 2027 MassTrails grant program.",
+          "Work involves an MWRA 8M permit across public watershed land."
+        ],
+        "outcome": "Continued without a vote pending clarification on warrant article wording and project scope descriptions.",
+        "why_it_matters": "The footbridge provides a critical off-road link for regional trails, but escalating construction costs require town voters to allocate substantial additional CPA funding.",
+        "start_seconds": 5209,
+        "end_seconds": null
+      },
+      {
+        "title": "Rural Cemetery water tower project update",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "A committee member reported that the Historical Commission is moving forward with an application for an architectural and engineering assessment of the historic water tower at Rural Cemetery. Alternate proposals to convert the tower into a columbarium have been dropped, and the restoration study will likely be targeted for 2027 Annual Town Meeting rather than the fall.",
+        "key_details": [
+          "The columbarium reuse concept has been abandoned.",
+          "Historical Commission will seek funding for a structural restoration study.",
+          "The proposal is expected to target the spring 2027 Annual Town Meeting."
+        ],
+        "outcome": "Informational update only; no action taken.",
+        "why_it_matters": null,
+        "start_seconds": 7288,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the wording for the library facade restoration sign to read: The historic restoration of the Southborough Library facade was funded by the residents of Southborough through the Community Preservation Act, including the town seal, with final mockup to be approved by a CPC representative.",
+        "result": "passed",
+        "tally": "5-1",
+        "start_seconds": 2473
+      },
+      {
+        "motion": "Approve payment of $1,750 for FY27 Community Preservation Coalition membership dues.",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 2549
+      },
+      {
+        "motion": "Approve the wording for the library local history collection sign to read: The historic preservation of the local history collection of the Southborough Library was funded by the residents of Southborough through the Community Preservation Act, including the town seal, with final mockup to be approved by a CPC representative.",
+        "result": "passed",
+        "tally": "5-1",
+        "start_seconds": 6578
+      },
+      {
+        "motion": "Approve the recording clerk contract for Susan Peghiny at $50 per meeting hour effective through June 30, 2027, as amended.",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 6842
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Central Street expressed safety concerns regarding the proposed angled parking for Fay Memorial Park, stating that drivers backing out onto Central Street would create a hazard. She also noted that existing no-parking restrictions on nearby streets are routinely ignored and questioned whether the proposed design eliminates the existing pedestrian buffer along Central Street.",
+        "start_seconds": 5972
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Deadline for final CPC recommendations and finalized articles for Special Town Meeting",
+        "when": "August 31, 2026"
+      },
+      {
+        "what": "Next Community Preservation Committee meeting",
+        "when": "August 2026 (exact date to be polled)"
+      },
+      {
+        "what": "Southborough Special Town Meeting",
+        "when": "October 19, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:28:51Z",
+  "usage": {
+    "total_tokens": 457471,
+    "total_input_tokens": 453336,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 452642
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2536,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1599
+  }
+}

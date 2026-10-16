@@ -1,0 +1,130 @@
+{
+  "week": "2026-05-04",
+  "fingerprint": "664c329f701fe458",
+  "topics": {
+    "Z6WC_8EUgcU#0": {
+      "issue": "22-newton-street-variance",
+      "category": "Zoning & development"
+    },
+    "Z6WC_8EUgcU#1": {
+      "issue": "34-turnpike-road-special-permit",
+      "category": "Zoning & development"
+    },
+    "Z6WC_8EUgcU#2": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "Z6WC_8EUgcU#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hQZmHwP8rnw#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hQZmHwP8rnw#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "hQZmHwP8rnw#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "hQZmHwP8rnw#3": {
+      "issue": "landfill-environmental-assessment",
+      "category": "Budget & taxes"
+    },
+    "lXcFPzwjluI#0": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "lXcFPzwjluI#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "lXcFPzwjluI#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "z99uKZgv59g#0": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "z99uKZgv59g#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "z99uKZgv59g#2": {
+      "issue": "brox-asphalt-plant-complaints",
+      "category": "Health & human services"
+    },
+    "z99uKZgv59g#3": {
+      "issue": "7-turnpike-road-bodywork-compliance",
+      "category": "Health & human services"
+    },
+    "z99uKZgv59g#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "Z6WC_8EUgcU#u0": {
+      "date": "2026-06-10",
+      "issue": "22-newton-street-variance"
+    },
+    "Z6WC_8EUgcU#u1": {
+      "date": "2026-06-10",
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "Z6WC_8EUgcU#u2": {
+      "date": "2026-06-10",
+      "issue": null
+    },
+    "Z6WC_8EUgcU#u3": {
+      "date": "2026-07-15",
+      "issue": null
+    },
+    "hQZmHwP8rnw#u0": {
+      "date": null,
+      "issue": "landfill-environmental-assessment"
+    },
+    "hQZmHwP8rnw#u1": {
+      "date": null,
+      "issue": "landfill-environmental-assessment"
+    },
+    "lXcFPzwjluI#u0": {
+      "date": "2026-05-13",
+      "issue": null
+    },
+    "lXcFPzwjluI#u1": {
+      "date": "2026-05-20",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "lXcFPzwjluI#u2": {
+      "date": "2026-05-26",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "lXcFPzwjluI#u3": {
+      "date": null,
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "z99uKZgv59g#u0": {
+      "date": "2026-05-29",
+      "issue": null
+    },
+    "z99uKZgv59g#u1": {
+      "date": null,
+      "issue": "brox-asphalt-plant-complaints"
+    },
+    "z99uKZgv59g#u2": {
+      "date": "2026-06-09",
+      "issue": null
+    },
+    "z99uKZgv59g#u3": {
+      "date": "2026-07-07",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:18:47Z"
+}

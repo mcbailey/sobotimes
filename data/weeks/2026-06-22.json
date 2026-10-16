@@ -1,0 +1,91 @@
+{
+  "headline": "Town committees reviewed funding for a police drone program, advanced trail and wastewater planning, and released six subdivision lots.",
+  "synopsis": "Southborough boards addressed several major capital and infrastructure initiatives this week. The Capital Improvement and Planning Committee endorsed a five-year police drone program while referring its year-end funding method to the Select Board for policy review. The Trails Committee finalized an estimated $450,000 application for a Peninsula Trail bridge, securing unanimous support from the Conservation Commission. Meanwhile, the Planning Board released six lots at the Ruby Estates subdivision, and the Wastewater Study Committee worked to secure consulting services ahead of a proposed fall sewer district vote.",
+  "highlights": [
+    {
+      "title": "Police drone proposal endorsed as capital priority",
+      "why": "The Capital Improvement and Planning Committee voted to back a five-year, $105,000 police drone package as an immediate safety priority. Members deferred a decision on whether to fund the contract using surplus operating salary funds to the Select Board.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "Vb4kjdWsVU8",
+      "start_seconds": 71
+    },
+    {
+      "title": "Peninsula Trail bridge plans advance with conservation backing",
+      "why": "The Trails Committee finalized its Community Preservation Committee application for a footbridge connecting to the Fayville Dam, estimating costs between $440,000 and $450,000 after rerouting the trail to avoid a costly boardwalk. The Conservation Commission later voted unanimously to submit a formal letter supporting the funding bid.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "40fpbLASGN4",
+      "start_seconds": 318
+    },
+    {
+      "title": "Ruby Estates lots released and street tree study approved",
+      "why": "The Planning Board accepted a surety agreement backed by a bond exceeding $300,000 and released six residential lots at 96 Mount Vickery Road. The board also voted to fund a $5,500 pilot study to identify 25 viable street tree planting locations near the town center.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "6H4R-9hc3ew",
+      "start_seconds": 46
+    },
+    {
+      "title": "Route 9 sewer district financing moves forward",
+      "why": "The Wastewater Study Committee confirmed the town can designate a District Improvement Financing area boundary ahead of a full project plan, preparing for an October Special Town Meeting vote. Members worked to encumber up to $30,000 to hire MassDevelopment consultants to model commercial tax growth along Route 9.",
+      "body": "Wastewater Study Committee",
+      "importance": "medium",
+      "video_id": "JqdlZNYHfYk",
+      "start_seconds": 96
+    },
+    {
+      "title": "Conservation Commission urges retaining longtime stewardship volunteer",
+      "why": "Following the Select Board decision not to reappoint Freddie Gillespie to the Open Space Preservation Commission, the Conservation Commission voted to request that the Select Board convert her Stewardship Committee seat to an at-large position and reappoint her.",
+      "body": "Conservation Commission",
+      "importance": "medium",
+      "video_id": "IrDN9mU1ybM",
+      "start_seconds": 5465
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board meeting on the police department drone program funding request",
+      "when": "June 29, 2026 at 8:30 AM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Submission deadline for Phase 2 Peninsula Trail CPC application",
+      "when": "July 2, 2024",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Joint meeting regarding repurposing the Rural Cemetery water tower",
+      "when": "July 2, 2026 at 1:00 PM",
+      "body": "Historical Commission"
+    },
+    {
+      "what": "Planning Board continued hearings for 22 and 154 Turnpike Road",
+      "when": "July 13, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Continued hearings on 0 Valley Road, 14 Newton Street, 250 Turnpike Road, and 0 Southville Road",
+      "when": "July 23, 2024",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Special Town Meeting at Trottier Middle School",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": "Town Meeting"
+    }
+  ],
+  "week": "2026-06-22",
+  "fingerprint": "7ba3d9502749ea7e",
+  "video_ids": [
+    "40fpbLASGN4",
+    "6H4R-9hc3ew",
+    "EAI8SMnejZQ",
+    "IrDN9mU1ybM",
+    "JqdlZNYHfYk",
+    "Vb4kjdWsVU8",
+    "phdC64CYpRc"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:08:49Z"
+}

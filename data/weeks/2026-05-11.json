@@ -1,0 +1,107 @@
+{
+  "headline": "The Southborough School Committee advanced Neary roof plans and the FY27 budget, while the Planning Board recommended revoking an occupancy permit on Central Street.",
+  "synopsis": "Southborough boards addressed major capital planning, land use regulations, and upcoming budget priorities this week. The Southborough School Committee reviewed critical roof failures at Neary Elementary that could cost up to $6.5 million with required accessibility upgrades, prepared to bid the project, and supported a revised 3.99 percent FY27 operating budget. In land use, the Planning Board adopted new native landscaping rules for site plans and voted 4-1 to recommend revoking the temporary certificate of occupancy for 40-42 Central Street over parking and site compliance. Meanwhile, the Wastewater Study Committee presented an initial concept for a $50 million commercial sewer system along Route 9.",
+  "highlights": [
+    {
+      "title": "Neary School roof failure and $6.5 million project estimate",
+      "why": "Engineering consultants reported severe seam failures, water intrusion, and wind blow-off risks at Neary Elementary. Replacing the roof triggers state accessibility mandates that push the total estimated cost to roughly $6.5 million, requiring borrowing and Town Meeting action.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "AVYUJb0MKMY",
+      "start_seconds": 27
+    },
+    {
+      "title": "Planning Board recommends revoking occupancy at 40-42 Central Street",
+      "why": "The board voted 4-1 to advise the Building Commissioner to revoke the Southborough Historical Society's temporary certificate of occupancy due to unresolved site conditions, including lighting, parking alignment, and unpaid peer review fees.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "gobeHAshCpc",
+      "start_seconds": 15
+    },
+    {
+      "title": "Adoption of Native Landscape Regulations for site plan review",
+      "why": "The Planning Board voted unanimously to require that 100 percent of new vegetation in site plan review projects consist of native New England species, while prohibiting systemic neonicotinoid pesticides and dyed mulches.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "gobeHAshCpc",
+      "start_seconds": 6750
+    },
+    {
+      "title": "Route 9 commercial wastewater system proposal",
+      "why": "The Wastewater Study Committee outlined plans for a potential $50 million, 300,000 to 500,000 gallon-per-day wastewater system covering 1,600 acres along Route 9, aiming to expand the commercial tax base and reduce the residential tax burden.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "gobeHAshCpc",
+      "start_seconds": 2690
+    },
+    {
+      "title": "School Committee endorses revised 3.99% FY27 operating budget",
+      "why": "The committee voted 4-0 to support an adjusted FY27 budget that adds a third-grade section and lowers reliance on circuit breaker reserves ahead of joint sessions with town finance boards.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "SXZEdmFrxuc",
+      "start_seconds": 50
+    },
+    {
+      "title": "Whitsons food service contract renewed with fee adjustment",
+      "why": "The School Committee approved extending the food service contract for 2026-2027 with a 3.9 percent cost-of-living increase following a first-year deficit largely attributed to health insurance expenses.",
+      "body": "Southborough School Committee",
+      "importance": "medium",
+      "video_id": "Od1pRH9mq6g",
+      "start_seconds": 1068
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Subdivision Rules and Regulations working group meeting",
+      "when": "May 12, 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Neary Elementary School roof replacement bid submission deadline",
+      "when": "May 22, 2026",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Recreation Commission meeting to vote on 911 Field fee adjustments and Fayville parking letter",
+      "when": "May 22, 2024 at 7:00 PM",
+      "body": "Recreation Commission"
+    },
+    {
+      "what": "Community Preservation Committee meeting regarding facade signage text",
+      "when": "May 21",
+      "body": "Library Board of Trustees"
+    },
+    {
+      "what": "Continued public hearings on 22 Turnpike Road and 154 Turnpike Road site plans",
+      "when": "June 1, 2026, at 6:45 PM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Continued hearings for 0 Southville Road apartments, 170 Woodland Road, and 229 Parkerville Road",
+      "when": "June 4, 2026",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "School Committee consideration of contract award for Neary roof replacement",
+      "when": "June 10, 2026 at 6:30 PM",
+      "body": "Southborough School Committee"
+    }
+  ],
+  "week": "2026-05-11",
+  "fingerprint": "0ef7871ab588b2f3",
+  "video_ids": [
+    "AVYUJb0MKMY",
+    "C92hqzMJvgM",
+    "LflS54Arapc",
+    "Od1pRH9mq6g",
+    "QtSBbzpaVec",
+    "SXZEdmFrxuc",
+    "Yj-7Il44CGk",
+    "b6dhPxXuBgo",
+    "gobeHAshCpc",
+    "yEDv55tASKo"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:11:16Z"
+}

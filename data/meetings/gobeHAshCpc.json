@@ -1,0 +1,265 @@
+{
+  "video": {
+    "id": "gobeHAshCpc",
+    "title": "Planning Board 5/11/26",
+    "published_at": "2026-05-12T12:46:10Z",
+    "duration_s": 13055
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-05-11",
+    "headline": "Planning Board recommends revoking occupancy for 40-42 Central Street and approves new native landscape regulations.",
+    "summary": "The Planning Board voted 4-1 to recommend that the Building Commissioner revoke the temporary certificate of occupancy for 40-42 Central Street due to unresolved site plan and parking compliance issues. The board also approved new Native Landscape Regulations for site plan review and approved a $324,141 completion bond for the Ruby Estates subdivision at 96 Mount Vickery Road. Additionally, the board received an update on a potential Route 9 commercial wastewater system and continued hearings for 22 Turnpike Road and 154 Turnpike Road.",
+    "topics": [
+      {
+        "title": "40-42 Central Street occupancy status",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed non-compliance issues regarding the Southborough Historical Society's site plan and parking conditions at 40-42 Central Street under its temporary certificate of occupancy. Board members expressed frustration that agreed-upon conditions, including parking lot lighting reviews, accessible parking layout corrections, peer review fees, and formal site plan modification submissions, had not been satisfied. The board voted to recommend that the Building Commissioner revoke the property's temporary certificate of occupancy.",
+        "key_details": [
+          "Major site plan approval was initially granted in July 2023 under the Dover Amendment.",
+          "A temporary certificate of occupancy was conditionally extended to May 11, 2026.",
+          "Unmet conditions included peer review retainer fees, ADA accessible parking alignment, lighting plans, and deeded parking signage.",
+          "The board voted 4-1 to recommend revocation of the temporary certificate of occupancy."
+        ],
+        "outcome": "Recommended that the Building Commissioner revoke the temporary certificate of occupancy.",
+        "why_it_matters": "Enforces zoning and site plan conditions on non-profit and commercial properties and addresses site safety, ADA accessibility, and parking requirements.",
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Scenic road stone wall removal at 361 Turnpike Road and Flagg Road",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The Department of Public Works requested permission to remove approximately 10 feet of stone wall along scenic Flagg Road at the corner of 361 Turnpike Road. The removal allows the town to relocate an existing fire hydrant roughly 10 feet back into an acquired utility easement after multiple vehicle strikes. The board approved the removal with a condition that removed stones remain on site or be reused for wall reconstruction on Flagg Road.",
+        "key_details": [
+          "Work is located at Flagg Road and 361 Turnpike Road near the Valvoline station.",
+          "Property owner granted the town a 10-foot by 10-foot utility easement for the hydrant relocation.",
+          "Approximately 10 feet of stone wall will be dismantled to provide equipment access and set the hydrant back from traffic.",
+          "Removed stones will either be incorporated into the adjacent Valvoline wall restoration or retained locally on Flagg Road."
+        ],
+        "outcome": "Approved unanimously (5-0) with conditions following the close of the public hearing.",
+        "why_it_matters": "Relocating the struck fire hydrant improves roadside safety and emergency fire infrastructure while preserving historic stone wall materials.",
+        "start_seconds": 1708,
+        "end_seconds": null
+      },
+      {
+        "title": "22 Turnpike Road golf range modification hearing continuance",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The applicant for 22 Turnpike Road requested a continuance without testimony for the major site plan approval modification regarding the golf range facility.",
+        "key_details": [
+          "Project address is 22 Turnpike Road.",
+          "Continuance requested without testimony to June 1, 2026."
+        ],
+        "outcome": "Hearing continued to June 1, 2026, at 6:45 PM.",
+        "why_it_matters": null,
+        "start_seconds": 2607,
+        "end_seconds": null
+      },
+      {
+        "title": "Wastewater Study Committee Route 9 project preview",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Wastewater Study Committee leadership presented an overview of plans to establish a commercial wastewater collection and treatment system along Route 9. The proposed system would target a capacity of 300,000 to 500,000 gallons per day to stimulate commercial tax growth and ease residential property tax burdens. The committee discussed District Improvement Financing (DIF), site acquisition challenges for treatment and leaching facilities, and potential fall Town Meeting warrant articles.",
+        "key_details": [
+          "System would cover an estimated 1,600-acre district along Route 9 encompassing roughly 600 parcels with $800 million in assessed value.",
+          "Requires roughly 5 acres for a treatment plant and 15 to 20 acres for ground discharge leaching fields.",
+          "Estimated project cost is approximately $50 million.",
+          "Potential fall Special Town Meeting request could seek approval of a DIF plan and initial engineering design funds."
+        ],
+        "outcome": "Informational update; committee will continue refining site options, financing models, and public outreach.",
+        "why_it_matters": "A municipal commercial sewer system along Route 9 could unlock significant commercial development to help balance the town tax base, but would require substantial capital funding.",
+        "start_seconds": 2690,
+        "end_seconds": null
+      },
+      {
+        "title": "154 Turnpike Road major site plan modification",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board reviewed landscape revisions and exterior lighting compliance for Capital Group Properties at 154 Turnpike Road. Board members noted that exterior parking lot light levels significantly exceed town outdoor illumination limits and that non-dimmable fixtures pose light trespass concerns toward residential neighbors on Breakneck Hill Road. The applicant agreed to consult fixture manufacturers and work directly with board members to explore bulb replacement or shielding solutions.",
+        "key_details": [
+          "Revised landscape plan replaces non-native grasses with native shrubs and adds evergreen screening along the rear boundary.",
+          "Installed LED lighting fixtures exceed maximum lumen and hardscape footcandle thresholds in the local bylaw.",
+          "Applicant representative will investigate manufacturer options for lowering lumen output or shielding fixtures."
+        ],
+        "outcome": "Hearing continued to June 1, 2026, at 7:00 PM.",
+        "why_it_matters": "Ensures commercial redevelopments along Route 9 comply with local lighting bylaws designed to protect dark skies and adjacent residential neighborhoods.",
+        "start_seconds": 4595,
+        "end_seconds": null
+      },
+      {
+        "title": "96 Mount Vickery Road (Ruby Estates) bond estimate",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The developer of Ruby Estates at 96 Mount Vickery Road requested approval of an interim construction completion bond estimate to allow the release of subdivision lots from covenant. Consulting engineer Nitsch Engineering calculated the remaining roadway and infrastructure completion costs at $324,140.81. The board discussed open space bounds, tree protection, and erosion controls before voting to approve the bond amount.",
+        "key_details": [
+          "Project is an approved residential subdivision at 96 Mount Vickery Road.",
+          "Nitsch Engineering recommended a total completion bond of $324,140.81, including a 20 percent contingency.",
+          "Approval allows the developer to obtain a performance bond and submit a tri-party lender agreement for lot release.",
+          "Open space bounds and required vegetative screening must be installed as lots are developed."
+        ],
+        "outcome": "Bond estimate of $324,140.81 approved unanimously (5-0).",
+        "why_it_matters": "Subdivision bonds guarantee that roadways, drainage, and utilities will be completed to town standards without financial liability to taxpayers.",
+        "start_seconds": 5890,
+        "end_seconds": null
+      },
+      {
+        "title": "Native Landscape Regulations for site plan review",
+        "category": "Environment & conservation",
+        "importance": "high",
+        "summary": "The board held a public hearing on new Native Landscape Regulations drafted in collaboration with the Open Space Preservation Commission. The regulations mandate that 100 percent of new vegetation in site plan review projects consist of native species, prohibit the use of neonicotinoid pesticides, and restrict dyed mulches and invasive plants. Following discussion regarding definitions of trees and shrubs and enforcement flexibility, the board voted unanimously to adopt the regulations.",
+        "key_details": [
+          "Applies to all landscape plans submitted for Planning Board site plan review.",
+          "Requires plants listed as native to New England by Go Botany or Dr. Robert Gegear's at-risk pollinator list.",
+          "Excludes cultivars and non-native vegetation from meeting landscaping requirements.",
+          "Prohibits systemic neonicotinoid pesticides at any growing or planting stage."
+        ],
+        "outcome": "Adopted unanimously (5-0) as amended; public hearing closed.",
+        "why_it_matters": "Establishes mandatory ecological standards requiring native plants and pollinator habitats on all future commercial and institutional developments subject to site plan review.",
+        "start_seconds": 6750,
+        "end_seconds": null
+      },
+      {
+        "title": "Planning Board role in zoning enforcement",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Board members discussed ongoing challenges with tracking and enforcing site plan compliance after projects receive occupancy permits. The board considered establishing a standardized procedure and form letter to notify non-compliant property owners, granting a 30-day cure period before formally referring violations to the Building Commissioner for legal enforcement.",
+        "key_details": [
+          "Discussion followed communications with the Building Commissioner regarding post-occupancy compliance tracking.",
+          "Members highlighted multiple historic site plans operating with missing landscaping or unauthorized alterations.",
+          "Board agreed to draft a standard notice template requiring applicants to rectify issues or seek site plan modifications within 30 days."
+        ],
+        "outcome": "Discussion item; members will work on a standard notice template and follow up on town-wide enforcement policy.",
+        "why_it_matters": "A clear enforcement pipeline ensures developers adhere to approved landscaping, lighting, and layout commitments long after construction ends.",
+        "start_seconds": 10007,
+        "end_seconds": null
+      },
+      {
+        "title": "Planner's report and project updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town planner briefed the board on pending project compliance at 264 Cordaville Road regarding used car sales and site plan improvements. The board instructed staff to notify the property owner that car sales cannot proceed without full site plan compliance. The board also agreed to send a briefing package on 40-42 Central Street to Town Counsel and invite counsel to attend the next meeting.",
+        "key_details": [
+          "264 Cordaville Road previously received minor site plan approval with conditions for drainage and pavement repairs that remain unfulfilled.",
+          "Owner sought to sell used cars under a prior 1982 ZBA variance; the board noted the current minor site plan must be in compliance first.",
+          "Board directed staff to forward all 40-42 Central Street materials to Town Counsel and request counsel's attendance at the upcoming meeting."
+        ],
+        "outcome": "Staff directed to issue formal compliance notices for 264 Cordaville Road and coordinate with Town Counsel on 40-42 Central Street.",
+        "why_it_matters": "Maintains oversight on commercial properties along town corridors to prevent unpermitted operations.",
+        "start_seconds": 10860,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and chair recognition",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved multiple sets of past meeting minutes. The board concluded the meeting by reading a formal tribute honoring outgoing Chair Meme Luttrell for her 25 years of municipal service to Southborough on the Open Space Committee and Planning Board.",
+        "key_details": [
+          "Approved executive session minutes from various dates in 2016 and 2017.",
+          "Approved executive session minutes from November 4, 2024.",
+          "Approved open session minutes of April 11, 2026, and April 13, 2026.",
+          "Read formal recognition of Meme Luttrell's 25 years of town volunteer service."
+        ],
+        "outcome": "Minutes approved; tribute delivered.",
+        "why_it_matters": null,
+        "start_seconds": 11502,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Recommend to the Building Commissioner to revoke the temporary certificate of occupancy for 40-42 Central Street",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 1702
+      },
+      {
+        "motion": "Close the public hearing for scenic road stone wall removal at 361 Turnpike Road and Flagg Road",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2559
+      },
+      {
+        "motion": "Approve the scenic road stone wall removal for DPW at 361 Turnpike Road and Flagg Road with the condition that stones remain on Flagg Road with first dibs to Valvoline",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2589
+      },
+      {
+        "motion": "Continue the public hearing for 22 Turnpike Road major site plan approval modification to June 1, 2026, at 6:45 PM",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2683
+      },
+      {
+        "motion": "Continue the public hearing for 154 Turnpike Road major site plan approval modification to June 1, 2026, at 7:00 PM",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5848
+      },
+      {
+        "motion": "Accept the construction completion bond estimate of $324,140.81 dated April 22, 2026, prepared by Nitsch Engineering for Ruby Estates at 96 Mount Vickery Road",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6569
+      },
+      {
+        "motion": "Adopt the Native Landscape Regulations for site plan review as discussed and amended",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 8883
+      },
+      {
+        "motion": "Close the public hearing for the Native Landscape Regulations for site plan review",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 8913
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Continued public hearing on 22 Turnpike Road major site plan approval modification",
+        "when": "June 1, 2026, at 6:45 PM"
+      },
+      {
+        "what": "Continued public hearing on 154 Turnpike Road major site plan approval modification",
+        "when": "June 1, 2026, at 7:00 PM"
+      },
+      {
+        "what": "Subdivision Rules and Regulations working group meeting",
+        "when": "May 12, 2026"
+      },
+      {
+        "what": "Planning Board review of Ruby Estates (96 Mount Vickery Road) tri-party surety agreement",
+        "when": "June 1, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:48:52Z",
+  "usage": {
+    "total_tokens": 488938,
+    "total_input_tokens": 483727,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 483034
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3781,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1430
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "video": {
+    "id": "tvbRz-2SMEI",
+    "title": "Library Board of Trustees 8/10/26",
+    "published_at": "2026-08-11T05:27:20Z",
+    "duration_s": 7140
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Library Board of Trustees",
+    "meeting_date": "2026-08-10",
+    "headline": "The Library Board of Trustees agreed to keep the library open Labor Day weekend Saturday and reviewed proposed policy revisions for mobile hotspot lending.",
+    "summary": "The Southborough Library Board of Trustees reviewed facility maintenance projects, including upcoming LED lighting retrofits and annual carpet cleaning. Trustees debated holiday closure schedules and visitor attendance data, deciding to stay open the Saturday of Labor Day weekend while deferring action on the Saturday after Thanksgiving. The board also received updates on Community Preservation Committee signage recognizing CPA funding, addressed a payroll timing anomaly in the monthly budget report, and previewed policy revisions to penalize mobile hotspot lending violations.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The trustees approved minutes from their June 16, 2026 joint meeting with the Select Board and their regular meeting on July 20, 2026. A trustee clarified an absence and noted a spelling correction needed on the Select Board's draft record.",
+        "key_details": [
+          "Approved minutes from the June 16, 2026 joint meeting with the Select Board",
+          "Approved minutes from the July 20, 2026 regular board meeting",
+          "Noted a spelling correction for Trustee Ekberg's name on Select Board records"
+        ],
+        "outcome": "Minutes approved",
+        "why_it_matters": null,
+        "start_seconds": 42,
+        "end_seconds": null
+      },
+      {
+        "title": "Facilities updates and LED lighting retrofit",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The library director updated the board on several ongoing facility maintenance projects. An LED lighting conversion is scheduled to begin in August, and the director is coordinating with facilities staff to explore energy-efficient motion-sensor lighting in book stack aisles. Annual carpet cleaning was also scheduled for a Saturday when the building is closed to the public.",
+        "key_details": [
+          "Annual carpet cleaning scheduled for Saturday, August 15 while the library is closed",
+          "LED conversion contractor expected to start work during August",
+          "Exploring motion-sensor stack lighting to reduce energy consumption",
+          "Contractor work scheduled early in mornings to minimize disruption to patrons",
+          "Children's room lighting was previously upgraded to LED following flood repairs"
+        ],
+        "outcome": "Discussion only; work scheduled for August",
+        "why_it_matters": null,
+        "start_seconds": 797,
+        "end_seconds": null
+      },
+      {
+        "title": "Holiday closures and Saturday operating schedule",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Trustees debated the holiday operating calendar, focusing on whether to close on Saturdays following major holidays. The director presented circulation and door-count data showing that attendance on Saturdays following holidays drops below 25 percent of normal volume, while town personnel rules create complex compensatory time obligations for staff working those weekends. Following discussion, the board agreed to remain open on the Saturday of Labor Day weekend and revisit Thanksgiving weekend staffing next month.",
+        "key_details": [
+          "Door counts show visitor traffic drops below 25 percent of average on holiday weekend Saturdays",
+          "Town Salary Administration Plan grants Friday holidays, creating compensatory time challenges for Saturday staff",
+          "Trustees agreed the library will remain open on Saturday, September 5 for Labor Day weekend",
+          "Early closures planned at 2:00 p.m. on September 21 for staff training, and 5:00 p.m. on Thanksgiving Eve and New Year's Eve",
+          "Trustees will evaluate part-time staff availability for the Saturday after Thanksgiving at the September meeting"
+        ],
+        "outcome": "Agreement to open Saturday of Labor Day weekend; further review of post-Thanksgiving Saturday set for September",
+        "why_it_matters": null,
+        "start_seconds": 1090,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual state statistical report",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The director reported that the library's annual state statistical report has been completed and filed. Overall library utilization and physical circulation remained steady, with digital circulation seeing the largest gains.",
+        "key_details": [
+          "Annual Report Information Survey (ARIS) successfully completed and submitted to the state",
+          "Electronic media borrowing through Libby and Hoopla saw the highest rate of growth",
+          "Overall circulation and visitor numbers remained stable compared to the prior year"
+        ],
+        "outcome": "Report completed and filed",
+        "why_it_matters": null,
+        "start_seconds": 2524,
+        "end_seconds": null
+      },
+      {
+        "title": "FY24 monthly expense report",
+        "category": "Budget & taxes",
+        "importance": "low",
+        "summary": "A trustee flagged that the salary line appeared 16.5 percent over budget in the initial monthly expense report. The director clarified that the reporting period encompassed three biweekly payrolls rather than two, temporarily inflating the expenditure figure.",
+        "key_details": [
+          "Salary expenditure showed 16.5 percent over projected monthly rate",
+          "Anomaly was caused by three payroll cycles falling into the first reporting period",
+          "Director will monitor staffing costs following two recent employee promotions"
+        ],
+        "outcome": "Expense report reviewed",
+        "why_it_matters": null,
+        "start_seconds": 2660,
+        "end_seconds": null
+      },
+      {
+        "title": "Community Preservation Committee signage",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Trustees received a report on a recent Community Preservation Committee meeting concerning plaques recognizing CPA-funded library projects. The CPC voted to adopt the trustees' preferred language crediting Southborough residents rather than taxpayers or citizens. The signs will display the town seal instead of the library logo, and invoices have been submitted to the CPC for payment.",
+        "key_details": [
+          "CPC agreed to use the term 'residents' on recognition plaques per trustee request",
+          "Signs will feature the official town seal at the top rather than the library logo",
+          "Signs have been commissioned and invoices forwarded to the CPC",
+          "Discussion noted that an existing plaque near the front stairs already recognizes a 2013 facade and stair project"
+        ],
+        "outcome": "Signage commissioned; invoices submitted to CPC for reimbursement",
+        "why_it_matters": null,
+        "start_seconds": 2777,
+        "end_seconds": null
+      },
+      {
+        "title": "Mobile hotspot lending policy update",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The director previewed upcoming revisions to the library's mobile hotspot lending policy following several compliance issues. Recent problems included an unreturned power charger resulting in a $15 replacement charge and a patron improperly dropping a hotspot into the exterior mailbox on a weekend. Proposed policy changes will explicitly prohibit mailbox returns and establish a six-month borrowing suspension for policy violations.",
+        "key_details": [
+          "A patron was billed a $15 fee to cover the replacement cost of an unreturned charger",
+          "A hotspot was improperly deposited in the outdoor mailbox on a Saturday while the library was closed",
+          "Proposed policy revisions will establish a six-month suspension of hotspot borrowing for violations",
+          "Revisions will clearly prohibit returning electronic equipment in the book drop or mailbox",
+          "Formal vote on the updated policy is planned for the September meeting"
+        ],
+        "outcome": "Discussion only; revised policy scheduled for board review in September",
+        "why_it_matters": null,
+        "start_seconds": 3342,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next regular Library Board of Trustees meeting",
+        "when": "September 14, 2026 at 11:00 a.m."
+      },
+      {
+        "what": "Early library closure at 2:00 p.m. for staff Dementia Friends training",
+        "when": "September 21, 2026"
+      },
+      {
+        "what": "Board review and vote on revised mobile hotspot lending policy",
+        "when": "September 14, 2026"
+      }
+    ],
+    "caveats": "The meeting adjourned at approximately 1:07:55 into the video; the remaining 51 minutes of the recording consist of a silent black screen and title card."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:17:25Z",
+  "usage": {
+    "total_tokens": 282353,
+    "total_input_tokens": 273439,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 272744
+      },
+      {
+        "modality": "text",
+        "tokens": 695
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2000,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 6914
+  }
+}

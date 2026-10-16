@@ -1,0 +1,86 @@
+{
+  "video": {
+    "id": "ri__tL7UnbE",
+    "title": "Southborough K-8 School Committee, Special Open meeting May 6, 2026",
+    "published_at": "2026-05-12T18:02:34Z",
+    "duration_s": 589
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": "2026-05-06",
+    "headline": "School Committee approves community letter explaining school roof debt-exclusion ballot questions ahead of town election.",
+    "summary": "In a brief special meeting, the Southborough School Committee approved a community letter regarding debt-exclusion ballot questions on the May 12 town election ballot. The letter thanks voters for Town Meeting funding approvals and details upcoming roof replacements at Neary Elementary School and Trottier Middle School. Members also briefly discussed state campaign finance rules regarding electioneering and informational handouts at polling locations.",
+    "topics": [
+      {
+        "title": "Community letter on school roof ballot questions",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee reviewed and approved a communication to Southborough residents regarding debt-exclusion questions on the May 12 town ballot for roof replacements at Neary Elementary School and Trottier Middle School. The letter clarifies project timing and funding, noting that Neary's replacement is slated for this summer at an estimated $4.5 million, while Trottier's project is scheduled for spring 2027 with partial reimbursement from the Massachusetts School Building Authority. Members also discussed legal boundaries around election-day informational handouts at the polls, noting guidance from the state Office of Campaign and Political Finance.",
+        "key_details": [
+          "Neary Elementary roof replacement estimated at $4.5 million, scheduled for summer work.",
+          "Trottier Middle School roof project scheduled for spring 2027 with partial MSBA reimbursement.",
+          "Both projects appear on the May 12 town election ballot as debt-exclusion questions.",
+          "Letter will be distributed via ParentSquare, MySouthborough, and the Community Advocate.",
+          "Superintendent noted strict state campaign finance guidelines limit distributing promotional materials at polling places."
+        ],
+        "outcome": "Approved unanimously (5-0).",
+        "why_it_matters": "The town ballot directly impacts property tax debt exclusions and determines financing mechanisms for multi-million-dollar capital repairs at two town schools.",
+        "start_seconds": 105,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair requested that any committee member interested in serving on the search committee for the Director of Student Support Services contact her directly. The meeting adjourned shortly thereafter.",
+        "key_details": [
+          "Search committee representation sought for Director of Student Support Services position."
+        ],
+        "outcome": "Committee members to contact the chair if interested in serving.",
+        "why_it_matters": null,
+        "start_seconds": 538,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the community letter regarding the roof replacement ballot questions as presented",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 516
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Southborough Annual Town Election with ballot questions on school roof debt exclusions",
+        "when": "May 12"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:41:57Z",
+  "usage": {
+    "total_tokens": 24715,
+    "total_input_tokens": 23197,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 22498
+      },
+      {
+        "modality": "text",
+        "tokens": 699
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 764,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 754
+  }
+}

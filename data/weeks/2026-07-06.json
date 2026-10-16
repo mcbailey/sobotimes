@@ -1,0 +1,92 @@
+{
+  "headline": "The Select Board raised transfer station fees and began planning for a potential operating override, while the Board of Health revised well and septic rules.",
+  "synopsis": "The Select Board voted to increase transfer station permit fees for fiscal year 2027 and opened discussions on a possible multi-year Proposition 2 1/2 operating override to address an estimated $2 million deficit in fiscal year 2028. The Board of Health adopted updated well and septic regulations, establishing a 25-foot pool setback and mandatory well testing before home transfers, but chose not to recommend opting out of state cannabis delivery. Architects presented existing conditions for the Margaret A. Neary Elementary School project, outlining upgrades needed ahead of a planned 2027 Annual Town Meeting vote. Additionally, the Select Board reviewed revived negotiations over an intermunicipal water deal with Hopkinton, and the Personnel Board launched a town-wide compensation study.",
+  "highlights": [
+    {
+      "title": "Transfer station sticker fee increase",
+      "why": "The Select Board voted 5-0 to approve fiscal year 2027 transfer station permit fees, raising primary household stickers to $320 and senior stickers to $75. Action on proposed operating rules restricting certain swap shop drop-offs was postponed to August.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "y2SA0f-wqgI",
+      "start_seconds": 1646
+    },
+    {
+      "title": "Five-year Proposition 2 1/2 operating override planning",
+      "why": "Select Board members examined long-term budget forecasts showing a projected $2 million shortfall in fiscal year 2028 that will exhaust remaining levy capacity. The board discussed pursuing a multi-year operational override with voters rather than seeking annual overrides.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "y2SA0f-wqgI",
+      "start_seconds": 5764
+    },
+    {
+      "title": "Updated private well and septic regulations",
+      "why": "The Board of Health unanimously approved amendments requiring private well testing prior to real estate transfers and establishing a 25-foot setback between new wells and swimming pools. The rules also mandate separate entities for septic design and installation and require repair access.",
+      "body": "Board of Health",
+      "importance": "high",
+      "video_id": "-t0sUEo_dbo",
+      "start_seconds": 342
+    },
+    {
+      "title": "Neary Elementary School conditions assessment",
+      "why": "Architects presented a baseline conditions study detailing building envelope, accessibility, and mechanical deficiencies, including the absence of a required fire sprinkler system. The committee is working toward design options ahead of a targeted funding vote at the 2027 Annual Town Meeting.",
+      "body": "Elementary School Building Committee",
+      "importance": "high",
+      "video_id": "cAqiXBom0Vo",
+      "start_seconds": 74
+    },
+    {
+      "title": "Hopkinton water connection negotiations",
+      "why": "The Select Board reviewed terms for a draft agreement to transport MWRA water to Hopkinton, which would include a $1 million payment to Southborough and road repaving. Southborough will hire independent peer review engineers and special counsel to finalize the contract.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "y2SA0f-wqgI",
+      "start_seconds": 5433
+    },
+    {
+      "title": "Adult-use cannabis home delivery discussion",
+      "why": "The Board of Health evaluated whether to recommend requesting a state waiver to ban adult-use cannabis courier delivery in town. Members expressed split views regarding youth access versus adult parity with alcohol delivery and decided to forward notes to the Select Board without a formal recommendation.",
+      "body": "Board of Health",
+      "importance": "high",
+      "video_id": "-t0sUEo_dbo",
+      "start_seconds": 1915
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Fresh Monkey scheduled soft opening on Turnpike Road",
+      "when": "July 20",
+      "body": "Select Board"
+    },
+    {
+      "what": "Wastewater Committee meeting to discuss site selection and permitting concerns",
+      "when": "July 23, 2026",
+      "body": "Wastewater Committee"
+    },
+    {
+      "what": "Elementary School Building Committee meeting",
+      "when": "August 5, 2024",
+      "body": "Elementary School Building Committee"
+    },
+    {
+      "what": "Board of Health review of food and housing enforcement language and variances",
+      "when": "August 11, 2026 at 9:30 AM",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Select Board meeting to finalize transfer station regulations and discuss FY28 budget process with the Advisory Committee",
+      "when": "August 11, 2026",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-07-06",
+  "fingerprint": "3325c93e6048a51a",
+  "video_ids": [
+    "-t0sUEo_dbo",
+    "bn2YAjZbv5o",
+    "cAqiXBom0Vo",
+    "x1cmtN9mFTM",
+    "y2SA0f-wqgI"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:07:53Z"
+}

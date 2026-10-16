@@ -1,0 +1,145 @@
+{
+  "video": {
+    "id": "Z6WC_8EUgcU",
+    "title": "Zoning Board of Appeals Meeting 5/6/26",
+    "published_at": "2026-05-07T18:15:36Z",
+    "duration_s": 7198
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-05-06",
+    "headline": "The Southborough Zoning Board of Appeals approved comprehensive permit conditions for a 32-unit 40B housing development at 250 Turnpike Road.",
+    "summary": "The Southborough Zoning Board of Appeals met on May 6, 2026, to consider two residential zoning applications and review comprehensive permit conditions for a major Chapter 40B development. The board continued a variance request for a two-car garage at 22 Newton Street and a special permit hearing for 34 Turnpike Road to June 10. The board then conducted an in-depth review of the draft decision, conditions, and waiver requests for the 32-unit rental townhouse project at 250 Turnpike Road and 9 Parkerville Road, voting unanimously to accept the conditions with minor amendments.",
+    "topics": [
+      {
+        "title": "22 Newton Street variance hearing",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board opened a public hearing on a variance petition under Section 174-8.3(D)(3)(b) to construct an encroaching two-car detached garage on the side lot line in the Residence B district. Town officials and board members expressed major concerns regarding zero-foot side setbacks and a Board of Health finding that the proposed structure would obstruct vehicle and equipment access needed to repair or replace the property's septic system. Board members suggested the applicant explore alternatives, including a one-car garage, a tandem garage layout, or a recorded emergency access easement across the abutting commercial property.",
+        "key_details": [
+          "Address: 22 Newton Street",
+          "Applicant seeks a variance to build a 23-foot by 23-foot two-car garage up to the property line",
+          "Required side setback is 20 feet for principal structures or 10 feet for accessory buildings",
+          "Board of Health warned the placement would block rear access for septic replacement or heavy excavation",
+          "The board discussed alternative tandem or narrower garage configurations with the applicant"
+        ],
+        "outcome": "Hearing continued to June 10, 2026, at 7:00 PM.",
+        "why_it_matters": null,
+        "start_seconds": 23,
+        "end_seconds": null
+      },
+      {
+        "title": "34 Turnpike Road special permit hearing",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board considered an application for a special permit regarding unpermitted construction and renovations at 34 Turnpike Road that exceeded previous approvals. Neither the applicant nor legal counsel attended, and staff confirmed the applicant's prior attorney had recently withdrawn from representation. Board members voiced frustration over lack of communication and unresolved Board of Health concerns about septic setbacks, deciding to give the applicant a final opportunity to appear before initiating enforcement action.",
+        "key_details": [
+          "Address: 34 Turnpike Road",
+          "Applicant and legal counsel failed to appear for the scheduled hearing",
+          "Town staff reported the applicant's attorney recently withdrew from representation",
+          "Concerns include work exceeding prior renovation approvals and lack of an updated site plan showing septic system setbacks",
+          "Town staff will send a certified letter warning that the application must be presented on June 10 or face denial, which would trigger zoning enforcement"
+        ],
+        "outcome": "Hearing continued to June 10, 2026, at 7:15 PM.",
+        "why_it_matters": null,
+        "start_seconds": 1790,
+        "end_seconds": null
+      },
+      {
+        "title": "250 Turnpike Road 40B comprehensive permit decision",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Town special counsel presented the detailed draft comprehensive permit decision, findings of fact, conditions, and waivers for a Chapter 40B development at 250 Turnpike Road and 9 Parkerville Road. The proposed development consists of 32 rental townhouse units, including eight affordable units (25 percent) restricted to households earning up to 80 percent of area median income. The board reviewed dozens of specific conditions covering pre-construction reviews, peer engineering oversight, wetland buffer zone mitigation, traffic and school bus accommodations, stormwater management, and dual regulatory agreements to protect long-term affordability.",
+        "key_details": [
+          "Location: 250 Turnpike Road and 9 Parkerville Road (approximately 3.5 acres)",
+          "Project scope: 32 rental townhouse units (24 two-bedroom and 8 three-bedroom units), with 8 designated affordable units",
+          "Condition 11 amended to clarify that final site plans will depict 6-foot privacy fencing on the project property rather than tying it to abutter agreements",
+          "Condition 73 adjusted to specify that no building permits for vertical construction will be issued prior to wastewater approvals",
+          "Includes a requirement for a springing local regulatory agreement to maintain affordability in perpetuity after state monitoring ends"
+        ],
+        "outcome": "The board voted unanimously to approve the comprehensive permit conditions as revised.",
+        "why_it_matters": "The decision approves conditions for a 32-unit housing development, advancing the town's Chapter 40B subsidized housing inventory while establishing strict environmental and engineering oversight on Route 9.",
+        "start_seconds": 2545,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from its previous meeting and coordinated summer calendar dates. Members agreed to move the August meeting date to August 12 to accommodate member travel schedules.",
+        "key_details": [
+          "Meeting minutes of April 15, 2026, approved as written",
+          "Summer meeting schedule set for June 10, July 15, and August 12, 2026"
+        ],
+        "outcome": "Minutes approved and future meeting dates established.",
+        "why_it_matters": null,
+        "start_seconds": 4400,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Motion to continue the public hearing for 22 Newton Street to June 10, 2026, at 7:00 PM.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1752
+      },
+      {
+        "motion": "Motion to continue the public hearing for 34 Turnpike Road to June 10, 2026, at 7:15 PM.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2524
+      },
+      {
+        "motion": "Motion to accept and approve the comprehensive permit conditions and waivers for 250 Turnpike Road as revised.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 6595
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Continued public hearing on 22 Newton Street variance petition",
+        "when": "June 10, 2026, at 7:00 PM"
+      },
+      {
+        "what": "Continued public hearing on 34 Turnpike Road special permit petition",
+        "when": "June 10, 2026, at 7:15 PM"
+      },
+      {
+        "what": "Next regular Zoning Board of Appeals meeting",
+        "when": "June 10, 2026"
+      },
+      {
+        "what": "Zoning Board of Appeals summer meetings",
+        "when": "July 15, 2026, and August 12, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:52:31Z",
+  "usage": {
+    "total_tokens": 278681,
+    "total_input_tokens": 275671,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 274981
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1854,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1156
+  }
+}

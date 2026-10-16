@@ -1,0 +1,156 @@
+{
+  "video": {
+    "id": "FEB1UdYQ72U",
+    "title": "Zoning Board of Appeals Meeting 8/12/26",
+    "published_at": "2026-08-13T19:50:21Z",
+    "duration_s": 3462
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-08-12",
+    "headline": "The board continued two public hearings and held a public forum on proposed zoning bylaw amendments for two-family dwellings.",
+    "summary": "The Southborough Zoning Board of Appeals continued public hearings for the Southborough Historical Society appeal at 40-42 Central Street and a special permit application for 0 Northborough Road to September 16. The board conducted routine organizational business, re-electing its chair and clerk. Members then hosted an open public forum to discuss proposed amendments to the town's two-family zoning bylaw, which would remove a two-year waiting period to convert buildings to two-family dwellings and clarify definitions ahead of Town Meeting.",
+    "topics": [
+      {
+        "title": "40-42 Central Street appeal continuance",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The Southborough Historical Society requested a continuance of its appeal regarding the building commissioner's denial of a certificate of occupancy and notice of zoning violation dated May 20, 2026. Legal counsel explained that the applicant is awaiting the written decision from the state Building Code Appeals Board following a July 21 hearing and is completing paving work for an accessible parking space that was delayed by rain. The applicant submitted a 30-day extension to the town clerk extending the board's 100-day statutory decision deadline.",
+        "key_details": [
+          "Property location is 40-42 Central Street, Map 38, Lots 44 and 45, in the Residence B district.",
+          "Appeal challenges denial of certificate of occupancy and zoning violation issued May 20, 2026.",
+          "State Building Code Appeals Board hearing occurred on July 21, 2026.",
+          "Applicant granted the board a 30-day extension of time to render a decision.",
+          "Hearing continued to September 16, 2026, at 7:00 PM."
+        ],
+        "outcome": "Continued to September 16, 2026, at 7:00 PM.",
+        "why_it_matters": null,
+        "start_seconds": 23,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board handled annual reorganization and procedural matters. The incumbent chair was nominated and re-elected for another year, and the absent clerk was also re-elected. The board reviewed and approved amended minutes from meetings on June 10, 2026, and July 15, 2026, and confirmed meeting dates for September and October.",
+        "key_details": [
+          "David Williams re-elected as chair.",
+          "Mike Robins re-elected as clerk.",
+          "June 10, 2026, and July 15, 2026, meeting minutes approved as amended.",
+          "Confirmed regular meeting date of October 21, 2026."
+        ],
+        "outcome": "Officers re-elected, minutes approved, and upcoming calendar confirmed.",
+        "why_it_matters": null,
+        "start_seconds": 340,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Northborough Road special permit continuance",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board considered a special permit application by Bartolini Properties LLC for property at 0 Northborough Road surrounded by MWRA land. The applicant requested a continuance to the September meeting, and no public testimony was offered.",
+        "key_details": [
+          "Applicant is Bartolini Properties LLC.",
+          "Property address is 0 Northborough Road.",
+          "Hearing continued to September 16, 2026, at 7:15 PM."
+        ],
+        "outcome": "Continued to September 16, 2026, at 7:15 PM.",
+        "why_it_matters": null,
+        "start_seconds": 918,
+        "end_seconds": null
+      },
+      {
+        "title": "Two-family dwelling zoning bylaw public forum",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board held an open public forum to discuss proposed revisions to Southborough's zoning bylaw concerning two-family dwellings planned for a Town Meeting warrant. The draft proposal eliminates the longstanding requirement that a structure must exist for at least two years before converting to a two-family dwelling, clarifies definitions of duplex and townhouse styles, and maintains special permit requirements across all zoning districts. Members of the public questioned how the changes interact with industrial zoning rules, accessory dwelling units, condominium conversions, and pending state housing legislation.",
+        "key_details": [
+          "Proposed amendment removes the two-year waiting period to convert a dwelling to a two-family home.",
+          "Two-family dwellings would continue to require a special permit in all applicable districts.",
+          "The bylaw adds specific definitions distinguishing two-family dwellings, duplexes, and townhouses.",
+          "Draft was forwarded to the Planning Board, which plans public hearings in September.",
+          "Board staff will consult the building commissioner to confirm dimensional rules for residential uses in industrial districts."
+        ],
+        "outcome": "Public feedback received; staff will seek input from the building commissioner before Planning Board hearings.",
+        "why_it_matters": "The proposed bylaw changes how residents and builders can establish two-family homes in town, removing the two-year delay while keeping special permit oversight.",
+        "start_seconds": 1023,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Continue the public hearing for 40-42 Central Street (Southborough Historical Society appeal) to September 16, 2026, at 7:00 PM.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 286
+      },
+      {
+        "motion": "Re-elect David Williams as chair of the Zoning Board of Appeals.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 418
+      },
+      {
+        "motion": "Re-elect Mike Robins as clerk of the Zoning Board of Appeals.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 469
+      },
+      {
+        "motion": "Continue the public hearing for 0 Northborough Road (Bartolini Properties LLC special permit) to September 16, 2026, at 7:15 PM.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1002
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A property owner asked how the proposed two-family bylaw would affect residential duplexes in industrial zones, specifically whether the dimensional and lot area requirements default to Residence B standards (25,000 square feet) or industrial standards, and expressed support for eliminating the two-year waiting period.",
+        "start_seconds": 1374
+      },
+      {
+        "summary": "A resident of Flagg Road and Planning Board member, speaking as a private citizen, asked how two-family dwellings differ practically and legally from accessory dwelling units, whether two-family units can be individually owned as condominiums, and whether including 'townhouse' in the definition could cause confusion.",
+        "start_seconds": 2231
+      },
+      {
+        "summary": "A resident of Main Street spoke in favor of town-wide zoning updates rather than focusing density only on the village center, and emphasized the need for clear definitions before measures reach Town Meeting floor.",
+        "start_seconds": 2990
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Zoning Board of Appeals continued public hearings for 40-42 Central Street (7:00 PM) and 0 Northborough Road (7:15 PM)",
+        "when": "September 16, 2026"
+      },
+      {
+        "what": "Zoning Board of Appeals regular meeting",
+        "when": "October 21, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:07:17Z",
+  "usage": {
+    "total_tokens": 136338,
+    "total_input_tokens": 132914,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 132221
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1978,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1446
+  }
+}

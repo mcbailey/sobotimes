@@ -1,0 +1,142 @@
+{
+  "week": "2026-07-06",
+  "fingerprint": "3325c93e6048a51a",
+  "topics": {
+    "-t0sUEo_dbo#0": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "-t0sUEo_dbo#1": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "-t0sUEo_dbo#2": {
+      "issue": "well-and-septic-regulations",
+      "category": "Health & human services"
+    },
+    "-t0sUEo_dbo#3": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "-t0sUEo_dbo#4": {
+      "issue": "cannabis-delivery-opt-out",
+      "category": "Health & human services"
+    },
+    "bn2YAjZbv5o#0": {
+      "issue": null,
+      "category": "Other"
+    },
+    "cAqiXBom0Vo#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "cAqiXBom0Vo#1": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "x1cmtN9mFTM#0": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "x1cmtN9mFTM#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "x1cmtN9mFTM#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "y2SA0f-wqgI#0": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "y2SA0f-wqgI#1": {
+      "issue": null,
+      "category": "Other"
+    },
+    "y2SA0f-wqgI#2": {
+      "issue": "transfer-station-fees-and-regulations",
+      "category": "Roads, water & infrastructure"
+    },
+    "y2SA0f-wqgI#3": {
+      "issue": "hopkinton-water-connection",
+      "category": "Roads, water & infrastructure"
+    },
+    "y2SA0f-wqgI#4": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "y2SA0f-wqgI#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "y2SA0f-wqgI#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "y2SA0f-wqgI#7": {
+      "issue": null,
+      "category": "Staffing & operations"
+    }
+  },
+  "upcoming": {
+    "-t0sUEo_dbo#u0": {
+      "date": "2026-08-11",
+      "issue": null
+    },
+    "-t0sUEo_dbo#u1": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "bn2YAjZbv5o#u0": {
+      "date": "2026-07-20",
+      "issue": null
+    },
+    "cAqiXBom0Vo#u0": {
+      "date": "2026-08-05",
+      "issue": "neary-school-building-project"
+    },
+    "cAqiXBom0Vo#u1": {
+      "date": "2026-08-19",
+      "issue": "neary-school-building-project"
+    },
+    "cAqiXBom0Vo#u2": {
+      "date": "2026-09-03",
+      "issue": "neary-school-building-project"
+    },
+    "cAqiXBom0Vo#u3": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "cAqiXBom0Vo#u4": {
+      "date": "2027-03-20",
+      "issue": "neary-school-building-project"
+    },
+    "x1cmtN9mFTM#u0": {
+      "date": "2026-07-24",
+      "issue": "classification-and-compensation-study"
+    },
+    "x1cmtN9mFTM#u1": {
+      "date": "2026-07-31",
+      "issue": "classification-and-compensation-study"
+    },
+    "x1cmtN9mFTM#u2": {
+      "date": "2026-08-07",
+      "issue": "classification-and-compensation-study"
+    },
+    "x1cmtN9mFTM#u3": {
+      "date": null,
+      "issue": "classification-and-compensation-study"
+    },
+    "y2SA0f-wqgI#u0": {
+      "date": "2026-07-23",
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "y2SA0f-wqgI#u1": {
+      "date": "2026-08-11",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:37:12Z"
+}

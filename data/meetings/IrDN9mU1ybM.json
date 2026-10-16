@@ -1,0 +1,290 @@
+{
+  "video": {
+    "id": "IrDN9mU1ybM",
+    "title": "Conservation Commission 6/25/26",
+    "published_at": "2026-06-26T14:32:02Z",
+    "duration_s": 6809
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Conservation Commission",
+    "meeting_date": "2026-06-25",
+    "headline": "Conservation Commission backs retaining a longtime volunteer on Stewardship and advances public trail and utility projects.",
+    "summary": "The Conservation Commission held public hearings on multiple projects, including a proposed Eagle Scout boardwalk and trail at 0 Valley Road that drew neighborhood concerns over parking and privacy. The commission approved an Order of Conditions for Massachusetts Electric utility pole installations and granted a Certificate of Compliance for a septic project on Brook Lane. The commission also voted to submit letters of support for Community Preservation Act funding for the Peninsula Trail bridge and to urge the Select Board to reappoint Freddie Gillespie to the Stewardship Committee.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission welcomed new member Cori Gould and approved meeting minutes from June 4, 2024.",
+        "key_details": [
+          "Cori Gould was officially sworn in and attended her first meeting.",
+          "Minutes from the June 4 meeting were approved with two abstentions."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: 0 Valley Road footbridge and trail",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "An Eagle Scout candidate presented plans to construct an approximately 30-foot wooden boardwalk and 1,000-foot trail connection on Southborough Open Land Foundation property off Valley Road. Abutters voiced significant concerns regarding traffic, on-street parking, lack of privacy, potential trespassing into residential yards, and disturbance to wildlife and wetlands. The commission noted it evaluates projects based strictly on wetlands protection standards and continued the hearing pending receipt of a state DEP file number.",
+        "key_details": [
+          "Location: 0 Valley Road, Map 48, Lot 7 (Southborough Open Land Foundation property).",
+          "Boardwalk planned at approximately 30 feet long with crossbeams every 8 feet, elevated above wetland soils.",
+          "Estimated project materials cost around $1,000, funded through Scout troop fundraising.",
+          "Abutters argued the road is narrow and unsuited for visitor parking.",
+          "Hearing continued because the state DEP file number had not yet been issued."
+        ],
+        "outcome": "Hearing continued to July 23, 2024.",
+        "why_it_matters": null,
+        "start_seconds": 160,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: 14 Newton Street garage, ADU, and septic",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Representative Vito Colonna presented a proposal to construct a three-car garage with an attached accessory dwelling unit (ADU), install a replacement septic system, and perform related site work. Portions of the work are within the 100-foot wetland buffer and 20-foot no-touch buffer, with roof runoff to be mitigated via a drywell system. The hearing was continued pending a DEP file number.",
+        "key_details": [
+          "Location: 14 Newton Street, Map 54, Parcel 49.",
+          "Proposal includes a three-bay garage and attached ADU for family members.",
+          "Proposed new impervious area is approximately 2,090 square feet, mitigated by an infiltration drywell.",
+          "Requires a local Board of Health variance for septic placement due to proximity to drainage tributaries.",
+          "Conservation agent noted existing yard debris in the rear that must be removed."
+        ],
+        "outcome": "Hearing continued to July 23, 2024.",
+        "why_it_matters": null,
+        "start_seconds": 3052,
+        "end_seconds": null
+      },
+      {
+        "title": "Certificate of Compliance: 6 Brook Lane",
+        "category": "Environment & conservation",
+        "importance": "low",
+        "summary": "The commission reviewed completed septic replacement work at 6 Brook Lane. Representatives clarified the disposition of existing foundation drains near the wetland edge.",
+        "key_details": [
+          "Location: 6 Brook Lane.",
+          "Work involved replacing a failed cesspool with a new septic system.",
+          "Old cesspool overflow pipe was removed, and foundation drains were rerouted around the septic field."
+        ],
+        "outcome": "Certificate of Compliance issued.",
+        "why_it_matters": null,
+        "start_seconds": 3644,
+        "end_seconds": null
+      },
+      {
+        "title": "Notice of Intent: Parkerville Road and Lynbrook Road utility poles",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "Massachusetts Electric Company sought approval to replace existing utility distribution poles and install two new poles in the road right-of-way, involving minimal displacement in bordering land subject to flooding. Having received the DEP file number with no substantive state objections, the commission closed the hearing and approved the Order of Conditions.",
+        "key_details": [
+          "Location: Parkerville Road and Lynbrook Road rights-of-way.",
+          "Project involves pole replacements and two new distribution poles.",
+          "Work in flood storage area considered de minimis roadside displacement."
+        ],
+        "outcome": "Hearing closed; Order of Conditions approved with standard conditions.",
+        "why_it_matters": null,
+        "start_seconds": 3891,
+        "end_seconds": null
+      },
+      {
+        "title": "Continued Notice of Intent: 250 Turnpike Road townhomes",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The applicant for a 32-unit townhome development provided a brief procedural update. The applicant plans to submit a revised filing covering the replication area, and peer review will begin once review fees are settled.",
+        "key_details": [
+          "Location: 250 Turnpike Road and 0 Parkerville Road.",
+          "Proposal entails 32 townhomes.",
+          "Revised submission anticipated by the end of June to prepare for peer review."
+        ],
+        "outcome": "Hearing continued to July 23, 2024.",
+        "why_it_matters": null,
+        "start_seconds": 4242,
+        "end_seconds": null
+      },
+      {
+        "title": "Continued Notice of Intent: 0 Southville Road apartments",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The commission continued the hearing for a proposed two-building apartment development at 0 Southville Road while awaiting revised materials and information from the applicant.",
+        "key_details": [
+          "Location: 0 Southville Road, Map 5, Lot 8.",
+          "Project proposes construction of two apartment buildings and site infrastructure.",
+          "Applicant had not yet submitted requested technical revisions."
+        ],
+        "outcome": "Hearing continued to July 23, 2024.",
+        "why_it_matters": null,
+        "start_seconds": 4460,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail bridge update and CPA support letter",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "A representative from the Trails Committee updated the commission on the Peninsula Trail project connecting to the Fayville Dam and Boroughs Loop. Because previous bids came in over budget, the committee scaled back the scope to remove the wetland boardwalk and focus exclusively on the footbridge. The commission voted unanimously to issue a letter supporting the committee's upcoming Community Preservation Act application.",
+        "key_details": [
+          "Project previously combined a bridge and boardwalk, but contractor bids were unaffordable.",
+          "The revised approach uses an upland trail detour, avoiding the boardwalk while keeping the bridge crossing.",
+          "Trails Committee will apply to the Community Preservation Committee and seek Town Meeting approval in the fall.",
+          "Work remains permitted under the existing active Notice of Intent."
+        ],
+        "outcome": "Voted 5-0 to issue a letter of support for the CPA application.",
+        "why_it_matters": null,
+        "start_seconds": 4810,
+        "end_seconds": null
+      },
+      {
+        "title": "Stewardship Committee membership and Select Board communication",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Stewardship Committee chair Joyce Greenleaf addressed the commission regarding the Select Board's decision not to reappoint Freddie Gillespie to the Open Space Preservation Commission, which caused Gillespie to lose her designated seat on Stewardship. Stewardship members requested that the Conservation Commission urge the Select Board to convert the seat to an at-large position, reappoint Gillespie, and oppose merging Open Space and Stewardship. Commissioners expressed strong support and voted to send a formal letter to the Select Board.",
+        "key_details": [
+          "The Select Board voted not to reappoint Freddie Gillespie to Open Space Preservation Commission.",
+          "The non-reappointment automatically removes Gillespie from the Stewardship Committee, which manages Breakneck Hill Farm.",
+          "Stewardship members highlighted Gillespie's leadership in pollinator habitat creation, invasive species control, and farm dump remediation.",
+          "Commissioners reiterated their opposition to consolidating the Stewardship Committee and Open Space Preservation Commission."
+        ],
+        "outcome": "Voted 5-0 to send a letter of support to the Select Board advocating for Gillespie's reappointment and preserving committee independence.",
+        "why_it_matters": null,
+        "start_seconds": 5465,
+        "end_seconds": null
+      },
+      {
+        "title": "Agent report and summer meeting calendar",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The conservation agent reviewed upcoming business and coordinated summer meeting dates to ensure a quorum.",
+        "key_details": [
+          "The commission canceled meetings scheduled for July 16 and August 6 due to member absences.",
+          "Upcoming summer meetings were scheduled for July 23 and August 27, 2024.",
+          "Agent reported recent sightings of black bears in Southborough."
+        ],
+        "outcome": "Summer schedule adjusted.",
+        "why_it_matters": null,
+        "start_seconds": 6205,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the meeting minutes of June 4, 2024",
+        "result": "passed",
+        "tally": "3-0-2",
+        "start_seconds": 136
+      },
+      {
+        "motion": "Continue the public hearing for 0 Valley Road to the next meeting",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3018
+      },
+      {
+        "motion": "Continue the public hearing for 14 Newton Street to the next meeting",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3602
+      },
+      {
+        "motion": "Issue a Certificate of Compliance for 6 Brook Lane",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3852
+      },
+      {
+        "motion": "Close the public hearing for Parkerville Road and Lynbrook Road",
+        "result": "passed",
+        "tally": "4-0-1",
+        "start_seconds": 4098
+      },
+      {
+        "motion": "Issue a standard Order of Conditions for Parkerville Road and Lynbrook Road",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4204
+      },
+      {
+        "motion": "Continue the public hearing for 250 Turnpike Road to the next meeting",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4414
+      },
+      {
+        "motion": "Continue the public hearing for 0 Southville Road to the next meeting",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 4773
+      },
+      {
+        "motion": "Issue a letter of support for the Trails Committee Community Preservation Act application for the Peninsula Trail bridge",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5430
+      },
+      {
+        "motion": "Send a letter to the Select Board supporting the redesignation of the Stewardship seat to at-large, the reappointment of Freddie Gillespie, and the preservation of the Stewardship Committee mission",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6163
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A representative of the Southborough Open Land Foundation spoke in favor of the proposed boardwalk and trail at 0 Valley Road, noting that the foundation's mission includes providing passive recreation.",
+        "start_seconds": 591
+      },
+      {
+        "summary": "A resident of Valley Road opposed the proposed trail and boardwalk at 0 Valley Road, arguing that it would attract outside traffic, cause illegal parking on a narrow road, invade abutter privacy, cause trespassing, create fire hazards from discarded cigarettes, and disrupt wildlife.",
+        "start_seconds": 620
+      },
+      {
+        "summary": "An abutter on Valley Road expressed concern that there is no safe parking for visitors to 0 Valley Road, stating the street is very narrow and cars frequently park on residential frontages.",
+        "start_seconds": 2205
+      },
+      {
+        "summary": "An abutter on Newton Street asked for clarification on whether the proposed hearing for 0 Southville Road on July 16 would require submissions by July 9 so neighbors would have adequate time to review technical documents.",
+        "start_seconds": 4593
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Continued hearings for 0 Valley Road, 14 Newton Street, 250 Turnpike Road, and 0 Southville Road",
+        "when": "July 23, 2024"
+      },
+      {
+        "what": "Next regular meeting of the Conservation Commission",
+        "when": "July 23, 2024"
+      },
+      {
+        "what": "Subsequent summer meeting of the Conservation Commission",
+        "when": "August 27, 2024"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:54:14Z",
+  "usage": {
+    "total_tokens": 265269,
+    "total_input_tokens": 260796,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 260103
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3442,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1031
+  }
+}

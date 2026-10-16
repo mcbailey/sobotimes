@@ -1,0 +1,220 @@
+{
+  "video": {
+    "id": "Z4yuMDzSo_o",
+    "title": "Select Board Meeting 4/28/26",
+    "published_at": "2026-04-29T13:08:36Z",
+    "duration_s": 8462
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-04-28",
+    "headline": "The Select Board reviewed Route 9 wastewater financing, evaluated OPEB liabilities, approved two town financial policies, and extended the wastewater committee charge.",
+    "summary": "The Select Board met to hear an actuarial presentation on Southborough's Other Post-Employment Benefits (OPEB) funding status and explored long-term contribution strategies. The board also received a progress report from the Regional Wastewater Planning Committee on a potential $40 million to $50 million Route 9 sewer system, voting to extend the committee's charge through June 2027. Additionally, the board adopted an updated Senior Tax Work-Off Policy, approved a comprehensive Grants Management Policy, and signed the Annual Town Election warrant.",
+    "topics": [
+      {
+        "title": "Pole petition for 361 Turnpike Road",
+        "category": "Roads & infrastructure",
+        "importance": "low",
+        "summary": "The board opened a public hearing on a joint petition from Massachusetts Electric Company and National Grid to install a new utility pole at 361 Turnpike Road. A National Grid representative explained the new pole is needed to provide electric service to a new commercial building for Valvoline.",
+        "key_details": [
+          "Petition requested installation of pole 43-1 across the street to serve 361 Turnpike Road.",
+          "The pole provides direct electric service for a newly constructed commercial facility.",
+          "No public opposition or questions were raised during the hearing."
+        ],
+        "outcome": "Approved following the close of the public hearing.",
+        "why_it_matters": null,
+        "start_seconds": 316,
+        "end_seconds": null
+      },
+      {
+        "title": "OPEB actuarial valuation and funding strategy",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Linda Bournival of KMS Actuaries presented an educational overview of the town's Other Post-Employment Benefits (OPEB) liability, trust assets, and discount rates. The board discussed Southborough's funded ratio compared to neighboring communities and considered long-term funding strategies, including the possibility of redirecting pension catch-up appropriations toward OPEB once the Worcester Regional Retirement System reaches full funding around 2036.",
+        "key_details": [
+          "Southborough currently appropriates $250,000 annually into its OPEB trust fund in addition to pay-as-you-go retiree health premiums.",
+          "The town's OPEB trust fund holds approximately $4.5 million, reflecting a funded ratio of roughly 8 percent.",
+          "Worcester Regional Retirement assessments currently increase about 10 to 11.7 percent annually and are scheduled to be fully funded by 2036.",
+          "When the regional retirement system is fully funded, approximately $7.5 million in annual catch-up payments could theoretically become available for reallocation.",
+          "Actuaries will model various scenario projections, such as aiming for an 80 percent or 100 percent funded status by target years."
+        ],
+        "outcome": "Discussion only; the board agreed to have the actuary model multiple future contribution scenarios.",
+        "why_it_matters": "OPEB obligations represent tens of millions of dollars in unfunded municipal liabilities that directly influence the town's bond ratings and long-term tax requirements.",
+        "start_seconds": 504,
+        "end_seconds": null
+      },
+      {
+        "title": "Route 9 wastewater system update and committee extension",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The Regional Wastewater Planning Committee presented a status report on plans to establish a municipal wastewater system serving the Route 9 commercial corridor. Committee members discussed technical requirements, including an estimated project cost between $40 million and $50 million, the need for a 15- to 20-acre leaching area, and a proposed District Improvement Financing (DIF) plan targeted for the fall Special Town Meeting.",
+        "key_details": [
+          "The projected system requires handling 300,000 to 500,000 gallons per day to support Route 9 commercial development.",
+          "Total estimated project capital cost is between $40 million and $50 million, modeled after Littleton's recent system.",
+          "Because EPA rules prevent new surface water discharge into local rivers, the town must locate 15 to 20 acres for ground discharge leaching fields.",
+          "The proposed DIF district would span roughly 1,600 acres across 600 parcels with an existing assessed value of about $800 million, capturing incremental tax revenue to pay debt service.",
+          "The town missed out on a state One Stop grant because the project lacked a secured site and advanced engineering, prompting the committee to consider seeking design funds at fall Special Town Meeting."
+        ],
+        "outcome": "The board voted 4-0-1 to extend the charge of the Regional Wastewater Planning Committee through June 30, 2027.",
+        "why_it_matters": "A $40 million to $50 million Route 9 wastewater system would unlock commercial development along the highway and would require voter approval for a special property tax allocation district.",
+        "start_seconds": 5390,
+        "end_seconds": null
+      },
+      {
+        "title": "Town administrative and committee reports",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board heard updates regarding community services, health insurance open enrollment, and regional emergency dispatch. The town administrator noted the regional dispatch district is preparing for short-term bond financing to fund construction, while a board member reported that open enrollment includes a high-deductible health plan that could generate substantial municipal savings if adopted widely.",
+        "key_details": [
+          "Margery Coldwell retired after 25 years as volunteer coordinator of the Southborough Food Pantry and was recognized with a town proclamation.",
+          "Health insurance open enrollment for FY27 starts in May, with an employee health fair scheduled for Wednesday, May 6, from 1:00 p.m. to 4:00 p.m. at the Senior Center.",
+          "Southborough Town Scholarship applications are due to the Building Department by Thursday, May 7, at 4:00 p.m.",
+          "The Regional Emergency Communication Center (RECC) Board of Directors hired bond counsel and a financial advisor to prepare a short-term bond issuance ahead of a July 1 construction start and an anticipated October 2027 operational date.",
+          "Any RECC bond issuance must be formally recommended by its finance committee and approved by each member town's select board."
+        ],
+        "outcome": "Informational updates; no formal votes required.",
+        "why_it_matters": null,
+        "start_seconds": 6773,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board addressed regular administrative matters, including consent agenda approvals, edits to past meeting minutes, an administrative staff appointment, and signing the election warrant. Board members clarified that $25 million in infrastructure borrowing on the election ballot was divided into two distinct debt exclusion questions separating road paving from sidewalk projects.",
+        "key_details": [
+          "Approved the appointment of a business administrator for Youth and Family Services.",
+          "Approved consent agenda items B, C, F, and G.",
+          "Approved amended meeting minutes for March 31, 2026, and April 7, 2026.",
+          "Approved the warrant for the 2026 Annual Town Election.",
+          "Clarified that the election ballot will feature four debt exclusion questions, including separate questions for four specific sidewalk projects and a multi-year road repair program."
+        ],
+        "outcome": "All routine motions approved.",
+        "why_it_matters": null,
+        "start_seconds": 7284,
+        "end_seconds": null
+      },
+      {
+        "title": "Senior Tax Work-Off and Grants Management policies",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The board reviewed and adopted two financial policies. Revisions to the Senior Tax Work-Off Policy updated eligibility rules and expanded the program to 40 positions, while a newly drafted Grants Management Policy established municipal oversight and approval procedures to ensure grants do not create unfunded operating expenses or ongoing personnel costs.",
+        "key_details": [
+          "The Senior Tax Work-Off Policy was updated to remove specific dollar figures, allow income-eligible participants from other programs to automatically qualify, and eliminate an age-18 restriction for designated helpers.",
+          "The board set the authorized number of Senior Tax Work-Off participant positions at 40, up from the previous cap of 30.",
+          "The new Grants Management Policy establishes a tracking sheet managed by the town accountant for all grant applications and awards.",
+          "Grants that require town matching funds, create ongoing full-time equivalent (FTE) personnel, impact employee benefits, or require capital purchases over $10,000 must receive advance approval from the Select Board or School Committee."
+        ],
+        "outcome": "The Senior Tax Work-Off Policy and 40-slot allocation were approved unanimously; the Grants Management Policy was approved unanimously with minor clerical corrections.",
+        "why_it_matters": null,
+        "start_seconds": 7592,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Close the public hearing on the pole petition for 361 Turnpike Road",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 476
+      },
+      {
+        "motion": "Approve the pole petition for installation of a new pole at 361 Turnpike Road",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 488
+      },
+      {
+        "motion": "Approve the appointment of the Youth and Family Services Business Administrator",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 5313
+      },
+      {
+        "motion": "Extend the charge of the Regional Wastewater Planning Committee to June 30, 2027",
+        "result": "passed",
+        "tally": "4-0-1",
+        "start_seconds": 6581
+      },
+      {
+        "motion": "Approve consent agenda items B, C, F, and G",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7310
+      },
+      {
+        "motion": "Approve the warrant for the 2026 Annual Town Election",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7586
+      },
+      {
+        "motion": "Accept the revised Senior Tax Work-Off Policy",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7860
+      },
+      {
+        "motion": "Set the number of available positions under the Senior Tax Work-Off Policy at 40",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 7883
+      },
+      {
+        "motion": "Approve the Grants Management Financial Policy as amended",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 8437
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A member of the public began addressing the board regarding grant management before the broadcast abruptly ended.",
+        "start_seconds": 8455
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Town employee and retiree health care fair at the Senior Center",
+        "when": "May 6, 2026, 1:00 p.m. to 4:00 p.m."
+      },
+      {
+        "what": "Deadline to submit Southborough Town Scholarship applications",
+        "when": "May 7, 2026, by 4:00 p.m."
+      },
+      {
+        "what": "Anticipated presentation of Route 9 wastewater District Improvement Financing (DIF) plan at Special Town Meeting",
+        "when": "Fall 2026"
+      },
+      {
+        "what": "Board review of potential short-term borrowing for the Regional Emergency Communication Center",
+        "when": "Next few weeks"
+      }
+    ],
+    "caveats": "The recording ends abruptly at 2:21:03 while a member of the public was speaking during public comment."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-16T00:00:39Z",
+  "usage": {
+    "total_tokens": 333564,
+    "total_input_tokens": 323908,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 323214
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2992,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 6664
+  }
+}

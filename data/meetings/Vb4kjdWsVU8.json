@@ -1,0 +1,106 @@
+{
+  "video": {
+    "id": "Vb4kjdWsVU8",
+    "title": "Capital Improvement & Planning Committee 6/24/26",
+    "published_at": "2026-06-24T20:31:41Z",
+    "duration_s": 3016
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Capital Improvement and Planning Committee",
+    "meeting_date": "2026-06-24",
+    "headline": "The committee endorsed the police drone program as a capital priority but deferred year-end funding policy decisions to the Select Board.",
+    "summary": "The Capital Improvement and Planning Committee considered an expedited request from the police chief to fund a five-year, $105,000 drone program using surplus fiscal year 2026 operating funds. While members supported the operational necessity of the drone program, they voted to send the funding mechanism to the Select Board for financial policy review rather than approving the transfer directly. The committee also outlined initial plans and timelines for the upcoming fiscal year 2027 capital budget cycle.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved the meeting minutes from March 18, 2026.",
+        "key_details": [
+          "Minutes from March 18, 2026 approved."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 26,
+        "end_seconds": null
+      },
+      {
+        "title": "Police Department drone program capital request",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "Police Chief Ryan Newell presented a proposal to launch a department drone program using $105,000 in unspent fiscal year 2026 personnel funds before the fiscal year concludes. The five-year package through Axon includes hardware, software, maintenance, training, and a mid-contract equipment refresh. Committee members debated the financial policy implications of utilizing operating budget surplus to fund a major capital acquisition rather than letting funds close out to free cash for a Town Meeting vote.",
+        "key_details": [
+          "Program cost is $105,000 for a five-year contract with Axon Enterprise.",
+          "Funded by transferring surplus salary funds to expenses at year-end.",
+          "The chief noted nine recent incidents where Southborough requested drone assistance from neighboring towns.",
+          "The department currently has two certified operators and plans to train additional shift officers.",
+          "Town Administrator Mark Purple indicated the Select Board would need to review and authorize the financial policy decision."
+        ],
+        "outcome": "Voted 3-0 to support the drone program as an immediate safety priority on the capital plan while recommending the Select Board conduct a financial policy review regarding the funding source and timing.",
+        "why_it_matters": "The decision balances emergency public safety response capabilities with town financial policies governing capital purchases and Town Meeting oversight.",
+        "start_seconds": 71,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 capital planning process",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed preliminary planning for the fiscal year 2027 capital budget cycle. The chair proposed notifying department heads prior to July 4 to prepare proposals ahead of a late-summer deadline. Members discussed tightening submission requirements to require justifications for major cost increases and improving strategic alignment with the Select Board.",
+        "key_details": [
+          "Advance notice to department heads planned ahead of July 4th.",
+          "Committee plans to meet in July to revise capital request forms and submission instructions.",
+          "Members emphasized the need to hold departments accountable to long-term projections to avoid sudden budget jumps.",
+          "Submission deadline will likely be scheduled around Labor Day or late September."
+        ],
+        "outcome": "Discussion only; committee agreed to send an advance notification email to department heads.",
+        "why_it_matters": null,
+        "start_seconds": 2206,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Support the drone program as an immediate priority for community safety on the capital plan, with funding allocations, timing, and funding sources subject to a financial policy review by the Select Board.",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 2170
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting to review and decide on the police department drone program funding request",
+        "when": "June 29, 2026 at 8:30 AM"
+      },
+      {
+        "what": "Capital Improvement and Planning Committee meeting to review FY27 submission formats and procedures",
+        "when": "July 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:56:04Z",
+  "usage": {
+    "total_tokens": 117819,
+    "total_input_tokens": 115884,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 115191
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1086,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 849
+  }
+}

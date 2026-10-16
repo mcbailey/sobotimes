@@ -1,0 +1,103 @@
+{
+  "headline": "Southborough officials prepared for a potential FY28 budget override, authorized health insurance negotiations, and voted to allow retail marijuana home delivery.",
+  "synopsis": "The Select Board and Advisory Committee set dual FY28 budget directives to prepare for an anticipated operating deficit exceeding $2 million, while also adopting state statutes to negotiate town employee health insurance design changes. In addition, the Select Board rejected an opt-out waiver, thereby allowing state-licensed retail marijuana home deliveries to adult residents. The Zoning Board of Appeals held a public forum on proposed bylaw changes to ease conversions to two-family dwellings ahead of Town Meeting. Meanwhile, the Board of Health voted to deny an operating permit to Jojo Bodywork and approved septic relief for an accessory dwelling unit on Newton Street.",
+  "highlights": [
+    {
+      "title": "FY28 budget directives and potential tax override",
+      "why": "With an anticipated budget deficit exceeding $2 million and only $700,000 in excess levy capacity, departments must submit two operating plans: one for level services and one showing cuts to avoid an override.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "YVXhyk05YQ8",
+      "start_seconds": 3708
+    },
+    {
+      "title": "Retail marijuana home delivery permitted",
+      "why": "The Select Board rejected a two-year municipal opt-out waiver in a 1-4 vote, allowing state-licensed retail couriers to deliver cannabis products directly to adult residents.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "YVXhyk05YQ8",
+      "start_seconds": 12434
+    },
+    {
+      "title": "Employee health insurance negotiation statutes adopted",
+      "why": "The Select Board unanimously adopted Massachusetts General Law Chapter 32B, Sections 21 through 23, allowing Southborough to enter formal negotiations with employee representatives to restructure municipal health plans and reduce premium costs.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "YVXhyk05YQ8",
+      "start_seconds": 10546
+    },
+    {
+      "title": "Public forum on two-family dwelling zoning bylaw",
+      "why": "The Zoning Board of Appeals reviewed draft warrant amendments that would remove the two-year waiting period to convert existing structures into two-family homes while retaining special permit oversight.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "FEB1UdYQ72U",
+      "start_seconds": 1023
+    },
+    {
+      "title": "Jojo Bodywork establishment license denied",
+      "why": "The Board of Health voted unanimously to deny an operating license for 3 Turnpike Road after repeated noncompliance, uncertified practitioners, and operations during a cease-and-desist order.",
+      "body": "Board of Health",
+      "importance": "high",
+      "video_id": "o_6wQ5qmpYY",
+      "start_seconds": 1856
+    },
+    {
+      "title": "Stormwater Enterprise Fund proposal review",
+      "why": "The Select Board reviewed a model to fund stormwater management through impervious surface fees rather than property taxes, which would shift roughly 30 percent of program expenses off single-family residential parcels.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "YVXhyk05YQ8",
+      "start_seconds": 1963
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Neary School Building Committee meeting",
+      "when": "August 19, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Next regular Library Board of Trustees meeting and vote on mobile hotspot lending policy",
+      "when": "September 14, 2026 at 11:00 a.m.",
+      "body": "Library Board of Trustees"
+    },
+    {
+      "what": "Board of Health meeting to review revised enforcement policies",
+      "when": "September 15, 2026",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Continued public hearings for 40-42 Central Street and 0 Northborough Road",
+      "when": "September 16, 2026",
+      "body": "Zoning Board of Appeals"
+    },
+    {
+      "what": "Next regular Tricentennial Committee meeting",
+      "when": "September 16, 2026",
+      "body": "Tricentennial Committee"
+    },
+    {
+      "what": "FY28 departmental budget submissions deadline to Select Board office",
+      "when": "October 13, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Special Town Meeting",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-08-10",
+  "fingerprint": "8caeee540654e585",
+  "video_ids": [
+    "-pJx0xWc2YM",
+    "FEB1UdYQ72U",
+    "YVXhyk05YQ8",
+    "cZVXi44YTi8",
+    "o_6wQ5qmpYY",
+    "tvbRz-2SMEI"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:05:38Z"
+}

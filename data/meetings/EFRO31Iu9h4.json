@@ -1,0 +1,115 @@
+{
+  "video": {
+    "id": "EFRO31Iu9h4",
+    "title": "Elementary School Building Committee 8/6/26",
+    "published_at": "2026-08-07T12:42:31Z",
+    "duration_s": 3724
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-08-06",
+    "headline": "Architects presented three initial renovation and addition design options for Neary Elementary School, targeting a March 2027 Town Meeting vote.",
+    "summary": "Tappé Architects presented three preliminary concept designs for modernizing Neary Elementary School to accommodate grades 4 and 5, ranging from interior renovations to courtyard infill additions. Committee members discussed the future of district administration offices, gym size and community after-hours access, and requested an additional option exploring a standalone gymnasium. The architects also reviewed proposed geotechnical and environmental testing fees totaling $27,400 to prepare for future site work.",
+    "topics": [
+      {
+        "title": "Neary School renovation and addition design options",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Tappé Architects outlined three preliminary architectural concepts for Neary Elementary School based on educational planning for grades 4 and 5 with an enrollment target of up to 345 students. Option 1 provides a minimal interior renovation while removing the aged modular classrooms; Option 2 reallocates the district office space to create distinct grade-level wings; and Option 3 proposes infilling the interior courtyard to build a full-size gymnasium and adding a new secure main entrance and administrative suite. Committee members discussed potential district office relocation, construction phasing, after-hours community use, and requested a fourth option placing a gymnasium as an exterior addition.",
+        "key_details": [
+          "Project targets presentation at Town Meeting in March 2027.",
+          "School design accommodates grades 4 and 5 with 16 to 22 students per class, current enrollment is 294 and ceiling projection is 345.",
+          "Option 1 removes modulars and provides 8 classrooms per grade but lacks space for world language and dedicated teacher planning.",
+          "Option 2 relocates central district offices out of the school to create separate grade 4 and 5 neighborhoods around a central specials core.",
+          "Option 3 infills the courtyard for a 450-seat full-size gym with divider curtains and adds a new secure front entry and administration suite."
+        ],
+        "outcome": "Architects will develop an Option 4 exploring an exterior standalone gym addition and incorporate space efficiency data for the next meeting.",
+        "why_it_matters": "The chosen design will determine the educational configuration, building footprint, and capital costs for Southborough's elementary school project submitted for taxpayer approval.",
+        "start_seconds": 164,
+        "end_seconds": null
+      },
+      {
+        "title": "Geotechnical and environmental site testing proposal",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Architects shared a proposal from Weston & Sampson for geotechnical drilling and environmental testing around the Neary School site. The proposed scope includes base geotechnical borings and soil analysis to assess foundation bearing capacity, as well as optional environmental testing to check records related to a 1990s oil tank removal. The committee reviewed the information in preparation for future cost estimation and testing authorization.",
+        "key_details": [
+          "Base geotechnical exploration fee proposed at $17,900, covering field observation, drilling subcontractors, and lab testing.",
+          "Optional environmental scope proposed at $9,500, covering historical site review, soil analytical testing, and reporting.",
+          "Drilling would include exterior borings near the entrance and hand-auger testing inside the courtyard.",
+          "Environmental testing would confirm historical records and cleanup verification from a removed fuel oil tank."
+        ],
+        "outcome": "Presented as an informational update; formal authorization will be considered at a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 2865,
+        "end_seconds": null
+      },
+      {
+        "title": "Existing building 3D laser scan and project next steps",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Architects reported completing initial 3D laser scanning of the interior of Neary School to produce accurate computer-aided models for renovation planning. The committee also outlined upcoming milestones, including a School Committee update in September, executive session discussions on safety with emergency responders, and a draft 10-year capital maintenance schedule.",
+        "key_details": [
+          "3D scans capture existing physical dimensions and conditions to minimize need for repeated on-site surveys.",
+          "A first pass at a 10-year maintenance plan will be presented at the August 19 meeting.",
+          "An update to the School Committee is planned for September.",
+          "A joint executive session with local police and fire officials regarding building security is anticipated in October."
+        ],
+        "outcome": "The committee scheduled its next meeting for August 19, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 3280,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident of Woodland Road noted that across the proposed plans, noisy facilities such as the gymnasium, band room, and cafeteria remain adjacent to quiet learning spaces like classrooms and the library, urging the committee and designers to evaluate acoustic management or consider grouping noisy facilities together along the perimeter.",
+        "start_seconds": 3581
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Elementary School Building Committee meeting to review 10-year maintenance plan and Option 4 design",
+        "when": "August 19, 2026"
+      },
+      {
+        "what": "School Committee project update",
+        "when": "September 2026"
+      },
+      {
+        "what": "Executive session on school security with first responders",
+        "when": "October 2026"
+      },
+      {
+        "what": "Target Southborough Town Meeting vote on elementary school building project",
+        "when": "March 20, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:19:05Z",
+  "usage": {
+    "total_tokens": 145545,
+    "total_input_tokens": 142962,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 142270
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1393,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1190
+  }
+}

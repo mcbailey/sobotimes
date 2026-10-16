@@ -1,0 +1,140 @@
+{
+  "video": {
+    "id": "uSBMTe-eKjk",
+    "title": "Advisory Committee 8/5/26",
+    "published_at": "2026-08-06T13:05:02Z",
+    "duration_s": 6899
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Advisory Committee",
+    "meeting_date": "2026-08-05",
+    "headline": "Advisory Committee debates budget policies, override strategies, and appoints a liaison to the Neary School Building Committee.",
+    "summary": "The Advisory Committee conducted line-by-line revisions of the town draft annual budget process policy and reserve fund transfer procedures. Members prepared recommendations for an upcoming joint session with the Select Board regarding multi-year budget forecasts and potential operating override options, emphasizing hiring freezes and expenditure controls. The committee also appointed a member to serve as liaison to the Neary School Building Committee.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved meeting minutes from March 10, March 16, March 25, and April 6, 2020. Later in the meeting, the chair provided brief updates regarding tentative upcoming Town Meeting dates before adjourning.",
+        "key_details": [
+          "Approved meeting minutes for March 10, March 16, March 25, and April 6, 2020.",
+          "Noted tentative Town Meeting dates of October 17, 2020, and March 20, 2021."
+        ],
+        "outcome": "Minutes approved 5-0 with one abstention.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual budget process policy review",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed proposed revisions to the draft annual budget process policy, which defines the responsibilities of the Select Board, town administration, and Advisory Committee. Members debated whether Advisory's duty is to develop the budget or independently evaluate, modify, present, and defend a balanced budget at Town Meeting. The committee also discussed policies concerning stabilization funds, free cash usage, and formal options to evaluate when forecasted expenses exceed projected revenues.",
+        "key_details": [
+          "Clarified that the Select Board establishes overall policy direction while the Advisory Committee recommends and presents the final town budget on the floor of Town Meeting.",
+          "Debated the appropriate use of free cash versus stabilization funds to balance annual operating budgets.",
+          "Added a list of specific cost-containment measures to evaluate in budget deficit scenarios, including service cuts, capital reductions, hiring freezes, and overrides.",
+          "Agreed to remove an extensive appendix of statute citations in favor of streamlined references."
+        ],
+        "outcome": "Edits incorporated into a revised draft to be finalized and shared with the Select Board.",
+        "why_it_matters": "The budget process policy establishes the ground rules for how town departments develop spending requests and how taxpayer money is budgeted each year.",
+        "start_seconds": 160,
+        "end_seconds": null
+      },
+      {
+        "title": "Reserve fund transfer procedure and guidelines",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Members reviewed the town's written guidelines and transfer request procedure for the Advisory Committee reserve fund. Discussions focused on clarifying the process so that requests are vetted by the town administrator for alternative funding sources before reaching the committee. The committee also tightened rules to prevent reserve funds from being used to reimburse previously paid or encumbered expenses.",
+        "key_details": [
+          "Added requirement that if a transfer request involves a capital item, it must also be forwarded to the Capital Improvement Planning Committee.",
+          "Reiterated that reserve fund transfers are legally restricted to extraordinary and unforeseen expenses.",
+          "Specified that requests must be submitted for future expenditures rather than retroactive reimbursements."
+        ],
+        "outcome": "Revisions incorporated into a clean working draft for final approval at a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 3730,
+        "end_seconds": null
+      },
+      {
+        "title": "Budget projections and potential override strategy",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee prepared for an upcoming joint meeting with the Select Board to discuss long-term budget modeling and a potential operating override. Members expressed caution about seeking large multi-year overrides and advocated for stricter fiscal controls, including examining departmental vacancies before approving backfills and considering an immediate hiring freeze. The committee also noted the possibility of state-approved borrowing mechanisms for unfunded pension liabilities as an alternative to relieve levy pressure.",
+        "key_details": [
+          "Finance Director Brian Ballantine is preparing multi-year budget projections covering FY21 through FY24.",
+          "Members discussed pros and cons of a single-year override versus a phased multi-year override.",
+          "Committee discussed recommending a hiring freeze and requiring executive approval before backfilling vacated staff positions.",
+          "Discussed exploring legislative debt exclusion borrowing to cover unfunded pension liabilities."
+        ],
+        "outcome": "The chair will draft a talking points document reflecting the committee's priorities for the joint meeting.",
+        "why_it_matters": "A potential operating override would directly increase property taxes beyond Proposition 2 1/2 limits to fund ongoing town and school operations.",
+        "start_seconds": 5450,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School Building Committee liaison",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee discussed designating a liaison to track the progress, finances, and options considered by the Neary School Building Committee. Member Erik Glaser volunteered to serve as the liaison and report back on developments.",
+        "key_details": [
+          "Clarified that Advisory member Andrew Fahey serves as an at-large member of the building committee rather than a formal Advisory liaison.",
+          "Agreed that having a dedicated liaison will ensure Advisory remains informed on potential building options and warrant articles.",
+          "Planned to invite school building project representatives for periodic briefings."
+        ],
+        "outcome": "Voted 6-0 to appoint member Erik Glaser as Advisory Committee liaison to the Neary School Building Committee.",
+        "why_it_matters": null,
+        "start_seconds": 6210,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Erik Glaser as Advisory Committee liaison to the Neary School Building Committee",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 6642
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Joint meeting with the Select Board regarding budget projections and potential override",
+        "when": "August 11, 2020"
+      },
+      {
+        "what": "Tentative Special Town Meeting",
+        "when": "October 17, 2020"
+      },
+      {
+        "what": "Tentative Annual Town Meeting",
+        "when": "March 20, 2021"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:20:29Z",
+  "usage": {
+    "total_tokens": 269005,
+    "total_input_tokens": 264239,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 263548
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1628,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3138
+  }
+}

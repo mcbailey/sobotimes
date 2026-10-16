@@ -1,0 +1,142 @@
+{
+  "video": {
+    "id": "LflS54Arapc",
+    "title": "Municipal Technology Committee 5/11/26",
+    "published_at": "2026-05-12T13:07:52Z",
+    "duration_s": 4631
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-05-11",
+    "headline": "The Municipal Technology Committee reviewed updates to the town five-year technology strategy, focusing on practical AI tools and citizen reporting workflows.",
+    "summary": "The Municipal Technology Committee discussed progress on tech upgrades in the McAuliffe Hearing Room, including troubleshooting Zoom webinar configurations. Members debated introducing digital citizen request tools such as SeeClickFix to improve two-way communication with the Department of Public Works and other departments. The committee also reviewed Major Revision 6.0 of the five-year Technology Strategy, which highlights recent infrastructure achievements and outlines near-term artificial intelligence opportunities for town staff productivity and resident services.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair called the meeting to order at 6:33 PM and the committee voted to accept the minutes from the April meeting as presented.",
+        "key_details": [
+          "Meeting opened at 6:33 PM with a quorum present.",
+          "Minutes from the April 2026 meeting were reviewed."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 3,
+        "end_seconds": null
+      },
+      {
+        "title": "Town website feedback and analytics",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee noted that no resident feedback submissions on town services have been received through the website pop-up widget since March. Members discussed investigating landing page analytics and SurveyMonkey settings to ensure the widget is appearing properly to visitors.",
+        "key_details": [
+          "No resident service feedback received through the website prompt since March.",
+          "Members questioned whether cookies prevent repeat pop-ups or if internal pages display the prompt.",
+          "The chair agreed to check if landing page impressions can be recorded."
+        ],
+        "outcome": "The chair will investigate tracking stats for survey impressions.",
+        "why_it_matters": null,
+        "start_seconds": 101,
+        "end_seconds": null
+      },
+      {
+        "title": "McAuliffe Hearing Room audiovisual upgrades",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The chair provided an update on hardware and software upgrades in the McAuliffe Hearing Room at the Town House. Upgrades include a wide presentation screen showing meeting content alongside remote attendees, new desk monitors, ceiling microphones, and four 4K cameras. Technicians are resolving two remaining issues: configuring the room control panels to support Zoom webinars rather than standard Zoom meetings, and refining the Zoom Intelligent Director framing feature.",
+        "key_details": [
+          "McAuliffe Hearing Room in the Town House is being outfitted for self-service hybrid meetings.",
+          "Single center projection screen was replaced with a wide display capable of showing content and remote attendees side by side.",
+          "Four 4K cameras were installed, three facing the dais and one facing the audience, along with ceiling microphone arrays.",
+          "Configuration hurdles remain regarding Zoom webinar controls and the Zoom Intelligent Director camera framing feature."
+        ],
+        "outcome": "Staff and vendors will continue configuration and troubleshooting.",
+        "why_it_matters": null,
+        "start_seconds": 232,
+        "end_seconds": null
+      },
+      {
+        "title": "Citizen service request reporting and department workflows",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed feedback from the Department of Public Works regarding student proposals to implement a citizen reporting tool like SeeClickFix. DPW indicated past reservations about managing ticket volumes and preferred phone communication, while committee members emphasized that digital tools provide transparency, eliminate redundant calls for common issues like potholes, and align with annual survey requests for improved town communication. The chair demonstrated live examples from Marlborough and Framingham, which use SeeClickFix for public works, trees, and code issues.",
+        "key_details": [
+          "DPW had previously evaluated SeeClickFix and preferred direct resident phone calls to gather context.",
+          "Marlborough and Framingham actively use SeeClickFix for road hazards, tree concerns, and trash issues.",
+          "Recent town survey results indicated resident and employee frustration with communication and tracking, ranking land use permitting and board approvals as the highest-priority processes to streamline.",
+          "Members discussed coordinating with DPW to understand their existing internal logging system and explore how mobile reporting can reduce staff workloads."
+        ],
+        "outcome": "Members will coordinate outreach with the DPW director to assess existing request-logging systems.",
+        "why_it_matters": null,
+        "start_seconds": 520,
+        "end_seconds": null
+      },
+      {
+        "title": "Department liaison assignments",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Committee members reviewed their departmental outreach assignments to facilitate tech strategy alignment and gather process improvement feedback. Yash Ukidave transitioned from the Assessors Office to support Planning, the Zoning Board of Appeals, and Building and Zoning, while Megan Handley was assigned outreach to Capital Planning, Conservation, and Schools administration technology.",
+        "key_details": [
+          "Liaisons act as points of contact between municipal departments and the technology committee.",
+          "Planning and zoning departments were noted as key focus areas for process modernization.",
+          "Liaisons will share department-specific results from the 2025 town survey."
+        ],
+        "outcome": "Department liaison assignments were adjusted and updated.",
+        "why_it_matters": null,
+        "start_seconds": 2040,
+        "end_seconds": null
+      },
+      {
+        "title": "Five-year Technology Strategy revision and AI opportunities",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Angela Varner presented Major Revision 6.0 of the Southborough Municipal Technology Strategy covering 2026 through 2030. The draft details recent tech achievements including website modernization, public Wi-Fi upgrades, hybrid meeting technology, and cloud migrations, while adding sections on practical, low-cost artificial intelligence use cases for staff productivity and resident services. The committee also reviewed new AI capabilities announced by website vendor CivicPlus and discussed establishing regular quarterly updates with the Select Board and town administrator.",
+        "key_details": [
+          "Draft covers technology roadmap from 2026 to 2030.",
+          "Identified practical AI applications including document drafting, meeting transcription, automated translations, and natural-language website search.",
+          "Outlined guardrails requiring human review of AI-generated content, privacy protections preventing entry of confidential data into public models, and clear transparency notices.",
+          "CivicPlus is rolling out integrated AI capabilities for municipal websites, meeting management, and SeeClickFix photo categorization.",
+          "The committee plans to share the draft strategy and survey data with department heads and seek regular quarterly briefings with the Select Board."
+        ],
+        "outcome": "Members will send feedback on Revision 6.0 to be compiled into version 6.1 ahead of department head and Select Board outreach.",
+        "why_it_matters": null,
+        "start_seconds": 3102,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Municipal Technology Committee regular meeting",
+        "when": "June 22, 2026 at 6:30 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:43:36Z",
+  "usage": {
+    "total_tokens": 174231,
+    "total_input_tokens": 172023,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 694
+      },
+      {
+        "modality": "video",
+        "tokens": 171329
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1709,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 499
+  }
+}

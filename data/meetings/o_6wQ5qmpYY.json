@@ -1,0 +1,168 @@
+{
+  "video": {
+    "id": "o_6wQ5qmpYY",
+    "title": "Board of Health 8/11/26",
+    "published_at": "2026-08-12T13:56:37Z",
+    "duration_s": 4646
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-08-11",
+    "headline": "The Board of Health denied a bodywork permit for Jojo Bodywork and approved septic variances for Newton Street and Partridge Hill Road.",
+    "summary": "At its August 11, 2026 meeting, the Southborough Board of Health voted to deny a bodywork establishment permit for Jojo Bodywork following months of noncompliance and an active cease-and-desist order. The board also granted septic variances for repairs at 8 Partridge Hill Road and an expansion to accommodate an accessory dwelling unit at 14 Newton Street. Additionally, members reviewed proposed enforcement policies for housing and food establishments, agreeing to revisit revised draft language at a future meeting.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from its July 7, 2026 meeting and appointed a new part-time tobacco control inspector for the MetroWest region.",
+        "key_details": [
+          "Approved meeting minutes from July 7, 2026.",
+          "Appointed Katerina Kolioska-Tubego as part-time tobacco control inspector for FY27."
+        ],
+        "outcome": "Minutes approved and inspector appointment approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Septic variance for 8 Partridge Hill Road",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The board heard a request to repair a failed 1975 septic system serving 8 Partridge Hill Road. The proposed Presby system with a 40-millimeter poly barrier required relief from groundwater separation and proximity to the Sudbury Reservoir.",
+        "key_details": [
+          "System is located approximately 230 feet from the Sudbury Reservoir.",
+          "Groundwater separation was reduced from 4 feet to 2.5 feet under the soil absorption system.",
+          "The Department of Conservation and Recreation voiced no objections to the repair plan.",
+          "The project is a direct replacement with no increase in design flow."
+        ],
+        "outcome": "Approved unanimously (3-0).",
+        "why_it_matters": null,
+        "start_seconds": 38,
+        "end_seconds": null
+      },
+      {
+        "title": "Septic variance for 14 Newton Street",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "The applicant requested a variance to replace a failed septic system while increasing flow from three bedrooms to four to accommodate a planned accessory dwelling unit for an elderly relative. The property is heavily constrained by wetlands and a street drainage line that flows toward a reservoir tributary.",
+        "key_details": [
+          "Requested setback reductions from the town storm drain from the required 100 feet down to 67 feet for the primary field and 57 feet for the reserve area.",
+          "Proposed system uses an Eljen geotextile sand filter and an impermeable poly barrier along the street side.",
+          "The homeowner reported past street runoff had flooded the yard and contributed to the original system failure.",
+          "The board chair dissented due to concerns over granting Title 5 variance relief for an expansion rather than a like-for-like repair on a constrained lot."
+        ],
+        "outcome": "Approved 2-1, with the chair voting in opposition.",
+        "why_it_matters": "Enables the construction of an accessory dwelling unit on a environmentally constrained parcel near public water supply tributaries.",
+        "start_seconds": 392,
+        "end_seconds": null
+      },
+      {
+        "title": "Jojo Bodywork establishment license application",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "The board conducted a public hearing on an establishment license application for Jojo Bodywork at 3 Turnpike Road. Health department staff reported an ongoing lack of response, missing practitioner credentials, operation during a cease-and-desist order, and external reports alleging illicit activity on the premises.",
+        "key_details": [
+          "Business had been issued a cease-and-desist order for operating without a local bodywork license.",
+          "Applicants failed to provide required practitioner certifications and used unapproved aliases.",
+          "Staff reported observations of the facility occupied after hours, while representatives claimed they were only cleaning or socializing.",
+          "Town counsel confirmed the board has lawful discretion to deny the license application based on noncompliance."
+        ],
+        "outcome": "Application denied unanimously (3-0); the board authorized staff and town counsel to draft and sign a formal written decision.",
+        "why_it_matters": "Prevents the unlicensed operation of a bodywork business that has not complied with municipal public health and safety standards.",
+        "start_seconds": 1856,
+        "end_seconds": null
+      },
+      {
+        "title": "Housing and food establishment enforcement policies",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff presented draft enforcement policies intended to create clear, standardized procedures and fee schedules for addressing health code violations in housing and food establishments. Board members suggested refining the draft to specify how inspection correction timelines are determined based on violation severity.",
+        "key_details": [
+          "Food policy outlines re-inspection fees of $100 after an initial uncorrected failure and an administrative hearing fee of $250.",
+          "Staff noted the policy aims to address repeat offenders who fix violations only temporarily between routine inspections.",
+          "Board requested clearer language specifying that compliance deadlines are provided in writing at the conclusion of an inspection based on violation severity.",
+          "Members agreed to table formal approval to allow staff to update the text."
+        ],
+        "outcome": "Discussion only; revisions will be brought back for review at the September meeting.",
+        "why_it_matters": null,
+        "start_seconds": 3747,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve two variances for 8 Partridge Hill Road reducing groundwater separation to 2.5 feet and setback to the reservoir to approximately 230 feet",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 382
+      },
+      {
+        "motion": "Approve a variance request for a minimum setback distance of 67 feet for the primary area and 57 feet for the reserve area at 14 Newton Street",
+        "result": "passed",
+        "tally": "2-1",
+        "start_seconds": 1634
+      },
+      {
+        "motion": "Appoint Katerina Kolioska-Tubego as part-time tobacco control inspector for Southborough",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1825
+      },
+      {
+        "motion": "Close the public hearing on Jojo Bodywork",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 3403
+      },
+      {
+        "motion": "Deny the bodywork establishment license application for Jojo Bodywork",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 3667
+      },
+      {
+        "motion": "Authorize the health director, health agent, and town counsel to work collaboratively to draft and execute a written decision denying the Jojo Bodywork application",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 3727
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Board of Health meeting to review revised enforcement policies",
+        "when": "September 15, 2026"
+      },
+      {
+        "what": "Tentative Board of Health meeting",
+        "when": "October 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:15:10Z",
+  "usage": {
+    "total_tokens": 176022,
+    "total_input_tokens": 172582,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 171888
+      },
+      {
+        "modality": "text",
+        "tokens": 694
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1903,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1537
+  }
+}

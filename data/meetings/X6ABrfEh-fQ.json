@@ -1,0 +1,82 @@
+{
+  "video": {
+    "id": "X6ABrfEh-fQ",
+    "title": "Planning Board 5/21/26",
+    "published_at": "2026-05-22T13:05:33Z",
+    "duration_s": 1821
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-05-21",
+    "headline": "The Planning Board endorsed a joint state grant application with Westborough for a $150,000 Route 9 and I-495 corridor study.",
+    "summary": "The Southborough Planning Board met to review and approve a letter of support for a joint One Stop for Growth grant application with the town of Westborough. The proposed grant from the state Executive Office of Housing and Livable Communities would fund a five-task planning study of the Route 9 and Interstate 495 corridor estimated at $150,000, split evenly between the two communities. Members amended the draft letter to ensure Southborough's Master Plan goals, residential neighborhood protections, and commercial tax base priorities were properly balanced against housing.",
+    "topics": [
+      {
+        "title": "495/Route 9 Gateway Initiative grant application support letter",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Board members reviewed a draft letter supporting an application to the state One Stop for Growth grant program for the joint 495/Route 9 Gateway Initiative with Westborough. The board discussed ensuring Southborough's distinct master plan goals and neighborhood buffers are reflected in the study scope, rather than duplicating Westborough's priorities. Members agreed to trim repetitive references to housing to maintain focus on commercial tax base opportunities before voting to endorse the amended letter.",
+        "key_details": [
+          "The overall planning study is estimated to cost approximately $150,000, with Southborough's scope estimated at $75,000.",
+          "The study scope covers five tasks: kick-off and site visit, existing conditions, scenario building, strategies and recommendations, and a draft and final report.",
+          "The application is being submitted to the Executive Office of Housing and Livable Communities (EOHLC) ahead of a June 3 deadline.",
+          "The board agreed that endorsing the grant application does not commit town funds or bind the town to future rezoning or development decisions.",
+          "Edits to the letter added language safeguarding adjacent residential neighborhoods against noise, traffic, and environmental impacts."
+        ],
+        "outcome": "Approved 4-0 to endorse the amended letter of support.",
+        "why_it_matters": "The joint initiative will shape future zoning, commercial development, and potential housing along the Route 9 corridor near Interstate 495.",
+        "start_seconds": 1,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To endorse the amended Planning Board letter of support for the One Stop grant application as discussed.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1722
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A member of the Wastewater Study Committee noted that state One Stop grant programs strongly favor joint municipal initiatives and explained that background documentation on the scope and tax increment financing tools had been distributed to town staff in April.",
+        "start_seconds": 1512
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Next Planning Board meeting",
+        "when": "June 1, 2026"
+      },
+      {
+        "what": "One Stop for Growth grant application deadline",
+        "when": "June 3, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:30:00Z",
+  "usage": {
+    "total_tokens": 71623,
+    "total_input_tokens": 70223,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 69533
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 818,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 582
+  }
+}

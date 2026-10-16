@@ -1,0 +1,107 @@
+{
+  "video": {
+    "id": "lXcFPzwjluI",
+    "title": "Recreation Commission 5/6/26",
+    "published_at": "2026-05-07T17:35:35Z",
+    "duration_s": 3999
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-05-06",
+    "headline": "The Recreation Commission reviewed parking layout options and community feedback for the Fayville Memorial Park improvement project.",
+    "summary": "The Recreation Commission reviewed community feedback gathered from the recent Touch-a-Truck event regarding proposed redesign options for Fayville Memorial Park, including a splash pad and dog park. Landscape architect consultant Activitas presented early findings on parking constraints along Central Street and at Fayville Hall. Commissioners debated how many parking spaces are required, whether to request designated park parking from the Select Board, and the timeline to finalize funding requests for Community Preservation Act money at Fall Town Meeting.",
+    "topics": [
+      {
+        "title": "General department updates",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The recreation director shared updates on recent town events and seasonal recreation programming. The Touch-a-Truck event drew an estimated 200 to 300 attendees and served as an outreach venue for the Fayville Park project.",
+        "key_details": [
+          "Touch-a-Truck had an estimated 200 to 300 attendees despite poor weather.",
+          "The final session of the RAP program began this week.",
+          "Spring middle school fishing clinic started, while outdoor tennis clinics were postponed due to rain.",
+          "Staff attended regional park association training in Lexington on master plan implementation."
+        ],
+        "outcome": null,
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Fayville Memorial Park design and parking study",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The commission met with consultant Activitas to review public feedback on the Fayville Memorial Park concept designs and evaluate parking capacity options. Discussion centered on the need for barriers around the splash pad, parent seating, and how to accommodate an estimated need of 30 to 35 parking spaces using on-street parking and Fayville Hall spaces.",
+        "key_details": [
+          "Public feedback favored Option 2 and highlighted a desire for fencing or physical separation between the splash pad and playground, as well as more shaded seating.",
+          "Central Street currently fits approximately 13 parallel parking spaces, but angled parking would require excavating into the hillside.",
+          "Fayville Hall has 12 deeded spaces for municipal park use prior to 5:00 PM, consisting of 8 parallel spaces on Central Street and 4 designated lot spaces.",
+          "Commissioners debated whether to formally ask the Select Board to restrict on-street spots specifically for park use from dawn to dusk, noting potential conflicts with Southborough Historical Society events.",
+          "Activitas will provide high-level parking calculations and an updated feasibility memo by late May."
+        ],
+        "outcome": "Activitas will prepare parking count estimates and the commission will review a draft letter regarding parking designations before engaging the Select Board.",
+        "why_it_matters": "The project will determine future amenities, safety features, and parking availability at Fayville Memorial Park and requires Community Preservation Committee funding approval ahead of Fall Town Meeting.",
+        "start_seconds": 250,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission approved past meeting minutes and scheduled upcoming meetings.",
+        "key_details": [
+          "Approved meeting minutes from March 18, 2026."
+        ],
+        "outcome": "Minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 3800,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Commission meeting with Brian regarding 9/11 memorial and Tri-Centennial updates",
+        "when": "May 13, 2026 at 6:00 PM"
+      },
+      {
+        "what": "Public design presentation for Fayville Memorial Park project",
+        "when": "May 20, 2026"
+      },
+      {
+        "what": "Potential appearance before the Select Board regarding parking designations",
+        "when": "May 26, 2026"
+      },
+      {
+        "what": "Target deadline to finalize updated CPC funding application for Fall Town Meeting",
+        "when": "July 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:53:21Z",
+  "usage": {
+    "total_tokens": 155850,
+    "total_input_tokens": 153469,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 152779
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1071,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1310
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "video": {
+    "id": "SfMRh_yUWvM",
+    "title": "Zoning Board of Appeals Meeting 7/15/26",
+    "published_at": "2026-07-16T14:36:23Z",
+    "duration_s": 6992
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-07-15",
+    "headline": "The Zoning Board of Appeals approved setback and lighting variances for Costco and endorsed a draft two-family housing zoning bylaw.",
+    "summary": "The Southborough Zoning Board of Appeals reviewed several development applications under newly enacted state zoning reform legislation. The board approved variance relief for Costco Wholesale at 21 Coslin Drive for retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet high, and granted a setback variance for an addition at 6 Walker Street. A hearing on a two-lot residential development off Northborough Road was continued to August 12 to address legal questions regarding frontage and common access. The board also voted to advance a draft zoning bylaw amendment governing two-family dwellings to the Select Board for the October 17 Special Town Meeting.",
+    "topics": [
+      {
+        "title": "6 Walker Street variance modification",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board opened the meeting by discussing recent state zoning legislation that revised variance standards under Massachusetts General Laws Chapter 40A, shifting guidance toward practical difficulty and financial hardship considerations. The board then heard an application from the homeowner at 6 Walker Street seeking to modify a 1965 variance condition requiring 30-foot setbacks and grant a variance allowing a garage addition within 6.5 feet of the side lot line. The applicant explained site constraints including septic locations and lot shape, noting abutter support, and the board unanimously granted the relief.",
+        "key_details": [
+          "Applicant: Daniel Ford, 6 Walker Street (Residence B district, Map 55, Lot 38A).",
+          "Requested relief from a 1965 variance condition mandating 30-foot setbacks from property lines.",
+          "Proposed attached garage addition will sit 6.5 feet from the side lot line.",
+          "Existing lot conditions and septic placement on the opposite side make alternative siting impractical.",
+          "No opposition was voiced, and letters of support from abutters were submitted."
+        ],
+        "outcome": "Approved unanimous relief modifying the 1965 restriction and granting the 6.5-foot side setback variance.",
+        "why_it_matters": null,
+        "start_seconds": 20,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Northborough Road common driveway special permit",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Bartolini Properties LLC applied for a special permit under Section 174-9E to allow 15 feet of frontage on a pre-existing nonconforming 8-acre parcel to divide the land into two residential building lots served by a common driveway. The applicant presented historical deeds from an 1896 state taking for the Wachusett Aqueduct granting a 15-foot right-of-way for road access to Northborough Road. Following a brief recess, the board and applicant agreed to continue the hearing to August 12 so Town Counsel could participate directly and clarify whether granting the permit creates a new nonconformity ahead of Planning Board review.",
+        "key_details": [
+          "Property: 0 Northborough Road Off (Residence A district, Map 62, Lot 3).",
+          "Applicant seeks to divide an 8-acre parcel into two single-family lots (3.5 acres and 4.5 acres).",
+          "Access relies on an 1896 15-foot deeded right-of-way across state aqueduct land that connects to Northborough Road.",
+          "Department of Conservation and Recreation (DCR) submitted comments acknowledging access rights while raising questions regarding utility crossings.",
+          "Town Counsel advised caution regarding frontage requirements and the subsequent Approval Not Required (ANR) division process."
+        ],
+        "outcome": "Hearing continued to August 12, 2026, at 7:15 PM.",
+        "why_it_matters": "The decision determines whether an isolated 8-acre backlot can be divided and developed into two residential homes using a historic narrow aqueduct right-of-way.",
+        "start_seconds": 1235,
+        "end_seconds": null
+      },
+      {
+        "title": "21 Coslin Drive Costco retaining wall and lighting variances",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Costco Wholesale Corporation sought variances to construct retaining walls up to 31 feet high in front and side yard setbacks and install parking lot light poles at 36 feet 6 inches, exceeding the town bylaw limit of 20 feet. Representatives explained that the steep 40-foot grade drop across the former Dell campus parcel requires substantial retaining walls to create a safe, level parking field for customers and delivery trucks. They also showed simulations illustrating that the taller poles would reduce the total number of light poles from 113 to 49, improving circulation and safety while remaining dark-sky compliant with zero light trespass at property lines.",
+        "key_details": [
+          "Location: 21 Coslin Drive (Industrial Park District, Map 25, Lot 4A), spanning the Southborough-Westborough line.",
+          "Retaining walls will reach up to 31 feet high to address a steep grade change and level the site.",
+          "Light poles approved at 36 feet 6 inches in height, reducing pole count from 113 to 49.",
+          "Lighting design will feature downward-directed, dark-sky compliant fixtures with no spillover to adjacent properties.",
+          "Major site plan review remains pending before the Planning Board."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "Enables site grading and infrastructure for the planned Costco Wholesale warehouse development on Route 9, establishing key site safety and lighting layouts.",
+        "start_seconds": 3570,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board discussed its annual reorganization to elect a chair and clerk, but members agreed to postpone the election to the next meeting when absent members could participate. The board also deferred action on the draft meeting minutes from June 10, 2026.",
+        "key_details": [
+          "Annual board reorganization postponed to a future meeting.",
+          "Approval of June 10, 2026 meeting minutes deferred to allow members more time for review."
+        ],
+        "outcome": "Reorganization and minutes review postponed to August 12, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 5075,
+        "end_seconds": null
+      },
+      {
+        "title": "Proposed two-family dwelling zoning bylaw amendments",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed a draft zoning amendment to update and clarify town regulations governing two-family homes. The proposed changes add a formal definition for two-family dwellings, explicitly distinguish them from single-family homes with accessory dwelling units (ADUs), eliminate an obsolete two-year waiting period to convert single-family structures, and update minimum lot size standards across residential and commercial districts. The board voted to forward the draft to the Select Board for referral to the Planning Board and scheduled a public informational forum for August 12 ahead of the October 17 Special Town Meeting.",
+        "key_details": [
+          "Adds an explicit definition for two-family dwellings in Section 174-2, excluding single-family dwellings with an ADU.",
+          "Allows construction of new two-family dwellings or conversion of existing dwellings on lots meeting district minimum lot sizes.",
+          "Removes the outdated two-year waiting requirement for converting a single-family home to a two-family home.",
+          "Eliminates obsolete conditions to conform with newly enacted state ADU regulations.",
+          "Draft bylaw is slated for the warrant at the October 17 Special Town Meeting."
+        ],
+        "outcome": "The board voted unanimously to approve the draft bylaw to submit to the Select Board.",
+        "why_it_matters": "If approved at Town Meeting, the amended bylaw will make it easier for homeowners to construct or convert two-family dwellings across town and modernize local zoning to align with state housing laws.",
+        "start_seconds": 5315,
+        "end_seconds": null
+      },
+      {
+        "title": "Administrative updates and future zoning topics",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff alerted the board to a recent scam email targeting zoning applicants under the guise of the Southborough Planning Commission demanding additional fees, noting that applicants have been notified and no town data breach occurred. Staff also briefed the board on future zoning bylaw updates under discussion with the Planning Board, including potential regulations for commercial signage, short-term rentals (such as Airbnb), parking rules for single-family residences with more than three vehicles, and upcoming state mandates for consolidated solar and battery energy storage permits taking effect October 1.",
+        "key_details": [
+          "Scam warning: Fraudulent emails claiming to be from the town requested unauthorized fees from applicants.",
+          "Preliminary discussions underway on potential bylaws regulating short-term rentals following neighborhood complaints.",
+          "Potential bylaw updates under review for signs, multi-vehicle residential parking, and pre-existing nonconforming uses.",
+          "State legislation requires a consolidated local permitting process for solar and battery energy storage systems starting October 1, 2026."
+        ],
+        "outcome": "Discussion only; staff will coordinate webinars and draft updates for future consideration.",
+        "why_it_matters": null,
+        "start_seconds": 6340,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Close the public hearing for 6 Walker Street.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 942
+      },
+      {
+        "motion": "Approve the application for relief for 6 Walker Street as requested, amending the 1965 variance condition and granting the side setback variance.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1180
+      },
+      {
+        "motion": "Continue the public hearing for 0 Northborough Road to August 12, 2026, at 7:15 PM.",
+        "result": "continued",
+        "tally": "4-0",
+        "start_seconds": 3548
+      },
+      {
+        "motion": "Close the public hearing for 21 Coslin Drive.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 4593
+      },
+      {
+        "motion": "Approve the variance relief as requested for 21 Coslin Drive for retaining wall heights and light pole heights.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 4890
+      },
+      {
+        "motion": "Approve the draft two-family zoning bylaw to submit to the Select Board.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 6328
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Submission deadline to file the two-family draft bylaw with the Select Board",
+        "when": "August 4, 2026"
+      },
+      {
+        "what": "Select Board meeting agenda for two-family zoning bylaw referral to Planning Board",
+        "when": "August 11, 2026 at 6:30 PM"
+      },
+      {
+        "what": "ZBA public hearing on an appeal of a building commissioner decision",
+        "when": "August 12, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Continued ZBA public hearing for 0 Northborough Road",
+        "when": "August 12, 2026 at 7:15 PM"
+      },
+      {
+        "what": "ZBA public forum on the two-family zoning bylaw draft",
+        "when": "August 12, 2026 at 7:30 PM"
+      },
+      {
+        "what": "Planning Board meeting discussion on the two-family zoning bylaw",
+        "when": "August 17, 2026"
+      },
+      {
+        "what": "Legal advertising deadline for the Special Town Meeting warrant articles",
+        "when": "August 26, 2026"
+      },
+      {
+        "what": "Planning Board first public hearing on proposed zoning amendments",
+        "when": "September 14, 2026"
+      },
+      {
+        "what": "Next regular Zoning Board of Appeals meeting",
+        "when": "September 16, 2026"
+      },
+      {
+        "what": "Planning Board second public hearing on proposed zoning amendments",
+        "when": "September 28, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:35:40Z",
+  "usage": {
+    "total_tokens": 274022,
+    "total_input_tokens": 267760,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 267064
+      },
+      {
+        "modality": "text",
+        "tokens": 696
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3114,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3148
+  }
+}

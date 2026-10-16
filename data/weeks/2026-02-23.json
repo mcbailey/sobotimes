@@ -1,0 +1,62 @@
+{
+  "headline": "Ahead of Special Town Meeting, the School Committee endorsed renovating Neary School and replacing its roof while opposing proposals to close the facility.",
+  "synopsis": "School officials reviewed four warrant articles ahead of the March 2 Special Town Meeting regarding the future of Neary School. The School Committee recommended approving a $175,000 feasibility study to renovate Neary and borrowing up to $6.85 million to replace its failing roof. Officials urged voters to reject two alternative articles that would study closing Neary and expanding Finn and Trottier schools, warning that reallocating students would require major additions or cuts to educational programs. The roof borrowing proposal will require a two-thirds vote at Town Meeting followed by a ballot vote at the May 12 town election.",
+  "highlights": [
+    {
+      "title": "Neary School renovation study and facility conditions",
+      "why": "Article 1 seeks $175,000 from free cash to study comprehensive renovations and code compliance at Neary School, where major systems date back to 1968. The School Committee unanimously endorsed the measure ahead of the March 2 Special Town Meeting.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 255
+    },
+    {
+      "title": "Neary School roof borrowing and ADA upgrades",
+      "why": "Article 4 requests up to $6,850,000 in borrowing to replace Neary's 35-year-old failing roof and cover potential ADA upgrades. If Article 1 passes, the ADA funds will fold into the broader study and reduce the roof borrowing request to $4,500,000.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 3520
+    },
+    {
+      "title": "Opposition to Trottier and Finn expansion studies",
+      "why": "The School Committee unanimously recommended defeating Articles 2 and 3, which propose studying the closure of Neary and expanding other schools. Officials stated that moving students would require large additions at Trottier and Finn to avoid cuts to music, art, and support services.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 2447
+    },
+    {
+      "title": "Special Town Meeting voting procedures and logistics",
+      "why": "Special Town Meeting will take place Monday, March 2, at Trottier Middle School with check-in starting at 5:30 PM. Voters will use electronic clickers, and the gymnasium will provide a family-friendly overflow space.",
+      "body": "Southborough School Committee",
+      "importance": "medium",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 5445
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "School Committee public informational forum on Special Town Meeting articles",
+      "when": "February 26, 2026, at 12:00 PM at the Public Safety Building",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Special Town Meeting on school feasibility studies and Neary roof borrowing",
+      "when": "March 2, 2026, at 6:00 PM at Trottier Middle School",
+      "body": null
+    },
+    {
+      "what": "Annual Town Election ballot vote on Neary roof debt exclusion",
+      "when": "May 12, 2026",
+      "body": null
+    }
+  ],
+  "week": "2026-02-23",
+  "fingerprint": "2a579702fffe4330",
+  "video_ids": [
+    "qoPRkdI2yfs"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:13:27Z"
+}

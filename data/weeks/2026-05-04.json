@@ -1,0 +1,74 @@
+{
+  "headline": "The Zoning Board approved conditions for a 32-unit housing project, while officials advanced school facility plans and addressed landfill testing.",
+  "synopsis": "The Zoning Board of Appeals unanimously approved comprehensive permit conditions for a 32-unit Chapter 40B rental townhouse project at 250 Turnpike Road. Ahead of the annual town election, the School Committee approved an informational letter detailing debt-exclusion ballot questions for roof projects at Neary and Trottier schools, while the Select Board contracted Tappe Architects for the Neary feasibility study. The Select Board also supported a reserve fund transfer to cover state-mandated environmental testing of private drinking wells near the municipal landfill. Additionally, officials evaluated parking constraints for proposed improvements at Fayville Memorial Park and discussed jurisdiction over neighbor complaints regarding a regional asphalt plant.",
+  "highlights": [
+    {
+      "title": "Zoning Board approves 32-unit 40B permit conditions",
+      "why": "The Zoning Board of Appeals voted unanimously to approve comprehensive permit conditions for a 32-unit rental townhouse development at 250 Turnpike Road, which includes eight affordable units.",
+      "body": "Zoning Board of Appeals",
+      "importance": "high",
+      "video_id": "Z6WC_8EUgcU",
+      "start_seconds": 2545
+    },
+    {
+      "title": "Architect selected for Neary School feasibility study",
+      "why": "The Select Board awarded the designer services contract to Tappe Architects upon recommendation from the Elementary School Building Committee.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "hQZmHwP8rnw",
+      "start_seconds": 800
+    },
+    {
+      "title": "Reserve funds sought for landfill private well testing",
+      "why": "The Select Board backed a $24,900 Reserve Fund transfer to fund state-mandated risk assessments and private drinking well testing near the landfill.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "hQZmHwP8rnw",
+      "start_seconds": 1586
+    },
+    {
+      "title": "Parking layout evaluated for Fayville Memorial Park",
+      "why": "The Recreation Commission reviewed community survey responses and parking constraints along Central Street for proposed park additions, including a splash pad and dog park.",
+      "body": "Recreation Commission",
+      "importance": "medium",
+      "video_id": "lXcFPzwjluI",
+      "start_seconds": 250
+    },
+    {
+      "title": "Board discusses Brox asphalt plant complaints",
+      "why": "The Board of Health reviewed odor and noise complaints, noting the plant is across the Marlborough line and under state MassDEP jurisdiction.",
+      "body": "Board of Health",
+      "importance": "medium",
+      "video_id": "z99uKZgv59g",
+      "start_seconds": 286
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Southborough Annual Town Election featuring school roof debt-exclusion ballot questions",
+      "when": "May 12, 2026",
+      "body": "Southborough School Committee"
+    },
+    {
+      "what": "Public design presentation for the Fayville Memorial Park project",
+      "when": "May 20, 2026",
+      "body": "Recreation Commission"
+    },
+    {
+      "what": "Continued hearings on 22 Newton Street variance and 34 Turnpike Road special permit",
+      "when": "June 10, 2026",
+      "body": "Zoning Board of Appeals"
+    }
+  ],
+  "week": "2026-05-04",
+  "fingerprint": "664c329f701fe458",
+  "video_ids": [
+    "Z6WC_8EUgcU",
+    "hQZmHwP8rnw",
+    "lXcFPzwjluI",
+    "ri__tL7UnbE",
+    "z99uKZgv59g"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:11:44Z"
+}

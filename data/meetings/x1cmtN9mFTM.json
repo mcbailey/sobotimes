@@ -1,0 +1,126 @@
+{
+  "video": {
+    "id": "x1cmtN9mFTM",
+    "title": "Personnel Board 7/8/26",
+    "published_at": "2026-07-09T02:34:39Z",
+    "duration_s": 6698
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-07-08",
+    "headline": "The Personnel Board launched a town-wide classification and compensation study and approved a revised list of peer communities excluding Dover.",
+    "summary": "The Personnel Board met with consultant Katy Yee from MGT to kick off the town-wide classification and compensation study. The board reviewed the study process, timeline, and employee Job Analysis Questionnaires, and debated which peer towns to include in the market survey before voting 3-1 to approve the list without Dover. The board also approved salary rate adjustments for a librarian and two part-time dispatchers whose payroll classifications were corrected.",
+    "topics": [
+      {
+        "title": "Classification and compensation study kickoff and peer communities",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Katy Yee from consulting firm MGT presented an overview of the comprehensive classification and compensation study. The board examined the 10-factor Job Analysis Questionnaire that employees must complete and discussed the employee interview schedule planned for late August. Members debated the proposed list of comparable communities, questioning the inclusion of more affluent or distant towns, before approving the list with Dover removed.",
+        "key_details": [
+          "MGT evaluates peer towns using eight criteria including population, per capita income, equalized property values, budget size, and proximity.",
+          "Employees are asked to complete the Job Analysis Questionnaire by July 24, 2024, followed by supervisor review by July 31.",
+          "MGT will conduct 20-to-30-minute employee interviews during the weeks of August 17 and 24, 2024.",
+          "An initial motion to accept the full recommended list of comparable communities failed in a 2-2 tie.",
+          "A subsequent motion to approve the comparable communities list excluding Dover passed 3-1."
+        ],
+        "outcome": "List of comparable communities approved excluding Dover.",
+        "why_it_matters": "The study will determine municipal job classifications and salary ranges, directly affecting town employee compensation and future personnel budgets.",
+        "start_seconds": 38,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from its June 18, 2024 meeting, discussed using a survey to schedule meeting dates for the next two months, and adjourned.",
+        "key_details": [
+          "Approved meeting minutes from June 18, 2024.",
+          "Human resources will poll members to establish dates for upcoming summer meetings."
+        ],
+        "outcome": "Minutes approved and adjournment passed.",
+        "why_it_matters": null,
+        "start_seconds": 6486,
+        "end_seconds": null
+      },
+      {
+        "title": "Salary rate adjustments for library and dispatch positions",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The human resources director presented salary rate adjustments for three town positions. These included a salary certification for the youth services librarian and corrected Salary Administration Plan rates for two part-time police dispatchers who had been mistakenly classified in the payroll system as union employees.",
+        "key_details": [
+          "Approved rate certification for Youth Services Librarian Mariana Sorenson.",
+          "Corrected non-union Salary Administration Plan coding for two part-time dispatchers working under 20 hours per week.",
+          "The board noted the dispatch issue was a system glitch rather than a late submission."
+        ],
+        "outcome": "Salary certifications and adjustments approved unanimously 4-0.",
+        "why_it_matters": null,
+        "start_seconds": 6526,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the proposed list of comparable communities for the market survey as presented",
+        "result": "failed",
+        "tally": "2-2",
+        "start_seconds": 6217
+      },
+      {
+        "motion": "Approve the list of comparable communities for the market survey excluding Dover",
+        "result": "passed",
+        "tally": "3-1",
+        "start_seconds": 6421
+      },
+      {
+        "motion": "Approve the salary certifications and rate adjustments for the youth services librarian and two part-time dispatchers",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 6625
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Employees complete Job Analysis Questionnaires and submit them to supervisors",
+        "when": "July 24, 2024"
+      },
+      {
+        "what": "Department heads and supervisors submit reviewed questionnaires to administration",
+        "when": "July 31, 2024"
+      },
+      {
+        "what": "Administration returns completed questionnaires to MGT",
+        "when": "August 7, 2024"
+      },
+      {
+        "what": "MGT employee interviews scheduled",
+        "when": "Weeks of August 17 and 24, 2024"
+      }
+    ],
+    "caveats": "The video recording title indicates the year 2026, but presentation materials and meeting discussion confirm the meeting occurred on July 8, 2024."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:43:39Z",
+  "usage": {
+    "total_tokens": 260136,
+    "total_input_tokens": 256575,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 255884
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1278,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2283
+  }
+}

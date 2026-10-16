@@ -1,0 +1,97 @@
+{
+  "headline": "Southborough approved $12.5 million in regional dispatch borrowing, advanced Neary School building plans, and approved conditions for a 32-unit 40B development.",
+  "synopsis": "In May 2026, town boards advanced several major municipal, school, and development initiatives. The Select Board authorized up to $12.5 million in short-term borrowing to bridge state grant funding for the MetroWest Regional Emergency Communication Center and hired Tappe Architects for the Neary School feasibility study. School officials evaluated extensive structural roof failures at Neary Elementary, prepared ballot explanations, and endorsed a 3.99 percent operating budget increase. The Zoning Board of Appeals approved comprehensive permit conditions for a 32-unit Chapter 40B rental townhouse project at 250 Turnpike Road. Meanwhile, the Planning Board enacted strict native landscape regulations for commercial site plans and backed a joint Route 9 corridor study with Westborough.",
+  "top_items": [
+    {
+      "title": "Regional dispatch center short-term borrowing approved",
+      "why": "The Select Board voted 4-1 to approve up to $12.5 million in short-term borrowing authority to bridge state grant funding for regional dispatch center construction.",
+      "body": "The short-term bridge borrowing is designed to allow construction contracts for the MetroWest Regional Emergency Communication Center to proceed without waiting between state 911 grant disbursements. While one board member opposed taking on town borrowing liability, members approved the measure after noting neighboring member communities Grafton and Westborough had already authorized it.",
+      "importance": "high",
+      "video_id": "deu8b2Ix5zU",
+      "start_seconds": 2125,
+      "issue": "metrowest-recc-borrowing"
+    },
+    {
+      "title": "Comprehensive permit conditions approved for 250 Turnpike Road 40B",
+      "why": "The Zoning Board of Appeals unanimously approved comprehensive permit conditions and waivers for a 32-unit rental townhouse development.",
+      "body": "Town special counsel prepared conditions covering pre-construction reviews, peer engineering oversight, wetland buffer mitigation, stormwater management, and school bus access for the Chapter 40B project. The development includes eight affordable units restricted to households earning up to 80 percent of area median income.",
+      "importance": "high",
+      "video_id": "Z6WC_8EUgcU",
+      "start_seconds": 2545,
+      "issue": "250-turnpike-road"
+    },
+    {
+      "title": "Tappe Architects selected for Neary School feasibility study",
+      "why": "The Select Board voted unanimously to award the designer services contract for the Neary School feasibility study to Tappe Architects.",
+      "body": "Following evaluations and interviews of five applicant firms, the Elementary School Building Committee recommended Tappe based on their school design experience and community engagement strategy. The Select Board adopted the committee's recommendation and authorized contract negotiations.",
+      "importance": "high",
+      "video_id": "hQZmHwP8rnw",
+      "start_seconds": 800,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Engineers report Neary Elementary roof requires complete replacement",
+      "why": "Structural consultants reported Neary Elementary School's 30-year-old roof is in active failure, recommending a full replacement estimated at $4.5 million to $6.5 million.",
+      "body": "SOCOTEC engineers documented roughly 8,000 linear feet of failed seams, extensive water infiltration, and detached insulation across the 63,000-square-foot roof, advising against further patching. The School Committee reviewed short-term sandbag stabilization measures and discussed how capital spending thresholds could trigger mandatory ADA accessibility upgrades across the entire school building.",
+      "importance": "high",
+      "video_id": "AVYUJb0MKMY",
+      "start_seconds": 27,
+      "issue": "neary-school-roof-replacement"
+    },
+    {
+      "title": "Planning Board adopts native landscape rules for site plans",
+      "why": "The Planning Board voted unanimously to adopt new regulations requiring 100 percent native vegetation in all projects subject to site plan review.",
+      "body": "Drafted alongside the Open Space Preservation Commission, the rules ban neonicotinoid pesticides, prohibit invasive plant species, and restrict dyed mulches. The board closed the public hearing and formally incorporated the standards into town site plan review regulations.",
+      "importance": "high",
+      "video_id": "gobeHAshCpc",
+      "start_seconds": 6750,
+      "issue": "native-plant-landscape-regulations"
+    },
+    {
+      "title": "Joint Route 9 corridor study grant application endorsed",
+      "why": "The Planning Board voted 4-0 to endorse an application for a $150,000 state grant to study the Route 9 and I-495 gateway corridor jointly with Westborough.",
+      "body": "The joint initiative explores economic development, commercial tax base expansion, and infrastructure options along the Route 9 and Interstate 495 corridor. Planning Board members amended their endorsement letter to maintain focus on commercial tax revenue opportunities and Southborough's master plan priorities.",
+      "importance": "medium",
+      "video_id": "X6ABrfEh-fQ",
+      "start_seconds": 1,
+      "issue": "route-9-495-gateway-study"
+    },
+    {
+      "title": "Planning Board recommends revoking occupancy for 40-42 Central Street",
+      "why": "The Planning Board voted 4-1 to recommend that the Building Commissioner revoke the temporary certificate of occupancy for 40-42 Central Street.",
+      "body": "Board members cited ongoing non-compliance by the Southborough Historical Society with approved site plan conditions, pointing to unresolved parking lot lighting reviews, accessible parking layout corrections, and outstanding peer review fees.",
+      "importance": "medium",
+      "video_id": "gobeHAshCpc",
+      "start_seconds": 15,
+      "issue": "40-42-central-street"
+    }
+  ],
+  "month": "2026-05",
+  "fingerprint": "556d1e73e67bd8cd",
+  "video_ids": [
+    "AVYUJb0MKMY",
+    "C92hqzMJvgM",
+    "C_4TOzgcpyo",
+    "LflS54Arapc",
+    "NSeY9P5X_sc",
+    "Od1pRH9mq6g",
+    "QtSBbzpaVec",
+    "SXZEdmFrxuc",
+    "X6ABrfEh-fQ",
+    "Yj-7Il44CGk",
+    "YmD0athXTZs",
+    "Z6WC_8EUgcU",
+    "aE6XZkN9G9s",
+    "b6dhPxXuBgo",
+    "deu8b2Ix5zU",
+    "gobeHAshCpc",
+    "hQZmHwP8rnw",
+    "lXcFPzwjluI",
+    "rSXalU_9VoA",
+    "ri__tL7UnbE",
+    "yEDv55tASKo",
+    "z99uKZgv59g"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:11:39Z"
+}

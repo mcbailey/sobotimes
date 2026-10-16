@@ -1,0 +1,180 @@
+{
+  "video": {
+    "id": "Cs-N1fuzc9E",
+    "title": "Board of Health 6/9/26",
+    "published_at": "2026-06-09T18:34:20Z",
+    "duration_s": 1874
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-06-09",
+    "headline": "The Board of Health reviewed asphalt plant odor complaints, updated body art regulations, and authorized constable service for an unlicensed business.",
+    "summary": "Following an executive session, the Board of Health approved an employment contract renewal for the town sanitary inspector. The board received a report on an inter-agency meeting regarding ongoing odor issues from the Brox asphalt plant and reviewed state environmental findings. Members also authorized constable delivery of a cease-and-desist order to an unlicensed body art establishment on Turnpike Road, adopted revised body art regulations, and completed the annual performance evaluation and salary adjustment for the public health director.",
+    "topics": [
+      {
+        "title": "Sanitary inspector contract renewal",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "After convening in executive session to discuss non-union contract negotiations, the board returned to open session to vote on the sanitary inspector agreement. The board approved the contract renewal for fiscal year 2027.",
+        "key_details": [
+          "Contract renewal covers the town sanitary inspector for FY27",
+          "Executive session held under M.G.L. Chapter 30A Section 21(a)(2)"
+        ],
+        "outcome": "Approved unanimously",
+        "why_it_matters": null,
+        "start_seconds": 81,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board conducted routine business, including approving meeting minutes from April 7, 2026, and May 5, 2026. Following annual town elections, the board also reorganized its officers, re-electing Chelsea Malinowski as chair, Safdar Medina as vice chair, and Elizabeth Zulick as secretary, and set its July meeting date.",
+        "key_details": [
+          "Approved minutes of April 7, 2026 and May 5, 2026",
+          "Chelsea Malinowski re-elected Chair",
+          "Safdar Medina elected Vice Chair",
+          "Elizabeth Zulick elected Secretary",
+          "Next meeting scheduled for July 7, 2026 at 11:00 AM"
+        ],
+        "outcome": "Minutes approved; board officers elected unanimously",
+        "why_it_matters": null,
+        "start_seconds": 116,
+        "end_seconds": null
+      },
+      {
+        "title": "Brox asphalt plant odor and mitigation follow-up",
+        "category": "Health & human services",
+        "importance": "high",
+        "summary": "Health department staff and board members reported on a recent informational meeting with the Massachusetts Department of Environmental Protection, Marlborough Board of Health, Brox plant leadership, and local residents concerning persistent asphalt odor complaints. Brox recently installed a closed-loop system intended to cycle exhaust back into the burner, in addition to existing EcoSorb and mister systems, though Southborough residents continue to report odors. MassDEP reported that existing emissions testing meets federal standards and that current operations pose no known health hazard, but officials stressed that residents must submit detailed real-time logs to help identify operational patterns.",
+        "key_details": [
+          "Brox installed a closed-loop burner exhaust system before Memorial Day weekend to mitigate odor",
+          "A similar mitigation system in Ipswich reportedly reduced resident complaints from 165 down to zero",
+          "MassDEP confirmed Brox operates within state and EPA permit standards and poses no known direct health threat",
+          "Residents are requested to log specific odor descriptors, intensity levels, durations, and symptoms directly to MassDEP"
+        ],
+        "outcome": "Discussion only; health staff will continue sharing state data and tracking resident reports",
+        "why_it_matters": "Residents near the Marlborough border continue to report pervasive asphalt odors that affect quality of life, though state regulators report the plant remains compliant with environmental laws.",
+        "start_seconds": 139,
+        "end_seconds": null
+      },
+      {
+        "title": "Enforcement order for Turnpike Road body art business",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Health department staff informed the board that a certified cease-and-desist letter mailed to an unlicensed body art business on Turnpike Road was returned as undeliverable. Staff recommended utilizing a town constable to personally serve the order. The business has repeatedly failed to apply for required establishment and practitioner licenses.",
+        "key_details": [
+          "Business location is on Turnpike Road",
+          "Certified mailing returned undeliverable on the day of the meeting",
+          "Enforcement will proceed with in-person service by a constable"
+        ],
+        "outcome": "Staff directed to arrange service of the cease-and-desist notice through a constable",
+        "why_it_matters": null,
+        "start_seconds": 1074,
+        "end_seconds": null
+      },
+      {
+        "title": "Body art regulations revisions",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "The board reviewed proposed modifications to the local body art regulations to align more closely with state model language and update local operating standards. Changes include restoring requirements for practitioner training in CPR, first aid, bloodborne pathogens, and anatomy, establishing clear standards for apprenticeships, and explicitly adding vaping to the list of prohibited activities in procedure areas.",
+        "key_details": [
+          "Apprentices must meet training requirements before performing skin piercings",
+          "Section 6 Item 14 was updated to prohibit vaping alongside smoking, eating, and drinking in procedure areas",
+          "Clarified that Southborough regulations are enforceable rules rather than state guidance models"
+        ],
+        "outcome": "Approved unanimously with the vaping amendment",
+        "why_it_matters": null,
+        "start_seconds": 1155,
+        "end_seconds": null
+      },
+      {
+        "title": "Public Health Director annual evaluation and compensation",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board reviewed and approved the compiled annual performance evaluation for the public health director at the end of her second year in the combined regional role. The evaluation was strongly positive, highlighting team leadership and department management, and the board approved a 5% salary increase aligned with town Salary Administration Plan guidelines for FY27.",
+        "key_details": [
+          "Director completed her second year managing the regionalized department",
+          "Board approved a 5 percent compensation increase for FY27 aligned with SAP personnel adjustments"
+        ],
+        "outcome": "Approved unanimously",
+        "why_it_matters": null,
+        "start_seconds": 1366,
+        "end_seconds": null
+      },
+      {
+        "title": "Draft updates to septic and well regulations",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Staff provided an update on drafting revisions to Southborough's local septic and private well regulations. The proposed updates incorporate minor adjustments to septic rules and more extensive updates to private well regulations based on established Northborough practices. The board will hold a public hearing on the proposed regulatory changes at an upcoming meeting.",
+        "key_details": [
+          "Revisions will affect both local septic bylaws and private well regulations",
+          "Language will be circulated to board members with strike-throughs and highlighted changes",
+          "Changes require a formal public hearing before adoption"
+        ],
+        "outcome": "Public hearing to be scheduled for the next regular meeting",
+        "why_it_matters": null,
+        "start_seconds": 1509,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the renewal of the sanitary inspector contract for FY27",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 109
+      },
+      {
+        "motion": "Approve the updated body art regulations with revisions including adding vaping to the operational prohibitions in Section 6",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1356
+      },
+      {
+        "motion": "Approve the performance review for the public health director and recommend a 5 percent pay increase aligned with Salary Administration Plan employees for FY27",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1472
+      },
+      {
+        "motion": "Elect Chelsea Malinowski as chair, Safdar Medina as vice chair, and Elizabeth Zulick as secretary for FY27",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1727
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Board of Health meeting with scheduled public hearing on septic and well regulations",
+        "when": "July 7, 2026 at 11:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:12:56Z",
+  "usage": {
+    "total_tokens": 76921,
+    "total_input_tokens": 72279,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 689
+      },
+      {
+        "modality": "video",
+        "tokens": 71590
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2101,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2541
+  }
+}

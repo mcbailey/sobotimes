@@ -1,0 +1,147 @@
+{
+  "video": {
+    "id": "JKZ8ZOjmCsQ",
+    "title": "Advisory Committee 7/29/26",
+    "published_at": "2026-07-30T18:56:03Z",
+    "duration_s": 4463
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Advisory Committee",
+    "meeting_date": "2026-07-29",
+    "headline": "The Advisory Committee reviewed draft budget and reserve fund policies, discussed a potential five-year $10 million FY28 tax override, and elected officers.",
+    "summary": "The Advisory Committee reviewed draft policies governing reserve fund transfers and the town's annual budget development process, preparing feedback for the Select Board. Members also held an initial discussion on an early concept for a five-year operational tax override of up to $10 million beginning in FY28, debating alternative approaches like departmental efficiency plans and funding pension obligations. In administrative business, the committee renewed its minute-taking contract and elected committee officers for FY27. A follow-up meeting was set for August 5 ahead of an August 11 joint session with the Select Board.",
+    "topics": [
+      {
+        "title": "Reserve Fund transfer procedures",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee reviewed a draft policy setting standard procedures and statutory requirements for departmental Reserve Fund transfer requests. Members discussed adding requirements for executive board oversight before submission and reiterated that funds cannot be used to pay for purchases made after the fact or for items previously rejected by Town Meeting.",
+        "key_details": [
+          "Governed by Massachusetts General Law Chapter 40 Section 6 for extraordinary or unforeseen expenditures.",
+          "Members recommended requiring formal approval from the requesting department's executive board (such as the Select Board or Library Trustees) prior to submitting requests to Advisory.",
+          "The committee emphasized that departments must request funds before spending, noting past issues with vehicle acquisitions.",
+          "The policy reaffirms that reserve funds cannot be used to override Town Meeting budget denials.",
+          "Members will compile proposed text revisions for the committee's August 5 meeting."
+        ],
+        "outcome": "Continued to the August 5 meeting for review of proposed edits.",
+        "why_it_matters": null,
+        "start_seconds": 255,
+        "end_seconds": null
+      },
+      {
+        "title": "Town budget process policy",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Members discussed a draft policy formalizing the timeline, roles, and responsibilities for constructing the annual municipal omnibus budget. Several members raised concerns that the draft focuses only on municipal departments comprising about 30 percent of town expenditures while omitting schools, and objected to language that could weaken the committee's independent authority to present and defend the budget at Town Meeting.",
+        "key_details": [
+          "Draft policy covers development and adoption of the operating, capital, and enterprise fund budgets.",
+          "Members noted school spending represents about two-thirds of the town budget but is not included in the proposed process document.",
+          "Members cited Massachusetts General Law and town bylaws confirming the Advisory/Finance Committee's statutory role to present and recommend the budget to Town Meeting.",
+          "Committee members objected to wording requiring a consensus budget, arguing Advisory must retain the right to put forward different numbers from the Select Board.",
+          "The Select Board requested feedback by August 6, but Advisory members agreed to ask for an extension to allow thorough review."
+        ],
+        "outcome": "Member Al Hamilton agreed to draft proposed revisions for discussion at the August 5 meeting.",
+        "why_it_matters": "The town budget policy establishes how municipal and school department spending plans are developed, coordinated, and presented to voters at Town Meeting.",
+        "start_seconds": 1100,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 proposed operational override discussion",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee held an initial discussion regarding an early proposal by the Select Board to seek an operational tax override for FY28. Members discussed the pros and cons of a five-year authorization of up to $10 million versus single-year overrides, and debated whether funds should be tied to efficiency plans or long-term liabilities such as pensions and OPEB.",
+        "key_details": [
+          "The Select Board is exploring an operational override of up to $10 million to cover excess spending over five years starting in FY28.",
+          "Members questioned whether voters would support a multi-year levy limit increase versus yearly votes or targeted debt exclusions.",
+          "A member suggested requiring town departments to produce productivity and efficiency plans to reduce baseline service costs before seeking an override.",
+          "Discussion touched on town pension liabilities, which are projected to increase 10 to 11 percent annually until fully funded around 2036.",
+          "An expert from the Massachusetts Division of Local Services is scheduled to join a joint meeting on overrides with the Select Board on August 11."
+        ],
+        "outcome": "Discussion held; topic continued to August 5 ahead of the August 11 joint meeting with the Select Board.",
+        "why_it_matters": "A general operational tax override permanently increases the town's property tax levy limit, directly raising taxes on homeowners and businesses.",
+        "start_seconds": 2794,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee handled routine administrative matters, including acknowledging membership transitions, postponing minute approvals, renewing the minute taker contract, and holding annual officer elections for FY27. Outgoing member Andrew Pfaff was thanked for his service following his election to the Select Board, and Al Hamilton was welcomed back to the committee.",
+        "key_details": [
+          "Review of meeting minutes was tabled to the August 5 meeting to allow members more time to read draft copies.",
+          "Voted unanimously to approve the FY27 minute-taking contract for approximately $1,000 to $1,100.",
+          "Marcy Jones was unanimously re-elected as chair for FY27.",
+          "Al Hamilton was unanimously elected as vice chair for FY27."
+        ],
+        "outcome": "Officers elected; minute taker contract approved; minutes postponed to August 5.",
+        "why_it_matters": null,
+        "start_seconds": 3922,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the contract for the committee minute taker for FY27.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4126
+      },
+      {
+        "motion": "Appoint Marcy Jones as chair of the Advisory Committee for FY27.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4255
+      },
+      {
+        "motion": "Appoint Al Hamilton as vice chair of the Advisory Committee for FY27.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4328
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Advisory Committee meeting to review policy revisions and Neary liaison proposal",
+        "when": "August 5, 2026"
+      },
+      {
+        "what": "Joint meeting with the Select Board to discuss FY28 override options with the Division of Local Services",
+        "when": "August 11, 2026"
+      },
+      {
+        "what": "Potential Fall Special Town Meeting date identified by Select Board",
+        "when": "October 17, 2026"
+      },
+      {
+        "what": "Potential Annual Town Meeting date identified by Select Board",
+        "when": "March 20, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:24:56Z",
+  "usage": {
+    "total_tokens": 176640,
+    "total_input_tokens": 171205,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 170512
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1784,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3651
+  }
+}

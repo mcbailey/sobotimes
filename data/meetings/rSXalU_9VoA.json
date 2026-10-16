@@ -1,0 +1,136 @@
+{
+  "video": {
+    "id": "rSXalU_9VoA",
+    "title": "Personnel Board 5/29/26",
+    "published_at": "2026-06-03T12:44:51Z",
+    "duration_s": 2161
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-05-29",
+    "headline": "The Personnel Board recommended awarding a $23,625 classification and compensation study to MGT Consulting and elected new leadership.",
+    "summary": "The Personnel Board reorganized its leadership, electing a new chair and vice chair, and welcomed a new board member. The board heard a detailed presentation from MGT Consulting on a proposed classification and compensation study covering 48 non-union positions. Members voted unanimously to recommend that the Select Board award the comprehensive Option B contract to MGT for $23,625. The board also authorized its new officers to sign accounting paperwork and discussed scheduling future meetings.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board opened the meeting by welcoming a new member and acknowledging a new staff hire in the Youth and Family Services Department. Members approved previous meeting minutes, authorized the new chair and vice chair to sign payable documents with the Town Accountant, and discussed holding an email poll to set June meeting dates.",
+        "key_details": [
+          "Welcomed new board member Marguerite Landry.",
+          "Acknowledged new Youth and Family Services hire Amara Shanley.",
+          "Approved meeting minutes from April 17.",
+          "Authorized the chair and vice chair to sign payables with the accounting office.",
+          "Noted that employee performance evaluations are due the following Wednesday."
+        ],
+        "outcome": "Minutes approved; payable signing authority authorized for the chair and vice chair.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "Board reorganization",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board reorganized its leadership structure prior to reviewing contract business. Members nominated and elected a new chair and vice chair.",
+        "key_details": [
+          "John Thornburn was nominated and elected chair.",
+          "Brian Shea was nominated and elected vice chair.",
+          "The board discussed continuing recruitment efforts to fill its vacant fifth seat."
+        ],
+        "outcome": "John Thornburn elected chair (3-0-1); Brian Shea elected vice chair (4-0).",
+        "why_it_matters": null,
+        "start_seconds": 98,
+        "end_seconds": null
+      },
+      {
+        "title": "Wage and salary classification study contract",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Rachel Skaggs of MGT Consulting presented a proposal for a comprehensive classification and compensation study of 48 non-union municipal positions. The project includes employee job analysis questionnaires, benchmark salary surveys across 15 to 20 comparable communities, and implementation guidance over a five-to-six-month period. The board voted to recommend that the Select Board award the contract under Option B, in which the consultant handles 100 percent of data collection for $23,625.",
+        "key_details": [
+          "Study covers 48 non-union municipal positions across the town.",
+          "Market survey will compare Southborough data against 15 to 20 peer communities based on eight demographic and financial criteria.",
+          "Estimated project timeline is five to six months.",
+          "Option B totals $23,625 for full consultant-led data collection and analysis.",
+          "Final contract award authority rests with the Select Board at its upcoming meeting."
+        ],
+        "outcome": "Voted 4-0 to recommend the Select Board approve MGT Consulting Option B for $23,625.",
+        "why_it_matters": "The study will evaluate job responsibilities and establish compensation ranges for all 48 non-union municipal employees, directly influencing future town personnel budgets and wage competitiveness.",
+        "start_seconds": 327,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Elect John Thornburn as chair",
+        "result": "passed",
+        "tally": "3-0-1",
+        "start_seconds": 219
+      },
+      {
+        "motion": "Elect Brian Shea as vice chair",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 258
+      },
+      {
+        "motion": "Recommend that the Select Board accept the MGT Consulting Option B bid for $23,625 for the classification and compensation study",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1826
+      },
+      {
+        "motion": "Authorize the new chair and vice chair to sign town payables paperwork",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1935
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A representative of the Southborough Association of Professional Employees expressed excitement for the classification study, invited board members to attend monthly SAPE meetings, and emphasized the importance of collaboration and clear communication throughout the review.",
+        "start_seconds": 2070
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Select Board meeting to consider awarding the classification study contract",
+        "when": "June 4, 2024"
+      },
+      {
+        "what": "Town employee performance evaluations due",
+        "when": "June 5, 2024"
+      },
+      {
+        "what": "Personnel Board meeting date to be scheduled via email poll",
+        "when": "June 2024"
+      }
+    ],
+    "caveats": "The video title displays a date of 5/29/26, but the on-screen camera timestamp and meeting references confirm the meeting occurred on May 29, 2024. Remote consultant audio was delayed during the first five minutes due to technical difficulties."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:18:40Z",
+  "usage": {
+    "total_tokens": 85397,
+    "total_input_tokens": 80615,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 79925
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1418,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3364
+  }
+}

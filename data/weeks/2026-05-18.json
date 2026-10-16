@@ -1,0 +1,89 @@
+{
+  "headline": "The Select Board approved $12.5 million in regional dispatch borrowing, while town boards backed a joint Route 9 corridor study with Westborough.",
+  "synopsis": "The Select Board voted 4-1 to authorize up to $12.5 million in bridge borrowing for the MetroWest Regional Emergency Communication Center and reorganized leadership, electing Kathy Cook as chair. Southborough boards, including the Planning Board and Wastewater Study Committee, coordinated support for a joint state grant application with Westborough to study the Route 9 and Interstate 495 corridor. The Community Preservation Committee reviewed a scaled-back splash pad design for Fayville Memorial Park and discussed alternative routes for Peninsula Trail Phase 2 due to escalating construction bids. In other business, the Scholarship Advisory Committee awarded $6,000 to six local students, and the Select Board appointed two student police officers.",
+  "highlights": [
+    {
+      "title": "Regional emergency dispatch borrowing authorized",
+      "why": "The Select Board voted 4-1 to authorize up to $12.5 million in short-term borrowing to maintain construction cash flow for the regional dispatch center while awaiting state grant disbursements.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "deu8b2Ix5zU",
+      "start_seconds": 2125
+    },
+    {
+      "title": "Support for joint Route 9 corridor study with Westborough",
+      "why": "The Planning Board voted 4-0 to endorse a state grant application for a $150,000 planning study of the Route 9 and Interstate 495 corridor, adjusting language to protect neighborhood buffers and focus on commercial tax growth.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "X6ABrfEh-fQ",
+      "start_seconds": 1
+    },
+    {
+      "title": "Fayville Memorial Park redesign and parking plans",
+      "why": "Recreation officials reported public feedback that led to shrinking the proposed splash pad footprint from 8,000 to 2,000 square feet to preserve sledding space, while a parking study is underway ahead of a June 30 funding deadline.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "C_4TOzgcpyo",
+      "start_seconds": 313
+    },
+    {
+      "title": "Peninsula Trail Phase 2 cost gap and alternatives",
+      "why": "With projected costs for a bridge and boardwalk crossing $600,000 against $211,000 in hand, the Trails Committee began exploring an upland workaround route to bypass the wetland boardwalk.",
+      "body": "Community Preservation Committee",
+      "importance": "medium",
+      "video_id": "C_4TOzgcpyo",
+      "start_seconds": 2670
+    },
+    {
+      "title": "Select Board leadership reorganization",
+      "why": "Following former chair Andrew Dennington stepping down from the leadership role, the board voted unanimously to elect Kathy Cook as chair and Michael Baff as vice chair.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "deu8b2Ix5zU",
+      "start_seconds": 4143
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Continued public hearing on the Parkerville Road utility pole petition",
+      "when": "June 2, 2026, at 6:30 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Discussion regarding grant support and potential corridor study funding",
+      "when": "June 2, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Submission deadline for the state One Stop for Growth grant application",
+      "when": "June 3, 2026",
+      "body": null
+    },
+    {
+      "what": "Select Board annual goal-setting session",
+      "when": "June 8, 2026, at 6:00 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Annual Community Preservation Act Public Forum and regular meeting",
+      "when": "June 11, 2026, at 7:00 PM",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Submission deadline for revised and new CPA applications for the fall funding cycle",
+      "when": "June 30, 2026",
+      "body": "Community Preservation Committee"
+    }
+  ],
+  "week": "2026-05-18",
+  "fingerprint": "a1fae6dc906a1b8c",
+  "video_ids": [
+    "C_4TOzgcpyo",
+    "X6ABrfEh-fQ",
+    "YmD0athXTZs",
+    "aE6XZkN9G9s",
+    "deu8b2Ix5zU"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:11:04Z"
+}

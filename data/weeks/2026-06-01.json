@@ -1,0 +1,104 @@
+{
+  "headline": "Southborough secured a $3.9 million culvert grant, approved an architect for the Neary school project, and adjusted multiple capital funding plans.",
+  "synopsis": "Southborough was awarded nearly $3.9 million in state culvert grants, allowing the town to avoid taking on debt previously authorized by Town Meeting. The Select Board approved a feasibility study contract with Tappe Architects for the Neary Elementary School project and awarded a repair bid for the Town Common fence, while the School Committee appointed Daniel Mazur as director of student support services. Regulatory boards addressed major development proposals, including a 32-unit Chapter 40B project on Turnpike Road and occupancy conditions for 200 Turnpike Road. Meanwhile, the Trails and Golf committees confronted rising costs and revised their Community Preservation Act funding strategies.",
+  "highlights": [
+    {
+      "title": "Town awarded $3.9 million state culvert grant",
+      "why": "The grant covers infrastructure replacements across town, enabling Southborough to avoid issuing $3.9 million in borrowing that Town Meeting had previously approved.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "QOopXboMCl0",
+      "start_seconds": 2080
+    },
+    {
+      "title": "Neary school feasibility study contract approved",
+      "why": "The Select Board approved a contract with Tappe Architects requiring objective evaluations and preliminary designs for both Town Meeting school options.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "QOopXboMCl0",
+      "start_seconds": 2590
+    },
+    {
+      "title": "Conservation review of 32-unit Turnpike Road housing project",
+      "why": "The commission reviewed buffer zone alterations and wildlife crossings for a proposed Chapter 40B development at 250 Turnpike Road before continuing the hearing to June 25.",
+      "body": "Conservation Commission",
+      "importance": "high",
+      "video_id": "g_7SIaQJK7M",
+      "start_seconds": 1164
+    },
+    {
+      "title": "Trails Committee scales back CPA request to bridge only",
+      "why": "With combined bridge and boardwalk estimates reaching $630,000, the committee decided to seek Community Preservation Act funds only for the $410,000 bridge portion.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "20bBFqxSPkE",
+      "start_seconds": 110
+    },
+    {
+      "title": "Daniel Mazur appointed director of student support services",
+      "why": "The School Committee voted unanimously to hire Mazur to lead K-8 student support services, targeting a July 1 start date.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "KAKmu8l1HIw",
+      "start_seconds": 43
+    },
+    {
+      "title": "Town Common fence restoration contract awarded",
+      "why": "The Select Board awarded a $70,500 base bid to Kneeland Construction to restore and repair the existing Town Common fence using Community Preservation Act funds.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "QOopXboMCl0",
+      "start_seconds": 3976
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board goal-setting retreat at Public Safety Building",
+      "when": "June 8, 2026 at 6:00 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Select Board office hours",
+      "when": "June 9, 2026 at 6:00 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Community Preservation Committee public forum and project appearances",
+      "when": "June 11, 2026 at 7:00 PM",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Continued public hearing on National Grid Parkerville Road utility pole",
+      "when": "June 16, 2026 at 6:30 PM",
+      "body": "Select Board"
+    },
+    {
+      "what": "Continued public hearings on 22 Turnpike Road and 154 Turnpike Road modifications",
+      "when": "June 22, 2026 at 6:45 PM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Continued public hearings on 250 Turnpike Road, utility poles, and Southville Road",
+      "when": "June 25, 2026",
+      "body": "Conservation Commission"
+    },
+    {
+      "what": "Community Preservation Act funding application deadline",
+      "when": "June 30, 2026",
+      "body": "Community Preservation Committee"
+    }
+  ],
+  "week": "2026-06-01",
+  "fingerprint": "03d45497d8bdb3ff",
+  "video_ids": [
+    "20bBFqxSPkE",
+    "KAKmu8l1HIw",
+    "QOopXboMCl0",
+    "g_7SIaQJK7M",
+    "kpEDyrpGcHk",
+    "lTy9dXfBl0Y",
+    "naNh8DiADss"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:10:11Z"
+}

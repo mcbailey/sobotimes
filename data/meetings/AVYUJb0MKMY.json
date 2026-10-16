@@ -1,0 +1,107 @@
+{
+  "video": {
+    "id": "AVYUJb0MKMY",
+    "title": "Southborough K-8 School Committee, Special Open meeting, January 30,  2026",
+    "published_at": "2026-05-12T18:11:32Z",
+    "duration_s": 4757
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Southborough School Committee",
+    "meeting_date": null,
+    "headline": "Consultants reported Neary Elementary's roof is failing, recommending a full replacement project estimated between $4.5 million and $6.5 million.",
+    "summary": "Engineering consultants from SOCOTEC presented an urgent assessment of the Neary Elementary School roof, reporting severe seam deterioration, detached insulation across one-third of the building, and immediate blow-off risks over the gym. Replacing the roof is estimated to cost between $3.7 million and $4.5 million, which triggers state accessibility laws that could add over $2 million in mandatory Americans with Disabilities Act upgrades. A member of the Select Board joined to discuss structuring warrant articles and potential borrowing for the March 2 Special Town Meeting. The committee also outlined a public outreach campaign before losing quorum and abruptly adjourning.",
+    "topics": [
+      {
+        "title": "Neary Elementary School roof assessment and replacement estimate",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Engineering consultants from SOCOTEC presented findings from their structural evaluation of Neary Elementary School's 30-year-old, 63,000-square-foot roof. The roof is in active failure mode with roughly 8,000 linear feet of failed seams, extensive water intrusion, and approximately 22,000 square feet of insulation detached from the structural gypsum deck. The consultants advised against attempting further patch repairs or coatings, recommending immediate short-term stabilization with sandbags and polymer bars followed by a complete roof replacement.",
+        "key_details": [
+          "Approximately one-third (22,000 square feet) of the roof insulation has detached from the underlying gypsum deck, causing severe ponding and wind fluttering.",
+          "A critical failure area over the gymnasium roof presents an active blow-off risk during heavy wind storms.",
+          "Base construction cost for full replacement down to the deck is estimated at $3.7 million, rising to $4.0 million to $4.5 million with contingencies.",
+          "Short-term stabilization measures including polymer bars and sandbags were recommended to secure loose membrane sections through the winter.",
+          "A final detailed engineering report including all aerial and infrared imagery is scheduled for completion around February 13, 2026."
+        ],
+        "outcome": "The engineering team will provide district facilities staff with a placement map for immediate sandbag stabilization and deliver a final report by mid-February.",
+        "why_it_matters": "A failure of the school roof creates potential building closures and safety hazards for students and staff, while a full replacement requires millions in capital spending.",
+        "start_seconds": 27,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting warrant strategy and ADA compliance triggers",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee examined how to present Neary roof funding at the March 2 Special Town Meeting, specifically addressing the thresholds of the Massachusetts Architectural Access Board (MAAB). Because the building's assessed value is approximately $12 million, spending more than 30 percent on capital work triggers mandatory full-building accessibility compliance, adding an estimated $2 million or more to project costs. A member of the Select Board joined to review article sequencing, free cash availability, and whether accessibility funding should be combined with the roof article or placed separately as an Article 5.",
+        "key_details": [
+          "Combined estimated costs for the roof replacement and triggered ADA accessibility compliance total approximately $6.5 million.",
+          "Capital expenditures exceeding 30 percent of the facility's assessed value require bringing the entire building into compliance with modern MAAB and ADA standards.",
+          "Town free cash was reported at approximately $3.5 million to $3.7 million, meaning large capital items would likely require borrowing rather than cash reserves.",
+          "The committee discussed whether Article 1 should include schematic design funding for wider Neary renovations while moving forward with emergency roof replacement.",
+          "The Select Board will review draft warrant language and order of operations at its February 3 meeting."
+        ],
+        "outcome": "Committee leadership will prepare proposed warrant language regarding roof replacement and ADA triggers to coordinate with the Select Board on February 3, 2026.",
+        "why_it_matters": "Residents will vote at Town Meeting on multi-million dollar borrowing or tax appropriations that determine whether school repairs occur this summer.",
+        "start_seconds": 2825,
+        "end_seconds": null
+      },
+      {
+        "title": "Public outreach strategy for capital warrant articles",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee discussed communication strategies to explain the Neary roof condition and related warrant articles to voters prior to Town Meeting. Members reviewed findings from a recent town survey of more than 630 respondents showing community preference for email newsletters, local news blogs, public forums, and municipal websites. Plans include hosting hybrid in-person and remote informational forums and coordinating directly with parent-teacher organizations.",
+        "key_details": [
+          "A recent town survey indicated residents rely most heavily on email alerts, local blogs, town websites, public forums, and social media for project information.",
+          "The committee plans to conduct informational forums offering both in-person and Zoom attendance options.",
+          "Outreach will include presentations to the Southborough Organization for Schools (SOS) parent groups.",
+          "The school district is expanding outreach tools with a new district Facebook page and Instagram account."
+        ],
+        "outcome": "The committee will finalize dates for public forums and coordinate with parent-teacher groups once the Select Board finalizes warrant language.",
+        "why_it_matters": null,
+        "start_seconds": 4410,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting to discuss Town Meeting warrant articles",
+        "when": "February 3, 2026"
+      },
+      {
+        "what": "Delivery of SOCOTEC final engineering assessment report on Neary roof",
+        "when": "February 13, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "March 2, 2026"
+      }
+    ],
+    "caveats": "A committee member unexpectedly departed the meeting at 1:18:50, causing the body to lose its three-member quorum and prompting an immediate procedural adjournment."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:41:03Z",
+  "usage": {
+    "total_tokens": 181066,
+    "total_input_tokens": 176691,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 175986
+      },
+      {
+        "modality": "text",
+        "tokens": 705
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1478,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2897
+  }
+}

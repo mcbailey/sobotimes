@@ -1,0 +1,192 @@
+{
+  "video": {
+    "id": "9y_hdDUi2PM",
+    "title": "Library Board of Trustees 6/8/26",
+    "published_at": "2026-06-09T18:32:20Z",
+    "duration_s": 4375
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Library Board of Trustees",
+    "meeting_date": "2026-06-08",
+    "headline": "The Library Trustees elected new board leadership, clarified parking lot repaving procedures with the DPW, and welcomed a prospective trustee candidate.",
+    "summary": "The Library Board of Trustees elected a new chair and vice chair following the resignation of the former chair, discussing potential term rotation practices. Public Works Department Director Bill Cundiff joined the board to clarify that repaving the library parking lot must proceed as a capital project request initiated by the trustees rather than DPW operations. Trustees also reviewed proposed Community Preservation Committee signage wording, authorized the use of trust funds for year-end book materials, and scheduled a joint meeting with the Select Board to appoint candidate Molly Schofield to the vacant trustee seat.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved the minutes from the May 11 meeting and adjourned the session.",
+        "key_details": [
+          "Minutes of May 11 were approved unanimously.",
+          "Next regular board meeting scheduled for July 13, 2024 at 11:00 AM."
+        ],
+        "outcome": "Meeting adjourned at 12:16 PM.",
+        "why_it_matters": null,
+        "start_seconds": 15,
+        "end_seconds": null
+      },
+      {
+        "title": "Director's and expense reports",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The library director provided updates on year-end budget closeout, facility repairs, and technology upgrades. All public computers and the fax machine have been replaced, and plans are moving forward to safely remove a disruptive bird nest before upcoming concrete repairs. The director and trustees also discussed options and estimated costs for repairing antique clocks in the Judy Williams reading room.",
+        "key_details": [
+          "Public computers and fax machine hardware upgrades were completed.",
+          "Concrete work near the entrance is being coordinated alongside a project at the Senior Center.",
+          "The library is contacting a clock museum in Grafton for estimates on repairing the entryway and grandfather clocks.",
+          "End-of-year funds may be directed toward high-demand digital audiobooks and e-books on Libby."
+        ],
+        "outcome": "Reports accepted with no formal vote required.",
+        "why_it_matters": null,
+        "start_seconds": 112,
+        "end_seconds": null
+      },
+      {
+        "title": "Election of board officers",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Trustees debated whether the board should adopt an informal practice of rotating the chair role every one to two years, noting other town boards rotate regularly. Following the discussion, the board formally nominated and elected new officers to fill the leadership vacancy.",
+        "key_details": [
+          "A member suggested rotating the chair role every two years to share leadership responsibility.",
+          "Trustee Jane Davis was nominated and elected as board chair.",
+          "Trustee Amy Yazdani was nominated and elected as vice chair."
+        ],
+        "outcome": "Jane Davis elected chair and Amy Yazdani elected vice chair by unanimous roll call votes.",
+        "why_it_matters": null,
+        "start_seconds": 880,
+        "end_seconds": null
+      },
+      {
+        "title": "DPW communication and library parking lot",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The board discussed a communication letter drafted to the Department of Public Works regarding maintenance delays and the library parking lot. DPW Director Bill Cundiff joined the discussion to explain that full parking lot repaving is a capital project that requires a town meeting warrant article sponsored by the trustees rather than a DPW operational repair. Cundiff offered to assist the library with engineering contacts and project scoping to bring a capital request to Town Meeting.",
+        "key_details": [
+          "DPW Director Bill Cundiff explained DPW staffing shortages and heavy focus on road reconstruction projects.",
+          "Parking lot repaving must be brought as a trustee-sponsored capital request to Town Meeting.",
+          "Cundiff provided engineer names, survey drawings, and CAD files to assist with project planning.",
+          "Board members agreed to meet and coordinate future maintenance communications directly with the DPW director."
+        ],
+        "outcome": "Trustee leadership agreed to review correspondence and coordinate directly with DPW on capital scoping.",
+        "why_it_matters": "Clarifies the funding and project management pathway required to repair the library parking lot at Town Meeting.",
+        "start_seconds": 1626,
+        "end_seconds": null
+      },
+      {
+        "title": "Community Preservation Committee signage language",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The director presented proposed wording from the Community Preservation Committee for signs acknowledging CPA funding for facade restoration and archival preservation. Trustees evaluated proposed phrasing and unanimously preferred acknowledging 'residents' rather than 'citizens.'",
+        "key_details": [
+          "Signs will acknowledge CPA funding for the facade restoration and the Southborough Library Local History Collection.",
+          "Trustees unanimously directed staff to ensure the text reads 'residents' instead of 'citizens'.",
+          "Trustees corrected the collection title from 'Material Archive' to 'Local History Collection'.",
+          "Proposed sign dimensions discussed were roughly 12 inches by 18 inches."
+        ],
+        "outcome": "The director will convey the board's wording preferences to the Community Preservation Committee.",
+        "why_it_matters": null,
+        "start_seconds": 2775,
+        "end_seconds": null
+      },
+      {
+        "title": "Library director annual evaluation",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Trustees reviewed the final written evaluation document for Library Director Ryan Donovan. The board agreed to strike a line from the document regarding parking lot research before the chair signs the final certification form.",
+        "key_details": [
+          "Trustees agreed to delete a sentence stating trustees agree the director does not need to research parking lot issues.",
+          "The chair will meet with the director offline to sign the town evaluation certification form."
+        ],
+        "outcome": "Evaluation adjusted to strike the parking lot sentence; signing scheduled offline.",
+        "why_it_matters": null,
+        "start_seconds": 3426,
+        "end_seconds": null
+      },
+      {
+        "title": "Authorization of Mary Finn Fund",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The director requested standing authorization to utilize the town-managed Mary Finn Fund trust to cover book expenses if end-of-year collection invoices exceed the operating budget line item. The trust was established by a family bequest with the explicit stipulation that funds be spent on books.",
+        "key_details": [
+          "The Mary Finn Fund is a town-managed trust fund restricted to purchasing books.",
+          "Authorization allows invoices received late in the fiscal year to be paid from the trust without exceeding the municipal operating budget."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": "Enables the library to cover fiscal year-end book purchasing overages using dedicated private bequest funds rather than general tax appropriations.",
+        "start_seconds": 3618,
+        "end_seconds": null
+      },
+      {
+        "title": "Prospective trustee appointment",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Resident Molly Schofield was introduced as an applicant to fill the vacant seat on the Board of Trustees through the next annual town election. Trustees reviewed the appointment procedure, which requires a joint meeting and vote with the Select Board.",
+        "key_details": [
+          "Molly Schofield applied for the vacancy created by Marguerite Landry's resignation.",
+          "A joint meeting with the Select Board is scheduled for June 16, 2024, around 6:45 PM to vote on the appointment.",
+          "The appointee will serve until the spring 2025 town election, where the remainder of the term will be on the ballot."
+        ],
+        "outcome": "Trustees agreed to attend the June 16 joint meeting with the Select Board.",
+        "why_it_matters": null,
+        "start_seconds": 3702,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Elect Jane Davis as Chair of the Library Board of Trustees",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1527
+      },
+      {
+        "motion": "Elect Amy Yazdani as Vice Chair of the Library Board of Trustees",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1563
+      },
+      {
+        "motion": "Authorize the use of the Mary Finn Fund to cover book materials if needed for fiscal year-end overages",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 3685
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Joint meeting with the Select Board to appoint a trustee to fill the board vacancy",
+        "when": "June 16, 2024 at 6:45 PM"
+      },
+      {
+        "what": "Next regular Library Board of Trustees meeting",
+        "when": "July 13, 2024 at 11:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:13:45Z",
+  "usage": {
+    "total_tokens": 171263,
+    "total_input_tokens": 167815,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 693
+      },
+      {
+        "modality": "video",
+        "tokens": 167122
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2230,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1218
+  }
+}

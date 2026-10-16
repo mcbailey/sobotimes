@@ -1,0 +1,59 @@
+{
+  "headline": "The Wastewater Study Committee prepared a Route 9 District Improvement Financing strategy and infrastructure timeline targeting voter approval at the fall 2026 Special Town Meeting.",
+  "synopsis": "The Wastewater Study Committee finalized plans to brief the Select Board on a proposed Route 9 wastewater collection and treatment project. Under the proposal, the town would establish a District Improvement Financing district covering roughly 580 parcels to fund infrastructure debt through future tax growth. Project implementation has been extended to 2030 following an unapproved state grant, with voter authorization targeted for the fall 2026 Special Town Meeting. Members also discussed technical site constraints requiring up to 20 acres for treatment and discharge, alongside ongoing regional coordination with Westborough.",
+  "highlights": [
+    {
+      "title": "Route 9 District Improvement Financing proposal",
+      "why": "The committee prepared a presentation for the Select Board proposing a financing district covering 580 parcels along Route 9 to fund wastewater infrastructure debt. The proposal aims for voter authorization at the fall 2026 Special Town Meeting with an extended project target of 2030.",
+      "body": "Wastewater Study Committee",
+      "importance": "high",
+      "video_id": "PAtEimNNvz4",
+      "start_seconds": 70
+    },
+    {
+      "title": "Wastewater site evaluation and regional coordination",
+      "why": "Members evaluated technical requirements for a 300,000 to 500,000 gallon-per-day system, including the challenge of locating up to 20 acres along Route 9, and reviewed cross-border coordination talks with Westborough.",
+      "body": "Wastewater Study Committee",
+      "importance": "medium",
+      "video_id": "PAtEimNNvz4",
+      "start_seconds": 2240
+    },
+    {
+      "title": "March meeting minutes approval",
+      "why": "The committee voted unanimously by roll call to approve the draft meeting minutes from its March 19, 2026 meeting.",
+      "body": "Wastewater Study Committee",
+      "importance": "low",
+      "video_id": "PAtEimNNvz4",
+      "start_seconds": 20
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Select Board meeting presentation by Wastewater Study Committee",
+      "when": "April 28, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Joint discussion on Route 9 planning and zoning",
+      "when": "May 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Wastewater Study Committee meeting",
+      "when": "May 21, 2026",
+      "body": "Wastewater Study Committee"
+    },
+    {
+      "what": "Special Town Meeting consideration of DIF plan and design funds",
+      "when": "Fall 2026",
+      "body": "Town Meeting"
+    }
+  ],
+  "week": "2026-04-20",
+  "fingerprint": "4f784c27f0b841ff",
+  "video_ids": [
+    "PAtEimNNvz4"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:12:37Z"
+}

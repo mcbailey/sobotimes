@@ -1,0 +1,165 @@
+{
+  "video": {
+    "id": "hxB6rx-EkQY",
+    "title": "Conservation Commission 7/29/26",
+    "published_at": "2026-07-30T19:31:15Z",
+    "duration_s": 1770
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Conservation Commission",
+    "meeting_date": "2026-07-29",
+    "headline": "The Conservation Commission approved orders of conditions for an Eagle Scout trail project on Valley Road and an ADU on Newton Street.",
+    "summary": "The Conservation Commission held continued hearings on two notices of intent, approving an Order of Conditions for an Eagle Scout footbridge and trail project on Valley Road and another for a garage, accessory dwelling unit, and septic replacement on Newton Street. The commission also granted a partial Certificate of Compliance for two undeveloped parcels tied to a decades-old subdivision order on Sarsenstone Way. Additionally, members approved a Certificate of Compliance for 65C School Street following buffer zone restoration.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission addressed routine procedural business, including approving minutes from the June 25 meeting and voting to adjourn at the end of the evening.",
+        "key_details": [
+          "Approved meeting minutes from June 25, 2026."
+        ],
+        "outcome": "Minutes approved and meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 8,
+        "end_seconds": null
+      },
+      {
+        "title": "0 Valley Road boardwalk and trail Notice of Intent",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The commission reviewed an application for an Eagle Scout project to construct a wooden footbridge and dirt trail system on Southborough Open Land Foundation property at 0 Valley Road. The conservation agent confirmed that the project is exempt from 401 water quality certification and shared research showing modern pressure-treated wood treatments do not pose environmental toxicity risks. The commission closed the hearing and voted to issue an Order of Conditions with standard and special conditions.",
+        "key_details": [
+          "Applicant: Corey Liu for an Eagle Scout project on Southborough Open Land Foundation land.",
+          "Location: 0 Valley Road (Map 48, Lot 7).",
+          "Project involves constructing a wooden boardwalk and trail system.",
+          "Commission discussed lumber types, noting pressure-treated wood is acceptable and more affordable than cedar.",
+          "A standard 10-day appeal period applies before construction can proceed."
+        ],
+        "outcome": "Public hearing closed and Order of Conditions approved.",
+        "why_it_matters": null,
+        "start_seconds": 57,
+        "end_seconds": null
+      },
+      {
+        "title": "14 Newton Street garage, ADU, and septic Notice of Intent",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission considered a Notice of Intent for the construction of a detached garage with an accessory dwelling unit, replacement of a septic system, and related site work at 14 Newton Street. The applicant submitted a revised plan adjusting the location of a drywell designed to infiltrate stormwater runoff from the new impervious roof area. With a state DEP file number received and no outstanding questions, the commission voted to close the hearing and issue an Order of Conditions.",
+        "key_details": [
+          "Location: 14 Newton Street (Map 54, Lot 49).",
+          "Applicant: Jamie Falconi.",
+          "Scope includes garage, accessory dwelling unit, septic replacement, and a drywell for roof runoff.",
+          "Drywell is sized to infiltrate at least 1 inch of runoff per square foot of roof.",
+          "Applicant must install erosion controls and request an inspection before starting construction."
+        ],
+        "outcome": "Public hearing closed and Order of Conditions approved.",
+        "why_it_matters": null,
+        "start_seconds": 667,
+        "end_seconds": null
+      },
+      {
+        "title": "Sarsenstone Way partial Certificate of Compliance",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission reviewed a request for a Certificate of Compliance for two undeveloped lots on Route 9 tied to a 1970s Order of Conditions for the Sarsenstone Way subdivision (DEP file 290-100). The owners required the certificate due to ongoing probate proceedings. Because documentation and as-built plans for the full 50-year-old subdivision were incomplete, the commission decided to issue a partial certificate covering only the two specific parcels while staff searches town records before addressing the remainder of the subdivision.",
+        "key_details": [
+          "Original Order of Conditions dates back approximately 50 years (DEP # 290-100).",
+          "Affects two vacant parcels on Route 9 adjacent to Sarsenstone Way.",
+          "Property owners requested the clearance to settle an estate in probate.",
+          "Issuing the certificate does not change any existing wetland resource boundaries on the site."
+        ],
+        "outcome": "Partial Certificate of Compliance approved for the two undeveloped lots.",
+        "why_it_matters": null,
+        "start_seconds": 952,
+        "end_seconds": null
+      },
+      {
+        "title": "65C School Street Certificate of Compliance",
+        "category": "Environment & conservation",
+        "importance": "medium",
+        "summary": "The commission evaluated a request for a Certificate of Compliance for work at 65C School Street following buffer zone remediation. Earlier in the spring, an unpermitted clearing of brush occurred within the 20-foot no-touch wetland buffer. The homeowner restored the lawn, planted native shrubs, and submitted an updated as-built plan with photographic documentation demarcating the garden boundary.",
+        "key_details": [
+          "Location: 65C School Street.",
+          "Previous violation involved landscaper clearing inside the 20-foot no-touch buffer zone.",
+          "Homeowner restored the disturbed area, seeded grass, and planted native shrubs.",
+          "Edge of lawn and garden was memorialized on as-built plans to prevent future encroachment."
+        ],
+        "outcome": "Certificate of Compliance approved.",
+        "why_it_matters": null,
+        "start_seconds": 1588,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Close the public hearing for 0 Valley Road",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 429
+      },
+      {
+        "motion": "Issue an Order of Conditions with general and special conditions for 0 Valley Road",
+        "result": "passed",
+        "tally": "3-0-1",
+        "start_seconds": 549
+      },
+      {
+        "motion": "Close the public hearing for 14 Newton Street",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 852
+      },
+      {
+        "motion": "Issue an Order of Conditions with general and special conditions for 14 Newton Street",
+        "result": "passed",
+        "tally": "3-0-1",
+        "start_seconds": 895
+      },
+      {
+        "motion": "Issue a partial Certificate of Compliance for the two undeveloped lots on Sarsenstone Way",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1578
+      },
+      {
+        "motion": "Issue a Certificate of Compliance for 65C School Street",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 1686
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Conservation Commission regular meeting",
+        "when": "August 27, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:23:32Z",
+  "usage": {
+    "total_tokens": 71805,
+    "total_input_tokens": 68292,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 67602
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1823,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1690
+  }
+}

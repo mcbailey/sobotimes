@@ -1,0 +1,83 @@
+{
+  "video": {
+    "id": "g-eEt2SJdRI",
+    "title": "Elementary School Building Committee 6/17/26",
+    "published_at": "2026-06-22T14:28:26Z",
+    "duration_s": 3274
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-06-17",
+    "headline": "The Elementary School Building Committee met with Tappé Architects to launch a revised Neary School study exploring tiered options for future Town Meetings.",
+    "summary": "The Southborough Elementary School Building Committee convened with newly contracted design firm Tappé Architects to initiate work on a revised approach for the Neary Elementary School project. Members and the architects reviewed lessons from the failed prior MSBA proposal, emphasizing the need for a menu of tiered renovation options, early engagement with other town committees, and transparent community communication. The architects indicated that the October 17 Special Town Meeting is likely too soon for a comprehensive funding vote and recommended using it for an informational update ahead of the 2025 Annual Town Meeting.",
+    "topics": [
+      {
+        "title": "Neary School project kickoff and strategy with Tappé Architects",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee held an introductory work session with Tappé Architects following the execution of their contract to study renovation options for Neary Elementary School. Members detailed past project challenges, urging architects to prepare multiple flexible options and avoid past issues regarding limited community consensus. The team also addressed building condition challenges, site constraints, and the expected cadence of future meetings.",
+        "key_details": [
+          "Tappé Architects executed their contract within the past two weeks and are reviewing past MSBA project files and drawings.",
+          "Members stressed avoiding a single take-it-or-leave-it option, recommending a menu ranging from code-compliant repairs to broader educational renovations.",
+          "A member highlighted site and structural concerns, including the adjacent landfill, unflagged wetlands, and poor fill soils near the building.",
+          "Architects noted the scheduled October 17 Special Town Meeting is tight for a full funding package and suggested an informational presentation instead, eyeing a potential spring vote.",
+          "Tappé plans a light schematic design approach allowing cost estimates across multiple renovation tiers."
+        ],
+        "outcome": "Tappé Architects will draft a project work plan, roadmap, and schedule to present at the next meeting.",
+        "why_it_matters": "The study will determine the scope and cost of future school renovations and directly impacts local taxes, school facilities, and Town Meeting warrant articles.",
+        "start_seconds": 27,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the floor for any unscheduled business, held a brief public comment period with no attendees speaking, and adjourned the meeting.",
+        "key_details": [
+          "No public comments were offered."
+        ],
+        "outcome": "Meeting adjourned by roll-call vote at 7:56 PM.",
+        "why_it_matters": null,
+        "start_seconds": 3182,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Next Elementary School Building Committee meeting to review work plan and schedule",
+        "when": "July 8, 2024 at 7:00 PM"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2024"
+      }
+    ],
+    "caveats": "The video title lists the date as 6/17/26, but the recording timestamp confirms the meeting occurred on June 17, 2024."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:59:08Z",
+  "usage": {
+    "total_tokens": 128193,
+    "total_input_tokens": 125767,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 125075
+      },
+      {
+        "modality": "text",
+        "tokens": 692
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 830,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1596
+  }
+}

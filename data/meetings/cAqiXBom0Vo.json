@@ -1,0 +1,97 @@
+{
+  "video": {
+    "id": "cAqiXBom0Vo",
+    "title": "Elementary School Building Committee 7/8/26",
+    "published_at": "2026-07-10T12:30:18Z",
+    "duration_s": 4262
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-07-08",
+    "headline": "Tappe Architects presented a baseline conditions assessment and project timeline for renovating or replacing Neary Elementary School.",
+    "summary": "Tappe Architects presented a preliminary work plan and existing conditions assessment for Neary Elementary School, identifying needs across the building envelope, accessibility, and mechanical and fire protection systems. The committee discussed potential structural investigations, the planned removal of modular classrooms installed around 2003, and whether central district administration offices should remain at the site. Members also examined educational space needs and discussed whether the town should pursue Massachusetts School Building Authority reimbursement or advance an independent capital project.",
+    "topics": [
+      {
+        "title": "Neary School work plan and existing conditions analysis",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Architects from Tappe Architects presented an initial timeline and conditions assessment of Margaret A. Neary Elementary School. The review highlighted that while the building is structurally sound and well maintained, it requires significant upgrades including modern triple-glazed windows, wall insulation improvements, full accessibility compliance, new HVAC systems to replace noisy unit ventilators, and an automatic fire sprinkler system. The committee also discussed pedagogical space needs, the condition of modular classrooms, the possibility of relocating central school district offices out of Neary, and long-term project options targeting Annual Town Meeting in 2027.",
+        "key_details": [
+          "Neary School currently lacks a fire sprinkler system, which is required under state law (MGL c. 148 s. 26G) for educational facilities of this size.",
+          "Classrooms measure approximately 890 square feet, which fits district target class sizes of 18 to 22 students, but the layout lacks flexible breakout spaces, learning neighborhoods, and dedicated wellness or world language rooms.",
+          "The modular classrooms installed around 2003 have reached the end of their useful life and the committee intends to remove them.",
+          "A committee member raised concerns regarding subsurface soil conditions and high groundwater under the building slab, prompting Tappe to offer to consult geotechnical engineers if structural wall alterations are planned.",
+          "The project timeline targets developing design concepts through the fall of 2024 and finalizing proposals for Annual Town Meeting in 2027."
+        ],
+        "outcome": "Discussion only; Tappe Architects will incorporate committee feedback, meet with school district leadership regarding educational programming and enrollment, and refine improvement strategies.",
+        "why_it_matters": "The project will shape the future educational environment for elementary students and involves a major potential capital expenditure for Southborough taxpayers.",
+        "start_seconds": 74,
+        "end_seconds": null
+      },
+      {
+        "title": "Future schedule and committee site visit",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "The committee established upcoming meeting dates for the late summer and planned a walkthrough tour of Neary Elementary School for committee members.",
+        "key_details": [
+          "Members agreed on upcoming meeting dates for August 5, August 19, and September 3, 2024.",
+          "Committee leadership arranged to coordinate a building tour of Neary School for members prior to public engagement phases.",
+          "Officials noted that the roof replacement project at Neary School is underway during the summer of 2024."
+        ],
+        "outcome": "Meeting dates were set and member walkthroughs of Neary School will be scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 3840,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Elementary School Building Committee meeting",
+        "when": "August 5, 2024"
+      },
+      {
+        "what": "Elementary School Building Committee meeting",
+        "when": "August 19, 2024"
+      },
+      {
+        "what": "Elementary School Building Committee meeting",
+        "when": "September 3, 2024"
+      },
+      {
+        "what": "Informational project update presentation at Special Town Meeting",
+        "when": "October 2024"
+      },
+      {
+        "what": "Annual Town Meeting presentation and potential funding vote",
+        "when": "March 20, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:42:16Z",
+  "usage": {
+    "total_tokens": 166246,
+    "total_input_tokens": 163474,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 162781
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1025,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1747
+  }
+}

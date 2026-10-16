@@ -1,0 +1,73 @@
+{
+  "video": {
+    "id": "bn2YAjZbv5o",
+    "title": "Select Board Meeting 7/10/26",
+    "published_at": "2026-07-10T21:10:08Z",
+    "duration_s": 418
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-07-10",
+    "headline": "The Select Board unanimously approved a common victualler license for Fresh Monkey to open on Turnpike Road.",
+    "summary": "In a brief single-item meeting, the Southborough Select Board approved a common victualler license for Healthy Shakes LLC, operating as Fresh Monkey. The business plans to operate in an office park setting on Turnpike Road next to 132 Turnpike Road. Due to a supplier delivery delay, the owner reported the opening date has been rescheduled to July 20.",
+    "topics": [
+      {
+        "title": "Common victualler license for Fresh Monkey",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board considered and approved a common victualler license for Healthy Shakes LLC, doing business as Fresh Monkey. The owner explained the business was previously inspected and cleared by the Board of Health, but an additional town license was needed prior to opening. The owner also noted that opening day was delayed by one week to July 20 due to a missed inventory shipment.",
+        "key_details": [
+          "Business name: Healthy Shakes LLC d/b/a Fresh Monkey.",
+          "Location is situated on Turnpike Road next to 132 Turnpike Road.",
+          "Operating hours planned as 7:00 AM to 6:00 PM weekdays and 9:00 AM to 5:00 PM weekends.",
+          "Soft opening target date rescheduled to July 20 due to delayed delivery.",
+          "The board approved the license by a 5-0 roll call vote."
+        ],
+        "outcome": "Approved unanimously (5-0).",
+        "why_it_matters": null,
+        "start_seconds": 60,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the common victualler license for Healthy Shakes LLC d/b/a Fresh Monkey",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 338
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Fresh Monkey scheduled soft opening",
+        "when": "July 20"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:40:10Z",
+  "usage": {
+    "total_tokens": 17806,
+    "total_input_tokens": 16600,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 15910
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 562,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 644
+  }
+}

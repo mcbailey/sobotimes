@@ -1,0 +1,82 @@
+{
+  "headline": "The Select Board approved a $105,000 police drone package using year-end funds, while town boards advanced trail funding and paused wastewater studies.",
+  "synopsis": "In a 3-2 vote, the Select Board authorized using surplus police department budget funds to purchase a $105,000 five-year drone package, partially offset by a donation from Fay School. The Wastewater Study Committee unanimously rejected spending $30,000 on an economic development study, opting instead to resolve environmental watershed restrictions on potential treatment sites. Meanwhile, the Recreation Commission voted to back Community Preservation Act funding for a bridge along the Peninsula Trail and selected a 33-space roadside parking layout for Fay Memorial Park. Commissioners also discussed a request to restrict athletic field permits on the morning of the October Special Town Meeting to encourage resident attendance.",
+  "highlights": [
+    {
+      "title": "Select Board approves $105,000 police drone package",
+      "why": "In a 3-2 vote, the board authorized using year-end departmental surplus funds to purchase an Axon drone package, offset by a $20,000 Fay School donation, despite debate over bypassing Town Meeting approval.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "eJY0jkb5BOE",
+      "start_seconds": 6
+    },
+    {
+      "title": "Wastewater committee rejects $30,000 financial study",
+      "why": "The committee voted 0-5 against funding a District Improvement Financing study, deciding it is premature to spend funds before confirming whether Sudbury Reservoir watershed restrictions permit a viable treatment location.",
+      "body": "Wastewater Study Committee",
+      "importance": "high",
+      "video_id": "wXOvCKRJRp4",
+      "start_seconds": 30
+    },
+    {
+      "title": "Recreation Commission backs Peninsula Trail bridge funding",
+      "why": "Commissioners voted 3-0 to endorse the Trails Committee's revised Community Preservation Act application to fund a reservoir pedestrian bridge after Phase 2 bids exceeded budget limits.",
+      "body": "Recreation Commission",
+      "importance": "high",
+      "video_id": "YrcyfhtzkD8",
+      "start_seconds": 555
+    },
+    {
+      "title": "Commission selects 33-space parking design for Fay Memorial Park",
+      "why": "The Recreation Commission agreed to advance a 33-space Central Street parking layout over a costlier $312,000 option behind the park, while considering whether to delay its funding request to spring 2027.",
+      "body": "Recreation Commission",
+      "importance": "high",
+      "video_id": "YrcyfhtzkD8",
+      "start_seconds": 2508
+    },
+    {
+      "title": "Field permit restrictions discussed for Fall Special Town Meeting",
+      "why": "Commissioners reviewed a Select Board request to restrict town sports field permits until noon on Saturday, October 17, to encourage attendance at the 10:00 AM Town Meeting.",
+      "body": "Recreation Commission",
+      "importance": "medium",
+      "video_id": "YrcyfhtzkD8",
+      "start_seconds": 4162
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Family Fun Run at Neary School",
+      "when": "July 1, 2026 at 6:00 PM",
+      "body": "Recreation Commission"
+    },
+    {
+      "what": "Community Preservation Committee meeting regarding trail application",
+      "when": "Week of July 13, 2026",
+      "body": "Community Preservation Committee"
+    },
+    {
+      "what": "Next Wastewater Study Committee meeting",
+      "when": "July 25",
+      "body": "Wastewater Study Committee"
+    },
+    {
+      "what": "Next regular Recreation Commission meeting",
+      "when": "Week of August 24, 2026",
+      "body": "Recreation Commission"
+    },
+    {
+      "what": "Southborough Fall Special Town Meeting",
+      "when": "October 17, 2026",
+      "body": null
+    }
+  ],
+  "week": "2026-06-29",
+  "fingerprint": "74c65e66d2f1345c",
+  "video_ids": [
+    "YrcyfhtzkD8",
+    "eJY0jkb5BOE",
+    "wXOvCKRJRp4"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:08:21Z"
+}

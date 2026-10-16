@@ -1,0 +1,294 @@
+{
+  "week": "2026-06-22",
+  "fingerprint": "7ba3d9502749ea7e",
+  "topics": {
+    "40fpbLASGN4#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "40fpbLASGN4#1": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "40fpbLASGN4#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "40fpbLASGN4#3": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "40fpbLASGN4#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "40fpbLASGN4#5": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "6H4R-9hc3ew#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#1": {
+      "issue": "ruby-estates-subdivision",
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#2": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#3": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#4": {
+      "issue": "street-tree-planting-program",
+      "category": "Environment & conservation"
+    },
+    "6H4R-9hc3ew#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "6H4R-9hc3ew#6": {
+      "issue": "250-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#7": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#8": {
+      "issue": "200-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "6H4R-9hc3ew#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "EAI8SMnejZQ#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EAI8SMnejZQ#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EAI8SMnejZQ#2": {
+      "issue": "town-common-fence-restoration",
+      "category": "Parks, trails & recreation"
+    },
+    "EAI8SMnejZQ#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "EAI8SMnejZQ#4": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EAI8SMnejZQ#5": {
+      "issue": "downtown-wayfinding-plan",
+      "category": "Roads, water & infrastructure"
+    },
+    "EAI8SMnejZQ#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "EAI8SMnejZQ#7": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EAI8SMnejZQ#8": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EAI8SMnejZQ#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "IrDN9mU1ybM#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "IrDN9mU1ybM#1": {
+      "issue": "0-valley-road-trail",
+      "category": "Parks, trails & recreation"
+    },
+    "IrDN9mU1ybM#2": {
+      "issue": "14-newton-street",
+      "category": "Zoning & development"
+    },
+    "IrDN9mU1ybM#3": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "IrDN9mU1ybM#4": {
+      "issue": "parkerville-road-utility-pole",
+      "category": "Roads, water & infrastructure"
+    },
+    "IrDN9mU1ybM#5": {
+      "issue": "250-turnpike-road",
+      "category": "Housing"
+    },
+    "IrDN9mU1ybM#6": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "IrDN9mU1ybM#7": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "IrDN9mU1ybM#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "IrDN9mU1ybM#9": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "JqdlZNYHfYk#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "JqdlZNYHfYk#1": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "JqdlZNYHfYk#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "JqdlZNYHfYk#3": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "Vb4kjdWsVU8#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Vb4kjdWsVU8#1": {
+      "issue": "police-drone-program",
+      "category": "Public safety"
+    },
+    "Vb4kjdWsVU8#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "phdC64CYpRc#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "phdC64CYpRc#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "phdC64CYpRc#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "phdC64CYpRc#3": {
+      "issue": "town-website-redesign",
+      "category": "Staffing & operations"
+    },
+    "phdC64CYpRc#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "phdC64CYpRc#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    }
+  },
+  "upcoming": {
+    "40fpbLASGN4#u0": {
+      "date": "2026-07-01",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "40fpbLASGN4#u1": {
+      "date": "2026-07-02",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "40fpbLASGN4#u2": {
+      "date": "2026-07-16",
+      "issue": null
+    },
+    "40fpbLASGN4#u3": {
+      "date": "2026-07-31",
+      "issue": null
+    },
+    "6H4R-9hc3ew#u0": {
+      "date": "2026-07-08",
+      "issue": null
+    },
+    "6H4R-9hc3ew#u1": {
+      "date": "2026-07-13",
+      "issue": "22-turnpike-road"
+    },
+    "6H4R-9hc3ew#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "6H4R-9hc3ew#u3": {
+      "date": "2027-03-20",
+      "issue": null
+    },
+    "EAI8SMnejZQ#u0": {
+      "date": "2026-06-29",
+      "issue": "town-common-fence-restoration"
+    },
+    "EAI8SMnejZQ#u1": {
+      "date": "2026-07-02",
+      "issue": "rural-cemetery-water-tower"
+    },
+    "EAI8SMnejZQ#u2": {
+      "date": "2026-09-15",
+      "issue": null
+    },
+    "IrDN9mU1ybM#u0": {
+      "date": "2026-07-23",
+      "issue": null
+    },
+    "IrDN9mU1ybM#u1": {
+      "date": "2026-07-23",
+      "issue": null
+    },
+    "IrDN9mU1ybM#u2": {
+      "date": "2026-08-27",
+      "issue": null
+    },
+    "JqdlZNYHfYk#u0": {
+      "date": null,
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "JqdlZNYHfYk#u1": {
+      "date": "2026-07-23",
+      "issue": null
+    },
+    "JqdlZNYHfYk#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "Vb4kjdWsVU8#u0": {
+      "date": "2026-06-29",
+      "issue": "police-drone-program"
+    },
+    "Vb4kjdWsVU8#u1": {
+      "date": null,
+      "issue": null
+    },
+    "phdC64CYpRc#u0": {
+      "date": "2026-07-27",
+      "issue": null
+    },
+    "phdC64CYpRc#u1": {
+      "date": null,
+      "issue": "town-website-redesign"
+    },
+    "phdC64CYpRc#u2": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:33:06Z"
+}

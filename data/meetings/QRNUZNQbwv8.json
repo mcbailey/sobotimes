@@ -1,0 +1,171 @@
+{
+  "video": {
+    "id": "QRNUZNQbwv8",
+    "title": "Municipal Technology Committee",
+    "published_at": "2026-07-29T19:03:21Z",
+    "duration_s": 2383
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-07-28",
+    "headline": "The Municipal Technology Committee reviewed school interactive display installations, planned transfer station technology improvements, and outlined fall survey and strategic planning initiatives.",
+    "summary": "The Municipal Technology Committee reviewed ongoing town and school technology projects, including the completed installation of interactive flat panels across 200 classrooms and efforts to remove legacy CRT monitors. The committee discussed scoping automated license plate readers and SeeClickFix ticketing with the Department of Public Works. Members also discussed aligning their five-year strategic plan with Select Board priorities ahead of a planned September presentation and preparing the 2026 resident survey for October.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee deferred approval of prior meeting minutes because several members had not yet reviewed them. Members scheduled their next regular meeting for late August.",
+        "key_details": [
+          "Meeting minutes approval was postponed to the August meeting.",
+          "The next meeting was tentatively scheduled for Thursday, August 27, 2026, at 6:30 PM."
+        ],
+        "outcome": "Minutes deferred and next meeting scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 38,
+        "end_seconds": null
+      },
+      {
+        "title": "Meeting room audiovisual technology and website feedback",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair reviewed recent feedback submissions for town web properties and gathered observations on recently upgraded meeting room technology in Southborough. A member of the Select Board noted that the front desk screens were lowered to improve visibility and microphone upgrades were underway, though viewing the remote attendee list in room remains a desired improvement.",
+        "key_details": [
+          "A five-star rating with no text comments was submitted for the Council on Aging web page.",
+          "Front desk monitors in the town meeting room were lowered so audience members could see officials more clearly.",
+          "Microphone upgrades have been installed but are still being fine-tuned.",
+          "Meeting room displays currently do not show the list of remote participants to in-person attendees."
+        ],
+        "outcome": "The committee will continue monitoring user feedback on the room technology.",
+        "why_it_matters": null,
+        "start_seconds": 85,
+        "end_seconds": null
+      },
+      {
+        "title": "DPW technology, transfer station license plate readers, and SeeClickFix",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed revisiting technology improvements with the Department of Public Works, focusing on automated license plate readers for the transfer station and citizen request software. Officials discussed the need to define specific use cases and equipment costs before presenting proposals for funding.",
+        "key_details": [
+          "License plate readers could initially be used to collect traffic and usage data at the transfer station before considering enforcement or automated ticketing.",
+          "Hardware deployment would require network cabling from the DPW office to reader locations.",
+          "Potential use cases include identifying misuse, tracking visitor frequency, and facilitating daily or weekly pass purchases.",
+          "A committee member and DPW liaison plan to coordinate with the DPW director to draft technical specifications and cost estimates."
+        ],
+        "outcome": "Members will meet with the DPW director to develop concrete requirements and cost estimates for license plate readers and SeeClickFix.",
+        "why_it_matters": null,
+        "start_seconds": 291,
+        "end_seconds": null
+      },
+      {
+        "title": "Southborough Library technology update",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The library director provided an update on technology operations and public programming at the Southborough Library. High demand for circulating mobile internet hotspots followed a recent townwide internet outage.",
+        "key_details": [
+          "An evening storytelling event at the library drew approximately 70 to 80 attendees.",
+          "All 20 of the library circulating Wi-Fi hotspots were checked out simultaneously following a localized internet outage.",
+          "Hotspots have begun returning to circulation, and general library technology systems are running smoothly."
+        ],
+        "outcome": "Informational update; no action required.",
+        "why_it_matters": null,
+        "start_seconds": 697,
+        "end_seconds": null
+      },
+      {
+        "title": "Public school classroom interactive displays and network capacity",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The district technology director reported on major summer hardware installations, upgrading 200 classrooms across three school districts to Newline interactive flat panel displays. The project came in under budget, and the district is now planning the removal of remaining obsolete tube televisions.",
+        "key_details": [
+          "Newline interactive flat panel displays replaced projectors in 200 classrooms across Southborough, Northborough, and the regional district.",
+          "The project came in approximately $15,000 under budget.",
+          "The district identified 55 obsolete 27-inch CRT tube televisions still mounted in Southborough classrooms and is seeking options to remove them.",
+          "Classroom displays are hardwired to network jacks and have built-in Android systems supporting wireless casting, HDMI, and USB-C inputs.",
+          "The district plans to double internet bandwidth at Algonquin Regional High School to prevent bottlenecks during peak periods such as MCAS testing."
+        ],
+        "outcome": "Installation of the interactive panels was completed, and staff is scoping the removal of legacy CRT televisions using remaining project funds.",
+        "why_it_matters": null,
+        "start_seconds": 893,
+        "end_seconds": null
+      },
+      {
+        "title": "Five-year strategic plan and 2026 resident survey",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed steps to finalize its five-year strategic plan and prepare for the 2026 town resident survey targeted for October. A member of the Select Board encouraged the committee to align its priorities with the Select Board annual goals to improve chances of municipal funding.",
+        "key_details": [
+          "A consultant analyzing previous survey sentiment and business process optimization nominations will present findings at the August meeting.",
+          "The committee plans to launch the 2026 resident survey in October and will request custom questions from town departments.",
+          "A member of the Select Board suggested presenting a streamlined version of the five-year strategic plan at the September 2 Select Board meeting.",
+          "Aligning committee priorities with adopted Select Board goals could provide access to town funding without relying solely on Town Meeting warrant articles."
+        ],
+        "outcome": "The chair will request a presentation slot on the Select Board September 2 agenda and circulate the Select Board goals to committee members.",
+        "why_it_matters": null,
+        "start_seconds": 1448,
+        "end_seconds": null
+      },
+      {
+        "title": "Town website redesign and municipal communications strategy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members examined the need for dedicated communications expertise to guide the planned overhaul of the municipal website. Discussion addressed using web analytics to understand resident user journeys and participating in a regional public engagement study grant.",
+        "key_details": [
+          "Insights from a Massachusetts Municipal Association webinar highlighted that successful municipal website redesigns require dedicated communications staff alongside technical staff.",
+          "The town currently lacks a designated communications officer to manage outward content and ensure message consistency across departments.",
+          "The committee plans to examine CivicPlus Google Analytics to track user journeys across town web properties.",
+          "Southborough is participating with three neighboring towns in a state-funded MetroWest Regional Collaborative engagement study on citizen communication."
+        ],
+        "outcome": "The chair will contact the assistant town administrator regarding the regional engagement study and review available web analytics.",
+        "why_it_matters": null,
+        "start_seconds": 1800,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Municipal Technology Committee regular meeting",
+        "when": "August 27, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Presentation of previous survey data and business process optimization analysis",
+        "when": "August 27, 2026"
+      },
+      {
+        "what": "Proposed presentation of the five-year strategic plan to the Select Board",
+        "when": "September 2, 2026"
+      },
+      {
+        "what": "Launch of the 2026 resident technology survey",
+        "when": "October 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:25:46Z",
+  "usage": {
+    "total_tokens": 95727,
+    "total_input_tokens": 91649,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 90970
+      },
+      {
+        "modality": "text",
+        "tokens": 679
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2013,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2065
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "week": "2026-06-08",
+  "fingerprint": "6f8e80da685bfd8e",
+  "topics": {
+    "9y_hdDUi2PM#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "9y_hdDUi2PM#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "9y_hdDUi2PM#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9y_hdDUi2PM#3": {
+      "issue": "library-parking-lot-repaving",
+      "category": "Buildings & facilities"
+    },
+    "9y_hdDUi2PM#4": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "9y_hdDUi2PM#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "9y_hdDUi2PM#6": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "9y_hdDUi2PM#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Cs-N1fuzc9E#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Cs-N1fuzc9E#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Cs-N1fuzc9E#2": {
+      "issue": "brox-asphalt-plant-complaints",
+      "category": "Health & human services"
+    },
+    "Cs-N1fuzc9E#3": {
+      "issue": "7-turnpike-road-bodywork-compliance",
+      "category": "Health & human services"
+    },
+    "Cs-N1fuzc9E#4": {
+      "issue": "board-of-health-body-art-regulations",
+      "category": "Health & human services"
+    },
+    "Cs-N1fuzc9E#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Cs-N1fuzc9E#6": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "D0OA5yLzTtQ#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#4": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#5": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#6": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "D0OA5yLzTtQ#7": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "D0OA5yLzTtQ#8": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "D0OA5yLzTtQ#9": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "Ino0rbMC--c#0": {
+      "issue": "22-newton-street-variance",
+      "category": "Zoning & development"
+    },
+    "Ino0rbMC--c#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Ino0rbMC--c#2": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "Ino0rbMC--c#3": {
+      "issue": "34-turnpike-road-special-permit",
+      "category": "Zoning & development"
+    },
+    "WzSYItMVgpE#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "WzSYItMVgpE#1": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "WzSYItMVgpE#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "WzSYItMVgpE#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "WzSYItMVgpE#4": {
+      "issue": "tricentennial-heritage-day-parade",
+      "category": "Library, arts & community"
+    },
+    "WzSYItMVgpE#5": {
+      "issue": "tricentennial-firefighters-muster",
+      "category": "Library, arts & community"
+    },
+    "WzSYItMVgpE#6": {
+      "issue": "tricentennial-time-capsule",
+      "category": "Library, arts & community"
+    },
+    "WzSYItMVgpE#7": {
+      "issue": "glow-sobo-holiday-lighting",
+      "category": "Library, arts & community"
+    },
+    "XrcCrapH9JA#0": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "XrcCrapH9JA#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "XrcCrapH9JA#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "XrcCrapH9JA#3": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "XrcCrapH9JA#4": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "XrcCrapH9JA#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "XrcCrapH9JA#6": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "wXmki6I0Q3k#0": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "wXmki6I0Q3k#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "wXmki6I0Q3k#2": {
+      "issue": "rural-cemetery-water-tower",
+      "category": "Parks, trails & recreation"
+    },
+    "wXmki6I0Q3k#3": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "wXmki6I0Q3k#4": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "wXmki6I0Q3k#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "wXmki6I0Q3k#6": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "wXmki6I0Q3k#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "upcoming": {
+    "9y_hdDUi2PM#u0": {
+      "date": "2026-06-16",
+      "issue": null
+    },
+    "9y_hdDUi2PM#u1": {
+      "date": "2026-07-13",
+      "issue": null
+    },
+    "Cs-N1fuzc9E#u0": {
+      "date": "2026-07-07",
+      "issue": null
+    },
+    "D0OA5yLzTtQ#u0": {
+      "date": "2026-06-12",
+      "issue": "neary-school-roof-replacement"
+    },
+    "D0OA5yLzTtQ#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "D0OA5yLzTtQ#u2": {
+      "date": "2026-08-01",
+      "issue": "neary-school-roof-replacement"
+    },
+    "D0OA5yLzTtQ#u3": {
+      "date": null,
+      "issue": "neary-school-roof-replacement"
+    },
+    "Ino0rbMC--c#u0": {
+      "date": "2026-07-15",
+      "issue": null
+    },
+    "Ino0rbMC--c#u1": {
+      "date": "2026-08-12",
+      "issue": null
+    },
+    "Ino0rbMC--c#u2": {
+      "date": "2026-09-16",
+      "issue": null
+    },
+    "WzSYItMVgpE#u0": {
+      "date": "2026-06-13",
+      "issue": null
+    },
+    "WzSYItMVgpE#u1": {
+      "date": "2026-06-16",
+      "issue": null
+    },
+    "WzSYItMVgpE#u2": {
+      "date": "2026-07-15",
+      "issue": null
+    },
+    "XrcCrapH9JA#u0": {
+      "date": "2026-06-13",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "XrcCrapH9JA#u1": {
+      "date": "2026-06-25",
+      "issue": null
+    },
+    "XrcCrapH9JA#u2": {
+      "date": "2026-06-30",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "wXmki6I0Q3k#u0": {
+      "date": "2026-06-30",
+      "issue": null
+    },
+    "wXmki6I0Q3k#u1": {
+      "date": null,
+      "issue": null
+    },
+    "wXmki6I0Q3k#u2": {
+      "date": "2026-09-15",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:28:27Z"
+}

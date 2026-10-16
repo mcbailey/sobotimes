@@ -1,0 +1,121 @@
+{
+  "video": {
+    "id": "C92hqzMJvgM",
+    "title": "Recreation Commission 5/13/26",
+    "published_at": "2026-05-14T19:15:12Z",
+    "duration_s": 3327
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-05-13",
+    "headline": "The Commission reviewed the 911 Field bond repayment plan, received an $8,000 repair quote for Kallander Field, and refined Fayville Park parking plans.",
+    "summary": "The Southborough Recreation Commission reviewed the bond repayment schedule and potential fee increases for the 911 turf field with the town finance director. The recreation director reported that the original turf installer provided a repair estimate of $8,000 to $9,000 for Kallander Field, well below earlier $40,000 estimates. Commissioners also revised a draft letter addressing neighbor parking concerns at Fayville Hall and Fayville Park, agreeing that parking oversight belongs with the Planning Board. No formal votes were taken, and both the fee structure and parking letter were held for action at the next meeting.",
+    "topics": [
+      {
+        "title": "911 Field bond payback schedule and fee structure",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The commission met with the town finance director to review the repayment schedule for the 911 Field bond. The original bond of approximately $687,000 is nearly half paid off, but annual revolving fund revenues of $30,000 to $45,000 have not matched the initial pre-COVID projections of $70,000 to $90,000. Commissioners discussed maintaining a manageable repayment schedule of roughly $30,000 to $45,000 annually through FY35 and considering a modest $5 per hour user fee increase for fall sports leagues.",
+        "key_details": [
+          "The town originally bonded roughly $687,000 to replace the turf, with nearly half paid off to date.",
+          "Revolving fund revenues are projected at roughly $30,000 to $40,000 annually, below initial projections of $70,000 to $90,000.",
+          "A $50,000 payback installment was paid earlier in the fiscal year, and the proposed schedule suggests $30,000 paybacks for FY27 and FY28.",
+          "A proposed $5 per hour field fee increase would cost youth soccer approximately $1,300 to $1,400 for the season.",
+          "The finance director and recreation director will finalize revenue models for review at the next meeting."
+        ],
+        "outcome": "Discussion held; the commission deferred action until the director and finance director produce refined revenue and fee numbers next week.",
+        "why_it_matters": null,
+        "start_seconds": 58,
+        "end_seconds": null
+      },
+      {
+        "title": "Kallander Field repair estimate update",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The recreation director provided an update on repairing Kallander Field following a site visit with the assistant DPW director and the original turf installation company. The company proposed performing the necessary repairs for between $8,000 and $9,000, with the Department of Public Works assisting with materials. This estimate is significantly lower than prior vendor quotes that approached $40,000, leaving sufficient funds within the commission's remaining $13,000 to $14,000 capital balance.",
+        "key_details": [
+          "Earlier vendor estimates to repair the field were close to $40,000.",
+          "Original turf installer North Turf quoted approximately $8,000 to $9,000 for the repair work.",
+          "The recreation capital fund currently has about $13,000 to $14,000 remaining.",
+          "The DPW will contribute material work to help minimize project costs."
+        ],
+        "outcome": "No formal action taken; a full presentation and decision are planned for June.",
+        "why_it_matters": null,
+        "start_seconds": 1618,
+        "end_seconds": null
+      },
+      {
+        "title": "Fayville Hall and Park parking letter update",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Commissioners discussed neighbor concerns regarding parking overflow and safety near Fayville Hall and Fayville Park. Members debated multiple drafts of a communication, agreeing that parking jurisdiction rests with the Planning Board rather than the Select Board or Recreation Commission. The commission plans to draft a collaborative letter to the Planning Board advocating for clear signage, enforcement of designated park spaces, and pedestrian safety improvements on Central Street.",
+        "key_details": [
+          "Fayville Hall has eight deeded parking spaces plus four floating spaces in the adjacent lot.",
+          "Approximately 13 on-street parking spaces exist along Central Street parallel to Fayville Park.",
+          "Neighbors and park users reported instances where event attendees occupied park spaces or parked across Central Street.",
+          "Commissioners agreed that traffic enforcement and site plan compliance must be addressed by the Planning Board.",
+          "A traffic study report from the town consultant is expected ahead of the upcoming Community Preservation Committee meeting."
+        ],
+        "outcome": "Commissioners will revise the draft letter collaboratively for approval at their next meeting on May 22.",
+        "why_it_matters": null,
+        "start_seconds": 1774,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and meeting schedule",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission reviewed its upcoming schedule, confirming an additional working session following the May 22 community engagement session. Members also scheduled their regular June meeting for Tuesday, June 2, at 7:00 PM.",
+        "key_details": [
+          "The commission set its next regular meeting for Tuesday, June 2, 2024, at 7:00 PM.",
+          "Commissioners will attend the Community Preservation Committee meeting on Thursday, May 23, 2024."
+        ],
+        "outcome": "Meeting dates were confirmed and the meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 3163,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Recreation Commission meeting to vote on 911 Field fees and Fayville parking letter",
+        "when": "May 22, 2024 at 7:00 PM"
+      },
+      {
+        "what": "Community Preservation Committee meeting regarding Fayville Park funding application",
+        "when": "May 23, 2024"
+      },
+      {
+        "what": "Recreation Commission regular meeting",
+        "when": "June 2, 2024 at 7:00 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:32:52Z",
+  "usage": {
+    "total_tokens": 131229,
+    "total_input_tokens": 127738,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 127048
+      },
+      {
+        "modality": "text",
+        "tokens": 690
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1603,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1888
+  }
+}

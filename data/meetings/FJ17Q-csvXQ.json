@@ -1,0 +1,155 @@
+{
+  "video": {
+    "id": "FJ17Q-csvXQ",
+    "title": "Community Preservation Committee 8/3/26",
+    "published_at": "2026-08-04T22:07:52Z",
+    "duration_s": 8755
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-08-03",
+    "headline": "The CPC reviewed updated CPA project applications for the golf course irrigation system, Peninsula Trail footbridge, and Fay Memorial Park.",
+    "summary": "The Community Preservation Committee reviewed revised scopes and budgets for several pending Community Preservation Act funding requests ahead of Fall Town Meeting deadlines. The DPW and Golf Committee presented a revised $970,475 cost estimate for golf course irrigation upgrades, while the Trails Committee presented an increased $215,596 request for the Peninsula Trail footbridge. The committee also discussed parking and grant options for Fay Memorial Park improvements with Recreation officials and confirmed that the Rural Cemetery water tower restoration will be deferred to the spring Annual Town Meeting.",
+    "topics": [
+      {
+        "title": "Golf course irrigation system funding and scope update",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Representatives from the DPW and the Golf Course Committee presented an updated preliminary cost estimate and scope for replacing the golf course irrigation system. The committee reviewed timeline projections, contractor lead times, the project sunset clause, and town revolving fund contributions.",
+        "key_details": [
+          "The consultant revised cost estimate increased to $970,475 total.",
+          "Construction is estimated to take four to five months, with contractor lead times estimated between nine and 24 months.",
+          "The committee noted that the original sunset clause expires December 31, 2026, meaning town meeting action will be needed this fall regardless of whether construction funding advances.",
+          "The project includes upsizing the water service pipe from two inches to four inches and installing a booster pump station.",
+          "The Golf Committee will provide a three-year projection of expected capital expenditures from the golf revolving fund to address questions about contributing more than $100,000 toward the project."
+        ],
+        "outcome": "The Golf Committee will provide additional financial documentation on revolving fund plans and check in with Sudbury Valley Trustees and the Conservation Commission prior to the next meeting.",
+        "why_it_matters": "The project would commit nearly $1 million in municipal and CPA resources to replace critical town recreation infrastructure.",
+        "start_seconds": 90,
+        "end_seconds": null
+      },
+      {
+        "title": "Rural Cemetery water tower restoration project deferral",
+        "category": "Other",
+        "importance": "medium",
+        "summary": "The committee discussed the status of the Rural Cemetery water tower restoration application. Officials agreed that due to consultant workloads, the project will not be ready for the fall and will instead be prepared for the spring Annual Town Meeting.",
+        "key_details": [
+          "The Cemetery Committee confirmed it has no interest in utilizing the tower interior for a columbarium.",
+          "The project consultant requires at least a month to complete documentation and bid specifications, making Fall Town Meeting unfeasible.",
+          "The scope includes documenting tower roof, masonry, and woodwork, establishing historic standards, creating bid documents, and outlining a maintenance schedule.",
+          "Advancing the project for spring 2027 could align with town tercentennial events."
+        ],
+        "outcome": "The application is deferred to the spring Annual Town Meeting round.",
+        "why_it_matters": null,
+        "start_seconds": 2402,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail footbridge application revision",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The Trails Committee chair presented a revised CPA application for the Peninsula Trail footbridge connection. The updated application increases the project total cost and CPA funding request to cover construction phase administration and project management.",
+        "key_details": [
+          "Total project cost is revised to $471,828, with the new CPA funding request set at $215,596.",
+          "The revision adds $40,000 for construction-phase administration services to meet town project management requirements.",
+          "A 20 percent contingency was added to the construction cost portion only.",
+          "The footbridge design anticipates a 75-year lifespan for the modular structure, though decking maintenance would vary depending on whether wood or fiberglass polymer is selected.",
+          "The Trails Committee plans to apply for a $100,000 state MassTrails grant in February to offset town costs."
+        ],
+        "outcome": "The Trails Committee will provide additional documentation regarding cost estimation methodology and maintenance projections ahead of the next meeting.",
+        "why_it_matters": "The request asks town meeting voters to appropriate an additional $215,596 in CPA funds to complete a regional pedestrian connection across reservoir land.",
+        "start_seconds": 2850,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay Memorial Park improvements and parking planning",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Recreation Commission members discussed updates on the Fay Memorial Park project, including site layout options, parking enhancements, and potential grant funding. Officials also addressed regulatory requirements including site plan review by the Planning Board.",
+        "key_details": [
+          "Recreation requested a joint meeting with the Select Board and Planning Board on September 1 to discuss parking and traffic flow enhancements.",
+          "The project may be eligible for a 50 percent federal Land and Water Conservation Fund grant covering approximately $609,000 in eligible costs.",
+          "Recreation confirmed they will verify that a 15 percent contingency is properly included in the cost estimates.",
+          "Because ground disturbance exceeds 2,000 square feet, the project will require formal site plan approval from the Planning Board.",
+          "Town insurance covers dog park liability without an increase in town premiums, though operating details remain under development."
+        ],
+        "outcome": "The Recreation Commission will meet with town boards on September 1 and follow up on splash pad operating cost estimates.",
+        "why_it_matters": "The park project involves major investments in town recreational facilities, including a playground, splash pad, dog park, and associated parking reconfigurations.",
+        "start_seconds": 5365,
+        "end_seconds": null
+      },
+      {
+        "title": "CPA project recognition signage",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed signage mockups and options for acknowledging Community Preservation Act funding at completed and ongoing project sites across town.",
+        "key_details": [
+          "Sample bronze plaque mockups from Franklin Bronze were reviewed for historic sites such as the Old Burial Ground.",
+          "Outdoor sign options for recreation locations including the sand volleyball court and court lights are estimated around $100 each from Signarama.",
+          "Library signs are already ordered and in production.",
+          "Members discussed sizing signs to ensure visibility and consistency when hung on athletic fences alongside sponsor banners."
+        ],
+        "outcome": "Committee members will review wording and sign dimensions at site locations and coordinate for final sign orders in September.",
+        "why_it_matters": null,
+        "start_seconds": 7264,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved past meeting minutes and coordinated upcoming meeting schedules.",
+        "key_details": [
+          "Minutes from May 20, 2026 and July 21, 2026 were approved as amended.",
+          "Members coordinated schedules to set their next meeting date for August 25, 2026."
+        ],
+        "outcome": "Past minutes were approved and the next meeting was set.",
+        "why_it_matters": null,
+        "start_seconds": 8261,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident of Middle Road raised questions regarding Fay Memorial Park, asking whether rules and regulations would be published by September 1, which town department citizens should call for issues at the proposed dog park, whether the animal control officer contract covers dog park oversight, and whether non-residents would be charged a fee to use the facility.",
+        "start_seconds": 6873
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Next Community Preservation Committee meeting",
+        "when": "August 25, 2026"
+      },
+      {
+        "what": "Select Board meeting featuring Fay Memorial Park parking discussion",
+        "when": "September 1, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:22:42Z",
+  "usage": {
+    "total_tokens": 328400,
+    "total_input_tokens": 324628,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 692
+      },
+      {
+        "modality": "video",
+        "tokens": 323936
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1980,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1792
+  }
+}

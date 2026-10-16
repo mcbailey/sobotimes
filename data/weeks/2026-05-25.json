@@ -1,0 +1,60 @@
+{
+  "headline": "The Select Board brought the police department to full staffing by appointing an officer, while the Personnel Board recommended a municipal compensation study.",
+  "synopsis": "The Select Board voted unanimously to appoint Joseph Lindberg as a full-time probationary police officer, filling the department's final vacant position. Meeting the same day, the Personnel Board voted to recommend awarding a $23,625 contract to MGT Consulting to conduct a classification and compensation study of 48 non-union positions. The Personnel Board also reorganized its leadership, electing John Thornburn as chair and Brian Shea as vice chair, and welcomed a new member.",
+  "highlights": [
+    {
+      "title": "Appointment of Joseph Lindberg as probationary police officer",
+      "why": "The Select Board unanimously appointed Lindberg, filling the final officer vacancy to reach full department staffing. Lindberg brings prior law enforcement experience and specialized crash reconstruction certification, allowing an abbreviated field training period.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "NSeY9P5X_sc",
+      "start_seconds": 42
+    },
+    {
+      "title": "Wage and salary classification study recommendation",
+      "why": "The Personnel Board voted 4-0 to recommend that the Select Board award a $23,625 contract to MGT Consulting to study 48 non-union positions. The five-to-six-month project will analyze municipal roles and benchmark salaries against 15 to 20 comparable towns.",
+      "body": "Personnel Board",
+      "importance": "high",
+      "video_id": "rSXalU_9VoA",
+      "start_seconds": 327
+    },
+    {
+      "title": "Personnel Board reorganization",
+      "why": "The board selected John Thornburn as its new chair and Brian Shea as vice chair. Members also welcomed a new member and discussed ongoing recruitment to fill a fifth vacant seat.",
+      "body": "Personnel Board",
+      "importance": "medium",
+      "video_id": "rSXalU_9VoA",
+      "start_seconds": 98
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Officer Joseph Lindberg begins local field training",
+      "when": "June 1, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Select Board meeting to consider awarding the classification study contract",
+      "when": "June 4, 2024",
+      "body": "Select Board"
+    },
+    {
+      "what": "Town employee performance evaluations due",
+      "when": "June 5, 2024",
+      "body": "Personnel Board"
+    },
+    {
+      "what": "Personnel Board meeting date to be scheduled via email poll",
+      "when": "June 2024",
+      "body": "Personnel Board"
+    }
+  ],
+  "week": "2026-05-25",
+  "fingerprint": "30a5370b7cc69ea7",
+  "video_ids": [
+    "NSeY9P5X_sc",
+    "rSXalU_9VoA"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:10:37Z"
+}

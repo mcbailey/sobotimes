@@ -1,0 +1,73 @@
+{
+  "video": {
+    "id": "eJY0jkb5BOE",
+    "title": "Select Board Meeting 6/29/26",
+    "published_at": "2026-06-30T01:18:21Z",
+    "duration_s": 2462
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-06-29",
+    "headline": "In a 3-2 vote, the Select Board approved spending $105,000 for a police drone package using year-end departmental budget funds.",
+    "summary": "The Select Board held a single-agenda meeting to consider Police Chief Ryan Newell's request to use year-end budget surplus funds to purchase a $105,000 five-year drone package from Axon. The purchase will be partially offset by a $20,000 donation from Fay School. Opponents argued the capital expenditure should be vetted by voters at Special Town Meeting to avoid setting a poor precedent for departmental bottom-line spending, while supporters prioritized immediate public safety needs.",
+    "topics": [
+      {
+        "title": "Police Department drone purchase and bottom-line budget spending",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "The board evaluated whether to authorize the police chief to use surplus department funds from the closing fiscal year to acquire an Axon outdoor drone package. The Capital Improvement Planning Committee previously voted 3-0 to recommend the drone purchase itself, leaving the funding mechanism to the Select Board. Board members debated whether bypassing Town Meeting by using bottom-line spending set an inappropriate financial precedent, while the police chief emphasized urgent local safety needs and lengthy dispatch delays when relying on mutual aid drones.",
+        "key_details": [
+          "The total drone package from Axon costs $105,000 over five years and includes two drones across a hardware refresh cycle, software, storage, and maintenance.",
+          "Fay School committed a $20,000 contribution toward the purchase, reducing the town's initial net outlay to $85,000.",
+          "A pending state budget earmark of $30,000 requested by State Representative Kate Donaghue could not be retroactively applied to a contract executed prior to grant award.",
+          "The police department logged nine incidents in the past year requiring mutual aid drones, including searches for missing children, suicidal individuals, and fleeing suspects.",
+          "Mutual aid drones take approximately 30 minutes or more to arrive, compared to an estimated 2 to 4 minute on-scene deployment time for an in-house drone."
+        ],
+        "outcome": "Approved 3-2",
+        "why_it_matters": "Authorizes the immediate acquisition of public safety drone technology using town funds without bringing the capital expense before Town Meeting voters.",
+        "start_seconds": 6,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve Police Chief Newell's request for bottom-line spending of the Police Department budget to purchase a $105,000 drone package from Axon, offset by $20,000 from Fay School.",
+        "result": "passed",
+        "tally": "3-2",
+        "start_seconds": 2016
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:48:45Z",
+  "usage": {
+    "total_tokens": 96085,
+    "total_input_tokens": 94694,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 94003
+      },
+      {
+        "modality": "text",
+        "tokens": 691
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 749,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 642
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "video": {
+    "id": "JqdlZNYHfYk",
+    "title": "Wastewater Study Committee 6/22/26",
+    "published_at": "2026-07-20T20:22:27Z",
+    "duration_s": 2500
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-06-22",
+    "headline": "The Wastewater Study Committee advanced plans to hire a MassDevelopment consultant for Route 9 sewer district financing.",
+    "summary": "The Southborough Wastewater Study Committee discussed pursuing a District Improvement Financing (DIF) area designation at the October Special Town Meeting. Members reviewed efforts to encumber up to $30,000 in unused town funds before June 30 to hire a MassDevelopment consultant for financial feasibility modeling. The committee also previewed an AI-based site selection model for potential wastewater treatment locations and noted the resignation of member Al Hamilton.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the meeting minutes from May 21 with one minor correction and adjourned at the conclusion of business.",
+        "key_details": [
+          "Minutes of May 21 approved with an amendment clarifying who held a conversation with Paul Cibelli.",
+          "Meeting adjourned at 7:43 PM."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 27,
+        "end_seconds": null
+      },
+      {
+        "title": "DIF area designation and MassDevelopment financial consulting",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The committee received legal guidance confirming the town can approve a District Improvement Financing (DIF) area boundary before adopting a full DIF project plan. Members also discussed using up to $30,000 reallocated from Economic Development Committee funds to engage MassDevelopment consultants to analyze revenue and development potential along Route 9.",
+        "key_details": [
+          "Town counsel confirmed Chapter 40Q allows approving a DIF area ahead of a DIF plan, establishing an earlier assessed value baseline.",
+          "Select Board approved reallocating up to $30,000 in unused FY26 salary and service funds from the Economic Development Committee.",
+          "Funds must be under contract and encumbered by the June 30 fiscal year deadline.",
+          "The consultant will conduct parcel-by-parcel analysis along Route 9 to model property tax growth potential under a sewer system.",
+          "Committee member Al Hamilton has formally resigned, and members discussed seeking a replacement with a finance or engineering background."
+        ],
+        "outcome": "The committee agreed to draft a scope of services immediately and schedule an emergency meeting before June 30 if MassDevelopment secures a consultant.",
+        "why_it_matters": "Establishing a DIF district would allow the town to capture new property tax revenue from Route 9 commercial growth to repay the borrowing costs of a municipal sewer system.",
+        "start_seconds": 96,
+        "end_seconds": null
+      },
+      {
+        "title": "AI-assisted parcel scoring for potential wastewater facility sites",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The chair reported that an artificial intelligence consulting firm offered pro bono assistance to develop a parcel scoring system for potential wastewater plant and discharge sites. The tool filters and ranks parcels using soil condition, parcel size, and conservation restriction data.",
+        "key_details": [
+          "A consultant provided an initial automated assessment model at no cost through committee member Alan Belniak.",
+          "The tool incorporates GIS layers and conservation deed restriction data to rule out unsuitable land.",
+          "The chair stressed the necessity of vetting AI model findings against local town records and planning staff knowledge.",
+          "Full review of the scoring model was deferred until the next meeting when Belniak can attend."
+        ],
+        "outcome": "Discussion deferred to the next regular meeting.",
+        "why_it_matters": null,
+        "start_seconds": 1659,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting planning and project updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed timelines and public outreach strategies for the anticipated October 17 Special Town Meeting. The committee noted that public education will be essential throughout September to explain the proposed DIF district to voters.",
+        "key_details": [
+          "Special Town Meeting is targeted for October 17.",
+          "A one-month public education campaign will be planned for September if financial analysis warrants moving forward.",
+          "The town remains in waiting status for the state One Stop grant decision.",
+          "Members discussed exploring a future One Stop grant for MassDevelopment technical services if the current effort succeeds."
+        ],
+        "outcome": "Committee agreed to prepare presentation materials and an updated project timeline chart.",
+        "why_it_matters": null,
+        "start_seconds": 1990,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Potential emergency Zoom meeting to authorize consultant contract before fiscal year end",
+        "when": "June 29 or June 30, 2026"
+      },
+      {
+        "what": "Next regular Wastewater Study Committee meeting",
+        "when": "July 23, 2026"
+      },
+      {
+        "what": "Special Town Meeting",
+        "when": "October 17, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T22:32:09Z",
+  "usage": {
+    "total_tokens": 98971,
+    "total_input_tokens": 96176,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 691
+      },
+      {
+        "modality": "video",
+        "tokens": 95485
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1242,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1553
+  }
+}

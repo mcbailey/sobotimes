@@ -1,0 +1,120 @@
+{
+  "video": {
+    "id": "aE6XZkN9G9s",
+    "title": "Wastewater Study Committee 5/21/26",
+    "published_at": "2026-05-27T13:59:41Z",
+    "duration_s": 3969
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-05-21",
+    "headline": "The committee explored tapping economic development funds for wastewater financial modeling and agreed to support a joint Route 9 corridor study with Westborough.",
+    "summary": "The Wastewater Study Committee reviewed feedback from a presentation to the Planning Board regarding District Improvement Financing and Route 9 wastewater planning. Members discussed whether town meeting could designate a financing district area before completing a full project plan, noting that comprehensive financial modeling and voter outreach are necessary. The committee also agreed to submit a letter backing a joint One Stop grant application with Westborough for a Route 9 corridor study and discussed securing unused municipal economic development funds to begin preliminary financial modeling.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved past meeting minutes and handled administrative matters.",
+        "key_details": [
+          "Approved minutes from the April 23 meeting.",
+          "Approved minutes from the April 28 meeting as amended to correct an attendance typo."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 43,
+        "end_seconds": null
+      },
+      {
+        "title": "Planning Board presentation recap and outreach challenges",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "Members reported on their May 11 presentation to the Planning Board regarding wastewater infrastructure and District Improvement Financing. The presentation was described as generally well-received, though planning board members emphasized the substantial challenge of educating voters. Committee members also addressed Planning Board questions regarding development potential, zoning changes, and the appropriate use of executive sessions when evaluating prospective wastewater facility sites.",
+        "key_details": [
+          "A committee member and the chair presented to the Planning Board on May 11.",
+          "Planning Board members noted that parcel availability is limited and voter education will be difficult.",
+          "The committee reiterated advice from town counsel that executive sessions can properly be used to discuss potential site acquisitions with property owners.",
+          "Discussion touched on whether wastewater infrastructure might spur unwanted multi-family apartment development along Route 9."
+        ],
+        "outcome": "The committee agreed to provide periodic updates to the Planning Board as planning progresses.",
+        "why_it_matters": null,
+        "start_seconds": 104,
+        "end_seconds": null
+      },
+      {
+        "title": "District Improvement Financing strategy and financial modeling",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee evaluated options for implementing District Improvement Financing under Massachusetts General Laws Chapter 40Q. Members discussed whether town meeting could approve a DIF geographic boundary first, followed later by a detailed financial and project plan, or if both components must be approved simultaneously. The committee discussed conversations with the town assessor regarding tax increment mechanics and agreed on the necessity of hiring a consultant to build a rigorous financial model.",
+        "key_details": [
+          "Town counsel was asked to clarify whether a DIF boundary and a DIF development plan can be voted at separate town meetings under Chapter 40Q.",
+          "If separated, adopting a boundary early would lock in base property valuations for future tax increment calculations.",
+          "A full DIF plan requires revenue projections, capital cost schedules, and allocation of tax increment percentages between debt service and the general fund.",
+          "A committee member noted that previous town public forums for major capital projects drew very low attendance, underscoring the challenge of voter communication."
+        ],
+        "outcome": "Town counsel opinion on phased DIF adoption is pending, and members will seek to engage a financial modeling consultant.",
+        "why_it_matters": "District Improvement Financing redirects future commercial tax growth within a designated area to fund public infrastructure rather than the general town budget.",
+        "start_seconds": 607,
+        "end_seconds": null
+      },
+      {
+        "title": "Joint Route 9 corridor study with Westborough and One Stop grant",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Members discussed an initiative led by the Westborough planning director to conduct a joint Route 9 and Interstate 495 gateway corridor study covering economic development, zoning, and infrastructure. Westborough is pursuing a state One Stop grant and has secured private developer interest to help fund the study, estimated at $150,000. The committee also debated attempting to encumber roughly $10,000 remaining in the town Economic Development Committee consulting budget before June 30 to begin wastewater financial modeling.",
+        "key_details": [
+          "The corridor study would examine Route 9 from Route 85 in Southborough past Lyman Street in Westborough.",
+          "The study cost is estimated at $150,000, with an expected split between state grant funds, private developers, and municipal contributions.",
+          "The state One Stop grant application deadline is June 3.",
+          "A member suggested seeking approximately $10,000 in unused FY26 Economic Development Committee consulting funds to start financial modeling before the fiscal year ends.",
+          "The chair plans to coordinate with the Select Board chair ahead of their June 2 meeting."
+        ],
+        "outcome": "The committee agreed by consensus to have the chair draft a letter of support for the joint One Stop grant application and pursue available FY26 consulting funds.",
+        "why_it_matters": "A joint planning study could shape zoning, commercial development, and wastewater expansion along Southborough's primary commercial corridor on Route 9.",
+        "start_seconds": 2055,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting discussion regarding grant support and potential study funding",
+        "when": "June 2, 2026"
+      },
+      {
+        "what": "Deadline for submission of the state One Stop grant application",
+        "when": "June 3, 2026"
+      },
+      {
+        "what": "Next Wastewater Study Committee meeting",
+        "when": "June 22, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:26:54Z",
+  "usage": {
+    "total_tokens": 155044,
+    "total_input_tokens": 152305,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 151612
+      },
+      {
+        "modality": "text",
+        "tokens": 693
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1421,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1318
+  }
+}

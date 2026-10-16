@@ -1,0 +1,122 @@
+{
+  "video": {
+    "id": "YmD0athXTZs",
+    "title": "Scholarship Advisory Committee 5/19/26",
+    "published_at": "2026-05-21T16:47:29Z",
+    "duration_s": 286
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Scholarship Advisory Committee",
+    "meeting_date": "2026-05-20",
+    "headline": "The Southborough Scholarship Advisory Committee voted unanimously to award $6,000 in town and memorial scholarships to six student applicants.",
+    "summary": "The Southborough Scholarship Advisory Committee met briefly on May 20, 2026, to finalize its 2026 scholarship awards. The committee unanimously approved awards totaling $6,000 across six applicants through town and memorial funds. Members also voted to authorize Town House staff to issue checks to each recipient.",
+    "topics": [
+      {
+        "title": "2026 scholarship awards",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed and voted on award allocations for six applicants across several scholarship funds, including the Southborough Town Scholarship, Linda Hubley Scholarship, Stefanie Ranieri Scholarship, and Carol Harris Scholarship. Members also authorized the Town House to issue check payments to each recipient.",
+        "key_details": [
+          "Awarded $1,250 to Applicant 1 from the Southborough Town Scholarship",
+          "Awarded $1,000 to Applicant 2 from the Southborough Town Scholarship",
+          "Awarded $1,000 to Applicant 3 from the Linda Hubley Scholarship",
+          "Awarded $1,000 to Applicant 4 from the Stefanie Ranieri Scholarship",
+          "Awarded $500 to Applicant 5 from the Southborough Town Scholarship, and $1,250 to Applicant 6 split between the Stefanie Ranieri ($750) and Carol Harris ($500) scholarships"
+        ],
+        "outcome": "All six scholarship awards totaling $6,000 and the check authorization were approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 36,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee conducted routine business, approving the minutes of the May 20, 2026 meeting as displayed on screen prior to adjourning.",
+        "key_details": [
+          "Approved meeting minutes as presented on screen"
+        ],
+        "outcome": "Minutes approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 228,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve and award the Southborough Town Scholarship for $1,250 to Applicant 1",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 85
+      },
+      {
+        "motion": "Approve and award the Southborough Town Scholarship for $1,000 to Applicant 2",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 113
+      },
+      {
+        "motion": "Approve and award the Linda Hubley Scholarship for $1,000 to Applicant 3",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 132
+      },
+      {
+        "motion": "Approve and award the Stefanie Ranieri Scholarship for $1,000 to Applicant 4",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 154
+      },
+      {
+        "motion": "Approve and award the Southborough Town Scholarship for $500 to Applicant 5",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 174
+      },
+      {
+        "motion": "Approve and award the Stefanie Ranieri Scholarship for $750 and the Carol Harris Scholarship for $500 to Applicant 6",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 198
+      },
+      {
+        "motion": "Authorize the Town House to sign checks for each recipient",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 216
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Committee gathering at Town House for awards presentation and photos with recipients",
+        "when": "5:45 PM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-13b",
+  "processed_at": "2026-10-15T23:30:27Z",
+  "usage": {
+    "total_tokens": 14054,
+    "total_input_tokens": 11586,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 690
+      },
+      {
+        "modality": "video",
+        "tokens": 10896
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1118,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1350
+  }
+}

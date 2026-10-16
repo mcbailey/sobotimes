@@ -1,0 +1,94 @@
+{
+  "headline": "Southborough officials began planning a potential five-year operating tax override for FY28 while raising transfer station fees and advancing key zoning and building reviews.",
+  "synopsis": "In July, town leadership opened discussions on a projected $2 million operating deficit for fiscal year 2028, debating a five-year Proposition 2 1/2 override of up to $10 million. The Select Board approved higher transfer station fees for FY27 to cover hauling expenses, while the Board of Health enacted updated private well and septic testing rules. Development reviews advanced along Route 9, where the Zoning Board of Appeals approved variance relief for Costco's proposed warehouse and retaining walls. Planning progressed on municipal and school infrastructure, including baseline conditions assessments for Neary Elementary School and revised Community Preservation Act applications for parks, golf irrigation, and trails. Meanwhile, the Wastewater Study Committee decided not to bring any Route 9 wastewater articles to fall Special Town Meeting.",
+  "top_items": [
+    {
+      "title": "Town leaders begin planning multi-year operational tax override",
+      "why": "With a projected $2 million operating deficit facing fiscal year 2028, town officials began debating a multi-year Proposition 2 1/2 override.",
+      "body": "The Select Board and Advisory Committee began examining long-range budget forecasts showing the town will exhaust its remaining tax levy capacity in FY28. Select Board members discussed pursuing a five-year operational override—potentially totaling up to $10 million—to establish stable excess levy capacity rather than returning to voters each year. Advisory Committee members debated the merits of multi-year versus single-year overrides, noting that any plan should consider long-term liabilities such as pensions and retiree healthcare.",
+      "importance": "high",
+      "video_id": "y2SA0f-wqgI",
+      "start_seconds": 5764,
+      "issue": "fy28-operating-budget"
+    },
+    {
+      "title": "Select Board increases FY27 transfer station permit fees",
+      "why": "The Select Board voted 5-0 to approve increased transfer station sticker fees to cover higher operational and outside hauling costs.",
+      "body": "The Select Board adopted Option 2 for fiscal year 2027 transfer station sticker rates, setting permits at $320 for the first non-senior permit, $75 for the first senior permit, and $25 for secondary vehicle permits. Hardship permits remain free. The fee increases address operational expenses, including $62,000 in temporary contracted hauling while municipal staff acquire commercial driver's licenses. Proposed changes to transfer station rules regarding large items and swap shop drop-offs were postponed to August.",
+      "importance": "high",
+      "video_id": "y2SA0f-wqgI",
+      "start_seconds": 1646,
+      "issue": "transfer-station-fees-and-regulations"
+    },
+    {
+      "title": "Board of Health updates rules for wells and septic systems",
+      "why": "The Board of Health unanimously adopted revised regulations requiring well testing prior to real estate transfers and stricter setbacks.",
+      "body": "Following a public hearing, the Board of Health voted unanimously to enact comprehensive revisions to town rules governing private wells and subsurface sewage disposal systems. The amendments require testing of private drinking water wells before real estate sales, establish a mandatory 25-foot separation between private wells and swimming pools, ensure guaranteed access for septic repairs, and require the separation of septic design and installation roles.",
+      "importance": "high",
+      "video_id": "-t0sUEo_dbo",
+      "start_seconds": 342,
+      "issue": "well-and-septic-regulations"
+    },
+    {
+      "title": "Costco secures height variances for retaining walls and lighting",
+      "why": "The Zoning Board of Appeals voted 4-0 to approve variance relief for retaining wall and light pole heights at 21 Coslin Drive.",
+      "body": "The Zoning Board of Appeals unanimously granted variances allowing Costco Wholesale to construct retaining walls up to 31 feet high and erect parking lot light poles up to 36.5 feet tall, exceeding the standard 20-foot limit. Costco representatives explained that a 40-foot grade change across the former Dell campus site necessitated tall retaining walls to create a level parking lot. The board accepted simulations showing that taller, dark-sky compliant poles would reduce total fixtures from 113 to 49 while keeping light trespass at zero.",
+      "importance": "high",
+      "video_id": "SfMRh_yUWvM",
+      "start_seconds": 3570,
+      "issue": "21-coslin-drive-costco"
+    },
+    {
+      "title": "Architects present baseline assessment for Neary Elementary School",
+      "why": "Tappe Architects delivered an initial conditions analysis outlining major building and space deficiencies at Neary Elementary School.",
+      "body": "The Elementary School Building Committee reviewed an existing conditions assessment of Margaret A. Neary Elementary School. While the building structure remains sound, consultants identified urgent modernization needs, including wall insulation, triple-glazed windows, full accessibility compliance, fire suppression sprinklers, and replacing noisy unit ventilators with central HVAC. The committee discussed programming needs and modular classroom conditions as it evaluates renovation or replacement options targeting the 2027 Annual Town Meeting.",
+      "importance": "high",
+      "video_id": "cAqiXBom0Vo",
+      "start_seconds": 74,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Community Preservation Committee reviews cost increases on major town projects",
+      "why": "Sponsors of major park, golf, and trail proposals presented revised budgets seeking additional Community Preservation Act funds for fall Special Town Meeting.",
+      "body": "The Community Preservation Committee reviewed updated funding requests for three major town projects facing higher costs. The Recreation Commission requested $240,000 for 17 angled parking spaces and crosswalk improvements at Fay Memorial Park, bringing that project estimate to $1.5 million. The Golf Course Committee requested additional CPA funding after bids for replacing the 9-hole irrigation system rose to $976,470, while the Trails Committee adjusted its Peninsula Trail footbridge request to $434,328 after removing a costly boardwalk.",
+      "importance": "medium",
+      "video_id": "QD_9SgG4w3I",
+      "start_seconds": 2563,
+      "issue": "fayville-memorial-park-improvements"
+    },
+    {
+      "title": "Zoning Board endorses updated bylaw for two-family dwellings",
+      "why": "The Zoning Board of Appeals voted 4-0 to advance draft zoning amendments clarifying regulations and lot sizes for two-family homes.",
+      "body": "The Zoning Board of Appeals unanimously approved a draft zoning bylaw amendment to submit to the Select Board ahead of the fall Special Town Meeting. The proposal adds a clear definition for two-family dwellings, separates them from accessory dwelling units, removes an obsolete two-year waiting period to convert existing single-family homes, and updates dimensional lot requirements across town zoning districts. The board scheduled an informational public forum for August 12.",
+      "importance": "medium",
+      "video_id": "SfMRh_yUWvM",
+      "start_seconds": 5315,
+      "issue": "two-family-zoning-amendment"
+    }
+  ],
+  "month": "2026-07",
+  "fingerprint": "95a0136c15e2207e",
+  "video_ids": [
+    "-t0sUEo_dbo",
+    "9hceIu0ePss",
+    "JG8iMC7OonI",
+    "JKZ8ZOjmCsQ",
+    "Jnrh6WK4BQY",
+    "LJ2j8FHbFbo",
+    "Q88Ipn6bDNY",
+    "QD_9SgG4w3I",
+    "QRNUZNQbwv8",
+    "SfMRh_yUWvM",
+    "VfNHNadf_2g",
+    "bn2YAjZbv5o",
+    "cAqiXBom0Vo",
+    "hxB6rx-EkQY",
+    "i3pBZm9DgSs",
+    "jvfwnOTz83I",
+    "pwm7wBAQf8E",
+    "x1cmtN9mFTM",
+    "y2SA0f-wqgI"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T01:10:21Z"
+}

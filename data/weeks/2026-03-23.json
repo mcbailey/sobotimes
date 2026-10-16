@@ -1,0 +1,28 @@
+{
+  "headline": "The School Committee approved an informational flyer detailing the proposed $8.8 million Trottier Middle School roof project ahead of Annual Town Meeting.",
+  "synopsis": "The Southborough School Committee met to review and approve an informational flyer regarding the proposed Trottier Middle School roof project. The flyer explains that voters at the April 11 Annual Town Meeting must authorize the total estimated gross cost of $8,833,964 to meet state guidelines. State grant reimbursements are projected to cover 41.52 percent of the project, lowering the net cost to taxpayers to approximately $5.38 million. The committee approved the flyer for distribution through school channels, municipal buildings, and local media.",
+  "highlights": [
+    {
+      "title": "Trottier Middle School roof project informational flyer",
+      "why": "Voters will be asked to authorize $8.8 million at Annual Town Meeting, with state grant reimbursements expected to lower the net town cost to $5.38 million. The approved flyer clarifies total project costs and state requirements ahead of town votes.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "y4CrPffK4fo",
+      "start_seconds": 105
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Annual Town Meeting vote on Trottier roof project",
+      "when": "April 11",
+      "body": null
+    }
+  ],
+  "week": "2026-03-23",
+  "fingerprint": "de3416453581ebc5",
+  "video_ids": [
+    "y4CrPffK4fo"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T00:13:00Z"
+}
