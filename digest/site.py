@@ -759,6 +759,15 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
     render("calendar.html", "calendar/index.html", groups=by_month, recent_past=list(reversed(recent_past)))
     (out / "calendar.ics").write_text(render_ics(events[-300:], cfg, base, now), encoding="utf-8", newline="")
     render("search.html", "search/index.html")
+    summarized = [m for m in meetings if m["duration_s"] or m["topics"]]
+    dates = sorted(m["date"] for m in summarized)
+    render("about.html", "about/index.html", about={
+        "meetings": len(summarized),
+        "hours": round(sum(m["duration_s"] for m in summarized) / 3600),
+        "first": f"{dates[0]:%B} {dates[0].day}, {dates[0].year}" if dates else None,
+        "last": f"{dates[-1]:%B} {dates[-1].day}, {dates[-1].year}" if dates else None,
+        "boards": len(boards),
+    })
 
     # Main feed -----------------------------------------------------------
     feed_weeks = [w for w in visible if w["count"]][:20]

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% set nav = 'about' %}
+{% block title %}About | {{ site.title }}{% endblock %}
+{% block description %}How this site works: AI-written summaries of {{ channel.town.split(',')[0] }} public meetings, made by a resident.{% endblock %}
+{% block header %}
+<header class="page-header">
+  <h1 class="page-heading">About this site</h1>
+  <p class="page-lede">An independent, resident-made site that summarizes {{ channel.town.split(',')[0] }}'s public meetings with AI, so it's easier to keep up with what's going on in town.</p>
+</header>
+{% endblock %}
+{% block main %}
+<div class="prose">
+<section class="callout" aria-label="Please read">
+  <p><strong>Everything here is written by AI.</strong> The summaries, issue pages, statuses, calendar dates and vote records are generated automatically by an AI model from meeting recordings. Nobody reviews them before they're published. AI can misunderstand, leave things out or get details wrong, including names, numbers, dates and how a vote went. Treat this site as a guide to what to watch, not as an official record. Use the time links to hear exactly what was said, and rely on the town's official minutes, agendas and notices.</p>
+</section>
+
+<h2>Who made this</h2>
+<p>A {{ channel.town.split(',')[0] }} resident built this site to make it easier to keep up with ongoing town issues without watching hours of meetings. It is a personal project. It is not affiliated with, endorsed by or run on behalf of the Town of {{ channel.town.split(',')[0] }}, any town board or committee, {{ sources|map(attribute='name')|join(' or ') }}.</p>
+<p>For now the site updates itself automatically every day. There's no guarantee it will keep running, stay complete or stay accurate. It may stop updating, miss meetings or change without notice.</p>
+
+<h2>How it works</h2>
+<ol class="steps">
+  <li><strong>Finding meetings.</strong> Once a day, an automated job checks the public YouTube channels where meetings are posted: {% for src in sources %}{% if not loop.first %}{{ ' and ' if loop.last else ', ' }}{% endif %}<a href="{{ src.url }}">{{ src.name }}</a>{% endfor %}. New recordings are queued. Uploads that aren't public meetings, such as tests, are skipped.</li>
+  <li><strong>Summarizing each meeting.</strong> An AI model (Google Gemini) listens to each recording's audio and looks at occasional video frames. It writes a plain-English summary with the topics discussed, motions and votes, public comment, and any dates mentioned, each with a link to the moment in the video. It works only from the recording, not from agendas, minutes or other documents.</li>
+  <li><strong>Weekly and monthly summaries.</strong> The AI then reads each week's meeting summaries (not the videos again) and writes a short overview of the week. It writes a roll-up for each month the same way.</li>
+  <li><strong>Following issues.</strong> The AI groups topics and votes from different meetings and boards into issues, such as a building project, a warrant article or a development proposal, so each matter can be followed over time. For each issue it writes "Where it stands": its best reading of each board's current position, based on their most recent discussions and votes.</li>
+  <li><strong>Calendar.</strong> Dates on the calendar are ones mentioned out loud in meetings, turned into calendar dates by the AI. They aren't taken from official postings and can be wrong or out of date.</li>
+  <li><strong>Publishing.</strong> The site is rebuilt and published automatically after each daily run.</li>
+</ol>
+
+<h2>Known limitations</h2>
+<ul>
+  <li>Summaries can be wrong. Speakers are often hard to tell apart, names may be misheard, and votes or numbers can be misreported.</li>
+  <li>Grouping meetings into issues is the AI's judgment. Related items may be split into separate issues or grouped together when they shouldn't be.</li>
+  <li>Only meetings posted to the channels above are covered, and only once they've been posted. Very long recordings are flagged instead of summarized.</li>
+  <li>Members of the public aren't named in summaries.</li>
+</ul>
+
+<h2>Coverage</h2>
+<p>{{ about.meetings }} meeting{{ 's' if about.meetings != 1 }} summarized{% if about.first %}, from {{ about.first }} to {{ about.last }}{% endif %}, covering about {{ about.hours }} hours of video.{% if about.boards %} {{ about.boards }} boards and committees appear on the site.{% endif %}</p>
+</div>
+{% endblock %}
