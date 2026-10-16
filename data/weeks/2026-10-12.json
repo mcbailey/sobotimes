@@ -1,42 +1,42 @@
 {
-  "headline": "Town boards prepared for Special Town Meeting on golf course irrigation, contracted a 2027 drone show, and approved a residential septic conversion.",
-  "synopsis": "Ahead of Special Town Meeting, the Golf Committee finalized its approach to seek additional Community Preservation Act funding and extend existing funds for course irrigation. The Tricentennial Committee signed a contract for a 200-drone show on New Year's Day 2027 and continued preparations for town anniversary events and commemorative brick sales. The Board of Health approved a wetland setback septic variance to permit converting a commercial site on Breakneck Hill Road into a single-family home. Staff also reported that municipal flu vaccination supplies are running low as scheduled clinics conclude across town departments and schools.",
+  "headline": "The Golf Committee prepared for Special Town Meeting irrigation funding, while town committees advanced 2027 tricentennial plans and approved a septic variance.",
+  "synopsis": "Ahead of Special Town Meeting, the Golf Committee finalized its advocacy strategy for an article extending and adding Community Preservation Act funds for golf course irrigation, while also voting to fund Audubon certification costs. The Tricentennial Committee executed a contract for a 200-drone light show to kick off Southborough's 300th anniversary in January 2027 and reviewed plans for an expanded summer music festival, parades, and fundraisers. The Board of Health approved a septic variance to allow a commercial-to-residential conversion at 66 Breakneck Hill Road and reviewed ongoing seasonal flu clinics.",
   "highlights": [
     {
-      "title": "Irrigation funding strategy for Special Town Meeting",
-      "why": "The Golf Committee agreed to keep its Town Meeting warrant article intact without seeking floor amendments, requesting roughly $350,000 in new Community Preservation Act funds, an extension of $550,000 in prior funds, and $100,000 from its revolving account.",
+      "title": "Special Town Meeting golf irrigation funding strategy",
+      "why": "The Golf Committee finalized its presentation plans for a warrant article requesting new and extended CPA funds alongside revolving funds for golf course irrigation, agreeing not to pursue floor amendments.",
       "body": "Golf Committee",
       "importance": "high",
       "video_id": "XB-8MuC8GBo",
       "start_seconds": 574
     },
     {
-      "title": "Drone light show contract for Tricentennial kickoff",
-      "why": "The committee executed a contract for a 15-minute, 200-drone light show on January 1, 2027, which will launch from St. Mark's field with designated viewing at Woodward School and the Town House.",
+      "title": "Contract signed for 2027 tricentennial drone light show",
+      "why": "The committee executed a contract with Firefly for a 200-drone aerial light show on January 1, 2027, which will feature 20 formations including two designs from local middle school students.",
       "body": "Tricentennial Committee",
       "importance": "high",
       "video_id": "VZd0rZYyRHI",
       "start_seconds": 5038
     },
     {
-      "title": "Septic variance for 66 Breakneck Hill Road",
-      "why": "The Board of Health approved an 85-foot setback from bordering wetlands and an upgraded nitrogen-reducing treatment system to allow a commercial property to be converted into a four-bedroom residence, contingent on Conservation Commission review.",
+      "title": "Septic variance approved for 66 Breakneck Hill Road",
+      "why": "The Board of Health voted unanimously to approve an 85-foot wetland setback variance with a nitrogen-reducing treatment tank to support converting a commercial site into a four-bedroom home, contingent on Conservation Commission review.",
       "body": "Board of Health",
       "importance": "medium",
       "video_id": "BTBCj00PeQw",
       "start_seconds": 142
     },
     {
-      "title": "Revolving fund support for Audubon certification",
-      "why": "The committee voted to pay $500 in membership dues and authorized up to $4,500 from its revolving fund to hire a consultant to finish the golf course environmental certification process.",
+      "title": "Revolving funds approved for golf course Audubon certification",
+      "why": "The committee voted to pay $500 in membership dues and authorize up to $4,500 from its revolving fund to cover a consultant bid to complete environmental certification.",
       "body": "Golf Committee",
       "importance": "medium",
       "video_id": "XB-8MuC8GBo",
       "start_seconds": 15
     },
     {
-      "title": "Summer Nights 2027 music festival planning",
-      "why": "The committee advanced plans to expand the 2027 Summer Nights event into a large music festival on the Neary School grounds, including an afternoon contra dance and multiple stages.",
+      "title": "Expansion of Summer Nights into 2027 music festival",
+      "why": "Organizers advanced plans to expand the annual Summer Nights event into a full-day, multi-stage music festival on August 21, 2027, at Neary School grounds.",
       "body": "Tricentennial Committee",
       "importance": "medium",
       "video_id": "VZd0rZYyRHI",
@@ -45,33 +45,39 @@
   ],
   "looking_ahead": [
     {
-      "what": "Special Town Meeting, including a vote on the golf course irrigation funding article",
+      "what": "Special Town Meeting",
       "when": "Saturday, October 17 at 10:00 AM",
       "body": "Town Meeting"
     },
     {
-      "what": "Special Board of Health meeting to vote on the department operating budget",
+      "what": "Special Board of Health meeting to vote on the department budget",
       "when": "October 20, 2026 at 10:00 AM",
       "body": "Board of Health"
     },
     {
-      "what": "Deadline for Trottier Middle School student artwork submissions for drone show designs",
-      "when": "November 17, 2024",
-      "body": "Tricentennial Committee"
+      "what": "Next regular Golf Committee meeting",
+      "when": "Tuesday, November 10",
+      "body": "Golf Committee"
     },
     {
-      "what": "Deadline to place commemorative brick orders for spring installation",
-      "when": "Mid-November 2024",
+      "what": "Regular Board of Health meeting",
+      "when": "November 17, 2026 at 11:00 AM",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Deadline for Trottier student artwork submissions for drone show designs",
+      "when": "November 17",
       "body": "Tricentennial Committee"
     }
   ],
   "week": "2026-10-12",
-  "fingerprint": "1532fa714a4b2a03",
+  "fingerprint": "920d170e1b8d489f",
   "video_ids": [
     "BTBCj00PeQw",
     "VZd0rZYyRHI",
-    "XB-8MuC8GBo"
+    "XB-8MuC8GBo",
+    "XWT8M6ozUrU"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T19:16:45Z"
+  "generated_at": "2026-10-16T11:14:42Z"
 }

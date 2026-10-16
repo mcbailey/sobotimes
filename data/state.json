@@ -2516,13 +2516,16 @@
       "published_at": "2026-10-15T19:27:42Z",
       "duration_s": 8723,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-15T22:06:26Z",
       "meeting_date": "2026-10-14",
-      "week": "2026-10-12"
+      "week": "2026-10-12",
+      "processed_at": "2026-10-16T11:14:15Z",
+      "prompt_version": "2026-10-13b",
+      "last_error": null
     }
   },
   "usage": {
@@ -2549,12 +2552,20 @@
       "output_tokens": 478587,
       "thought_tokens": 1063824,
       "tool_use_tokens": 0
+    },
+    "2026-10-16": {
+      "video_minutes": 145,
+      "calls": 107,
+      "input_tokens": 564201,
+      "output_tokens": 31840,
+      "thought_tokens": 141342,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-16T03:35:55Z",
+    "at": "2026-10-16T11:11:59Z",
     "discovered": 26,
-    "summarized": 0,
+    "summarized": 1,
     "refreshed": 0,
     "errors": 0
   }
