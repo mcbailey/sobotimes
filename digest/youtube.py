@@ -18,6 +18,12 @@ from .timeutil import iso, parse_duration, parse_iso
 
 YT_API = "https://www.googleapis.com/youtube/v3"
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+PLAYLIST_RSS_URL = "https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
+
+
+def is_playlist(source_id: str) -> bool:
+    """Channel ids start with UC; playlist ids (PL...) are read directly."""
+    return not source_id.startswith("UC")
 
 _NS = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -28,6 +34,8 @@ _NS = {
 
 def discover(channel_id: str, since: datetime, api_key: str | None = None, log=print) -> list[dict]:
     """Return videos published at or after `since`, newest first.
+
+    `channel_id` may also be a playlist id, to take videos from one playlist.
 
     Each item: id, title, description, published_at (ISO UTC),
     duration_s (int|None), live ('none'|'live'|'upcoming'|None), source.
@@ -44,7 +52,8 @@ def discover(channel_id: str, since: datetime, api_key: str | None = None, log=p
 # --- YouTube Data API --------------------------------------------------------
 
 def _via_data_api(channel_id: str, since: datetime, api_key: str) -> Iterable[dict]:
-    uploads = "UU" + channel_id[2:]
+    playlist = is_playlist(channel_id)
+    uploads = channel_id if playlist else "UU" + channel_id[2:]
     found: dict[str, dict] = {}
     page_token = None
     for _ in range(20):  # 20 pages x 50 = far more than any backfill window needs
@@ -79,7 +88,11 @@ def _via_data_api(channel_id: str, since: datetime, api_key: str) -> Iterable[di
                 "source": "youtube-api",
             }
         page_token = data.get("nextPageToken")
-        if not page_token or (oldest_on_page is not None and oldest_on_page < since):
+        if not page_token:
+            break
+        # Uploads are listed newest first, so stop once past the window. A
+        # playlist is in whatever order its owner set, so read all of it.
+        if not playlist and oldest_on_page is not None and oldest_on_page < since:
             break
 
     ids = list(found)
@@ -106,7 +119,8 @@ def _via_data_api(channel_id: str, since: datetime, api_key: str) -> Iterable[di
 # --- RSS ---------------------------------------------------------------------
 
 def _via_rss(channel_id: str) -> list[dict]:
-    raw = http.request("GET", RSS_URL.format(channel_id=channel_id))
+    url = PLAYLIST_RSS_URL.format(playlist_id=channel_id) if is_playlist(channel_id) else RSS_URL.format(channel_id=channel_id)
+    raw = http.request("GET", url)
     return parse_rss(raw)
 
 

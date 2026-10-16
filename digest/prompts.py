@@ -16,13 +16,13 @@ from .timeutil import date_from_title
 
 # Bump when prompts or schemas change. Meetings summarized with an older
 # version are redone when gemini.redo_outdated_summaries is on.
-PROMPT_VERSION = "2026-10-13b"
+PROMPT_VERSION = "2026-10-16"
 # The text-only calls have their own versions, so changing one doesn't mean
 # re-watching any video.
 WEEK_PROMPT_VERSION = "2026-10-15"
 LINK_PROMPT_VERSION = "2026-10-16"
 MONTH_PROMPT_VERSION = "2026-10-15"
-ISSUE_PROMPT_VERSION = "2026-10-16b"
+ISSUE_PROMPT_VERSION = "2026-10-16c"
 
 CATEGORIES = [
     "Budget & taxes",
@@ -90,6 +90,24 @@ appointments, adjournment) into a single low-importance topic called "Routine bu
 project names, vote counts, deadlines, who is asking for what, and what happens next.
 - Only state what is said or shown in the video. If audio is unclear or the \
 recording is cut off, say so in "caveats". Never invent numbers, names or dates.
+- Years: speakers usually give dates without a year. Such a date is in the \
+meeting's year, or the following year if it would otherwise fall well before \
+the meeting (for example, a deadline or next meeting). A scheduled or future \
+date is never before the meeting date. Write a different year only when one \
+is clearly stated, as with a past project or an earlier vote. The town's \
+fiscal year runs July to June and is named for the year it ends: for \
+example, a meeting in October 2026 is in FY27, and the budget being built then \
+is for FY28. Write "FY" numbers as said, and when a speaker says only "this \
+fiscal year" or "next year's budget", work the number out from the meeting \
+date.
+- Names: spell people, companies, consultants and projects as shown on slides, \
+agendas or documents on screen, otherwise as clearly spoken. Never expand an \
+acronym or initials unless the full name is said or shown; if unsure of a \
+name, use the short form or describe the role (for example, "the consultant").
+- Conditions and alternatives: when a proposal, article or motion offers \
+options, conditions, exceptions or alternative paths (for example, approval by \
+ballot or by the legislature), state them. Report requests a board turned down \
+or declined to act on, and who made them, as well as those it approved.
 - Keep everything consistent. A topic's outcome, the votes list, the headline \
 and the summary must agree. Use the exact action taken: "nominated" is not \
 "elected", "continued" is not "closed", "discussed" is not "approved". If a \
@@ -807,7 +825,11 @@ example approved, awaiting Town Meeting, under review, stalled), where the \
 boards currently line up, the main open questions or concerns, and what \
 happens next. Mention earlier events only when they explain the present, such \
 as a board reversing itself or a plan changing substantially. A date that has \
-passed is no longer "upcoming".
+passed is no longer "upcoming". Keep the conditions and alternatives the \
+record shows: if a proposal can take more than one path (for example, a ballot \
+vote or a special act of the legislature), say so rather than naming only one. \
+Mention a pending request or a rejected one when it could change the outcome, \
+such as an amendment expected at Town Meeting.
 - positions: one entry for each board, committee or group whose current view \
 the record shows, based on its most recent discussion or vote. stance is \
 support, oppose, mixed, neutral or undecided. detail is one short sentence on \
@@ -815,20 +837,27 @@ its current thinking and the basis, such as "Voted 0-7 on Sep 16 to recommend \
 against Article 4, citing the per-foot cost." If its view has shifted, say so \
 briefly ("now opposes; supported the application in June"). Include residents \
 as "Public comment" when comments on this matter were made, giving the range \
-of views. Leave out boards that only heard updates without forming a view.
+of views. Leave out boards that only heard updates without forming a view. \
+Include a committee or group that made a request on the matter, and say \
+whether it was granted or refused.
 - next: the next scheduled step and its date, or an empty string if none is known.
 - significance: how much the matter affects the town as a whole, 1 to 5, \
 judged by money, reach and lasting effect rather than by how often it comes up:
   5: town-wide and consequential: the operating budget or tax rate, a major \
 capital or school building project, a large development or 40B, a zoning \
 change or Town Meeting article affecting many residents.
-  4: significant: spending or borrowing in the hundreds of thousands, a \
-town policy or governance change, a contested project involving several boards.
+  4: significant: spending or borrowing in the hundreds of thousands, a fee \
+or service change most households feel, a town policy or governance change, a \
+contested project involving several boards.
   3: moderate: a neighborhood-scale project, program or facility, or a \
 modest appropriation.
   2: minor: one property's permit or variance, routine compliance, details of \
 planning an event or celebration.
   1: routine: administrative or housekeeping items.
+  Then raise it by one (up to 5) when the matter is publicly contested or \
+raises a question of process or accountability, such as a board overruling a \
+committee, a split between boards, sustained public objection, or a decision \
+that bypasses Town Meeting or voters.
 
 Neutral tone. Facts from the input only: never infer a position that the \
 record doesn't show. Comments listed as "other_comments_at_meeting" may be about \

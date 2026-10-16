@@ -148,6 +148,8 @@ class Pipeline:
         )
         # Then refresh recent summaries written with older prompts, newest first.
         # The old summary stays on the site until the new one replaces it.
+        # A one-off longer --backfill-days widens discovery only, not the redo.
+        redo_since = now - timedelta(days=cfg.discovery.backfill_days)
         if cfg.gemini.redo_outdated_summaries:
             queue += sorted(
                 (
@@ -155,7 +157,7 @@ class Pipeline:
                     if v["status"] == DONE
                     and v.get("prompt_version") != prompts.PROMPT_VERSION
                     and v.get("redo_skip") != prompts.PROMPT_VERSION
-                    and parse_iso(v["published_at"]) >= since
+                    and (parse_iso(v["published_at"]) >= redo_since or v.get("redo"))
                 ),
                 key=lambda v: v["published_at"],
                 reverse=True,
@@ -422,6 +424,7 @@ class Pipeline:
         v["prompt_version"] = prompts.PROMPT_VERSION
         v["last_error"] = None
         v.pop("redo_attempts", None)
+        v.pop("redo", None)
 
     # ------------------------------------------------------------------
     def _update_weeks(self, state: dict, report: RunReport) -> None:

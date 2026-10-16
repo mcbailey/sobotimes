@@ -39,6 +39,8 @@ def main(argv: list[str] | None = None) -> int:
 
     q = sub.add_parser("requeue", help="summarize these videos again on the next run")
     q.add_argument("video_ids", nargs="+")
+    rd = sub.add_parser("redo", help="summarize these again with the current prompt, keeping the old summary until then")
+    rd.add_argument("video_ids", nargs="+")
 
     sub.add_parser("issues", help="list tracked issues")
     mi = sub.add_parser("merge-issues", help="fold one issue into another (when two were created for the same matter)")
@@ -80,6 +82,18 @@ def main(argv: list[str] | None = None) -> int:
                 continue
             rec.update(status=QUEUED, attempts=0, last_error=None)
             print(f"Requeued {vid}: {rec['title']}")
+        store.save_state(state)
+        return 0
+    if args.cmd == "redo":
+        state = store.load_state()
+        for vid in args.video_ids:
+            rec = state["videos"].get(vid)
+            if not rec or rec["status"] != DONE:
+                print(f"Not a summarized video: {vid}")
+                continue
+            rec["redo"] = True
+            rec.pop("redo_skip", None)
+            print(f"Marked for redo {vid}: {rec['title']}")
         store.save_state(state)
         return 0
     return 2

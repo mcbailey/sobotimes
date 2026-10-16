@@ -19,6 +19,16 @@ id = "UCs4MKkThBjpiU4LnmlP37Bg"         # @SouthboroughAccessMedia
 name = "Southborough Access Media"
 include_patterns = ['\bschool committee\b']
 
+# Northborough Media Connection's school committee playlist. Northborough and
+# Southborough share Algonquin (the Regional School Committee) and meet together
+# as the Combined School Committee; only those meetings are taken, not
+# Northborough's own School Committee.
+[[extra_channels]]
+id = "PLk479TOxptkU0lc8Dh3jIOCkqMMAq6Qji"
+name = "Northborough Media Connection"
+include_patterns = ['\bcombined\b', '\bregional school committee\b']
+exclude_patterns = ['^\s*northborough school committee\b']
+
 [discovery]
 # How far back to look for videos. The first run backfills this window.
 # This is also the window re-summarized when PROMPT_VERSION changes. Meetings

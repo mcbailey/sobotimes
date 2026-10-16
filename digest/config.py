@@ -17,22 +17,29 @@ class ChannelConfig:
 
 @dataclass
 class ExtraChannel:
-    """Another channel to pull from, limited to titles matching include_patterns."""
+    """Another channel or playlist to pull from, limited to titles matching
+    include_patterns and not matching exclude_patterns."""
 
     id: str
     name: str = ""
     include_patterns: list[str] = field(default_factory=list)
+    exclude_patterns: list[str] = field(default_factory=list)
 
     def __post_init__(self) -> None:
         if not self.include_patterns:
             raise ValueError(f"extra channel {self.id} needs include_patterns")
         self._include = [re.compile(p, re.IGNORECASE) for p in self.include_patterns]
+        self._exclude = [re.compile(p, re.IGNORECASE) for p in self.exclude_patterns]
 
     def wants(self, title: str) -> bool:
+        if any(rx.search(title) for rx in self._exclude):
+            return False
         return any(rx.search(title) for rx in self._include)
 
     @property
     def url(self) -> str:
+        if not self.id.startswith("UC"):
+            return f"https://www.youtube.com/playlist?list={self.id}"
         return f"https://www.youtube.com/channel/{self.id}"
 
 

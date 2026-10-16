@@ -17,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import sample_data  # noqa: E402
 from digest import gemini, http, prompts, timeutil, youtube  # noqa: E402
-from digest.config import DiscoveryConfig, load_config  # noqa: E402
+from digest.config import DiscoveryConfig, ExtraChannel, load_config  # noqa: E402
 from digest.gemini import GeminiError, InteractionsClient, OutOfTokens, RateLimited, Result, TryLater  # noqa: E402
 from digest.pipeline import DONE, FAILED, NOT_MEETING, QUEUED, SKIPPED, TOO_LONG, Pipeline, apply_links, merge_issues  # noqa: E402
 from digest.site import board_names, build_site, issue_rank_score  # noqa: E402
@@ -318,6 +318,33 @@ class PipelineTests(unittest.TestCase):
             p.run()  # gave up on the refresh; no more calls for it
             self.assertFalse(any("sampleSB1006" in json.dumps(c["input"]) for c in client.calls if isinstance(c["input"], list)))
 
+    def test_marked_redo_outside_window_keeps_summary_until_replaced(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            client = FakeClient()
+            cfg, store, p = make_pipeline(tmp, client, daily_video_minutes=10_000, max_videos_per_run=20)
+            p.run()
+            state = store.load_state()
+            v = state["videos"]["sampleSB1006"]
+            v["prompt_version"] = "old"
+            store.save_state(state)
+            later = NOW + timedelta(days=cfg.discovery.backfill_days + 30)
+            p.now = lambda: later
+            self.assertEqual(p.run().refreshed, [])  # outdated, but older than the window
+            state = store.load_state()
+            state["videos"]["sampleSB1006"]["redo"] = True
+            store.save_state(state)
+            self.assertIsNotNone(store.read_meeting("sampleSB1006"))  # still shown while marked
+            self.assertEqual(p.run().refreshed, [v["title"]])
+            v = store.load_state()["videos"]["sampleSB1006"]
+            self.assertEqual(v["prompt_version"], prompts.PROMPT_VERSION)
+            self.assertNotIn("redo", v)
+            # A longer one-off lookback widens discovery, not the redo.
+            for x in state["videos"].values():
+                x["prompt_version"] = "old"
+            state["videos"]["sampleSB1006"]["prompt_version"] = prompts.PROMPT_VERSION
+            store.save_state(state)
+            self.assertEqual(p.run(backfill_days=10_000).refreshed, [])
+
     def test_refresh_can_be_turned_off(self):
         with tempfile.TemporaryDirectory() as tmp:
             client = FakeClient()
@@ -604,6 +631,37 @@ class LinkTests(unittest.TestCase):
 
 
 class UnitTests(unittest.TestCase):
+    def test_extra_playlist_takes_only_joint_school_committees(self):
+        src = next(c for c in load_config(ROOT / "config.toml").extra_channels if c.id.startswith("PL"))
+        self.assertTrue(src.wants("Combined School Committee Meeting / March 11, 2026"))
+        self.assertTrue(src.wants("Regional School Committee Meeting / January 21, 2026"))
+        self.assertTrue(src.wants("Combined/Regional & Northborough School Committees Meetings / December 3, 2025"))
+        self.assertFalse(src.wants("Northborough School Committee Meeting / June 3, 2026"))
+        self.assertFalse(src.wants("Northborough School Committee & Operational Budget Subcommittee Joint Meeting"))
+        self.assertIn("playlist?list=", src.url)
+        with self.assertRaises(ValueError):
+            ExtraChannel(id="PLx")
+
+    def test_playlist_discovery_reads_past_old_items(self):
+        """A playlist isn't in date order, so an old item doesn't end the scan."""
+        pages = [
+            {"items": [{"contentDetails": {"videoId": "old", "videoPublishedAt": "2025-01-01T00:00:00Z"}, "snippet": {"title": "Old"}}], "nextPageToken": "p2"},
+            {"items": [{"contentDetails": {"videoId": "new", "videoPublishedAt": "2026-10-10T00:00:00Z"}, "snippet": {"title": "New"}}]},
+            {"items": [{"id": "new", "contentDetails": {"duration": "PT1H"}, "snippet": {"liveBroadcastContent": "none"}, "status": {"privacyStatus": "public"}}]},
+        ]
+        calls = []
+        def fake_get_json(url):
+            calls.append(url)
+            return pages[len(calls) - 1]
+        orig = http.get_json
+        http.get_json = fake_get_json
+        try:
+            got = youtube.discover("PLabc", datetime(2026, 10, 1, tzinfo=timezone.utc), api_key="k")
+        finally:
+            http.get_json = orig
+        self.assertEqual([v["id"] for v in got], ["new"])
+        self.assertIn("playlistId=PLabc", calls[0])
+
     def test_issue_rank_weighs_significance_over_frequency(self):
         latest = date(2026, 10, 14)
         def issue(n, importance, significance):
