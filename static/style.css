@@ -796,3 +796,9 @@ mark {
 .prose li { margin-bottom: 0.6rem; }
 .callout { border-left: 4px solid var(--hl); padding: 0.75rem 0 0.75rem 1.1rem; margin: 0.5rem 0 1.5rem; }
 .callout p { margin: 0; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr)); gap: 0.75rem; margin: 0.5rem 0 0.5rem; }
+.stats div { border-top: 3px solid var(--ink); padding-top: 0.5rem; }
+.stats dt { font: 600 0.8rem var(--sans); color: var(--granite); }
+.stats dd { margin: 0; font: 800 1.9rem/1.1 var(--sans); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.stats-range { font-family: var(--sans); font-size: 0.88rem; }
+.prose h3 { font-size: 1.1rem; margin: 1.75rem 0 0.5rem; }

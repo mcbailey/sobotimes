@@ -627,6 +627,49 @@ def render_ics(events: list[dict], cfg: Config, base: str, stamp: datetime) -> s
 # Build
 # --------------------------------------------------------------------------
 
+_UNANIMOUS = re.compile(r"^\s*\d+\s*[-–]\s*0(\s*[-–]\s*0)?\s*$")
+
+
+def about_stats(weeks: list[dict], decisions: list[dict], issues: list[dict], boards: list[dict]) -> dict:
+    """Totals and fun facts for the About page, from what's on the site."""
+    meetings = [m for w in weeks for m in w["meetings"] if m["topics"] or m["duration_s"]]
+    if not meetings:
+        return {"meetings": 0}
+    total_s = sum(m["duration_s"] for m in meetings)
+    dates = sorted(m["date"] for m in meetings)
+    timed = [m for m in meetings if m["duration_s"]]
+    longest = max(timed, key=lambda m: m["duration_s"]) if timed else None
+    busiest_board = max(boards, key=lambda b: len(b["meetings"])) if boards else None
+    busiest_week = max(weeks, key=lambda w: (w.get("count") or 0, w.get("hours_s") or 0))
+    decided = [d for d in decisions if d["result"] in ("passed", "failed")]
+    unanimous = [d for d in decided if "unanimous" in (d.get("tally") or "").lower() or _UNANIMOUS.match(d.get("tally") or "")]
+    top_issue = max(issues, key=lambda i: (i["meeting_count"], len(i["boards"]))) if issues else None
+    days, rem = divmod(round(total_s / 3600), 24)
+    long_day = lambda d: f"{d:%B} {d.day}, {d.year}"  # noqa: E731
+    return {
+        "meetings": len(meetings),
+        "hours": round(total_s / 3600),
+        "days": days,
+        "rem_hours": rem,
+        "first": long_day(dates[0]),
+        "last": long_day(dates[-1]),
+        "boards": len(boards),
+        "issues": len(issues),
+        "votes": len(decisions),
+        "topics": sum(len(m["topics"]) for m in meetings),
+        "comments": sum(len(m["public_comment"]) for m in meetings),
+        "average": fmt_duration(round(total_s / len(timed))) if timed else "",
+        "longest": longest,
+        "busiest_board": busiest_board,
+        "busiest_week": busiest_week if busiest_week.get("count") else None,
+        "decided": len(decided),
+        "failed": sum(1 for d in decided if d["result"] == "failed"),
+        "unanimous": len(unanimous),
+        "unanimous_pct": round(100 * len(unanimous) / len(decided)) if decided else 0,
+        "top_issue": top_issue,
+    }
+
+
 def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | None = None, now: datetime | None = None) -> Path:
     out = Path(out_dir)
     if out.exists():
@@ -759,15 +802,7 @@ def build_site(cfg: Config, store: Store, out_dir: str | Path, *, banner: str | 
     render("calendar.html", "calendar/index.html", groups=by_month, recent_past=list(reversed(recent_past)))
     (out / "calendar.ics").write_text(render_ics(events[-300:], cfg, base, now), encoding="utf-8", newline="")
     render("search.html", "search/index.html")
-    summarized = [m for m in meetings if m["duration_s"] or m["topics"]]
-    dates = sorted(m["date"] for m in summarized)
-    render("about.html", "about/index.html", about={
-        "meetings": len(summarized),
-        "hours": round(sum(m["duration_s"] for m in summarized) / 3600),
-        "first": f"{dates[0]:%B} {dates[0].day}, {dates[0].year}" if dates else None,
-        "last": f"{dates[-1]:%B} {dates[-1].day}, {dates[-1].year}" if dates else None,
-        "boards": len(boards),
-    })
+    render("about.html", "about/index.html", about=about_stats(weeks, decisions, issues, boards))
 
     # Main feed -----------------------------------------------------------
     feed_weeks = [w for w in visible if w["count"]][:20]

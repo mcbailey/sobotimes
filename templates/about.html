@@ -14,6 +14,32 @@
   <p><strong>Everything here is written by AI.</strong> The summaries, issue pages, statuses, calendar dates and vote records are generated automatically by an AI model from meeting recordings. Nobody reviews them before they're published. AI can misunderstand, leave things out or get details wrong, including names, numbers, dates and how a vote went. Treat this site as a guide to what to watch, not as an official record. Use the time links to hear exactly what was said, and rely on the town's official minutes, agendas and notices.</p>
 </section>
 
+{% if about.meetings %}
+<h2>By the numbers</h2>
+<dl class="stats">
+  <div><dt>Meetings summarized</dt><dd>{{ "{:,}".format(about.meetings) }}</dd></div>
+  <div><dt>Hours of video</dt><dd>{{ "{:,}".format(about.hours) }}</dd></div>
+  <div><dt>Votes recorded</dt><dd>{{ "{:,}".format(about.votes) }}</dd></div>
+  <div><dt>Issues followed</dt><dd>{{ about.issues }}</dd></div>
+  <div><dt>Boards and committees</dt><dd>{{ about.boards }}</dd></div>
+  <div><dt>Topics covered</dt><dd>{{ "{:,}".format(about.topics) }}</dd></div>
+</dl>
+<p class="muted stats-range">Meetings from {{ about.first }} to {{ about.last }}.</p>
+
+<h3>Fun facts</h3>
+<ul class="facts">
+  {% if about.days %}<li>Watching every meeting back to back, without sleeping, would take <strong>{{ about.days }} day{{ 's' if about.days != 1 }}{% if about.rem_hours %} and {{ about.rem_hours }} hour{{ 's' if about.rem_hours != 1 }}{% endif %}</strong>.</li>{% endif %}
+  {% if about.average %}<li>The average meeting runs <strong>{{ about.average }}</strong>.</li>{% endif %}
+  {% if about.longest %}<li>The longest was the <a href="{{ root }}weeks/{{ about.longest.week }}/#{{ about.longest.anchor }}">{{ about.longest.body }} on {{ about.longest.date_long }}</a>, at <strong>{{ about.longest.duration }}</strong>.</li>{% endif %}
+  {% if about.busiest_board %}<li>The busiest board is the <a href="{{ root }}boards/{{ about.busiest_board.slug }}/">{{ about.busiest_board.name }}</a>, with <strong>{{ about.busiest_board.meetings|length }} meetings</strong>.</li>{% endif %}
+  {% if about.busiest_week %}<li>The busiest week was <a href="{{ root }}weeks/{{ about.busiest_week.key }}/">{{ about.busiest_week.label }}</a>, with <strong>{{ about.busiest_week.count }} meetings</strong>.</li>{% endif %}
+  {% if about.decided %}<li><strong>{{ about.unanimous_pct }}%</strong> of votes were unanimous{% if about.failed %}, and <strong>{{ about.failed }} motion{{ 's' if about.failed != 1 }}</strong> failed{% endif %}.</li>{% endif %}
+  {% if about.top_issue %}<li>The most-discussed issue is <a href="{{ root }}issues/{{ about.top_issue.id }}/">{{ about.top_issue.name }}</a>: <strong>{{ about.top_issue.meeting_count }} meetings</strong> across {{ about.top_issue.boards|length }} boards.</li>{% endif %}
+  {% if about.comments %}<li>Residents spoke during public comment <strong>{{ about.comments }} times</strong>.</li>{% endif %}
+</ul>
+<p class="muted">These numbers update every day and, like the rest of the site, are counted from the AI summaries.</p>
+{% endif %}
+
 <h2>Who made this</h2>
 <p>A {{ channel.town.split(',')[0] }} resident built this site to make it easier to keep up with ongoing town issues without watching hours of meetings. It is a personal project. It is not affiliated with, endorsed by or run on behalf of the Town of {{ channel.town.split(',')[0] }}, any town board or committee, {{ sources|map(attribute='name')|join(' or ') }}.</p>
 <p>For now the site updates itself automatically every day. There's no guarantee it will keep running, stay complete or stay accurate. It may stop updating, miss meetings or change without notice.</p>
@@ -36,7 +62,5 @@
   <li>Members of the public aren't named in summaries.</li>
 </ul>
 
-<h2>Coverage</h2>
-<p>{{ about.meetings }} meeting{{ 's' if about.meetings != 1 }} summarized{% if about.first %}, from {{ about.first }} to {{ about.last }}{% endif %}, covering about {{ about.hours }} hours of video.{% if about.boards %} {{ about.boards }} boards and committees appear on the site.{% endif %}</p>
 </div>
 {% endblock %}
