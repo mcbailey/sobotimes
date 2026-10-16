@@ -2563,9 +2563,9 @@
     }
   },
   "last_run": {
-    "at": "2026-10-16T11:11:59Z",
+    "at": "2026-10-16T12:26:25Z",
     "discovered": 26,
-    "summarized": 1,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }
