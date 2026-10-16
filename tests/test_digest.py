@@ -631,14 +631,18 @@ class LinkTests(unittest.TestCase):
 
 
 class UnitTests(unittest.TestCase):
-    def test_extra_playlist_takes_only_joint_school_committees(self):
-        src = next(c for c in load_config(ROOT / "config.toml").extra_channels if c.id.startswith("PL"))
+    def test_northborough_source_takes_only_joint_school_committees(self):
+        src = next(c for c in load_config(ROOT / "config.toml").extra_channels if c.name == "Northborough Media Connection")
         self.assertTrue(src.wants("Combined School Committee Meeting / March 11, 2026"))
         self.assertTrue(src.wants("Regional School Committee Meeting / January 21, 2026"))
         self.assertTrue(src.wants("Combined/Regional & Northborough School Committees Meetings / December 3, 2025"))
         self.assertFalse(src.wants("Northborough School Committee Meeting / June 3, 2026"))
+        self.assertTrue(src.wants("Regional School Com. Operational Budget Subcom. & Capital Planning Subcom. Meeting / October 7, 2026"))
         self.assertFalse(src.wants("Northborough School Committee & Operational Budget Subcommittee Joint Meeting"))
-        self.assertIn("playlist?list=", src.url)
+        self.assertFalse(src.wants("Select Board Meeting / October 19, 2026"))
+        self.assertFalse(src.wants("Board of Health Meeting / October 13, 2026"))
+        self.assertIn("/channel/", src.url)
+        self.assertIn("playlist?list=", ExtraChannel(id="PLabc", include_patterns=["x"]).url)
         with self.assertRaises(ValueError):
             ExtraChannel(id="PLx")
 

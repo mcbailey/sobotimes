@@ -19,14 +19,14 @@ id = "UCs4MKkThBjpiU4LnmlP37Bg"         # @SouthboroughAccessMedia
 name = "Southborough Access Media"
 include_patterns = ['\bschool committee\b']
 
-# Northborough Media Connection's school committee playlist. Northborough and
-# Southborough share Algonquin (the Regional School Committee) and meet together
-# as the Combined School Committee; only those meetings are taken, not
-# Northborough's own School Committee.
+# Northborough Media Connection posts Northborough's town meetings. Northborough
+# and Southborough share Algonquin (the Regional School Committee, including its
+# subcommittees) and meet together as the Combined School Committee; only those
+# are taken, not Northborough's own boards or School Committee.
 [[extra_channels]]
-id = "PLk479TOxptkU0lc8Dh3jIOCkqMMAq6Qji"
+id = "UCWOnY_sfze_J5tIE6lkVy7w"         # @northboroughmediaconnection
 name = "Northborough Media Connection"
-include_patterns = ['\bcombined\b', '\bregional school committee\b']
+include_patterns = ['\bcombined\b.*\bschool committees?\b', '\bregional school com(mittee|\.)']
 exclude_patterns = ['^\s*northborough school committee\b']
 
 [discovery]
