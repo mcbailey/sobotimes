@@ -1,6 +1,6 @@
 {
   "week": "2026-08-24",
-  "fingerprint": "841addf41f91fe5b",
+  "fingerprint": "620845d25ad29031",
   "topics": {
     "E6eHIu5yZok#0": {
       "issue": null,
@@ -24,18 +24,18 @@
     },
     "E6eHIu5yZok#5": {
       "issue": null,
-      "category": "Environment & conservation"
+      "category": "Parks, trails & recreation"
     },
     "E6eHIu5yZok#6": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "GXZGc-hyvPg#0": {
       "issue": null,
       "category": "Governance & committees"
     },
     "GXZGc-hyvPg#1": {
-      "issue": null,
+      "issue": "town-satisfaction-survey",
       "category": "Housing"
     },
     "GXZGc-hyvPg#2": {
@@ -59,7 +59,7 @@
       "category": "Public safety"
     },
     "OyfCzyf7Z6k#2": {
-      "issue": null,
+      "issue": "town-satisfaction-survey",
       "category": "Governance & committees"
     },
     "OyfCzyf7Z6k#3": {
@@ -107,7 +107,7 @@
       "category": "Staffing & operations"
     },
     "g5scXGcNtUc#4": {
-      "issue": null,
+      "issue": "sarsenstone-way-coc",
       "category": "Environment & conservation"
     },
     "g5scXGcNtUc#5": {
@@ -123,7 +123,7 @@
       "category": "Environment & conservation"
     },
     "g5scXGcNtUc#8": {
-      "issue": null,
+      "issue": "355-turnpike-road-coc",
       "category": "Environment & conservation"
     },
     "g5scXGcNtUc#9": {
@@ -137,6 +137,41 @@
     "g5scXGcNtUc#11": {
       "issue": null,
       "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "GXZGc-hyvPg#v0": {
+      "issue": null
+    },
+    "GXZGc-hyvPg#v1": {
+      "issue": null
+    },
+    "OyfCzyf7Z6k#v0": {
+      "issue": "police-drone-program"
+    },
+    "g5scXGcNtUc#v0": {
+      "issue": "fay-school-athletic-fields"
+    },
+    "g5scXGcNtUc#v1": {
+      "issue": "250-turnpike-road"
+    },
+    "g5scXGcNtUc#v2": {
+      "issue": "0-southville-road"
+    },
+    "g5scXGcNtUc#v3": {
+      "issue": null
+    },
+    "g5scXGcNtUc#v4": {
+      "issue": "sarsenstone-way-coc"
+    },
+    "g5scXGcNtUc#v5": {
+      "issue": null
+    },
+    "g5scXGcNtUc#v6": {
+      "issue": null
+    },
+    "g5scXGcNtUc#v7": {
+      "issue": null
     }
   },
   "upcoming": {
@@ -170,7 +205,7 @@
     },
     "OyfCzyf7Z6k#u0": {
       "date": "2026-09-02",
-      "issue": null
+      "issue": "town-satisfaction-survey"
     },
     "OyfCzyf7Z6k#u1": {
       "date": "2026-09-22",
@@ -198,9 +233,9 @@
     },
     "g5scXGcNtUc#u1": {
       "date": null,
-      "issue": null
+      "issue": "rescinding-unissued-borrowing"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:48:57Z"
+  "generated_at": "2026-10-16T03:07:49Z"
 }

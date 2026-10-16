@@ -1,6 +1,6 @@
 {
   "week": "2026-09-28",
-  "fingerprint": "2fa6d1ec7a8032c7",
+  "fingerprint": "0268bb2dcb817bf9",
   "topics": {
     "InzL5O9vgMQ#0": {
       "issue": null,
@@ -51,6 +51,23 @@
       "category": "Governance & committees"
     }
   },
+  "votes": {
+    "hCwuB4U1qOk#v0": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "hCwuB4U1qOk#v1": {
+      "issue": "154-turnpike-road"
+    },
+    "hCwuB4U1qOk#v2": {
+      "issue": "154-turnpike-road"
+    },
+    "hCwuB4U1qOk#v3": {
+      "issue": "22-turnpike-road"
+    },
+    "hCwuB4U1qOk#v4": {
+      "issue": "21-coslin-drive-costco"
+    }
+  },
   "upcoming": {
     "InzL5O9vgMQ#u0": {
       "date": "2026-10-03",
@@ -90,5 +107,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:00:31Z"
+  "generated_at": "2026-10-16T03:21:39Z"
 }

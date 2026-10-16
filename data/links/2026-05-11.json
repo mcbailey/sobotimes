@@ -1,6 +1,6 @@
 {
   "week": "2026-05-11",
-  "fingerprint": "0ef7871ab588b2f3",
+  "fingerprint": "79643cd3388ba6f8",
   "topics": {
     "AVYUJb0MKMY#0": {
       "issue": "neary-school-roof-replacement",
@@ -56,7 +56,7 @@
     },
     "Od1pRH9mq6g#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "Od1pRH9mq6g#1": {
       "issue": "neary-school-building-project",
@@ -87,7 +87,7 @@
       "category": "Schools"
     },
     "Od1pRH9mq6g#8": {
-      "issue": null,
+      "issue": "fy27-school-operating-budget",
       "category": "Schools"
     },
     "QtSBbzpaVec#0": {
@@ -136,7 +136,7 @@
     },
     "Yj-7Il44CGk#0": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Buildings & facilities"
     },
     "Yj-7Il44CGk#1": {
       "issue": null,
@@ -144,7 +144,7 @@
     },
     "Yj-7Il44CGk#2": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Buildings & facilities"
     },
     "Yj-7Il44CGk#3": {
       "issue": "library-book-drop-repair",
@@ -171,11 +171,11 @@
       "category": "Housing"
     },
     "b6dhPxXuBgo#2": {
-      "issue": null,
+      "issue": "170-woodland-road-coc",
       "category": "Environment & conservation"
     },
     "b6dhPxXuBgo#3": {
-      "issue": null,
+      "issue": "229-parkerville-road-coc",
       "category": "Environment & conservation"
     },
     "b6dhPxXuBgo#4": {
@@ -231,10 +231,81 @@
       "category": "Schools"
     }
   },
+  "votes": {
+    "Od1pRH9mq6g#v0": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v1": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v2": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v3": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v4": {
+      "issue": "school-food-service-contract"
+    },
+    "Od1pRH9mq6g#v5": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v6": {
+      "issue": null
+    },
+    "Od1pRH9mq6g#v7": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "Od1pRH9mq6g#v8": {
+      "issue": null
+    },
+    "SXZEdmFrxuc#v0": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "Yj-7Il44CGk#v0": {
+      "issue": "library-book-drop-repair"
+    },
+    "Yj-7Il44CGk#v1": {
+      "issue": "library-book-drop-repair"
+    },
+    "b6dhPxXuBgo#v0": {
+      "issue": "0-southville-road"
+    },
+    "gobeHAshCpc#v0": {
+      "issue": "40-42-central-street"
+    },
+    "gobeHAshCpc#v1": {
+      "issue": "flagg-turnpike-hydrant-relocation"
+    },
+    "gobeHAshCpc#v2": {
+      "issue": "flagg-turnpike-hydrant-relocation"
+    },
+    "gobeHAshCpc#v3": {
+      "issue": "22-turnpike-road"
+    },
+    "gobeHAshCpc#v4": {
+      "issue": "154-turnpike-road"
+    },
+    "gobeHAshCpc#v5": {
+      "issue": "ruby-estates-subdivision"
+    },
+    "gobeHAshCpc#v6": {
+      "issue": "native-plant-landscape-regulations"
+    },
+    "gobeHAshCpc#v7": {
+      "issue": "native-plant-landscape-regulations"
+    },
+    "yEDv55tASKo#v0": {
+      "issue": null
+    },
+    "yEDv55tASKo#v1": {
+      "issue": null
+    }
+  },
   "upcoming": {
     "AVYUJb0MKMY#u0": {
       "date": null,
-      "issue": "neary-school-roof-replacement"
+      "issue": null
     },
     "AVYUJb0MKMY#u1": {
       "date": null,
@@ -242,18 +313,18 @@
     },
     "AVYUJb0MKMY#u2": {
       "date": null,
-      "issue": "neary-school-roof-replacement"
+      "issue": null
     },
     "C92hqzMJvgM#u0": {
-      "date": "2026-05-22",
-      "issue": "911-field-bond-and-fees"
+      "date": null,
+      "issue": "fayville-memorial-park-improvements"
     },
     "C92hqzMJvgM#u1": {
-      "date": "2026-05-23",
+      "date": null,
       "issue": "fayville-memorial-park-improvements"
     },
     "C92hqzMJvgM#u2": {
-      "date": "2026-06-02",
+      "date": null,
       "issue": null
     },
     "LflS54Arapc#u0": {
@@ -318,7 +389,7 @@
     },
     "SXZEdmFrxuc#u3": {
       "date": null,
-      "issue": "fy27-school-operating-budget"
+      "issue": null
     },
     "Yj-7Il44CGk#u0": {
       "date": "2026-05-21",
@@ -366,5 +437,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:44:27Z"
+  "generated_at": "2026-10-16T02:20:11Z"
 }

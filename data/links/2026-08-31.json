@@ -1,6 +1,6 @@
 {
   "week": "2026-08-31",
-  "fingerprint": "887dc4dacdfca0cf",
+  "fingerprint": "65bd91984681b5e1",
   "topics": {
     "6vLlCQSNejs#0": {
       "issue": null,
@@ -36,19 +36,19 @@
     },
     "L-oPWBYbzKA#2": {
       "issue": "route-9-wastewater-infrastructure",
-      "category": "Roads, water & infrastructure"
+      "category": "Environment & conservation"
     },
     "L-oPWBYbzKA#3": {
       "issue": "route-9-495-gateway-study",
-      "category": "Zoning & development"
+      "category": "Roads, water & infrastructure"
     },
     "L-oPWBYbzKA#4": {
-      "issue": "route-9-wastewater-infrastructure",
-      "category": "Roads, water & infrastructure"
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
     },
     "L-oPWBYbzKA#5": {
       "issue": "route-9-wastewater-infrastructure",
-      "category": "Roads, water & infrastructure"
+      "category": "Budget & taxes"
     },
     "UG6tol0L1QY#0": {
       "issue": null,
@@ -72,11 +72,11 @@
     },
     "iXhlhTPe9wg#0": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Other"
     },
     "iXhlhTPe9wg#1": {
-      "issue": null,
-      "category": "Staffing & operations"
+      "issue": "town-satisfaction-survey",
+      "category": "Governance & committees"
     },
     "iXhlhTPe9wg#2": {
       "issue": "fayville-memorial-park-improvements",
@@ -88,7 +88,7 @@
     },
     "iXhlhTPe9wg#4": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Other"
     },
     "iXhlhTPe9wg#5": {
       "issue": "transfer-station-fees-and-regulations",
@@ -105,6 +105,38 @@
     "iXhlhTPe9wg#8": {
       "issue": null,
       "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "6vLlCQSNejs#v0": {
+      "issue": null
+    },
+    "6vLlCQSNejs#v1": {
+      "issue": "appointed-town-clerk"
+    },
+    "iXhlhTPe9wg#v0": {
+      "issue": null
+    },
+    "iXhlhTPe9wg#v1": {
+      "issue": null
+    },
+    "iXhlhTPe9wg#v2": {
+      "issue": "transfer-station-fees-and-regulations"
+    },
+    "iXhlhTPe9wg#v3": {
+      "issue": "constitution-drive-drainage-and-acceptance"
+    },
+    "iXhlhTPe9wg#v4": {
+      "issue": "constitution-drive-drainage-and-acceptance"
+    },
+    "iXhlhTPe9wg#v5": {
+      "issue": null
+    },
+    "iXhlhTPe9wg#v6": {
+      "issue": null
+    },
+    "iXhlhTPe9wg#v7": {
+      "issue": "senior-tax-work-off-policy"
     }
   },
   "upcoming": {
@@ -162,5 +194,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:51:12Z"
+  "generated_at": "2026-10-16T03:11:05Z"
 }

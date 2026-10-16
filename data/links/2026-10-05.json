@@ -1,6 +1,6 @@
 {
   "week": "2026-10-05",
-  "fingerprint": "9cbee2a1488764a0",
+  "fingerprint": "11b9ba602a1b3a82",
   "topics": {
     "2dGufO1TwE4#0": {
       "issue": "two-family-zoning-amendment",
@@ -8,7 +8,7 @@
     },
     "6sb8sVUyin4#0": {
       "issue": "landfill-environmental-assessment",
-      "category": "Roads, water & infrastructure"
+      "category": "Environment & conservation"
     },
     "6sb8sVUyin4#1": {
       "issue": "personal-property-tax-exemption",
@@ -56,7 +56,7 @@
     },
     "BwulXCVw_6g#2": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Budget & taxes"
     },
     "BwulXCVw_6g#3": {
       "issue": null,
@@ -108,7 +108,7 @@
     },
     "G9S9K_Mene8#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Budget & taxes"
     },
     "G9S9K_Mene8#3": {
       "issue": null,
@@ -116,7 +116,7 @@
     },
     "G9S9K_Mene8#4": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "G9S9K_Mene8#5": {
       "issue": null,
@@ -143,12 +143,12 @@
       "category": "Governance & committees"
     },
     "nrTrCqF8IJA#1": {
-      "issue": null,
+      "issue": "1-overlook-drive-pool",
       "category": "Environment & conservation"
     },
     "nrTrCqF8IJA#2": {
       "issue": "fay-school-athletic-fields",
-      "category": "Environment & conservation"
+      "category": "Zoning & development"
     },
     "nrTrCqF8IJA#3": {
       "issue": null,
@@ -207,14 +207,91 @@
       "category": "Parks, trails & recreation"
     }
   },
+  "votes": {
+    "2dGufO1TwE4#v0": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "6sb8sVUyin4#v0": {
+      "issue": "landfill-environmental-assessment"
+    },
+    "6sb8sVUyin4#v1": {
+      "issue": null
+    },
+    "BwulXCVw_6g#v0": {
+      "issue": "fy28-operating-budget"
+    },
+    "BwulXCVw_6g#v1": {
+      "issue": null
+    },
+    "BwulXCVw_6g#v2": {
+      "issue": null
+    },
+    "Dlomobo7FQ4#v0": {
+      "issue": "fy28-operating-budget"
+    },
+    "Dlomobo7FQ4#v1": {
+      "issue": null
+    },
+    "G9S9K_Mene8#v0": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "G9S9K_Mene8#v1": {
+      "issue": null
+    },
+    "G9S9K_Mene8#v2": {
+      "issue": null
+    },
+    "G9S9K_Mene8#v3": {
+      "issue": null
+    },
+    "jIrNNYw8PME#v0": {
+      "issue": null
+    },
+    "nrTrCqF8IJA#v0": {
+      "issue": "fay-school-athletic-fields"
+    },
+    "nrTrCqF8IJA#v1": {
+      "issue": null
+    },
+    "nrTrCqF8IJA#v2": {
+      "issue": null
+    },
+    "nrTrCqF8IJA#v3": {
+      "issue": null
+    },
+    "nrTrCqF8IJA#v4": {
+      "issue": "250-turnpike-road"
+    },
+    "nrTrCqF8IJA#v5": {
+      "issue": "1-overlook-drive-pool"
+    },
+    "nrTrCqF8IJA#v6": {
+      "issue": "0-southville-road"
+    },
+    "q-rYs3c0kn4#v0": {
+      "issue": null
+    },
+    "q-rYs3c0kn4#v1": {
+      "issue": null
+    },
+    "q-rYs3c0kn4#v2": {
+      "issue": null
+    },
+    "yXLL6UMLaag#v0": {
+      "issue": null
+    },
+    "yXLL6UMLaag#v1": {
+      "issue": "southborough-golf-club-irrigation"
+    }
+  },
   "upcoming": {
     "2dGufO1TwE4#u0": {
       "date": "2026-10-17",
       "issue": null
     },
     "2dGufO1TwE4#u1": {
-      "date": null,
-      "issue": "two-family-zoning-amendment"
+      "date": "2026-10-07",
+      "issue": null
     },
     "6sb8sVUyin4#u0": {
       "date": "2026-10-13",
@@ -290,5 +367,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:03:46Z"
+  "generated_at": "2026-10-16T03:24:56Z"
 }

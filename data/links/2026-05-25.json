@@ -1,6 +1,6 @@
 {
   "week": "2026-05-25",
-  "fingerprint": "30a5370b7cc69ea7",
+  "fingerprint": "6bb86a75ee517553",
   "topics": {
     "NSeY9P5X_sc#0": {
       "issue": null,
@@ -17,6 +17,23 @@
     "rSXalU_9VoA#2": {
       "issue": "classification-and-compensation-study",
       "category": "Staffing & operations"
+    }
+  },
+  "votes": {
+    "NSeY9P5X_sc#v0": {
+      "issue": null
+    },
+    "rSXalU_9VoA#v0": {
+      "issue": null
+    },
+    "rSXalU_9VoA#v1": {
+      "issue": null
+    },
+    "rSXalU_9VoA#v2": {
+      "issue": "classification-and-compensation-study"
+    },
+    "rSXalU_9VoA#v3": {
+      "issue": null
     }
   },
   "upcoming": {
@@ -38,5 +55,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:24:45Z"
+  "generated_at": "2026-10-16T02:22:53Z"
 }

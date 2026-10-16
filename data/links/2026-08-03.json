@@ -1,6 +1,6 @@
 {
   "week": "2026-08-03",
-  "fingerprint": "35ad842867fcf63c",
+  "fingerprint": "fe0befc968ca2561",
   "topics": {
     "EFRO31Iu9h4#0": {
       "issue": "neary-school-building-project",
@@ -59,15 +59,15 @@
       "category": "Governance & committees"
     },
     "odCLG9N4LBk#2": {
-      "issue": null,
+      "issue": "town-forest-footbridge",
       "category": "Parks, trails & recreation"
     },
     "odCLG9N4LBk#3": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Environment & conservation"
     },
     "odCLG9N4LBk#4": {
-      "issue": null,
+      "issue": "breakneck-hill-restoration",
       "category": "Environment & conservation"
     },
     "odCLG9N4LBk#5": {
@@ -79,11 +79,11 @@
       "category": "Governance & committees"
     },
     "uSBMTe-eKjk#1": {
-      "issue": null,
+      "issue": "town-budget-process-policy",
       "category": "Budget & taxes"
     },
     "uSBMTe-eKjk#2": {
-      "issue": null,
+      "issue": "reserve-fund-transfer-policy",
       "category": "Budget & taxes"
     },
     "uSBMTe-eKjk#3": {
@@ -93,6 +93,17 @@
     "uSBMTe-eKjk#4": {
       "issue": "neary-school-building-project",
       "category": "Schools"
+    }
+  },
+  "votes": {
+    "odCLG9N4LBk#v0": {
+      "issue": "town-forest-footbridge"
+    },
+    "odCLG9N4LBk#v1": {
+      "issue": "breakneck-hill-restoration"
+    },
+    "uSBMTe-eKjk#v0": {
+      "issue": "neary-school-building-project"
     }
   },
   "upcoming": {
@@ -146,5 +157,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:44:18Z"
+  "generated_at": "2026-10-16T02:56:09Z"
 }

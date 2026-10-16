@@ -1,14 +1,14 @@
 {
   "week": "2026-06-22",
-  "fingerprint": "7ba3d9502749ea7e",
+  "fingerprint": "4e9ff3495c3d9e93",
   "topics": {
     "40fpbLASGN4#0": {
       "issue": null,
       "category": "Governance & committees"
     },
     "40fpbLASGN4#1": {
-      "issue": null,
-      "category": "Environment & conservation"
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
     },
     "40fpbLASGN4#2": {
       "issue": "peninsula-trail-phase-2",
@@ -35,7 +35,7 @@
       "category": "Zoning & development"
     },
     "6H4R-9hc3ew#2": {
-      "issue": "22-turnpike-road",
+      "issue": null,
       "category": "Zoning & development"
     },
     "6H4R-9hc3ew#3": {
@@ -63,7 +63,7 @@
       "category": "Zoning & development"
     },
     "6H4R-9hc3ew#9": {
-      "issue": null,
+      "issue": "stewardship-committee-structure",
       "category": "Governance & committees"
     },
     "EAI8SMnejZQ#0": {
@@ -75,7 +75,7 @@
       "category": "Library, arts & community"
     },
     "EAI8SMnejZQ#2": {
-      "issue": "town-common-fence-restoration",
+      "issue": null,
       "category": "Parks, trails & recreation"
     },
     "EAI8SMnejZQ#3": {
@@ -100,7 +100,7 @@
     },
     "EAI8SMnejZQ#8": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Budget & taxes"
     },
     "EAI8SMnejZQ#9": {
       "issue": null,
@@ -139,7 +139,7 @@
       "category": "Parks, trails & recreation"
     },
     "IrDN9mU1ybM#8": {
-      "issue": null,
+      "issue": "stewardship-committee-structure",
       "category": "Governance & committees"
     },
     "IrDN9mU1ybM#9": {
@@ -183,7 +183,7 @@
       "category": "Governance & committees"
     },
     "phdC64CYpRc#2": {
-      "issue": null,
+      "issue": "town-satisfaction-survey",
       "category": "Governance & committees"
     },
     "phdC64CYpRc#3": {
@@ -197,6 +197,83 @@
     "phdC64CYpRc#5": {
       "issue": null,
       "category": "Staffing & operations"
+    }
+  },
+  "votes": {
+    "40fpbLASGN4#v0": {
+      "issue": null
+    },
+    "6H4R-9hc3ew#v0": {
+      "issue": "ruby-estates-subdivision"
+    },
+    "6H4R-9hc3ew#v1": {
+      "issue": "ruby-estates-subdivision"
+    },
+    "6H4R-9hc3ew#v2": {
+      "issue": "22-turnpike-road"
+    },
+    "6H4R-9hc3ew#v3": {
+      "issue": "154-turnpike-road"
+    },
+    "6H4R-9hc3ew#v4": {
+      "issue": "street-tree-planting-program"
+    },
+    "6H4R-9hc3ew#v5": {
+      "issue": "250-turnpike-road"
+    },
+    "6H4R-9hc3ew#v6": {
+      "issue": null
+    },
+    "6H4R-9hc3ew#v7": {
+      "issue": "200-turnpike-road"
+    },
+    "EAI8SMnejZQ#v0": {
+      "issue": null
+    },
+    "EAI8SMnejZQ#v1": {
+      "issue": null
+    },
+    "EAI8SMnejZQ#v2": {
+      "issue": null
+    },
+    "EAI8SMnejZQ#v3": {
+      "issue": null
+    },
+    "IrDN9mU1ybM#v0": {
+      "issue": null
+    },
+    "IrDN9mU1ybM#v1": {
+      "issue": "0-valley-road-trail"
+    },
+    "IrDN9mU1ybM#v2": {
+      "issue": "14-newton-street"
+    },
+    "IrDN9mU1ybM#v3": {
+      "issue": null
+    },
+    "IrDN9mU1ybM#v4": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "IrDN9mU1ybM#v5": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "IrDN9mU1ybM#v6": {
+      "issue": "250-turnpike-road"
+    },
+    "IrDN9mU1ybM#v7": {
+      "issue": "0-southville-road"
+    },
+    "IrDN9mU1ybM#v8": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "IrDN9mU1ybM#v9": {
+      "issue": "stewardship-committee-structure"
+    },
+    "Vb4kjdWsVU8#v0": {
+      "issue": "police-drone-program"
+    },
+    "phdC64CYpRc#v0": {
+      "issue": "town-satisfaction-survey"
     }
   },
   "upcoming": {
@@ -222,7 +299,7 @@
     },
     "6H4R-9hc3ew#u1": {
       "date": "2026-07-13",
-      "issue": "22-turnpike-road"
+      "issue": null
     },
     "6H4R-9hc3ew#u2": {
       "date": "2026-10-17",
@@ -262,11 +339,11 @@
     },
     "JqdlZNYHfYk#u1": {
       "date": "2026-07-23",
-      "issue": null
+      "issue": "route-9-wastewater-infrastructure"
     },
     "JqdlZNYHfYk#u2": {
       "date": "2026-10-17",
-      "issue": null
+      "issue": "route-9-wastewater-infrastructure"
     },
     "Vb4kjdWsVU8#u0": {
       "date": "2026-06-29",
@@ -286,9 +363,9 @@
     },
     "phdC64CYpRc#u2": {
       "date": null,
-      "issue": null
+      "issue": "town-satisfaction-survey"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:33:06Z"
+  "generated_at": "2026-10-16T02:39:03Z"
 }

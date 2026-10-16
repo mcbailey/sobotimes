@@ -1,13 +1,13 @@
 {
   "week": "2026-07-06",
-  "fingerprint": "3325c93e6048a51a",
+  "fingerprint": "6be6481cff735d6a",
   "topics": {
     "-t0sUEo_dbo#0": {
       "issue": null,
       "category": "Health & human services"
     },
     "-t0sUEo_dbo#1": {
-      "issue": null,
+      "issue": "housing-and-food-enforcement-policies",
       "category": "Health & human services"
     },
     "-t0sUEo_dbo#2": {
@@ -79,10 +79,45 @@
       "category": "Staffing & operations"
     }
   },
+  "votes": {
+    "-t0sUEo_dbo#v0": {
+      "issue": null
+    },
+    "-t0sUEo_dbo#v1": {
+      "issue": "well-and-septic-regulations"
+    },
+    "-t0sUEo_dbo#v2": {
+      "issue": "well-and-septic-regulations"
+    },
+    "bn2YAjZbv5o#v0": {
+      "issue": null
+    },
+    "x1cmtN9mFTM#v0": {
+      "issue": "classification-and-compensation-study"
+    },
+    "x1cmtN9mFTM#v1": {
+      "issue": "classification-and-compensation-study"
+    },
+    "x1cmtN9mFTM#v2": {
+      "issue": null
+    },
+    "y2SA0f-wqgI#v0": {
+      "issue": null
+    },
+    "y2SA0f-wqgI#v1": {
+      "issue": "transfer-station-fees-and-regulations"
+    },
+    "y2SA0f-wqgI#v2": {
+      "issue": null
+    },
+    "y2SA0f-wqgI#v3": {
+      "issue": null
+    }
+  },
   "upcoming": {
     "-t0sUEo_dbo#u0": {
       "date": "2026-08-11",
-      "issue": null
+      "issue": "housing-and-food-enforcement-policies"
     },
     "-t0sUEo_dbo#u1": {
       "date": "2026-09-15",
@@ -138,5 +173,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:37:12Z"
+  "generated_at": "2026-10-16T02:41:17Z"
 }

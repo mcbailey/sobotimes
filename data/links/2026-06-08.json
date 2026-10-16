@@ -1,10 +1,10 @@
 {
   "week": "2026-06-08",
-  "fingerprint": "6f8e80da685bfd8e",
+  "fingerprint": "ce5fbe40ef959c42",
   "topics": {
     "9y_hdDUi2PM#0": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "9y_hdDUi2PM#1": {
       "issue": null,
@@ -28,7 +28,7 @@
     },
     "9y_hdDUi2PM#6": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Library, arts & community"
     },
     "9y_hdDUi2PM#7": {
       "issue": null,
@@ -59,7 +59,7 @@
       "category": "Staffing & operations"
     },
     "Cs-N1fuzc9E#6": {
-      "issue": null,
+      "issue": "well-and-septic-regulations",
       "category": "Health & human services"
     },
     "D0OA5yLzTtQ#0": {
@@ -92,15 +92,15 @@
     },
     "D0OA5yLzTtQ#7": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "D0OA5yLzTtQ#8": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Schools"
     },
     "D0OA5yLzTtQ#9": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "Ino0rbMC--c#0": {
       "issue": "22-newton-street-variance",
@@ -135,7 +135,7 @@
       "category": "Library, arts & community"
     },
     "WzSYItMVgpE#4": {
-      "issue": "tricentennial-heritage-day-parade",
+      "issue": "tricentennial-first-day",
       "category": "Library, arts & community"
     },
     "WzSYItMVgpE#5": {
@@ -172,7 +172,7 @@
     },
     "XrcCrapH9JA#5": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "XrcCrapH9JA#6": {
       "issue": null,
@@ -211,6 +211,53 @@
       "category": "Governance & committees"
     }
   },
+  "votes": {
+    "9y_hdDUi2PM#v0": {
+      "issue": null
+    },
+    "9y_hdDUi2PM#v1": {
+      "issue": null
+    },
+    "9y_hdDUi2PM#v2": {
+      "issue": null
+    },
+    "Cs-N1fuzc9E#v0": {
+      "issue": null
+    },
+    "Cs-N1fuzc9E#v1": {
+      "issue": "board-of-health-body-art-regulations"
+    },
+    "Cs-N1fuzc9E#v2": {
+      "issue": null
+    },
+    "Cs-N1fuzc9E#v3": {
+      "issue": null
+    },
+    "D0OA5yLzTtQ#v0": {
+      "issue": null
+    },
+    "D0OA5yLzTtQ#v1": {
+      "issue": null
+    },
+    "D0OA5yLzTtQ#v2": {
+      "issue": null
+    },
+    "D0OA5yLzTtQ#v3": {
+      "issue": null
+    },
+    "Ino0rbMC--c#v0": {
+      "issue": "22-newton-street-variance"
+    },
+    "Ino0rbMC--c#v1": {
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "Ino0rbMC--c#v2": {
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "WzSYItMVgpE#v0": {
+      "issue": "tricentennial-firefighters-muster"
+    }
+  },
   "upcoming": {
     "9y_hdDUi2PM#u0": {
       "date": "2026-06-16",
@@ -222,7 +269,7 @@
     },
     "Cs-N1fuzc9E#u0": {
       "date": "2026-07-07",
-      "issue": null
+      "issue": "well-and-septic-regulations"
     },
     "D0OA5yLzTtQ#u0": {
       "date": "2026-06-12",
@@ -242,7 +289,7 @@
     },
     "Ino0rbMC--c#u0": {
       "date": "2026-07-15",
-      "issue": null
+      "issue": "21-coslin-drive-costco"
     },
     "Ino0rbMC--c#u1": {
       "date": "2026-08-12",
@@ -290,5 +337,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:28:27Z"
+  "generated_at": "2026-10-16T02:30:41Z"
 }

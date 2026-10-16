@@ -1,6 +1,6 @@
 {
   "week": "2026-04-20",
-  "fingerprint": "4f784c27f0b841ff",
+  "fingerprint": "d0bca2804b2ddd1c",
   "topics": {
     "PAtEimNNvz4#0": {
       "issue": null,
@@ -15,6 +15,7 @@
       "category": "Roads, water & infrastructure"
     }
   },
+  "votes": {},
   "upcoming": {
     "PAtEimNNvz4#u0": {
       "date": "2026-04-28",
@@ -34,5 +35,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:15:08Z"
+  "generated_at": "2026-10-16T02:08:38Z"
 }

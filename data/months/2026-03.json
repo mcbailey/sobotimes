@@ -1,11 +1,11 @@
 {
-  "headline": "The School Committee approved an informational flyer detailing the proposed $8.8 million Trottier Middle School roof replacement ahead of Annual Town Meeting.",
-  "synopsis": "In March 2026, the Southborough School Committee focused on public outreach regarding the proposed Trottier Middle School roof replacement. The committee reviewed and revised a draft one-page informational flyer ahead of the April 11, 2026 Annual Town Meeting vote. Members emphasized clearly distinguishing between the total gross appropriation required by the Massachusetts School Building Authority and the town's net cost after grant reimbursements. The committee voted 4-0 to approve the edited flyer for distribution to voters.",
+  "headline": "The School Committee approved an informational flyer detailing the proposed $8.8 million Trottier Middle School roof project ahead of Town Meeting.",
+  "synopsis": "Southborough municipal meetings in March focused on public outreach for upcoming school capital investments. The School Committee met to finalize informational materials regarding the proposed roof replacement at Trottier Middle School. Members voted 4-0 to approve an edited one-page flyer explaining the $8.8 million funding request to residents ahead of Town Meeting. Discussion centered on clarifying the difference between the gross borrowing authorization required by the state and the town's net cost following Massachusetts School Building Authority reimbursement. The project remains part of the district's capital plan as Southborough awaits final grant determinations.",
   "top_items": [
     {
-      "title": "Trottier Middle School roof project flyer approval",
-      "why": "The School Committee approved a one-page informational flyer explaining the $8.8 million Trottier Middle School roof funding request ahead of the April 11, 2026 Annual Town Meeting vote.",
-      "body": "The School Committee reviewed and finalized an informational flyer explaining the condition of the Trottier Middle School roof and the scope of the $8.8 million capital project. Members focused on presenting the financing clearly, ensuring the document distinguishes between the total gross appropriation required by the Massachusetts School Building Authority and Southborough's net cost following state grant reimbursement. The committee voted 4-0 to adopt the edited flyer.",
+      "title": "Trottier Middle School roof project informational flyer",
+      "why": "The School Committee voted 4-0 to approve an informational flyer explaining the proposed $8.8 million Trottier roof replacement to voters.",
+      "body": "The School Committee reviewed and edited a one-page informational flyer ahead of Town Meeting to outline the condition of the Trottier Middle School roof and the pending funding request. Members emphasized presenting clear distinctions between the gross appropriation required by the Massachusetts School Building Authority and the town's net cost after state grant reimbursement.",
       "importance": "high",
       "video_id": "y4CrPffK4fo",
       "start_seconds": 105,
@@ -13,10 +13,10 @@
     }
   ],
   "month": "2026-03",
-  "fingerprint": "56f4b17f98f359b3",
+  "fingerprint": "b771c7a537e27aeb",
   "video_ids": [
     "y4CrPffK4fo"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:12:56Z"
+  "generated_at": "2026-10-16T03:33:14Z"
 }

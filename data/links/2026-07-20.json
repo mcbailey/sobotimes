@@ -1,6 +1,6 @@
 {
   "week": "2026-07-20",
-  "fingerprint": "176a5cd49d49c8ee",
+  "fingerprint": "b54655da53412213",
   "topics": {
     "9hceIu0ePss#0": {
       "issue": null,
@@ -16,7 +16,7 @@
     },
     "9hceIu0ePss#3": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Library, arts & community"
     },
     "9hceIu0ePss#4": {
       "issue": null,
@@ -27,7 +27,7 @@
       "category": "Staffing & operations"
     },
     "9hceIu0ePss#6": {
-      "issue": null,
+      "issue": "library-cpa-signage",
       "category": "Library, arts & community"
     },
     "9hceIu0ePss#7": {
@@ -91,7 +91,7 @@
       "category": "Housing"
     },
     "QD_9SgG4w3I#0": {
-      "issue": null,
+      "issue": "library-cpa-signage",
       "category": "Library, arts & community"
     },
     "QD_9SgG4w3I#1": {
@@ -131,6 +131,41 @@
       "category": "Roads, water & infrastructure"
     }
   },
+  "votes": {
+    "9hceIu0ePss#v0": {
+      "issue": null
+    },
+    "9hceIu0ePss#v1": {
+      "issue": null
+    },
+    "9hceIu0ePss#v2": {
+      "issue": null
+    },
+    "JG8iMC7OonI#v0": {
+      "issue": null
+    },
+    "JG8iMC7OonI#v1": {
+      "issue": null
+    },
+    "Jnrh6WK4BQY#v0": {
+      "issue": null
+    },
+    "Jnrh6WK4BQY#v1": {
+      "issue": null
+    },
+    "QD_9SgG4w3I#v0": {
+      "issue": "library-cpa-signage"
+    },
+    "QD_9SgG4w3I#v1": {
+      "issue": null
+    },
+    "QD_9SgG4w3I#v2": {
+      "issue": "library-cpa-signage"
+    },
+    "QD_9SgG4w3I#v3": {
+      "issue": null
+    }
+  },
   "upcoming": {
     "9hceIu0ePss#u0": {
       "date": "2026-08-10",
@@ -138,7 +173,7 @@
     },
     "9hceIu0ePss#u1": {
       "date": null,
-      "issue": null
+      "issue": "library-cpa-signage"
     },
     "9hceIu0ePss#u2": {
       "date": null,
@@ -178,9 +213,9 @@
     },
     "jvfwnOTz83I#u1": {
       "date": "2026-09-03",
-      "issue": "route-9-wastewater-infrastructure"
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:42:42Z"
+  "generated_at": "2026-10-16T02:48:38Z"
 }

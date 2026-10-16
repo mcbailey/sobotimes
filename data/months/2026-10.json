@@ -1,73 +1,64 @@
 {
-  "headline": "Town boards finalized warrant recommendations ahead of the October 17 Special Town Meeting, debating water line extensions, zoning changes, and major CPA funding requests.",
-  "synopsis": "October public meetings in Southborough centered on preparations for the October 17 Special Town Meeting, with committees staking out positions on critical warrant articles. The Advisory Committee recommended approving $240,000 from water retained earnings to connect two homes near the contaminated Parkerville Road landfill, while expressing skepticism toward large CPA requests for the municipal golf course irrigation and the Peninsula Trail footbridge. The Community Preservation Committee voted 3-2 to advance the full $217,318 CPA request for the Peninsula Trail bridge despite negative recommendations from both the Advisory Committee and Select Board. In zoning matters, the Zoning Board of Appeals voted to support a proposed two-family dwelling bylaw amendment as drafted, though the Advisory Committee issued an unfavorable recommendation over density and septic concerns. Meanwhile, the Select Board reviewed an opening assessment of town governance structures, and departments advanced initial FY28 budget requests.",
+  "headline": "Ahead of Special Town Meeting, Southborough boards finalized competing recommendations on trail funding, golf course irrigation, water extensions, and two-family zoning.",
+  "synopsis": "In October 2026, Southborough town boards focused heavily on final preparations and recommendations for the October 17 Special Town Meeting. The Advisory Committee and Community Preservation Committee diverged on major funding requests, with the Advisory Committee recommending against additional CPA money for the Peninsula Trail bridge and golf course irrigation due to high costs. Meanwhile, the Advisory Committee unanimously endorsed spending $240,000 from water reserves to connect two homes near the Parkerville Road landfill to municipal water. Zoning for two-family dwellings also generated debate, securing unanimous support from the Zoning Board of Appeals but an unfavorable recommendation from the Advisory Committee. In other municipal business, the Select Board reviewed an initial assessment of the town's governance structure, and departments began advancing their FY28 budget requests.",
   "top_items": [
     {
-      "title": "Committees divide over Peninsula Trail CPA funding",
-      "why": "The Community Preservation Committee voted 3-2 to advance the full $217,318 CPA funding request for the Peninsula Trail footbridge to Special Town Meeting, despite opposition from the Advisory Committee and Select Board.",
-      "body": "The proposal for Warrant Article 4 seeks $217,318 in additional CPA funds on top of an existing $211,000 appropriation, bringing the total cost to $428,550 for a 65-foot prefabricated pedestrian bridge along Route 30. The Trails Committee considered a fallback floor amendment that would have eliminated the project contingency to reduce the new ask to $25,000, but dropped the amendment to present the article as written. The Advisory Committee voted 0-7 against the appropriation and the Select Board voted 1-4 against, citing the bridge's estimated cost of roughly $5,000 per linear foot.",
+      "title": "Peninsula Trail Footbridge Funding",
+      "why": "The Community Preservation Committee voted 3-2 to send a $217,318 CPA funding request to Special Town Meeting, despite unanimous opposition from the Advisory Committee over project costs.",
+      "body": "Article 4 requests $217,318 in new Community Preservation Act funds to supplement $211,000 previously approved for a 65-foot prefabricated pedestrian bridge along Route 30, bringing the total project cost to $428,550. The Advisory Committee opposed the appropriation due to the estimated cost of roughly $5,000 per linear foot. After evaluating potential floor amendments to scale back the request, both the Community Preservation Committee and the Trails Committee decided to advance the article as printed.",
       "importance": "high",
       "video_id": "G9S9K_Mene8",
       "start_seconds": 30,
       "issue": "peninsula-trail-phase-2"
     },
     {
-      "title": "Advisory Committee recommends water connections near landfill",
-      "why": "The Advisory Committee voted 6-0 to recommend approval of Warrant Article 7, authorizing $240,000 from water retained earnings to connect two homes near the Parkerville Road landfill.",
-      "body": "The article funds a water main extension and private service connections for two homes affected by contamination testing near the Parkerville Road landfill. Following clarification from the Select Board chair that the town will cover the service lines from the street into the houses, the Advisory Committee voted unanimously in favor of the warrant article.",
-      "importance": "high",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 80,
-      "issue": "landfill-environmental-assessment"
-    },
-    {
-      "title": "Boards split on two-family dwelling zoning amendment",
-      "why": "The Zoning Board of Appeals voted to endorse the proposed two-family zoning amendment as drafted, while the Advisory Committee issued an unfavorable recommendation.",
-      "body": "Warrant Article 2 proposes easing zoning restrictions on two-family dwellings. The Zoning Board of Appeals reviewed concerns regarding minimum lot requirements across district subsections but chose to endorse the text as written without last-minute edits. In contrast, the Advisory Committee split and issued an unfavorable recommendation, citing concerns about flipping properties without a two-year ownership requirement, lot size impacts in Residential B districts, reliance on percolation tests for septic capacity, and the limited legal protections of special permits.",
-      "importance": "high",
-      "video_id": "2dGufO1TwE4",
-      "start_seconds": 0,
-      "issue": "two-family-zoning-amendment"
-    },
-    {
-      "title": "Advisory and golf officials clash on irrigation funding",
-      "why": "The Advisory Committee recommended against spending additional CPA money on Southborough Golf Club irrigation, while the Golf Committee resolved to present the article as written.",
-      "body": "The replacement project carries a total cost of $1,087,296, funded by $553,750 approved in 2024, $100,000 from the Golf Revolving Fund, and an additional $433,546 requested in CPA funds at Town Meeting. The Advisory Committee strongly opposed shifting capital costs to taxpayers through CPA funds when the course was intended to be self-funding, pointing to an alternative proposal to borrow $533,000 funded by a $1.50 per-round player surcharge. The Golf Committee authorized $500 for promotional flyers and agreed to keep the article intact on the warrant.",
+      "title": "Golf Course Irrigation System Financing",
+      "why": "The Advisory Committee recommended against using Community Preservation Act funds for a $1 million golf course irrigation project, while the Golf Committee resolved to present the request intact.",
+      "body": "The Southborough Golf Club project requires roughly $1.08 million, combining previously approved CPA funds, $100,000 from the golf revolving fund, and $433,546 in additional CPA money. The Advisory Committee opposed shifting capital expenses onto CPA funds, stating that the municipal course was intended to be self-sustaining. The Golf Committee voted to spend up to $500 on informational flyers and agreed by consensus to present the article as written without seeking floor amendments.",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 3135,
       "issue": "southborough-golf-club-irrigation"
     },
     {
-      "title": "Advisory Committee clarifies stormwater enterprise fund article",
-      "why": "The Advisory Committee updated its warrant report to clarify that Article 5 creates an accounting structure but does not levy any stormwater fees.",
-      "body": "Article 5 seeks to establish a stormwater enterprise fund as an accounting framework for future stormwater management costs and revenues. The Advisory Committee emphasized in its report that establishing the fund does not implement any user fees, which would require separate Town Meeting approval in the future. The primary purpose discussed was to provide a mechanism to eventually allocate stormwater management costs based on impervious surfaces across all properties, including tax-exempt parcels.",
+      "title": "Water Line Connections Near Parkerville Landfill",
+      "why": "The Advisory Committee voted 6-0 to recommend Town Meeting approve $240,000 from water retained earnings to connect two homes near the Parkerville Road landfill to town water.",
+      "body": "Article 7 addresses contamination testing near the town landfill by extending the municipal water main to two affected properties. The Advisory Committee confirmed that the town will fund both the street main extension and the private service lines into the houses using water enterprise retained earnings.",
       "importance": "high",
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 80,
+      "issue": "landfill-environmental-assessment"
+    },
+    {
+      "title": "Two-Family Housing Zoning Proposal",
+      "why": "The Zoning Board of Appeals voted to support a two-family dwelling zoning amendment as written, while the Advisory Committee issued an unfavorable recommendation.",
+      "body": "The proposed zoning change would amend bylaws governing two-family dwellings. The Zoning Board of Appeals opted against last-minute revisions and voted to move forward with the draft warrant language. The Advisory Committee voted against recommending the measure, raising concerns over lot sizes in Residential B zones, property flipping following the removal of a two-year ownership requirement, and reliance on percolation tests for septic capacity.",
+      "importance": "high",
+      "video_id": "2dGufO1TwE4",
+      "start_seconds": 0,
+      "issue": "two-family-zoning-amendment"
+    },
+    {
+      "title": "Stormwater Enterprise Fund Authorization",
+      "why": "The Advisory Committee clarified that Warrant Article 5 establishes an accounting mechanism for stormwater management but does not implement any user fees.",
+      "body": "Article 5 seeks to create a dedicated stormwater enterprise fund under state statute. The Advisory Committee emphasized in its warrant report that creating the fund structure will not impose fees on residents without future Town Meeting approval, but could eventually allow the town to distribute stormwater costs based on impervious surface areas across all parcels, including tax-exempt properties.",
+      "importance": "medium",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 1860,
       "issue": "stormwater-enterprise-fund"
     },
     {
-      "title": "Consultant presents initial municipal governance study",
-      "why": "Consultant Bill Keegan delivered an overview of Southborough's governance model and executive authority to the Select Board.",
-      "body": "Bill Keegan of Capital Strategic Strategies presented initial findings of a municipal governance structure study. The review evaluated Southborough's organizational model, town manager statutory authority, and committee structures in comparison with peer municipalities across Massachusetts as part of an effort to modernize municipal operations.",
-      "importance": "high",
+      "title": "Municipal Governance Structure Review",
+      "why": "Consultant Bill Keegan presented an initial assessment to the Select Board examining Southborough's governance model, committee oversight, and town manager authority.",
+      "body": "The presentation launched an administrative study comparing Southborough's municipal operations and committee structures against peer Massachusetts communities. The review is evaluating administrative roles, statutory authority, and potential structural adjustments to town government.",
+      "importance": "medium",
       "video_id": "jIrNNYw8PME",
       "start_seconds": 366,
       "issue": "town-governance-study"
-    },
-    {
-      "title": "Advisory backs appointed Town Clerk with contract protections",
-      "why": "The Advisory Committee supported transitioning the Town Clerk from elected to appointed, while recommending contractual termination-for-cause protections.",
-      "body": "The Advisory Committee drafted its recommendation in favor of Article 1 to make the Town Clerk an appointed role, noting the increasingly technical nature of the position and municipal trends across Massachusetts. To address resident concerns over losing direct ballot-box accountability, the committee recommended that future employment contracts include explicit termination-for-cause clauses.",
-      "importance": "medium",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 4660,
-      "issue": "appointed-town-clerk"
     }
   ],
   "month": "2026-10",
-  "fingerprint": "d52ceb83f13b76a4",
+  "fingerprint": "4b38a504a151f263",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -86,5 +77,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:01:47Z"
+  "generated_at": "2026-10-16T03:28:00Z"
 }

@@ -1,13 +1,13 @@
 {
   "week": "2026-07-27",
-  "fingerprint": "25724d722d7bad5c",
+  "fingerprint": "17309dd88d599a5b",
   "topics": {
     "JKZ8ZOjmCsQ#0": {
-      "issue": null,
+      "issue": "reserve-fund-transfer-policy",
       "category": "Budget & taxes"
     },
     "JKZ8ZOjmCsQ#1": {
-      "issue": null,
+      "issue": "town-budget-process-policy",
       "category": "Budget & taxes"
     },
     "JKZ8ZOjmCsQ#2": {
@@ -23,12 +23,12 @@
       "category": "Governance & committees"
     },
     "QRNUZNQbwv8#1": {
-      "issue": null,
-      "category": "Staffing & operations"
+      "issue": "mcauliffe-hearing-room-av",
+      "category": "Buildings & facilities"
     },
     "QRNUZNQbwv8#2": {
       "issue": null,
-      "category": "Roads, water & infrastructure"
+      "category": "Staffing & operations"
     },
     "QRNUZNQbwv8#3": {
       "issue": null,
@@ -39,7 +39,7 @@
       "category": "Schools"
     },
     "QRNUZNQbwv8#5": {
-      "issue": null,
+      "issue": "town-satisfaction-survey",
       "category": "Governance & committees"
     },
     "QRNUZNQbwv8#6": {
@@ -56,15 +56,44 @@
     },
     "hxB6rx-EkQY#2": {
       "issue": "14-newton-street",
-      "category": "Zoning & development"
+      "category": "Environment & conservation"
     },
     "hxB6rx-EkQY#3": {
-      "issue": null,
+      "issue": "sarsenstone-way-coc",
       "category": "Environment & conservation"
     },
     "hxB6rx-EkQY#4": {
-      "issue": null,
+      "issue": "65c-school-street-coc",
       "category": "Environment & conservation"
+    }
+  },
+  "votes": {
+    "JKZ8ZOjmCsQ#v0": {
+      "issue": null
+    },
+    "JKZ8ZOjmCsQ#v1": {
+      "issue": null
+    },
+    "JKZ8ZOjmCsQ#v2": {
+      "issue": null
+    },
+    "hxB6rx-EkQY#v0": {
+      "issue": "0-valley-road-trail"
+    },
+    "hxB6rx-EkQY#v1": {
+      "issue": "0-valley-road-trail"
+    },
+    "hxB6rx-EkQY#v2": {
+      "issue": "14-newton-street"
+    },
+    "hxB6rx-EkQY#v3": {
+      "issue": "14-newton-street"
+    },
+    "hxB6rx-EkQY#v4": {
+      "issue": "sarsenstone-way-coc"
+    },
+    "hxB6rx-EkQY#v5": {
+      "issue": "65c-school-street-coc"
     }
   },
   "upcoming": {
@@ -90,7 +119,7 @@
     },
     "QRNUZNQbwv8#u1": {
       "date": "2026-08-27",
-      "issue": null
+      "issue": "town-satisfaction-survey"
     },
     "QRNUZNQbwv8#u2": {
       "date": "2026-09-02",
@@ -98,7 +127,7 @@
     },
     "QRNUZNQbwv8#u3": {
       "date": null,
-      "issue": null
+      "issue": "town-satisfaction-survey"
     },
     "hxB6rx-EkQY#u0": {
       "date": "2026-08-27",
@@ -106,5 +135,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:42:54Z"
+  "generated_at": "2026-10-16T02:51:54Z"
 }

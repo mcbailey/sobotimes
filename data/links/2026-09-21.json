@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "fingerprint": "b80b8df94a86770b",
+  "fingerprint": "3a302c654dee3f61",
   "topics": {
     "QmtBoOh20QA#0": {
       "issue": "neary-school-building-project",
@@ -40,7 +40,7 @@
     },
     "S_GDFNCBXyc#4": {
       "issue": "town-satisfaction-survey",
-      "category": "Housing"
+      "category": "Governance & committees"
     },
     "S_GDFNCBXyc#5": {
       "issue": null,
@@ -72,7 +72,7 @@
     },
     "q6tCMfNCb5g#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Town Meeting & elections"
     },
     "q6tCMfNCb5g#2": {
       "issue": "town-satisfaction-survey",
@@ -81,6 +81,32 @@
     "q6tCMfNCb5g#3": {
       "issue": null,
       "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "QmtBoOh20QA#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "QmtBoOh20QA#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "Ze-vdyanglw#v0": {
+      "issue": null
+    },
+    "Ze-vdyanglw#v1": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "Ze-vdyanglw#v2": {
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "Ze-vdyanglw#v3": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "Ze-vdyanglw#v4": {
+      "issue": null
+    },
+    "Ze-vdyanglw#v5": {
+      "issue": null
     }
   },
   "upcoming": {
@@ -106,7 +132,7 @@
     },
     "Ze-vdyanglw#u0": {
       "date": "2026-10-06",
-      "issue": "rescinding-unissued-borrowing"
+      "issue": null
     },
     "Ze-vdyanglw#u1": {
       "date": "2026-10-17",
@@ -134,5 +160,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:58:43Z"
+  "generated_at": "2026-10-16T03:20:15Z"
 }

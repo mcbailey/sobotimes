@@ -1,6 +1,6 @@
 {
   "week": "2026-05-04",
-  "fingerprint": "664c329f701fe458",
+  "fingerprint": "f20b061bd8976bcf",
   "topics": {
     "Z6WC_8EUgcU#0": {
       "issue": "22-newton-street-variance",
@@ -19,8 +19,8 @@
       "category": "Governance & committees"
     },
     "hQZmHwP8rnw#0": {
-      "issue": null,
-      "category": "Governance & committees"
+      "issue": "cemetery-expansion",
+      "category": "Parks, trails & recreation"
     },
     "hQZmHwP8rnw#1": {
       "issue": null,
@@ -32,7 +32,7 @@
     },
     "hQZmHwP8rnw#3": {
       "issue": "landfill-environmental-assessment",
-      "category": "Budget & taxes"
+      "category": "Environment & conservation"
     },
     "lXcFPzwjluI#0": {
       "issue": null,
@@ -44,7 +44,7 @@
     },
     "lXcFPzwjluI#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Parks, trails & recreation"
     },
     "z99uKZgv59g#0": {
       "issue": null,
@@ -64,7 +64,33 @@
     },
     "z99uKZgv59g#4": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Health & human services"
+    }
+  },
+  "votes": {
+    "Z6WC_8EUgcU#v0": {
+      "issue": "22-newton-street-variance"
+    },
+    "Z6WC_8EUgcU#v1": {
+      "issue": "34-turnpike-road-special-permit"
+    },
+    "Z6WC_8EUgcU#v2": {
+      "issue": "250-turnpike-road"
+    },
+    "hQZmHwP8rnw#v0": {
+      "issue": "cemetery-expansion"
+    },
+    "hQZmHwP8rnw#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "hQZmHwP8rnw#v2": {
+      "issue": null
+    },
+    "hQZmHwP8rnw#v3": {
+      "issue": null
+    },
+    "hQZmHwP8rnw#v4": {
+      "issue": "landfill-environmental-assessment"
     }
   },
   "upcoming": {
@@ -126,5 +152,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:18:47Z"
+  "generated_at": "2026-10-16T02:16:05Z"
 }

@@ -1,10 +1,10 @@
 {
   "week": "2026-06-15",
-  "fingerprint": "c9508bff69b3a8f4",
+  "fingerprint": "32801b30efb58820",
   "topics": {
     "NfkgvDJIPog#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "NfkgvDJIPog#1": {
       "issue": null,
@@ -20,7 +20,7 @@
     },
     "NfkgvDJIPog#4": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Budget & taxes"
     },
     "NfkgvDJIPog#5": {
       "issue": null,
@@ -36,7 +36,7 @@
     },
     "g-eEt2SJdRI#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "mCf5Dw5Wi6c#0": {
       "issue": "parkerville-road-utility-pole",
@@ -44,7 +44,7 @@
     },
     "mCf5Dw5Wi6c#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "mCf5Dw5Wi6c#2": {
       "issue": "costco-special-act-liquor-license",
@@ -55,7 +55,7 @@
       "category": "Governance & committees"
     },
     "mCf5Dw5Wi6c#4": {
-      "issue": null,
+      "issue": "police-drone-program",
       "category": "Public safety"
     },
     "mCf5Dw5Wi6c#5": {
@@ -67,7 +67,7 @@
       "category": "Roads, water & infrastructure"
     },
     "mCf5Dw5Wi6c#7": {
-      "issue": null,
+      "issue": "stewardship-committee-structure",
       "category": "Governance & committees"
     },
     "mCf5Dw5Wi6c#8": {
@@ -84,19 +84,75 @@
     },
     "mCf5Dw5Wi6c#11": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Housing"
     },
     "mmpLfpY8-s0#0": {
-      "issue": null,
+      "issue": "sta-unit-c-contract",
       "category": "Schools"
     },
     "mmpLfpY8-s0#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "t2MR3sJzMA0#0": {
       "issue": null,
       "category": "Housing"
+    }
+  },
+  "votes": {
+    "NfkgvDJIPog#v0": {
+      "issue": null
+    },
+    "NfkgvDJIPog#v1": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v0": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "mCf5Dw5Wi6c#v1": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "mCf5Dw5Wi6c#v2": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v3": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v4": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v5": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v6": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v7": {
+      "issue": "police-drone-program"
+    },
+    "mCf5Dw5Wi6c#v8": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v9": {
+      "issue": "stewardship-committee-structure"
+    },
+    "mCf5Dw5Wi6c#v10": {
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "mCf5Dw5Wi6c#v11": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v12": {
+      "issue": null
+    },
+    "mCf5Dw5Wi6c#v13": {
+      "issue": null
+    },
+    "mmpLfpY8-s0#v0": {
+      "issue": "sta-unit-c-contract"
+    },
+    "t2MR3sJzMA0#v0": {
+      "issue": null
     }
   },
   "upcoming": {
@@ -138,5 +194,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:29:51Z"
+  "generated_at": "2026-10-16T02:33:57Z"
 }

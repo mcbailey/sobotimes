@@ -1,6 +1,6 @@
 {
   "week": "2026-02-23",
-  "fingerprint": "2a579702fffe4330",
+  "fingerprint": "80bcded76bf076ed",
   "topics": {
     "qoPRkdI2yfs#0": {
       "issue": "neary-school-building-project",
@@ -19,6 +19,7 @@
       "category": "Town Meeting & elections"
     }
   },
+  "votes": {},
   "upcoming": {
     "qoPRkdI2yfs#u0": {
       "date": "2026-02-26",
@@ -34,5 +35,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:14:17Z"
+  "generated_at": "2026-10-16T02:07:49Z"
 }

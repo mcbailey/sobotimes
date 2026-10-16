@@ -1,6 +1,6 @@
 {
   "week": "2026-05-18",
-  "fingerprint": "a1fae6dc906a1b8c",
+  "fingerprint": "836e78974a1fd37c",
   "topics": {
     "C_4TOzgcpyo#0": {
       "issue": "southborough-golf-club-audubon-plan",
@@ -12,7 +12,7 @@
     },
     "C_4TOzgcpyo#2": {
       "issue": null,
-      "category": "Buildings & facilities"
+      "category": "Parks, trails & recreation"
     },
     "C_4TOzgcpyo#3": {
       "issue": "peninsula-trail-phase-2",
@@ -56,7 +56,7 @@
     },
     "aE6XZkN9G9s#3": {
       "issue": "route-9-495-gateway-study",
-      "category": "Roads, water & infrastructure"
+      "category": "Zoning & development"
     },
     "deu8b2Ix5zU#0": {
       "issue": "parkerville-road-utility-pole",
@@ -64,7 +64,7 @@
     },
     "deu8b2Ix5zU#1": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Public safety"
     },
     "deu8b2Ix5zU#2": {
       "issue": null,
@@ -88,11 +88,55 @@
     },
     "deu8b2Ix5zU#7": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "deu8b2Ix5zU#8": {
       "issue": null,
       "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "X6ABrfEh-fQ#v0": {
+      "issue": "route-9-495-gateway-study"
+    },
+    "YmD0athXTZs#v0": {
+      "issue": null
+    },
+    "YmD0athXTZs#v1": {
+      "issue": null
+    },
+    "YmD0athXTZs#v2": {
+      "issue": null
+    },
+    "YmD0athXTZs#v3": {
+      "issue": null
+    },
+    "YmD0athXTZs#v4": {
+      "issue": null
+    },
+    "YmD0athXTZs#v5": {
+      "issue": null
+    },
+    "YmD0athXTZs#v6": {
+      "issue": null
+    },
+    "deu8b2Ix5zU#v0": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "deu8b2Ix5zU#v1": {
+      "issue": null
+    },
+    "deu8b2Ix5zU#v2": {
+      "issue": "route-9-495-gateway-study"
+    },
+    "deu8b2Ix5zU#v3": {
+      "issue": "metrowest-recc-borrowing"
+    },
+    "deu8b2Ix5zU#v4": {
+      "issue": null
+    },
+    "deu8b2Ix5zU#v5": {
+      "issue": null
     }
   },
   "upcoming": {
@@ -134,7 +178,7 @@
     },
     "aE6XZkN9G9s#u2": {
       "date": "2026-06-22",
-      "issue": "route-9-wastewater-infrastructure"
+      "issue": null
     },
     "deu8b2Ix5zU#u0": {
       "date": "2026-06-02",
@@ -154,5 +198,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:24:18Z"
+  "generated_at": "2026-10-16T02:22:26Z"
 }

@@ -1,10 +1,10 @@
 {
   "week": "2026-07-13",
-  "fingerprint": "f477f10d7996955c",
+  "fingerprint": "bc9e4481e265e44f",
   "topics": {
     "LJ2j8FHbFbo#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Parks, trails & recreation"
     },
     "LJ2j8FHbFbo#1": {
       "issue": "peninsula-trail-phase-2",
@@ -32,14 +32,14 @@
     },
     "Q88Ipn6bDNY#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "Q88Ipn6bDNY#3": {
       "issue": "tricentennial-street-banners",
       "category": "Roads, water & infrastructure"
     },
     "Q88Ipn6bDNY#4": {
-      "issue": "tricentennial-heritage-day-parade",
+      "issue": "tricentennial-first-day",
       "category": "Library, arts & community"
     },
     "Q88Ipn6bDNY#5": {
@@ -84,7 +84,7 @@
     },
     "VfNHNadf_2g#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "VfNHNadf_2g#3": {
       "issue": "tricentennial-street-banners",
@@ -116,11 +116,11 @@
     },
     "i3pBZm9DgSs#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Zoning & development"
     },
     "i3pBZm9DgSs#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Zoning & development"
     },
     "i3pBZm9DgSs#2": {
       "issue": "22-turnpike-road",
@@ -128,7 +128,7 @@
     },
     "i3pBZm9DgSs#3": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Zoning & development"
     },
     "i3pBZm9DgSs#4": {
       "issue": "154-turnpike-road",
@@ -140,7 +140,7 @@
     },
     "pwm7wBAQf8E#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Parks, trails & recreation"
     },
     "pwm7wBAQf8E#1": {
       "issue": "southborough-golf-club-irrigation",
@@ -155,8 +155,43 @@
       "category": "Parks, trails & recreation"
     },
     "pwm7wBAQf8E#4": {
-      "issue": null,
+      "issue": "latisquama-road-errant-golf-balls",
       "category": "Parks, trails & recreation"
+    }
+  },
+  "votes": {
+    "SfMRh_yUWvM#v0": {
+      "issue": "6-walker-street-variance"
+    },
+    "SfMRh_yUWvM#v1": {
+      "issue": "6-walker-street-variance"
+    },
+    "SfMRh_yUWvM#v2": {
+      "issue": "0-northborough-road-common-driveway"
+    },
+    "SfMRh_yUWvM#v3": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "SfMRh_yUWvM#v4": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "SfMRh_yUWvM#v5": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "i3pBZm9DgSs#v0": {
+      "issue": "22-turnpike-road"
+    },
+    "i3pBZm9DgSs#v1": {
+      "issue": "22-turnpike-road"
+    },
+    "i3pBZm9DgSs#v2": {
+      "issue": "154-turnpike-road"
+    },
+    "i3pBZm9DgSs#v3": {
+      "issue": "154-turnpike-road"
+    },
+    "pwm7wBAQf8E#v0": {
+      "issue": "southborough-golf-club-audubon-plan"
     }
   },
   "upcoming": {
@@ -257,11 +292,11 @@
       "issue": null
     },
     "VfNHNadf_2g#u5": {
-      "date": null,
+      "date": "2027-01-01",
       "issue": "tricentennial-first-day"
     },
     "VfNHNadf_2g#u6": {
-      "date": null,
+      "date": "2027-04-15",
       "issue": null
     },
     "i3pBZm9DgSs#u0": {
@@ -302,5 +337,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:48:08Z"
+  "generated_at": "2026-10-16T02:46:23Z"
 }

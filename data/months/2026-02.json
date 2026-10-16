@@ -1,0 +1,58 @@
+{
+  "headline": "School officials finalized recommendations for Special Town Meeting, endorsing Neary School renovations while opposing alternative campus expansion studies.",
+  "synopsis": "Ahead of the March 2 Special Town Meeting, the School Committee reviewed four warrant articles addressing facility conditions at Neary School and potential district reconfigurations. School officials endorsed Article 1, seeking $175,000 from free cash for a renovation feasibility study, and Article 4, requesting up to $6,850,000 in borrowing for roof replacement and accessibility upgrades. Administrators cautioned that taking Neary offline would require building large additions at Trottier and Finn schools to avoid severe cuts to educational programming. The School Committee, Select Board, and Advisory Committee all recommend defeating Articles 2 and 3, which propose studying those campus expansion options. Officials also reviewed logistics for the upcoming Town Meeting, including electronic clicker voting and overflow room arrangements.",
+  "top_items": [
+    {
+      "title": "Neary School renovation feasibility study and facility review",
+      "why": "The School Committee endorsed Article 1, requesting $175,000 from free cash to evaluate renovating Neary School.",
+      "body": "Officials presented Article 1 for the March 2 Special Town Meeting as their preferred approach following feedback on the prior year's defeated building project. Administrators detailed aging building conditions, including mechanical systems from 1968, non-compliant restrooms under the Americans with Disabilities Act, and a roof from 1990 that has exceeded its lifespan.",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 255,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Neary School roof replacement and ADA upgrades borrowing",
+      "why": "Article 4 requests authority to borrow up to $6,850,000 for roof replacement and accessibility upgrades at Neary School.",
+      "body": "The 35-year-old roof suffers from water leaks and is one-third detached from underlying insulation. If Article 1 passes, $2,100,000 estimated for ADA work would be folded into the broader renovation study, reducing the roof borrowing request to $4,500,000. The measure requires approval at Special Town Meeting on March 2 and at the ballot on May 12, 2026.",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 3520,
+      "issue": "neary-school-roof-replacement"
+    },
+    {
+      "title": "Proposed Trottier and Finn grade reconfiguration study",
+      "why": "The School Committee recommends defeating Article 2, which requests up to $500,000 to study expanding Trottier and Finn schools.",
+      "body": "Article 2 evaluates shifting grade 5 to Trottier and grade 2 to Finn to take Neary School offline. Administrators reported that accommodating these grade levels would require adding 10,000 to 12,000 square feet at Trottier and 9,000 to 11,000 square feet at Finn to avoid severe reductions to educational programs.",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 2447,
+      "issue": "trottier-finn-expansion-studies"
+    },
+    {
+      "title": "Proposed Finn School PreK-3 expansion study",
+      "why": "Town boards recommend defeating Article 3, which seeks up to $324,000 to assess expanding Finn School to serve grades PreK through 3.",
+      "body": "The article proposes evaluating the decommissioning of Neary School by consolidating all early elementary grades at Finn. School officials cautioned that moving grades without building substantial additions would compromise academic and support spaces.",
+      "importance": "high",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 2447,
+      "issue": "trottier-finn-expansion-studies"
+    },
+    {
+      "title": "Town board positions and Special Town Meeting logistics",
+      "why": "Town boards aligned behind Neary renovation planning while opposing alternative campus expansion articles.",
+      "body": "The Select Board and Advisory Committee joined school officials in supporting Article 1 while opposing Articles 2 and 3. The Select Board also voted in favor of Article 4 borrowing. Officials announced that the March 2 session will utilize electronic clicker voting, overflow seating, and child-friendly arrangements in the gymnasium.",
+      "importance": "medium",
+      "video_id": "qoPRkdI2yfs",
+      "start_seconds": 5445,
+      "issue": null
+    }
+  ],
+  "month": "2026-02",
+  "fingerprint": "60b0519bb33aff47",
+  "video_ids": [
+    "qoPRkdI2yfs"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-16T03:34:04Z"
+}

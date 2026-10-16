@@ -1,6 +1,6 @@
 {
   "week": "2026-06-29",
-  "fingerprint": "74c65e66d2f1345c",
+  "fingerprint": "a15e382579c751dd",
   "topics": {
     "YrcyfhtzkD8#0": {
       "issue": null,
@@ -47,6 +47,20 @@
       "category": "Roads, water & infrastructure"
     }
   },
+  "votes": {
+    "YrcyfhtzkD8#v0": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "YrcyfhtzkD8#v1": {
+      "issue": null
+    },
+    "eJY0jkb5BOE#v0": {
+      "issue": "police-drone-program"
+    },
+    "wXOvCKRJRp4#v0": {
+      "issue": "route-9-wastewater-infrastructure"
+    }
+  },
   "upcoming": {
     "YrcyfhtzkD8#u0": {
       "date": "2026-07-01",
@@ -78,5 +92,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:33:56Z"
+  "generated_at": "2026-10-16T02:39:53Z"
 }

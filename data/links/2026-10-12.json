@@ -1,6 +1,6 @@
 {
   "week": "2026-10-12",
-  "fingerprint": "1532fa714a4b2a03",
+  "fingerprint": "dcc385d253435cc5",
   "topics": {
     "BTBCj00PeQw#0": {
       "issue": null,
@@ -67,6 +67,17 @@
       "category": "Governance & committees"
     }
   },
+  "votes": {
+    "BTBCj00PeQw#v0": {
+      "issue": "66-breakneck-hill-road-variance"
+    },
+    "XB-8MuC8GBo#v0": {
+      "issue": "southborough-golf-club-audubon-plan"
+    },
+    "XB-8MuC8GBo#v1": {
+      "issue": "southborough-golf-club-audubon-plan"
+    }
+  },
   "upcoming": {
     "BTBCj00PeQw#u0": {
       "date": "2026-10-20",
@@ -118,5 +129,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:00:58Z"
+  "generated_at": "2026-10-16T03:27:11Z"
 }

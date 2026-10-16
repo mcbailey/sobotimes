@@ -1,13 +1,13 @@
 {
   "week": "2026-04-27",
-  "fingerprint": "d52e7c4e67454813",
+  "fingerprint": "02195833dbc0d7fd",
   "topics": {
     "Z4yuMDzSo_o#0": {
       "issue": null,
       "category": "Roads, water & infrastructure"
     },
     "Z4yuMDzSo_o#1": {
-      "issue": null,
+      "issue": "opeb-funding-strategy",
       "category": "Budget & taxes"
     },
     "Z4yuMDzSo_o#2": {
@@ -20,18 +20,18 @@
     },
     "Z4yuMDzSo_o#4": {
       "issue": null,
-      "category": "Town Meeting & elections"
+      "category": "Governance & committees"
     },
     "Z4yuMDzSo_o#5": {
-      "issue": null,
+      "issue": "senior-tax-work-off-policy",
       "category": "Budget & taxes"
     },
     "jsNUGSfKF7c#0": {
-      "issue": "40-42-central-street",
+      "issue": null,
       "category": "Zoning & development"
     },
     "jsNUGSfKF7c#1": {
-      "issue": null,
+      "issue": "scenic-road-tree-removals",
       "category": "Environment & conservation"
     },
     "jsNUGSfKF7c#2": {
@@ -44,7 +44,7 @@
     },
     "jsNUGSfKF7c#4": {
       "issue": null,
-      "category": "Environment & conservation"
+      "category": "Staffing & operations"
     },
     "jsNUGSfKF7c#5": {
       "issue": "154-turnpike-road",
@@ -55,7 +55,7 @@
       "category": "Environment & conservation"
     },
     "jsNUGSfKF7c#7": {
-      "issue": null,
+      "issue": "2030-master-plan-update",
       "category": "Zoning & development"
     },
     "jsNUGSfKF7c#8": {
@@ -71,7 +71,7 @@
       "category": "Environment & conservation"
     },
     "znWhFcdIV3k#2": {
-      "issue": null,
+      "issue": "170-woodland-road-coc",
       "category": "Environment & conservation"
     },
     "znWhFcdIV3k#3": {
@@ -79,7 +79,7 @@
       "category": "Housing"
     },
     "znWhFcdIV3k#4": {
-      "issue": null,
+      "issue": "conservation-land-use-regulations",
       "category": "Environment & conservation"
     },
     "znWhFcdIV3k#5": {
@@ -91,10 +91,75 @@
       "category": "Environment & conservation"
     }
   },
+  "votes": {
+    "Z4yuMDzSo_o#v0": {
+      "issue": null
+    },
+    "Z4yuMDzSo_o#v1": {
+      "issue": null
+    },
+    "Z4yuMDzSo_o#v2": {
+      "issue": null
+    },
+    "Z4yuMDzSo_o#v3": {
+      "issue": "route-9-wastewater-infrastructure"
+    },
+    "Z4yuMDzSo_o#v4": {
+      "issue": null
+    },
+    "Z4yuMDzSo_o#v5": {
+      "issue": null
+    },
+    "Z4yuMDzSo_o#v6": {
+      "issue": "senior-tax-work-off-policy"
+    },
+    "Z4yuMDzSo_o#v7": {
+      "issue": "senior-tax-work-off-policy"
+    },
+    "Z4yuMDzSo_o#v8": {
+      "issue": "municipal-grants-management-policy"
+    },
+    "jsNUGSfKF7c#v0": {
+      "issue": null
+    },
+    "jsNUGSfKF7c#v1": {
+      "issue": "scenic-road-tree-removals"
+    },
+    "jsNUGSfKF7c#v2": {
+      "issue": "scenic-road-tree-removals"
+    },
+    "jsNUGSfKF7c#v3": {
+      "issue": "22-turnpike-road"
+    },
+    "jsNUGSfKF7c#v4": {
+      "issue": "22-turnpike-road"
+    },
+    "jsNUGSfKF7c#v5": {
+      "issue": "154-turnpike-road"
+    },
+    "jsNUGSfKF7c#v6": {
+      "issue": "154-turnpike-road"
+    },
+    "jsNUGSfKF7c#v7": {
+      "issue": "154-turnpike-road"
+    },
+    "jsNUGSfKF7c#v8": {
+      "issue": "154-turnpike-road"
+    },
+    "znWhFcdIV3k#v0": {
+      "issue": "22-turnpike-road"
+    },
+    "znWhFcdIV3k#v1": {
+      "issue": "0-southville-road"
+    },
+    "znWhFcdIV3k#v2": {
+      "issue": "conservation-land-use-regulations"
+    }
+  },
   "upcoming": {
     "Z4yuMDzSo_o#u0": {
       "date": "2026-05-06",
-      "issue": null
+      "issue": "municipal-health-insurance-reform"
     },
     "Z4yuMDzSo_o#u1": {
       "date": "2026-05-07",
@@ -106,7 +171,7 @@
     },
     "Z4yuMDzSo_o#u3": {
       "date": null,
-      "issue": null
+      "issue": "metrowest-recc-borrowing"
     },
     "jsNUGSfKF7c#u0": {
       "date": "2026-05-11",
@@ -138,7 +203,7 @@
     },
     "znWhFcdIV3k#u2": {
       "date": "2026-05-14",
-      "issue": null
+      "issue": "170-woodland-road-coc"
     },
     "znWhFcdIV3k#u3": {
       "date": "2026-05-25",
@@ -146,5 +211,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:16:33Z"
+  "generated_at": "2026-10-16T02:12:22Z"
 }

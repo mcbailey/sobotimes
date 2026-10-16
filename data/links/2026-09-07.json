@@ -1,6 +1,6 @@
 {
   "week": "2026-09-07",
-  "fingerprint": "74a40f92a660b4a0",
+  "fingerprint": "87c84c7ddaf3571e",
   "topics": {
     "3Fu66bBPayE#0": {
       "issue": null,
@@ -87,8 +87,8 @@
       "category": "Budget & taxes"
     },
     "K0f-6cLjO_Q#8": {
-      "issue": null,
-      "category": "Budget & taxes"
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
     },
     "K0f-6cLjO_Q#9": {
       "issue": null,
@@ -127,6 +127,38 @@
       "category": "Governance & committees"
     }
   },
+  "votes": {
+    "3Fu66bBPayE#v0": {
+      "issue": null
+    },
+    "FdQ5e5akTBk#v0": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "FdQ5e5akTBk#v1": {
+      "issue": null
+    },
+    "JEIGQ-Svv2Y#v0": {
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "K0f-6cLjO_Q#v0": {
+      "issue": null
+    },
+    "K0f-6cLjO_Q#v1": {
+      "issue": null
+    },
+    "K0f-6cLjO_Q#v2": {
+      "issue": null
+    },
+    "K0f-6cLjO_Q#v3": {
+      "issue": null
+    },
+    "K0f-6cLjO_Q#v4": {
+      "issue": null
+    },
+    "TKelgkz3FaU#v0": {
+      "issue": "fy28-operating-budget"
+    }
+  },
   "upcoming": {
     "3Fu66bBPayE#u0": {
       "date": "2026-09-15",
@@ -158,7 +190,7 @@
     },
     "FdQ5e5akTBk#u0": {
       "date": "2026-09-14",
-      "issue": "peninsula-trail-phase-2"
+      "issue": null
     },
     "JEIGQ-Svv2Y#u0": {
       "date": null,
@@ -198,5 +230,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:52:36Z"
+  "generated_at": "2026-10-16T03:13:20Z"
 }

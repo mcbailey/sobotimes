@@ -1,6 +1,6 @@
 {
   "week": "2026-08-10",
-  "fingerprint": "8caeee540654e585",
+  "fingerprint": "689502a085a09bbf",
   "topics": {
     "-pJx0xWc2YM#0": {
       "issue": "tricentennial-first-day",
@@ -20,7 +20,7 @@
     },
     "-pJx0xWc2YM#4": {
       "issue": null,
-      "category": "Schools"
+      "category": "Library, arts & community"
     },
     "-pJx0xWc2YM#5": {
       "issue": null,
@@ -32,7 +32,7 @@
     },
     "-pJx0xWc2YM#7": {
       "issue": "tricentennial-firefighters-muster",
-      "category": "Public safety"
+      "category": "Library, arts & community"
     },
     "-pJx0xWc2YM#8": {
       "issue": "tricentennial-time-capsule",
@@ -67,12 +67,12 @@
       "category": "Zoning & development"
     },
     "YVXhyk05YQ8#0": {
-      "issue": null,
+      "issue": "appointed-town-clerk",
       "category": "Governance & committees"
     },
     "YVXhyk05YQ8#1": {
       "issue": null,
-      "category": "Public safety"
+      "category": "Staffing & operations"
     },
     "YVXhyk05YQ8#2": {
       "issue": "transfer-station-fees-and-regulations",
@@ -100,7 +100,7 @@
     },
     "YVXhyk05YQ8#8": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "YVXhyk05YQ8#9": {
       "issue": null,
@@ -112,7 +112,7 @@
     },
     "YVXhyk05YQ8#11": {
       "issue": "appointed-town-clerk",
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "YVXhyk05YQ8#12": {
       "issue": "municipal-health-insurance-reform",
@@ -163,12 +163,12 @@
       "category": "Governance & committees"
     },
     "o_6wQ5qmpYY#1": {
-      "issue": null,
-      "category": "Health & human services"
+      "issue": "8-partridge-hill-road-variance",
+      "category": "Environment & conservation"
     },
     "o_6wQ5qmpYY#2": {
       "issue": "14-newton-street",
-      "category": "Health & human services"
+      "category": "Zoning & development"
     },
     "o_6wQ5qmpYY#3": {
       "issue": "7-turnpike-road-bodywork-compliance",
@@ -199,12 +199,80 @@
       "category": "Budget & taxes"
     },
     "tvbRz-2SMEI#5": {
-      "issue": null,
+      "issue": "library-cpa-signage",
       "category": "Library, arts & community"
     },
     "tvbRz-2SMEI#6": {
       "issue": null,
       "category": "Library, arts & community"
+    }
+  },
+  "votes": {
+    "-pJx0xWc2YM#v0": {
+      "issue": "glow-sobo-holiday-lighting"
+    },
+    "FEB1UdYQ72U#v0": {
+      "issue": "40-42-central-street"
+    },
+    "FEB1UdYQ72U#v1": {
+      "issue": null
+    },
+    "FEB1UdYQ72U#v2": {
+      "issue": null
+    },
+    "FEB1UdYQ72U#v3": {
+      "issue": "0-northborough-road-common-driveway"
+    },
+    "YVXhyk05YQ8#v0": {
+      "issue": null
+    },
+    "YVXhyk05YQ8#v1": {
+      "issue": "transfer-station-fees-and-regulations"
+    },
+    "YVXhyk05YQ8#v2": {
+      "issue": "presidential-fisher-waterline-looping"
+    },
+    "YVXhyk05YQ8#v3": {
+      "issue": "culvert-infrastructure-replacements"
+    },
+    "YVXhyk05YQ8#v4": {
+      "issue": "stewardship-committee-structure"
+    },
+    "YVXhyk05YQ8#v5": {
+      "issue": "stewardship-committee-structure"
+    },
+    "YVXhyk05YQ8#v6": {
+      "issue": "appointed-town-clerk"
+    },
+    "YVXhyk05YQ8#v7": {
+      "issue": "municipal-health-insurance-reform"
+    },
+    "YVXhyk05YQ8#v8": {
+      "issue": "town-governance-study"
+    },
+    "YVXhyk05YQ8#v9": {
+      "issue": "cannabis-delivery-opt-out"
+    },
+    "cZVXi44YTi8#v0": {
+      "issue": "glow-sobo-holiday-lighting"
+    },
+    "o_6wQ5qmpYY#v0": {
+      "issue": "8-partridge-hill-road-variance"
+    },
+    "o_6wQ5qmpYY#v1": {
+      "issue": "14-newton-street"
+    },
+    "o_6wQ5qmpYY#v2": {
+      "issue": null
+    },
+    "o_6wQ5qmpYY#v3": {
+      "issue": "7-turnpike-road-bodywork-compliance"
+    },
+    "o_6wQ5qmpYY#v4": {
+      "issue": "7-turnpike-road-bodywork-compliance"
+    },
+    "o_6wQ5qmpYY#v5": {
+      "issue": "7-turnpike-road-bodywork-compliance"
     }
   },
   "upcoming": {
@@ -286,5 +354,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T01:51:23Z"
+  "generated_at": "2026-10-16T03:01:16Z"
 }

@@ -1,13 +1,13 @@
 {
   "week": "2026-06-01",
-  "fingerprint": "03d45497d8bdb3ff",
+  "fingerprint": "d6b1a4bff3f33743",
   "topics": {
     "20bBFqxSPkE#0": {
       "issue": "peninsula-trail-phase-2",
       "category": "Parks, trails & recreation"
     },
     "20bBFqxSPkE#1": {
-      "issue": null,
+      "issue": "peninsula-trail-phase-2",
       "category": "Parks, trails & recreation"
     },
     "20bBFqxSPkE#2": {
@@ -16,7 +16,7 @@
     },
     "20bBFqxSPkE#3": {
       "issue": null,
-      "category": "Environment & conservation"
+      "category": "Parks, trails & recreation"
     },
     "20bBFqxSPkE#4": {
       "issue": null,
@@ -87,11 +87,11 @@
       "category": "Housing"
     },
     "g_7SIaQJK7M#4": {
-      "issue": null,
+      "issue": "170-woodland-road-coc",
       "category": "Environment & conservation"
     },
     "g_7SIaQJK7M#5": {
-      "issue": null,
+      "issue": "229-parkerville-road-coc",
       "category": "Environment & conservation"
     },
     "g_7SIaQJK7M#6": {
@@ -115,7 +115,7 @@
       "category": "Zoning & development"
     },
     "kpEDyrpGcHk#3": {
-      "issue": null,
+      "issue": "ruby-estates-subdivision",
       "category": "Zoning & development"
     },
     "kpEDyrpGcHk#4": {
@@ -132,10 +132,10 @@
     },
     "kpEDyrpGcHk#7": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Zoning & development"
     },
     "kpEDyrpGcHk#8": {
-      "issue": null,
+      "issue": "21-coslin-drive-costco",
       "category": "Zoning & development"
     },
     "kpEDyrpGcHk#9": {
@@ -171,6 +171,89 @@
       "category": "Parks, trails & recreation"
     }
   },
+  "votes": {
+    "KAKmu8l1HIw#v0": {
+      "issue": null
+    },
+    "QOopXboMCl0#v0": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "QOopXboMCl0#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "QOopXboMCl0#v2": {
+      "issue": null
+    },
+    "QOopXboMCl0#v3": {
+      "issue": null
+    },
+    "QOopXboMCl0#v4": {
+      "issue": null
+    },
+    "QOopXboMCl0#v5": {
+      "issue": "neary-school-building-project"
+    },
+    "QOopXboMCl0#v6": {
+      "issue": "town-common-fence-restoration"
+    },
+    "QOopXboMCl0#v7": {
+      "issue": null
+    },
+    "QOopXboMCl0#v8": {
+      "issue": null
+    },
+    "g_7SIaQJK7M#v0": {
+      "issue": null
+    },
+    "g_7SIaQJK7M#v1": {
+      "issue": "parkerville-road-utility-pole"
+    },
+    "g_7SIaQJK7M#v2": {
+      "issue": "250-turnpike-road"
+    },
+    "g_7SIaQJK7M#v3": {
+      "issue": "0-southville-road"
+    },
+    "g_7SIaQJK7M#v4": {
+      "issue": "170-woodland-road-coc"
+    },
+    "kpEDyrpGcHk#v0": {
+      "issue": null
+    },
+    "kpEDyrpGcHk#v1": {
+      "issue": null
+    },
+    "kpEDyrpGcHk#v2": {
+      "issue": "2030-master-plan-update"
+    },
+    "kpEDyrpGcHk#v3": {
+      "issue": null
+    },
+    "kpEDyrpGcHk#v4": {
+      "issue": null
+    },
+    "kpEDyrpGcHk#v5": {
+      "issue": "200-turnpike-road"
+    },
+    "kpEDyrpGcHk#v6": {
+      "issue": "22-turnpike-road"
+    },
+    "kpEDyrpGcHk#v7": {
+      "issue": "22-turnpike-road"
+    },
+    "kpEDyrpGcHk#v8": {
+      "issue": "154-turnpike-road"
+    },
+    "kpEDyrpGcHk#v9": {
+      "issue": "154-turnpike-road"
+    },
+    "lTy9dXfBl0Y#v0": {
+      "issue": "40-42-central-street"
+    },
+    "naNh8DiADss#v0": {
+      "issue": null
+    }
+  },
   "upcoming": {
     "20bBFqxSPkE#u0": {
       "date": "2026-06-02",
@@ -182,7 +265,7 @@
     },
     "20bBFqxSPkE#u2": {
       "date": "2026-06-13",
-      "issue": null
+      "issue": "peninsula-trail-phase-2"
     },
     "20bBFqxSPkE#u3": {
       "date": "2026-06-30",
@@ -226,7 +309,7 @@
     },
     "g_7SIaQJK7M#u1": {
       "date": null,
-      "issue": null
+      "issue": "229-parkerville-road-coc"
     },
     "kpEDyrpGcHk#u0": {
       "date": "2026-06-04",
@@ -250,7 +333,7 @@
     },
     "kpEDyrpGcHk#u5": {
       "date": "2026-07-15",
-      "issue": null
+      "issue": "21-coslin-drive-costco"
     },
     "kpEDyrpGcHk#u6": {
       "date": "2026-10-01",
@@ -278,5 +361,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:28:00Z"
+  "generated_at": "2026-10-16T02:26:35Z"
 }

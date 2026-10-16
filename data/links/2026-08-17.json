@@ -1,6 +1,6 @@
 {
   "week": "2026-08-17",
-  "fingerprint": "25c7f1ce8a40a962",
+  "fingerprint": "99709ffdb0465db9",
   "topics": {
     "In0K8NmFMco#0": {
       "issue": null,
@@ -31,7 +31,7 @@
       "category": "Zoning & development"
     },
     "qUlxMeFyn1Y#3": {
-      "issue": null,
+      "issue": "national-grid-vegetation-plan",
       "category": "Roads, water & infrastructure"
     },
     "qUlxMeFyn1Y#4": {
@@ -47,6 +47,14 @@
       "category": "Zoning & development"
     }
   },
+  "votes": {
+    "qUlxMeFyn1Y#v0": {
+      "issue": "fay-school-25-middle-road"
+    },
+    "qUlxMeFyn1Y#v1": {
+      "issue": "national-grid-vegetation-plan"
+    }
+  },
   "upcoming": {
     "In0K8NmFMco#u0": {
       "date": "2026-09-03",
@@ -58,11 +66,11 @@
     },
     "qUlxMeFyn1Y#u0": {
       "date": "2026-08-24",
-      "issue": null
+      "issue": "21-coslin-drive-costco"
     },
     "qUlxMeFyn1Y#u1": {
       "date": "2026-08-27",
-      "issue": null
+      "issue": "fayville-memorial-park-improvements"
     },
     "qUlxMeFyn1Y#u2": {
       "date": "2026-09-14",
@@ -78,5 +86,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-15T19:22:05Z"
+  "generated_at": "2026-10-16T03:04:34Z"
 }
