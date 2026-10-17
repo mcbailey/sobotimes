@@ -1,6 +1,6 @@
 {
   "week": "2026-10-05",
-  "fingerprint": "b150f15438f120f6",
+  "fingerprint": "94da0e2ef030a8da",
   "topics": {
     "2dGufO1TwE4#0": {
       "issue": "two-family-zoning-amendment",
@@ -8,7 +8,7 @@
     },
     "6sb8sVUyin4#0": {
       "issue": "landfill-environmental-assessment",
-      "category": "Roads, water & infrastructure"
+      "category": "Environment & conservation"
     },
     "6sb8sVUyin4#1": {
       "issue": "personal-property-tax-exemption",
@@ -39,8 +39,8 @@
       "category": "Governance & committees"
     },
     "6sb8sVUyin4#8": {
-      "issue": "neary-school-building-project",
-      "category": "Schools"
+      "issue": null,
+      "category": "Town Meeting & elections"
     },
     "6sb8sVUyin4#9": {
       "issue": null,
@@ -56,11 +56,11 @@
     },
     "BwulXCVw_6g#2": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Budget & taxes"
     },
     "BwulXCVw_6g#3": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Other"
     },
     "DIW91Vw3LIY#0": {
       "issue": "peninsula-trail-phase-2",
@@ -76,15 +76,15 @@
     },
     "DIW91Vw3LIY#3": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Governance & committees"
     },
     "Dlomobo7FQ4#0": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Governance & committees"
     },
     "Dlomobo7FQ4#1": {
       "issue": null,
-      "category": "Buildings & facilities"
+      "category": "Library, arts & community"
     },
     "Dlomobo7FQ4#2": {
       "issue": null,
@@ -95,7 +95,7 @@
       "category": "Budget & taxes"
     },
     "Dlomobo7FQ4#4": {
-      "issue": null,
+      "issue": "decertified-library-borrowing-policy",
       "category": "Library, arts & community"
     },
     "G9S9K_Mene8#0": {
@@ -116,7 +116,7 @@
     },
     "G9S9K_Mene8#4": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "G9S9K_Mene8#5": {
       "issue": null,
@@ -148,7 +148,7 @@
     },
     "jIrNNYw8PME#3": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "nrTrCqF8IJA#0": {
       "issue": null,
@@ -242,7 +242,7 @@
       "issue": "fy28-operating-budget"
     },
     "Dlomobo7FQ4#v1": {
-      "issue": null
+      "issue": "decertified-library-borrowing-policy"
     },
     "G9S9K_Mene8#v0": {
       "issue": "peninsula-trail-phase-2"
@@ -363,11 +363,11 @@
     },
     "UNs9kGkhiEM#u5": {
       "date": "2027-03-20",
-      "issue": null
+      "issue": "fy28-regional-school-operating-budget"
     },
     "UNs9kGkhiEM#u6": {
       "date": "2027-04-26",
-      "issue": null
+      "issue": "fy28-regional-school-operating-budget"
     },
     "jIrNNYw8PME#u0": {
       "date": "2026-10-17",
@@ -399,13 +399,13 @@
     },
     "yXLL6UMLaag#u0": {
       "date": "2026-10-13",
-      "issue": null
+      "issue": "southborough-golf-club-irrigation"
     },
     "yXLL6UMLaag#u1": {
-      "date": "2026-10-17",
+      "date": "2026-10-27",
       "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T19:24:24Z"
+  "generated_at": "2026-10-17T13:08:45Z"
 }

@@ -1,10 +1,54 @@
 {
   "week": "2026-09-14",
-  "fingerprint": "74cee16f2cfd510c",
+  "fingerprint": "202cc866fc7a5612",
   "topics": {
+    "0LLuaA1JXz0#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#1": {
+      "issue": "regional-superintendent-evaluation-and-contract",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#2": {
+      "issue": "regional-school-calendar-2027-2028",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "0LLuaA1JXz0#4": {
+      "issue": "regional-superintendent-evaluation-and-contract",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#6": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#7": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#9": {
+      "issue": "algonquin-cell-phone-policy",
+      "category": "Schools"
+    },
+    "0LLuaA1JXz0#10": {
+      "issue": null,
+      "category": "Schools"
+    },
     "7c2pm_BqUTk#0": {
       "issue": "21-highland-street-use",
-      "category": "Buildings & facilities"
+      "category": "Parks, trails & recreation"
     },
     "7c2pm_BqUTk#1": {
       "issue": "fayville-memorial-park-improvements",
@@ -15,8 +59,8 @@
       "category": "Governance & committees"
     },
     "7c2pm_BqUTk#3": {
-      "issue": "neary-school-building-project",
-      "category": "Budget & taxes"
+      "issue": "recreation-capital-plan",
+      "category": "Parks, trails & recreation"
     },
     "7c2pm_BqUTk#4": {
       "issue": "fy28-operating-budget",
@@ -44,7 +88,7 @@
     },
     "AbhYdScbz7I#4": {
       "issue": "250-turnpike-road",
-      "category": "Zoning & development"
+      "category": "Housing"
     },
     "AbhYdScbz7I#5": {
       "issue": null,
@@ -59,7 +103,7 @@
       "category": "Governance & committees"
     },
     "IW-Yyg8ixZc#2": {
-      "issue": null,
+      "issue": "zoning-act-conformance-amendments",
       "category": "Zoning & development"
     },
     "IW-Yyg8ixZc#3": {
@@ -96,7 +140,7 @@
     },
     "Nzknp6oL4v8#6": {
       "issue": "21-coslin-drive-costco",
-      "category": "Environment & conservation"
+      "category": "Zoning & development"
     },
     "QrLqRNyQNCQ#0": {
       "issue": "two-family-zoning-amendment",
@@ -115,7 +159,7 @@
       "category": "Zoning & development"
     },
     "QrLqRNyQNCQ#4": {
-      "issue": null,
+      "issue": "subdivision-rules-and-regulations-update",
       "category": "Zoning & development"
     },
     "QrLqRNyQNCQ#5": {
@@ -139,7 +183,7 @@
       "category": "Parks, trails & recreation"
     },
     "Sg_jLEHga3k#2": {
-      "issue": "peninsula-trail-phase-2",
+      "issue": null,
       "category": "Parks, trails & recreation"
     },
     "Sg_jLEHga3k#3": {
@@ -155,8 +199,8 @@
       "category": "Budget & taxes"
     },
     "TwiZfHm90lU#2": {
-      "issue": "library-book-drop-repair",
-      "category": "Buildings & facilities"
+      "issue": null,
+      "category": "Library, arts & community"
     },
     "TwiZfHm90lU#3": {
       "issue": "glow-sobo-holiday-lighting",
@@ -167,7 +211,7 @@
       "category": "Buildings & facilities"
     },
     "TwiZfHm90lU#5": {
-      "issue": null,
+      "issue": "library-hotspot-lending-policy",
       "category": "Library, arts & community"
     },
     "TwiZfHm90lU#6": {
@@ -175,7 +219,7 @@
       "category": "Health & human services"
     },
     "ZFwCQUWlbtI#0": {
-      "issue": null,
+      "issue": "tricentennial-house-tour",
       "category": "Library, arts & community"
     },
     "ZFwCQUWlbtI#1": {
@@ -184,7 +228,7 @@
     },
     "ZFwCQUWlbtI#2": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Library, arts & community"
     },
     "ZFwCQUWlbtI#3": {
       "issue": null,
@@ -195,7 +239,7 @@
       "category": "Roads, water & infrastructure"
     },
     "ZFwCQUWlbtI#5": {
-      "issue": "tricentennial-heritage-day-parade",
+      "issue": null,
       "category": "Library, arts & community"
     },
     "ZFwCQUWlbtI#6": {
@@ -244,7 +288,7 @@
     },
     "kC-X75Msc0s#6": {
       "issue": "landfill-environmental-assessment",
-      "category": "Environment & conservation"
+      "category": "Roads, water & infrastructure"
     },
     "kC-X75Msc0s#7": {
       "issue": "personal-property-tax-exemption",
@@ -252,7 +296,7 @@
     },
     "kC-X75Msc0s#8": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Town Meeting & elections"
     },
     "uogPth-Nky8#0": {
       "issue": "two-family-zoning-amendment",
@@ -291,7 +335,7 @@
       "category": "Roads, water & infrastructure"
     },
     "uogPth-Nky8#9": {
-      "issue": "town-budget-process-policy",
+      "issue": "municipal-financial-policies",
       "category": "Budget & taxes"
     },
     "uogPth-Nky8#10": {
@@ -300,8 +344,71 @@
     }
   },
   "votes": {
-    "7c2pm_BqUTk#v0": {
+    "0LLuaA1JXz0#v0": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v1": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v2": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v3": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v4": {
       "issue": null
+    },
+    "0LLuaA1JXz0#v5": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v6": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v7": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v8": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v9": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v10": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v11": {
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
+    "0LLuaA1JXz0#v12": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v13": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v14": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v15": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v16": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v17": {
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "0LLuaA1JXz0#v18": {
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "0LLuaA1JXz0#v19": {
+      "issue": null
+    },
+    "0LLuaA1JXz0#v20": {
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "7c2pm_BqUTk#v0": {
+      "issue": "recreation-capital-plan"
     },
     "AbhYdScbz7I#v0": {
       "issue": "fy28-operating-budget"
@@ -354,14 +461,50 @@
     "QrLqRNyQNCQ#v3": {
       "issue": "22-turnpike-road"
     },
-    "TwiZfHm90lU#v0": {
-      "issue": "glow-sobo-holiday-lighting"
-    },
-    "TwiZfHm90lU#v1": {
+    "uogPth-Nky8#v0": {
       "issue": null
     },
-    "ZFwCQUWlbtI#v0": {
+    "uogPth-Nky8#v1": {
+      "issue": "cemetery-expansion"
+    },
+    "uogPth-Nky8#v2": {
       "issue": null
+    },
+    "uogPth-Nky8#v3": {
+      "issue": "fy27-road-paving-contracts"
+    },
+    "uogPth-Nky8#v4": {
+      "issue": null
+    },
+    "uogPth-Nky8#v5": {
+      "issue": "104-boston-road-water-appeal"
+    },
+    "uogPth-Nky8#v6": {
+      "issue": "municipal-financial-policies"
+    },
+    "uogPth-Nky8#v7": {
+      "issue": "appointed-town-clerk"
+    },
+    "uogPth-Nky8#v8": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "uogPth-Nky8#v9": {
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "uogPth-Nky8#v10": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "uogPth-Nky8#v11": {
+      "issue": "stormwater-enterprise-fund"
+    },
+    "uogPth-Nky8#v12": {
+      "issue": "rescinding-unissued-borrowing"
+    },
+    "uogPth-Nky8#v13": {
+      "issue": "landfill-environmental-assessment"
+    },
+    "uogPth-Nky8#v14": {
+      "issue": "personal-property-tax-exemption"
     },
     "hf3p_49fGzM#v0": {
       "issue": "peninsula-trail-phase-2"
@@ -390,56 +533,44 @@
     "kC-X75Msc0s#v6": {
       "issue": "personal-property-tax-exemption"
     },
-    "uogPth-Nky8#v0": {
+    "TwiZfHm90lU#v0": {
+      "issue": "glow-sobo-holiday-lighting"
+    },
+    "TwiZfHm90lU#v1": {
+      "issue": "library-hotspot-lending-policy"
+    },
+    "ZFwCQUWlbtI#v0": {
       "issue": null
-    },
-    "uogPth-Nky8#v1": {
-      "issue": "cemetery-expansion"
-    },
-    "uogPth-Nky8#v2": {
-      "issue": null
-    },
-    "uogPth-Nky8#v3": {
-      "issue": "fy27-road-paving-contracts"
-    },
-    "uogPth-Nky8#v4": {
-      "issue": null
-    },
-    "uogPth-Nky8#v5": {
-      "issue": "104-boston-road-water-appeal"
-    },
-    "uogPth-Nky8#v6": {
-      "issue": null
-    },
-    "uogPth-Nky8#v7": {
-      "issue": "appointed-town-clerk"
-    },
-    "uogPth-Nky8#v8": {
-      "issue": "two-family-zoning-amendment"
-    },
-    "uogPth-Nky8#v9": {
-      "issue": "southborough-golf-club-irrigation"
-    },
-    "uogPth-Nky8#v10": {
-      "issue": "peninsula-trail-phase-2"
-    },
-    "uogPth-Nky8#v11": {
-      "issue": "stormwater-enterprise-fund"
-    },
-    "uogPth-Nky8#v12": {
-      "issue": "rescinding-unissued-borrowing"
-    },
-    "uogPth-Nky8#v13": {
-      "issue": "landfill-environmental-assessment"
-    },
-    "uogPth-Nky8#v14": {
-      "issue": "personal-property-tax-exemption"
     }
   },
   "upcoming": {
+    "0LLuaA1JXz0#u0": {
+      "date": "2026-09-29",
+      "issue": null
+    },
+    "0LLuaA1JXz0#u1": {
+      "date": "2026-10-02",
+      "issue": null
+    },
+    "0LLuaA1JXz0#u2": {
+      "date": "2026-10-15",
+      "issue": null
+    },
+    "0LLuaA1JXz0#u3": {
+      "date": "2026-10-21",
+      "issue": null
+    },
+    "0LLuaA1JXz0#u4": {
+      "date": "2026-11-06",
+      "issue": null
+    },
+    "0LLuaA1JXz0#u5": {
+      "date": "2026-12-02",
+      "issue": "regional-superintendent-evaluation-and-contract"
+    },
     "7c2pm_BqUTk#u0": {
       "date": "2026-09-19",
-      "issue": null
+      "issue": "recreation-capital-plan"
     },
     "7c2pm_BqUTk#u1": {
       "date": "2026-10-07",
@@ -471,7 +602,7 @@
     },
     "IW-Yyg8ixZc#u3": {
       "date": "2026-12-14",
-      "issue": null
+      "issue": "zoning-act-conformance-amendments"
     },
     "Nzknp6oL4v8#u0": {
       "date": "2026-10-08",
@@ -511,7 +642,7 @@
     },
     "Sg_jLEHga3k#u1": {
       "date": "2026-10-02",
-      "issue": "peninsula-trail-phase-2"
+      "issue": null
     },
     "Sg_jLEHga3k#u2": {
       "date": "2026-10-17",
@@ -539,7 +670,7 @@
     },
     "ZFwCQUWlbtI#u1": {
       "date": "2026-10-12",
-      "issue": "tricentennial-heritage-day-parade"
+      "issue": null
     },
     "ZFwCQUWlbtI#u2": {
       "date": "2026-10-14",
@@ -583,5 +714,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:18:00Z"
+  "generated_at": "2026-10-17T13:05:29Z"
 }

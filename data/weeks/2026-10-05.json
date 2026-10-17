@@ -1,85 +1,77 @@
 {
-  "headline": "Town boards finalized competing recommendations on zoning, trail bridge funding, and golf course irrigation ahead of Special Town Meeting.",
-  "synopsis": "Southborough boards spent the week solidifying their positions and reports ahead of the October 17 Special Town Meeting. The Advisory Committee issued negative recommendations on warrant articles concerning two-family zoning, a pedestrian bridge for Peninsula Trail, and golf course irrigation funding, citing cost and density concerns. However, both the Zoning Board of Appeals and Community Preservation Committee voted to advance those respective measures to voters as written. Meanwhile, regional school subcommittees reviewed capital requests and anticipated an 800,000 dollar net reduction in debt service for FY28.",
+  "headline": "Town boards finalized recommendations and warrant articles for Special Town Meeting, focusing on water connections, zoning, and open space funding requests.",
+  "synopsis": "Ahead of Special Town Meeting, the Advisory Committee completed its report, voting 6-0 to recommend approval of a $240,000 water connection near Parkerville Road while finalizing unfavorable positions on funding for a trail footbridge and golf course irrigation. The Community Preservation Committee voted 3-2 to send the Peninsula Trail bridge funding article to town meeting as written, and the Trails Committee decided against offering a floor amendment to cut project contingency. The Zoning Board of Appeals voted unanimously to advance a warrant article permitting two-family dwellings as drafted, despite concerns about lot requirements. Additionally, regional school subcommittees reviewed FY28 budget planning, highlighting an upcoming $800,000 net decrease in high school debt service.",
   "highlights": [
     {
-      "title": "Debate over Peninsula Trail bridge funding request",
-      "why": "The Community Preservation Committee voted 3-2 to advance the full 217,318 dollar funding request to Special Town Meeting, while the Advisory Committee voted against the appropriation due to the project's estimated 5,000 dollar per foot bridge cost.",
+      "title": "Peninsula Trail bridge funding moves to Town Meeting as drafted",
+      "why": "The Community Preservation Committee voted 3-2 to present the $217,318 CPA funding request as printed, and the Trails Committee dropped a potential floor amendment to cut project contingency.",
       "body": "Community Preservation Committee",
       "importance": "high",
       "video_id": "G9S9K_Mene8",
       "start_seconds": 30
     },
     {
-      "title": "Conflicting recommendations on two-family dwelling zoning",
-      "why": "The Zoning Board of Appeals voted unanimously to advance the two-family zoning warrant article as drafted, while the Advisory Committee finalized an unfavorable recommendation over concerns regarding lot sizes and speculative house-flipping.",
-      "body": "Zoning Board of Appeals",
-      "importance": "high",
-      "video_id": "2dGufO1TwE4",
-      "start_seconds": 0
-    },
-    {
-      "title": "Support for Parkerville Road water connection",
-      "why": "The Advisory Committee voted 6-0 to recommend Town Meeting approve 240,000 dollars from water retained earnings to extend a water main and connect two homes near the landfill impact area.",
+      "title": "Advisory Committee recommends Parkerville Road water main extension",
+      "why": "The committee voted 6-0 to recommend Town Meeting approve $240,000 from water retained earnings to connect two homes near the landfill to municipal water, with the town covering lines into the homes.",
       "body": "Advisory Committee",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 80
     },
     {
-      "title": "Flyers approved for golf course irrigation project",
-      "why": "The Golf Committee authorized up to 500 dollars to print informational flyers for its 1.087 million dollar irrigation request, despite the Advisory Committee reiterating that the course should remain self-funding.",
-      "body": "Golf Committee",
+      "title": "Zoning Board supports two-family dwelling warrant article",
+      "why": "Members voted unanimously to advance the proposed zoning amendment as written rather than make last-minute revisions concerning minimum lot sizes in business and residential districts.",
+      "body": "Zoning Board of Appeals",
       "importance": "high",
-      "video_id": "yXLL6UMLaag",
-      "start_seconds": 65
+      "video_id": "2dGufO1TwE4",
+      "start_seconds": 0
     },
     {
-      "title": "Regional school debt reduction and capital requests",
-      "why": "Joint regional school subcommittees reviewed 460,000 dollars in FY28 capital needs for Algonquin and noted an upcoming 800,000 dollar drop in regional debt service after 2004 renovation bonds expire.",
+      "title": "Advisory Committee report opposes CPA funding for golf and trail bridge",
+      "why": "In finalizing its warrant report, the committee maintained opposition to spending CPA funds on the $1 million golf course irrigation project and $428,550 trail bridge, citing excessive costs and golf self-sufficiency.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "6sb8sVUyin4",
+      "start_seconds": 3135
+    },
+    {
+      "title": "Regional high school debt drop and FY28 capital requests presented",
+      "why": "Subcommittees reviewed $460,000 in proposed FY28 capital work and noted that expiring 2004 renovation bonds will lower regional debt service by about $800,000 across both towns.",
       "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
       "importance": "medium",
       "video_id": "UNs9kGkhiEM",
       "start_seconds": 23
-    },
-    {
-      "title": "Lift of 2013 conservation enforcement order",
-      "why": "The Conservation Commission lifted an enforcement order on 6 Lynbrook Road after verifying that an unpermitted retaining wall on state aqueduct property had been removed.",
-      "body": "Conservation Commission",
-      "importance": "medium",
-      "video_id": "nrTrCqF8IJA",
-      "start_seconds": 758
     }
   ],
   "looking_ahead": [
     {
-      "what": "Heritage Day community events and committee outreach tables",
-      "when": "October 12, 2026",
-      "body": "Recreation Commission"
+      "what": "Tentative joint meeting regarding Neary School building options",
+      "when": "October 13, 2020",
+      "body": "School Building Committee, Select Board, and Advisory Committee"
     },
     {
-      "what": "Tentative joint meeting regarding Neary School building options and costs",
-      "when": "October 13, 2026",
-      "body": "Advisory Committee"
-    },
-    {
-      "what": "Massachusetts Cultural Council grant application deadline",
-      "when": "October 15, 2026",
+      "what": "Massachusetts Cultural Council annual grant application deadline",
+      "when": "October 15",
       "body": "Southborough Cultural Arts Council"
     },
     {
-      "what": "Special Town Meeting at Trottier Middle School",
+      "what": "Special Town Meeting",
       "when": "October 17, 2026",
-      "body": "Select Board"
+      "body": "Town Meeting"
     },
     {
-      "what": "Joint presentation on Master Plan 2030 process",
+      "what": "Joint meeting to discuss Master Plan 2030 kickoff and research",
       "when": "October 19, 2026",
-      "body": "Master Plan Implementation Committee"
+      "body": "Planning Board and Master Plan Implementation Committee"
+    },
+    {
+      "what": "Next regular meeting",
+      "when": "October 27, 2026 at 7:00 PM",
+      "body": "Community Preservation Committee"
     }
   ],
   "week": "2026-10-05",
-  "fingerprint": "e270bc218917f770",
+  "fingerprint": "33d2f4b171e324df",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -95,5 +87,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T19:11:46Z"
+  "generated_at": "2026-10-17T13:00:22Z"
 }

@@ -1,10 +1,10 @@
 {
   "week": "2026-10-12",
-  "fingerprint": "643d48c9e4d8eb12",
+  "fingerprint": "012460ad35dd8d99",
   "topics": {
     "BTBCj00PeQw#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Other"
     },
     "BTBCj00PeQw#1": {
       "issue": null,
@@ -15,12 +15,12 @@
       "category": "Environment & conservation"
     },
     "BTBCj00PeQw#3": {
-      "issue": null,
+      "issue": "fy28-operating-budget",
       "category": "Budget & taxes"
     },
     "QdzU1T7dKiU#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "QdzU1T7dKiU#1": {
       "issue": "neary-school-building-project",
@@ -36,7 +36,7 @@
     },
     "VZd0rZYyRHI#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "VZd0rZYyRHI#2": {
       "issue": "tricentennial-street-banners",
@@ -44,7 +44,7 @@
     },
     "VZd0rZYyRHI#3": {
       "issue": "tricentennial-summer-nights",
-      "category": "Library, arts & community"
+      "category": "Parks, trails & recreation"
     },
     "VZd0rZYyRHI#4": {
       "issue": null,
@@ -76,7 +76,7 @@
     },
     "XB-8MuC8GBo#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Parks, trails & recreation"
     },
     "XWT8M6ozUrU#0": {
       "issue": null,
@@ -84,7 +84,7 @@
     },
     "XWT8M6ozUrU#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Library, arts & community"
     },
     "XWT8M6ozUrU#2": {
       "issue": "tricentennial-street-banners",
@@ -96,7 +96,7 @@
     },
     "XWT8M6ozUrU#4": {
       "issue": "tricentennial-summer-nights",
-      "category": "Library, arts & community"
+      "category": "Parks, trails & recreation"
     },
     "XWT8M6ozUrU#5": {
       "issue": null,
@@ -125,6 +125,50 @@
     "XWT8M6ozUrU#11": {
       "issue": "tricentennial-heritage-day-parade",
       "category": "Library, arts & community"
+    },
+    "aKVWTSuQCMw#0": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#4": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#5": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#6": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#7": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "aKVWTSuQCMw#8": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "aKVWTSuQCMw#9": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "aKVWTSuQCMw#10": {
+      "issue": "sta-unit-a-contract",
+      "category": "Schools"
     }
   },
   "votes": {
@@ -136,12 +180,24 @@
     },
     "XB-8MuC8GBo#v1": {
       "issue": "southborough-golf-club-audubon-plan"
+    },
+    "aKVWTSuQCMw#v0": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "aKVWTSuQCMw#v1": {
+      "issue": "fy28-operating-budget"
+    },
+    "aKVWTSuQCMw#v2": {
+      "issue": null
+    },
+    "aKVWTSuQCMw#v3": {
+      "issue": "sta-unit-a-contract"
     }
   },
   "upcoming": {
     "BTBCj00PeQw#u0": {
       "date": "2026-10-20",
-      "issue": null
+      "issue": "fy28-operating-budget"
     },
     "BTBCj00PeQw#u1": {
       "date": "2026-11-17",
@@ -197,7 +253,7 @@
     },
     "XB-8MuC8GBo#u1": {
       "date": "2026-10-17",
-      "issue": null
+      "issue": "southborough-golf-club-irrigation"
     },
     "XB-8MuC8GBo#u2": {
       "date": "2026-11-10",
@@ -222,8 +278,24 @@
     "XWT8M6ozUrU#u4": {
       "date": "2026-12-03",
       "issue": null
+    },
+    "aKVWTSuQCMw#u0": {
+      "date": "2026-10-15",
+      "issue": "neary-school-building-project"
+    },
+    "aKVWTSuQCMw#u1": {
+      "date": null,
+      "issue": "regional-school-calendar-2027-2028"
+    },
+    "aKVWTSuQCMw#u2": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "aKVWTSuQCMw#u3": {
+      "date": null,
+      "issue": "fy28-operating-budget"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:43:21Z"
+  "generated_at": "2026-10-17T13:12:28Z"
 }

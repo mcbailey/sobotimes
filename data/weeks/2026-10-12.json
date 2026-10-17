@@ -1,92 +1,88 @@
 {
-  "headline": "Elementary school building planners favored a $38M Neary School renovation, while committees advanced golf irrigation funding and 2027 tricentennial plans.",
-  "synopsis": "Architects advised the Elementary School Building Committee that a $15 million base repair of Neary School would net only $5.8 million in direct construction after mandatory code upgrades, prompting the committee to advance a $38 million addition-renovation plan. The Golf Committee finalized its strategy for Special Town Meeting to pursue extended and additional Community Preservation Act funds for course irrigation, while voting to fund an Audubon environmental consultant. Southborough tricentennial organizers executed a contract for a 200-drone aerial light show to launch the town 300th anniversary on New Year's Day 2027. Additionally, the Board of Health granted a septic variance for a residential conversion on Breakneck Hill Road and noted that seasonal flu vaccine supplies are nearly depleted.",
+  "headline": "School officials pivoted toward a Neary addition-renovation plan as base repair scope narrowed, while the School Committee aligned teacher pay scales with Algonquin.",
+  "synopsis": "School planners and the School Committee evaluated capital options for Neary Elementary School, finding that a $15 million base repair yields only $5.8 million in direct construction after mandated fire suppression and accessibility upgrades. Meanwhile, administrators reported that the ongoing Neary roof replacement is nearly 90 percent complete and expected to return roughly $2 million in surplus funding to the town. The School Committee also voted to align teacher salary schedules with Algonquin Regional High School starting in July 2027. In other municipal business, the Golf Committee finalized its warrant strategy for course irrigation funding ahead of Special Town Meeting, and the Board of Health granted a septic setback variance for a residential conversion.",
   "highlights": [
     {
       "title": "Neary School renovation options and cost analysis",
-      "why": "Architects demonstrated that a $15 million upgrade nets only $5.8 million in direct construction due to code-mandated accessibility and sprinkler work, leading planners to favor a $38 million addition and renovation plan.",
+      "why": "Architects demonstrated that a $15 million repair option provides only $5.8 million for direct construction after required code upgrades, steering the committee toward an estimated $38 million addition and renovation plan.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "QdzU1T7dKiU",
       "start_seconds": 165
     },
     {
-      "title": "Golf course irrigation funding warrant article",
-      "why": "The committee organized its advocacy for Special Town Meeting to extend $550,000 in expiring Community Preservation Act funds and seek roughly $350,000 in new CPA funding plus $100,000 from revolving funds.",
+      "title": "Neary roof surplus and school building updates",
+      "why": "The district reported that the Neary roof project is nearly finished and projected to return nearly $2 million of its $4.5 million appropriation back to the town.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "aKVWTSuQCMw",
+      "start_seconds": 3498
+    },
+    {
+      "title": "Teacher contract amended to align salaries with Algonquin",
+      "why": "The School Committee voted 5-0 to amend the Unit A collective bargaining agreement, adjusting retirement incentives and matching Southborough teacher pay scales with Algonquin starting July 1, 2027.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "aKVWTSuQCMw",
+      "start_seconds": 6240
+    },
+    {
+      "title": "Town Meeting preparation for golf course irrigation article",
+      "why": "The Golf Committee agreed to advocate for its warrant article as written, seeking to extend $550,000 in existing CPA funds alongside roughly $350,000 in new CPA funding and $100,000 from revolving funds.",
       "body": "Golf Committee",
       "importance": "high",
       "video_id": "XB-8MuC8GBo",
       "start_seconds": 574
     },
     {
-      "title": "Tricentennial drone show contract and kickoff plans",
-      "why": "The town executed a contract with Firefly for a 200-drone light show on January 1, 2027, featuring custom formations including artwork designed by local middle school students.",
+      "title": "Drone light show contract executed for tricentennial kickoff",
+      "why": "Organizers finalized an agreement for a 200-drone aerial light show on January 1, 2027, which will feature custom visual formations designed by local middle school students.",
       "body": "Tricentennial Committee",
-      "importance": "high",
+      "importance": "medium",
       "video_id": "VZd0rZYyRHI",
       "start_seconds": 5038
     },
     {
-      "title": "Septic variance for 66 Breakneck Hill Road",
-      "why": "The Board of Health unanimously approved an 85-foot wetland setback variance to allow converting a commercial building into a four-bedroom single-family home using advanced nitrogen-reducing treatment.",
+      "title": "Septic variance approved for 66 Breakneck Hill Road",
+      "why": "The Board of Health unanimously approved an 85-foot setback variance for an advanced nitrogen-reducing septic system to support converting a commercial property into a four-bedroom single-family home.",
       "body": "Board of Health",
       "importance": "medium",
       "video_id": "BTBCj00PeQw",
       "start_seconds": 146
-    },
-    {
-      "title": "Audubon certification dues and consultant funding",
-      "why": "The committee voted to pay $500 in membership dues and authorized up to $4,500 from its revolving account to hire an environmental consultant to complete the golf course certification process.",
-      "body": "Golf Committee",
-      "importance": "medium",
-      "video_id": "XB-8MuC8GBo",
-      "start_seconds": 15
-    },
-    {
-      "title": "Town flu vaccine supplies nearly depleted",
-      "why": "Health officials reported that town-run influenza vaccination clinics are concluding with remaining supplies limited to two schools, two daycares, and emergency personnel as seasonal flu cases emerge.",
-      "body": "Board of Health",
-      "importance": "medium",
-      "video_id": "BTBCj00PeQw",
-      "start_seconds": 78
     }
   ],
   "looking_ahead": [
     {
-      "what": "Special Town Meeting, including vote on golf course irrigation funding",
+      "what": "Special Town Meeting, including golf course irrigation warrant article",
       "when": "October 17, 2026 at 10:00 AM",
-      "body": "Golf Committee"
+      "body": "Town Meeting"
     },
     {
-      "what": "Special Board of Health meeting to review and approve the operating budget",
+      "what": "Special meeting to review and approve the department operating budget",
       "when": "October 20, 2026 at 10:00 AM",
       "body": "Board of Health"
     },
     {
-      "what": "Special meeting to formally vote on advancing schematic design for Neary School Option 3",
+      "what": "Special meeting to vote on advancing schematic design for Neary School Option 3",
       "when": "October 21, 2026",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Elementary School Building Committee meeting to review refined schematic designs and renderings",
+      "what": "Meeting to review Neary schematic design drawings, floor plans, and renderings",
       "when": "November 12, 2026",
-      "body": "Elementary School Building Committee"
-    },
-    {
-      "what": "Joint Neary School project presentation with Select Board, Advisory Committee, and Capital Planning Committee",
-      "when": "November 17, 2026",
       "body": "Elementary School Building Committee"
     }
   ],
   "week": "2026-10-12",
-  "fingerprint": "cbd080df621845fb",
+  "fingerprint": "6ed5849112c80633",
   "video_ids": [
     "BTBCj00PeQw",
     "QdzU1T7dKiU",
     "VZd0rZYyRHI",
     "XB-8MuC8GBo",
-    "XWT8M6ozUrU"
+    "XWT8M6ozUrU",
+    "aKVWTSuQCMw"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:17:33Z"
+  "generated_at": "2026-10-17T12:59:55Z"
 }

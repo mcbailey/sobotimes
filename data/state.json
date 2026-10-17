@@ -48,9 +48,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-08",
       "week": "2026-10-05",
-      "processed_at": "2026-10-14T12:36:26Z",
+      "processed_at": "2026-10-17T12:59:28Z",
       "last_error": null,
-      "prompt_version": "2026-10-13b"
+      "prompt_version": "2026-10-16"
     },
     "nrTrCqF8IJA": {
       "id": "nrTrCqF8IJA",
@@ -3432,13 +3432,16 @@
       "published_at": "2026-10-16T16:39:32Z",
       "duration_s": 6292,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs4MKkThBjpiU4LnmlP37Bg",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:37Z",
       "meeting_date": "2026-10-14",
-      "week": "2026-10-12"
+      "week": "2026-10-12",
+      "processed_at": "2026-10-17T12:53:44Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "FedQgvRmM1g": {
       "id": "FedQgvRmM1g",
@@ -3533,13 +3536,16 @@
       "published_at": "2026-09-17T16:32:19Z",
       "duration_s": 16743,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-10-16T19:05:44Z",
       "meeting_date": "2026-09-16",
-      "week": "2026-09-14"
+      "week": "2026-09-14",
+      "processed_at": "2026-10-17T12:59:01Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "qR_TyEvUBFA": {
       "id": "qR_TyEvUBFA",
@@ -3670,12 +3676,20 @@
       "output_tokens": 231653,
       "thought_tokens": 433632,
       "tool_use_tokens": 0
+    },
+    "2026-10-17": {
+      "video_minutes": 415,
+      "calls": 51,
+      "input_tokens": 1295469,
+      "output_tokens": 51486,
+      "thought_tokens": 99662,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-16T19:05:38Z",
-    "discovered": 207,
-    "summarized": 3,
+    "at": "2026-10-17T12:51:26Z",
+    "discovered": 27,
+    "summarized": 2,
     "refreshed": 1,
     "errors": 0
   }
