@@ -3679,18 +3679,18 @@
     },
     "2026-10-17": {
       "video_minutes": 415,
-      "calls": 51,
-      "input_tokens": 1295469,
-      "output_tokens": 51486,
-      "thought_tokens": 99662,
+      "calls": 91,
+      "input_tokens": 1360149,
+      "output_tokens": 60361,
+      "thought_tokens": 155235,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-17T12:51:26Z",
+    "at": "2026-10-17T14:26:42Z",
     "discovered": 27,
-    "summarized": 2,
-    "refreshed": 1,
+    "summarized": 0,
+    "refreshed": 0,
     "errors": 0
   }
 }
