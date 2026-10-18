@@ -2375,10 +2375,9 @@
       "discovered_at": "2026-10-15T18:45:22Z",
       "meeting_date": "2026-06-04",
       "week": "2026-06-01",
-      "processed_at": "2026-10-15T23:11:32Z",
-      "prompt_version": "2026-10-13b",
-      "last_error": null,
-      "redo": true
+      "processed_at": "2026-10-18T14:56:53Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "Od1pRH9mq6g": {
       "id": "Od1pRH9mq6g",
@@ -2755,11 +2754,11 @@
     },
     "3Z_ZpSIMv_0": {
       "id": "3Z_ZpSIMv_0",
-      "title": "Southborough Annual Town Meeting 4/11/2026",
+      "title": "Southborough Special Town Meeting 10/17/2026",
       "description": "",
       "published_at": "2026-04-11T18:35:05Z",
-      "duration_s": null,
-      "live": "upcoming",
+      "duration_s": 11646,
+      "live": "none",
       "status": "queued",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
@@ -3590,13 +3589,16 @@
       "published_at": "2026-05-21T14:52:44Z",
       "duration_s": 11175,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-10-16T19:05:44Z",
       "meeting_date": "2026-05-20",
-      "week": "2026-05-18"
+      "week": "2026-05-18",
+      "processed_at": "2026-10-18T14:53:38Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "Nqf5dmDizoQ": {
       "id": "Nqf5dmDizoQ",
@@ -3605,13 +3607,16 @@
       "published_at": "2026-04-16T12:41:59Z",
       "duration_s": 6992,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-10-16T19:05:44Z",
       "meeting_date": "2026-04-15",
-      "week": "2026-04-13"
+      "week": "2026-04-13",
+      "processed_at": "2026-10-18T14:55:02Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "bRvbGFNHSBA": {
       "id": "bRvbGFNHSBA",
@@ -3620,13 +3625,16 @@
       "published_at": "2026-03-19T12:51:32Z",
       "duration_s": 6066,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-10-16T19:05:44Z",
       "meeting_date": "2026-03-18",
-      "week": "2026-03-16"
+      "week": "2026-03-16",
+      "processed_at": "2026-10-18T14:56:26Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "_YLjrgHgfVc": {
       "id": "_YLjrgHgfVc",
@@ -3684,13 +3692,21 @@
       "output_tokens": 60361,
       "thought_tokens": 155235,
       "tool_use_tokens": 0
+    },
+    "2026-10-18": {
+      "video_minutes": 413,
+      "calls": 8,
+      "input_tokens": 1012283,
+      "output_tokens": 15748,
+      "thought_tokens": 12498,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-17T14:26:42Z",
-    "discovered": 27,
-    "summarized": 0,
-    "refreshed": 0,
-    "errors": 0
+    "at": "2026-10-18T14:51:19Z",
+    "discovered": 28,
+    "summarized": 3,
+    "refreshed": 1,
+    "errors": 17
   }
 }

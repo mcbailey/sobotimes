@@ -9,30 +9,30 @@
     "is_public_meeting": true,
     "body": "Southborough School Committee",
     "meeting_date": "2026-06-04",
-    "headline": "The Southborough School Committee unanimously voted to appoint Daniel Mazur as the new director of student support services for Southborough K-8.",
-    "summary": "In a brief special meeting, the Southborough School Committee voted unanimously to appoint Daniel Mazur as the district director of student support services for grades K-8 following a recommendation from the superintendent. Mazur previously served as assistant director of special education in the Acton-Boxborough Regional School District and earlier worked at Hopkinton Middle School and the New England Center for Children. The superintendent will now negotiate an employment contract, targeting a start date around July 1, 2024.",
+    "headline": "The Southborough School Committee unanimously appointed Daniel Mazur as the district's new Director of Student Support Services.",
+    "summary": "In a brief special meeting, the Southborough School Committee voted unanimously to accept the superintendent's recommendation and appoint Daniel Mazur as Director of Student Support Services for Southborough K-8. Mazur currently serves as assistant director of special education in the Acton-Boxborough Regional School District. District leadership will now negotiate an employment contract and coordinate a transition schedule, targeting an official start date around July 1.",
     "topics": [
       {
-        "title": "Appointment of director of student support services",
+        "title": "Appointment of Director of Student Support Services",
         "category": "Schools",
         "importance": "high",
-        "summary": "Superintendent Gregory Martineau recommended the appointment of Daniel Mazur as the Southborough K-8 director of student support services. The committee voted unanimously in favor of the appointment following a multi-district search process.",
+        "summary": "Superintendent Gregory Martineau recommended Daniel Mazur to fill the role of Director of Student Support Services for the Southborough K-8 schools following an extensive search and interview process. Committee members praised Mazur's qualifications and interview performance before voting unanimously to confirm the appointment. The superintendent and Mazur will finalize contract details and work with the Acton-Boxborough administration on transition arrangements.",
         "key_details": [
           "Daniel Mazur currently serves as assistant director of special education for the Acton-Boxborough Regional School District.",
-          "Mazur previously served as a special education team chair at Hopkinton Middle School and began his career at the New England Center for Children in Southborough.",
-          "School committee members met Mazur for questions during a screening session earlier in the week.",
-          "The superintendent and Mazur will negotiate a contract with a targeted start date around July 1, 2024, coordinating transition timing with Acton-Boxborough.",
-          "Southborough K-8 Extended School Year summer programming begins the Monday after the Fourth of July."
+          "Mazur previously served as special education team chair at Hopkinton Middle School and started his special education career at the New England Center for Children in Southborough.",
+          "School committee members met with Mazur earlier in the week during a Q&A session at the Mary E. Finn School.",
+          "District officials are targeting a July 1 start date, with flexibility depending on Acton-Boxborough transition needs.",
+          "Southborough's Extended School Year (ESY) program begins on July 6."
         ],
-        "outcome": "Appointment approved 5-0.",
-        "why_it_matters": "The director of student support services oversees special education and related student support programming for all Southborough public elementary and middle school students.",
-        "start_seconds": 43,
+        "outcome": "Approved unanimously (5-0).",
+        "why_it_matters": "The Director of Student Support Services oversees special education programming and related student services across all Southborough K-8 schools.",
+        "start_seconds": 57,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Appoint Daniel Mazur to the position of director of student support services for Southborough K-8",
+        "motion": "Appoint Daniel Mazur to the position of Director of Student Support Services for Southborough K-8",
         "result": "passed",
         "tally": "5-0",
         "start_seconds": 231
@@ -41,28 +41,24 @@
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Superintendent contract negotiations with Daniel Mazur",
-        "when": "as soon as possible"
+        "what": "Contract negotiation and transition coordination with Acton-Boxborough administration for Daniel Mazur",
+        "when": "June 2026"
       },
       {
-        "what": "Target start date for the director of student support services",
-        "when": "July 1, 2024"
-      },
-      {
-        "what": "Extended School Year (ESY) program start",
-        "when": "July 8, 2024"
+        "what": "Southborough Extended School Year (ESY) program begins",
+        "when": "July 6, 2026"
       }
     ],
-    "caveats": "The video title lists the year as 2026, but the on-screen timestamp and committee remarks confirm the meeting took place on June 4, 2024."
+    "caveats": null
   },
   "model": "gemini-3.8-flash",
   "processing": "static",
   "fallback_reason": null,
-  "prompt_version": "2026-10-13b",
-  "processed_at": "2026-10-15T23:11:32Z",
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-18T14:56:53Z",
   "usage": {
-    "total_tokens": 22758,
-    "total_input_tokens": 20807,
+    "total_tokens": 22497,
+    "total_input_tokens": 21097,
     "input_tokens_by_modality": [
       {
         "modality": "video",
@@ -70,12 +66,12 @@
       },
       {
         "modality": "text",
-        "tokens": 693
+        "tokens": 983
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 734,
+    "total_output_tokens": 678,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 1217
+    "total_thought_tokens": 722
   }
 }

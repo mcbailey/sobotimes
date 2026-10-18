@@ -1,63 +1,63 @@
 {
-  "headline": "The Select Board approved $12.5 million in regional dispatch borrowing, while town boards backed a joint Route 9 corridor study with Westborough.",
-  "synopsis": "The Select Board voted 4-1 to authorize up to $12.5 million in bridge borrowing for the MetroWest Regional Emergency Communication Center and reorganized leadership, electing Kathy Cook as chair. Southborough boards, including the Planning Board and Wastewater Study Committee, coordinated support for a joint state grant application with Westborough to study the Route 9 and Interstate 495 corridor. The Community Preservation Committee reviewed a scaled-back splash pad design for Fayville Memorial Park and discussed alternative routes for Peninsula Trail Phase 2 due to escalating construction bids. In other business, the Scholarship Advisory Committee awarded $6,000 to six local students, and the Select Board appointed two student police officers.",
+  "headline": "The Select Board authorized $12.5 million in regional dispatch borrowing, while multiple boards backed a joint Route 9 corridor study with Westborough.",
+  "synopsis": "The Select Board voted 4-1 to approve up to $12.5 million in temporary bridge borrowing for the MetroWest Regional Emergency Communication Center and elected Kathy Cook as board chair. Multiple town boards, including the Select Board, Planning Board, and Wastewater Study Committee, endorsed a joint state grant application with Westborough for a $150,000 Route 9 corridor study. The Regional School Committee initially voted down its food service contract with Whitsons Culinary Group before reconsidering and approving a one-year renewal. Meanwhile, the Community Preservation Committee reviewed revised plans for Fayville Memorial Park and addressed a potential $350,000 funding shortfall for Phase 2 of the Peninsula Trail.",
   "highlights": [
     {
-      "title": "Regional emergency dispatch borrowing authorized",
-      "why": "The Select Board voted 4-1 to authorize up to $12.5 million in short-term borrowing to maintain construction cash flow for the regional dispatch center while awaiting state grant disbursements.",
+      "title": "Regional emergency dispatch borrowing authorization",
+      "why": "The Select Board approved up to $12.5 million in short-term borrowing to provide cash flow for construction of the regional emergency communications facility between state grant disbursements.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "deu8b2Ix5zU",
       "start_seconds": 2125
     },
     {
-      "title": "Support for joint Route 9 corridor study with Westborough",
-      "why": "The Planning Board voted 4-0 to endorse a state grant application for a $150,000 planning study of the Route 9 and Interstate 495 corridor, adjusting language to protect neighborhood buffers and focus on commercial tax growth.",
+      "title": "Joint Route 9 and I-495 corridor study support",
+      "why": "The Planning Board voted 4-0 to endorse a joint One Stop for Growth grant application with Westborough to fund a $150,000 planning study focused on zoning, infrastructure, and residential neighborhood buffers.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "X6ABrfEh-fQ",
       "start_seconds": 1
     },
     {
-      "title": "Fayville Memorial Park redesign and parking plans",
-      "why": "Recreation officials reported public feedback that led to shrinking the proposed splash pad footprint from 8,000 to 2,000 square feet to preserve sledding space, while a parking study is underway ahead of a June 30 funding deadline.",
+      "title": "Food service contract renewal approved on reconsideration",
+      "why": "After concerns over food quality and staff morale led to an initial 3-4-2 failure, the committee voted 8-1 on reconsideration to approve a one-year contract extension with Whitsons Culinary Group to ensure cafeteria operations continue in the fall.",
+      "body": "Northborough-Southborough Regional School Committee",
+      "importance": "high",
+      "video_id": "DeZN40QaqS8",
+      "start_seconds": 6117
+    },
+    {
+      "title": "Fayville Memorial Park layout and parking revisions",
+      "why": "Recreation officials presented community feedback that reduced the proposed splash pad to 2,000 square feet and moved it near the playground to protect sledding space, while an upcoming parking study will inform a revised grant application.",
       "body": "Community Preservation Committee",
       "importance": "high",
       "video_id": "C_4TOzgcpyo",
       "start_seconds": 313
     },
     {
-      "title": "Peninsula Trail Phase 2 cost gap and alternatives",
-      "why": "With projected costs for a bridge and boardwalk crossing $600,000 against $211,000 in hand, the Trails Committee began exploring an upland workaround route to bypass the wetland boardwalk.",
+      "title": "Peninsula Trail Phase 2 budget gap",
+      "why": "Estimated costs for the Phase 2 bridge and boardwalk have risen to over $600,000 against $211,000 in existing funds, leading the Trails Committee to consider an upland trail route around wetlands to avoid boardwalk expenses.",
       "body": "Community Preservation Committee",
-      "importance": "medium",
+      "importance": "high",
       "video_id": "C_4TOzgcpyo",
       "start_seconds": 2670
-    },
-    {
-      "title": "Select Board leadership reorganization",
-      "why": "Following former chair Andrew Dennington stepping down from the leadership role, the board voted unanimously to elect Kathy Cook as chair and Michael Baff as vice chair.",
-      "body": "Select Board",
-      "importance": "medium",
-      "video_id": "deu8b2Ix5zU",
-      "start_seconds": 4143
     }
   ],
   "looking_ahead": [
     {
-      "what": "Continued public hearing on the Parkerville Road utility pole petition",
+      "what": "Continued public hearing on Parkerville Road utility pole petition",
       "when": "June 2, 2026, at 6:30 PM",
       "body": "Select Board"
     },
     {
-      "what": "Discussion regarding grant support and potential corridor study funding",
-      "when": "June 2, 2026",
-      "body": "Select Board"
+      "what": "Application deadline for state One Stop for Growth grant",
+      "when": "June 3, 2026",
+      "body": "Planning Board"
     },
     {
-      "what": "Submission deadline for the state One Stop for Growth grant application",
-      "when": "June 3, 2026",
-      "body": null
+      "what": "Algonquin Regional High School Graduation",
+      "when": "June 6, 2026",
+      "body": "Northborough-Southborough Regional School Committee"
     },
     {
       "what": "Select Board annual goal-setting session",
@@ -65,7 +65,7 @@
       "body": "Select Board"
     },
     {
-      "what": "Annual Community Preservation Act Public Forum and regular meeting",
+      "what": "Annual CPA Public Forum and regular meeting",
       "when": "June 11, 2026, at 7:00 PM",
       "body": "Community Preservation Committee"
     },
@@ -76,14 +76,15 @@
     }
   ],
   "week": "2026-05-18",
-  "fingerprint": "a1fae6dc906a1b8c",
+  "fingerprint": "10d0fbb6ae909f48",
   "video_ids": [
     "C_4TOzgcpyo",
+    "DeZN40QaqS8",
     "X6ABrfEh-fQ",
     "YmD0athXTZs",
     "aE6XZkN9G9s",
     "deu8b2Ix5zU"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:11:04Z"
+  "generated_at": "2026-10-18T14:57:47Z"
 }
