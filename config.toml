@@ -69,8 +69,9 @@ run_time_limit_minutes = 120
 max_week_summaries_per_run = 8
 max_link_weeks_per_run = 12
 max_month_summaries_per_run = 4
-# "Where it stands" for each issue whose record changed.
-max_issue_statuses_per_run = 40
+# "Where it stands" for each issue whose record changed. Kept low for the
+# free tier's daily request limit; the rest wait for the next run.
+max_issue_statuses_per_run = 15
 
 [gemini]
 model = "gemini-3.8-flash"            # summarizes each meeting video
