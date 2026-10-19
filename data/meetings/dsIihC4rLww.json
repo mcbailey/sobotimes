@@ -1,0 +1,283 @@
+{
+  "video": {
+    "id": "dsIihC4rLww",
+    "title": "Planning Board 2/23/26",
+    "published_at": "2026-02-24T22:09:30Z",
+    "duration_s": 8250
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-02-23",
+    "headline": "The Planning Board voted to withdraw a proposed 55-plus housing bylaw from the Annual Town Meeting warrant.",
+    "summary": "At its February 23 meeting, the Southborough Planning Board voted to withdraw a proposed 55-plus housing zoning bylaw from the Annual Town Meeting warrant following resident feedback, opting for further study. The board debated extensive proposed zoning updates for the Industrial Park district, including regulations for data centers and battery energy storage systems, and continued hearings on several other zoning articles and a site plan application for 352 Turnpike Road. Chair Mimi Luttrell also announced she will not seek re-election in May after more than 20 years of town service.",
+    "topics": [
+      {
+        "title": "Accessory dwelling unit bylaw update",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board reviewed proposed revisions to the accessory dwelling unit (ADU) bylaw with Zoning Board of Appeals members. The draft increases the by-right size threshold to 1,200 square feet, removes special permit requirements, and clarifies that only one ADU is allowed per lot.",
+        "key_details": [
+          "Increases by-right gross floor area limit to 1,200 square feet, not to exceed the primary dwelling unit.",
+          "Clarifies that only one ADU is permitted per lot by right.",
+          "ZBA reviewed town assessor data indicating 34 permitted ADUs currently exist in Southborough.",
+          "The attorney general approved the prior ADU amendment from fall Town Meeting with mobile homes struck from the prohibition text.",
+          "A formal public hearing on the revised bylaw opens March 9."
+        ],
+        "outcome": "Public hearing scheduled to open on March 9.",
+        "why_it_matters": null,
+        "start_seconds": 22,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial Committee signage bylaw",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "The board reviewed proposed zoning code language submitted by the Tricentennial Committee to permit temporary banner signage for the town's upcoming 300th anniversary events. The board discussed numbering and formatting the section ahead of the public hearing.",
+        "key_details": [
+          "Article adds section 174-11(C)(16) to allow tricentennial event banners and signs.",
+          "Includes a sunset provision once celebrations conclude.",
+          "Town counsel reviewed earlier drafts to confirm standard warrant language."
+        ],
+        "outcome": "Public hearing scheduled to open on March 9.",
+        "why_it_matters": null,
+        "start_seconds": 1066,
+        "end_seconds": null
+      },
+      {
+        "title": "352 Turnpike Road major site plan approval",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board continued its hearing on a major site plan application for Disability Assistance and Vocational Education Inc. at 352 Turnpike Road. The applicant presented a revised exterior lighting plan and agreed to condition third-party fire suppression review at the building permit phase.",
+        "key_details": [
+          "Applicant seeks change-of-use approval for an educational and residential facility under Dover Amendment protections.",
+          "Town counsel confirmed the residential component qualifies under Dover protections.",
+          "Applicant will submit an updated plan identifying which specific exterior lights will remain on overnight for residential safety.",
+          "Board of Health confirmed the existing septic capacity is sufficient for the proposed use."
+        ],
+        "outcome": "The board voted unanimously to extend the decision deadline to March 27 and continued the public hearing to March 9 at 6:45 PM.",
+        "why_it_matters": null,
+        "start_seconds": 1397,
+        "end_seconds": null
+      },
+      {
+        "title": "Industrial Park District expanded uses bylaw",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board held a public hearing on a major overhaul of the Industrial Park zoning district regulations. The proposal updates allowed uses, creates performance standards for noise and emissions, and establishes regulations for battery energy storage systems and data centers.",
+        "key_details": [
+          "Adds performance standards for noise (60 dB day / 50 dB night), vibration, odor, and air emissions.",
+          "Expands by-right uses up to 50,000 or 75,000 square feet, including schools, child care, recreation, clinics, auto sales and repair, and indoor storage.",
+          "Board debated whether to set the by-right building size threshold at 50,000 square feet or 75,000 square feet.",
+          "Considers establishing a 1,000-foot setback from residential zones for data centers and battery energy storage facilities.",
+          "Discussed restricting contractor yards and excluding high-level biosafety laboratories (BSL-3 and BSL-4)."
+        ],
+        "outcome": "Hearing continued to March 9 at 7:00 PM.",
+        "why_it_matters": "The changes govern future development along the town's industrial corridors and determine what types of commercial facilities, data centers, and clean energy storage can build near residential neighborhoods.",
+        "start_seconds": 2488,
+        "end_seconds": null
+      },
+      {
+        "title": "55-plus housing bylaw withdrawal",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board voted unanimously to withdraw a proposed 55-plus housing zoning bylaw from the Annual Town Meeting warrant and close the hearing. Board members and housing advocates agreed that substantial resident feedback warranted deeper study before presenting changes to voters.",
+        "key_details": [
+          "The proposal sought to update regulations and density caps for 55-plus developments.",
+          "Members noted community concerns about density, townwide housing diversity, and whether inclusionary zoning would be a better approach.",
+          "Board decided to pause the initiative for further study and potential consideration at a future town meeting."
+        ],
+        "outcome": "The board voted 5-0 to withdraw the article from the warrant and 5-0 to close the public hearing.",
+        "why_it_matters": "Halts a planned vote at Annual Town Meeting that would have modified density and development standards for senior housing in town.",
+        "start_seconds": 3779,
+        "end_seconds": null
+      },
+      {
+        "title": "MBTA Communities overlay district dimensional table correction",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board held a hearing to correct typographical transcription errors in the dimensional table of the MBTA Communities Overlay District bylaw adopted at a prior Town Meeting.",
+        "key_details": [
+          "Replaces the word 'or' with a comma in height limits across three columns in section D.",
+          "Removes an erroneous percentage symbol after '0.30' floor area ratio in section E.",
+          "The board hopes to place the article on the Town Meeting consent agenda as a noncontroversial correction."
+        ],
+        "outcome": "Hearing continued to March 9 at 7:05 PM.",
+        "why_it_matters": null,
+        "start_seconds": 4361,
+        "end_seconds": null
+      },
+      {
+        "title": "Zoning code cleanup: SHOPC to Affordable Housing Trust",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed an article updating multiple sections of the town zoning code to replace references to the defunct Southborough Housing Opportunity Partnership Committee with the Southborough Affordable Housing Trust.",
+        "key_details": [
+          "Updates chapter 174 throughout the zoning code to reflect the current housing trust governance structure.",
+          "Town counsel confirmed that either 'Affordable Housing Trust' or 'Southborough Affordable Housing Trust' may be used."
+        ],
+        "outcome": "Hearing continued to March 9 at 7:10 PM.",
+        "why_it_matters": null,
+        "start_seconds": 4612,
+        "end_seconds": null
+      },
+      {
+        "title": "Subdivision rules and regulations update",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "A board member reported on scheduling an in-person working session with the town planner and public works director to review and advance proposed updates to the subdivision rules and regulations.",
+        "key_details": [
+          "Staff and board members will meet to review draft revisions."
+        ],
+        "outcome": "Discussion only; meeting to be scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 5050,
+        "end_seconds": null
+      },
+      {
+        "title": "Open space homeowner notification pilot",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "A board member presented a plan to pilot an educational outreach program informing subdivision homeowners about deeded open space protections on or near their properties, using GIS parcel maps.",
+        "key_details": [
+          "Nathan Stone Road subdivision (nine lots) selected as the pilot area.",
+          "Property owners will receive a notification letter, parcel map, and copies of open space deed restrictions.",
+          "Town planner confirmed a $7,800 contract with Lucas Environmental was executed using remaining 2012 Town Meeting funds to continue deed research database updates."
+        ],
+        "outcome": "Staff will prepare the mailings and track responses in a spreadsheet.",
+        "why_it_matters": null,
+        "start_seconds": 5131,
+        "end_seconds": null
+      },
+      {
+        "title": "Town planner report and chair retirement announcement",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The town planner provided operational updates, and board member Lisa Braccio volunteered to represent the board at a departmental pre-filing meeting for the proposed Costco project. Chair Mimi Luttrell announced she will not run for re-election in May 2026 after over two decades on town boards.",
+        "key_details": [
+          "Attorney general approved prior warrant articles for ADUs and Highway Major Retail.",
+          "Monthly compliance report received for 40-42 Central Street.",
+          "Atlantic Management requested a pre-filing department head meeting for the Costco site plan.",
+          "Chair Mimi Luttrell announced her departure at the end of her current term in May 2026."
+        ],
+        "outcome": "Informational only; board member volunteered for the project pre-filing meeting.",
+        "why_it_matters": null,
+        "start_seconds": 5322,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board noted no minutes were ready for approval and adjourned the meeting.",
+        "key_details": [
+          "Meeting adjourned at approximately 8:47 PM."
+        ],
+        "outcome": "Meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 8184,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Extend the decision due date for 352 Turnpike Road major site plan approval to March 27, 2026.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2444
+      },
+      {
+        "motion": "Continue the public hearing for 352 Turnpike Road major site plan approval to March 9, 2026, at 6:45 PM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2470
+      },
+      {
+        "motion": "Continue the public hearing for the Industrial Park District Expanded Uses bylaw to March 9, 2026, at 7:00 PM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6169
+      },
+      {
+        "motion": "Withdraw the 55-plus housing bylaw article from the April 2026 Annual Town Meeting warrant.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6724
+      },
+      {
+        "motion": "Close the public hearing for the 55-plus housing bylaw.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 6745
+      },
+      {
+        "motion": "Continue the public hearing for the MBTA Communities Overlay District bylaw dimensional table correction to March 9, 2026, at 7:05 PM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 7000
+      },
+      {
+        "motion": "Continue the public hearing for the zoning amendment to replace SHOPC with the Southborough Affordable Housing Trust to March 9, 2026, at 7:10 PM.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 7437
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Southwood Drive expressed concern about allowing artificial intelligence data centers in town, citing extreme water and power demands, potential increases in utility costs for residents, noise impacts, and reliance on special permits rather than full town votes.",
+        "start_seconds": 4765
+      },
+      {
+        "summary": "A resident of Woodland Road commented on the data center zoning language, noting local zoning cannot control utility rates set by the Department of Public Utilities, urged regulating infrastructure impacts such as substations and transmission lines, and cautioned about noise from cooling systems in battery storage and data facilities.",
+        "start_seconds": 5272
+      },
+      {
+        "summary": "A resident questioned whether conservation uses remain permitted under the revised Industrial Park bylaw and asked whether language should be added to explicitly prohibit detention centers, prisons, or human warehousing in industrial zones.",
+        "start_seconds": 5728
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Special Town Meeting",
+        "when": "March 2, 2026"
+      },
+      {
+        "what": "Continued public hearings on 352 Turnpike Road site plan, Industrial Park bylaw, MBTA table correction, SHOPC replacement, and new hearings on ADU and Tricentennial signage bylaws",
+        "when": "March 9, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026"
+      },
+      {
+        "what": "Annual Town Election",
+        "when": "May 12, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T14:28:45Z",
+  "usage": {
+    "total_tokens": 311217,
+    "total_input_tokens": 306234,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 305251
+      },
+      {
+        "modality": "text",
+        "tokens": 983
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3525,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1458
+  }
+}

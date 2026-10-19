@@ -300,27 +300,27 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "status": "The Planning Board is currently reviewing major site plan and special permit applications for a proposed 167,000-square-foot Costco retail warehouse and 30-position fueling station at 21 Coslin Drive. The Zoning Board of Appeals granted variances for retaining walls and lighting heights in July, but site plan approval, peer review, and state environmental review remain pending. Primary concerns center on traffic congestion along Route 9, cut-through traffic on Flagg Road, and truck navigation at the Route 85 interchange. The Planning Board's public hearing continues tonight, October 19.",
+      "status": "The proposed 167,000-square-foot Costco retail warehouse and 30-position fueling station is currently under site plan and special permit review by the Planning Board, after the Zoning Board of Appeals granted height variances for retaining walls and light poles in July. Key unresolved issues center on traffic mitigation along Route 9, state environmental review under MEPA, and potential cut-through traffic on residential roads. Residents have urged more thorough analysis of regional traffic impacts, truck turnarounds at Route 85, and local water pressure. The Planning Board continues its public hearing on the project tonight, October 19, 2026.",
       "status_as_of": "2026-09-28",
       "positions": [
         {
-          "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Reviewing major site plan and special permit applications, awaiting traffic peer review findings and mitigation plans."
-        },
-        {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15 to approve variances for retaining walls up to 31 feet and light poles up to 36.5 feet."
+          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot parking lot light poles."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Reviewing major site plan and special permit applications while awaiting peer review analysis of traffic modeling and intersection improvements."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents voiced concerns on September 28 over Route 9 congestion, cut-through traffic on residential streets like Flagg Road, truck turnaround hazards at Route 85, and vehicle emissions."
+          "detail": "Residents voiced concerns regarding Route 9 congestion, cut-through traffic on Flagg and Southville roads, vehicle emissions, and truck turning conflicts at Route 85."
         }
       ],
-      "next": "Planning Board public hearing on October 19, 2026.",
-      "status_fingerprint": "449e3e80ac1da7e1",
+      "next": "Planning Board continued public hearing on October 19, 2026",
+      "status_fingerprint": "5d86c20e54ff96e5",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -543,6 +543,16 @@
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
+    "352-turnpike-road-site-plan": {
+      "id": "352-turnpike-road-site-plan",
+      "name": "352 Turnpike Road major site plan",
+      "description": "Major site plan approval for Disability Assistance and Vocational Education Inc. at 352 Turnpike Road.",
+      "category": "Zoning & development",
+      "first_seen": "2026-02-23",
+      "last_seen": "2026-02-23",
+      "status": "The Planning Board voted 5-0 to extend the decision deadline to March 27, 2026, and continued the public hearing to March 9.",
+      "status_as_of": "2026-02-23"
+    },
     "355-turnpike-road-coc": {
       "id": "355-turnpike-road-coc",
       "name": "355 Turnpike Road Certificate of Compliance",
@@ -612,17 +622,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
       "last_seen": "2026-09-23",
-      "status": "The Affordable Housing Trust is drafting a zoning bylaw amendment that would eliminate the townwide cap on 55-plus housing units and establish a mandatory 12.5 percent affordability requirement. Trustees are also considering a two-acre minimum lot size with a base density of six units per acre via special permit to moderate neighborhood density impacts. A revised draft is scheduled for review at the trust's October 2026 meeting before being sent to Town Counsel and submitted to Town Meeting.",
+      "status": "A proposed zoning bylaw amendment to remove townwide unit caps on 55-plus developments and establish a 12.5 percent affordability mandate is currently being redrafted. The Planning Board withdrew an earlier proposal from the spring 2026 Town Meeting warrant to allow further study following community concerns about density. The Affordable Housing Trust is working with town staff and consulting town counsel on a revised version that may include a two-acre minimum lot size ahead of a future Annual Town Meeting.",
       "status_as_of": "2026-09-23",
       "positions": [
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Drafting the proposed bylaw to eliminate senior housing caps and mandate 12.5 percent affordability, while exploring lot size standards to manage density."
+          "detail": "Actively drafting revisions to eliminate the unit cap, establish a 12.5 percent affordability mandate, and potentially set a two-acre minimum lot size."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Voted 5-0 in February 2026 to withdraw the bylaw from the warrant for further study after hearing resident concerns about density and housing diversity."
         }
       ],
-      "next": "Presentation of the revised draft bylaw at the Affordable Housing Trust meeting in October 2026",
-      "status_fingerprint": "531a63e5e6c2b997",
+      "next": "Affordable Housing Trust presentation of an updated draft at its October 2026 meeting",
+      "status_fingerprint": "257708a0d0105929",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -795,33 +810,38 @@
       "category": "Zoning & development",
       "first_seen": "2026-03-09",
       "last_seen": "2026-04-11",
-      "status": "A proposed zoning bylaw amendment allowing accessory dwelling units up to 1,200 square feet by right divided town boards ahead of the 2026 Annual Town Meeting. The Select Board and the Zoning Board of Appeals supported the measure to accommodate accessible and practical housing, while the Advisory Committee opposed it over concerns regarding neighborhood density and impacts on schools and town services. The Planning Board held a public hearing on the article without adopting a formal position, and no subsequent actions or Town Meeting outcomes are recorded.",
-      "status_as_of": "2026-04-06",
+      "status": "Town Meeting approved Article 29 in April 2026, amending the zoning bylaw to allow accessory dwelling units up to 1,200 square feet by right, exceeding the state baseline of 900 square feet. The measure passed with the backing of the Select Board, Planning Board, and Zoning Board of Appeals, but was opposed by the Advisory Committee over concerns about density, septic limitations, and school impacts. All accessory units remain subject to Title 5 septic regulations, height caps, setback limits, and parking requirements.",
+      "status_as_of": "2026-04-11",
       "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Sponsored the amendment to expand by-right ADUs up to 1,200 square feet, citing equity for smaller homes and the square footage needed for accessible units."
+        },
         {
           "body": "Select Board",
           "stance": "support",
           "detail": "Voted 5-0 on March 10, 2026, to support the ADU zoning amendment on the Annual Town Meeting warrant."
         },
         {
-          "body": "Zoning Board of Appeals",
+          "body": "Planning Board",
           "stance": "support",
-          "detail": "Advocated for raising the by-right size cap to 1,200 square feet so residents can build practical, handicapped-accessible units."
+          "detail": "Supported the amendment in a 4-0-1 vote after holding public hearings to align the local bylaw with state housing regulations."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 2-5 on April 6, 2026, to recommend disapproval, citing concerns over neighborhood density, schools, and town service impacts."
+          "detail": "Voted 2-5 on April 6, 2026, to recommend disapproval, citing concerns about density, school impacts, and allowing large secondary dwellings without special permit oversight."
         },
         {
-          "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Opened the statutory public hearing on the proposed bylaw and continued the session to April 11, 2026, without taking a vote."
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Residents at Town Meeting were divided, with one speaker arguing 1,200 square feet threatens single-family neighborhood character and another supporting it as an equitable option for housing relatives."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "16e777a57202cf20",
+      "status_fingerprint": "96c4129dcede1d01",
       "status_model": "gemini-3.8-flash"
     },
     "affordable-housing-trust-zoning-cleanup": {
@@ -831,18 +851,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-03-23",
       "last_seen": "2026-04-11",
-      "status": "Article 30 proposes housekeeping updates to the zoning code, replacing references to the defunct Southborough Housing Opportunity Partnership Committee with the Southborough Affordable Housing Trust. The Planning Board reviewed the warrant article in March 2026 and continued its public hearing to April 2026 without taking a position. No subsequent board action or Town Meeting vote is recorded.",
-      "status_as_of": "2026-03-23",
+      "status": "The zoning code cleanup has been approved. Town Meeting voted by a two-thirds majority on April 11, 2026, to pass Article 30, updating the town code to replace references to the dissolved Southborough Housing Opportunity Partnership Committee with the Southborough Affordable Housing Trust. With the vote concluded, no further action is pending.",
+      "status_as_of": "2026-04-11",
       "positions": [
         {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 30 by a two-thirds vote on April 11, 2026."
+        },
+        {
           "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Voted 5-0 on March 23 to continue the public hearing to April 11 without taking a formal position on the article."
+          "stance": "support",
+          "detail": "Sponsored and presented the corrective zoning amendment at Town Meeting following public hearings in early 2026."
         }
       ],
       "next": "",
       "significance": 1,
-      "status_fingerprint": "77c0aabb464270ec",
+      "status_fingerprint": "4ec1e17a96fe8b96",
       "status_model": "gemini-3.8-flash"
     },
     "algonquin-cell-phone-policy": {
@@ -1460,28 +1485,33 @@
       "category": "Budget & taxes",
       "first_seen": "2026-03-09",
       "last_seen": "2026-04-11",
-      "status": "The recommended $71,415,873 FY27 operating budget was advanced to Annual Town Meeting under Article 6, though the record contains no update on Town Meeting action following the scheduled April 2026 vote. Both the Advisory Committee (5-0) and the Select Board (3-2) voted to recommend the budget, which incorporates municipal insurance deductibles and deferred several equipment purchases. Dissenting Select Board members cited police staffing additions and an estimated 4.64 percent tax increase, while the Advisory Committee warned of ongoing structural deficits. No future hearings or next steps are currently scheduled.",
-      "status_as_of": "2026-04-07",
+      "status": "The $71,077,130 FY27 municipal operating budget was approved at Annual Town Meeting under Article 6, funding general operations through $66,917,959 in taxation along with transfers from free cash and ambulance receipts. Voters upheld separately debated lines for the Police Department, employee benefits, and the Economic Development Committee. The Advisory Committee supported the budget unanimously, while the Select Board had split over tax impact and staffing additions.",
+      "status_as_of": "2026-04-11",
       "positions": [
         {
-          "body": "Advisory Committee",
+          "body": "Town Meeting",
           "stance": "support",
-          "detail": "Voted 5-0 on March 16 to recommend the FY27 budget, while highlighting long-term structural deficits and potential savings from high-deductible health plans."
+          "detail": "Approved Article 6 on April 11, 2026, passing the full operating budget as well as separate votes on held lines for police, benefits, and economic development."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 3-2 on March 17 to recommend Article 6, with opposing members objecting to police department headcount additions and tax bill increases."
+          "detail": "Voted 3-2 on March 17 to recommend Article 6, with opposing members objecting to a 4.6 percent tax increase and police staffing additions."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 5-0 on March 16 to recommend the town budget, pointing to potential long-term savings from high-deductible employee health plans."
         },
         {
           "body": "Public comment",
-          "stance": "oppose",
-          "detail": "A municipal employee expressed concern over potential hiring freezes and position cuts, citing vulnerability and low morale among non-union staff."
+          "stance": "mixed",
+          "detail": "Voters at Town Meeting defended police coverage and economic development grant matching, while others questioned benefit cost trends and funding for an inactive committee."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "439cbe7aaba8f6fa",
+      "status_fingerprint": "b29f61ffcb3863e8",
       "status_model": "gemini-3.8-flash"
     },
     "fy27-regional-school-operating-budget": {
@@ -1543,23 +1573,28 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-03-09",
       "last_seen": "2026-04-11",
-      "status": "The FY27 Water Enterprise articles—covering the operating budget, capital improvements, and a zero-percent interest loan authorization for water main looping—received backing from town boards ahead of Town Meeting. The Select Board voted to support the operating budget and loan authorization 4-1-0 and unanimously approved the non-borrowing capital items. The Capital Improvement and Planning Committee also endorsed the capital requests, noting they are funded through water ratepayers rather than the general tax levy.",
-      "status_as_of": "2026-03-18",
+      "status": "The FY27 Water Enterprise budget of $3,522,752 was approved by Town Meeting in April 2026, funded primarily through water rates and retained earnings. Ahead of Town Meeting, the Select Board unanimously approved a 12.6 percent base charge increase and a 9.0 percent volumetric rate hike to support capital projects and strengthen reserves. Capital items and loan authorizations for main looping also received board endorsements, and no further town action is currently pending.",
+      "status_as_of": "2026-04-11",
       "positions": [
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 7 on April 11, 2026, by a two-thirds vote to authorize the $3,522,752 FY27 Water Enterprise budget."
+        },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted on March 10 to recommend Article 7 (4-1-0), Article 10 (5-0), and Article 11 (4-1-0) for the Town Meeting warrant."
+          "detail": "Voted unanimously in February 2026 to increase water rates, and voted in March to recommend Article 7 (4-1), Article 10 (5-0), and Article 11 (4-1)."
         },
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "support",
-          "detail": "Voted 3-0 on March 18 to support Article 10, citing that it is funded directly by ratepayers through the enterprise fund without impacting the tax levy."
+          "detail": "Voted 3-0 on March 18, 2026, to endorse Article 10 capital items funded through the water enterprise fund."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "f93c75ee701a6386",
+      "status_fingerprint": "0aa05707ff46bb5f",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -1765,33 +1800,38 @@
       "category": "Zoning & development",
       "first_seen": "2026-03-02",
       "last_seen": "2026-04-11",
-      "status": "Article 17 proposes to overhaul Southborough's Industrial Park zoning bylaws by establishing performance standards, setbacks, and a special permit framework for data centers and battery energy storage systems. The Planning Board drafted and sponsored the amendment, and the Select Board voted 4-0-1 to support it, while the Advisory Committee deferred taking a position. Public feedback urged explicit exemptions for residential solar batteries and raised concerns regarding environmental and power impacts. With no Town Meeting vote or subsequent action recorded, no next steps are scheduled.",
-      "status_as_of": "2026-03-30",
+      "status": "The zoning amendments have been approved. Town Meeting adopted Article 17 on April 11, 2026, by a 90-32 vote, updating 40-year-old Industrial Park district bylaws to permit light industrial uses under 50,000 square feet by right and introduce town performance standards. The new rules also require special permits for data centers, capping their size at 50,000 square feet and requiring a 1,000-foot buffer from residential and conservation parcels after voters rejected floor amendments to either relax or double those setbacks.",
+      "status_as_of": "2026-04-11",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Sponsored Article 17 to modernize decades-old Industrial Park bylaws and establish local guardrails for data centers and clean energy infrastructure."
+          "detail": "Sponsored and presented Article 17 to modernize outdated industrial park uses and institute strict performance standards and special permits for data centers."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-0-1 on March 17, 2026, to recommend Article 17 on the Annual Town Meeting warrant."
+          "detail": "Voted 4-0-1 on March 17, 2026, to recommend approval of Article 17 on the Annual Town Meeting warrant."
         },
         {
           "body": "Advisory Committee",
           "stance": "undecided",
-          "detail": "Deferred action on Article 17 on March 25, 2026, following an informational presentation by the Planning Board."
+          "detail": "Reviewed the proposed industrial park and data center bylaws on March 25, 2026, but deferred taking a formal vote."
+        },
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Voted 90-32 on April 11, 2026, to adopt Article 17 after defeating two floor amendments that sought to alter setback distances and size caps."
         },
         {
           "body": "Public comment",
-          "stance": "support",
-          "detail": "Speakers supported regulating data centers and energy storage, while asking the town to ensure residential solar batteries remain exempt from industrial setbacks."
+          "stance": "mixed",
+          "detail": "Residents offered competing views, with some advocating for a larger 2,000-foot neighborhood setback, others backing the removal of setbacks to allow 100,000-square-foot facilities, and some questioning buffer rules for clean energy."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "81104ffb5ae9d231",
+      "status_fingerprint": "bcc6ec378ad49f03",
       "status_model": "gemini-3.8-flash"
     },
     "kallander-field-repairs": {
@@ -2087,23 +2127,38 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-03-09",
       "last_seen": "2026-04-11",
-      "status": "The Select Board voted 4-0-1 to recommend Town Meeting approval of Article 13, authorizing up to $25 million in multi-year borrowing for comprehensive road and sidewalk repairs, and placed a corresponding debt exclusion question on the town election ballot. The Capital Improvement and Planning Committee declined to endorse the authorization ahead of Town Meeting, citing concerns that bonding the full sum at once without year-by-year cash flow and rollout schedules could jeopardize passage. No subsequent actions or vote outcomes on the measure are recorded.",
-      "status_as_of": "2026-04-07",
+      "status": "Town Meeting approved a 20-year, $25 million capital borrowing authorization under Article 13 in April 2026 to fund a comprehensive five-year road pavement plan and four new sidewalks. The Select Board backed the measure and placed a Proposition 2 1/2 debt exclusion question on the May 2026 Annual Town Election ballot, which town officials noted is required for the borrowing to take effect. No subsequent action or election results appear in the record.",
+      "status_as_of": "2026-04-11",
       "positions": [
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 13 by a two-thirds majority on April 11, 2026, authorizing $25 million in borrowing for road repairs and sidewalk construction."
+        },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-0-1 on April 7 to recommend approval of Article 13—revisiting an earlier 3-2 split—and voted 5-0 to place the debt exclusion on the ballot."
+          "detail": "Voted 4-0-1 on April 7 to recommend Article 13, shifting from an earlier 3-2 split, and voted 5-0 to place the debt exclusion on the ballot."
         },
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Held its recommendation until Town Meeting, raising concerns about authorizing up to $25 million without detailed year-by-year cash flow schedules."
+          "detail": "Voted on March 18 to hold its recommendation until Town Meeting, citing concerns about authorizing up to $25 million without a detailed cash flow and rollout schedule."
+        },
+        {
+          "body": "Open Space Preservation Commission",
+          "stance": "mixed",
+          "detail": "Requested a Town Meeting floor amendment requiring MassDOT invasive plant management guidelines and weed-free soil, which was defeated."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "Residents spoke in favor of the borrowing, citing pothole hazards, narrow roads lacking sidewalks, and professional engineering support for the pavement plan."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "7b2d1ac249cea00d",
+      "status_fingerprint": "64a5f8ad2ae957c3",
       "status_model": "gemini-3.8-flash"
     },
     "municipal-financial-policies": {
@@ -2247,37 +2302,37 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-10-15",
-      "status": "The Elementary School Building Committee and School Committee are focusing on a roughly $38 million addition and renovation plan (Option 3) after architectural analysis showed a $15 million baseline upgrade would be consumed by code-mandated fire and accessibility work without replacing failing boilers or classroom univents. The building committee is preparing to formally authorize schematic designs targeting completion in mid-December 2026. The School Committee also plans to deliberate in November on whether to submit a Statement of Interest to re-enter the Massachusetts School Building Authority reimbursement pipeline, which would restart a five- to six-year process. Joint briefings with municipal finance boards are slated for mid-November ahead of an anticipated Annual Town Meeting vote.",
+      "status": "The Elementary School Building Committee and School Committee are focusing on a roughly $38 million addition and renovation plan (Option 3) after finding that a $15 million base-upgrade alternative cannot address mechanical or educational needs once mandatory fire sprinkler and ADA code triggers are funded. Consultants Tappé Architects are preparing schematic designs and cost models, while the School Committee is also weighing whether to reapply to the Massachusetts School Building Authority for state reimbursement. The building committee meets next to formally authorize the architects' scope of work ahead of design reviews targeted for Annual Town Meeting.",
       "status_as_of": "2026-10-15",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Favors advancing the $38 million addition and renovation plan after concluding the $15 million option cannot address basic heating, ventilation, or educational space needs."
+          "detail": "Favors advancing schematic design for the approximately $38 million addition and renovation plan after determining that a $15 million baseline upgrade is not viable."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted that the addition and renovation plan is its preferred direction, while planning to evaluate submitting a state MSBA funding application in November."
+          "detail": "Voted that its preferred direction is the addition and renovation plan and will deliberate in November on whether to submit an MSBA Statement of Interest."
         },
         {
           "body": "Select Board",
           "stance": "neutral",
-          "detail": "Approved the design contract in June with instructions that both the full renovation and the lower-cost baseline option receive equal evaluation so Town Meeting can decide."
+          "detail": "Approved the feasibility study contract in June while emphasizing that consultants must objectively study both options approved by Town Meeting without prematurely eliminating either."
         },
         {
           "body": "Advisory Committee",
           "stance": "neutral",
-          "detail": "Appointed a liaison in August to monitor building committee progress and project costs ahead of future warrant articles."
+          "detail": "Appointed a dedicated liaison in August to track project options, finances, and upcoming warrant articles."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents have asked officials to evaluate town-wide capital priorities including impending maintenance at Finn School, and to account for the financial impact of relocating district central offices out of Neary."
+          "detail": "Residents urged officials to weigh Neary against town-wide capital needs and future Finn School maintenance, questioned potential tax override impacts, and called for transparency regarding central office relocation costs."
         }
       ],
-      "next": "Elementary School Building Committee formal vote on architectural scope on October 21, 2026",
-      "status_fingerprint": "67e44120da08e274",
+      "next": "Elementary School Building Committee special meeting to formally vote on authorizing the schematic design scope on October 21, 2026.",
+      "status_fingerprint": "9fe8c35ac19f3ed4",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -2355,17 +2410,22 @@
       "category": "Budget & taxes",
       "first_seen": "2026-04-27",
       "last_seen": "2026-04-28",
-      "status": "Southborough's long-term OPEB funding strategy remains under review after actuaries reported the town's liability rose to $54.4 million, leaving the $4.5 million trust fund roughly 8 percent funded. The Select Board is awaiting modeled contribution scenarios targeting 80 to 100 percent funded status, including the potential reallocation of pension catch-up payments after the Worcester Regional Retirement System reaches full funding around 2036. Southborough continues to contribute $250,000 annually to the trust alongside pay-as-you-go health premiums while evaluating alternative long-term schedules.",
+      "status": "Southborough and the regional school district are reviewing long-term funding strategies to address tens of millions of dollars in unfunded retiree healthcare liabilities. The town's OPEB liability grew to $54.4 million with roughly 8 percent funded in its trust, prompting the Select Board to commission actuarial models for future contribution targets and potential reallocations after county pension obligations finish around 2036. Meanwhile, the Northborough-Southborough Regional School Committee is weighing a 10-year plan to raise its own annual trust contributions toward an unfunded liability exceeding $48 million.",
       "status_as_of": "2026-04-28",
       "positions": [
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Requested actuarial modeling of multiple contribution scenarios to improve the town's 8 percent funded ratio, but has not yet selected a revised funding schedule."
+          "detail": "Agreed on April 28 to have actuaries model several funding scenarios, including redirecting annual pension catch-up payments to OPEB around 2036."
+        },
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "undecided",
+          "detail": "Discussed establishing a 10-year plan to incrementally increase annual trust contributions from the current $25,000."
         }
       ],
       "next": "",
-      "status_fingerprint": "dbd1c365042fcf3e",
+      "status_fingerprint": "1e3476289bafec1c",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -2661,7 +2721,7 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-02-25",
-      "status": "The Regional School Committee voted 4-1-1 to adopt Option 5 for the 2026–2027 school calendar, removing professional development days from Yom Kippur and Eid while placing one on Orthodox Good Friday to align with member towns. The adopted schedule is finalized for the upcoming academic year.",
+      "status": "The Regional School Committee voted 4-1-1 on reconsideration to approve calendar Option 5 for the 2026–2027 school year, removing staff professional development days from Yom Kippur and Eid and scheduling one on Orthodox Good Friday.",
       "status_as_of": "2026-02-25"
     },
     "regional-school-calendar-2027-2028": {
@@ -2697,8 +2757,19 @@
       "category": "Schools",
       "first_seen": "2026-04-13",
       "last_seen": "2026-04-15",
-      "status": "The Regional School Committee referred Policy I-340 to its policy subcommittee and district administration following community concerns regarding inconsistent teacher compliance during Passover. Administration is developing proactive calendar alerts and staff guidelines to ensure students are accommodated on major religious and cultural holidays without penalty.",
-      "status_as_of": "2026-04-15"
+      "status": "The Northborough-Southborough Regional School Committee is addressing the enforcement of Policy I-340, which requires academic accommodations without penalty for students observing religious and cultural holidays. The review follows parent feedback citing inconsistent compliance by teaching staff during recent holidays. The committee referred the matter to its policy subcommittee and the administration to establish advance calendar reminders and annual staff communication.",
+      "status_as_of": "2026-04-15",
+      "positions": [
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "support",
+          "detail": "Supports strengthening districtwide communication and teacher adherence to ensure students are accommodated during religious observances."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "04a30f8dd69e9288",
+      "status_model": "gemini-3.8-flash"
     },
     "regional-superintendent-evaluation-and-contract": {
       "id": "regional-superintendent-evaluation-and-contract",
@@ -2909,23 +2980,33 @@
       "category": "Town Meeting & elections",
       "first_seen": "2026-03-09",
       "last_seen": "2026-04-11",
-      "status": "The proposed amendments to the non-union Salary Administration Plan bylaw (Article 4) were finalized by the Personnel Board and supported by the Select Board for the 2026 Annual Town Meeting. The package updates the salary schedule with a 3% cost-of-living adjustment, adds stipends for positions including the administrative cemetery agent and records access officer, and increases pay caps for acting department heads. The record does not reflect subsequent action taken at Town Meeting, and no further board steps are scheduled.",
-      "status_as_of": "2026-03-10",
+      "status": "The Salary Administration Plan amendments were adopted by Town Meeting on April 11, 2026, under Article 4. The measure updated compensation schedules for non-union personnel, incorporating a 3% cost-of-living adjustment, modified acting department head pay, and new stipends. With Town Meeting approval completed, the revised personnel bylaw is now in effect and no further action is pending.",
+      "status_as_of": "2026-04-11",
       "positions": [
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Voted on April 11, 2026, to pass Article 4 updating the town's non-union personnel bylaw and compensation schedules."
+        },
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Voted 4-0 on March 10, 2026, to approve the final bylaw amendments and voter summary handout for the Annual Town Meeting warrant."
+          "detail": "Voted 4-0 on March 10, 2026, to approve the final bylaw amendments and summary for the Town Meeting warrant."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted on March 10, 2026, to support Article 4 as part of a grouped warrant recommendation."
+          "detail": "Voted 5-0 on March 10, 2026, to recommend approval of Article 4 as part of a grouped warrant vote."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "A municipal employee expressed concern in March 2026 that non-union staff faced low morale and vulnerability amid Select Board discussions about cutting positions."
         }
       ],
       "next": "",
-      "significance": 4,
-      "status_fingerprint": "3b6444f9c5059878",
+      "significance": 3,
+      "status_fingerprint": "6e3b09541f618c23",
       "status_model": "gemini-3.8-flash"
     },
     "sarsenstone-way-coc": {
@@ -2997,18 +3078,23 @@
       "category": "Schools",
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-15",
-      "status": "Southborough will not participate in the state interdistrict school choice program for the 2026–2027 school year, keeping public school enrollment limited to town residents. The School Committee voted unanimously in April 2026 to opt out, citing class sizes near policy guidelines and a state reimbursement rate far below local per-pupil costs. No further action is pending until the required annual evaluation next year.",
-      "status_as_of": "2026-04-08",
+      "status": "Both the Southborough School Committee and the Northborough-Southborough Regional School Committee voted unanimously in April 2026 to opt out of the state interdistrict school choice program for the 2026-2027 school year. Both committees cited target class size limits and the gap between the $5,000 state reimbursement and local per-pupil operating costs exceeding $23,000. Enrollment remains restricted to local residents for the academic year, with the decision reviewed annually.",
+      "status_as_of": "2026-04-15",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "oppose",
-          "detail": "Voted unanimously on April 8, 2026, to opt out of the program, citing limited classroom capacity and per-pupil costs exceeding state reimbursement."
+          "detail": "Voted unanimously on April 8, 2026, to opt out of school choice, citing class size limits and a per-pupil operating cost of $23,911 versus the $5,000 state reimbursement."
+        },
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "oppose",
+          "detail": "Voted unanimously on April 15, 2026, to opt out for the 2026-2027 year, citing Algonquin's $25,042 per-pupil cost compared to the $5,000 state tuition rate and class size constraints."
         }
       ],
       "next": "",
       "significance": 2,
-      "status_fingerprint": "0f89501de25d4265",
+      "status_fingerprint": "645031647bde9e84",
       "status_model": "gemini-3.8-flash"
     },
     "school-district-capital-borrowing-fy27": {
@@ -3297,12 +3383,12 @@
       "category": "Zoning & development",
       "first_seen": "2026-03-23",
       "last_seen": "2026-09-14",
-      "status": "Southborough's subdivision rules and regulations remain under comprehensive review by a working group of a Planning Board member, the town planner, and Department of Public Works staff. The working group is testing a restructured document format, while the full Planning Board has only received progress updates and has not yet discussed or taken a position on specific revisions. Next steps involve consulting Town Counsel regarding the opening definitions section before submitting draft materials to the board.",
+      "status": "The Planning Board's working group continues to draft a comprehensive update to Southborough's subdivision rules, regulations, and ANR procedures. The working group has been testing a restructured document format and plans to consult Town Counsel regarding the opening definitions section. Drafting remains underway, and the revisions have not yet been brought to the full board for formal review.",
       "status_as_of": "2026-09-14",
       "positions": [],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "8690d9260e660770",
+      "status_fingerprint": "7c6026949a314560",
       "status_model": "gemini-3.8-flash"
     },
     "tax-payment-agreements-bylaw": {
@@ -3605,32 +3691,32 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "Following Town Meeting's approval to permit celebratory banners through January 2028, the project is undergoing utility permitting. The Tricentennial Committee directed staff in October 2026 to cap the request at 50 poles across Southborough's villages to avoid utility inspection fees. Town administration is completing required insurance and administrative filings with National Grid and Verizon before banners can be installed.",
+      "status": "Following Town Meeting's approval of a temporary sign bylaw amendment in April 2026, town staff and the Tricentennial Committee are coordinating attachment permits with National Grid and Verizon. The committee recently directed staff to finalize a list capped at 50 poles, reduced from an initial 87, in order to avoid utility inspection fees. Staff are currently preparing required insurance and administrative filings so the celebratory banners can be installed across town.",
       "status_as_of": "2026-10-14",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Directed staff on Oct 14, 2026, to cap the request at 50 utility poles to avoid utility inspection fees."
-        },
-        {
-          "body": "Select Board",
-          "stance": "support",
-          "detail": "Directed town administration on June 16, 2026, to coordinate pole permissions with National Grid and Verizon."
+          "detail": "Promoting the banner initiative and directed staff in October 2026 to cap pole selections at 50 to avoid utility inspection fees."
         },
         {
           "body": "Town Meeting",
           "stance": "support",
-          "detail": "Passed Article 32 by a two-thirds majority on April 11, 2026, amending the sign bylaw to allow temporary tricentennial banners."
+          "detail": "Approved Article 32 by a two-thirds majority on April 11, 2026, temporarily amending the sign bylaw to allow celebratory banners through January 31, 2028."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Reviewed the 50-banner proposal in June 2026 and directed town administration to coordinate pole permits with utility companies."
         },
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Supported the temporary sign bylaw amendment approved at Town Meeting on April 11, 2026."
+          "detail": "Supported Article 32 ahead of Town Meeting to authorize the temporary banner zoning amendment."
         }
       ],
       "next": "",
-      "status_fingerprint": "33527583a421ac10",
+      "status_fingerprint": "545273950f5730a8",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },

@@ -1,10 +1,42 @@
 {
   "week": "2026-02-23",
-  "fingerprint": "2949bd3654687508",
+  "fingerprint": "e3c01eda3f88e3c1",
   "topics": {
-    "_YLjrgHgfVc#0": {
+    "0iTSL7ldKmM#0": {
       "issue": null,
       "category": "Other"
+    },
+    "0iTSL7ldKmM#1": {
+      "issue": "fy27-water-enterprise-budget",
+      "category": "Budget & taxes"
+    },
+    "0iTSL7ldKmM#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "0iTSL7ldKmM#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "0iTSL7ldKmM#4": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "0iTSL7ldKmM#5": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "0iTSL7ldKmM#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "0iTSL7ldKmM#7": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "_YLjrgHgfVc#0": {
+      "issue": null,
+      "category": "Schools"
     },
     "_YLjrgHgfVc#1": {
       "issue": null,
@@ -12,7 +44,7 @@
     },
     "_YLjrgHgfVc#2": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "_YLjrgHgfVc#3": {
       "issue": null,
@@ -28,7 +60,7 @@
     },
     "_YLjrgHgfVc#6": {
       "issue": null,
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "_YLjrgHgfVc#7": {
       "issue": "fy27-regional-school-operating-budget",
@@ -41,6 +73,50 @@
     "_YLjrgHgfVc#9": {
       "issue": null,
       "category": "Schools"
+    },
+    "dsIihC4rLww#0": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#1": {
+      "issue": "tricentennial-street-banners",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#2": {
+      "issue": "352-turnpike-road-site-plan",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#3": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#4": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Housing"
+    },
+    "dsIihC4rLww#5": {
+      "issue": "mbta-communities-zoning-correction",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#6": {
+      "issue": "affordable-housing-trust-zoning-cleanup",
+      "category": "Housing"
+    },
+    "dsIihC4rLww#7": {
+      "issue": "subdivision-rules-and-regulations-update",
+      "category": "Zoning & development"
+    },
+    "dsIihC4rLww#8": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "dsIihC4rLww#9": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Governance & committees"
+    },
+    "dsIihC4rLww#10": {
+      "issue": null,
+      "category": "Governance & committees"
     },
     "qoPRkdI2yfs#0": {
       "issue": "neary-school-building-project",
@@ -55,11 +131,17 @@
       "category": "Schools"
     },
     "qoPRkdI2yfs#3": {
-      "issue": null,
+      "issue": "neary-school-building-project",
       "category": "Town Meeting & elections"
     }
   },
   "votes": {
+    "0iTSL7ldKmM#v0": {
+      "issue": null
+    },
+    "0iTSL7ldKmM#v1": {
+      "issue": "fy27-water-enterprise-budget"
+    },
     "_YLjrgHgfVc#v0": {
       "issue": null
     },
@@ -86,9 +168,54 @@
     },
     "_YLjrgHgfVc#v8": {
       "issue": null
+    },
+    "dsIihC4rLww#v0": {
+      "issue": "352-turnpike-road-site-plan"
+    },
+    "dsIihC4rLww#v1": {
+      "issue": "352-turnpike-road-site-plan"
+    },
+    "dsIihC4rLww#v2": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "dsIihC4rLww#v3": {
+      "issue": "55-plus-housing-bylaw"
+    },
+    "dsIihC4rLww#v4": {
+      "issue": "55-plus-housing-bylaw"
+    },
+    "dsIihC4rLww#v5": {
+      "issue": "mbta-communities-zoning-correction"
+    },
+    "dsIihC4rLww#v6": {
+      "issue": "affordable-housing-trust-zoning-cleanup"
     }
   },
   "upcoming": {
+    "0iTSL7ldKmM#u0": {
+      "date": "2026-03-02",
+      "issue": null
+    },
+    "0iTSL7ldKmM#u1": {
+      "date": "2026-03-03",
+      "issue": null
+    },
+    "0iTSL7ldKmM#u2": {
+      "date": "2026-03-09",
+      "issue": null
+    },
+    "0iTSL7ldKmM#u3": {
+      "date": "2026-03-10",
+      "issue": null
+    },
+    "0iTSL7ldKmM#u4": {
+      "date": "2026-03-17",
+      "issue": null
+    },
+    "0iTSL7ldKmM#u5": {
+      "date": "2026-04-11",
+      "issue": null
+    },
     "_YLjrgHgfVc#u0": {
       "date": "2026-03-03",
       "issue": "fy27-regional-school-operating-budget"
@@ -109,13 +236,29 @@
       "date": "2026-05-01",
       "issue": null
     },
+    "dsIihC4rLww#u0": {
+      "date": "2026-03-02",
+      "issue": null
+    },
+    "dsIihC4rLww#u1": {
+      "date": "2026-03-09",
+      "issue": null
+    },
+    "dsIihC4rLww#u2": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "dsIihC4rLww#u3": {
+      "date": "2026-05-12",
+      "issue": null
+    },
     "qoPRkdI2yfs#u0": {
       "date": "2026-02-26",
-      "issue": null
+      "issue": "neary-school-building-project"
     },
     "qoPRkdI2yfs#u1": {
       "date": "2026-03-02",
-      "issue": null
+      "issue": "neary-school-building-project"
     },
     "qoPRkdI2yfs#u2": {
       "date": "2026-05-12",
@@ -123,5 +266,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-19T11:52:46Z"
+  "generated_at": "2026-10-19T14:34:19Z"
 }

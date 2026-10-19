@@ -1,0 +1,216 @@
+{
+  "video": {
+    "id": "0iTSL7ldKmM",
+    "title": "Select Board Meeting 2/24/26",
+    "published_at": "2026-02-25T14:37:51Z",
+    "duration_s": 10559
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-02-24",
+    "headline": "The Select Board approved a 9 percent water rate hike for FY27 and debated police staffing and capital impacts ahead of upcoming town meetings.",
+    "summary": "The Select Board voted unanimously to increase FY27 water rates by 9.0 percent and base charges by 12.6 percent to support operations and upcoming capital investments. The board held an extensive review of the FY27 operating budget, where members debated whether to retain two newly added police patrol positions or implement a hiring freeze to reduce an estimated 6.4 percent tax levy increase. The board also finalized logistics and presentation strategies for the March 2 Special Town Meeting regarding school building feasibility studies and reviewed potential warrant articles for the April Annual Town Meeting.",
+    "topics": [
+      {
+        "title": "Common victualler license for Pizzaville",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board met with prospective new owners purchasing Pizzaville to consider a common victualler license. The buyers stated they plan to maintain the existing recipes and takeout/delivery business model while considering menu expansions over the coming year.",
+        "key_details": [
+          "Business is primarily takeout and delivery with no indoor seating",
+          "Sale expected to close within two weeks",
+          "Owners plan to add items such as gyros after learning the existing menu"
+        ],
+        "outcome": "Approved unanimously (5-0).",
+        "why_it_matters": null,
+        "start_seconds": 200,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 water rate study and rate increase",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Consultant Matt Abrahams and DPW Director Bill Cundiff presented the FY27 Water Rate Study. To support the water enterprise fund, cover rising capital expenses, and progress toward a 20 percent retained earnings target, the board approved increasing base charges by 12.6 percent and volumetric rates by 9.0 percent across all four tiers.",
+        "key_details": [
+          "Average quarterly residential water bill will increase from approximately $156 to $172, an increase of about $16 per quarter",
+          "Town receives 300,000 gallons per day free under an agreement with the MWRA that is expiring and up for renewal",
+          "Unaccounted-for water loss from leaks currently exceeds 20 percent, compared to an industry standard of 10 percent",
+          "Capital plan includes potential $1.5 million borrowing for smart meters in FY28 and $1 million for the Fisher Road/Presidential Drive water loop",
+          "DPW is evaluating acoustic fire hydrant leak-monitoring devices as an alternative to expedite leak detection"
+        ],
+        "outcome": "Approved unanimously (5-0).",
+        "why_it_matters": "Water rate payers will see their bills increase by roughly $64 annually for an average household, with higher tiered users paying significantly larger increases.",
+        "start_seconds": 415,
+        "end_seconds": null
+      },
+      {
+        "title": "Board and administrative updates",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair acknowledged former resident Korey Dropkin on winning a silver medal in mixed doubles curling at the Winter Olympics and noted that local state legislators will attend the board's next meeting. The chair also announced that the Massachusetts Attorney General approved the Costco zoning article passed at the Fall 2025 Special Town Meeting.",
+        "key_details": [
+          "Korey Dropkin is a 2013 Algonquin Regional High School graduate",
+          "State legislative delegation scheduled to visit on March 3",
+          "Costco zoning amendment from Fall 2025 Special Town Meeting received state approval",
+          "Board members commended the DPW crew for extensive snow plowing and storm response"
+        ],
+        "outcome": "Information only.",
+        "why_it_matters": null,
+        "start_seconds": 4535,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Town Clerk Jim Hegarty introduced the hiring of Amber Smith as the new deputy town clerk following an interview process with 161 applicants. The board approved open session meeting minutes from January 24 and February 3 as amended, and members signed up for upcoming office hours dates.",
+        "key_details": [
+          "Amber Smith will start as deputy town clerk on March 16, 2026",
+          "Minutes for January 24 and February 3, 2026 were approved with corrections",
+          "Select Board office hours scheduled for March 10, April 14, and June 9"
+        ],
+        "outcome": "Approved.",
+        "why_it_matters": null,
+        "start_seconds": 4715,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 municipal operating budget review",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board reviewed updated revenue and expenditure figures for the FY27 operating budget, which currently projects an estimated tax levy increase of 6.4 percent and a deficit of roughly $442,000 to $542,000 under the revenue cap. Board members debated whether to preserve two additional police patrol officer positions added last year or implement an immediate hiring freeze across town departments to protect taxpayers.",
+        "key_details": [
+          "Current budget draft projects a 6.4 percent tax increase, while member Al Hamilton argued the town must hold tax increases to 4 percent or below",
+          "Police Chief Ryan Newell stated that eliminating the patrol positions would force the department to reassign the dedicated School Resource Officer back to road patrol",
+          "Police fine and fee revenues brought in approximately $234,000 to the town over the past year",
+          "Advisory Committee voted to keep the police staffing in the budget but voted against a 30 percent salary upgrade for the town planner position",
+          "Assabet Valley regional school assessment increased by $141,000 due to an increase in Southborough enrollment from 23 to 30 students"
+        ],
+        "outcome": "Discussion only; the board agreed to revisit the budget after the March 2 Special Town Meeting.",
+        "why_it_matters": "A 6.4 percent property tax increase would exceed Proposition 2 1/2 limits and require a townwide tax override unless departments cut spending or revenues increase.",
+        "start_seconds": 5008,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting preparation and Neary school project",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The board and Town Clerk Jim Hegarty reviewed operational plans for the March 2 Special Town Meeting at Trottier Middle School, including electronic clicker management and overflow seating in the gymnasium with accommodations for families. Building Inspector Mark Robidoux joined to discuss Article 4, clarifying that the state's full accessibility code threshold of 30 percent applies to the building's equalized assessed value of approximately $14 million rather than the prior valuation, giving the town more spending headroom before triggering costly code upgrades.",
+        "key_details": [
+          "Special Town Meeting check-in opens at 5:00 PM on March 2 at Trottier Middle School",
+          "Clickers are color-coded: white for auditorium, red for cafeteria, and blue for gymnasium",
+          "Articles 1 through 3 fund feasibility studies for Neary, Finn, and Trottier schools, while Article 4 funds the Neary roof replacement",
+          "If Article 1 passes, the Article 4 funding request will be reduced to cover only the roof replacement",
+          "Building Inspector reported that Neary school equalized assessed value is roughly $14 million, allowing up to $4.2 million in work before full accessibility triggers apply"
+        ],
+        "outcome": "Board finalized presentations and speaking assignments for the March 2 Special Town Meeting.",
+        "why_it_matters": "The special town meeting will decide whether Southborough funds feasibility studies across its elementary and middle schools or repairs the Neary school roof.",
+        "start_seconds": 5552,
+        "end_seconds": null
+      },
+      {
+        "title": "Annual Town Meeting warrant preview",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board reviewed upcoming articles for the April 11 Annual Town Meeting warrant. Updates from the Planning Board indicated that a proposed 55-and-over housing bylaw is being withdrawn until the fall, while articles on industrial park uses, an accessory dwelling units bylaw, and minor housekeeping amendments will move forward.",
+        "key_details": [
+          "Warrant must be finalized and signed by the Select Board by March 17",
+          "Planning Board will hold a public hearing on zoning articles on March 9",
+          "Articles on a dog park and splash pad are deferred to the fall due to unresolved parking concerns",
+          "A cemetery commission bylaw update will be drafted for consideration on March 10"
+        ],
+        "outcome": "Information only; warrant articles will be voted on at future meetings.",
+        "why_it_matters": null,
+        "start_seconds": 6795,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 state legislative budget requests and earmarks",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The board discussed potential earmark requests to submit through state Representative Donahue for the FY27 state budget. The board considered seeking funding under $50,000 for town tricentennial celebration expenses, sidewalk construction, or water system leak detection equipment.",
+        "key_details": [
+          "Legislative earmark requests are typically capped under $50,000",
+          "Town staff is preparing requests for tricentennial events such as parade police details",
+          "Adjacent towns like Westborough and Easton have received $35,000 or more in state funding for milestone celebrations",
+          "The board discussed potentially adding municipal support for the town scholarship fund in future budgets"
+        ],
+        "outcome": "Staff will compile department requests and coordinate with state legislators ahead of the March 3 meeting.",
+        "why_it_matters": null,
+        "start_seconds": 7823,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Move that the board approve the common victualler license for the new owners of Pizzaville.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 393
+      },
+      {
+        "motion": "Move that we adopt the recommendation of a 12.6 percent base charge increase for FY27 and a 9.0 percent volumetric rate change for FY27.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4462
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident asked whether the town had factored potential federal immigration enforcement activity into future police staffing discussions and resource planning. Police Chief Ryan Newell replied that the police department follows Massachusetts state law, does not participate in civil immigration enforcement, and focuses on local public safety.",
+        "start_seconds": 7383
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Special Town Meeting at Trottier Middle School",
+        "when": "March 2, 2026 at 5:00 PM"
+      },
+      {
+        "what": "Select Board regular meeting with state legislative delegation",
+        "when": "March 3, 2026"
+      },
+      {
+        "what": "Planning Board public hearing on zoning warrant articles",
+        "when": "March 9, 2026"
+      },
+      {
+        "what": "Select Board potential meeting and office hours",
+        "when": "March 10, 2026"
+      },
+      {
+        "what": "Select Board deadline and meeting to sign Annual Town Meeting warrant",
+        "when": "March 17, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "April 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T14:25:30Z",
+  "usage": {
+    "total_tokens": 409417,
+    "total_input_tokens": 404351,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 403367
+      },
+      {
+        "modality": "text",
+        "tokens": 984
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2901,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2165
+  }
+}
