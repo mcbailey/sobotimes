@@ -1,77 +1,80 @@
 {
-  "headline": "Town boards finalized recommendations and warrant articles for Special Town Meeting, focusing on water connections, zoning, and open space funding requests.",
-  "synopsis": "Ahead of Special Town Meeting, the Advisory Committee completed its report, voting 6-0 to recommend approval of a $240,000 water connection near Parkerville Road while finalizing unfavorable positions on funding for a trail footbridge and golf course irrigation. The Community Preservation Committee voted 3-2 to send the Peninsula Trail bridge funding article to town meeting as written, and the Trails Committee decided against offering a floor amendment to cut project contingency. The Zoning Board of Appeals voted unanimously to advance a warrant article permitting two-family dwellings as drafted, despite concerns about lot requirements. Additionally, regional school subcommittees reviewed FY28 budget planning, highlighting an upcoming $800,000 net decrease in high school debt service.",
+  "headline": "Town boards finalized recommendations and warrant articles for the October 17 Special Town Meeting, including water connections, trail funding, and zoning.",
+  "synopsis": "Ahead of the October 17 Special Town Meeting, town boards completed their preparations for key warrant articles. The Advisory Committee voted to recommend spending $240,000 from water retained earnings to connect two homes near the Parkerville Road landfill to town water, while the Community Preservation Committee voted 3-2 to send the Peninsula Trail bridge funding request to voters without removing contingency funds. The Select Board announced over $1.3 million in grant awards, including $1.1 million for a water main replacement on Southville Road, and declined a request to retain $100,000 in unissued borrowing authority for Breakneck Hill. Regional school subcommittees reviewed $460,000 in high school capital requests and noted an expected $800,000 drop in regional debt service in FY28.",
   "highlights": [
     {
-      "title": "Peninsula Trail bridge funding moves to Town Meeting as drafted",
-      "why": "The Community Preservation Committee voted 3-2 to present the $217,318 CPA funding request as printed, and the Trails Committee dropped a potential floor amendment to cut project contingency.",
-      "body": "Community Preservation Committee",
-      "importance": "high",
-      "video_id": "G9S9K_Mene8",
-      "start_seconds": 30
-    },
-    {
-      "title": "Advisory Committee recommends Parkerville Road water main extension",
-      "why": "The committee voted 6-0 to recommend Town Meeting approve $240,000 from water retained earnings to connect two homes near the landfill to municipal water, with the town covering lines into the homes.",
+      "title": "Water connection recommendation for homes near landfill",
+      "why": "The Advisory Committee voted 6-0 to recommend Article 7, which uses $240,000 from water retained earnings to fully fund municipal water connections for two homes affected by the Parkerville Road landfill.",
       "body": "Advisory Committee",
       "importance": "high",
       "video_id": "6sb8sVUyin4",
       "start_seconds": 80
     },
     {
-      "title": "Zoning Board supports two-family dwelling warrant article",
-      "why": "Members voted unanimously to advance the proposed zoning amendment as written rather than make last-minute revisions concerning minimum lot sizes in business and residential districts.",
-      "body": "Zoning Board of Appeals",
+      "title": "$1.1 million MassWorks grant for Southville Road water main",
+      "why": "The town announced the receipt of a $1.1 million state grant to replace 1,300 feet of water main on Southville Road with 12-inch ductile iron pipe.",
+      "body": "Select Board",
       "importance": "high",
-      "video_id": "2dGufO1TwE4",
-      "start_seconds": 0
+      "video_id": "jIrNNYw8PME",
+      "start_seconds": 2611
     },
     {
-      "title": "Advisory Committee report opposes CPA funding for golf and trail bridge",
-      "why": "In finalizing its warrant report, the committee maintained opposition to spending CPA funds on the $1 million golf course irrigation project and $428,550 trail bridge, citing excessive costs and golf self-sufficiency.",
-      "body": "Advisory Committee",
+      "title": "Advancement of Peninsula Trail CPA funding request",
+      "why": "The Community Preservation Committee voted 3-2 to advance the Article 4 funding request for the Peninsula Trail pedestrian bridge as printed, deciding against floor amendments to remove project contingency.",
+      "body": "Community Preservation Committee",
       "importance": "high",
-      "video_id": "6sb8sVUyin4",
-      "start_seconds": 3135
+      "video_id": "G9S9K_Mene8",
+      "start_seconds": 30
     },
     {
-      "title": "Regional high school debt drop and FY28 capital requests presented",
-      "why": "Subcommittees reviewed $460,000 in proposed FY28 capital work and noted that expiring 2004 renovation bonds will lower regional debt service by about $800,000 across both towns.",
+      "title": "FY28 Algonquin capital projects and debt reduction",
+      "why": "School officials reviewed $460,000 across five proposed high school capital projects and highlighted an estimated $800,000 net drop in regional debt service in FY28 as 2004 renovation debt retires.",
       "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
-      "importance": "medium",
+      "importance": "high",
       "video_id": "UNs9kGkhiEM",
       "start_seconds": 23
+    },
+    {
+      "title": "Refusal to alter Breakneck Hill debt rescission",
+      "why": "The Select Board unanimously declined to support a floor amendment holding back $100,000 in unissued borrowing authority, opting to rescind the full $727,960 in remaining debt under Article 6.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "jIrNNYw8PME",
+      "start_seconds": 3110
+    },
+    {
+      "title": "Support for two-family dwelling warrant article",
+      "why": "The Zoning Board of Appeals voted unanimously to move forward with the two-family dwelling warrant article as drafted rather than introducing last-minute wording changes regarding lot sizes.",
+      "body": "Zoning Board of Appeals",
+      "importance": "medium",
+      "video_id": "2dGufO1TwE4",
+      "start_seconds": 0
     }
   ],
   "looking_ahead": [
     {
-      "what": "Tentative joint meeting regarding Neary School building options",
-      "when": "October 13, 2020",
-      "body": "School Building Committee, Select Board, and Advisory Committee"
+      "what": "Tentative joint meeting with Select Board and School Building Committee on Neary School building options",
+      "when": "October 13, 2026",
+      "body": "Advisory Committee"
     },
     {
-      "what": "Massachusetts Cultural Council annual grant application deadline",
-      "when": "October 15",
+      "what": "Massachusetts Cultural Council grant application deadline",
+      "when": "October 15, 2026",
       "body": "Southborough Cultural Arts Council"
     },
     {
-      "what": "Special Town Meeting",
-      "when": "October 17, 2026",
-      "body": "Town Meeting"
+      "what": "Special Town Meeting at Trottier Middle School",
+      "when": "October 17, 2026 at 10:00 AM",
+      "body": null
     },
     {
-      "what": "Joint meeting to discuss Master Plan 2030 kickoff and research",
+      "what": "Joint meeting with the Planning Board to discuss Master Plan 2030 planning",
       "when": "October 19, 2026",
-      "body": "Planning Board and Master Plan Implementation Committee"
-    },
-    {
-      "what": "Next regular meeting",
-      "when": "October 27, 2026 at 7:00 PM",
-      "body": "Community Preservation Committee"
+      "body": "Master Plan Implementation Committee"
     }
   ],
   "week": "2026-10-05",
-  "fingerprint": "33d2f4b171e324df",
+  "fingerprint": "89bd199441469150",
   "video_ids": [
     "2dGufO1TwE4",
     "6sb8sVUyin4",
@@ -87,5 +90,5 @@
     "yXLL6UMLaag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-17T13:00:22Z"
+  "generated_at": "2026-10-19T14:54:10Z"
 }

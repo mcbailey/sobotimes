@@ -1,6 +1,6 @@
 {
   "week": "2026-10-05",
-  "fingerprint": "94da0e2ef030a8da",
+  "fingerprint": "660f8760398a4ce1",
   "topics": {
     "2dGufO1TwE4#0": {
       "issue": "two-family-zoning-amendment",
@@ -11,38 +11,14 @@
       "category": "Environment & conservation"
     },
     "6sb8sVUyin4#1": {
-      "issue": "personal-property-tax-exemption",
-      "category": "Budget & taxes"
-    },
-    "6sb8sVUyin4#2": {
-      "issue": "rescinding-unissued-borrowing",
-      "category": "Budget & taxes"
-    },
-    "6sb8sVUyin4#3": {
-      "issue": "stormwater-enterprise-fund",
-      "category": "Environment & conservation"
-    },
-    "6sb8sVUyin4#4": {
-      "issue": "peninsula-trail-phase-2",
-      "category": "Parks, trails & recreation"
-    },
-    "6sb8sVUyin4#5": {
-      "issue": "southborough-golf-club-irrigation",
-      "category": "Parks, trails & recreation"
-    },
-    "6sb8sVUyin4#6": {
-      "issue": "two-family-zoning-amendment",
-      "category": "Zoning & development"
-    },
-    "6sb8sVUyin4#7": {
-      "issue": "appointed-town-clerk",
-      "category": "Governance & committees"
-    },
-    "6sb8sVUyin4#8": {
       "issue": null,
       "category": "Town Meeting & elections"
     },
-    "6sb8sVUyin4#9": {
+    "6sb8sVUyin4#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "6sb8sVUyin4#3": {
       "issue": null,
       "category": "Governance & committees"
     },
@@ -60,7 +36,7 @@
     },
     "BwulXCVw_6g#3": {
       "issue": null,
-      "category": "Other"
+      "category": "Governance & committees"
     },
     "DIW91Vw3LIY#0": {
       "issue": "peninsula-trail-phase-2",
@@ -116,7 +92,7 @@
     },
     "G9S9K_Mene8#4": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "G9S9K_Mene8#5": {
       "issue": null,
@@ -143,12 +119,20 @@
       "category": "Governance & committees"
     },
     "jIrNNYw8PME#2": {
-      "issue": null,
-      "category": "Town Meeting & elections"
+      "issue": "neary-school-building-project",
+      "category": "Schools"
     },
     "jIrNNYw8PME#3": {
-      "issue": null,
-      "category": "Governance & committees"
+      "issue": "costco-special-act-liquor-license",
+      "category": "Other"
+    },
+    "jIrNNYw8PME#4": {
+      "issue": "rescinding-unissued-borrowing",
+      "category": "Budget & taxes"
+    },
+    "jIrNNYw8PME#5": {
+      "issue": "municipal-financial-policies",
+      "category": "Budget & taxes"
     },
     "nrTrCqF8IJA#0": {
       "issue": null,
@@ -238,12 +222,6 @@
     "BwulXCVw_6g#v2": {
       "issue": null
     },
-    "Dlomobo7FQ4#v0": {
-      "issue": "fy28-operating-budget"
-    },
-    "Dlomobo7FQ4#v1": {
-      "issue": "decertified-library-borrowing-policy"
-    },
     "G9S9K_Mene8#v0": {
       "issue": "peninsula-trail-phase-2"
     },
@@ -256,7 +234,22 @@
     "G9S9K_Mene8#v3": {
       "issue": null
     },
+    "Dlomobo7FQ4#v0": {
+      "issue": "fy28-operating-budget"
+    },
+    "Dlomobo7FQ4#v1": {
+      "issue": "decertified-library-borrowing-policy"
+    },
     "jIrNNYw8PME#v0": {
+      "issue": null
+    },
+    "jIrNNYw8PME#v1": {
+      "issue": null
+    },
+    "jIrNNYw8PME#v2": {
+      "issue": null
+    },
+    "jIrNNYw8PME#v3": {
       "issue": null
     },
     "nrTrCqF8IJA#v0": {
@@ -299,7 +292,7 @@
   "upcoming": {
     "2dGufO1TwE4#u0": {
       "date": "2026-10-17",
-      "issue": null
+      "issue": "two-family-zoning-amendment"
     },
     "2dGufO1TwE4#u1": {
       "date": null,
@@ -370,12 +363,32 @@
       "issue": "fy28-regional-school-operating-budget"
     },
     "jIrNNYw8PME#u0": {
-      "date": "2026-10-17",
+      "date": "2026-10-11",
       "issue": null
     },
     "jIrNNYw8PME#u1": {
       "date": "2026-10-17",
       "issue": null
+    },
+    "jIrNNYw8PME#u2": {
+      "date": "2026-10-17",
+      "issue": null
+    },
+    "jIrNNYw8PME#u3": {
+      "date": "2026-10-18",
+      "issue": null
+    },
+    "jIrNNYw8PME#u4": {
+      "date": null,
+      "issue": "town-governance-study"
+    },
+    "jIrNNYw8PME#u5": {
+      "date": "2026-11-03",
+      "issue": null
+    },
+    "jIrNNYw8PME#u6": {
+      "date": null,
+      "issue": "town-governance-study"
     },
     "nrTrCqF8IJA#u0": {
       "date": "2026-10-13",
@@ -403,9 +416,9 @@
     },
     "yXLL6UMLaag#u1": {
       "date": "2026-10-27",
-      "issue": null
+      "issue": "southborough-golf-club-irrigation"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-17T13:08:45Z"
+  "generated_at": "2026-10-19T15:01:11Z"
 }

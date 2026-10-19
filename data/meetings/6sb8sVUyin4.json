@@ -9,199 +9,96 @@
     "is_public_meeting": true,
     "body": "Advisory Committee",
     "meeting_date": "2026-10-06",
-    "headline": "The Advisory Committee recommended approval of water connections near the Parkerville landfill and finalized its warrant report for Special Town Meeting.",
-    "summary": "At its October 6 meeting, the Southborough Advisory Committee voted 6-0 to recommend Town Meeting approval of a $240,000 appropriation to connect two homes near the Parkerville Road landfill to municipal water. Members also reviewed and refined their explanatory text and recommendations for the remaining Special Town Meeting warrant articles, covering zoning changes, stormwater funds, trail bridge costs, and golf course irrigation. The committee voted unanimously to approve its final report for Town Meeting and reviewed upcoming scheduling regarding the Neary School building project.",
+    "headline": "The Advisory Committee voted to recommend water connections near the Parkerville landfill and finalized its report for Special Town Meeting.",
+    "summary": "The Advisory Committee voted unanimously to recommend Article 7, which funds $240,000 for town water main extensions and connections for two homes impacted by the Parkerville Road landfill. Members conducted a detailed line-by-line review and edit of their draft report and recommendations for the October 17 Special Town Meeting warrant articles, including articles on two-family zoning, golf course irrigation, trail bridges, and a stormwater enterprise fund. The committee voted to adopt the finalized report with minor editorial discretion granted to the chair, and reviewed upcoming meeting scheduling regarding the Neary School building project.",
     "topics": [
       {
-        "title": "Article 7: Parkerville Road water connection",
+        "title": "Article 7: Water connection for two homes near Parkerville landfill",
         "category": "Roads & infrastructure",
         "importance": "high",
-        "summary": "The committee revisited Article 7, which requests $240,000 from water retained earnings to extend a water main and connect two homes near the Parkerville Road landfill due to contamination testing. The chair confirmed with the Select Board chair that the town will cover the service lines from the street into the houses. The committee voted unanimously to recommend the article as printed in the warrant.",
+        "summary": "The committee revisited Article 7, which requests $240,000 from water retained earnings to extend the town water main and connect two homes near the closed Parkerville Road landfill. The chair confirmed with the Select Board chair that the town will cover the full cost of the connection from the street to the houses, as the connection was necessitated by landfill-related testing issues. Following this clarification, the committee voted unanimously to recommend the article.",
         "key_details": [
-          "Requests $240,000 from water retained earnings for water main extension and home connections",
-          "Connects two homes within the testing impact area of the closed Parkerville Road landfill",
-          "Chair confirmed the town will pay for the connection line from the street to the houses",
-          "Committee voted 6-0 to recommend approval at Special Town Meeting"
+          "$240,000 requested from water retained earnings.",
+          "Connects two homes on Parkerville Road impacted by proximity to the landfill.",
+          "The town will pay the entire connection cost from the street main into the private homes.",
+          "Voted 6-0 to recommend approval as printed in the warrant."
         ],
-        "outcome": "Committee voted 6-0 to recommend approval of Article 7.",
-        "why_it_matters": "Authorizes $240,000 in town water funds to provide clean municipal water to homes affected by landfill monitoring.",
+        "outcome": "Recommended 6-0.",
+        "why_it_matters": "Authorizes $240,000 in town water funds to address drinking water concerns near the town landfill and clarifies that property owners will not bear the hookup costs.",
         "start_seconds": 80,
         "end_seconds": null
       },
       {
-        "title": "Article 8: Personal property tax exemption threshold",
-        "category": "Budget & taxes",
-        "importance": "medium",
-        "summary": "Members reviewed report language for Article 8, which proposes raising the personal property tax exemption threshold from $1,500 to $2,500. The change would exempt 22 accounts with a total assessed value of $40,100, saving administrative costs that exceed the tax revenue collected. The committee previously voted unanimously (7-0) to support the article.",
-        "key_details": [
-          "Increases personal property tax exemption threshold from $1,500 to $2,500",
-          "Exempts 22 town accounts with a total combined assessed value of $40,100",
-          "Intended to eliminate administrative expenses that exceed revenue generated",
-          "Committee previously voted 7-0 to recommend approval"
-        ],
-        "outcome": "Report wording updated to clarify the combined assessed value of exempt accounts.",
-        "why_it_matters": null,
-        "start_seconds": 880,
-        "end_seconds": null
-      },
-      {
-        "title": "Article 6: Rescinding unissued borrowing authorizations",
-        "category": "Budget & taxes",
-        "importance": "medium",
-        "summary": "The committee refined the description for Article 6, which rescinds unused borrowing authority for the Breakneck Hill project ($727,960) and Neary School study ($375,000). Members clarified that rescinding borrowing authority does not return cash but prevents unnecessary future debt for projects that are complete or near completion. The chair noted from a concurrent Select Board meeting that Breakneck Hill had $4.327 million total authorized debt, with $3.6 million borrowed and $176,000 in borrowed funds remaining for site restoration.",
-        "key_details": [
-          "Rescinds $727,960 in unissued borrowing authority for Breakneck Hill",
-          "Rescinds $375,000 in unissued borrowing authority for Neary School study",
-          "Does not return spent cash, only cancels remaining borrowing authorization",
-          "Breakneck Hill had $4.327 million total authorized, $3.6 million borrowed, and $176,000 unspent",
-          "Committee previously voted 7-0 to recommend approval"
-        ],
-        "outcome": "Report text revised to clarify project completion status and that unborrowed authority is being canceled.",
-        "why_it_matters": null,
-        "start_seconds": 1105,
-        "end_seconds": null
-      },
-      {
-        "title": "Article 5: Stormwater enterprise fund establishment",
-        "category": "Environment & conservation",
+        "title": "Review and editing of Advisory Committee Special Town Meeting report",
+        "category": "Town administration",
         "importance": "high",
-        "summary": "Members discussed the wording for Article 5, which would establish a stormwater enterprise fund as an accounting mechanism for future stormwater management costs and revenues. The committee emphasized that this article only creates the fund structure and does not implement fees or funding, which would require future Town Meeting approval. The primary benefit discussed is the ability to eventually allocate stormwater management costs based on impervious surface across all properties, including tax-exempt parcels.",
+        "summary": "The committee performed a comprehensive text review and revision of its draft report and recommendations for the October 17 Special Town Meeting warrant articles. Key adjustments clarified financial details on personal property tax exemptions under Article 8, clarified that Article 6 rescinds unissued borrowing authority rather than returning cash, explained the function and lack of immediate fees for the Article 5 stormwater enterprise fund, and refined explanations on trail bridge costs, golf course irrigation funding, and concerns regarding two-family zoning under Article 2. At the conclusion of the review, the committee voted to approve the report as amended.",
         "key_details": [
-          "Establishes a stormwater enterprise fund as an accounting mechanism only",
-          "Does not create fees or funding; any future fee requires Town Meeting authorization",
-          "Intended to eventually allocate stormwater costs based on impervious surface area",
-          "Would allow revenue capture from tax-exempt properties like private schools and businesses",
-          "Committee previously voted 7-0 to recommend approval"
+          "Article 8 clarification: Raising exemption to $2,500 exempts 22 accounts with a total assessed value of $40,100.",
+          "Article 6 clarification: Rescinding remaining authorized borrowing of $727,960 for Breakneck Hill and $375,000 for the Neary School study because projects required less debt than authorized.",
+          "Article 5 clarification: Establishes the enterprise fund as an accounting structure only; no stormwater fees are created without future Town Meeting authorization.",
+          "Article 4 and 3 refinements: Adjusted phrasing on high trail bridge costs per linear foot and noted taxpayer funding concerns versus self-sustaining operations at the golf course.",
+          "Article 2 zoning: Retained explanation of committee concerns regarding removal of the two-year ownership requirement and potential neighborhood character impacts."
         ],
-        "outcome": "Report language adjusted to emphasize that any future fees require Town Meeting approval.",
-        "why_it_matters": "Lays the legal and accounting foundation for a future stormwater utility fee affecting town property owners.",
-        "start_seconds": 1860,
+        "outcome": "Approved 6-0 as amended.",
+        "why_it_matters": "The Advisory Committee report provides official voter guidance and cost analyses for all warrant articles presented at Special Town Meeting.",
+        "start_seconds": 410,
         "end_seconds": null
       },
       {
-        "title": "Article 4: Peninsula Trail bridge funding request",
-        "category": "Parks, recreation & open space",
-        "importance": "high",
-        "summary": "The committee edited its report on Article 4, which requests an additional $217,000 in Community Preservation Act (CPA) funds on top of an existing $211,000 appropriation, bringing the total project cost to $428,550. The funds would cover a 65-foot prefabricated bridge parallel to Route 30 crossing a brook, with an estimated bridge cost of roughly $5,000 per linear foot ($320,000 total). While acknowledging safety concerns and supporting trail completion, the committee unanimously opposes the appropriation due to excessive cost.",
-        "key_details": [
-          "Requests $217,000 additional CPA funds, increasing total project cost to $428,550",
-          "Funds a 65-foot prefabricated bridge parallel to Route 30 crossing a brook",
-          "Bridge construction estimated at roughly $5,000 per foot ($320,000 total)",
-          "Boardwalk component was canceled in favor of a natural surface trail",
-          "Committee previously voted 0-7 against supporting the article"
-        ],
-        "outcome": "Report text edited to state the committee appreciates safety concerns but cannot support the project cost.",
-        "why_it_matters": "Addresses a proposed $217,000 CPA appropriation for a trail bridge that Advisory determined is too expensive.",
-        "start_seconds": 2655,
-        "end_seconds": null
-      },
-      {
-        "title": "Article 3: Golf course irrigation system funding",
-        "category": "Parks, recreation & open space",
-        "importance": "high",
-        "summary": "The committee reviewed its report text opposing Article 3, which would fund approximately $1 million for Southborough Golf Club irrigation improvements using roughly 85% CPA funds and 15% ($150,000) from the golf revolving fund. Members expressed strong opposition to shifting capital costs to taxpayers via CPA funds when the golf course was originally intended to be self-sustaining. The committee noted an alternative proposal to borrow $533,000 over 20 years funded by a $1.50 per-round surcharge on players.",
-        "key_details": [
-          "Project cost roughly $1 million, funded 85% by CPA and 15% ($150,000) by golf revolving fund",
-          "Strong opposition to shifting golf course costs to general taxpayers via CPA",
-          "Members noted the course was originally presented as self-funding",
-          "Alternative proposal suggested borrowing $533,000 backed by a $1.50 per-round player surcharge",
-          "Committee previously voted 0-7 against supporting the article"
-        ],
-        "outcome": "Report text revised to reflect that the course was intended to be self-funding.",
-        "why_it_matters": "Involves nearly $1 million in CPA taxpayer funds for municipal golf course capital improvements.",
-        "start_seconds": 3135,
-        "end_seconds": null
-      },
-      {
-        "title": "Article 2: Two-family dwelling zoning amendment",
-        "category": "Development & zoning",
-        "importance": "high",
-        "summary": "The committee finalized its text on Article 2, which proposes zoning amendments to allow two-family dwellings. While supporting efforts to address housing shortages and clean up town code, members raised serious concerns about removing the two-year ownership requirement, lot size impacts in Residential B zones, reliance on percolation tests for septic capacity, and the limited practical protection of special permits. The committee's split vote resulted in an unfavorable recommendation.",
-        "key_details": [
-          "Zoning amendment would permit two-family dwellings in certain residential districts",
-          "Committee concerned removing two-year ownership requirement invites speculative house-flipping",
-          "Raised concerns over septic impacts and smaller lot sizes in Residential B zones",
-          "Noted special permits do not serve as reliable preventative safeguards in practice",
-          "Committee previously voted 3-4 against recommending the article"
-        ],
-        "outcome": "Report text edited to clarify specific concerns regarding flipping, lot sizes, and septic capacity.",
-        "why_it_matters": "Determines town-wide residential zoning rules regarding two-family homes and neighborhood density.",
-        "start_seconds": 3805,
-        "end_seconds": null
-      },
-      {
-        "title": "Article 1: Town Clerk appointed position proposal",
+        "title": "Future meeting schedule and Neary School project update",
         "category": "Town administration",
         "importance": "medium",
-        "summary": "Members reviewed report language for Article 1, which proposes changing the Town Clerk position from elected to appointed. The committee supported the change to draw a larger pool of qualified candidates for an increasingly technical role, following trends across Massachusetts towns. The main concern raised was the loss of direct voter control, prompting members to recommend that employment contracts include a termination-for-cause clause.",
+        "summary": "The committee reviewed its calendar ahead of the October 17 Special Town Meeting. Members discussed a tentative request from the School Building Committee, superintendent, and Select Board for a joint meeting on October 13 to review five architectural options and preliminary cost ranges for the Neary School building project. Members agreed not to hold a standalone meeting on October 13 if the joint meeting is not finalized, and decided against holding a pre-meeting immediately before Town Meeting on October 17.",
         "key_details": [
-          "Proposes converting Town Clerk from an elected position to an appointed hire",
-          "Intended to expand the applicant pool for an increasingly technical position",
-          "Committee noted roughly half of Massachusetts municipalities now appoint clerks",
-          "Suggested employment contracts include a termination-for-cause protection",
-          "Committee previously voted 6-0 to recommend approval"
+          "Special Town Meeting is scheduled for October 17, 2026, at 10:00 AM at Trottier Middle School.",
+          "Joint meeting regarding Neary School building options tentatively discussed for October 13 at 6:30 PM, subject to final confirmation.",
+          "The committee opted not to hold a separate meeting on October 13 if the joint session does not occur."
         ],
-        "outcome": "Report wording adjusted to highlight concerns about direct voter control and contractual protections.",
-        "why_it_matters": null,
-        "start_seconds": 4660,
-        "end_seconds": null
-      },
-      {
-        "title": "Advisory Committee report approval and meeting schedule",
-        "category": "Town administration",
-        "importance": "medium",
-        "summary": "The committee voted unanimously to approve its final report to Special Town Meeting as edited, authorizing the chair to make minor typographical and formatting adjustments. Members also discussed upcoming scheduling, noting an invitation to a joint meeting with the School Building Committee, Superintendent, and Select Board regarding five design options and preliminary costs for the Neary School project.",
-        "key_details": [
-          "Committee voted 6-0 to approve the Special Town Meeting report as edited",
-          "Authorized chair to make minor clerical and formatting corrections",
-          "Discussed tentative joint meeting on Neary School building options proposed for October 13",
-          "Decided against holding a formal Advisory Committee meeting next week unless the joint meeting occurs"
-        ],
-        "outcome": "Report approved 6-0; next standalone meeting will be Special Town Meeting on October 17.",
-        "why_it_matters": null,
-        "start_seconds": 5045,
+        "outcome": "Discussed without a formal vote.",
+        "why_it_matters": "Sets committee attendance and potential review of options for the major upcoming Neary School building project.",
+        "start_seconds": 5123,
         "end_seconds": null
       },
       {
         "title": "Routine business",
         "category": "Town administration",
         "importance": "low",
-        "summary": "The committee reviewed and approved meeting minutes from three previous sessions and adjourned.",
+        "summary": "The committee reviewed and voted to approve three sets of past meeting minutes and adjourned.",
         "key_details": [
-          "Approved minutes for July 29, 2020 (6-0)",
-          "Approved minutes for August 5, 2020 (5-0-1, with one abstention)",
-          "Approved minutes for August 11, 2020 joint Select Board meeting (4-0-2, with two abstentions)",
-          "Meeting adjourned at 9:11 p.m."
+          "Approved minutes of July 28, 2026 (6-0).",
+          "Approved minutes of August 5, 2026 (5-0-1, with one abstention).",
+          "Approved minutes of the August 11, 2026 joint meeting with the Select Board (4-0-2, with two abstentions)."
         ],
-        "outcome": "Minutes approved; meeting adjourned.",
+        "outcome": "Minutes approved.",
         "why_it_matters": null,
-        "start_seconds": 5355,
+        "start_seconds": 5356,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Recommend approval of Article 7, Water Connection for Two Homes Near Parkerville Landfill ($240,000), as printed in the warrant",
+        "motion": "Recommend approval of Article 7 as printed in the warrant",
         "result": "passed",
-        "tally": "6-0",
-        "start_seconds": 320
+        "tally": "6-0-0",
+        "start_seconds": 322
       },
       {
-        "motion": "Approve the Advisory Committee Report to Special Town Meeting as edited, authorizing the chair or drafter to make minor editorial and formatting corrections",
+        "motion": "Approve the Advisory Committee report for Special Town Meeting as edited, authorizing the chair or drafter to make minor edits and formatting corrections",
         "result": "passed",
-        "tally": "6-0",
+        "tally": "6-0-0",
         "start_seconds": 5081
       }
     ],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Tentative joint meeting with School Building Committee, Superintendent, and Select Board regarding Neary School building options",
-        "when": "October 13, 2020"
+        "what": "Tentative joint meeting with Select Board and School Building Committee on Neary School building options",
+        "when": "October 13, 2026"
       },
       {
         "what": "Special Town Meeting at Trottier Middle School",
-        "when": "October 17, 2020 at 10:00 a.m."
+        "when": "October 17, 2026 at 10:00 AM"
       }
     ],
     "caveats": null
@@ -209,24 +106,24 @@
   "model": "gemini-3.8-flash",
   "processing": "static",
   "fallback_reason": null,
-  "prompt_version": "2026-10-13b",
-  "processed_at": "2026-10-14T10:38:40Z",
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T14:48:10Z",
   "usage": {
-    "total_tokens": 238213,
-    "total_input_tokens": 226690,
+    "total_tokens": 229903,
+    "total_input_tokens": 226980,
     "input_tokens_by_modality": [
-      {
-        "modality": "text",
-        "tokens": 692
-      },
       {
         "modality": "video",
         "tokens": 225998
+      },
+      {
+        "modality": "text",
+        "tokens": 982
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 3349,
+    "total_output_tokens": 1661,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 8174
+    "total_thought_tokens": 1262
   }
 }

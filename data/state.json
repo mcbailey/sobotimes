@@ -175,10 +175,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-06",
       "week": "2026-10-05",
-      "processed_at": "2026-10-14T10:38:40Z",
-      "prompt_version": "2026-10-13b",
-      "last_error": null,
-      "redo": true
+      "processed_at": "2026-10-19T14:48:10Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "jIrNNYw8PME": {
       "id": "jIrNNYw8PME",
@@ -193,10 +192,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-10-06",
       "week": "2026-10-05",
-      "processed_at": "2026-10-14T10:40:54Z",
-      "prompt_version": "2026-10-13b",
-      "last_error": null,
-      "redo": true
+      "processed_at": "2026-10-19T14:50:26Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "InzL5O9vgMQ": {
       "id": "InzL5O9vgMQ",
@@ -229,10 +227,9 @@
       "discovered_at": "2026-10-13T19:38:38Z",
       "meeting_date": "2026-09-28",
       "week": "2026-09-28",
-      "processed_at": "2026-10-14T12:14:07Z",
-      "prompt_version": "2026-10-13b",
-      "last_error": null,
-      "redo": true
+      "processed_at": "2026-10-19T14:53:42Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "QmtBoOh20QA": {
       "id": "QmtBoOh20QA",
@@ -3853,19 +3850,19 @@
       "tool_use_tokens": 0
     },
     "2026-10-19": {
-      "video_minutes": 1511,
-      "calls": 90,
-      "input_tokens": 4370127,
-      "output_tokens": 129538,
-      "thought_tokens": 321359,
+      "video_minutes": 1876,
+      "calls": 114,
+      "input_tokens": 5429583,
+      "output_tokens": 156931,
+      "thought_tokens": 446419,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-19T14:20:10Z",
+    "at": "2026-10-19T14:44:51Z",
     "discovered": 28,
-    "summarized": 2,
-    "refreshed": 0,
+    "summarized": 0,
+    "refreshed": 3,
     "errors": 0
   }
 }

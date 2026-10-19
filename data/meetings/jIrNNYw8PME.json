@@ -9,111 +9,188 @@
     "is_public_meeting": true,
     "body": "Select Board",
     "meeting_date": "2026-10-06",
-    "headline": "Select Board reviewed town governance study findings, discussed upcoming Town Meeting warrant articles, and voted to enter executive session.",
-    "summary": "The Select Board convened on October 6, 2026, receiving a presentation from Capital Strategic Strategies on a town government structure study. The board also heard updates on Heritage Park, Rotary Club events, and school building options, reviewed Town Meeting warrant articles and assigned motion makers, and voted to enter executive session to discuss fire chief contract negotiations.",
+    "headline": "The Select Board declined to retain $100,000 in unissued debt for Breakneck Hill restoration and reviewed Town Meeting preparations.",
+    "summary": "The Select Board received an update on the town government structure study from consultant Bill Keegan, with a final report anticipated in December following a public forum. The board also reviewed the October 17 Special Town Meeting warrant and unanimously refused a request from the Stewardship Committee and Conservation Commission to retain $100,000 in unissued borrowing authority for Breakneck Hill remediation work. Additionally, the board announced over $1.3 million in state and federal grants, indefinitely postponed a proposed municipal procurement policy, and assigned members to present warrant articles.",
     "topics": [
       {
-        "title": "Governance structure study update",
+        "title": "Town government structure study update",
         "category": "Town administration",
-        "importance": "high",
-        "summary": "Bill Keegan of Capital Strategic Strategies presented an initial overview of the town government structure study, examining Southborough's governance model, town manager authority, and committee structures in comparison to other Massachusetts municipalities.",
-        "key_details": [
-          "Town engaged Capital Strategic Strategies for government structure study",
-          "Southborough has 68 committees compared to state averages",
-          "Discussed town manager form of government and charter versus bylaws"
-        ],
-        "outcome": "discussed",
-        "why_it_matters": "Potential changes to town government structure and administrative authority impact town operations, efficiency, and resident services.",
-        "start_seconds": 366,
-        "end_seconds": null
-      },
-      {
-        "title": "Committee reports and updates",
-        "category": "Parks, recreation & open space",
         "importance": "medium",
-        "summary": "Board members received updates regarding Heritage Park grant funding and equipment installation, Rotary Club event schedules, and elementary school building committee project pricing options.",
+        "summary": "Bill Keegan of Capital Strategic Solutions briefed the board on the town government structure review. He noted Southborough's governance format is common across Massachusetts but discussed options for clearer town administrator authority, potential charter or bylaw updates, and committee realignment. A public listening session is planned for early November, followed by individual board interviews and a final report in December.",
         "key_details": [
-          "Heritage Park received grant funding from CHNA fund for park improvements",
-          "Rotary Club Octoberfest scheduled for October 18",
-          "Elementary school building committee reviewed five pricing options ranging from 32 million to 42 million dollars"
+          "Final report targeted for completion in December.",
+          "Initial survey of department heads and committee chairs received high participation.",
+          "A public listening session will be held in early November with an online feedback option.",
+          "Board members agreed to schedule individual interviews with the consultant."
         ],
-        "outcome": "accepted reports",
+        "outcome": "Discussion held; public listening session scheduled for early November.",
         "why_it_matters": null,
-        "start_seconds": 2110,
+        "start_seconds": 356,
         "end_seconds": null
       },
       {
-        "title": "Town Meeting warrant articles review",
-        "category": "Town administration",
-        "importance": "high",
-        "summary": "The board reviewed upcoming Town Meeting warrant articles, discussed site restoration balances and borrowing closeouts, assigned board members to make motions on specific articles, and debated policies related to conflict of interest and procurement.",
-        "key_details": [
-          "Reviewed site restoration funds and borrowing authorizations",
-          "Assigned motion makers for warrant articles",
-          "Discussed town clerk appointment versus election article"
-        ],
-        "outcome": "discussed",
-        "why_it_matters": "Warrant articles determine municipal appropriations, capital spending, local taxation, and bylaw changes voted on by residents.",
-        "start_seconds": 2270,
-        "end_seconds": null
-      },
-      {
-        "title": "Routine business and executive session",
+        "title": "Routine business",
         "category": "Town administration",
         "importance": "low",
-        "summary": "The board approved consent agenda items and meeting minutes, and voted to enter executive session to discuss fire chief contract negotiations without returning to open session.",
+        "summary": "The board handled routine community announcements, department updates, and consent agenda items. Announcements included election and early voting dates, community events, and a progress update on Heritage Park equipment.",
         "key_details": [
-          "Approved consent agenda items and meeting minutes",
-          "Voted to enter executive session under MGL chapter 38, section 21, exemption 3"
+          "Rotary Oktoberfest rescheduled to October 18, 1:15 PM to 5:15 PM, with police details.",
+          "Amy Berry was sworn in as interim town clerk on October 1; 1,793 mail-in ballots were mailed.",
+          "Heritage Park game box is in place with access code 1727.",
+          "Approved consent agenda items B through L, N, and meeting minutes from September 15 and 24.",
+          "Approved a $161,545 contract for overhead door replacement, returning over $120,000 from the original $287,500 authorization."
         ],
-        "outcome": "approved and entered executive session",
+        "outcome": "Consent agenda, minutes, and overhead door contract approved.",
         "why_it_matters": null,
-        "start_seconds": 2953,
+        "start_seconds": 2105,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary Elementary School building project options",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The board received an update on the Neary Elementary School Building Committee's work. The committee is analyzing five preliminary options ranging from basic systems upgrades to major gymnasium expansions, and plans to present an informational update at Town Meeting.",
+        "key_details": [
+          "Base systems upgrade option is estimated at roughly $33 million.",
+          "Most expensive option with gymnasium expansion is estimated at roughly $49 million.",
+          "The committee requested an additional analysis for a lower-cost $15 million option.",
+          "A brief informational presentation is scheduled for Town Meeting on October 17."
+        ],
+        "outcome": "Update accepted; joint meeting with School Committee and Advisory Committee to be scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 2426,
+        "end_seconds": null
+      },
+      {
+        "title": "State and federal grant awards and Costco alcohol license",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "The town administrator announced more than $1.3 million in outside grant awards, highlighted by a $1.1 million MassWorks grant for Southville Road. The governor also signed special legislation authorizing an additional alcohol license for Costco, and other awards funded fire safety gear and regional corridor planning.",
+        "key_details": [
+          "Received a $1.1 million MassWorks grant to replace 1,300 feet of water main on Southville Road with 12-inch ductile iron pipe.",
+          "Special act signed by the governor granting an alcohol license for Costco, with authority to issue it until October 4, 2028.",
+          "Awarded $150,000 jointly with Westborough for a Route 9 and I-495 business corridor study.",
+          "Received an $86,857.14 FEMA grant for Fire Department hose replacement.",
+          "Received $20,559 in highway traffic safety funds for police enforcement overtime and LiDAR equipment."
+        ],
+        "outcome": "Grants and legislative approval announced; no board vote required.",
+        "why_it_matters": "The town secured over $1.3 million in outside state and federal funding to upgrade critical water mains, fire equipment, and traffic safety without local tax impact.",
+        "start_seconds": 2611,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting warrant review and Breakneck Hill debt rescission",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board reviewed warrant articles for the October 17 Special Town Meeting and considered a request from the Conservation Commission and Stewardship Committee to modify Article 6. The committees requested holding back $100,000 in unissued borrowing authority for additional Breakneck Hill dump cleanup and habitat restoration. The board unanimously opposed offering or supporting any floor amendment to reduce the rescission, noting $176,000 in borrowed funds remains available.",
+        "key_details": [
+          "Article 6 seeks to rescind $727,960 in authorized but unborrowed debt from the Breakneck Hill remediation project.",
+          "The town previously borrowed $3.6 million of a $4.327 million total authorization, leaving roughly $176,000 unspent in cash.",
+          "The Stewardship Committee sought to keep $100,000 authorized (rescinding $627,960) to fund additional meadow restoration and road repairs.",
+          "Board members agreed that the original environmental remediation is complete and declined to sponsor a floor amendment.",
+          "Board members were assigned to make the motions on Town Meeting floor for Articles 1, 2, 6, and 7."
+        ],
+        "outcome": "The board unanimously declined to support amending Article 6 on town meeting floor.",
+        "why_it_matters": "Full rescission of $727,960 in authorized borrowing closes out long-standing remediation debt capacity and prevents additional town borrowing for property landscaping.",
+        "start_seconds": 3110,
+        "end_seconds": null
+      },
+      {
+        "title": "Proposed procurement and conflict of interest policy",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed a draft procurement and conflict of interest policy intended to standardize town purchasing practices. Members criticized the draft as overly rigid and redundant with existing state ethics statutes, pointing out unreasonable mandates such as requiring audited financial statements from small contractors.",
+        "key_details": [
+          "Draft policy included strict pre-qualification requirements and audited financial statements for contractors.",
+          "Members noted that statutory conflict of interest rules and mandatory ethics training already govern town operations.",
+          "Revisions from town counsel removed confidentiality language but simply duplicated state law text."
+        ],
+        "outcome": "The board agreed by consensus to table the policy indefinitely.",
+        "why_it_matters": null,
+        "start_seconds": 5180,
         "end_seconds": null
       }
     ],
     "votes": [
       {
-        "motion": "Enter executive session per MGL chapter 38, section 21, exemption 3, to discuss negotiations on fire chief contract, with no return to open session",
+        "motion": "Approve consent agenda items B through L, N, and the minutes of September 24, 2026",
         "result": "passed",
         "tally": "unanimous",
-        "start_seconds": 3206
+        "start_seconds": 3008
+      },
+      {
+        "motion": "Approve the meeting minutes of September 15, 2026, as amended",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3054
+      },
+      {
+        "motion": "Approve the overhead door replacement contract in the amount of $161,545",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 3105
+      },
+      {
+        "motion": "Enter into executive session under MGL Chapter 30A, Section 21(a)(3) to discuss fire chief contract negotiations, not to return to open session",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5606
       }
     ],
     "public_comment": [],
     "upcoming": [
       {
-        "what": "Town Meeting",
+        "what": "Pumpkin Stroll event",
+        "when": "October 11"
+      },
+      {
+        "what": "Special Town Meeting at Trottier Middle School",
+        "when": "October 17, 10:00 AM"
+      },
+      {
+        "what": "In-person early voting begins",
         "when": "October 17"
       },
       {
-        "what": "Early voting begins",
-        "when": "October 17"
+        "what": "Rescheduled Rotary Oktoberfest",
+        "when": "October 18, 1:15 PM"
+      },
+      {
+        "what": "Public listening session on government structure study",
+        "when": "Early November"
+      },
+      {
+        "what": "State and presidential election",
+        "when": "November 3, 6:30 AM to 8:00 PM"
+      },
+      {
+        "what": "Delivery of town governance structure study report",
+        "when": "December"
       }
     ],
     "caveats": null
   },
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "processing": "static",
   "fallback_reason": null,
-  "prompt_version": "2026-10-13b",
-  "processed_at": "2026-10-14T10:40:54Z",
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T14:50:26Z",
   "usage": {
-    "total_tokens": 217549,
-    "total_input_tokens": 215031,
+    "total_tokens": 221157,
+    "total_input_tokens": 215321,
     "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 983
+      },
       {
         "modality": "video",
         "tokens": 214338
-      },
-      {
-        "modality": "text",
-        "tokens": 693
       }
     ],
     "total_cached_tokens": 0,
-    "total_output_tokens": 1011,
+    "total_output_tokens": 2390,
     "total_tool_use_tokens": 0,
-    "total_thought_tokens": 1507
+    "total_thought_tokens": 3446
   }
 }

@@ -1,6 +1,6 @@
 {
   "week": "2026-09-28",
-  "fingerprint": "0268bb2dcb817bf9",
+  "fingerprint": "c72144d364a4bb67",
   "topics": {
     "InzL5O9vgMQ#0": {
       "issue": null,
@@ -59,10 +59,10 @@
       "issue": "154-turnpike-road"
     },
     "hCwuB4U1qOk#v2": {
-      "issue": "154-turnpike-road"
+      "issue": "22-turnpike-road"
     },
     "hCwuB4U1qOk#v3": {
-      "issue": "22-turnpike-road"
+      "issue": "154-turnpike-road"
     },
     "hCwuB4U1qOk#v4": {
       "issue": "21-coslin-drive-costco"
@@ -102,10 +102,10 @@
       "issue": null
     },
     "hCwuB4U1qOk#u3": {
-      "date": "2026-10-21",
+      "date": "2026-10-17",
       "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T03:21:39Z"
+  "generated_at": "2026-10-19T14:57:54Z"
 }

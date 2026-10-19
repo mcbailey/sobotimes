@@ -274,22 +274,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-07",
       "last_seen": "2026-10-08",
-      "status": "Planning for the 2030 Master Plan update is under review as town officials evaluate committee structure, timing, and funding options. The Master Plan Implementation Committee recommends that the Planning Board lead the creation of a new committee in 2027 using a hybrid model that pairs volunteers with a consultant. Potential funding avenues include state technical assistance grants or a Town Meeting warrant article to cover consultant costs estimated between $40,000 and $100,000. The Planning Board and Master Plan Implementation Committee meet for a joint discussion on the proposal on October 19, 2026.",
+      "status": "Preparations for Southborough's 2030 Master Plan update are in the early planning stages, with boards coordinating on process, committee structure, and funding. The Master Plan Implementation Committee recommends that the Planning Board establish a dedicated Master Plan sub-committee in 2027 to produce the plan using a hybrid model with an outside consultant. Estimated consultant costs range from $40,000 to $100,000, with potential funding paths including state technical assistance grants or a Town Meeting warrant article. The two boards are meeting jointly on October 19, 2026, to review peer-town research and align on next steps.",
       "status_as_of": "2026-10-08",
       "positions": [
         {
           "body": "Master Plan Implementation Committee",
           "stance": "support",
-          "detail": "Recommends initiating a new committee in 2027 under Planning Board leadership using a hybrid model with a professional consultant."
+          "detail": "Recommends the Planning Board form a new sub-committee in 2027 and engage a consultant under a hybrid model funded by grants or a warrant article."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Is exploring the hybrid consultant model and funding mechanisms, having postponed formal goal adoption until the full board is present."
+          "detail": "Postponed formal adoption of 2030 Master Plan goals pending a full board and scheduled a joint review to evaluate committee and funding options."
         }
       ],
       "next": "Joint meeting of the Planning Board and Master Plan Implementation Committee on October 19, 2026.",
-      "status_fingerprint": "319893aa74b15b2b",
+      "status_fingerprint": "ffd4e02a33790217",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -300,27 +300,27 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "status": "The proposed 167,000-square-foot Costco retail warehouse and 30-position fueling station is currently under site plan and special permit review by the Planning Board, after the Zoning Board of Appeals granted height variances for retaining walls and light poles in July. Key unresolved issues center on traffic mitigation along Route 9, state environmental review under MEPA, and potential cut-through traffic on residential roads. Residents have urged more thorough analysis of regional traffic impacts, truck turnarounds at Route 85, and local water pressure. The Planning Board continues its public hearing on the project tonight, October 19, 2026.",
+      "status": "Costco's proposal to construct a 167,000-square-foot retail warehouse and 15-pump gas station at 21 Coslin Drive is currently before the Planning Board for major site plan approval and special permits. While the Zoning Board of Appeals granted variances in July for retaining walls and lighting, the Planning Board is weighing ongoing peer reviews on traffic and stormwater impacts. Primary concerns from officials and residents center on regional cut-through traffic, truck turning safety, and Route 9 congestion. The Planning Board continues its public hearing on the project on October 19, 2026.",
       "status_as_of": "2026-09-28",
       "positions": [
         {
-          "body": "Zoning Board of Appeals",
-          "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot parking lot light poles."
-        },
-        {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Reviewing major site plan and special permit applications while awaiting peer review analysis of traffic modeling and intersection improvements."
+          "detail": "Opened public hearings on site plan and special permit applications on September 28, 2026, while reviewing traffic and stormwater studies."
+        },
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot light poles."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents voiced concerns regarding Route 9 congestion, cut-through traffic on Flagg and Southville roads, vehicle emissions, and truck turning conflicts at Route 85."
+          "detail": "Residents voiced concerns regarding failing intersection levels of service on Route 9, cut-through traffic on Flagg Road, chronic truck accidents, water pressure impacts, and vehicle emissions."
         }
       ],
-      "next": "Planning Board continued public hearing on October 19, 2026",
-      "status_fingerprint": "5d86c20e54ff96e5",
+      "next": "Planning Board continued public hearing on October 19, 2026.",
+      "status_fingerprint": "cb6ee4351f16332e",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -394,22 +394,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-28",
-      "status": "The major site plan modification for the 22 Turnpike Road golf range is currently before the Planning Board while a draft decision is finalized following engineering peer review. The Conservation Commission previously cleared an equipment storage shed for the site under the Wetlands Protection Act in April 2026. The Planning Board is scheduled to review the draft decision at its continued public hearing on October 19, 2026, ahead of an October 23 decision deadline.",
+      "status": "The Planning Board is reviewing a major site plan modification for the golf range at 22 Turnpike Road to expand stormwater infiltration, permit existing patios and a shed, and address sports lighting. The Conservation Commission approved a negative determination of applicability in April 2026 for a proposed equipment shed outside the wetland buffer zone. A draft decision is being prepared for the Planning Board ahead of its October 23, 2026 decision deadline.",
       "status_as_of": "2026-09-28",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Continued the hearing without testimony on Sep 28 while a draft decision is prepared for review."
+          "detail": "Reviewing revised submission materials following peer review by Nitsch Engineering, with a draft decision in preparation."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on Apr 30 to issue a negative determination of applicability with standard conditions for an equipment storage shed."
+          "detail": "Voted 5-0 on April 30, 2026, to issue a negative determination of applicability for an equipment storage shed located outside the wetland buffer zone."
         }
       ],
-      "next": "Planning Board continued public hearing to review draft decision on October 19, 2026",
-      "status_fingerprint": "a337501c63c0993c",
+      "next": "Planning Board continued public hearing on October 19, 2026.",
+      "status_fingerprint": "7fb7a6add73fd8c6",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -898,27 +898,32 @@
       "category": "Governance & committees",
       "first_seen": "2026-08-31",
       "last_seen": "2026-10-06",
-      "status": "The proposal to convert the town clerk from an elected office to an appointed position is supported by both the Select Board and the Advisory Committee, with an interim clerk appointed to serve through May 2027. Transitioning the office requires Town Meeting approval followed by either a local ballot question or a special act of the state legislature. The main concern raised during reviews is the loss of direct voter control, prompting Advisory to recommend employment contracts include a termination-for-cause protection. The measure is slated to appear as a ballot question at the May 11, 2027 annual town election unless pursued through state legislation.",
-      "status_as_of": "2026-10-06",
+      "status": "Amy Berry is serving as interim town clerk through May 11, 2027, following the retirement of Jim Hegarty. The Select Board and Advisory Committee both support permanently converting the position from an elected office to a three-year appointment, citing the growing technical complexity of election administration and the ability to recruit outside town borders. Some committee members and residents have raised concerns regarding Select Board removal authority and the loss of direct voter accountability at the ballot box. Final enactment requires Town Meeting approval followed by either a local ballot question or a special act of the legislature, with a ballot vote scheduled for the May 11, 2027 town election.",
+      "status_as_of": "2026-09-16",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Supported transitioning the role to appointed status and voted 5-0 to appoint Amy Berry as interim town clerk through May 2027."
+          "detail": "Voted 5-0 on Sep 15 to recommend the transition article, having unanimously appointed Amy Berry as interim town clerk through May 2027."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 6-0 to recommend the change to broaden the candidate pool for a technical role, while urging contract protections for termination only with cause."
+          "detail": "Voted 6-0 on Sep 16 to recommend approval of Article 1, citing the role's technical demands and the advantage of recruiting beyond Southborough."
+        },
+        {
+          "body": "Special Town Meeting",
+          "stance": "support",
+          "detail": "Voted by majority on Apr 11 to convert the town clerk to an appointed office, rejecting an amendment to bar petitioning the legislature for a special act."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents at Town Meeting differed, with supporters citing the growing legal complexity of modern elections and opponents arguing the position should remain directly accountable to voters."
+          "detail": "Residents debated whether complex election statutes require professional appointment or if the position should remain directly accountable to voters at the ballot box."
         }
       ],
-      "next": "Annual Town Election ballot question on May 11, 2027.",
-      "status_fingerprint": "ce3f09bc070b5738",
+      "next": "Annual town election ballot question on May 11, 2027.",
+      "status_fingerprint": "cf9d91f7b8a09e82",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -1219,18 +1224,18 @@
       "description": "Proposed special state legislation authorizing an additional off-premises liquor license in Southborough for Costco.",
       "category": "Other",
       "first_seen": "2026-06-15",
-      "last_seen": "2026-06-16",
-      "status": "Special state legislation authorizing Southborough to issue an additional off-premises all-alcohol license for Costco is pending at the State House. Under refined draft language, the town would have two years to grant the license, which would revert to the state if left unused for three years. The Select Board unanimously supports the measure and agreed to submit testimony in favor of the bill.",
-      "status_as_of": "2026-06-16",
+      "last_seen": "2026-10-06",
+      "status": "The governor signed special legislation granting Southborough the authority to issue an additional off-premises alcohol license for Costco. Under the enacted law, the town has until October 4, 2028, to issue the license before the authorization expires. The Select Board now has authority to formally grant the license.",
+      "status_as_of": "2026-10-06",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 to back the home rule petition in March and agreed in June to submit written testimony supporting the special legislation."
+          "detail": "Voted 5-0 in March 2026 to back the Town Meeting petition and submitted testimony in favor before the bill was signed into law."
         }
       ],
       "next": "",
-      "status_fingerprint": "77bdfbc398ccf039",
+      "status_fingerprint": "4b3566fe21605ea2",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -1871,22 +1876,22 @@
       "category": "Environment & conservation",
       "first_seen": "2026-05-04",
       "last_seen": "2026-10-06",
-      "status": "Article 7 for the Special Town Meeting requests $240,000 from water retained earnings to extend a municipal water main and connect two homes near the closed Parkerville Road landfill. The extension is intended to eliminate drinking water contamination risks and avoid state-mandated long-term testing, with the town covering the connection lines from the street into the houses. Both the Select Board and the Advisory Committee recommend approval.",
+      "status": "Article 7 heads to Special Town Meeting with unified board support, seeking $240,000 from water retained earnings to extend the town water main and connect two homes near the capped Parkerville Road landfill. Both the Select Board and Advisory Committee recommend approval after confirming the town will cover the entire connection cost from the street into the private residences. The project is designed to permanently address contamination risks and avoid perpetual state-mandated well testing following chemical detections in nearby monitoring wells.",
       "status_as_of": "2026-10-06",
       "positions": [
         {
-          "body": "Select Board",
-          "stance": "support",
-          "detail": "Recommended approval and sponsored the article to eliminate long-term contamination risks and avoid perpetual state-mandated well testing."
-        },
-        {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on Oct 6 to recommend approval after confirming the town will pay for the service lines into the houses."
+          "detail": "Voted 6-0 on Oct 6 to recommend Article 7 after confirming the town will cover the complete connection costs into the private homes."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-0-1 on Sep 15 to recommend Article 7 to eliminate perpetual private well testing mandates and long-term contamination risks."
         }
       ],
       "next": "",
-      "status_fingerprint": "dd3e6acc11d86809",
+      "status_fingerprint": "9387cb344c7b50ca",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -2167,24 +2172,19 @@
       "description": "Review and formal adoption of town financial policies recommended by the Massachusetts Division of Local Services.",
       "category": "Budget & taxes",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-09-24",
-      "status": "The Select Board has adopted six municipal financial policies—including purchasing, investments, and anti-fraud controls—while shelving state-recommended reserve targets because the town does not currently meet those levels. Draft policies covering procurement confidentiality, grant management, senior tax work-offs, and budget development remain under review. Key open questions involve clarifying RFP pricing procedures under state procurement law and defining the statutory roles of the Select Board, Town Administrator, and Advisory Committee in the budget process. No further hearing or vote is currently scheduled.",
-      "status_as_of": "2026-09-24",
+      "last_seen": "2026-10-06",
+      "status": "Adoption of the town's comprehensive municipal financial policies is largely stalled following the approval of six individual policies earlier this year. The Select Board previously shelved recommended state reserve policies because the town cannot meet the reserve levels, and it placed budget development policies on hold pending clarification from town counsel and state officials. Most recently, on October 6, the board tabled the draft procurement and conflict of interest policy indefinitely, criticizing it as overly rigid and redundant with state ethics laws.",
+      "status_as_of": "2026-10-06",
       "positions": [
         {
           "body": "Select Board",
           "stance": "mixed",
-          "detail": "Has approved six administrative policies but shelved state reserve recommendations and postponed votes on budget, procurement, and grant rules pending legal and committee review."
-        },
-        {
-          "body": "Public comment",
-          "stance": "neutral",
-          "detail": "Residents suggested establishing a centralized database to track grant lifecycles and proposed eliminating income limits on the senior tax work-off program."
+          "detail": "Has adopted six financial policies, but shelved the reserve policy and indefinitely tabled the procurement and ethics policy due to burdensome contractor requirements."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "2822d7d484c42ee2",
+      "status_fingerprint": "d3669afedfeb343e",
       "status_model": "gemini-3.8-flash"
     },
     "municipal-grants-management-policy": {
@@ -2302,37 +2302,37 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-10-15",
-      "status": "The Elementary School Building Committee and School Committee are focusing on a roughly $38 million addition and renovation plan (Option 3) after finding that a $15 million base-upgrade alternative cannot address mechanical or educational needs once mandatory fire sprinkler and ADA code triggers are funded. Consultants Tappé Architects are preparing schematic designs and cost models, while the School Committee is also weighing whether to reapply to the Massachusetts School Building Authority for state reimbursement. The building committee meets next to formally authorize the architects' scope of work ahead of design reviews targeted for Annual Town Meeting.",
+      "status": "The town is focusing its Neary Elementary School planning on an estimated $38 million addition and renovation plan (Option 3) after architects determined a $15 million baseline repair scope would trigger costly mandatory code work while leaving major mechanical and educational deficiencies unaddressed. Both the Elementary School Building Committee and the School Committee have endorsed the addition and renovation path as their preferred direction. The School Committee is also weighing whether to reapply to the Massachusetts School Building Authority in November, an alternative that would restart a five- to six-year state process. The building committee is scheduled to formally authorize schematic design work for Option 3 on October 21, 2026, leading toward joint board presentations in November and an anticipated Town Meeting vote in March 2027.",
       "status_as_of": "2026-10-15",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Favors advancing schematic design for the approximately $38 million addition and renovation plan after determining that a $15 million baseline upgrade is not viable."
+          "detail": "Favors advancing Option 3, an estimated $38 million addition and renovation, after concluding that a $15 million repair option is unworkable."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted that its preferred direction is the addition and renovation plan and will deliberate in November on whether to submit an MSBA Statement of Interest."
+          "detail": "Voted that the addition and renovation plan is its preferred direction, while planning to evaluate an MSBA reapplication in November."
         },
         {
           "body": "Select Board",
           "stance": "neutral",
-          "detail": "Approved the feasibility study contract in June while emphasizing that consultants must objectively study both options approved by Town Meeting without prematurely eliminating either."
+          "detail": "Has received informational briefings on preliminary cost options ranging from $15 million to $49 million without taking a position."
         },
         {
           "body": "Advisory Committee",
           "stance": "neutral",
-          "detail": "Appointed a dedicated liaison in August to track project options, finances, and upcoming warrant articles."
+          "detail": "Appointed a liaison to monitor project scope and costs but has not taken a formal stance on an architectural option."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents urged officials to weigh Neary against town-wide capital needs and future Finn School maintenance, questioned potential tax override impacts, and called for transparency regarding central office relocation costs."
+          "detail": "Residents have urged officials to weigh Neary against future capital needs at Finn School, account for central office relocation costs, and keep clear renovation choices before voters."
         }
       ],
-      "next": "Elementary School Building Committee special meeting to formally vote on authorizing the schematic design scope on October 21, 2026.",
-      "status_fingerprint": "9fe8c35ac19f3ed4",
+      "next": "Elementary School Building Committee vote on schematic design directives for Option 3 on October 21, 2026.",
+      "status_fingerprint": "6558e611a46f0a71",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -2483,42 +2483,42 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
       "last_seen": "2026-10-08",
-      "status": "Special Town Meeting approved Article 4, authorizing up to $428,550 in Community Preservation Act funding to construct a 65-foot prefabricated pedestrian footbridge along Route 30. The appropriation passed despite formal opposition from both the Select Board and Advisory Committee over the project's high cost per foot. To reduce net CPA spending, the Trails Committee plans to seek matching state grant funding before construction proceeds under a December 2029 completion deadline.",
+      "status": "Town Meeting approved Article 4, authorizing $217,318 in additional Community Preservation Act funds and repurposing $211,232 in prior funding to construct a 65-foot prefabricated pedestrian footbridge along Route 30. The project passed despite opposition from the Select Board and Advisory Committee, who criticized the $428,550 total budget and high contingency allowances amid municipal operating budget pressures. Backed by the Trails Committee, Community Preservation Committee, Recreation Commission, and Conservation Commission, the bridge is framed as an essential safety connection between regional trail networks. To offset CPA spending, the Trails Committee plans to apply for state grant funding before construction moves toward a December 2029 completion deadline.",
       "status_as_of": "2026-10-08",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Sponsored Article 4 to resolve pedestrian safety hazards along Route 30 and declined to reduce the budget contingency on the Town Meeting floor."
+          "detail": "Sponsored Article 4 to resolve a pedestrian safety hazard on Route 30, with plans to pursue grant reimbursements to lower net town costs."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed, retaining requirements for grant reimbursement and formal oversight of contingency funds."
+          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed, maintaining contingency controls and a requirement to seek matching grant funds."
         },
         {
           "body": "Select Board",
           "stance": "oppose",
-          "detail": "Voted 1-4 on Sep 24 against supporting Article 4, citing concerns over total project costs relative to operating budget strains."
+          "detail": "Voted 1-4 on Sep 24 against supporting the article, questioning the roughly $5,000-per-foot bridge cost amid town operating budget strains."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 against recommending Article 4 due to excessive costs estimated at roughly $5,000 per linear foot."
+          "detail": "Voted 0-7 on Sep 16 to recommend against approval, citing sticker shock over the $428,550 total cost and questioning contingency sizing."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on Jun 25 to send a letter of support for the revised bridge-only CPA funding application."
+          "detail": "Voted 5-0 on Jun 25 to send a letter of support for the revised footbridge-only CPA application under its active permit."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted 3-0 on Jun 30 to submit a letter of support for the Trails Committee's updated CPA application."
+          "detail": "Voted 3-0 on Jun 30 to submit a letter of support for the revised CPA application connecting local and regional trails."
         }
       ],
       "next": "MassTrails grant application deadline on February 1, 2027.",
-      "status_fingerprint": "ef866dcf538fcf93",
+      "status_fingerprint": "caaba5d90b887065",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -2529,32 +2529,27 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "Article 8, which proposes raising Southborough's personal property tax exemption threshold from $1,500 to $2,500 starting in fiscal year 2028, is awaiting Town Meeting action with unanimous support from town boards. The change would exempt 22 small accounts with $40,100 in total assessed value, eliminating administrative billing expenses that exceed the estimated $200 to $600 in tax revenue collected. Though the measure previously passed at the April 2026 Special Town Meeting, the Advisory Committee finalized its warrant report language on October 6 ahead of a return to Town Meeting.",
-      "status_as_of": "2026-10-06",
+      "status": "The Board of Assessors' proposal to increase the personal property tax exemption threshold from $1,500 to $2,500 beginning in fiscal year 2028 has unanimous support across town boards. After passing by majority vote at the April 2026 Special Town Meeting, Article 8 was recommended for approval by both the Select Board (5-0) and the Advisory Committee (7-0) in September 2026. The change is designed to eliminate administrative overhead for approximately 22 small business accounts where assessment and collection costs exceed the estimated $200 to $600 in tax revenue generated. No further meetings or votes are currently scheduled.",
+      "status_as_of": "2026-09-16",
       "positions": [
         {
-          "body": "Advisory Committee",
+          "body": "Board of Assessors",
           "stance": "support",
-          "detail": "Voted 7-0 on Sep 16 to recommend approval, citing administrative costs that exceed the tax revenue collected."
+          "detail": "Proposed raising the exemption threshold to $2,500 starting in FY28 to eliminate administrative costs that exceed the tax revenue collected on small accounts."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 15 to recommend approval of Article 8."
+          "detail": "Voted 5-0 on Sep 15, 2026, to recommend approval of the Special Town Meeting article."
         },
         {
-          "body": "Board of Assessors",
+          "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Sponsored the proposal to eliminate assessment and collection overhead on roughly 22 small business accounts."
-        },
-        {
-          "body": "Special Town Meeting",
-          "stance": "support",
-          "detail": "Approved Article 8 by majority vote on April 11, 2026."
+          "detail": "Voted 7-0 on Sep 16, 2026, to recommend approval, citing reduced administrative overhead with minimal tax revenue loss."
         }
       ],
       "next": "",
-      "status_fingerprint": "779363bcc864e83f",
+      "status_fingerprint": "b951dcc648bdda3d",
       "status_model": "gemini-3.8-flash",
       "significance": 1
     },
@@ -2814,34 +2809,39 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "Article 6, proposed for the Fall Special Town Meeting, would rescind $1,102,960 in unissued borrowing authorizations for the Breakneck Hill dump cleanup ($727,960) and the Neary School study ($375,000). The Select Board and Advisory Committee both recommend approval to clear the town's debt records and prevent unnecessary future borrowing. However, the Conservation Commission, at the request of the Stewardship Committee, has asked the Select Board to reduce the Breakneck Hill rescission by $100,000 to preserve borrowing capacity for site restoration. The rescissions previously passed at the April 2026 Special Town Meeting and now await action on the upcoming Fall warrant.",
+      "status": "A Special Town Meeting warrant article proposes rescinding $1,102,960 in unused borrowing authorizations from the completed Breakneck Hill Farm dump remediation ($727,960) and Neary School feasibility study ($375,000). The Select Board and Advisory Committee support the full rescission to clear the town's debt books, unanimously rejecting a request from the Conservation Commission and Stewardship Committee to hold back $100,000 for site restoration. Although Special Town Meeting voted to approve rescinding these authorizations in April 2026, the rescission was placed back on the warrant for the October 17 Special Town Meeting, whose outcome is not yet recorded.",
       "status_as_of": "2026-10-06",
       "positions": [
         {
-          "body": "Advisory Committee",
-          "stance": "support",
-          "detail": "Voted 7-0 on Sep 16 to recommend approval of Article 6 to clear town debt books and prevent unnecessary future debt for completed projects."
-        },
-        {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 15 to recommend approval of Article 6."
+          "detail": "Voted to recommend Article 6 and unanimously opposed offering a floor amendment to retain $100,000, noting $176,000 in cash remains available."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "support",
+          "detail": "Voted 7-0 on Sep 16 to recommend Article 6 to clear unneeded debt authorizations from town records."
         },
         {
           "body": "Conservation Commission",
-          "stance": "mixed",
-          "detail": "Voted 4-1 on Sep 17 to ask the Select Board to reduce the rescinded borrowing capacity by $100,000 to retain flexibility for Breakneck Hill site restoration."
+          "stance": "oppose",
+          "detail": "Voted 4-1 on Sep 17 to request reducing the rescission by $100,000 to retain borrowing capacity for Breakneck Hill restoration, a request the Select Board rejected."
         },
         {
           "body": "Stewardship Committee",
           "stance": "oppose",
-          "detail": "Requested that $100,000 in Breakneck Hill borrowing authority be preserved for habitat and site restoration, which the Conservation Commission voted to support."
+          "detail": "Requested retaining $100,000 in borrowing authorization for habitat restoration and road repairs, which the Select Board declined to support."
+        },
+        {
+          "body": "Special Town Meeting",
+          "stance": "support",
+          "detail": "Voted by majority on Apr 11 to approve rescinding $1,102,960 in borrowing authority across the Breakneck Hill and Neary School accounts."
         }
       ],
-      "next": "Fall Town Meeting vote",
-      "status_fingerprint": "30ca1d96b61c6fc1",
+      "next": "",
+      "status_fingerprint": "c9c19be099b7e313",
       "status_model": "gemini-3.8-flash",
-      "significance": 4
+      "significance": 2
     },
     "reserve-fund-transfer-policy": {
       "id": "reserve-fund-transfer-policy",
@@ -3202,42 +3202,47 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-01",
       "last_seen": "2026-10-13",
-      "status": "Special Town Meeting approved Article 3 by majority vote, authorizing $433,546 in Community Preservation Act funds and $100,000 from the Golf Course Revolving Fund for the $1.09 million irrigation replacement project. While the Select Board, Community Preservation Committee, and Conservation Commission backed the appropriation, the Advisory Committee unanimously opposed using town-wide CPA money instead of player fees or borrowing. The funding remains subject to conditions that include meeting Audubon International certification standards, complying with the property's conservation restriction, and raising the revolving fund spending limit above its $70,000 cap. Next, the town anticipates the Select Board initiating procurement for a new golf course management contract in April 2027.",
+      "status": "Special Town Meeting approved Article 3 by majority vote, appropriating $433,546 in Community Preservation Act funds paired with $100,000 from the Golf Course Revolving Fund for a $1.09 million irrigation overhaul. The project had the unanimous backing of the Select Board and recommendation from the Community Preservation Committee, but faced unanimous opposition from the Advisory Committee, which argued the self-sustaining course should fund capital work through golfer surcharges. Prior to the vote, the Golf Committee mounted an extensive voter outreach campaign and opted not to seek floor amendments to decouple the new funding from an extension of $550,000 in expiring 2024 authorizations.",
       "status_as_of": "2026-10-13",
       "positions": [
         {
-          "body": "Golf Committee",
+          "body": "Special Town Meeting",
           "stance": "support",
-          "detail": "Requested the supplemental CPA and revolving funds to replace the failing system, advancing the article without floor amendments to secure Town Meeting approval."
-        },
-        {
-          "body": "Community Preservation Committee",
-          "stance": "support",
-          "detail": "Voted 4-1 on Sep 14 to approve the warrant article with conditions requiring Audubon International certification, conservation approvals, and a higher revolving fund limit."
+          "detail": "Approved Article 3 by majority vote to allocate $433,546 in CPA funds toward the irrigation project."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 24 to recommend approval of the revised warrant article."
+          "detail": "Voted 5-0 on Sep 24 to support revised Article 3 on the Special Town Meeting warrant."
         },
         {
-          "body": "Advisory Committee",
-          "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 against the article, arguing the golf course should be self-funding through user surcharges or borrowing rather than taxpayer CPA funds."
+          "body": "Community Preservation Committee",
+          "stance": "support",
+          "detail": "Voted 4-1 on Sep 14 to recommend the warrant article with environmental and revolving-fund conditions."
+        },
+        {
+          "body": "Golf Committee",
+          "stance": "support",
+          "detail": "Sponsored the project and voted unanimously on Oct 6 to spend up to $500 on voter outreach flyers."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Reached consensus supporting the project design, confirming the proposed pump station and directional boring under streams comply with the conservation restriction."
+          "detail": "Reached consensus on Aug 27 supporting the directional boring design and pump station placement under the conservation restriction."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Voted 0-7 on Sep 16 against recommending Article 3, maintaining the golf course should fund capital needs through user fees."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "At Town Meeting, residents debated whether the municipal course is a vital recreational asset justifying CPA funding or whether capital work should be funded exclusively through player fees."
+          "detail": "Comments ranged from support for maintaining the course as a vital community space to opposition over using town preservation funds instead of user fees."
         }
       ],
-      "next": "Select Board procurement process for the golf course management contract on April 1, 2027.",
-      "status_fingerprint": "0efa60ab4cc4324c",
+      "next": "Select Board procurement process for golf course management contract by April 1, 2027.",
+      "status_fingerprint": "a7e94d2e12d26a86",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -3326,32 +3331,32 @@
       "category": "Environment & conservation",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "Article 5, which establishes a dedicated stormwater enterprise fund effective July 1, 2027, is recommended for approval by both the Select Board (4-1) and the Advisory Committee (7-0) following a prior approval vote at the April 2026 Special Town Meeting. The measure establishes an accounting mechanism under state law to eventually shift costs toward impervious surface area, but it does not implement user fees or budgets. On October 6, the Advisory Committee adjusted its report wording to emphasize that any future fee structures will require separate Town Meeting authorization, with implementation targeted for spring 2027.",
-      "status_as_of": "2026-10-06",
+      "status": "Town Meeting approved Article 5 establishing a dedicated stormwater enterprise fund effective July 1, 2027, creating an accounting mechanism while leaving fees and operating budgets for future approval. The Select Board and Advisory Committee both support the fund to shift costs away from residential property taxes toward impervious surface area, though concerns remain over taxpayer impact and potential fees. Specific fee structures and the initial operating budget are scheduled for consideration at the Spring 2027 Annual Town Meeting.",
+      "status_as_of": "2026-09-16",
       "positions": [
-        {
-          "body": "Advisory Committee",
-          "stance": "support",
-          "detail": "Voted 7-0 on Sep 16 to recommend approval of Article 5, noting on Oct 6 that it creates an accounting mechanism without establishing fees."
-        },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 on Sep 15 to recommend approval of Article 5 after reviewing models to shift stormwater costs away from single-family property taxes."
+          "detail": "Voted 4-1 on Sep 15 to recommend approval of Article 5 to transition stormwater funding toward an impervious-surface user model."
         },
         {
-          "body": "Special Town Meeting",
+          "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Passed Article 5 by majority vote on Apr 11 to establish the enterprise fund effective July 1, 2027."
+          "detail": "Voted 7-0 on Sep 16 to recommend approval of Article 5, noting it establishes the accounting framework for FY28 without setting fees."
+        },
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 5 by majority vote on Apr 11 to establish the stormwater enterprise fund effective July 1, 2027."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A resident asked at Town Meeting who would pay into the fund and whether properties with private stormwater systems would receive exemptions."
+          "detail": "A resident asked who would pay into the fund and whether parcels with private stormwater systems would receive exemptions."
         }
       ],
-      "next": "Annual Town Meeting consideration of fee structure and operating budget in spring 2027.",
-      "status_fingerprint": "966dd330d6feb5cb",
+      "next": "Annual Town Meeting consideration of fee structure and operating budget in Spring 2027",
+      "status_fingerprint": "2ab063e23fb92b33",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3492,17 +3497,17 @@
       "category": "Governance & committees",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "status": "An 18-week study evaluating Southborough's municipal government structure is under review following an initial consultant presentation on October 6. The study by Capital Strategic Strategies is examining town manager authority, committee organization across the town's 68 committees, and potential transitions between charter and bylaw governance models. The Select Board approved the $24,650 contract in August in a 4-1 vote, with one member dissenting over expenditures during projected budget deficits. The process is slated to continue with listening sessions involving town officials and the public.",
+      "status": "A consultant-led review of Southborough's municipal government structure is underway following an initial briefing to the Select Board in early October. The study is evaluating town administrator authority, committee organization, and potential charter or bylaw updates. A public listening session and individual board member interviews are slated for November, with a final report targeted for December.",
       "status_as_of": "2026-10-06",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 on Aug 11 to fund the $24,650 study, though one member opposed spending ahead of expected budget deficits."
+          "detail": "Voted 4-1 on Aug 11 to fund the $24,650 study to explore administrative efficiencies, with one member dissenting over spending during tight budget conditions."
         }
       ],
-      "next": "",
-      "status_fingerprint": "01c68b672f9dd0e1",
+      "next": "Public listening session in early November 2026",
+      "status_fingerprint": "afe399bf05e84369",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3841,37 +3846,37 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-10-07",
-      "status": "A revised zoning amendment to eliminate the two-year waiting period for two-family dwelling conversions was scheduled as Article 2 at the October 17 Special Town Meeting, following the defeat of an earlier version in April. The Select Board and Zoning Board of Appeals backed the measure, while the Advisory Committee recommended against approval due to concerns over speculative property flipping, neighborhood density, and septic capacity. The Planning Board held hearings on whether the text could create loopholes on smaller commercial lots, and no Town Meeting outcome has yet been recorded.",
+      "status": "The proposed zoning amendment to eliminate the two-year waiting period for two-family conversions was scheduled for the October Special Town Meeting after a similar measure failed to win a two-thirds majority in April. The Zoning Board of Appeals and Select Board both backed the article as drafted, but the Advisory Committee voted against recommending it due to concerns about neighborhood density and municipal services. The Planning Board remained undecided after continuing its hearing to evaluate potential floor amendments clarifying district lot sizes. No subsequent proceedings or Town Meeting results have been recorded.",
       "status_as_of": "2026-10-07",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to advance the warrant article as drafted, opting against late edits to minimum lot size wording."
+          "detail": "Voted unanimously on Oct 7 to advance the article as drafted after approving final warrant revisions on Sep 16."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 24 to support revised Article 2 at Special Town Meeting."
+          "detail": "Voted 5-0 on Sep 24 to support the revised article, following an initial 4-1 vote to recommend approval on Sep 15."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 3-4 on Sep 16 against recommending approval, warning that removing the two-year rule encourages speculative flipping and stresses septic capacity."
+          "detail": "Voted 3-4 on Sep 16 against recommending approval, citing concerns regarding neighborhood density, septic capacity, and school and service impacts."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Continued its hearing to Oct 17 without taking a position while examining whether lot size language could allow two-family homes on undersized commercial parcels."
+          "detail": "Continued its public hearing on Sep 28 without taking a formal position while considering a potential floor amendment on district lot sizes."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Supporters argued two-family homes diversify housing for downsizers and young families, while opponents warned lifting conversion limits would spur investor teardowns without providing affordable units."
+          "detail": "Supporters favored creating diverse housing options for young families and downsizers, while opponents warned that removing the waiting restriction would invite investor teardowns and dense condominiums."
         }
       ],
       "next": "",
-      "status_fingerprint": "2a56e3654a621bf0",
+      "status_fingerprint": "208c5339e43b5940",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
