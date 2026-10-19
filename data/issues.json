@@ -211,17 +211,17 @@
       "category": "Zoning & development",
       "first_seen": "2026-04-27",
       "last_seen": "2026-09-28",
-      "status": "The Planning Board is reviewing a major site plan modification for 154 Turnpike Road to address non-compliance regarding site lighting and landscaping. Capital Group Properties is installing dimmer switches and submitting revised sign lighting specifications to meet town standards, which board members plan to verify during an evening site visit. The public hearing is scheduled to resume on October 19, 2026, when the board expects to review a draft decision ahead of an extended October 23 statutory deadline.",
+      "status": "Capital Group Properties' application for major site plan modifications at 154 Turnpike Road remains under review by the Planning Board to resolve lighting and landscaping non-compliance. The applicant submitted revised lighting cut sheets and agreed to install dimmer switches, following earlier approved mitigation for unauthorized tree removal. The board is scheduled to consider a draft decision at its continued hearing on October 19, 2026, ahead of an extended statutory deadline of October 23, 2026.",
       "status_as_of": "2026-09-28",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Continued the hearing on September 28 to inspect lighting dimmer installations and prepare a draft decision for review on October 19, 2026."
+          "detail": "Continued the hearing to inspect lighting dimmer installations and review a draft decision ahead of its October 23, 2026 action deadline."
         }
       ],
-      "next": "Continued public hearing and draft decision review before the Planning Board on October 19, 2026.",
-      "status_fingerprint": "98919664495810c6",
+      "next": "Public hearing on October 19, 2026 at 6:45 PM.",
+      "status_fingerprint": "006ec60a3bfd4e8a",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -581,8 +581,24 @@
       "category": "Housing",
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-03",
-      "status": "The Select Board voted 4-0-1 to waive the town's right of first refusal to purchase the deed-restricted unit at 39 Meeting House Lane, allowing it to proceed to an affordable resale lottery.",
-      "status_as_of": "2026-03-03"
+      "status": "The town has declined to exercise its right of first refusal to purchase the deed-restricted affordable condominium at 39 Meeting House Lane, clearing the way for a private resale. Both the Affordable Housing Trust Fund and the Select Board determined municipal purchase was unnecessary because deed restrictions keep the home affordable to income-qualified buyers. The property will be offered through an upcoming lottery managed with CHAPA, with town staff reviewing potential local and municipal employee preferences.",
+      "status_as_of": "2026-03-03",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-0-1 on March 3 to decline interest and waive the town's right of first refusal, allowing the unit to proceed to lottery."
+        },
+        {
+          "body": "Affordable Housing Trust Fund",
+          "stance": "support",
+          "detail": "Declined interest in purchasing the property, citing existing deed restrictions that ensure continued affordability."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "d505b4b5c4798bf0",
+      "status_model": "gemini-3.8-flash"
     },
     "40-42-central-street": {
       "id": "40-42-central-street",
@@ -800,8 +816,19 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-09",
-      "status": "The Trails Committee is scouting and GPS-mapping a proposed trail connection linking Southborough's 911 Field path system to Marlborough trails.",
-      "status_as_of": "2026-04-09"
+      "status": "The proposed trail connection between Southborough's 9/11 Field and the Marlborough trail network is currently under early exploration. A Trails Committee member is scouting and mapping the informal route along the waterway and checking whether the Department of Conservation and Recreation will permit formal trail establishment. The committee is awaiting those findings before deciding whether to move forward.",
+      "status_as_of": "2026-04-09",
+      "positions": [
+        {
+          "body": "Trails Committee",
+          "stance": "support",
+          "detail": "Supports exploring the link and tasked a member with scouting the route and consulting DCR on land permissions."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "a238de44ac790869",
+      "status_model": "gemini-3.8-flash"
     },
     "accessory-dwelling-units-zoning": {
       "id": "accessory-dwelling-units-zoning",
@@ -1121,23 +1148,33 @@
       "category": "Schools",
       "first_seen": "2026-03-09",
       "last_seen": "2026-03-11",
-      "status": "The school district proposed a $365,000 capital request to replace aging classroom projectors across K-8 schools with Newline interactive touch displays. The Advisory Committee voted 3-2 to support the FY27 capital bond for the project ahead of Annual Town Meeting. Although the request was scheduled for consideration at the April 2026 Annual Town Meeting, no results or further actions have been recorded.",
-      "status_as_of": "2026-03-16",
+      "status": "A $365,000 capital bonding proposal to install Newline interactive touch displays across K-8 classrooms advanced to the Annual Town Meeting warrant to replace aging projectors. The Select Board, Capital Improvement and Planning Committee, and Advisory Committee all voted to support the request in March 2026. No subsequent action or Town Meeting outcome is recorded.",
+      "status_as_of": "2026-03-18",
       "positions": [
         {
-          "body": "Southborough School Committee",
+          "body": "Select Board",
           "stance": "support",
-          "detail": "Brought forward the $365,000 capital request to replace failing, 9- to 17-year-old projectors across K-8 classrooms."
+          "detail": "Voted unanimously on March 17, 2026, to support Article 12 for capital budget borrowing on the Annual Town Meeting warrant."
+        },
+        {
+          "body": "Capital Improvement and Planning Committee",
+          "stance": "support",
+          "detail": "Voted 3-0 on March 18, 2026, to support Article 12 for school capital bonding as presented."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on March 16, 2026, to support the $365,000 FY27 capital bond for the school technology equipment."
+          "detail": "Voted 3-2 on March 16, 2026, to support the $365,000 FY27 capital bond for school technology infrastructure and equipment."
+        },
+        {
+          "body": "Public comment",
+          "stance": "neutral",
+          "detail": "A resident urged active, transparent communication with voters regarding capital projects leading up to Town Meeting."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "4b4982b199250709",
+      "status_fingerprint": "5b8df9388a09e010",
       "status_model": "gemini-3.8-flash"
     },
     "community-preservation-appropriations": {
@@ -1246,8 +1283,24 @@
       "category": "Housing",
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-11",
-      "status": "Annual Town Meeting approved Article 25, transferring $61,000 in Community Preservation Act funds to the Southborough Affordable Housing Trust.",
-      "status_as_of": "2026-04-11"
+      "status": "Town Meeting approved the transfer of $61,000 in Community Preservation Act funds to the Southborough Affordable Housing Trust on April 11, 2026. The funds match recurring housing allocations to support local affordable housing development following a larger allocation the prior year. No further town approvals or actions are pending for this transfer.",
+      "status_as_of": "2026-04-11",
+      "positions": [
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 25 by majority vote on April 11, 2026, authorizing the $61,000 transfer."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "support",
+          "detail": "Moved Article 25 at Town Meeting to allocate $61,000 to support local affordable housing development."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "8b30afd5d73e7ea3",
+      "status_model": "gemini-3.8-flash"
     },
     "cpa-project-signage-program": {
       "id": "cpa-project-signage-program",
@@ -1386,22 +1439,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-28",
-      "status": "Fay School is seeking a final certificate of occupancy for its 25 Middle Road addition following the Planning Board's August approval of a temporary certificate. The board is reviewing an updated landscape mitigation plan to resolve construction discrepancies involving tree removals and non-native plantings, while peer review of as-built engineering plans remains pending. Key points under review include ensuring plants are free of neonicotinoid pesticides, finalizing enforceable conditions, and addressing invasive species. The Planning Board will resume its review on October 19, 2026.",
+      "status": "Fay School's building addition at 25 Middle Road remains under Planning Board review as the school works to satisfy conditions for full occupancy following construction discrepancies and unauthorized tree removals. The board recommended a temporary certificate of occupancy in August subject to a 90-day landscape mitigation plan, which the school updated with proposed native plantings and pollinator gardens. Engineering peer reviewer Fuss & O'Neill is concurrently reviewing revised as-built civil utility plans. The Planning Board continues its review of the mitigation and site plans on October 19, 2026.",
       "status_as_of": "2026-09-28",
       "positions": [
         {
           "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Voted 3-0 on August 17 to recommend a temporary certificate of occupancy and is reviewing landscape mitigation and peer-reviewed as-built drawings before approving final compliance."
+          "stance": "neutral",
+          "detail": "Voted 3-0 on Aug 17 to recommend a temporary certificate of occupancy, and is reviewing landscape mitigation and as-built plans before finalizing an enforceable agreement for full occupancy."
         },
         {
           "body": "Public comment",
-          "stance": "neutral",
-          "detail": "A resident involved with biodiversity efforts urged that mitigation plantings be certified free of neonicotinoid pesticides, exclude non-native cultivars, and eradicate invasive species."
+          "stance": "mixed",
+          "detail": "Residents urged pesticide-free certifications and straight native species in the landscape plan, and raised concerns regarding truck turning accidents at the nearby Route 85 intersection."
         }
       ],
       "next": "Planning Board discussion on October 19, 2026",
-      "status_fingerprint": "1aadb12b7050cce5",
+      "status_fingerprint": "4221c08fad99c176",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -1526,8 +1579,19 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-03-18",
-      "status": "The Regional School Committee held and closed its public hearing on the $31,416,287 FY27 budget, which now heads to Southborough Town Meeting on April 11 and Northborough Town Meeting on April 27, 2026.",
-      "status_as_of": "2026-03-18"
+      "status": "The Northborough-Southborough Regional School Committee approved a $31,416,287 FY27 operating budget—a 5.81 percent increase over FY26—supported by a $477,000 capital assessment and a $675,000 reserve transfer. Following an uncontested March 2026 public hearing, the budget was scheduled for Annual Town Meetings in both Southborough and Northborough. District officials were also monitoring state legislative proposals that could boost regional transportation and special education reimbursements, though town meeting outcomes are not yet recorded.",
+      "status_as_of": "2026-03-18",
+      "positions": [
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "support",
+          "detail": "Voted 6-0 on Feb 25, 2026 to approve the operating budget, capital assessment, and reserve transfer."
+        }
+      ],
+      "next": "",
+      "significance": 5,
+      "status_fingerprint": "af8fecfa2e5df99c",
+      "status_model": "gemini-3.8-flash"
     },
     "fy27-road-paving-contracts": {
       "id": "fy27-road-paving-contracts",
@@ -1779,23 +1843,28 @@
       "category": "Town Meeting & elections",
       "first_seen": "2026-03-16",
       "last_seen": "2026-04-11",
-      "status": "A citizen petition proposing an independent finance committee with a $20,000 budget to oversee town accounting and audits remains without key board endorsements. The Select Board voted against recommending the warrant article in March 2026. The Advisory Committee deferred taking a position until the Town Meeting floor after raising legal and practical concerns regarding the proposed committee's structure and auditing authority.",
-      "status_as_of": "2026-04-06",
+      "status": "The proposed citizen petition to create an independent finance committee was defeated at Town Meeting in April 2026. Town Counsel advised that establishing a separate finance committee alongside the existing Advisory Committee would violate state law and municipal procurement statutes. Both the Advisory Committee and Select Board opposed the article, and no further action is scheduled.",
+      "status_as_of": "2026-04-11",
       "positions": [
         {
-          "body": "Select Board",
+          "body": "Town Meeting",
           "stance": "oppose",
-          "detail": "Voted 1-3-1 on March 17, 2026, failing a motion to support the warrant article."
+          "detail": "Voted overwhelmingly by hand vote on April 11, 2026, to defeat Article 33."
         },
         {
           "body": "Advisory Committee",
-          "stance": "undecided",
-          "detail": "Deferred its vote to the Town Meeting floor on April 6, 2026, citing concerns over volunteer audit powers and committee composition."
+          "stance": "oppose",
+          "detail": "Opposed the article at Town Meeting, citing legal conflicts and arguing that financial audit authority belongs with professional external firms rather than a volunteer board."
+        },
+        {
+          "body": "Select Board",
+          "stance": "oppose",
+          "detail": "Voted 1-3-1 on March 17, 2026, against recommending the warrant article."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "191929b13ea7b85e",
+      "status_fingerprint": "9920d9b2b5f98442",
       "status_model": "gemini-3.8-flash"
     },
     "industrial-park-zoning-amendments": {
@@ -2012,8 +2081,19 @@
       "category": "Buildings & facilities",
       "first_seen": "2026-03-09",
       "last_seen": "2026-03-09",
-      "status": "The Library Board of Trustees voted 4-1 to provisionally approve a $6,775 contract with Custom Alarm using State Aid funds to install additional security cameras, pending review of liability language by town counsel.",
-      "status_as_of": "2026-03-09"
+      "status": "The Library Board of Trustees provisionally approved a $6,775 contract with Custom Alarm to install three to four additional security cameras in the library basement, Eaton Room, and children's room emergency exit, funded through the State Aid account. The approval is subject to Town Counsel's review of vendor contract clauses that limit liability and require town indemnification. Final judgment on whether to proceed following legal review rests with the library director.",
+      "status_as_of": "2026-03-09",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Voted 4-1 on March 9, 2026, to approve the contract pending Town Counsel review, despite one member's objection to vendor liability and indemnification terms."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "0026574600ec42c1",
+      "status_model": "gemini-3.8-flash"
     },
     "lynbrook-road-water-main-rehabilitation": {
       "id": "lynbrook-road-water-main-rehabilitation",
@@ -2064,18 +2144,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-03-23",
       "last_seen": "2026-03-23",
-      "status": "Article 31 proposes housekeeping corrections to typographical errors in the MBTA Communities Overlay District dimensional table, replacing an errant word with a comma and removing an errant percent sign next to the floor area ratio value. The changes do not alter underlying zoning or development standards. The Planning Board reviewed the measure and continued its public hearing in April 2026, with no subsequent action recorded.",
-      "status_as_of": "2026-03-23",
+      "status": "Town Meeting approved Article 31 on April 11, 2026, adopting the clerical corrections to the MBTA Communities Overlay District dimensional table. The housekeeping amendment replaced an errant word with a comma across three columns and removed a typographical percent symbol from the floor area ratio value. The measure took effect without altering underlying zoning or development standards.",
+      "status_as_of": "2026-04-11",
       "positions": [
         {
           "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Reviewed the housekeeping corrections and voted 5-0 on Mar 23, 2026, to continue the public hearing without taking a formal position on the article."
+          "stance": "support",
+          "detail": "Brought forward the article as a noncontroversial housekeeping correction to fix typographical transcription errors."
+        },
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Voted on April 11, 2026, to pass Article 31."
         }
       ],
       "next": "",
       "significance": 1,
-      "status_fingerprint": "7ac087b6e2fb2433",
+      "status_fingerprint": "472394672118bd7e",
       "status_model": "gemini-3.8-flash"
     },
     "mcauliffe-hearing-room-av": {
@@ -2235,8 +2320,19 @@
       "category": "Staffing & operations",
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-03",
-      "status": "The Municipal Technology Committee voted 4-0 to endorse the $25,000 capital warrant article to replace the town's aging on-premise PBX phone system with a cloud solution at the April 11, 2026 Annual Town Meeting.",
-      "status_as_of": "2026-03-03"
+      "status": "The Municipal Technology Committee voted unanimously in March 2026 to support a $25,000 Annual Town Meeting capital request to replace the town's aging on-premise PBX system with a cloud-based phone network. The project is intended to cover all municipal departments, including public safety, and would carry an estimated $32,000 to $33,000 in annual operating costs. No further action or vote on the capital request is recorded.",
+      "status_as_of": "2026-03-03",
+      "positions": [
+        {
+          "body": "Municipal Technology Committee",
+          "stance": "support",
+          "detail": "Voted 4-0 on Mar 3, 2026, to recommend the $25,000 capital request, citing unsupported user licenses and risk of hardware failures in the current 15-year-old system."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "3c834a0621cfdd16",
+      "status_model": "gemini-3.8-flash"
     },
     "national-grid-vegetation-plan": {
       "id": "national-grid-vegetation-plan",
@@ -2685,8 +2781,13 @@
       "category": "Public safety",
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-03",
-      "status": "Southborough and Westborough officials are holding preliminary discussions regarding a potential joint feasibility study on regionalizing fire and emergency medical services, with a formal presentation planned for March 17, 2026.",
-      "status_as_of": "2026-03-03"
+      "status": "Southborough and Westborough officials held preliminary discussions in early 2026 to explore a joint feasibility study on regionalizing fire and emergency medical services. The Select Board received an informational update in March 2026 but did not take a formal stance or vote on the initiative. No further public discussions or formal proposals have been scheduled.",
+      "status_as_of": "2026-03-03",
+      "positions": [],
+      "next": "",
+      "significance": 4,
+      "status_fingerprint": "c2e7d57263d4ae38",
+      "status_model": "gemini-3.8-flash"
     },
     "regional-school-athletic-complex-bond": {
       "id": "regional-school-athletic-complex-bond",
@@ -3104,8 +3205,24 @@
       "category": "Schools",
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-11",
-      "status": "Annual Town Meeting approved Article 12, authorizing $2,575,000 in capital borrowing for classroom technology, security system upgrades, and Finn School flooring after a floor amendment to cut security funds failed.",
-      "status_as_of": "2026-04-11"
+      "status": "Town Meeting approved a $2,575,000 capital borrowing authorization for district schools under Article 12 in April 2026. The funding covers $365,000 for classroom technology upgrades, $1,400,000 for district-wide security and emergency communication systems, and $810,000 for flooring replacement and moisture mitigation at Finn School. A floor motion seeking to strip out the $1.4 million security component failed before the main borrowing authorization passed by a two-thirds majority.",
+      "status_as_of": "2026-04-11",
+      "positions": [
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved the $2,575,000 borrowing authorization by a two-thirds majority on April 11, 2026, after defeating an amendment to remove security funding."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Speakers divided over the $1.4 million security borrowing, with opponents questioning debt for details not discussed in open session and supporters citing first responder coordination."
+        }
+      ],
+      "next": "",
+      "significance": 5,
+      "status_fingerprint": "da6f10eea503e943",
+      "status_model": "gemini-3.8-flash"
     },
     "school-district-opioid-settlement-allocation": {
       "id": "school-district-opioid-settlement-allocation",
@@ -3114,8 +3231,19 @@
       "category": "Health & human services",
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-07",
-      "status": "The Board of Health deferred action on a request to allocate municipal opioid settlement funds to the regional school district until after spring town meetings conclude.",
-      "status_as_of": "2026-04-07"
+      "status": "A request to allocate a portion of Southborough's municipal opioid settlement funds to the regional school district remains pending before the Board of Health. In April 2026, the board deferred action until after both Southborough and Northborough concluded their spring town meetings. A formal proposal to fund shared substance use prevention programming has not yet come up for a vote.",
+      "status_as_of": "2026-04-07",
+      "positions": [
+        {
+          "body": "Board of Health",
+          "stance": "undecided",
+          "detail": "Tabled discussion in April pending spring town meetings and has not yet voted on the funding allocation."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "7fcd6fab6a97318c",
+      "status_model": "gemini-3.8-flash"
     },
     "school-food-service-contract": {
       "id": "school-food-service-contract",
@@ -3774,28 +3902,38 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-03-02",
-      "status": "Proposed Special Town Meeting articles seeking up to $500,000 and $324,000 to study expanding Trottier and Finn schools and decommission Neary School face strong municipal opposition. Both the School Committee and the Select Board voted to recommend defeating Articles 2 and 3, citing space analysis showing grade reconfigurations would require sizable building additions to prevent cuts to educational programming. No future meetings or next steps are scheduled in the record.",
-      "status_as_of": "2026-02-23",
+      "status": "Proposals to study expanding Trottier Middle School and Finn Elementary School were defeated at Special Town Meeting in March 2026. The two articles, which sought up to $500,000 and $324,000 from Free Cash to evaluate reconfiguring district grades and closing Neary School, failed by wide margins after drawing opposition from the School Committee, Select Board, and Advisory Committee. Opponents highlighted site constraints, protected open space next to Finn, and the risk of program reductions, and no subsequent action has been scheduled.",
+      "status_as_of": "2026-03-02",
       "positions": [
+        {
+          "body": "Special Town Meeting",
+          "stance": "oppose",
+          "detail": "Voted down Article 2 (66-332) and Article 3 (75-332) on March 2, 2026."
+        },
         {
           "body": "Southborough School Committee",
           "stance": "oppose",
-          "detail": "Voted unanimously to recommend defeating Articles 2 and 3, citing space study findings that grade reconfigurations would require major building additions to prevent severe programming cuts."
+          "detail": "Voted 5-0 to recommend defeating both articles, warning that grade reconfigurations would require major additions to avoid cuts to educational programs."
         },
         {
           "body": "Select Board",
           "stance": "oppose",
-          "detail": "Voted 4-1 to recommend that Special Town Meeting defeat Articles 2 and 3."
+          "detail": "Voted 4-1 to recommend against both study articles ahead of Town Meeting."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Recommended against Article 2 (6-1) and Article 3 (4-3), citing study costs and potential pressure on the FY27 levy limit."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A resident asked whether the town would have to conduct all three studies if Articles 1, 2, and 3 all pass, and whether study scope covers site capacity for future additions."
+          "detail": "Residents raised questions about site constraints at Finn, study phasing, and whether using Free Cash could trigger a Proposition 2 1/2 operating override."
         }
       ],
       "next": "",
-      "significance": 4,
-      "status_fingerprint": "0c962de779970486",
+      "significance": 5,
+      "status_fingerprint": "27bdd7f763088b77",
       "status_model": "gemini-3.8-flash"
     },
     "trottier-school-roof-replacement": {

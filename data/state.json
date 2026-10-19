@@ -3851,18 +3851,18 @@
     },
     "2026-10-19": {
       "video_minutes": 1876,
-      "calls": 114,
-      "input_tokens": 5429583,
-      "output_tokens": 156931,
-      "thought_tokens": 446419,
+      "calls": 129,
+      "input_tokens": 5455708,
+      "output_tokens": 160441,
+      "thought_tokens": 463179,
       "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-19T14:44:51Z",
-    "discovered": 28,
+    "at": "2026-10-19T17:47:17Z",
+    "discovered": 27,
     "summarized": 0,
-    "refreshed": 3,
+    "refreshed": 0,
     "errors": 0
   }
 }
