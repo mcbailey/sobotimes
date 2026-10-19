@@ -1,6 +1,6 @@
 {
   "week": "2026-06-01",
-  "fingerprint": "d6b1a4bff3f33743",
+  "fingerprint": "c0e01c3a0244154d",
   "topics": {
     "20bBFqxSPkE#0": {
       "issue": "peninsula-trail-phase-2",
@@ -15,8 +15,8 @@
       "category": "Budget & taxes"
     },
     "20bBFqxSPkE#3": {
-      "issue": null,
-      "category": "Parks, trails & recreation"
+      "issue": "town-forest-footbridge",
+      "category": "Environment & conservation"
     },
     "20bBFqxSPkE#4": {
       "issue": null,
@@ -76,7 +76,7 @@
     },
     "g_7SIaQJK7M#1": {
       "issue": "parkerville-road-utility-pole",
-      "category": "Roads, water & infrastructure"
+      "category": "Environment & conservation"
     },
     "g_7SIaQJK7M#2": {
       "issue": "250-turnpike-road",
@@ -127,15 +127,15 @@
       "category": "Zoning & development"
     },
     "kpEDyrpGcHk#6": {
-      "issue": null,
-      "category": "Roads, water & infrastructure"
+      "issue": "subdivision-rules-and-regulations-update",
+      "category": "Zoning & development"
     },
     "kpEDyrpGcHk#7": {
       "issue": null,
-      "category": "Zoning & development"
+      "category": "Governance & committees"
     },
     "kpEDyrpGcHk#8": {
-      "issue": "21-coslin-drive-costco",
+      "issue": null,
       "category": "Zoning & development"
     },
     "kpEDyrpGcHk#9": {
@@ -200,7 +200,7 @@
       "issue": null
     },
     "QOopXboMCl0#v8": {
-      "issue": null
+      "issue": "northborough-road-chapter-61a-parcel"
     },
     "g_7SIaQJK7M#v0": {
       "issue": null
@@ -224,7 +224,7 @@
       "issue": null
     },
     "kpEDyrpGcHk#v2": {
-      "issue": "2030-master-plan-update"
+      "issue": null
     },
     "kpEDyrpGcHk#v3": {
       "issue": null
@@ -269,7 +269,7 @@
     },
     "20bBFqxSPkE#u3": {
       "date": "2026-06-30",
-      "issue": null
+      "issue": "peninsula-trail-phase-2"
     },
     "20bBFqxSPkE#u4": {
       "date": null,
@@ -280,11 +280,7 @@
       "issue": null
     },
     "KAKmu8l1HIw#u1": {
-      "date": "2026-07-01",
-      "issue": null
-    },
-    "KAKmu8l1HIw#u2": {
-      "date": "2026-07-08",
+      "date": "2026-07-06",
       "issue": null
     },
     "QOopXboMCl0#u0": {
@@ -353,7 +349,7 @@
     },
     "naNh8DiADss#u2": {
       "date": "2026-06-30",
-      "issue": null
+      "issue": "southborough-golf-club-irrigation"
     },
     "naNh8DiADss#u3": {
       "date": "2026-07-14",
@@ -361,5 +357,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:26:35Z"
+  "generated_at": "2026-10-19T12:22:45Z"
 }

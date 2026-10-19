@@ -1,81 +1,84 @@
 {
-  "headline": "Southborough advanced school and capital planning in April, selecting an architect for the Neary School study and backing a $25 million road borrowing measure.",
-  "synopsis": "April saw town boards finalize preparations for Annual Town Meeting and the May town election, including the Select Board placing a $25 million road borrowing debt exclusion on the ballot. The newly organized Elementary School Building Committee reviewed architect bids and voted to negotiate a contract with Tappe Architects for the Neary School feasibility study. The Zoning Board of Appeals closed its public hearing on a 32-unit Chapter 40B housing proposal on Turnpike Road, while the Conservation Commission continued reviews of a 60-unit project on Southville Road. The Select Board and Wastewater Study Committee continued shaping a $40 million to $50 million Route 9 wastewater infrastructure initiative, extending the committee's term through 2027. Meanwhile, the Trails Committee faced high bids on Peninsula Trail Phase 2, prompting plans to adjust the project scope before seeking additional funding in the fall.",
+  "headline": "Town Meeting approved a $71.1 million budget, $25 million for road repairs, an $8.8 million middle school roof, and appointed clerk status.",
+  "synopsis": "At the April 2026 Annual and Special Town Meetings, Southborough voters approved a $71.1 million FY27 municipal operating budget along with major borrowing authorizations for municipal infrastructure. Voters authorized $25 million in borrowing for roadway and sidewalk improvements, $8.8 million for replacing the Trottier Middle School roof, and voted to transition the town clerk from an elected to an appointed position. Town Meeting also adopted new industrial park zoning standards for data centers and expanded accessory dwelling units up to 1,200 square feet by right, while rejecting a two-family dwelling amendment. Outside of Town Meeting, the Elementary School Building Committee selected Tappe Architects for the Neary School feasibility study, and both local school committees voted to opt out of interdistrict school choice. In development reviews, the Zoning Board of Appeals closed its public hearing on a 32-unit Chapter 40B development at 250 Turnpike Road.",
   "top_items": [
     {
-      "title": "Tappe Architects Selected for Neary School Feasibility Study",
-      "why": "The Elementary School Building Committee voted 3-0 to select Tappe Architects for contract negotiations after evaluating five proposals and interviewing three finalists.",
-      "body": "Following the formation of the Elementary School Building Committee, members scored proposals from five design firms for the updated Neary School feasibility study. After narrowing the field to Arrowstreet, RGB Architects, and Tappe Architects for interviews, the committee unanimously voted to advance Tappe Architects to reference checks and contract negotiations. The study will evaluate renovation and repair options for the school ahead of future Town Meeting votes.",
+      "title": "$25 million road and sidewalk borrowing approved",
+      "why": "Town Meeting approved up to $25 million in borrowing to fund a multi-year road repair plan and four new sidewalks. Debt exclusion questions were placed on the May annual town election ballot.",
+      "body": "Voters passed Article 13 to address ongoing deterioration across 72 miles of town roadways using a 20-year borrowing authorization. A floor amendment seeking to mandate state invasive species guidelines and certified weed-free soil was defeated before the final vote.",
+      "importance": "high",
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 6840,
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    {
+      "title": "Town Meeting adopts $71.1 million FY27 operating budget",
+      "why": "Voters approved a $71,077,130 general fund municipal budget, raising $66,917,959 through taxation.",
+      "body": "Budget lines for police staffing, employee benefits, and the Economic Development Committee were held for separate debate before the full operating budget passed. Officials outlined department staffing levels and discussed high-deductible health plan offerings intended to reduce municipal health benefit costs.",
+      "importance": "high",
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 2628,
+      "issue": "fy27-operating-budget"
+    },
+    {
+      "title": "$8.8 million borrowing approved for Trottier School roof",
+      "why": "Town Meeting authorized $8,833,964 in borrowing to replace the leaking roof at Trottier Middle School. The borrowing is contingent on debt exclusion approval at the May town election.",
+      "body": "The Massachusetts School Building Authority will reimburse up to 41.32 percent of eligible project costs. The Select Board, School Committee, and Advisory Committee all supported the project to resolve active roof leaks.",
+      "importance": "high",
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 10148,
+      "issue": "trottier-school-roof-replacement"
+    },
+    {
+      "title": "Town Clerk converted from elected to appointed office",
+      "why": "Special Town Meeting approved Article 1 to make the town clerk an appointed position rather than an elected one.",
+      "body": "Former clerk Jim Hegarty explained that increasing election and statutory complexities make appointment by the Select Board based on professional qualifications preferable. A floor amendment to block the town from petitioning the state legislature for a special act failed, and the main article passed by majority vote.",
+      "importance": "high",
+      "video_id": "3Z_ZpSIMv_0",
+      "start_seconds": 2350,
+      "issue": "appointed-town-clerk"
+    },
+    {
+      "title": "Accessory dwelling units expanded up to 1,200 square feet",
+      "why": "Town Meeting approved Article 29 to allow accessory dwelling units up to 1,200 square feet by right, lifting the prior 50 percent gross floor area restriction.",
+      "body": "The Zoning Board of Appeals sponsored the measure to provide flexibility for smaller homes and family caregivers. The Advisory Committee recommended against approval due to concerns over neighborhood density and septic capacity, but voters approved the expansion.",
+      "importance": "high",
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 14671,
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    {
+      "title": "Tappe Architects chosen for Neary School feasibility study",
+      "why": "The Elementary School Building Committee voted unanimously to select Tappe Architects for contract negotiations to conduct the Neary School feasibility study.",
+      "body": "Following interviews with Arrowstreet, RGB Architects, and Tappe Architects, the committee favored Tappe's public school track record and approach to balancing renovation options with tight cost constraints. Member Andrew Pfaff was designated to participate in contract negotiations alongside administrative reference checks.",
       "importance": "high",
       "video_id": "mFq2QvESulQ",
       "start_seconds": 7700,
       "issue": "neary-school-building-project"
     },
     {
-      "title": "Select Board Backs $25M Road Borrowing for Town Ballot",
-      "why": "The Select Board revoted 4-0-1 to recommend Article 13 and voted 5-0 to place debt exclusion questions on the May 12 ballot.",
-      "body": "The Select Board revisited its position on Annual Town Meeting Article 13, voting 4-0-1 to recommend borrowing up to $25 million across multiple years for comprehensive town road and sidewalk maintenance. The board also voted 5-0 to place the debt exclusion questions on the May 12 Annual Town Election ballot, allowing voters to decide whether to fund the borrowing outside Proposition 2 1/2 limits.",
-      "importance": "high",
-      "video_id": "hmZ0A_tbpag",
-      "start_seconds": 6030,
-      "issue": "multi-year-road-and-sidewalk-borrowing"
-    },
-    {
-      "title": "ZBA Closes Hearing on 250 Turnpike Road 40B Application",
-      "why": "The Zoning Board of Appeals voted unanimously to close the public hearing for the proposed 32-unit rental development at 250 Turnpike Road.",
-      "body": "The Zoning Board of Appeals concluded public testimony on the Chapter 40B comprehensive permit application by 250 Turnpike LLC to construct 32 rental townhomes. Discussions addressed wildlife culvert passages, retaining walls near wetland buffers, and stormwater drainage, alongside neighbor concerns over watershed impacts and buffers. With the hearing closed, the board scheduled deliberations and condition drafting for May 6.",
-      "importance": "high",
+      "title": "Hearing closed on 250 Turnpike Road 40B project",
+      "why": "The Zoning Board of Appeals closed the public hearing on a Chapter 40B comprehensive permit for 32 rental townhomes at 250 Turnpike Road.",
+      "body": "The board and peer reviewers discussed culvert dimensions for wildlife passage, retaining wall setbacks near the 20-foot wetland buffer, and stormwater drainage models. Deliberations on the application and decision conditions were scheduled for May 6.",
+      "importance": "medium",
       "video_id": "igJUFW_ilpo",
       "start_seconds": 1838,
       "issue": "250-turnpike-road"
-    },
-    {
-      "title": "Route 9 Wastewater Planning Extends to June 2027",
-      "why": "The Select Board extended the Regional Wastewater Planning Committee through June 2027 as planning proceeds on a $40 million to $50 million corridor system.",
-      "body": "The Regional Wastewater Planning Committee updated the Select Board on efforts to establish a municipal wastewater system serving commercial properties along Route 9. The project is estimated at $40 million to $50 million, requires a 15- to 20-acre leaching area, and involves a proposed District Improvement Financing district. The Select Board voted 4-0-1 to extend the committee's charge through June 30, 2027, to continue engineering and intermunicipal coordination.",
-      "importance": "high",
-      "video_id": "Z4yuMDzSo_o",
-      "start_seconds": 5390,
-      "issue": "route-9-wastewater-infrastructure"
-    },
-    {
-      "title": "Advisory Committee Recommends Disapproval of ADU and Bag Bylaws",
-      "why": "The Advisory Committee voted against Article 29 regarding accessory dwelling units and Article 34 proposing a plastic bag ban.",
-      "body": "The Advisory Committee voted 2-5 to recommend disapproval of Article 29, which would remove the special permit requirement for accessory dwelling units and allow them by right up to 1,200 square feet, citing concerns over density and oversight. The committee also voted 0-7 against Article 34, a citizen petition to ban non-reusable plastic checkout bags, finding it drafted as an unenforceable advisory measure.",
-      "importance": "high",
-      "video_id": "GzmDgSFDiu0",
-      "start_seconds": 98,
-      "issue": "accessory-dwelling-units-zoning"
-    },
-    {
-      "title": "Peninsula Trail Phase 2 Bids Double Available Funds",
-      "why": "Construction bids for the bridge and boardwalk reached $445,000 to $468,000, exceeding the available budget of roughly $211,000.",
-      "body": "The Trails Committee reviewed bid results for Peninsula Trail Phase 2, which came in at more than double the available funding. Because structural standards require the bridge over Stony Brook to meet specific engineering criteria, the committee discussed constructing only the bridge first while omitting the boardwalk. The committee agreed to adjust the project scope and seek voter authorization at Fall Special Town Meeting to transfer $47,000 in unspent Phase 1 funds.",
-      "importance": "high",
-      "video_id": "UXVBSlxQf90",
-      "start_seconds": 1782,
-      "issue": "peninsula-trail-phase-2"
-    },
-    {
-      "title": "School Committee Increases Preschool Tuition and Opts Out of Choice",
-      "why": "The School Committee approved a 3% tuition increase for preschool and voted to opt out of interdistrict school choice for next year.",
-      "body": "The Southborough School Committee voted unanimously to increase tuition for the district preschool program by 3% for the upcoming academic year, noting rates had not changed since FY22. The committee also approved updated financial assistance guidelines capping assistance at 10% of program revenue. Following a public hearing, the committee voted unanimously to opt out of the state interdistrict school choice program due to class size limits and low state reimbursement rates.",
-      "importance": "medium",
-      "video_id": "FedQgvRmM1g",
-      "start_seconds": 1742,
-      "issue": "preschool-tuition-and-assistance"
     }
   ],
   "month": "2026-04",
-  "fingerprint": "e543e5e02dffc905",
+  "fingerprint": "1b16ea701490e9e3",
   "video_ids": [
     "3JDB7DRAYlg",
+    "3Z_ZpSIMv_0",
     "3tvk5LPNga4",
+    "6BsjfLacx9M",
     "78YAzZD8fYM",
     "FedQgvRmM1g",
     "GJaOrmVzrJE",
     "GzmDgSFDiu0",
     "Mz0Xz-uwges",
+    "Nqf5dmDizoQ",
     "OgJvJPAuw7E",
     "PAtEimNNvz4",
     "R3MM609h0cc",
@@ -94,5 +97,5 @@
     "znWhFcdIV3k"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T19:02:58Z"
+  "generated_at": "2026-10-19T12:52:29Z"
 }

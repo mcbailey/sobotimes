@@ -1,6 +1,6 @@
 {
   "week": "2026-03-16",
-  "fingerprint": "4ddaf26ce1651fd7",
+  "fingerprint": "10f5888b89bbe0be",
   "topics": {
     "12My_XciHTw#0": {
       "issue": "fy27-operating-budget",
@@ -59,7 +59,7 @@
       "category": "Roads, water & infrastructure"
     },
     "OgThwJ-ZbEA#0": {
-      "issue": "kallander-field-repairs",
+      "issue": null,
       "category": "Parks, trails & recreation"
     },
     "OgThwJ-ZbEA#1": {
@@ -95,7 +95,7 @@
       "category": "Environment & conservation"
     },
     "_FIcnoGcikQ#2": {
-      "issue": null,
+      "issue": "fy27-operating-budget",
       "category": "Budget & taxes"
     },
     "_FIcnoGcikQ#3": {
@@ -107,7 +107,7 @@
       "category": "Roads, water & infrastructure"
     },
     "_FIcnoGcikQ#5": {
-      "issue": null,
+      "issue": "trottier-school-roof-replacement",
       "category": "Schools"
     },
     "_FIcnoGcikQ#6": {
@@ -118,13 +118,41 @@
       "issue": "trottier-school-roof-replacement",
       "category": "Schools"
     },
+    "bRvbGFNHSBA#0": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "bRvbGFNHSBA#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "bRvbGFNHSBA#2": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "bRvbGFNHSBA#3": {
+      "issue": "opeb-funding-strategy",
+      "category": "Budget & taxes"
+    },
+    "bRvbGFNHSBA#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "bRvbGFNHSBA#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "bRvbGFNHSBA#6": {
+      "issue": null,
+      "category": "Schools"
+    },
     "eGWVk9sEbBw#0": {
       "issue": null,
       "category": "Library, arts & community"
     },
     "eGWVk9sEbBw#1": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Other"
     },
     "eGWVk9sEbBw#2": {
       "issue": "neary-school-building-project",
@@ -152,7 +180,7 @@
     },
     "eGWVk9sEbBw#8": {
       "issue": "cemetery-expansion",
-      "category": "Parks, trails & recreation"
+      "category": "Governance & committees"
     },
     "jsPdqzDxTWg#0": {
       "issue": null,
@@ -185,7 +213,7 @@
       "issue": null
     },
     "12My_XciHTw#v4": {
-      "issue": null
+      "issue": "trottier-school-roof-replacement"
     },
     "12My_XciHTw#v5": {
       "issue": "appointed-town-clerk"
@@ -212,16 +240,25 @@
       "issue": null
     },
     "_FIcnoGcikQ#v0": {
-      "issue": null
+      "issue": "fy27-operating-budget"
     },
     "_FIcnoGcikQ#v1": {
       "issue": "fy27-water-enterprise-budget"
     },
     "_FIcnoGcikQ#v2": {
-      "issue": null
+      "issue": "classroom-interactive-touch-displays"
     },
     "_FIcnoGcikQ#v3": {
       "issue": "trottier-school-roof-replacement"
+    },
+    "bRvbGFNHSBA#v0": {
+      "issue": null
+    },
+    "bRvbGFNHSBA#v1": {
+      "issue": null
+    },
+    "bRvbGFNHSBA#v2": {
+      "issue": null
     },
     "eGWVk9sEbBw#v0": {
       "issue": null
@@ -236,7 +273,7 @@
       "issue": "fy27-operating-budget"
     },
     "eGWVk9sEbBw#v4": {
-      "issue": null
+      "issue": "classroom-interactive-touch-displays"
     },
     "eGWVk9sEbBw#v5": {
       "issue": "trottier-school-roof-replacement"
@@ -336,8 +373,24 @@
       "issue": null
     },
     "_FIcnoGcikQ#u2": {
-      "date": null,
+      "date": "2026-05-12",
       "issue": "trottier-school-roof-replacement"
+    },
+    "bRvbGFNHSBA#u0": {
+      "date": "2026-04-11",
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "bRvbGFNHSBA#u1": {
+      "date": "2026-04-27",
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "bRvbGFNHSBA#u2": {
+      "date": "2026-04-01",
+      "issue": null
+    },
+    "bRvbGFNHSBA#u3": {
+      "date": "2026-05-01",
+      "issue": null
     },
     "eGWVk9sEbBw#u0": {
       "date": "2026-03-31",
@@ -360,7 +413,7 @@
       "issue": null
     },
     "jsPdqzDxTWg#u0": {
-      "date": null,
+      "date": "2026-05-01",
       "issue": null
     },
     "jsPdqzDxTWg#u1": {
@@ -369,5 +422,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:27:27Z"
+  "generated_at": "2026-10-19T12:07:17Z"
 }

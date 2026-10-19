@@ -1,0 +1,70 @@
+{
+  "headline": "The Advisory Committee voted to recommend a preliminary $70.9 million FY27 operating budget and finalized guidance on school articles ahead of Special Town Meeting.",
+  "synopsis": "The Advisory Committee voted 6-0 to recommend a preliminary $70,887,098 operating budget for FY27, which currently projects an estimated 5.3 percent average single-family tax increase while remaining under the levy limit. Members warned that out-year budgets face steep debt service costs and tightening revenues that could trigger overrides starting in FY28. The committee also refined its recommendations for the March 2 Special Town Meeting, advocating for a Neary School roof replacement and renovation study over more costly alternatives. Additionally, members reviewed municipal capital equipment requests from Public Works and discussed a deferred $1.1 million park improvement project.",
+  "highlights": [
+    {
+      "title": "Preliminary FY27 operating budget recommendation",
+      "why": "The committee voted 6-0 to recommend a preliminary $70,887,098 operating budget to Town Meeting and the Select Board, keeping municipal department operations at level service.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "kyQInrqp8mM",
+      "start_seconds": 3310
+    },
+    {
+      "title": "FY27 budget model and future tax projections",
+      "why": "The current model projects a 5.3 percent average single-family tax increase for FY27, but members warned that sharp jumps in borrowing costs could force an override in FY28.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "kyQInrqp8mM",
+      "start_seconds": 75
+    },
+    {
+      "title": "March 2 Special Town Meeting advisory report",
+      "why": "Members drafted guidance endorsing a Neary School roof replacement and renovation study while opposing wider elementary school studies that could increase override risks.",
+      "body": "Advisory Committee",
+      "importance": "high",
+      "video_id": "kyQInrqp8mM",
+      "start_seconds": 4105
+    },
+    {
+      "title": "DPW capital requests and vehicle deferral",
+      "why": "Public Works sought a $235,000 truck replacement for snow operations but agreed a $52,475 dump truck purchase could be postponed if budget cuts are needed.",
+      "body": "Advisory Committee",
+      "importance": "medium",
+      "video_id": "kyQInrqp8mM",
+      "start_seconds": 1270
+    },
+    {
+      "title": "Fayville Park project deferred to fall",
+      "why": "The proposed $1.1 million park project, featuring a splash pad and dog park, was moved to the fall Special Town Meeting to pursue grants and Community Preservation Act funds.",
+      "body": "Advisory Committee",
+      "importance": "medium",
+      "video_id": "kyQInrqp8mM",
+      "start_seconds": 1817
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Circulation of draft Advisory Committee booklet report for the Special Town Meeting",
+      "when": "February 23, 2026",
+      "body": "Advisory Committee"
+    },
+    {
+      "what": "Special Town Meeting at Trottier Middle School",
+      "when": "March 2, 2026",
+      "body": "Town Meeting"
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 2026",
+      "body": "Town Meeting"
+    }
+  ],
+  "week": "2026-02-16",
+  "fingerprint": "8c140deba2ec9a28",
+  "video_ids": [
+    "kyQInrqp8mM"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-19T11:48:06Z"
+}

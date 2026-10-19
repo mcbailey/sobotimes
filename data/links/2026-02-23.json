@@ -1,7 +1,47 @@
 {
   "week": "2026-02-23",
-  "fingerprint": "80bcded76bf076ed",
+  "fingerprint": "2949bd3654687508",
   "topics": {
+    "_YLjrgHgfVc#0": {
+      "issue": null,
+      "category": "Other"
+    },
+    "_YLjrgHgfVc#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#2": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "_YLjrgHgfVc#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#6": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "_YLjrgHgfVc#7": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#8": {
+      "issue": "regional-school-calendar-2026-2027",
+      "category": "Schools"
+    },
+    "_YLjrgHgfVc#9": {
+      "issue": null,
+      "category": "Schools"
+    },
     "qoPRkdI2yfs#0": {
       "issue": "neary-school-building-project",
       "category": "Schools"
@@ -19,8 +59,56 @@
       "category": "Town Meeting & elections"
     }
   },
-  "votes": {},
+  "votes": {
+    "_YLjrgHgfVc#v0": {
+      "issue": null
+    },
+    "_YLjrgHgfVc#v1": {
+      "issue": null
+    },
+    "_YLjrgHgfVc#v2": {
+      "issue": null
+    },
+    "_YLjrgHgfVc#v3": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "_YLjrgHgfVc#v4": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "_YLjrgHgfVc#v5": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "_YLjrgHgfVc#v6": {
+      "issue": "regional-school-calendar-2026-2027"
+    },
+    "_YLjrgHgfVc#v7": {
+      "issue": null
+    },
+    "_YLjrgHgfVc#v8": {
+      "issue": null
+    }
+  },
   "upcoming": {
+    "_YLjrgHgfVc#u0": {
+      "date": "2026-03-03",
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "_YLjrgHgfVc#u1": {
+      "date": "2026-03-23",
+      "issue": null
+    },
+    "_YLjrgHgfVc#u2": {
+      "date": "2026-03-30",
+      "issue": null
+    },
+    "_YLjrgHgfVc#u3": {
+      "date": "2026-04-11",
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "_YLjrgHgfVc#u4": {
+      "date": "2026-05-01",
+      "issue": null
+    },
     "qoPRkdI2yfs#u0": {
       "date": "2026-02-26",
       "issue": null
@@ -35,5 +123,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:07:49Z"
+  "generated_at": "2026-10-19T11:52:46Z"
 }

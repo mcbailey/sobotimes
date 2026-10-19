@@ -1,0 +1,141 @@
+{
+  "video": {
+    "id": "Vmq8OyMS13k",
+    "title": "Historical Commission 3/5/26",
+    "published_at": "2026-03-06T14:35:51Z",
+    "duration_s": 4600
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Historical Commission",
+    "meeting_date": "2026-03-05",
+    "headline": "The Historical Commission approved an honorarium for a Knox Trail lecture and addressed insurance issues facing historic homeowners.",
+    "summary": "The Southborough Historical Commission voted to approve a $250 honorarium for Massachusetts Historical Commission director Ben Haley to give a public lecture on the Knox Trail at Fayville Village Hall on March 15, 2026. Members addressed reports of insurers threatening rate hikes on homes within the Southborough Center Historic District, planning web guidance and a disclosure letter clarifying that the designation imposes no renovation or rebuilding mandates. The chair also reported that Town Common fence restoration bids exceeded its $100,000 grant, prompting cost-cutting discussions with vocational students and the DPW.",
+    "topics": [
+      {
+        "title": "Knox Trail lecture and speaker honorarium",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The chair announced a public history lecture by Ben Haley of the Massachusetts Historical Commission titled 'Commemorating Henry Knox and the Noble Train of Artillery in the Automobile Age'. The event commemorates the 250th anniversary of Knox's expedition and Evacuation Day. The commission discussed appropriate compensation and voted to fund an honorarium from its operating budget.",
+        "key_details": [
+          "The lecture is scheduled for Sunday, March 15, 2026, at 2:00 PM at the Southborough History & Arts Center at Fayville Village Hall.",
+          "Admission is free, but seating is limited to 60 attendees and requires advance online reservations.",
+          "The commission voted 5-0 to approve a $250 honorarium for the speaker.",
+          "The talk examines the 1920s Knox Trail marker expedition and how automobile culture influenced where historical markers were placed."
+        ],
+        "outcome": "Approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 160,
+        "end_seconds": null
+      },
+      {
+        "title": "Homeowner insurance concerns in historic districts",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The chair presented a clarification letter drafted for a resident whose insurance carrier threatened rate increases or policy cancellation due to the home's inclusion in the Southborough Center Historic District. Members emphasized that National Register listings and town house sign plaques are honorific designations that impose no restrictions on rebuilding or repair. The commission agreed to prepare standard form letters and website educational materials for affected homeowners and realtors.",
+        "key_details": [
+          "National Register of Historic Places designation and local house signs impose no legal restrictions or mandatory restoration standards on private owners.",
+          "Unlike roughly 200 Massachusetts communities, Southborough does not have a local historic district commission under MGL Chapter 40C with architectural review authority.",
+          "The town's demolition delay bylaw applies townwide to structures built before 1925 regardless of whether they have a plaque or are on the National Register.",
+          "The chair will draft formal website language and refine a template letter for homeowners to give to insurers and real estate buyers.",
+          "A member agreed to research local historic district regulations in neighboring towns such as Natick and Northborough."
+        ],
+        "outcome": "The chair will refine the form letter, draft website guidance for review at the next meeting, and seek a copy of the insurer's initial inquiry letter.",
+        "why_it_matters": null,
+        "start_seconds": 1578,
+        "end_seconds": null
+      },
+      {
+        "title": "Updates on Town Common fence and cemetery water tower",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair gave updates on town preservation initiatives, including the Town Common fence and the Rural Cemetery water tower. Engineering consultant VHB estimated the Town Common fence project will cost substantially more than the $100,000 Community Preservation Act grant awarded for it, prompting staff to explore cost-reduction measures. A $5,000 structural study for the cemetery water tower remains paused while the town explores whether the tower could incorporate a columbarium.",
+        "key_details": [
+          "The Town Common fencing project received $100,000 in CPA funds last year, but consultant estimates significantly exceed that budget.",
+          "The town is exploring having Assabet Valley Regional Technical High School metalworking students fabricate or restore fence sections to reduce costs.",
+          "The town has documentation to pursue cost recovery from MassDOT and contractors for fence damage caused during the 2019-2020 Main Street sidewalk project.",
+          "A $5,000 Select Board allocation for a water tower study is on hold while officials gauge interest from the Select Board and DPW in a possible columbarium.",
+          "The chair displayed a commemorative plaque and gubernatorial citation awarded to Southborough in Framingham on February 8, which will be offered for display at the Town House."
+        ],
+        "outcome": "Town staff and the chair will continue meeting with DPW and VHB to evaluate fence cost-cutting alternatives.",
+        "why_it_matters": null,
+        "start_seconds": 3280,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial Committee update",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "A member reported on ongoing preparations by the town's Tricentennial Committee across roughly seven subcommittees. Events under development include a parade, house tour, drone light show, cemetery reenactments, and school collaborations.",
+        "key_details": [
+          "Collaborations are being planned with both St. Mark's School and Fay School.",
+          "The committee is coordinating with the Recreation Commission to expand the annual summer nights into a larger music festival.",
+          "Parade planners are exploring securing an ox rather than horses to pull a replica artillery cannon.",
+          "The Tricentennial Committee's next scheduled meeting is March 11."
+        ],
+        "outcome": "Informational update.",
+        "why_it_matters": null,
+        "start_seconds": 3933,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission reviewed meeting minutes and handled administrative scheduling before adjourning. Members voted to approve amended minutes from November 5, 2025, and decided to post January 5, 2026 minutes as a draft pending further member review.",
+        "key_details": [
+          "November 5, 2025 meeting minutes were approved 3-0-1 with one member abstaining due to absence and one member absent from the vote.",
+          "January 5, 2026 meeting minutes were deferred to allow members time to review edits.",
+          "The meeting adjourned at 8:17 PM."
+        ],
+        "outcome": "Approved amended November 5, 2025 minutes 3-0-1.",
+        "why_it_matters": null,
+        "start_seconds": 4105,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve a $250 honorarium for Ben Haley for his upcoming talk on the Knox Trail",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 1481
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Knox Trail lecture by Ben Haley at the Southborough History & Arts Center at Fayville Village Hall",
+        "when": "March 15, 2026 at 2:00 PM"
+      },
+      {
+        "what": "Next Historical Commission meeting",
+        "when": "April 2026 (exact date to be determined)"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T11:31:48Z",
+  "usage": {
+    "total_tokens": 181807,
+    "total_input_tokens": 176699,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 175718
+      },
+      {
+        "modality": "text",
+        "tokens": 981
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1827,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3281
+  }
+}

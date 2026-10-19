@@ -1,62 +1,86 @@
 {
-  "headline": "Ahead of Special Town Meeting, the School Committee endorsed renovating Neary School and replacing its roof while opposing proposals to close the facility.",
-  "synopsis": "School officials reviewed four warrant articles ahead of the March 2 Special Town Meeting regarding the future of Neary School. The School Committee recommended approving a $175,000 feasibility study to renovate Neary and borrowing up to $6.85 million to replace its failing roof. Officials urged voters to reject two alternative articles that would study closing Neary and expanding Finn and Trottier schools, warning that reallocating students would require major additions or cuts to educational programs. The roof borrowing proposal will require a two-thirds vote at Town Meeting followed by a ballot vote at the May 12 town election.",
+  "headline": "Southborough officials prepared for a Special Town Meeting on Neary School renovations and roof repairs while the regional school district approved its FY27 budget.",
+  "synopsis": "Ahead of the March 2 Special Town Meeting, the Southborough School Committee detailed warrant articles proposing a $175,000 Neary School renovation feasibility study and a $6.85 million roof replacement borrowing authorization, while reiterating opposition to proposals that would close Neary. Meanwhile, the Northborough-Southborough Regional School Committee approved a $31.4 million FY27 operating budget, voting to apply $675,000 in reserves to lower town assessments. That regional budget sets Southborough's operating assessment increase at 4.83 percent, or 6.58 percent including debt and capital. The regional committee also adopted a revised 2026-2027 calendar and accepted a $50,000 state grant to update student timeout practices.",
   "highlights": [
     {
-      "title": "Neary School renovation study and facility conditions",
-      "why": "Article 1 seeks $175,000 from free cash to study comprehensive renovations and code compliance at Neary School, where major systems date back to 1968. The School Committee unanimously endorsed the measure ahead of the March 2 Special Town Meeting.",
+      "title": "Neary School feasibility study and roof replacement articles",
+      "why": "Officials endorsed a $175,000 feasibility study to renovate Neary and a borrowing authorization of up to $6.85 million to fix its failing roof ahead of Special Town Meeting. If the renovation study passes, the roof borrowing request will be reduced to $4.5 million.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "qoPRkdI2yfs",
       "start_seconds": 255
     },
     {
-      "title": "Neary School roof borrowing and ADA upgrades",
-      "why": "Article 4 requests up to $6,850,000 in borrowing to replace Neary's 35-year-old failing roof and cover potential ADA upgrades. If Article 1 passes, the ADA funds will fold into the broader study and reduce the roof borrowing request to $4,500,000.",
-      "body": "Southborough School Committee",
-      "importance": "high",
-      "video_id": "qoPRkdI2yfs",
-      "start_seconds": 3520
-    },
-    {
-      "title": "Opposition to Trottier and Finn expansion studies",
-      "why": "The School Committee unanimously recommended defeating Articles 2 and 3, which propose studying the closure of Neary and expanding other schools. Officials stated that moving students would require large additions at Trottier and Finn to avoid cuts to music, art, and support services.",
+      "title": "Articles proposing Trottier and Finn expansions",
+      "why": "School officials strongly opposed warrant articles proposing studies to close Neary and expand Trottier and Finn schools. Leaders reported that existing buildings cannot house students without major building additions or cuts to art, music, and physical education.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "qoPRkdI2yfs",
       "start_seconds": 2447
     },
     {
-      "title": "Special Town Meeting voting procedures and logistics",
-      "why": "Special Town Meeting will take place Monday, March 2, at Trottier Middle School with check-in starting at 5:30 PM. Voters will use electronic clickers, and the gymnasium will provide a family-friendly overflow space.",
-      "body": "Southborough School Committee",
+      "title": "FY27 regional school operating and capital budget approval",
+      "why": "The committee approved a $31,416,287 operating budget and applied $675,000 in reserve funds to offset assessments. This sets Southborough's total assessment at $10,733,409, a 6.58 percent overall increase.",
+      "body": "Northborough-Southborough Regional School Committee",
+      "importance": "high",
+      "video_id": "_YLjrgHgfVc",
+      "start_seconds": 5875
+    },
+    {
+      "title": "Adoption of 2026-2027 school calendar Option 5",
+      "why": "The committee voted 4-1-1 to adopt Option 5, which schedules the first day of school for September 1, 2026, and places a professional development day on Orthodox Good Friday while removing staff development days from Yom Kippur and Eid.",
+      "body": "Northborough-Southborough Regional School Committee",
+      "importance": "high",
+      "video_id": "_YLjrgHgfVc",
+      "start_seconds": 6310
+    },
+    {
+      "title": "Acceptance of $50,000 state student timeout practice grant",
+      "why": "The regional committee voted to accept a $50,000 state grant to provide restorative practice training and align district policies with state regulations taking effect in June 2025.",
+      "body": "Northborough-Southborough Regional School Committee",
       "importance": "medium",
-      "video_id": "qoPRkdI2yfs",
-      "start_seconds": 5445
+      "video_id": "_YLjrgHgfVc",
+      "start_seconds": 4035
     }
   ],
   "looking_ahead": [
     {
-      "what": "School Committee public informational forum on Special Town Meeting articles",
-      "when": "February 26, 2026, at 12:00 PM at the Public Safety Building",
+      "what": "Special Town Meeting on school feasibility studies and Neary roof borrowing",
+      "when": "March 2, 2026, at 6:00 PM at Trottier Middle School",
       "body": "Southborough School Committee"
     },
     {
-      "what": "Special Town Meeting on school feasibility studies and Neary roof borrowing",
-      "when": "March 2, 2026, at 6:00 PM at Trottier Middle School",
-      "body": null
+      "what": "Northborough Appropriations Committee budget presentation",
+      "when": "March 3, 2026",
+      "body": "Northborough-Southborough Regional School Committee"
+    },
+    {
+      "what": "District professional development day and adolescent female data analysis session",
+      "when": "March 23, 2026",
+      "body": "Northborough-Southborough Regional School Committee"
+    },
+    {
+      "what": "Day on the Hill legislative advocacy event",
+      "when": "March 30, 2026",
+      "body": "Northborough-Southborough Regional School Committee"
+    },
+    {
+      "what": "Public hearing on FY27 budget at Regional School Committee meeting",
+      "when": "April 11, 2026",
+      "body": "Northborough-Southborough Regional School Committee"
     },
     {
       "what": "Annual Town Election ballot vote on Neary roof debt exclusion",
       "when": "May 12, 2026",
-      "body": null
+      "body": "Southborough School Committee"
     }
   ],
   "week": "2026-02-23",
-  "fingerprint": "2a579702fffe4330",
+  "fingerprint": "c965915474cd9694",
   "video_ids": [
+    "_YLjrgHgfVc",
     "qoPRkdI2yfs"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T00:13:27Z"
+  "generated_at": "2026-10-19T11:47:39Z"
 }

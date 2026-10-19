@@ -475,8 +475,8 @@
       "discovered_at": "2026-10-14T15:58:35Z",
       "meeting_date": "2026-10-13",
       "week": "2026-10-12",
-      "processed_at": "2026-10-15T11:12:02Z",
-      "prompt_version": "2026-10-13b",
+      "processed_at": "2026-10-19T11:44:38Z",
+      "prompt_version": "2026-10-16",
       "last_error": null
     },
     "VZd0rZYyRHI": {
@@ -2743,14 +2743,16 @@
       "published_at": "2026-04-11T18:46:52Z",
       "duration_s": 16512,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 1,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-04-11",
       "week": "2026-04-06",
-      "last_error": "static processing: interaction failed: There was a problem processing your request. You will not be charged. (DEADLINE_EXCEEDED)"
+      "last_error": null,
+      "processed_at": "2026-10-19T11:24:46Z",
+      "prompt_version": "2026-10-16"
     },
     "3Z_ZpSIMv_0": {
       "id": "3Z_ZpSIMv_0",
@@ -2759,13 +2761,16 @@
       "published_at": "2026-04-11T18:35:05Z",
       "duration_s": 11646,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-04-11",
-      "week": "2026-04-06"
+      "week": "2026-04-06",
+      "processed_at": "2026-10-19T11:29:01Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "wH6b0_8PAcs": {
       "id": "wH6b0_8PAcs",
@@ -3308,13 +3313,16 @@
       "published_at": "2026-03-10T04:46:06Z",
       "duration_s": 6142,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-03-09",
-      "week": "2026-03-09"
+      "week": "2026-03-09",
+      "processed_at": "2026-10-19T11:30:25Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "Vmq8OyMS13k": {
       "id": "Vmq8OyMS13k",
@@ -3323,13 +3331,16 @@
       "published_at": "2026-03-06T14:35:51Z",
       "duration_s": 4600,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-03-05",
-      "week": "2026-03-02"
+      "week": "2026-03-02",
+      "processed_at": "2026-10-19T11:31:48Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "HukhWGB3_mg": {
       "id": "HukhWGB3_mg",
@@ -3356,13 +3367,16 @@
       "published_at": "2026-03-04T13:46:33Z",
       "duration_s": 8555,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-03-03",
-      "week": "2026-03-02"
+      "week": "2026-03-02",
+      "processed_at": "2026-10-19T11:36:04Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "36habqkUN7I": {
       "id": "36habqkUN7I",
@@ -3371,13 +3385,16 @@
       "published_at": "2026-03-03T13:44:48Z",
       "duration_s": 6742,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-03-02",
-      "week": "2026-03-02"
+      "week": "2026-03-02",
+      "processed_at": "2026-10-19T11:41:34Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "0iTSL7ldKmM": {
       "id": "0iTSL7ldKmM",
@@ -3401,13 +3418,16 @@
       "published_at": "2026-02-24T22:09:33Z",
       "duration_s": 5601,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-16T16:53:36Z",
       "meeting_date": "2026-02-20",
-      "week": "2026-02-16"
+      "week": "2026-02-16",
+      "processed_at": "2026-10-19T11:43:49Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "dsIihC4rLww": {
       "id": "dsIihC4rLww",
@@ -3643,13 +3663,16 @@
       "published_at": "2026-03-03T15:57:43Z",
       "duration_s": 8860,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-10-16T19:05:44Z",
       "meeting_date": "2026-02-25",
-      "week": "2026-02-23"
+      "week": "2026-02-23",
+      "processed_at": "2026-10-19T11:39:20Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -3700,13 +3723,21 @@
       "output_tokens": 15748,
       "thought_tokens": 12498,
       "tool_use_tokens": 0
+    },
+    "2026-10-19": {
+      "video_minutes": 1197,
+      "calls": 69,
+      "input_tokens": 3480927,
+      "output_tokens": 109006,
+      "thought_tokens": 288597,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-18T14:51:19Z",
+    "at": "2026-10-19T11:17:27Z",
     "discovered": 28,
-    "summarized": 3,
+    "summarized": 8,
     "refreshed": 1,
-    "errors": 17
+    "errors": 0
   }
 }

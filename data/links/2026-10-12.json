@@ -1,10 +1,10 @@
 {
   "week": "2026-10-12",
-  "fingerprint": "012460ad35dd8d99",
+  "fingerprint": "573c22b30944cb96",
   "topics": {
     "BTBCj00PeQw#0": {
       "issue": null,
-      "category": "Other"
+      "category": "Governance & committees"
     },
     "BTBCj00PeQw#1": {
       "issue": null,
@@ -20,7 +20,7 @@
     },
     "QdzU1T7dKiU#0": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "QdzU1T7dKiU#1": {
       "issue": "neary-school-building-project",
@@ -36,7 +36,7 @@
     },
     "VZd0rZYyRHI#1": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Governance & committees"
     },
     "VZd0rZYyRHI#2": {
       "issue": "tricentennial-street-banners",
@@ -44,10 +44,10 @@
     },
     "VZd0rZYyRHI#3": {
       "issue": "tricentennial-summer-nights",
-      "category": "Parks, trails & recreation"
+      "category": "Library, arts & community"
     },
     "VZd0rZYyRHI#4": {
-      "issue": null,
+      "issue": "history-makers-recognition-program",
       "category": "Library, arts & community"
     },
     "VZd0rZYyRHI#5": {
@@ -76,7 +76,7 @@
     },
     "XB-8MuC8GBo#2": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Governance & committees"
     },
     "XWT8M6ozUrU#0": {
       "issue": null,
@@ -84,7 +84,7 @@
     },
     "XWT8M6ozUrU#1": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Governance & committees"
     },
     "XWT8M6ozUrU#2": {
       "issue": "tricentennial-street-banners",
@@ -96,10 +96,10 @@
     },
     "XWT8M6ozUrU#4": {
       "issue": "tricentennial-summer-nights",
-      "category": "Parks, trails & recreation"
+      "category": "Library, arts & community"
     },
     "XWT8M6ozUrU#5": {
-      "issue": null,
+      "issue": "history-makers-recognition-program",
       "category": "Library, arts & community"
     },
     "XWT8M6ozUrU#6": {
@@ -140,7 +140,7 @@
     },
     "aKVWTSuQCMw#3": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "aKVWTSuQCMw#4": {
       "issue": "neary-school-roof-replacement",
@@ -155,8 +155,8 @@
       "category": "Schools"
     },
     "aKVWTSuQCMw#7": {
-      "issue": "fy28-operating-budget",
-      "category": "Budget & taxes"
+      "issue": null,
+      "category": "Schools"
     },
     "aKVWTSuQCMw#8": {
       "issue": "fy28-operating-budget",
@@ -297,5 +297,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-17T13:12:28Z"
+  "generated_at": "2026-10-19T12:25:01Z"
 }

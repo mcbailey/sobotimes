@@ -1,0 +1,299 @@
+{
+  "video": {
+    "id": "3Z_ZpSIMv_0",
+    "title": "Southborough Special Town Meeting 10/17/2026",
+    "published_at": "2026-04-11T18:35:05Z",
+    "duration_s": 11646
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Special Town Meeting",
+    "meeting_date": "2026-04-11",
+    "headline": "Special Town Meeting approved making the town clerk appointed and funded golf and trail projects, but rejected a two-family zoning amendment.",
+    "summary": "Voters at the Special Town Meeting approved Article 1 to convert the town clerk position from elected to appointed, subject to a future ballot vote or legislative act. A proposed zoning amendment to facilitate two-family home construction failed to achieve the necessary two-thirds majority after extensive debate. Town Meeting also authorized additional Community Preservation Act funds for the Southborough Golf Club irrigation project and a pedestrian footbridge on Peninsula Trail, voted to establish a stormwater enterprise fund for FY28, rescinded over $1.1 million in unissued debt, and approved extending water service to two Parkerville Road homes.",
+    "topics": [
+      {
+        "title": "Routine business and meeting opening",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The town moderator called the meeting to order after a quorum of at least 100 registered voters was established. Proceedings opened with the Pledge of Allegiance, a moment of recognition for longtime resident Bea Ginga, explanation of hall boundaries and non-voter admissions, a practice vote using electronic voting clickers, and approval of a motion to waive reading of the warrant articles.",
+        "key_details": [
+          "Quorum of at least 100 voters confirmed present",
+          "Pledge of Allegiance led by high school senior Alina Gage",
+          "Practice electronic vote on whether autumn is voters' favorite season passed 80-57",
+          "Motion to dispense with reading of each article approved by voice vote"
+        ],
+        "outcome": "Procedural actions approved",
+        "why_it_matters": null,
+        "start_seconds": 1388,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 1: Change town clerk from elected to appointed",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Town Meeting considered Article 1 to change the town clerk position from elected to appointed by the Select Board. Former town clerk Jim Hegarty explained that increasing statutory and election complexities make professional qualification through appointment preferable. A floor amendment to remove the Select Board's option to petition the state legislature for a special act failed, and the main article passed by majority vote.",
+        "key_details": [
+          "Former clerk Jim Hegarty served 11.5 years and initiated the proposal",
+          "Voters rejected an amendment by a resident to eliminate the legislative special act option",
+          "Town counsel confirmed the Select Board retains authority to remove an appointed clerk for cause",
+          "Article 1 passed by majority vote"
+        ],
+        "outcome": "Article 1 passed by majority vote",
+        "why_it_matters": "The town clerk position will shift from an elected post to an appointed position, changing how election administration and municipal records management are governed in Southborough.",
+        "start_seconds": 2350,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 2: Amend zoning code for two-family dwellings",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Article 2 proposed amending the zoning code to eliminate the requirement that a single-family home must exist for two years before being converted to a two-family dwelling, and to allow by-right or special permit two-family construction on conforming lots. Proponents argued it would diversify town housing options and align with the master plan, while opponents contended it would encourage speculative teardowns of starter homes without ensuring affordability. An amendment simplifying lot size language passed, but the amended article failed to meet the required two-thirds threshold.",
+        "key_details": [
+          "ZBA proposed removing the two-year existence rule for two-family conversions",
+          "Advisory Committee voted 3-4-0 against the article prior to Town Meeting",
+          "Floor amendment to strike repetitive minimum lot size language passed by majority vote",
+          "Final vote required a two-thirds majority to pass",
+          "Clicker vote tally: 85 in favor, 80 opposed, falling short of two-thirds"
+        ],
+        "outcome": "Article 2 failed (85-80, two-thirds required)",
+        "why_it_matters": "The defeat preserves the existing zoning rule requiring single-family homes to exist for at least two years before converting into two-family dwellings, restricting new two-family teardown and rebuild developments.",
+        "start_seconds": 3580,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 3: CPA funding for Southborough Golf Club irrigation system",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Voters debated Article 3, which requested $433,546 in additional Community Preservation Act (CPA) funds to replace the failing 50-year-old manual irrigation system at the Southborough Golf Club. Project advocates argued the investment is critical to maintaining course conditions and securing a favorable course management contract, while opponents argued the golf course should fund capital improvements through player user fees rather than town-wide preservation funds.",
+        "key_details": [
+          "$433,546 in additional CPA funds requested, bringing total CPA funding to $987,296",
+          "Total project cost is $1,087,296, with $100,000 contributed from the Golf Revolving Fund",
+          "Advisory Committee voted unanimously (0-7-0) against the article",
+          "Select Board voted unanimously (5-0) in support",
+          "Course had 28,446 rounds played in 2025"
+        ],
+        "outcome": "Article 3 passed by majority vote",
+        "why_it_matters": "Authorizes $433,546 in CPA funds toward a $1.087 million overhaul of the golf course irrigation infrastructure, enabling the town to proceed with procurement for course management.",
+        "start_seconds": 4054,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 4: CPA funding for Peninsula Trail pedestrian footbridge",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Article 4 requested an additional $217,318 in CPA funds, for a maximum total authorization of $428,550, to construct an ADA-accessible pedestrian footbridge over Stony Brook connecting sections of the Peninsula Trail. Trails Committee representatives explained the bridge eliminates a dangerous gap where hikers must walk on Route 30 without sidewalks. Despite opposition from the Select Board and Advisory Committee citing high costs, voters approved the measure.",
+        "key_details": [
+          "Authorizes up to $428,550 in total CPA funds, adding $217,318 to $211,232 previously approved in 2024",
+          "Trails Committee plans to seek up to $100,000 in MassTrails grant funding to reduce net town CPA cost to $265,300",
+          "Select Board voted 1-4-0 against; Advisory Committee voted 0-7-0 against",
+          "Bridge would link Peninsula Trail to the 33-mile Boroughs Loop and 233-mile Bay Circuit Trail",
+          "Project design uses modular construction designed for a 75-year lifespan"
+        ],
+        "outcome": "Article 4 passed by majority vote",
+        "why_it_matters": "Secures town funding to complete the off-road trail connection over Stony Brook, removing pedestrians from a shoulder-less section of Route 30.",
+        "start_seconds": 5100,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 5: Establish stormwater enterprise fund",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The Select Board presented Article 5 to establish an enterprise fund for stormwater management beginning in FY28 (July 1, 2027). The fund creates a dedicated accounting mechanism to track and fund mandated drainage maintenance and water quality compliance. Board members clarified that approving the article creates the fund framework without setting fees, which must be voted at a future annual town meeting.",
+        "key_details": [
+          "Establishes a dedicated stormwater enterprise fund effective July 1, 2027 (FY28)",
+          "Shifts stormwater accounting away from property tax valuation toward impervious surface area",
+          "Preliminary estimates suggest residential share could drop from roughly 87% to 56%, with commercial/industrial share increasing",
+          "Specific rates, fees, and annual budgets will require future Town Meeting approval"
+        ],
+        "outcome": "Article 5 passed by majority vote",
+        "why_it_matters": "Lays the legal groundwork for Southborough to establish a separate stormwater utility and fee structure based on property impervious surface area rather than assessed value.",
+        "start_seconds": 6728,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 6: Rescind authorized but unissued debt",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Article 6 proposed rescinding unused borrowing authorizations totaling $1,102,960 across two completed capital accounts. The town rescinded $727,960 in remaining borrowing authorization from the Breakneck Hill Farm dump cleanup and $375,000 from the Neary School feasibility study, cleaning up town debt records to support the town's credit rating.",
+        "key_details": [
+          "$727,960 in authorized borrowing rescinded for Breakneck Hill Farm dump cleanup",
+          "$375,000 in authorized borrowing rescinded for Neary School feasibility study",
+          "A remaining balance of approximately $176,000 is retained to finish remaining Breakneck Hill monitoring and site restoration work",
+          "Total borrowing authorization cancelled: $1,102,960"
+        ],
+        "outcome": "Article 6 passed by majority vote",
+        "why_it_matters": "Clearing over $1.1 million in unneeded borrowing authority cleans town financial books and preserves Southborough's borrowing capacity and credit rating.",
+        "start_seconds": 7320,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 7: Parkerville Road water main extension",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "Article 7 requested funding to extend the municipal water main on Parkerville Road to connect two residential properties located within 500 feet of the capped Parkerville Road landfill. DPW Superintendent Bill Cundiff explained that although residential drinking wells tested clean, DEP recommended connecting the homes after monitoring wells detected 1,4-dioxane and arsenic near the landfill.",
+        "key_details": [
+          "Extends public water service to two private residences within 500 feet of the landfill",
+          "Testing of private drinking wells showed no detects for 1,4-dioxane or arsenic",
+          "DEP recommended municipal connection to eliminate long-term contamination risks",
+          "Recommended by both the Select Board and Advisory Committee"
+        ],
+        "outcome": "Article 7 passed by majority vote",
+        "why_it_matters": "Protects residential drinking water near the town landfill and relieves the town of future PFAS and monitoring liabilities for those properties.",
+        "start_seconds": 7674,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 8: Increase personal property tax exemption",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Town Meeting considered Article 8, sponsored by the Board of Assessors, to increase the personal property tax exemption limit from $1,500 to $2,500 of assessed value. Officials explained that administering bills on very small accounts costs the town more than the revenue collected, and raising the threshold offers relief to Southborough's smallest businesses.",
+        "key_details": [
+          "Increases exemption threshold from $1,500 to $2,500 in assessed personal property value",
+          "Aimed at reducing administrative costs associated with small billing accounts",
+          "Supported by the Board of Assessors and Select Board"
+        ],
+        "outcome": "Article 8 passed by majority vote",
+        "why_it_matters": "Exempts small businesses with minimal personal property from filing and paying small tax bills that cost the town more to administer than they generate.",
+        "start_seconds": 7908,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Article 1 Amendment: Strike the option for the Select Board to petition the state legislature for a special act to convert the town clerk position to an appointed office",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 3399
+      },
+      {
+        "motion": "Article 1: Convert the office of Town Clerk from elected to appointed by the Select Board as printed in the warrant",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 3576
+      },
+      {
+        "motion": "Article 2 Amendment: Move the previous question to end debate on the amendment to Article 2",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4944
+      },
+      {
+        "motion": "Article 2 Amendment: Strike the phrase 'on a lot that meets the minimum lot size for the zoning district in which the dwelling is located' across the specified subsections",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4966
+      },
+      {
+        "motion": "Article 2 as amended: Amend the Southborough Zoning Code to permit two-family dwellings and remove the two-year existence requirement for conversion",
+        "result": "failed",
+        "tally": "85-80",
+        "start_seconds": 6420
+      },
+      {
+        "motion": "Article 3: Appropriate $433,546 in Community Preservation Act funds for the Southborough Golf Club irrigation replacement project",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 6299
+      },
+      {
+        "motion": "Article 4: Authorize up to $428,550 in Community Preservation Act funds, including $217,318 in additional funds, for the Peninsula Trail pedestrian footbridge project",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 6725
+      },
+      {
+        "motion": "Article 5: Establish a dedicated Stormwater Enterprise Fund effective July 1, 2027",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 7319
+      },
+      {
+        "motion": "Article 6: Rescind $727,960 in unissued borrowing for the Breakneck Hill dump cleanup and $375,000 for the Neary School feasibility study",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 7671
+      },
+      {
+        "motion": "Article 7: Appropriate funds to extend the municipal water main on Parkerville Road to connect two residential properties",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 7905
+      },
+      {
+        "motion": "Article 8: Increase the personal property tax exemption threshold from $1,500 to $2,500 of assessed value",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 8036
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident on Oregon Road argued that the town clerk position should remain subject to voter selection at the ballot box rather than being authorized via special state legislation.",
+        "start_seconds": 2651
+      },
+      {
+        "summary": "A resident of Central Street spoke in favor of making the town clerk an appointed position, citing the technical complexity of modern election laws and low voter turnout in local elections.",
+        "start_seconds": 2850
+      },
+      {
+        "summary": "A resident of Ledge Hill Road noted her initial opposition to an appointed clerk but stated that election experience convinced her specialized expertise is required.",
+        "start_seconds": 3511
+      },
+      {
+        "summary": "A resident of Davis Road argued against Article 2, warning that lifting the two-year waiting restriction would open residential neighborhoods to high-priced duplex condominiums without creating affordable housing.",
+        "start_seconds": 4982
+      },
+      {
+        "summary": "A resident of Valley Road opposed Article 2, stating that removing the two-year restriction would attract investors to buy up small starter homes for teardowns.",
+        "start_seconds": 5710
+      },
+      {
+        "summary": "A resident of Northborough Road spoke in support of two-family zoning, stating that diverse housing stock provides options for younger families and downsizers.",
+        "start_seconds": 5572
+      },
+      {
+        "summary": "A resident of Woodland Road, an officer speaking as a resident, supported the golf course irrigation project, noting the course serves as a vital community recreational space.",
+        "start_seconds": 5850
+      },
+      {
+        "summary": "A resident of Wyeth Circle asked questions about who would pay into the stormwater enterprise fund and whether properties with private stormwater systems would receive exemptions.",
+        "start_seconds": 6944
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Annual Town Meeting discussion on stormwater enterprise fund fee structure and budget",
+        "when": "Spring 2027"
+      },
+      {
+        "what": "Select Board procurement process for golf course management contract",
+        "when": "April 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T11:29:01Z",
+  "usage": {
+    "total_tokens": 452549,
+    "total_input_tokens": 445848,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 444859
+      },
+      {
+        "modality": "text",
+        "tokens": 989
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 4252,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2449
+  }
+}

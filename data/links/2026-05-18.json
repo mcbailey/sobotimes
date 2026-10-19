@@ -1,6 +1,6 @@
 {
   "week": "2026-05-18",
-  "fingerprint": "836e78974a1fd37c",
+  "fingerprint": "976f5dec877e5c96",
   "topics": {
     "C_4TOzgcpyo#0": {
       "issue": "southborough-golf-club-audubon-plan",
@@ -19,8 +19,8 @@
       "category": "Parks, trails & recreation"
     },
     "C_4TOzgcpyo#4": {
-      "issue": null,
-      "category": "Governance & committees"
+      "issue": "cpa-project-signage-program",
+      "category": "Parks, trails & recreation"
     },
     "C_4TOzgcpyo#5": {
       "issue": null,
@@ -29,6 +29,46 @@
     "C_4TOzgcpyo#6": {
       "issue": null,
       "category": "Governance & committees"
+    },
+    "DeZN40QaqS8#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#6": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#7": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "DeZN40QaqS8#9": {
+      "issue": null,
+      "category": "Budget & taxes"
     },
     "X6ABrfEh-fQ#0": {
       "issue": "route-9-495-gateway-study",
@@ -52,7 +92,7 @@
     },
     "aE6XZkN9G9s#2": {
       "issue": "route-9-wastewater-infrastructure",
-      "category": "Budget & taxes"
+      "category": "Roads, water & infrastructure"
     },
     "aE6XZkN9G9s#3": {
       "issue": "route-9-495-gateway-study",
@@ -88,7 +128,7 @@
     },
     "deu8b2Ix5zU#7": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "deu8b2Ix5zU#8": {
       "issue": null,
@@ -96,6 +136,42 @@
     }
   },
   "votes": {
+    "DeZN40QaqS8#v0": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v1": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v2": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v3": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v4": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v5": {
+      "issue": "school-food-service-contract"
+    },
+    "DeZN40QaqS8#v6": {
+      "issue": "school-food-service-contract"
+    },
+    "DeZN40QaqS8#v7": {
+      "issue": "school-food-service-contract"
+    },
+    "DeZN40QaqS8#v8": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v9": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v10": {
+      "issue": null
+    },
+    "DeZN40QaqS8#v11": {
+      "issue": null
+    },
     "X6ABrfEh-fQ#v0": {
       "issue": "route-9-495-gateway-study"
     },
@@ -156,6 +232,18 @@
       "date": "2026-09-15",
       "issue": null
     },
+    "DeZN40QaqS8#u0": {
+      "date": "2026-06-17",
+      "issue": null
+    },
+    "DeZN40QaqS8#u1": {
+      "date": "2026-06-06",
+      "issue": null
+    },
+    "DeZN40QaqS8#u2": {
+      "date": null,
+      "issue": "school-food-service-contract"
+    },
     "X6ABrfEh-fQ#u0": {
       "date": "2026-06-01",
       "issue": null
@@ -178,7 +266,7 @@
     },
     "aE6XZkN9G9s#u2": {
       "date": "2026-06-22",
-      "issue": null
+      "issue": "route-9-wastewater-infrastructure"
     },
     "deu8b2Ix5zU#u0": {
       "date": "2026-06-02",
@@ -198,5 +286,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T02:22:26Z"
+  "generated_at": "2026-10-19T12:19:29Z"
 }

@@ -1,0 +1,532 @@
+{
+  "video": {
+    "id": "6BsjfLacx9M",
+    "title": "Southborough Annual Town Meeting 4/11/2026",
+    "published_at": "2026-04-11T18:46:52Z",
+    "duration_s": 16512
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Town Meeting",
+    "meeting_date": "2026-04-11",
+    "headline": "Town Meeting approved a $25 million road and sidewalk plan, $8.8 million for a middle school roof, and updated industrial park zoning.",
+    "summary": "At the 2026 Annual Town Meeting, Southborough voters approved a $71.1 million operating budget for FY27 alongside several major borrowing authorizations. Voters passed a $25 million infrastructure program to implement a five-year pavement management plan and build four new sidewalks, as well as an $8.8 million borrowing authorization to replace the Trottier Middle School roof subject to a ballot vote. Town Meeting also adopted comprehensive amendments to the Industrial Park zoning district, creating regulations and a 1,000-foot setback for data centers while expanding by-right commercial uses, and increased the allowable size of accessory dwelling units to 1,200 square feet.",
+    "topics": [
+      {
+        "title": "Routine business and consent agenda",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Town officials opened the meeting with community recognitions, procedural instructions, and action on routine consent articles. The library director presented the Peggy Tuttle Award to Bert McCue for volunteer service, and the town recognized Girl Scout leader Carol Saunders for 37 years of leadership and Anita Reeder for handmade Quilts of Valor. Voters approved a consent agenda covering routine warrant articles, while citizen petitions under Articles 26 and 34 were passed over without action.",
+        "key_details": [
+          "Voters approved a single consent motion adopting Articles 1, 2, 3, 5, 8, 10, 14, 16, 18, 19, 20, 21, 22, 23, and 24.",
+          "Town Clerk Jim Hegarty explained the electronic clicker voting system and conducted a test vote.",
+          "Article 26 on town clerk matters and Article 34 submitted by high school students were passed over with no motions made."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": null,
+        "start_seconds": 725,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 4: Salary Administration Plan",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Personnel Board member Brian Shea presented Article 4, which proposed annual updates to the town's Salary Administration Plan for non-union personnel. The updates reflect standard annual adjustments to municipal classification and compensation schedules.",
+        "key_details": [
+          "Moved by Personnel Board member Brian Shea.",
+          "Updates the town's annual non-union compensation schedule."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": null,
+        "start_seconds": 2567,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 6: FY27 municipal operating budget",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Select Board Chair Andrew Dennington moved the FY27 general fund operating budget of $71,077,130, representing an appropriation of $66,917,959 in taxation and the balance from available funds and reserves. Voters held and separately debated three line items: the Economic Development Committee ($5,000), the Police Department ($3,000,000+ level), and Employee Benefits. Officials detailed police staffing levels and explained a new high-deductible health plan option with town-funded Health Savings Account contributions intended to save up to $1 million annually.",
+        "key_details": [
+          "Total FY27 operating budget of $71,077,130, including a transfer of $2,778,774 from free cash and $579,875 from ambulance receipts.",
+          "Police budget increase reflects the full annualized cost of three police officers previously added on a staggered schedule.",
+          "Employee health insurance introduces a high-deductible plan with $2,000 individual and $4,000 family deductibles, with the town funding half the deductible into an HSA.",
+          "County retirement system assessment increased by 11.7 percent toward full funding by 2040.",
+          "All held budget lines and the final operating budget motion passed."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "The operating budget directly sets town property tax requirements and funds all municipal departments, local public schools, police, fire, public works, and employee benefits for the fiscal year beginning July 1, 2026.",
+        "start_seconds": 2628,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 7: FY27 Water Enterprise budget",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Select Board member Marguerite Landry presented the FY27 Water Enterprise budget, which totals $3,522,752. DPW Superintendent Bill Cundiff noted that operating costs were largely stable with modest increases driven primarily by pumping electricity rates.",
+        "key_details": [
+          "Total appropriation of $3,194,060 for direct costs and $328,692 for indirect costs allocated from the general fund.",
+          "Funded by $3,125,863 from user water charges and $396,889 from retained earnings.",
+          "Required a two-thirds vote and was approved by the hall."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "The enterprise budget determines water utility rates and funding needed to supply and maintain the town public drinking water system.",
+        "start_seconds": 4409,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 9: Capital budget from available funds",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Select Board member Al Hamilton moved Article 9 to authorize non-borrowing capital appropriations for equipment across municipal departments. The motion was supported unanimously by both the Select Board and Advisory Committee.",
+        "key_details": [
+          "Covers routine annual capital equipment purchases from existing funds.",
+          "Approved without debate by a hand vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Authorizes cash funding for town equipment and vehicle replacements without taking on new municipal debt.",
+        "start_seconds": 4538,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 11: MWRA borrowing for water main loop",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "Select Board Chair Andrew Dennington moved to authorize borrowing $1,000,000 to construct a water main loop connecting Presidential Drive and Fisher Road. The project utilizes a zero-percent interest loan from the Massachusetts Water Resources Authority to eliminate dead ends and improve system water circulation.",
+        "key_details": [
+          "Authorizes $1,000,000 in borrowing via an interest-free MWRA loan.",
+          "Loops water infrastructure between Presidential Drive and Fisher Road.",
+          "Eliminates stagnant water and improves system flow.",
+          "Passed by a two-thirds majority vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Improves water quality, flow volume, and pressure reliability for affected neighborhoods using state interest-free loan financing.",
+        "start_seconds": 4596,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 12: School capital borrowing",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Assistant Superintendent of Operations Keith Lavoie presented three school capital borrowing items totaling $2,575,000: classroom technology upgrades, comprehensive district-wide security system upgrades, and flooring replacement at Finn School. A floor motion to strike the $1.4 million security upgrade sparked extended discussion regarding school safety and surveillance capabilities before failing.",
+        "key_details": [
+          "Appropriates $365,000 for presentation equipment across 120 classrooms in all four schools.",
+          "Appropriates $1,400,000 for interconnected cameras, access control, visitor screening, and two-way radio systems linking schools with police and fire.",
+          "Appropriates $810,000 to replace 43,000 square feet of flooring and complete moisture mitigation at Finn School.",
+          "Floor amendment to strike the security system project was defeated.",
+          "The main borrowing authorization passed by a two-thirds majority."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Authorizes $2.575 million in school debt to upgrade classroom learning technology, remediate moisture issues at Finn School, and install standardized security equipment across all district buildings.",
+        "start_seconds": 4691,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 13: Road and sidewalk capital borrowing program",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "DPW Superintendent Bill Cundiff and Treasurer Brian Ballantine presented a comprehensive 20-year borrowing package to implement a five-year pavement management plan and build four new sidewalks. Cundiff explained that Southborough receives only $800,000 annually for road work, which is insufficient to stop roadway deterioration across 72 miles of town roads. An amendment to require MassDOT invasive species guidelines and weed-free soil was defeated after the DPW raised practical and cost concerns.",
+        "key_details": [
+          "Authorizes up to $22,255,000 in borrowing for road reconstruction and preservation over five years.",
+          "Authorizes $2,745,000 to construct sidewalks on Oak Hill Road, Parkerville Road, Richards Road, and Woodland Road.",
+          "Tax impact peaks in FY32 at an estimated $508 annually for a median-value home assessed at $898,100.",
+          "Floor amendment by Open Space Preservation Commission Chair Freddie Gillespie regarding Japanese knotweed management was defeated.",
+          "The borrowing authorization passed by a two-thirds majority."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "The $25 million authorization represents one of the largest infrastructure investments in town history, shifting Southborough from reactive road patching to a multi-year pavement preservation model and funding major pedestrian sidewalks.",
+        "start_seconds": 6840,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 15: Trottier Middle School roof replacement borrowing",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Select Board member Al Hamilton moved Article 15 to authorize $8,833,964 in borrowing to replace the roof of P. Brent Trottier Middle School. The Massachusetts School Building Authority will reimburse up to 41.32 percent of eligible project costs. The borrowing is contingent upon approval of a Proposition 2 1/2 debt exclusion ballot question at the town election.",
+        "key_details": [
+          "Authorizes borrowing up to $8,833,964 for design, project management, and construction.",
+          "Eligible for up to 41.32 percent grant reimbursement from the MSBA.",
+          "Contingent on voter approval of a Proposition 2 1/2 debt exclusion on the ballot.",
+          "Approved by a two-thirds majority vote without floor opposition."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Authorizes full roof replacement for Trottier Middle School to protect the facility, contingent on town voters approving a temporary tax override on the ballot.",
+        "start_seconds": 10148,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 17: Industrial Park zoning update and data center regulations",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Planning Board Vice Chair Marnie Hoolahan presented an overhaul of the town 40-year-old Industrial Park (IP) zoning bylaw to expand by-right uses under 50,000 square feet, establish general performance standards, and regulate data centers by special permit. A floor amendment by Sam Stivers to remove the 1,000-foot setback and increase maximum data center size to 100,000 square feet failed 50-73 on a clicker vote. A second amendment to increase setbacks to 2,000 feet also failed, and the main zoning amendment passed by a 90-32 clicker vote.",
+        "key_details": [
+          "Modernizes allowable IP uses by right under 50,000 square feet, including breweries, recreation, and small clean energy facilities.",
+          "Establishes general performance standards for noise, vibration, odor, emissions, and lighting.",
+          "Requires Planning Board special permits for data centers, capping size at 50,000 square feet with a 1,000-foot setback from residential and conservation parcels.",
+          "Stivers amendment to eliminate the 1,000-foot data center setback failed 50-73.",
+          "Article 17 passed by a two-thirds majority with 90 in favor and 32 opposed."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Establishes new land-use rules for commercial and industrial zones in Southborough, specifically creating strict regulatory guardrails and buffer requirements for future AI data centers.",
+        "start_seconds": 10364,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 25: Community Preservation transfer for Affordable Housing Trust",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Grant Farrington of the Community Preservation Committee moved Article 25 to transfer $61,000 in Community Preservation Act funds to the Southborough Affordable Housing Trust. The funds match recurring housing allocations to support local affordable housing development.",
+        "key_details": [
+          "Transfers $61,000 from the Community Preservation Fund to the Affordable Housing Trust.",
+          "Follows an initial $550,000 allocation approved at the previous annual town meeting.",
+          "Approved by majority vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Provides dedicated municipal funding to the Southborough Affordable Housing Trust to create and preserve affordable housing units.",
+        "start_seconds": 14465,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 27: Willow Street drainage easements",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "Select Board Chair Andrew Dennington moved to authorize the Select Board to acquire drainage easements necessary to complete culvert replacement work on Willow Street. The work is designed to alleviate chronic roadway flooding in that area.",
+        "key_details": [
+          "Authorizes acquisition of utility and drainage easements.",
+          "Supports culvert replacement and flood prevention on Willow Street.",
+          "Passed by a two-thirds majority vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": null,
+        "start_seconds": 14610,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 29: Zoning amendment for accessory dwelling units",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Select Board member Kathy Cook moved Article 29 on behalf of the Zoning Board of Appeals to expand by-right accessory dwelling units (ADUs) up to 1,200 square feet, an increase from the state-mandated 900 square feet or 50 percent of gross floor area. Proponents argued the change provides equity for smaller homes and seniors needing caregiver space, while the Advisory Committee opposed it over concerns about density, septic limitations, and school impacts.",
+        "key_details": [
+          "Increases the maximum allowable size of an ADU by right from 900 to 1,200 square feet.",
+          "All ADUs remain subject to Title 5 septic requirements, setback limits, height caps, and parking rules.",
+          "Supported by the ZBA and Planning Board (4-0-1); opposed by the Advisory Committee.",
+          "Passed by majority vote as authorized under state housing law."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": "Allows homeowners across all residential zones to construct larger accessory apartments by right, offering greater flexibility for multigenerational housing and seniors aging in place.",
+        "start_seconds": 14671,
+        "end_seconds": null
+      },
+      {
+        "title": "Articles 30 and 31: Zoning code updates for housing trust and MBTA overlay",
+        "category": "Development & zoning",
+        "importance": "low",
+        "summary": "Planning Board Vice Chair Marnie Hoolahan presented two corrective zoning amendments. Article 30 updated town code references to replace the dissolved Southborough Opportunity Partnership Committee with the Southborough Affordable Housing Trust. Article 31 corrected a clerical transcription error in the dimensional table of the MBTA Communities Overlay District by replacing an 'or' with a comma and removing an errant percent symbol from the floor area ratio.",
+        "key_details": [
+          "Article 30 aligns town code with the newly established Affordable Housing Trust and passed by two-thirds vote.",
+          "Article 31 fixes clerical errors in the MBTA Communities Overlay District zoning text and passed by majority vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": null,
+        "start_seconds": 15474,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 32: Sign bylaw amendment for Tercentennial banners",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "Select Board Chair Andrew Dennington moved Article 32 to amend the sign bylaw to permit temporary promotional banners across town for Southborough's upcoming 300th anniversary celebration in 2027. The Planning Board supported the article.",
+        "key_details": [
+          "Allows temporary promotional signage and banners for the 2027 Tercentennial celebration.",
+          "Passed by a two-thirds majority vote."
+        ],
+        "outcome": "Passed",
+        "why_it_matters": null,
+        "start_seconds": 15767,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 33: Citizen petition for separate Finance Committee",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Resident Michael Pagany presented Article 33 on behalf of petitioner Mr. Barron, seeking to establish a standalone Finance Committee under Massachusetts General Laws Chapter 39 to audit municipal contracts and accounts. Town Counsel Jay Talerman advised that Massachusetts law does not permit competing finance committees alongside Southborough's existing Advisory Committee and warned of serious legal conflicts. The Advisory Committee opposed the measure, and Town Meeting voted it down.",
+        "key_details": [
+          "Proposed creating a separate five-member finance committee with independent audit authority.",
+          "Town Counsel advised the motion would create unlawful competing committees and violates municipal procurement statutes.",
+          "Defeated overwhelmingly by hand vote."
+        ],
+        "outcome": "Failed",
+        "why_it_matters": null,
+        "start_seconds": 15947,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve Consent List for Articles 1, 2, 3, 5, 8, 10, 14, 16, 18, 19, 20, 21, 22, 23, and 24",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 2541
+      },
+      {
+        "motion": "Article 4: Adopt Salary Administration Plan updates as printed in the warrant",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 2615
+      },
+      {
+        "motion": "Article 6: Approve all non-held lines of the FY27 operating budget",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 3074
+      },
+      {
+        "motion": "Article 6, Line 182: Appropriate $5,000 for the Economic Development Committee",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 3327
+      },
+      {
+        "motion": "Article 6, Line 210: Appropriate funds for the Police Department as printed in the warrant",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 3887
+      },
+      {
+        "motion": "Article 6, Line 910: Appropriate funds for Employee Benefits as printed in the warrant",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4386
+      },
+      {
+        "motion": "Article 6: Approve the total FY27 operating budget of $71,077,130 as moved",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4406
+      },
+      {
+        "motion": "Article 7: Appropriate $3,522,752 for the FY27 Water Enterprise budget",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4534
+      },
+      {
+        "motion": "Article 9: Appropriate capital funds from available revenue sources as printed in the warrant",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4592
+      },
+      {
+        "motion": "Article 11: Authorize $1,000,000 borrowing for MWRA water main loop on Presidential Drive and Fisher Road",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4686
+      },
+      {
+        "motion": "Article 12: Amend main motion to strike Item B ($1,400,000 school security system upgrade)",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 6762
+      },
+      {
+        "motion": "Article 12: Authorize $2,575,000 borrowing for school capital projects (technology, security, and Finn flooring)",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 6792
+      },
+      {
+        "motion": "Article 13: Amend main motion to require MassDOT invasive species guidelines and certified weed-free soil",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 9452
+      },
+      {
+        "motion": "Article 13: Authorize $25,000,000 borrowing for road maintenance and sidewalk construction",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 10142
+      },
+      {
+        "motion": "Article 15: Authorize $8,833,964 borrowing for Trottier Middle School roof replacement contingent on debt exclusion ballot vote",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 10361
+      },
+      {
+        "motion": "Article 17: Amend main motion to strike 1,000-foot setback and increase maximum data center size to 100,000 square feet",
+        "result": "failed",
+        "tally": "50-73",
+        "start_seconds": 13439
+      },
+      {
+        "motion": "Article 17: Amend main motion to establish a 2,000-foot setback from residential districts for all industrial park developments",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 14142
+      },
+      {
+        "motion": "Article 17: Adopt Industrial Park zoning bylaw amendments and data center special permit rules",
+        "result": "passed",
+        "tally": "90-32",
+        "start_seconds": 14455
+      },
+      {
+        "motion": "Article 25: Transfer $61,000 from Community Preservation Fund to the Affordable Housing Trust",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 14582
+      },
+      {
+        "motion": "Article 27: Authorize Select Board to acquire drainage easements on Willow Street",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 14667
+      },
+      {
+        "motion": "Article 29: Amend zoning bylaw to increase maximum allowable size of accessory dwelling units to 1,200 square feet",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 15464
+      },
+      {
+        "motion": "Article 30: Amend zoning code to replace references to SHOPC with Southborough Affordable Housing Trust",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 15578
+      },
+      {
+        "motion": "Article 31: Amend MBTA Communities Overlay District zoning dimensional table to correct clerical errors",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 15764
+      },
+      {
+        "motion": "Article 32: Amend sign bylaw to allow temporary promotional banners for Southborough Tercentennial",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 15877
+      },
+      {
+        "motion": "Article 33: Citizen petition to establish a separate Finance Committee",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 16491
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Ashley Road asked why two members of the Select Board voted against recommending the FY27 operating budget.",
+        "start_seconds": 2808
+      },
+      {
+        "summary": "A resident of Presidential Drive questioned why the Economic Development Committee had an operating budget when it had not met in 18 months.",
+        "start_seconds": 3100
+      },
+      {
+        "summary": "A resident of Main Street supported keeping funds for the Economic Development Committee to assist with grant matches and regional memberships.",
+        "start_seconds": 3249
+      },
+      {
+        "summary": "A resident of Southville Road supported the police operating budget, citing traffic enforcement and response capacity along Route 9.",
+        "start_seconds": 3793
+      },
+      {
+        "summary": "A resident of Darlene Drive asked for details on employee benefit cost increases and the process used to explore alternative health insurance plans.",
+        "start_seconds": 3905
+      },
+      {
+        "summary": "A resident of Marlboro Road questioned the necessity of borrowing $1.4 million for school security and moved to strike the item from Article 12.",
+        "start_seconds": 4879
+      },
+      {
+        "summary": "The chair of the Municipal Technology Committee stated that the committee was established to independently evaluate technology and security proposals.",
+        "start_seconds": 5462
+      },
+      {
+        "summary": "A resident of Central Street spoke in favor of remote camera and security access across schools to aid first responders during active emergencies.",
+        "start_seconds": 5594
+      },
+      {
+        "summary": "A resident of Deerfoot Road expressed reservations about approving $1.4 million in debt for security upgrades when details could not be discussed in open session.",
+        "start_seconds": 5746
+      },
+      {
+        "summary": "Police Chief Ryan Newell spoke in favor of the school security project, citing faster response times and improved officer coordination during emergencies.",
+        "start_seconds": 5805
+      },
+      {
+        "summary": "The Open Space Preservation Commission chair moved an amendment to Article 13 requiring MassDOT invasive plant management guidance and weed-free soil.",
+        "start_seconds": 6000
+      },
+      {
+        "summary": "A resident of North Street described the high cost and difficulty of removing Japanese knotweed infestations from private property.",
+        "start_seconds": 6600
+      },
+      {
+        "summary": "A resident of Ted Lane supported the sidewalk construction borrowing, describing pedestrian hazards along narrow roadways without sidewalks.",
+        "start_seconds": 7174
+      },
+      {
+        "summary": "A resident of Lovers Lane supported road reconstruction, stating that road conditions on Lovers Lane are dangerous and filled with potholes.",
+        "start_seconds": 7288
+      },
+      {
+        "summary": "A resident of Hillside Avenue, a professional transportation engineer, endorsed the DPW's pavement management plan as standard engineering practice.",
+        "start_seconds": 7474
+      },
+      {
+        "summary": "A resident of Main Street opposed loosening data center restrictions, warning that high-capacity facilities increase utility rates and noise.",
+        "start_seconds": 11017
+      },
+      {
+        "summary": "A resident of Tara Road proposed a 2,000-foot setback from residential zones to protect abutting neighborhoods from large industrial park buildings.",
+        "start_seconds": 11083
+      },
+      {
+        "summary": "A resident of Fairview Drive questioned why small clean energy installations like ground-mounted solar would be subject to a 1,000-foot setback.",
+        "start_seconds": 14153
+      },
+      {
+        "summary": "A resident of Bantry Road argued that 1,200 square feet for an accessory dwelling unit is too large and threatens single-family neighborhood character.",
+        "start_seconds": 14918
+      },
+      {
+        "summary": "A resident of Chestnut Hill Road supported the ADU size expansion, noting it gives private homeowners equitable options to house relatives.",
+        "start_seconds": 15220
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Proposition 2 1/2 debt exclusion ballot vote on Trottier Middle School roof replacement borrowing",
+        "when": "Upcoming town election"
+      },
+      {
+        "what": "Planning Board formal closure of the public hearing on Industrial Park zoning amendments",
+        "when": "April 11, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T11:24:46Z",
+  "usage": {
+    "total_tokens": 647119,
+    "total_input_tokens": 631721,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 630733
+      },
+      {
+        "modality": "text",
+        "tokens": 988
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 7311,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 8087
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "week": "2026-02-16",
+  "fingerprint": "6754f3307e376c13",
+  "topics": {
+    "kyQInrqp8mM#0": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "kyQInrqp8mM#1": {
+      "issue": null,
+      "category": "Roads, water & infrastructure"
+    },
+    "kyQInrqp8mM#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "kyQInrqp8mM#3": {
+      "issue": "fy27-operating-budget",
+      "category": "Public safety"
+    },
+    "kyQInrqp8mM#4": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "kyQInrqp8mM#5": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "kyQInrqp8mM#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "kyQInrqp8mM#7": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "kyQInrqp8mM#v0": {
+      "issue": "fy27-operating-budget"
+    }
+  },
+  "upcoming": {
+    "kyQInrqp8mM#u0": {
+      "date": "2026-02-23",
+      "issue": null
+    },
+    "kyQInrqp8mM#u1": {
+      "date": "2026-03-02",
+      "issue": null
+    },
+    "kyQInrqp8mM#u2": {
+      "date": null,
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-19T11:51:21Z"
+}

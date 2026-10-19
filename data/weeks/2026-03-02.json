@@ -1,57 +1,91 @@
 {
-  "headline": "The Municipal Technology Committee voted to back a $25,000 Town Meeting capital request to replace Southborough's aging municipal phone system.",
-  "synopsis": "The Municipal Technology Committee voted unanimously to support a $25,000 capital request for Annual Town Meeting to replace the town's aging on-premise phone system with a cloud-based service. Members also reviewed proposed Industrial Park zoning amendments aimed at creating local guardrails for battery energy storage systems and data centers. In addition, IT staff reported that installation of hybrid meeting room audiovisual equipment is scheduled to begin in late March. The committee also addressed mobile display glitches on the town website and reviewed progress on strategic technology planning surveys.",
+  "headline": "Town Meeting approved $4.5 million to replace the Neary School roof and $175,000 for a renovation study, rejecting school consolidation alternatives.",
+  "synopsis": "Special Town Meeting voters authorized $4.5 million in borrowing to replace the Neary Elementary School roof and approved $175,000 for a renovation feasibility study, while defeating proposals to study school consolidation. The Select Board and School Committee convened the following night to begin drafting roof bid documents ahead of a May 12 ballot vote required to finalize the borrowing. The Select Board also deliberated the draft FY27 budget, which currently projects a 4.9 percent property tax increase. Elsewhere, the Municipal Technology Committee supported a $25,000 phone system upgrade, and the Historical Commission addressed insurance concerns for historic district homeowners.",
   "highlights": [
     {
-      "title": "Municipal phone system upgrade request endorsed",
-      "why": "The committee voted 4-0 to support a $25,000 Annual Town Meeting capital request to replace a 15-year-old phone system that suffers from hardware sourcing issues and license limits.",
-      "body": "Municipal Technology Committee",
+      "title": "Neary School roof replacement borrowing",
+      "why": "Voters approved borrowing up to $4.5 million to replace Neary's failing roof during summer 2026, though the project requires a subsequent town election ballot vote to take effect.",
+      "body": "Special Town Meeting",
       "importance": "high",
-      "video_id": "HukhWGB3_mg",
-      "start_seconds": 258
+      "video_id": "36habqkUN7I",
+      "start_seconds": 5575
     },
     {
-      "title": "Zoning rules reviewed for battery storage and data centers",
-      "why": "Planning representatives briefed the committee on proposed Town Meeting amendments to update 1980s-era Industrial Park zoning bylaws to regulate battery energy storage and data center facilities.",
-      "body": "Municipal Technology Committee",
+      "title": "Neary School renovation feasibility study",
+      "why": "Town Meeting voted to transfer $175,000 from Free Cash to evaluate modernization and targeted code-compliance options to extend Neary's operating life.",
+      "body": "Special Town Meeting",
+      "importance": "high",
+      "video_id": "36habqkUN7I",
+      "start_seconds": 1315
+    },
+    {
+      "title": "Rejection of Trottier and Finn expansion study",
+      "why": "Voters rejected an article proposing up to $500,000 to study closing Neary and adding onto Trottier and Finn, citing septic limits, traffic congestion, and site constraints.",
+      "body": "Special Town Meeting",
+      "importance": "high",
+      "video_id": "36habqkUN7I",
+      "start_seconds": 4385
+    },
+    {
+      "title": "FY27 operating budget deliberations",
+      "why": "Select Board members reviewed a draft level-services budget projecting a 4.9 percent property tax increase and debated whether to pursue cuts to lower the tax impact on residents.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "Y7ecC7d76Is",
+      "start_seconds": 6292
+    },
+    {
+      "title": "Post-Town Meeting Neary bid preparations",
+      "why": "The Select Board and School Committee voted to direct the superintendent to draft bid documents immediately so roof construction can begin promptly following the May ballot vote.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "Y7ecC7d76Is",
+      "start_seconds": 45
+    },
+    {
+      "title": "Homeowner insurance concerns in historic districts",
+      "why": "The commission prepared clarification letters for insurers, explaining that National Register listings and town plaque designations impose no mandatory rebuilding or renovation restrictions.",
+      "body": "Historical Commission",
       "importance": "medium",
-      "video_id": "HukhWGB3_mg",
-      "start_seconds": 624
-    },
-    {
-      "title": "Hybrid meeting room audiovisual upgrades set for late March",
-      "why": "Staff reported that audiovisual components have been ordered and installation across town meeting spaces will start in late March, taking about two weeks to finish.",
-      "body": "Municipal Technology Committee",
-      "importance": "medium",
-      "video_id": "HukhWGB3_mg",
-      "start_seconds": 836
-    },
-    {
-      "title": "Town website mobile formatting and technology surveys reviewed",
-      "why": "After a resident reported that job listings are unreadable on iPhones using mobile Safari, IT staff agreed to consult website vendor CivicPlus while continuing to analyze strategic technology survey responses.",
-      "body": "Municipal Technology Committee",
-      "importance": "low",
-      "video_id": "HukhWGB3_mg",
-      "start_seconds": 1085
+      "video_id": "Vmq8OyMS13k",
+      "start_seconds": 1578
     }
   ],
   "looking_ahead": [
     {
-      "what": "Annual Town Meeting",
-      "when": "April 11, 2026",
-      "body": "Town Meeting"
+      "what": "Joint Select Board and Advisory Committee meeting on the FY27 budget and Annual Town Meeting warrant",
+      "when": "March 10, 2026",
+      "body": "Select Board"
     },
     {
-      "what": "Municipal Technology Committee regular meeting",
-      "when": "April 14, 2026 at 6:30 PM",
-      "body": "Municipal Technology Committee"
+      "what": "Knox Trail lecture by Ben Haley at the Southborough History and Arts Center at Fayville Village Hall",
+      "when": "March 15, 2026 at 2:00 PM",
+      "body": "Historical Commission"
+    },
+    {
+      "what": "Select Board meeting to finalize the Annual Town Meeting warrant and hear a regional fire department presentation",
+      "when": "March 17, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Annual Town Meeting",
+      "when": "April 11, 2026",
+      "body": null
+    },
+    {
+      "what": "Town election ballot vote on a capital exclusion to fund the $4,500,000 Neary roof replacement borrowing",
+      "when": "May 12, 2026",
+      "body": null
     }
   ],
   "week": "2026-03-02",
-  "fingerprint": "a3d300a8be41d712",
+  "fingerprint": "5738052e9df41b68",
   "video_ids": [
-    "HukhWGB3_mg"
+    "36habqkUN7I",
+    "HukhWGB3_mg",
+    "Vmq8OyMS13k",
+    "Y7ecC7d76Is"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:20:41Z"
+  "generated_at": "2026-10-19T11:47:12Z"
 }

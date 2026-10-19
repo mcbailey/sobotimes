@@ -1,13 +1,13 @@
 {
   "week": "2026-03-09",
-  "fingerprint": "4aeb97acafef4347",
+  "fingerprint": "af459413610ef46d",
   "topics": {
     "0P1sB_TDhqU#0": {
       "issue": null,
-      "category": "Town Meeting & elections"
+      "category": "Governance & committees"
     },
     "0P1sB_TDhqU#1": {
-      "issue": null,
+      "issue": "tricentennial-heritage-day-parade",
       "category": "Library, arts & community"
     },
     "0P1sB_TDhqU#2": {
@@ -16,7 +16,7 @@
     },
     "0P1sB_TDhqU#3": {
       "issue": "tricentennial-street-banners",
-      "category": "Town Meeting & elections"
+      "category": "Zoning & development"
     },
     "0P1sB_TDhqU#4": {
       "issue": null,
@@ -27,7 +27,7 @@
       "category": "Schools"
     },
     "3Wtzigng52g#1": {
-      "issue": null,
+      "issue": "regional-superintendent-evaluation-and-contract",
       "category": "Schools"
     },
     "3Wtzigng52g#2": {
@@ -48,7 +48,7 @@
     },
     "3Wtzigng52g#6": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "4qfPD1Qpccs#0": {
       "issue": null,
@@ -60,7 +60,7 @@
     },
     "4qfPD1Qpccs#2": {
       "issue": "salary-administration-plan-amendments",
-      "category": "Town Meeting & elections"
+      "category": "Staffing & operations"
     },
     "4qfPD1Qpccs#3": {
       "issue": "facilities-van-replacement",
@@ -72,7 +72,7 @@
     },
     "4qfPD1Qpccs#5": {
       "issue": "community-preservation-appropriations",
-      "category": "Town Meeting & elections"
+      "category": "Budget & taxes"
     },
     "4qfPD1Qpccs#6": {
       "issue": "fy27-operating-budget",
@@ -96,14 +96,14 @@
     },
     "4qfPD1Qpccs#11": {
       "issue": "costco-special-act-liquor-license",
-      "category": "Town Meeting & elections"
+      "category": "Other"
     },
     "4qfPD1Qpccs#12": {
       "issue": "tax-payment-agreements-bylaw",
       "category": "Budget & taxes"
     },
     "4qfPD1Qpccs#13": {
-      "issue": "industrial-park-zoning-amendments",
+      "issue": "accessory-dwelling-units-zoning",
       "category": "Zoning & development"
     },
     "68vtg6_LvIU#0": {
@@ -120,7 +120,7 @@
     },
     "DdzxtcAtpew#0": {
       "issue": "fy27-school-operating-budget",
-      "category": "Schools"
+      "category": "Budget & taxes"
     },
     "DdzxtcAtpew#1": {
       "issue": null,
@@ -136,7 +136,7 @@
     },
     "DdzxtcAtpew#4": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "DdzxtcAtpew#5": {
       "issue": "neary-school-building-project",
@@ -152,7 +152,7 @@
     },
     "DdzxtcAtpew#8": {
       "issue": null,
-      "category": "Schools"
+      "category": "Budget & taxes"
     },
     "MH85yg5K1Mk#0": {
       "issue": "fy27-operating-budget",
@@ -168,18 +168,18 @@
     },
     "MH85yg5K1Mk#3": {
       "issue": "salary-administration-plan-amendments",
-      "category": "Town Meeting & elections"
+      "category": "Staffing & operations"
     },
     "MH85yg5K1Mk#4": {
       "issue": "salary-administration-plan-amendments",
       "category": "Town Meeting & elections"
     },
     "NKExd-6grWk#0": {
-      "issue": null,
+      "issue": "well-and-septic-regulations",
       "category": "Health & human services"
     },
     "NKExd-6grWk#1": {
-      "issue": null,
+      "issue": "housing-and-food-enforcement-policies",
       "category": "Health & human services"
     },
     "NKExd-6grWk#2": {
@@ -192,7 +192,7 @@
     },
     "NKExd-6grWk#4": {
       "issue": null,
-      "category": "Health & human services"
+      "category": "Governance & committees"
     },
     "mgWw2EVBdVI#0": {
       "issue": null,
@@ -236,11 +236,47 @@
     },
     "oG4b8H-IoeM#4": {
       "issue": "conservation-land-use-regulations",
-      "category": "Environment & conservation"
+      "category": "Parks, trails & recreation"
     },
     "oG4b8H-IoeM#5": {
       "issue": null,
       "category": "Environment & conservation"
+    },
+    "xV619ejVoRQ#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "xV619ejVoRQ#1": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "xV619ejVoRQ#2": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "xV619ejVoRQ#3": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "xV619ejVoRQ#4": {
+      "issue": "library-security-cameras",
+      "category": "Buildings & facilities"
+    },
+    "xV619ejVoRQ#5": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "xV619ejVoRQ#6": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "xV619ejVoRQ#7": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "xV619ejVoRQ#8": {
+      "issue": null,
+      "category": "Town Meeting & elections"
     }
   },
   "votes": {
@@ -311,7 +347,7 @@
       "issue": "fy27-operating-budget"
     },
     "4qfPD1Qpccs#v5": {
-      "issue": null
+      "issue": "salary-administration-plan-amendments"
     },
     "4qfPD1Qpccs#v6": {
       "issue": "fy27-water-enterprise-budget"
@@ -320,7 +356,7 @@
       "issue": "fy27-water-enterprise-budget"
     },
     "4qfPD1Qpccs#v8": {
-      "issue": "presidential-fisher-waterline-looping"
+      "issue": "fy27-water-enterprise-budget"
     },
     "4qfPD1Qpccs#v9": {
       "issue": "classification-and-compensation-study"
@@ -356,7 +392,7 @@
       "issue": "salary-administration-plan-amendments"
     },
     "NKExd-6grWk#v0": {
-      "issue": null
+      "issue": "well-and-septic-regulations"
     },
     "mgWw2EVBdVI#v0": {
       "issue": "youth-services-flagg-school-relocation"
@@ -369,6 +405,9 @@
     },
     "oG4b8H-IoeM#v2": {
       "issue": "26-meadow-lane-coc"
+    },
+    "xV619ejVoRQ#v0": {
+      "issue": "library-security-cameras"
     }
   },
   "upcoming": {
@@ -394,7 +433,7 @@
     },
     "3Wtzigng52g#u2": {
       "date": "2026-06-15",
-      "issue": null
+      "issue": "regional-superintendent-evaluation-and-contract"
     },
     "4qfPD1Qpccs#u0": {
       "date": "2026-03-17",
@@ -487,8 +526,20 @@
     "oG4b8H-IoeM#u2": {
       "date": "2026-04-30",
       "issue": "0-southville-road"
+    },
+    "xV619ejVoRQ#u0": {
+      "date": "2026-04-11",
+      "issue": null
+    },
+    "xV619ejVoRQ#u1": {
+      "date": "2026-04-13",
+      "issue": null
+    },
+    "xV619ejVoRQ#u2": {
+      "date": "2026-04-29",
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:26:36Z"
+  "generated_at": "2026-10-19T12:02:10Z"
 }

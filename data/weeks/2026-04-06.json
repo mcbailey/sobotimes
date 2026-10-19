@@ -1,92 +1,84 @@
 {
-  "headline": "Town boards prepared for Annual Town Meeting and the May election, advancing major road borrowing while the Advisory Committee opposed several zoning and citizen articles.",
-  "synopsis": "Southborough boards focused heavily on final preparations for Annual Town Meeting and the upcoming May 12 annual election. The Select Board revoted to support Article 13 for $25 million in multi-year road borrowing and approved debt exclusion ballot questions, while the Advisory Committee recommended against warrant articles allowing larger accessory dwelling units and banning non-reusable plastic bags. School leaders approved a 3% tuition hike for preschool, opted out of interdistrict school choice, and mobilized the new Elementary School Building Committee to review five architect bids for the Neary School feasibility study. Meanwhile, the Trails Committee confronted bid results for Phase 2 of the Peninsula Trail that doubled available funds, leading to plans to seek voter approval for a modified project scope at a Fall Special Town Meeting.",
+  "headline": "Southborough voters approved a 25 million dollar road borrowing plan, an 8.8 million dollar middle school roof, and updated industrial park zoning.",
+  "synopsis": "Southborough held its Annual and Special Town Meetings, approving a 71.1 million dollar FY27 operating budget alongside major borrowing authorizations for roads, school facilities, and water mains. Voters approved 25 million dollars to pave roads and add sidewalks, 8.8 million dollars for a Trottier Middle School roof replacement contingent on a May ballot vote, and rezoning of the Industrial Park district to regulate data centers. Special Town Meeting voted to make the town clerk position appointed, funded golf course irrigation and a trail bridge, but rejected a zoning change for two-family dwellings. Meanwhile, the Select Board placed debt exclusion questions on the May 12 town election ballot and reviewed an independent audit showing 7.1 million dollars in town reserves.",
   "highlights": [
     {
-      "title": "Select Board revotes to support $25M road borrowing article",
-      "why": "The Select Board voted 4-0-1 to recommend Annual Town Meeting Article 13, which authorizes borrowing up to $25 million across multiple years for town-wide road and sidewalk repairs.",
-      "body": "Select Board",
+      "title": "Approval of 25 million dollar road and sidewalk borrowing",
+      "why": "Voters authorized 25 million dollars over five years to address deteriorating town roads and construct four new sidewalks, with tax impacts estimated to peak at 508 dollars annually for a median-value home in FY32.",
+      "body": "Town Meeting",
       "importance": "high",
-      "video_id": "hmZ0A_tbpag",
-      "start_seconds": 6030
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 6840
     },
     {
-      "title": "Debt exclusion questions approved for May 12 ballot",
-      "why": "The Select Board voted unanimously to place debt exclusion questions on the town election ballot, allowing voters to decide whether to fund major capital projects outside Proposition 2 1/2 tax limits.",
-      "body": "Select Board",
+      "title": "Approval of 8.8 million dollar middle school roof borrowing",
+      "why": "Town Meeting approved borrowing 8.8 million dollars to replace the roof at Trottier Middle School with up to 41.32 percent state reimbursement, contingent on a Proposition 2 1/2 debt exclusion ballot vote.",
+      "body": "Town Meeting",
       "importance": "high",
-      "video_id": "hmZ0A_tbpag",
-      "start_seconds": 6360
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 10148
     },
     {
-      "title": "Advisory Committee recommends disapproval of ADU expansion",
-      "why": "The committee voted 2-5 against Article 29, which would allow accessory dwelling units up to 1,200 square feet by right instead of the state baseline of 900 square feet, citing neighborhood density and service impact concerns.",
-      "body": "Advisory Committee",
+      "title": "Overhaul of Industrial Park zoning and data center rules",
+      "why": "Voters approved expanding commercial uses under 50,000 square feet by right while creating performance standards and requiring special permits, a 50,000-square-foot cap, and 1,000-foot setbacks for data centers.",
+      "body": "Town Meeting",
       "importance": "high",
-      "video_id": "GzmDgSFDiu0",
-      "start_seconds": 98
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 10364
     },
     {
-      "title": "School Committee approves 3% preschool tuition increase",
-      "why": "Tuition for the district's preschool will rise 3% next school year to offset increasing labor, insurance, and operating expenses, marking the first rate change since FY22.",
-      "body": "Southborough School Committee",
+      "title": "Expansion of accessory dwelling unit size to 1,200 square feet",
+      "why": "Town Meeting voted to increase the maximum allowable size of accessory dwelling units by right from 900 to 1,200 square feet to offer flexibility for smaller lots and family care.",
+      "body": "Town Meeting",
       "importance": "high",
-      "video_id": "FedQgvRmM1g",
-      "start_seconds": 1742
+      "video_id": "6BsjfLacx9M",
+      "start_seconds": 14671
     },
     {
-      "title": "Neary School feasibility study launches with five architect bids",
-      "why": "The newly organized Elementary School Building Committee elected Craig Williams as chair and set an evaluation timeline to review five design proposals for the Neary School project.",
-      "body": "Elementary School Building Committee",
+      "title": "Approval to change town clerk from elected to appointed",
+      "why": "Voters approved converting the town clerk position to an office appointed by the Select Board to ensure professional qualification amid growing statutory and election administration requirements.",
+      "body": "Special Town Meeting",
       "importance": "high",
-      "video_id": "GJaOrmVzrJE",
-      "start_seconds": 404
+      "video_id": "3Z_ZpSIMv_0",
+      "start_seconds": 2350
     },
     {
-      "title": "Peninsula Trail Phase 2 bids double available funding",
-      "why": "Phase 2 construction bids came in at $445,000 to $468,000 against $211,000 in available CPA funds, prompting the Trails Committee to consider building only the Stony Brook bridge and requesting funding reallocations at Fall Town Meeting.",
-      "body": "Trails Committee",
+      "title": "Defeat of two-family dwelling zoning amendment",
+      "why": "A proposal to remove the requirement that a home exist for two years before converting to a two-family unit failed after receiving an 85-80 vote, falling short of the required two-thirds majority.",
+      "body": "Special Town Meeting",
       "importance": "high",
-      "video_id": "UXVBSlxQf90",
-      "start_seconds": 1782
+      "video_id": "3Z_ZpSIMv_0",
+      "start_seconds": 3580
     }
   ],
   "looking_ahead": [
     {
-      "what": "Southborough Annual Town Meeting",
-      "when": "Saturday, April 11, 2026",
-      "body": null
-    },
-    {
-      "what": "Deliberations on proposal scores and selection of interview finalists for Neary School feasibility study",
+      "what": "Deliberation on proposal scores and selection of Neary School feasibility study architect finalists",
       "when": "April 13, 2026, at 7:00 PM",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Interviews with architectural firm finalists for Neary School project",
+      "what": "Virtual interviews with architectural firm finalists for the Neary School project",
       "when": "April 15, 2026, at 7:00 PM",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Review of actuarial OPEB and pension data and revised financial policies",
-      "when": "April 28, 2026",
+      "what": "Discussion of actuarial OPEB and county pension liabilities and review of revised financial policies",
+      "when": "April 28",
       "body": "Select Board"
     },
     {
-      "what": "Solicitation of bids for Neary School roof repairs",
-      "when": "April 29, 2026",
-      "body": "Southborough School Committee"
-    },
-    {
-      "what": "Annual Town Election with debt exclusion ballot questions",
+      "what": "Annual Town Election ballot vote on Proposition 2 1/2 debt exclusion questions",
       "when": "May 12, 2026",
-      "body": null
+      "body": "Select Board"
     }
   ],
   "week": "2026-04-06",
-  "fingerprint": "e5f3812668696a15",
+  "fingerprint": "45e41991abfb43ba",
   "video_ids": [
+    "3Z_ZpSIMv_0",
     "3tvk5LPNga4",
+    "6BsjfLacx9M",
     "FedQgvRmM1g",
     "GJaOrmVzrJE",
     "GzmDgSFDiu0",
@@ -95,5 +87,5 @@
     "hmZ0A_tbpag"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:18:27Z"
+  "generated_at": "2026-10-19T11:45:55Z"
 }

@@ -1,14 +1,50 @@
 {
   "week": "2026-04-06",
-  "fingerprint": "5813ff0d38f2fd25",
+  "fingerprint": "6da06ed06490b5ce",
   "topics": {
+    "3Z_ZpSIMv_0#0": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "3Z_ZpSIMv_0#1": {
+      "issue": "appointed-town-clerk",
+      "category": "Governance & committees"
+    },
+    "3Z_ZpSIMv_0#2": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "3Z_ZpSIMv_0#3": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "3Z_ZpSIMv_0#4": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "3Z_ZpSIMv_0#5": {
+      "issue": "stormwater-enterprise-fund",
+      "category": "Environment & conservation"
+    },
+    "3Z_ZpSIMv_0#6": {
+      "issue": "rescinding-unissued-borrowing",
+      "category": "Budget & taxes"
+    },
+    "3Z_ZpSIMv_0#7": {
+      "issue": "landfill-environmental-assessment",
+      "category": "Environment & conservation"
+    },
+    "3Z_ZpSIMv_0#8": {
+      "issue": "personal-property-tax-exemption",
+      "category": "Budget & taxes"
+    },
     "3tvk5LPNga4#0": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "3tvk5LPNga4#1": {
       "issue": null,
-      "category": "Public safety"
+      "category": "Health & human services"
     },
     "3tvk5LPNga4#2": {
       "issue": "7-turnpike-road-bodywork-compliance",
@@ -20,15 +56,79 @@
     },
     "3tvk5LPNga4#4": {
       "issue": "fy27-operating-budget",
-      "category": "Town Meeting & elections"
+      "category": "Budget & taxes"
     },
     "3tvk5LPNga4#5": {
       "issue": null,
       "category": "Health & human services"
     },
     "3tvk5LPNga4#6": {
-      "issue": null,
+      "issue": "school-district-opioid-settlement-allocation",
       "category": "Health & human services"
+    },
+    "6BsjfLacx9M#0": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "6BsjfLacx9M#1": {
+      "issue": "salary-administration-plan-amendments",
+      "category": "Town Meeting & elections"
+    },
+    "6BsjfLacx9M#2": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "6BsjfLacx9M#3": {
+      "issue": "fy27-water-enterprise-budget",
+      "category": "Roads, water & infrastructure"
+    },
+    "6BsjfLacx9M#4": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "6BsjfLacx9M#5": {
+      "issue": "presidential-fisher-waterline-looping",
+      "category": "Roads, water & infrastructure"
+    },
+    "6BsjfLacx9M#6": {
+      "issue": "school-district-capital-borrowing-fy27",
+      "category": "Schools"
+    },
+    "6BsjfLacx9M#7": {
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
+    },
+    "6BsjfLacx9M#8": {
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
+    },
+    "6BsjfLacx9M#9": {
+      "issue": "industrial-park-zoning-amendments",
+      "category": "Zoning & development"
+    },
+    "6BsjfLacx9M#10": {
+      "issue": "cpa-affordable-housing-trust-transfer",
+      "category": "Housing"
+    },
+    "6BsjfLacx9M#11": {
+      "issue": "culvert-infrastructure-replacements",
+      "category": "Roads, water & infrastructure"
+    },
+    "6BsjfLacx9M#12": {
+      "issue": "accessory-dwelling-units-zoning",
+      "category": "Zoning & development"
+    },
+    "6BsjfLacx9M#13": {
+      "issue": "affordable-housing-trust-zoning-cleanup",
+      "category": "Zoning & development"
+    },
+    "6BsjfLacx9M#14": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "6BsjfLacx9M#15": {
+      "issue": "independent-finance-committee-bylaw",
+      "category": "Town Meeting & elections"
     },
     "FedQgvRmM1g#0": {
       "issue": "school-choice-participation",
@@ -36,7 +136,7 @@
     },
     "FedQgvRmM1g#1": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Schools"
     },
     "FedQgvRmM1g#2": {
       "issue": null,
@@ -64,11 +164,11 @@
     },
     "FedQgvRmM1g#8": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Schools"
     },
     "FedQgvRmM1g#9": {
-      "issue": "fy27-school-operating-budget",
-      "category": "Town Meeting & elections"
+      "issue": "trottier-school-roof-replacement",
+      "category": "Schools"
     },
     "FedQgvRmM1g#10": {
       "issue": "neary-school-roof-replacement",
@@ -112,11 +212,11 @@
     },
     "GzmDgSFDiu0#2": {
       "issue": "plastic-bag-ban-bylaw",
-      "category": "Town Meeting & elections"
+      "category": "Environment & conservation"
     },
     "GzmDgSFDiu0#3": {
-      "issue": "fy27-operating-budget",
-      "category": "Budget & taxes"
+      "issue": "multi-year-road-and-sidewalk-borrowing",
+      "category": "Roads, water & infrastructure"
     },
     "GzmDgSFDiu0#4": {
       "issue": "neary-school-building-project",
@@ -131,12 +231,12 @@
       "category": "Library, arts & community"
     },
     "R3MM609h0cc#2": {
-      "issue": null,
+      "issue": "history-makers-recognition-program",
       "category": "Library, arts & community"
     },
     "R3MM609h0cc#3": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Library, arts & community"
     },
     "R3MM609h0cc#4": {
       "issue": null,
@@ -148,7 +248,7 @@
     },
     "R3MM609h0cc#6": {
       "issue": null,
-      "category": "Town Meeting & elections"
+      "category": "Library, arts & community"
     },
     "UXVBSlxQf90#0": {
       "issue": null,
@@ -171,7 +271,7 @@
       "category": "Parks, trails & recreation"
     },
     "UXVBSlxQf90#5": {
-      "issue": null,
+      "issue": "911-field-marlborough-trail-connector",
       "category": "Parks, trails & recreation"
     },
     "hmZ0A_tbpag#0": {
@@ -188,7 +288,7 @@
     },
     "hmZ0A_tbpag#3": {
       "issue": "municipal-financial-policies",
-      "category": "Governance & committees"
+      "category": "Budget & taxes"
     },
     "hmZ0A_tbpag#4": {
       "issue": "multi-year-road-and-sidewalk-borrowing",
@@ -200,8 +300,116 @@
     }
   },
   "votes": {
+    "3Z_ZpSIMv_0#v0": {
+      "issue": "appointed-town-clerk"
+    },
+    "3Z_ZpSIMv_0#v1": {
+      "issue": "appointed-town-clerk"
+    },
+    "3Z_ZpSIMv_0#v2": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "3Z_ZpSIMv_0#v3": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "3Z_ZpSIMv_0#v4": {
+      "issue": "two-family-zoning-amendment"
+    },
+    "3Z_ZpSIMv_0#v5": {
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "3Z_ZpSIMv_0#v6": {
+      "issue": "peninsula-trail-phase-2"
+    },
+    "3Z_ZpSIMv_0#v7": {
+      "issue": "stormwater-enterprise-fund"
+    },
+    "3Z_ZpSIMv_0#v8": {
+      "issue": "rescinding-unissued-borrowing"
+    },
+    "3Z_ZpSIMv_0#v9": {
+      "issue": "landfill-environmental-assessment"
+    },
+    "3Z_ZpSIMv_0#v10": {
+      "issue": "personal-property-tax-exemption"
+    },
     "3tvk5LPNga4#v0": {
       "issue": null
+    },
+    "6BsjfLacx9M#v0": {
+      "issue": null
+    },
+    "6BsjfLacx9M#v1": {
+      "issue": "salary-administration-plan-amendments"
+    },
+    "6BsjfLacx9M#v2": {
+      "issue": "fy27-operating-budget"
+    },
+    "6BsjfLacx9M#v3": {
+      "issue": "fy27-operating-budget"
+    },
+    "6BsjfLacx9M#v4": {
+      "issue": "fy27-operating-budget"
+    },
+    "6BsjfLacx9M#v5": {
+      "issue": "fy27-operating-budget"
+    },
+    "6BsjfLacx9M#v6": {
+      "issue": "fy27-operating-budget"
+    },
+    "6BsjfLacx9M#v7": {
+      "issue": "fy27-water-enterprise-budget"
+    },
+    "6BsjfLacx9M#v8": {
+      "issue": null
+    },
+    "6BsjfLacx9M#v9": {
+      "issue": "presidential-fisher-waterline-looping"
+    },
+    "6BsjfLacx9M#v10": {
+      "issue": "school-district-capital-borrowing-fy27"
+    },
+    "6BsjfLacx9M#v11": {
+      "issue": "school-district-capital-borrowing-fy27"
+    },
+    "6BsjfLacx9M#v12": {
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "6BsjfLacx9M#v13": {
+      "issue": "multi-year-road-and-sidewalk-borrowing"
+    },
+    "6BsjfLacx9M#v14": {
+      "issue": "trottier-school-roof-replacement"
+    },
+    "6BsjfLacx9M#v15": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6BsjfLacx9M#v16": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6BsjfLacx9M#v17": {
+      "issue": "industrial-park-zoning-amendments"
+    },
+    "6BsjfLacx9M#v18": {
+      "issue": "cpa-affordable-housing-trust-transfer"
+    },
+    "6BsjfLacx9M#v19": {
+      "issue": "culvert-infrastructure-replacements"
+    },
+    "6BsjfLacx9M#v20": {
+      "issue": "accessory-dwelling-units-zoning"
+    },
+    "6BsjfLacx9M#v21": {
+      "issue": "affordable-housing-trust-zoning-cleanup"
+    },
+    "6BsjfLacx9M#v22": {
+      "issue": "mbta-communities-zoning-correction"
+    },
+    "6BsjfLacx9M#v23": {
+      "issue": "tricentennial-street-banners"
+    },
+    "6BsjfLacx9M#v24": {
+      "issue": "independent-finance-committee-bylaw"
     },
     "FedQgvRmM1g#v0": {
       "issue": "preschool-tuition-and-assistance"
@@ -216,10 +424,10 @@
       "issue": "fy27-school-operating-budget"
     },
     "GJaOrmVzrJE#v0": {
-      "issue": null
+      "issue": "neary-school-building-project"
     },
     "GJaOrmVzrJE#v1": {
-      "issue": null
+      "issue": "neary-school-building-project"
     },
     "GzmDgSFDiu0#v0": {
       "issue": "accessory-dwelling-units-zoning"
@@ -253,9 +461,17 @@
     }
   },
   "upcoming": {
+    "3Z_ZpSIMv_0#u0": {
+      "date": null,
+      "issue": "stormwater-enterprise-fund"
+    },
+    "3Z_ZpSIMv_0#u1": {
+      "date": "2027-04-01",
+      "issue": "southborough-golf-club-irrigation"
+    },
     "3tvk5LPNga4#u0": {
       "date": "2026-04-11",
-      "issue": "fy27-operating-budget"
+      "issue": null
     },
     "3tvk5LPNga4#u1": {
       "date": "2026-05-05",
@@ -269,13 +485,21 @@
       "date": "2026-07-07",
       "issue": null
     },
+    "6BsjfLacx9M#u0": {
+      "date": "2026-05-12",
+      "issue": "trottier-school-roof-replacement"
+    },
+    "6BsjfLacx9M#u1": {
+      "date": "2026-04-11",
+      "issue": "industrial-park-zoning-amendments"
+    },
     "FedQgvRmM1g#u0": {
       "date": "2026-04-11",
-      "issue": "fy27-school-operating-budget"
+      "issue": null
     },
     "FedQgvRmM1g#u1": {
       "date": "2026-05-12",
-      "issue": "neary-school-roof-replacement"
+      "issue": "trottier-school-roof-replacement"
     },
     "FedQgvRmM1g#u2": {
       "date": "2026-04-29",
@@ -299,7 +523,7 @@
     },
     "GzmDgSFDiu0#u0": {
       "date": "2026-04-11",
-      "issue": "fy27-operating-budget"
+      "issue": null
     },
     "GzmDgSFDiu0#u1": {
       "date": null,
@@ -347,5 +571,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:37:01Z"
+  "generated_at": "2026-10-19T12:12:57Z"
 }

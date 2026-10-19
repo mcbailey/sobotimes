@@ -1,0 +1,211 @@
+{
+  "video": {
+    "id": "36habqkUN7I",
+    "title": "Southborough Special Town Meeting 3/2/2026",
+    "published_at": "2026-03-03T13:44:48Z",
+    "duration_s": 6742
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Special Town Meeting",
+    "meeting_date": "2026-03-02",
+    "headline": "Town Meeting approved $4.5 million to replace the Neary School roof and $175,000 for a renovation study, rejecting school consolidation alternatives.",
+    "summary": "Southborough voters convened for a Special Town Meeting to determine the future path for the town's elementary school facilities. Town Meeting approved Article 1, allocating $175,000 from Free Cash to conduct a feasibility study on renovating the Margaret A. Neary Elementary School. Voters decisively rejected Articles 2 and 3, which proposed studying the closure of Neary and expanding Trottier Middle School and Finn Elementary School. Finally, voters approved Article 4 by a wide margin, authorizing $4.5 million in borrowing to replace Neary's failing roof during summer 2026, subject to a subsequent ballot vote.",
+    "topics": [
+      {
+        "title": "Article 1: Neary School renovation feasibility study",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Town Meeting considered funding a feasibility study and schematic design to evaluate options for renovating Neary Elementary School. Town and school leadership explained that a study would evaluate both a comprehensive modernization and a targeted code-compliance renovation to extend the building life by 15 years. A floor amendment to remove itemized scope items and spending targets from the second option failed, after which the main motion passed.",
+        "key_details": [
+          "Transfers up to $175,000 from Free Cash for architectural and engineering feasibility work.",
+          "Study will examine full modernization and a minimum code compliance option targeting roughly $15 million.",
+          "Superintendent outlined existing deficiencies at Neary including failing roof, lack of sprinklers, non-ADA compliant restrooms, and inadequate electrical capacity.",
+          "Select Board, School Committee, and Advisory Committee all voted 5-0 to support the article.",
+          "A proposed floor amendment to alter the Option 2 study specifications was defeated by hand vote."
+        ],
+        "outcome": "Passed by majority hand vote.",
+        "why_it_matters": "Authorizes $175,000 to determine how the town will modernize Neary Elementary School and sets the stage for a future town-wide construction vote.",
+        "start_seconds": 1315,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The town moderator opened the Special Town Meeting after the town clerk confirmed a quorum of at least 100 registered voters was present. Voters were briefed on the meeting boundaries across the auditorium and gymnasium, the use of electronic clickers, and parliamentary rules. The meeting approved admitting identified non-voters into the hall.",
+        "key_details": [
+          "A quorum of 100 registered voters was met, with over 400 voters checking in during the evening.",
+          "Tom Trong was appointed deputy moderator for the gymnasium overflow room.",
+          "Non-voters in attendance including municipal staff, school administrators, and consultants were approved by voice vote.",
+          "Voters agreed to extend the presentation limit for Article 1 proponents from five minutes to 15 minutes."
+        ],
+        "outcome": "Procedural actions and non-voter admissions approved.",
+        "why_it_matters": null,
+        "start_seconds": 2080,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 2: Trottier and Finn expansion study",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Article 2 proposed transferring up to $500,000 from Free Cash to study closing Neary Elementary School and constructing additions at Trottier Middle School for grade 5 and Finn Elementary School for grade 2. Opponents highlighted severe site constraints at both schools, including septic limits and traffic congestion, as well as an estimated $1 million combined cost if multiple studies were funded.",
+        "key_details": [
+          "Proposed spending up to $500,000 from Free Cash for a two-phase study.",
+          "Plan would have discontinued Neary as a school and redistributed grades among remaining buildings.",
+          "Select Board (4-1), School Committee (5-0), and Advisory Committee (6-1) recommended against approval.",
+          "Advisory Committee noted potential budget pressure on the FY27 levy limit if several studies were approved."
+        ],
+        "outcome": "Failed 66-332.",
+        "why_it_matters": "Rejection eliminates the proposed plan to close Neary and expand Trottier and Finn from future capital planning.",
+        "start_seconds": 4385,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 3: Finn expansion study",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Article 3 sought up to $324,000 from Free Cash to study expanding Finn Elementary School to house pre-kindergarten through grade 3, which would also result in closing Neary. Proponents argued it would preserve an elementary school on the south side of town, while opponents pointed to Article 97 protections on the adjacent Mooney recreation fields and highway proximity constraints.",
+        "key_details": [
+          "Proposed up to $324,000 from Free Cash, or $244,000 if shared site work from Article 2 had passed.",
+          "Select Board (4-1), School Committee (5-0), and Advisory Committee (4-3) opposed the article.",
+          "Officials noted expanding into Mooney fields would require state legislative approval and replacement of protected open space assets.",
+          "Current Finn enrollment is 121 in second grade, with a projected 20 percent elementary district enrollment increase through 2035."
+        ],
+        "outcome": "Failed 75-332.",
+        "why_it_matters": "Voters confirmed their preference to keep Neary open as an elementary school rather than consolidating younger grades into an expanded Finn facility.",
+        "start_seconds": 4878,
+        "end_seconds": null
+      },
+      {
+        "title": "Article 4: Neary School roof replacement borrowing",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Following the approval of the Neary renovation study under Article 1, the Select Board reduced the requested borrowing authorization under Article 4 from $6.85 million to $4.5 million, deferring standalone ADA compliance upgrades so they can be integrated into the larger renovation. The $4.5 million covers immediate replacement of the failing roof at Neary during summer 2026. The borrowing requires a subsequent ballot vote for a capital exclusion.",
+        "key_details": [
+          "Authorizes borrowing up to $4,500,000 for the Neary roof replacement.",
+          "Originally printed as $6,850,000 in the warrant; $2.35 million in ADA and code upgrades was removed from the motion.",
+          "Neary roof is 16 years past its 20-year design life, with one-third of the gym roof membrane detached and active leaks.",
+          "Construction is scheduled for summer 2026, with summer extended-day camp programs being relocated to another school facility.",
+          "Select Board, School Committee, and Advisory Committee all unanimously supported the revised $4.5 million request."
+        ],
+        "outcome": "Passed 377-33 (exceeding the required two-thirds majority).",
+        "why_it_matters": "Authorizes $4.5 million in town borrowing to address critical structural roof failures at Neary Elementary School before the next school year, subject to ballot approval.",
+        "start_seconds": 5575,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Amend Article 1 Option 2 by striking the itemized component list and cost cap and inserting 'to meet minimum code compliance'",
+        "result": "failed",
+        "tally": null,
+        "start_seconds": 4305
+      },
+      {
+        "motion": "Transfer up to $175,000 from Free Cash to fund a feasibility study and schematic design for renovation options for Margaret A. Neary Elementary School (Article 1 as printed)",
+        "result": "passed",
+        "tally": null,
+        "start_seconds": 4382
+      },
+      {
+        "motion": "Transfer up to $500,000 from Free Cash to fund a feasibility study and design for additions and renovations to Trottier Middle School and Finn Elementary School (Article 2 as printed)",
+        "result": "failed",
+        "tally": "66-332",
+        "start_seconds": 4865
+      },
+      {
+        "motion": "Transfer up to $324,000 from Free Cash to fund a feasibility study and design for renovation and expansion of Finn Elementary School (Article 3 as printed)",
+        "result": "failed",
+        "tally": "75-332",
+        "start_seconds": 5550
+      },
+      {
+        "motion": "Borrow and appropriate $4,500,000 for the purpose of funding costs associated with the replacement or repair of the roof at Margaret A. Neary Elementary School (Article 4)",
+        "result": "passed",
+        "tally": "377-33",
+        "start_seconds": 6720
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident suggested that adopting the proposed amendment to Article 1 would leave voters without clear options and targets, urging voters to keep both distinct renovation alternatives in the study.",
+        "start_seconds": 3887
+      },
+      {
+        "summary": "A resident supported the amendment to Article 1, stating that a comprehensive study will naturally provide line-item costs for all needed repairs, making the specific wording in Option 2 unnecessary.",
+        "start_seconds": 3945
+      },
+      {
+        "summary": "A resident asked whether passing study articles funded by Free Cash would force a Proposition 2 1/2 operating override in FY27.",
+        "start_seconds": 4645
+      },
+      {
+        "summary": "A resident asked why the Finn feasibility study under Article 3 was not structured in distinct phases like Article 2.",
+        "start_seconds": 5109
+      },
+      {
+        "summary": "A resident asked what constraints exist on the Finn property that would prevent an expansion.",
+        "start_seconds": 5233
+      },
+      {
+        "summary": "A resident asked whether Article 4 borrowing would be subject to a ballot vote and what happens if the ballot question fails.",
+        "start_seconds": 5674
+      },
+      {
+        "summary": "A resident questioned why the town is removing the ADA compliance work from the Article 4 borrowing request instead of doing it immediately.",
+        "start_seconds": 5694
+      },
+      {
+        "summary": "A resident asked whether the estimated $4.5 million roof replacement cost could trigger mandatory ADA upgrades if it exceeds 30 percent of the building value.",
+        "start_seconds": 5833
+      },
+      {
+        "summary": "A resident asked about emergency relocation plans and potential modular costs if the Neary roof failed completely while classes were in session.",
+        "start_seconds": 6001
+      },
+      {
+        "summary": "A resident voiced strong support for replacing Neary's roof immediately, stating the town has delayed capital maintenance on the building since 2002.",
+        "start_seconds": 6396
+      },
+      {
+        "summary": "A resident asked where summer camp programs held at Neary would be relocated during roof construction.",
+        "start_seconds": 6519
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Town election ballot vote for a capital exclusion to fund the $4,500,000 Neary roof replacement borrowing",
+        "when": "Town election"
+      },
+      {
+        "what": "Feasibility study and schematic design report for Neary renovation options to return to Town Meeting",
+        "when": "Within 6 to 9 months (fall 2026)"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-19T11:41:34Z",
+  "usage": {
+    "total_tokens": 262827,
+    "total_input_tokens": 258493,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 257507
+      },
+      {
+        "modality": "text",
+        "tokens": 986
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2914,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1420
+  }
+}

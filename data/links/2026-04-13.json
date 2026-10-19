@@ -1,10 +1,10 @@
 {
   "week": "2026-04-13",
-  "fingerprint": "bb8d5fc222f34e66",
+  "fingerprint": "ab955a0c83a413ff",
   "topics": {
     "78YAzZD8fYM#0": {
-      "issue": "cpa-project-signage-program",
-      "category": "Parks, trails & recreation"
+      "issue": "library-cpa-signage",
+      "category": "Library, arts & community"
     },
     "78YAzZD8fYM#1": {
       "issue": null,
@@ -12,7 +12,7 @@
     },
     "78YAzZD8fYM#2": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Library, arts & community"
     },
     "78YAzZD8fYM#3": {
       "issue": null,
@@ -24,7 +24,7 @@
     },
     "78YAzZD8fYM#5": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "78YAzZD8fYM#6": {
       "issue": null,
@@ -44,11 +44,11 @@
     },
     "Mz0Xz-uwges#1": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "Mz0Xz-uwges#2": {
-      "issue": "mcauliffe-hearing-room-av",
-      "category": "Buildings & facilities"
+      "issue": null,
+      "category": "Governance & committees"
     },
     "Mz0Xz-uwges#3": {
       "issue": null,
@@ -57,6 +57,50 @@
     "Mz0Xz-uwges#4": {
       "issue": "town-satisfaction-survey",
       "category": "Governance & committees"
+    },
+    "Nqf5dmDizoQ#0": {
+      "issue": "school-choice-participation",
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Nqf5dmDizoQ#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "Nqf5dmDizoQ#4": {
+      "issue": "algonquin-cell-phone-policy",
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#6": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#7": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "Nqf5dmDizoQ#9": {
+      "issue": null,
+      "category": "Budget & taxes"
+    },
+    "Nqf5dmDizoQ#10": {
+      "issue": "regional-school-religious-observance-policy",
+      "category": "Schools"
     },
     "OgJvJPAuw7E#0": {
       "issue": null,
@@ -196,7 +240,7 @@
     },
     "zhyOV9gRS8Q#3": {
       "issue": null,
-      "category": "Zoning & development"
+      "category": "Town Meeting & elections"
     },
     "zhyOV9gRS8Q#4": {
       "issue": null,
@@ -212,7 +256,7 @@
     },
     "zhyOV9gRS8Q#7": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Zoning & development"
     },
     "zhyOV9gRS8Q#8": {
       "issue": null,
@@ -221,6 +265,24 @@
   },
   "votes": {
     "78YAzZD8fYM#v0": {
+      "issue": null
+    },
+    "Nqf5dmDizoQ#v0": {
+      "issue": null
+    },
+    "Nqf5dmDizoQ#v1": {
+      "issue": null
+    },
+    "Nqf5dmDizoQ#v2": {
+      "issue": "school-choice-participation"
+    },
+    "Nqf5dmDizoQ#v3": {
+      "issue": null
+    },
+    "Nqf5dmDizoQ#v4": {
+      "issue": null
+    },
+    "Nqf5dmDizoQ#v5": {
       "issue": null
     },
     "_UvIRwZM3eg#v0": {
@@ -256,7 +318,7 @@
   },
   "upcoming": {
     "78YAzZD8fYM#u0": {
-      "date": null,
+      "date": "2026-04-14",
       "issue": null
     },
     "78YAzZD8fYM#u1": {
@@ -277,6 +339,18 @@
     },
     "Mz0Xz-uwges#u0": {
       "date": "2026-05-11",
+      "issue": null
+    },
+    "Nqf5dmDizoQ#u0": {
+      "date": null,
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "Nqf5dmDizoQ#u1": {
+      "date": null,
+      "issue": "school-food-service-contract"
+    },
+    "Nqf5dmDizoQ#u2": {
+      "date": null,
       "issue": null
     },
     "OgJvJPAuw7E#u0": {
@@ -357,5 +431,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:41:06Z"
+  "generated_at": "2026-10-19T12:16:13Z"
 }

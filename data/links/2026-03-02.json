@@ -1,14 +1,34 @@
 {
   "week": "2026-03-02",
-  "fingerprint": "bbd0fa67fa7fb5ae",
+  "fingerprint": "57d520d846af8478",
   "topics": {
+    "36habqkUN7I#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "36habqkUN7I#1": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "36habqkUN7I#2": {
+      "issue": "trottier-finn-expansion-studies",
+      "category": "Schools"
+    },
+    "36habqkUN7I#3": {
+      "issue": "trottier-finn-expansion-studies",
+      "category": "Schools"
+    },
+    "36habqkUN7I#4": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
     "HukhWGB3_mg#0": {
       "issue": null,
       "category": "Governance & committees"
     },
     "HukhWGB3_mg#1": {
       "issue": "municipal-phone-system-upgrade",
-      "category": "Budget & taxes"
+      "category": "Staffing & operations"
     },
     "HukhWGB3_mg#2": {
       "issue": "industrial-park-zoning-amendments",
@@ -19,16 +39,109 @@
       "category": "Buildings & facilities"
     },
     "HukhWGB3_mg#4": {
-      "issue": null,
+      "issue": "town-website-redesign",
       "category": "Staffing & operations"
+    },
+    "Vmq8OyMS13k#0": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "Vmq8OyMS13k#1": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "Vmq8OyMS13k#2": {
+      "issue": "town-common-fence-restoration",
+      "category": "Parks, trails & recreation"
+    },
+    "Vmq8OyMS13k#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "Vmq8OyMS13k#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Y7ecC7d76Is#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "Y7ecC7d76Is#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Y7ecC7d76Is#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Y7ecC7d76Is#3": {
+      "issue": "regional-fire-department-study",
+      "category": "Public safety"
+    },
+    "Y7ecC7d76Is#4": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Y7ecC7d76Is#5": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "Y7ecC7d76Is#6": {
+      "issue": "community-preservation-appropriations",
+      "category": "Town Meeting & elections"
+    },
+    "Y7ecC7d76Is#7": {
+      "issue": "39-meeting-house-lane-affordable-unit",
+      "category": "Housing"
     }
   },
   "votes": {
+    "36habqkUN7I#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "36habqkUN7I#v1": {
+      "issue": "neary-school-building-project"
+    },
+    "36habqkUN7I#v2": {
+      "issue": "trottier-finn-expansion-studies"
+    },
+    "36habqkUN7I#v3": {
+      "issue": "trottier-finn-expansion-studies"
+    },
+    "36habqkUN7I#v4": {
+      "issue": "neary-school-roof-replacement"
+    },
     "HukhWGB3_mg#v0": {
       "issue": "municipal-phone-system-upgrade"
+    },
+    "Vmq8OyMS13k#v0": {
+      "issue": null
+    },
+    "Y7ecC7d76Is#v0": {
+      "issue": "neary-school-building-project"
+    },
+    "Y7ecC7d76Is#v1": {
+      "issue": null
+    },
+    "Y7ecC7d76Is#v2": {
+      "issue": null
+    },
+    "Y7ecC7d76Is#v3": {
+      "issue": "community-preservation-appropriations"
+    },
+    "Y7ecC7d76Is#v4": {
+      "issue": "39-meeting-house-lane-affordable-unit"
     }
   },
   "upcoming": {
+    "36habqkUN7I#u0": {
+      "date": "2026-05-12",
+      "issue": "neary-school-roof-replacement"
+    },
+    "36habqkUN7I#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
     "HukhWGB3_mg#u0": {
       "date": "2026-04-11",
       "issue": null
@@ -36,8 +149,32 @@
     "HukhWGB3_mg#u1": {
       "date": "2026-04-14",
       "issue": null
+    },
+    "Vmq8OyMS13k#u0": {
+      "date": "2026-03-15",
+      "issue": null
+    },
+    "Vmq8OyMS13k#u1": {
+      "date": null,
+      "issue": null
+    },
+    "Y7ecC7d76Is#u0": {
+      "date": "2026-03-10",
+      "issue": "fy27-operating-budget"
+    },
+    "Y7ecC7d76Is#u1": {
+      "date": "2026-03-17",
+      "issue": "regional-fire-department-study"
+    },
+    "Y7ecC7d76Is#u2": {
+      "date": "2026-04-10",
+      "issue": "neary-school-roof-replacement"
+    },
+    "Y7ecC7d76Is#u3": {
+      "date": "2026-05-12",
+      "issue": "neary-school-roof-replacement"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-16T18:21:30Z"
+  "generated_at": "2026-10-19T11:57:29Z"
 }
