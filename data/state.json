@@ -3856,10 +3856,18 @@
       "output_tokens": 160441,
       "thought_tokens": 463179,
       "tool_use_tokens": 0
+    },
+    "2026-10-20": {
+      "video_minutes": 0,
+      "calls": 4,
+      "input_tokens": 6696,
+      "output_tokens": 833,
+      "thought_tokens": 4837,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-19T17:47:17Z",
+    "at": "2026-10-20T15:50:44Z",
     "discovered": 27,
     "summarized": 0,
     "refreshed": 0,

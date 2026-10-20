@@ -274,22 +274,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-07",
       "last_seen": "2026-10-08",
-      "status": "Preparations for Southborough's 2030 Master Plan update are in the early planning stages, with boards coordinating on process, committee structure, and funding. The Master Plan Implementation Committee recommends that the Planning Board establish a dedicated Master Plan sub-committee in 2027 to produce the plan using a hybrid model with an outside consultant. Estimated consultant costs range from $40,000 to $100,000, with potential funding paths including state technical assistance grants or a Town Meeting warrant article. The two boards are meeting jointly on October 19, 2026, to review peer-town research and align on next steps.",
+      "status": "The town is in the preliminary stages of organizing its comprehensive Master Plan update for 2030. The Master Plan Implementation Committee recommends that the Planning Board establish a new committee in 2027 to guide a hybrid process combining volunteer efforts with an advisory consultant. Potential funding options under review include state grants or a Town Meeting warrant article for consultant costs estimated between $40,000 and $100,000. The Planning Board is considering the framework but has not yet formally adopted the strategy or selected a funding route.",
       "status_as_of": "2026-10-08",
       "positions": [
         {
           "body": "Master Plan Implementation Committee",
           "stance": "support",
-          "detail": "Recommends the Planning Board form a new sub-committee in 2027 and engage a consultant under a hybrid model funded by grants or a warrant article."
+          "detail": "Recommends the Planning Board form a new committee in 2027 to lead a consultant-supported hybrid update funded by state grants or Town Meeting."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Postponed formal adoption of 2030 Master Plan goals pending a full board and scheduled a joint review to evaluate committee and funding options."
+          "detail": "Reviewing the proposed framework and funding options, with formal discussion and goal adoption postponed until the full board is present."
         }
       ],
-      "next": "Joint meeting of the Planning Board and Master Plan Implementation Committee on October 19, 2026.",
-      "status_fingerprint": "ffd4e02a33790217",
+      "next": "",
+      "status_fingerprint": "f080f9fa67eb5704",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -550,8 +550,19 @@
       "category": "Zoning & development",
       "first_seen": "2026-02-23",
       "last_seen": "2026-02-23",
-      "status": "The Planning Board voted 5-0 to extend the decision deadline to March 27, 2026, and continued the public hearing to March 9.",
-      "status_as_of": "2026-02-23"
+      "status": "The Planning Board's review of the major site plan application for an educational and residential facility at 352 Turnpike Road remains open following discussions on Dover Amendment eligibility. Town counsel confirmed the facility qualifies for Dover protections, and the Board of Health confirmed existing septic capacity is sufficient. The applicant agreed to third-party fire suppression review and was asked to identify which exterior lights will stay on overnight for safety.",
+      "status_as_of": "2026-02-23",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Voted 5-0 on Feb 23, 2026, to extend its review while awaiting an updated overnight lighting plan and resolving fire suppression conditions."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "cc3306d1b2e2bf56",
+      "status_model": "gemini-3.8-flash"
     },
     "355-turnpike-road-coc": {
       "id": "355-turnpike-road-coc",
@@ -2278,18 +2289,18 @@
       "description": "Town oversight and approval procedures governing municipal grant applications, match funding, and operational liabilities.",
       "category": "Governance & committees",
       "first_seen": "2026-04-27",
-      "status": "The Municipal Grants Management Policy was adopted following unanimous approval by the Select Board in April 2026. The policy sets municipal oversight and approval procedures for grant applications, local match funding, and ongoing operational liabilities. No further board reviews or updates are currently scheduled.",
+      "status": "The Select Board unanimously approved the amended Grants Management Financial Policy in April 2026. The policy sets town oversight and approval procedures for municipal grant applications, matching funds, and operational liabilities. No further board review or action is currently pending.",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted unanimously on April 28, 2026, to approve the Grants Management Financial Policy as amended."
+          "detail": "Voted unanimously on Apr 28, 2026, to approve the Grants Management Financial Policy as amended."
         }
       ],
       "next": "",
       "significance": 4,
       "status_as_of": "2026-04-28",
-      "status_fingerprint": "f3d38aa2fe6415d2",
+      "status_fingerprint": "4bc053e9b5c463a0",
       "status_model": "gemini-3.8-flash"
     },
     "municipal-health-insurance-reform": {
@@ -2817,8 +2828,24 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-02-25",
-      "status": "The Regional School Committee voted 4-1-1 on reconsideration to approve calendar Option 5 for the 2026–2027 school year, removing staff professional development days from Yom Kippur and Eid and scheduling one on Orthodox Good Friday.",
-      "status_as_of": "2026-02-25"
+      "status": "The Northborough-Southborough Regional School Committee approved calendar Option 5 for the 2026-2027 academic year in a 4-1-1 vote, aligning with Southborough's earlier approval. The adopted schedule places the first day of school on September 1, 2026, removes professional development days from Yom Kippur and Eid, and designates a professional development day on Orthodox Good Friday. No further action or review is pending before the regional committee.",
+      "status_as_of": "2026-02-25",
+      "positions": [
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "support",
+          "detail": "Voted 4-1-1 on Feb 25 to adopt Option 5, reconsidering its December 2025 vote to align regional high school operations with member towns."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Residents split between supporting regional alignment and arguing that school calendars should recognize only federal holidays to ensure equal treatment across faith backgrounds."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "a63016c46723725d",
+      "status_model": "gemini-3.8-flash"
     },
     "regional-school-calendar-2027-2028": {
       "id": "regional-school-calendar-2027-2028",
