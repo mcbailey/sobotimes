@@ -1,0 +1,87 @@
+{
+  "headline": "Southborough boards began reviewing FY28 capital and departmental budgets, while the Planning Board approved two commercial projects and continued the Costco hearing.",
+  "synopsis": "Southborough committees initiated preliminary work on fiscal year 2028 finances, reviewing $2.15 million in capital requests alongside up to $49 million in bondable projects dominated by the Neary School. The Board of Health approved its budget submission, cautioning that a level-funded budget without an override would force Friday office closures, septic review delays, and cuts to flu clinics. Additionally, the Planning Board approved site plan modifications for 22 and 154 Turnpike Road, while continuing public hearings on the 21 Coslin Drive Costco proposal to a special November meeting.",
+  "highlights": [
+    {
+      "title": "Initial review of FY28 town capital requests",
+      "why": "Departments requested $2.152 million in cash appropriations and up to $49 million in bondable projects, driven primarily by a $45 million placeholder for the Neary School project.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "uMO3WA9RYIY",
+      "start_seconds": 140
+    },
+    {
+      "title": "Service cuts proposed under alternate health budget",
+      "why": "The Board of Health approved its FY28 requests, noting an alternate level-funded budget would require Friday office closures, septic delays of up to two weeks, and potential elimination of town flu clinics.",
+      "body": "Board of Health",
+      "importance": "high",
+      "video_id": "aViit2ZHnOQ",
+      "start_seconds": 18
+    },
+    {
+      "title": "Costco hearing continued to November",
+      "why": "Because peer review traffic studies were not ready, the Planning Board set a special November 2 hearing for 21 Coslin Drive and extended its statutory decision deadline to December 18.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "G0blfQE2iMQ",
+      "start_seconds": 3548
+    },
+    {
+      "title": "Turnpike Road site plan modifications approved",
+      "why": "The board approved modified site plans for the driving range at 22 Turnpike Road and the Chase Bank at 154 Turnpike Road, settling lighting, parking, and stormwater conditions.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "G0blfQE2iMQ",
+      "start_seconds": 0
+    },
+    {
+      "title": "Neary School capital planning and joint review",
+      "why": "With project estimates reaching up to $45 million, town committees plan to hold a joint meeting before Thanksgiving to assess borrowing capacity and project scope.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "uMO3WA9RYIY",
+      "start_seconds": 2126
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Town Counsel office hours",
+      "when": "October 28, 2026 from 10:00 AM to 12:00 PM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Planning Board special meeting regarding Costco (21 Coslin Drive), Fay School as-builts, and 2027 calendar",
+      "when": "November 2, 2026 at 6:30 PM",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Next Capital Improvement and Planning Committee meeting",
+      "when": "November 2, 2026, at 7:30 PM",
+      "body": "Capital Improvement and Planning Committee"
+    },
+    {
+      "what": "Select Board next scheduled regular meeting",
+      "when": "November 4, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Joint meeting regarding Neary School project options",
+      "when": "Before Thanksgiving 2026",
+      "body": "Capital Improvement and Planning Committee"
+    },
+    {
+      "what": "Planning Board statutory decision deadline for 21 Coslin Drive (Costco)",
+      "when": "December 18, 2026",
+      "body": "Planning Board"
+    }
+  ],
+  "week": "2026-10-19",
+  "fingerprint": "ac75c63c5ae5473b",
+  "video_ids": [
+    "G0blfQE2iMQ",
+    "aViit2ZHnOQ",
+    "uMO3WA9RYIY"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-21T16:13:52Z"
+}

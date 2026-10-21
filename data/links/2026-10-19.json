@@ -1,0 +1,145 @@
+{
+  "week": "2026-10-19",
+  "fingerprint": "ed5ecef57d4c8631",
+  "topics": {
+    "G0blfQE2iMQ#0": {
+      "issue": "22-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "G0blfQE2iMQ#1": {
+      "issue": "154-turnpike-road",
+      "category": "Zoning & development"
+    },
+    "G0blfQE2iMQ#2": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "G0blfQE2iMQ#3": {
+      "issue": "fay-school-25-middle-road",
+      "category": "Zoning & development"
+    },
+    "G0blfQE2iMQ#4": {
+      "issue": "2030-master-plan-update",
+      "category": "Zoning & development"
+    },
+    "G0blfQE2iMQ#5": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "G0blfQE2iMQ#6": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "aViit2ZHnOQ#0": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "uMO3WA9RYIY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "uMO3WA9RYIY#1": {
+      "issue": "fy28-capital-budget",
+      "category": "Budget & taxes"
+    },
+    "uMO3WA9RYIY#2": {
+      "issue": "fy28-capital-budget",
+      "category": "Schools"
+    },
+    "uMO3WA9RYIY#3": {
+      "issue": "recreation-capital-plan",
+      "category": "Parks, trails & recreation"
+    },
+    "uMO3WA9RYIY#4": {
+      "issue": "fy28-capital-budget",
+      "category": "Public safety"
+    },
+    "uMO3WA9RYIY#5": {
+      "issue": "fy28-capital-budget",
+      "category": "Roads, water & infrastructure"
+    },
+    "uMO3WA9RYIY#6": {
+      "issue": "fy28-capital-budget",
+      "category": "Buildings & facilities"
+    },
+    "uMO3WA9RYIY#7": {
+      "issue": "fy28-capital-budget",
+      "category": "Public safety"
+    },
+    "uMO3WA9RYIY#8": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    }
+  },
+  "votes": {
+    "G0blfQE2iMQ#v0": {
+      "issue": "22-turnpike-road"
+    },
+    "G0blfQE2iMQ#v1": {
+      "issue": "22-turnpike-road"
+    },
+    "G0blfQE2iMQ#v2": {
+      "issue": "154-turnpike-road"
+    },
+    "G0blfQE2iMQ#v3": {
+      "issue": "154-turnpike-road"
+    },
+    "G0blfQE2iMQ#v4": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "G0blfQE2iMQ#v5": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "aViit2ZHnOQ#v0": {
+      "issue": "fy28-operating-budget"
+    }
+  },
+  "upcoming": {
+    "G0blfQE2iMQ#u0": {
+      "date": "2026-10-21",
+      "issue": "40-42-central-street"
+    },
+    "G0blfQE2iMQ#u1": {
+      "date": "2026-10-28",
+      "issue": null
+    },
+    "G0blfQE2iMQ#u2": {
+      "date": "2026-11-02",
+      "issue": null
+    },
+    "G0blfQE2iMQ#u3": {
+      "date": "2026-11-04",
+      "issue": null
+    },
+    "G0blfQE2iMQ#u4": {
+      "date": "2026-11-16",
+      "issue": null
+    },
+    "G0blfQE2iMQ#u5": {
+      "date": "2026-12-18",
+      "issue": "21-coslin-drive-costco"
+    },
+    "aViit2ZHnOQ#u0": {
+      "date": null,
+      "issue": "fy28-operating-budget"
+    },
+    "aViit2ZHnOQ#u1": {
+      "date": "2026-12-15",
+      "issue": "fy28-operating-budget"
+    },
+    "uMO3WA9RYIY#u0": {
+      "date": "2026-11-02",
+      "issue": null
+    },
+    "uMO3WA9RYIY#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
+    },
+    "uMO3WA9RYIY#u2": {
+      "date": "2026-12-01",
+      "issue": "fy28-capital-budget"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-21T16:16:08Z"
+}

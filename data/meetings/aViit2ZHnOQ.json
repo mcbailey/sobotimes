@@ -1,0 +1,77 @@
+{
+  "video": {
+    "id": "aViit2ZHnOQ",
+    "title": "Board of Health 10/20/26",
+    "published_at": "2026-10-20T19:55:22Z",
+    "duration_s": 1300
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-10-20",
+    "headline": "The Board of Health approved FY28 budget proposals, detailing Friday closures and delayed septic reviews if a town override fails.",
+    "summary": "The Southborough Board of Health voted unanimously to approve its FY28 budget submission, which includes a departmental request of $329,835 and an alternate level-funded Option B budget of $317,292 if an operating override fails. Department staff warned that the level-funded scenario would require staff hour reductions, Friday office closures, one-to-two-week delays in septic services, and the potential elimination of town flu clinics. Board members also reviewed an explanatory memo to the Select Board and Advisory Committee highlighting recent department cost reductions and uncertainty over state grant funding.",
+    "topics": [
+      {
+        "title": "FY28 Health Department budget options and memo",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Health Director Taylor West presented two budget scenarios for FY28: a full department request of $329,835 and a town-mandated level-funded Option B of $317,292 if an override fails. The board reviewed the trade-offs, service cutbacks, regional shared-services funding uncertainties, and a memo to town financial committees detailing past efficiencies. The board voted to approve the budget proposals and memo with minor editorial adjustments.",
+        "key_details": [
+          "The board request seeks $329,835 total ($268,435 in salaries and $61,400 in non-salary expenses).",
+          "The level-funded Option B reduces total spending to $317,292, requiring a $12,543 reduction from the requested budget.",
+          "Under Option B, director hours would be cut by two hours weekly, administrative staff by one hour, and the contractor by 30 minutes, keeping the shared Northborough health agent untouched.",
+          "Option B consequences include Friday health office closures, septic reviews delayed by one to two weeks, and reduction or elimination of town-run flu clinics.",
+          "State Public Health Excellence grant funding that previously subsidized departmental operational costs is expiring, adding financial pressure to non-salary line items."
+        ],
+        "outcome": "Approved unanimously (3-0) with minor final wording adjustments to the memo.",
+        "why_it_matters": "If a town override fails, residents would face reduced town hall health services, delayed septic approvals, Friday office closures, and potential loss of local flu clinics.",
+        "start_seconds": 18,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the FY28 Health Department budget as presented and the accompanying memo with final wording edits by the chair and health director",
+        "result": "passed",
+        "tally": "3-0",
+        "start_seconds": 1002
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Initial town budget review meeting",
+        "when": "Week of November 4, 2026"
+      },
+      {
+        "what": "Budget approval deadline",
+        "when": "December 15, 2026"
+      }
+    ],
+    "caveats": "The meeting adjourned at 17:12, followed by blank screens and silence for the remainder of the recording."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-21T16:08:46Z",
+  "usage": {
+    "total_tokens": 51229,
+    "total_input_tokens": 49081,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 48099
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 816,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1332
+  }
+}
