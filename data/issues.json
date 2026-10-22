@@ -617,28 +617,28 @@
       "description": "Resolution of site plan discrepancies, parking configurations, and occupancy permitting for 40-42 Central Street.",
       "category": "Zoning & development",
       "first_seen": "2026-04-27",
-      "last_seen": "2026-09-16",
-      "status": "An appeal by the Southborough Historical Society challenging the building commissioner's denial of a certificate of occupancy and notice of zoning violation for 40-42 Central Street remains pending before the Zoning Board of Appeals. Key compliance items remain outstanding, including paving and inspection of accessible parking spaces along with site plan approval matters before the Planning Board. The Planning Board previously recommended revoking the site's temporary certificate of occupancy and met in executive session over threatened litigation by the owner. The Zoning Board of Appeals is scheduled to hold a continued hearing on the appeal on October 21, 2026.",
-      "status_as_of": "2026-09-16",
+      "last_seen": "2026-10-21",
+      "status": "The local zoning appeal regarding occupancy permitting at 40-42 Central Street was withdrawn without prejudice on October 21, 2026, after the state Building Code Appeals Board directed the town to issue a full certificate of occupancy. Although the certificate of occupancy has been issued, site plan compliance items—including accessible parking paving and inspection—remain pending before the town and the Planning Board, which previously recommended revoking the property's temporary certificate of occupancy. No further hearings are currently scheduled before the Zoning Board of Appeals.",
+      "status_as_of": "2026-10-21",
       "positions": [
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "neutral",
+          "detail": "Voted 5-0 on Oct 21 to grant the applicant's withdrawal without prejudice after the state-ordered certificate of occupancy rendered the local appeal moot."
+        },
         {
           "body": "Planning Board",
           "stance": "oppose",
-          "detail": "Voted 4-1 in May to recommend revoking the temporary certificate of occupancy and entered executive session in June regarding threatened litigation from the owner."
-        },
-        {
-          "body": "Zoning Board of Appeals",
-          "stance": "undecided",
-          "detail": "Continued the appeal hearing to allow the applicant time to complete and inspect accessible parking paving and resolve outstanding compliance issues."
+          "detail": "Previously voted 4-1 to recommend revoking the property's temporary certificate of occupancy and cited unresolved site plan compliance and threatened litigation."
         },
         {
           "body": "Southborough Historical Society",
-          "stance": "support",
-          "detail": "Appealed the building commissioner's denial of a certificate of occupancy and zoning violation notice, and granted time extensions while finishing accessible parking paving."
+          "stance": "neutral",
+          "detail": "Requested and was granted withdrawal of its zoning appeal without prejudice after securing a full certificate of occupancy through the state Building Code Appeals Board."
         }
       ],
-      "next": "Zoning Board of Appeals continued hearing on October 21, 2026 at 7:00 PM",
-      "status_fingerprint": "abd60f1b9d822018",
+      "next": "",
+      "status_fingerprint": "b67a47bb7b69f134",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -648,23 +648,28 @@
       "description": "Proposed zoning bylaw amendment to eliminate caps on age-restricted 55-plus developments and clarify affordability requirements.",
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-09-23",
-      "status": "A proposed zoning bylaw amendment to remove townwide unit caps on 55-plus developments and establish a 12.5 percent affordability mandate is currently being redrafted. The Planning Board withdrew an earlier proposal from the spring 2026 Town Meeting warrant to allow further study following community concerns about density. The Affordable Housing Trust is working with town staff and consulting town counsel on a revised version that may include a two-acre minimum lot size ahead of a future Annual Town Meeting.",
-      "status_as_of": "2026-09-23",
+      "last_seen": "2026-10-21",
+      "status": "The Affordable Housing Trust is drafting a revised zoning bylaw amendment to remove Southborough's 7 percent townwide cap on age-restricted units, which currently halts new senior housing. The draft under review would mandate an affordable housing component of 10 to 12.5 percent and is considering a two-acre minimum lot size to manage neighborhood density. The Planning Board withdrew an earlier iteration of the amendment in February 2026 after residents raised concerns regarding density and overall housing diversity. Next steps include review by Town Counsel and a formal presentation to the Zoning Board of Appeals before the proposal is targeted for Town Meeting.",
+      "status_as_of": "2026-10-21",
       "positions": [
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Actively drafting revisions to eliminate the unit cap, establish a 12.5 percent affordability mandate, and potentially set a two-acre minimum lot size."
+          "detail": "Supports eliminating the 7 percent cap on senior developments and is drafting bylaw revisions to mandate 10 to 12.5 percent affordability."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Voted 5-0 in February 2026 to withdraw the bylaw from the warrant for further study after hearing resident concerns about density and housing diversity."
+          "detail": "Voted 5-0 in February 2026 to withdraw the bylaw from the Town Meeting warrant for further study after hearing community concerns about density."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Residents raised concerns earlier in the year regarding development density, townwide housing diversity, and whether inclusionary zoning would be a better mechanism."
         }
       ],
-      "next": "Affordable Housing Trust presentation of an updated draft at its October 2026 meeting",
-      "status_fingerprint": "257708a0d0105929",
+      "next": "",
+      "status_fingerprint": "49a70e9789c586f0",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1766,23 +1771,23 @@
       "category": "Schools",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-07",
-      "status": "The FY28 regional school operating budget is in early development as district leaders navigate tight municipal fiscal conditions under Proposition 2 1/2. Administrators are modeling level-service, level-funded, and 3% capped budget scenarios, while pursuing health insurance restructuring to align deductibles with state plans for an estimated $600,000 in regional savings. Subcommittees are also recommending a five-year financial forecast and proposing a warrant article in both towns to establish a Special Education Stabilization Fund. The full Regional School Committee takes up capital and budget priorities on October 21, 2026, ahead of preliminary budget models in November.",
+      "status": "The Northborough-Southborough Regional School District is developing its FY28 operating budget under municipal fiscal constraints, directing staff to model level-service, level-funded, and 3% budget increase scenarios. Major cost drivers include special education tuition and transportation, rising energy rates, and health insurance, where the district is negotiating deductible changes with employee unions to target roughly $600,000 in savings. Planners are also considering Town Meeting warrant articles in Southborough and Northborough to create a Special Education Stabilization Fund. Preliminary budget presentations are scheduled for mid-November ahead of the superintendent's formal recommendation in January.",
       "status_as_of": "2026-10-07",
       "positions": [
         {
           "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
           "stance": "undecided",
-          "detail": "Recommended advancing five draft strategic priorities—favoring a long-term communications plan over hiring new personnel—and directed staff to prepare multiple budget scenarios."
+          "detail": "Endorsed five draft strategic priorities on Oct 7 and directed administrators to model three budget scenarios while pursuing health insurance restructuring."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A Northborough Appropriations Committee chair urged earlier joint meetings among municipal finance boards and the district to align budget terminology and assumptions."
+          "detail": "A Northborough Appropriations Committee leader urged earlier joint meetings with the district to establish shared terminology and budget assumptions."
         }
       ],
-      "next": "Full Regional School Committee meeting discussion on capital and budget priorities on October 21, 2026",
+      "next": "Preliminary FY28 budget presentation to the Regional School Committee on November 18, 2026.",
       "significance": 5,
-      "status_fingerprint": "bee7262b29898211",
+      "status_fingerprint": "7fe2bbcf540d15ed",
       "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
@@ -2429,28 +2434,33 @@
       "description": "Feasibility, design, and renovation or replacement planning for Neary Elementary School.",
       "category": "Schools",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-19",
-      "status": "The Elementary School Building Committee is advancing a roughly $38 million addition and renovation plan (Option 3) after finding that a $15 million baseline upgrade fails to cover essential HVAC, mechanical, and educational needs. The Southborough School Committee has also endorsed addition and renovation as its preferred path, while keeping open the option to submit a Massachusetts School Building Authority Statement of Interest in November that would restart a five- to six-year state funding process. Municipal boards, including the Select Board, Advisory Committee, and Capital Improvement and Planning Committee, plan to convene jointly before Thanksgiving to assess the town's debt capacity for major school projects. The building committee meets October 21, 2026, to formally authorize schematic design work leading toward a targeted March 2027 Town Meeting funding vote.",
-      "status_as_of": "2026-10-19",
+      "last_seen": "2026-10-21",
+      "status": "The project is in schematic design after the Elementary School Building Committee voted 4-0 on October 21 to advance Option 3, a comprehensive addition and renovation plan, for detailed cost and site modeling. Municipal boards are evaluating Southborough's overall borrowing capacity for the project alongside regional school assessments, while the School Committee is scheduled to decide in November whether to restart a multi-year state funding process through the MSBA. Refined designs and budget estimates are due ahead of the building committee's November 12 meeting as planning builds toward an anticipated Town Meeting vote in spring 2027.",
+      "status_as_of": "2026-10-21",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Supports advancing a roughly $38 million addition and renovation plan (Option 3) after concluding a $15 million baseline upgrade would be consumed by mandatory code work without addressing core building systems."
+          "detail": "Voted 4-0 on Oct 21 to advance Option 3 into schematic design for detailed cost breakdowns, while noting the vote does not finalize its ultimate recommendation."
         },
         {
           "body": "Southborough School Committee",
-          "stance": "support",
-          "detail": "Voted that an addition and renovation plan is its preferred direction, and plans to deliberate in November on whether to reapply for MSBA state funding."
+          "stance": "undecided",
+          "detail": "Reviewing renovation and addition options and preparing to discuss in November whether to submit an MSBA Statement of Interest."
+        },
+        {
+          "body": "Capital Improvement and Planning Committee",
+          "stance": "undecided",
+          "detail": "Analyzing town debt capacity and seeking a multi-board meeting before Thanksgiving to evaluate the long-range capital impact of the project."
         },
         {
           "body": "Public comment",
-          "stance": "neutral",
-          "detail": "Residents urged officials to evaluate Neary's costs in the context of town-wide capital demands—including future maintenance at Finn School—and to account for expenses related to relocating district central administration."
+          "stance": "mixed",
+          "detail": "Residents urged comprehensive planning across town capital needs—including future Finn School maintenance—and asked officials to transparently account for the costs of relocating district administration offices."
         }
       ],
-      "next": "Elementary School Building Committee vote on schematic design directives on October 21, 2026",
-      "status_fingerprint": "942f72be98f8affd",
+      "next": "Elementary School Building Committee meeting to review schematic designs and cost estimates on November 12, 2026.",
+      "status_fingerprint": "a82eb0f052090248",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -4026,38 +4036,38 @@
       "description": "Proposed zoning bylaw amendment for Town Meeting to eliminate the requirement that a single-family dwelling exist for two years before converting to a two-family home.",
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-07",
-      "status": "The proposed zoning amendment to eliminate the two-year waiting period for two-family conversions was scheduled for the October Special Town Meeting after a similar measure failed to win a two-thirds majority in April. The Zoning Board of Appeals and Select Board both backed the article as drafted, but the Advisory Committee voted against recommending it due to concerns about neighborhood density and municipal services. The Planning Board remained undecided after continuing its hearing to evaluate potential floor amendments clarifying district lot sizes. No subsequent proceedings or Town Meeting results have been recorded.",
-      "status_as_of": "2026-10-07",
+      "last_seen": "2026-10-21",
+      "status": "The proposed zoning bylaw amendment to ease restrictions on two-family conversions and construction failed at Town Meeting, winning a simple majority of 85-80 but falling short of the required two-thirds threshold. While backed by the Select Board and Planning Board, the proposal was opposed by the Advisory Committee over concerns regarding neighborhood density and investor teardowns of starter homes. On October 21, the Zoning Board of Appeals agreed by consensus to halt local bylaw efforts and wait for pending state legislation that would permit two-family housing by right, rather than bringing a revised article to the spring town meeting.",
+      "status_as_of": "2026-10-21",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to advance the article as drafted after approving final warrant revisions on Sep 16."
+          "detail": "Sponsored the amendment, but reached consensus on Oct 21 to wait for pending state housing legislation rather than reintroducing a local article in the spring."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 24 to support the revised article, following an initial 4-1 vote to recommend approval on Sep 15."
+          "detail": "Voted 5-0 on Sep 24 to recommend approval at Special Town Meeting to encourage more diverse housing options."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 3-4 on Sep 16 against recommending approval, citing concerns regarding neighborhood density, septic capacity, and school and service impacts."
+          "detail": "Voted 3-4 on Sep 16 to recommend against the article, citing concerns over neighborhood density, property flipping, and strain on town services."
         },
         {
           "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Continued its public hearing on Sep 28 without taking a formal position while considering a potential floor amendment on district lot sizes."
+          "stance": "support",
+          "detail": "Supported the article after holding public hearings through Sep 28 to refine definitions and lot size wording."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Supporters favored creating diverse housing options for young families and downsizers, while opponents warned that removing the waiting restriction would invite investor teardowns and dense condominiums."
+          "detail": "Supporters argued the change would provide diverse options for downsizers and young families, while opponents warned it would spur investor teardowns of starter homes without ensuring affordability."
         }
       ],
       "next": "",
-      "status_fingerprint": "208c5339e43b5940",
+      "status_fingerprint": "c8de679cb80fe624",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -4109,19 +4119,19 @@
       "description": "Proposed local zoning bylaw amendments aligning Southborough bylaws with state Zoning Act changes regarding non-conforming structures and variances.",
       "category": "Zoning & development",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "status": "Proposed zoning bylaw amendments to align Southborough rules with recent state Zoning Act revisions are currently being drafted. The Zoning Board of Appeals is working with town counsel to update local standards for variances and pre-existing non-conforming structures. Staff and counsel are preparing draft warrant language for board review ahead of submission for the Annual Town Meeting warrant.",
-      "status_as_of": "2026-09-16",
+      "last_seen": "2026-10-21",
+      "status": "Draft zoning bylaw amendments aligning Southborough's regulations with recent state Zoning Act updates are being finalized for the 2027 Annual Town Meeting. The Zoning Board of Appeals has reviewed proposed changes regarding nonconforming structures, variance standards, and extended abandonment timelines. The proposals are scheduled to go before the Select Board on November 4, 2026, for referral to the Planning Board for public hearings.",
+      "status_as_of": "2026-10-21",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Agreed on Sep 16 to work with town counsel to draft conforming amendments to town bylaws and board policies."
+          "detail": "Supports advancing conforming amendments to local bylaws to align with Chapter 40A revisions ahead of the 2027 Annual Town Meeting."
         }
       ],
-      "next": "Annual Town Meeting warrant article submission deadline to the Select Board on December 14, 2026",
+      "next": "Submission of draft warrant articles to the Select Board on November 4, 2026.",
       "significance": 5,
-      "status_fingerprint": "fd06a94dc38f127d",
+      "status_fingerprint": "31fdcaa2baad7e27",
       "status_model": "gemini-3.8-flash"
     }
   }

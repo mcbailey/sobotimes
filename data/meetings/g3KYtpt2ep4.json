@@ -1,0 +1,77 @@
+{
+  "video": {
+    "id": "g3KYtpt2ep4",
+    "title": "Elementary School Building Committee 10/21/26",
+    "published_at": "2026-10-22T12:20:04Z",
+    "duration_s": 529
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-10-21",
+    "headline": "The committee voted unanimously to advance Option 3 to schematic design and further cost analysis with Tappé Architects.",
+    "summary": "The Elementary School Building Committee met briefly on October 21, 2026, to decide on the next phase of architectural work for the elementary school building project. The committee voted 4-0 to direct Tappé Architects to advance Option 3 into schematic design and detailed cost estimation. Members noted that while Option 3 will receive focused development, the vote does not rule out other options or make a final recommendation to the town.",
+    "topics": [
+      {
+        "title": "Advancement of Option 3 to schematic design",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The committee reviewed whether to move Option 3 forward for deeper evaluation and schematic design by Tappé Architects. Committee members discussed the need to replace high-level square-foot estimates with detailed cost breakdowns covering site work, septic systems, playgrounds, parking, and wetland delineations. Architect representative Jen Littlefield confirmed Tappé could prepare detailed materials ahead of the committee's next meeting.",
+        "key_details": [
+          "Architect Tappé Architects was directed to begin schematic design on Option 3.",
+          "Members requested incorporation of previous data on septic systems, site fields, playgrounds, and furniture, fixtures, and equipment.",
+          "Detailed information will be delivered by November 10 in advance of the committee's November 12 meeting.",
+          "The committee and architect plan to coordinate meetings with other municipal boards and town groups.",
+          "Committee members emphasized the action does not finalize the committee's ultimate recommendation or preclude alternative features."
+        ],
+        "outcome": "Approved by a 4-0 vote.",
+        "why_it_matters": "Advancing an option to schematic design defines the architectural direction and detailed pricing that will eventually be presented to town residents for consideration.",
+        "start_seconds": 12,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Support Option 3 to move to schematic design and further analysis",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 428
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Tappé Architects to deliver updated design information and cost estimates",
+        "when": "November 10, 2026"
+      },
+      {
+        "what": "Next Elementary School Building Committee meeting",
+        "when": "November 12, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-22T16:04:40Z",
+  "usage": {
+    "total_tokens": 22820,
+    "total_input_tokens": 21184,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 20202
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 656,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 980
+  }
+}

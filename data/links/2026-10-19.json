@@ -1,6 +1,6 @@
 {
   "week": "2026-10-19",
-  "fingerprint": "ed5ecef57d4c8631",
+  "fingerprint": "d87a06c35460bb06",
   "topics": {
     "G0blfQE2iMQ#0": {
       "issue": "22-turnpike-road",
@@ -28,11 +28,35 @@
     },
     "G0blfQE2iMQ#6": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
+    },
+    "PyyAfo2FA5Q#0": {
+      "issue": "40-42-central-street",
+      "category": "Zoning & development"
+    },
+    "PyyAfo2FA5Q#1": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "PyyAfo2FA5Q#2": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "PyyAfo2FA5Q#3": {
+      "issue": "zoning-act-conformance-amendments",
+      "category": "Zoning & development"
+    },
+    "PyyAfo2FA5Q#4": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
     },
     "aViit2ZHnOQ#0": {
       "issue": "fy28-operating-budget",
       "category": "Budget & taxes"
+    },
+    "g3KYtpt2ep4#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
     },
     "uMO3WA9RYIY#0": {
       "issue": null,
@@ -44,7 +68,7 @@
     },
     "uMO3WA9RYIY#2": {
       "issue": "fy28-capital-budget",
-      "category": "Schools"
+      "category": "Budget & taxes"
     },
     "uMO3WA9RYIY#3": {
       "issue": "recreation-capital-plan",
@@ -90,8 +114,17 @@
     "G0blfQE2iMQ#v5": {
       "issue": "21-coslin-drive-costco"
     },
+    "PyyAfo2FA5Q#v0": {
+      "issue": "40-42-central-street"
+    },
+    "PyyAfo2FA5Q#v1": {
+      "issue": "40-42-central-street"
+    },
     "aViit2ZHnOQ#v0": {
       "issue": "fy28-operating-budget"
+    },
+    "g3KYtpt2ep4#v0": {
+      "issue": "neary-school-building-project"
     }
   },
   "upcoming": {
@@ -119,6 +152,22 @@
       "date": "2026-12-18",
       "issue": "21-coslin-drive-costco"
     },
+    "PyyAfo2FA5Q#u0": {
+      "date": "2026-11-04",
+      "issue": "zoning-act-conformance-amendments"
+    },
+    "PyyAfo2FA5Q#u1": {
+      "date": "2026-11-18",
+      "issue": null
+    },
+    "PyyAfo2FA5Q#u2": {
+      "date": "2026-12-16",
+      "issue": null
+    },
+    "PyyAfo2FA5Q#u3": {
+      "date": "2027-03-20",
+      "issue": null
+    },
     "aViit2ZHnOQ#u0": {
       "date": null,
       "issue": "fy28-operating-budget"
@@ -126,6 +175,14 @@
     "aViit2ZHnOQ#u1": {
       "date": "2026-12-15",
       "issue": "fy28-operating-budget"
+    },
+    "g3KYtpt2ep4#u0": {
+      "date": "2026-11-10",
+      "issue": "neary-school-building-project"
+    },
+    "g3KYtpt2ep4#u1": {
+      "date": "2026-11-12",
+      "issue": "neary-school-building-project"
     },
     "uMO3WA9RYIY#u0": {
       "date": "2026-11-02",
@@ -141,5 +198,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-21T16:16:08Z"
+  "generated_at": "2026-10-22T16:07:23Z"
 }

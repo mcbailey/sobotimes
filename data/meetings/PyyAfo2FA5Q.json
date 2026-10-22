@@ -1,0 +1,154 @@
+{
+  "video": {
+    "id": "PyyAfo2FA5Q",
+    "title": "Zoning Board of Appeals Meeting 10/21/26",
+    "published_at": "2026-10-22T12:54:02Z",
+    "duration_s": 2839
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-10-21",
+    "headline": "The Zoning Board of Appeals approved the withdrawal of the 42-44 Central Street appeal and advanced zoning bylaw amendments aligning with state law.",
+    "summary": "The Zoning Board of Appeals met remotely on October 21, 2026, approving the withdrawal without prejudice of an appeal by the Southborough Historical Society regarding 42-44 Central Street after a state board granted their occupancy permit. The board also reviewed an initial debrief of the defeat of the two-family dwelling article at Town Meeting, agreeing to hold off on future action until pending state legislation emerges. Members reviewed extensive draft amendments to town zoning bylaws designed to conform with updated Chapter 40A state standards ahead of the March 2027 Annual Town Meeting, and received an update on proposed revisions to the 55-plus housing bylaw.",
+    "topics": [
+      {
+        "title": "42-44 Central Street appeal withdrawal",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The Southborough Historical Society requested to withdraw without prejudice its appeal regarding an enforcement order under zoning bylaw Section 174-10(J) at 42-44 Central Street. Legal counsel explained that the state Building Code Appeals Board directed the town building commissioner to issue a full certificate of occupancy, which has been completed, making the local appeal moot.",
+        "key_details": [
+          "Address: 42-44 Central Street (Southborough Historical Society).",
+          "Dispute involved occupancy permit conditions following major site plan approval.",
+          "The state Building Code Appeals Board ordered issuance of the certificate of occupancy.",
+          "The board voted 5-0 to close the hearing and 5-0 to grant withdrawal without prejudice."
+        ],
+        "outcome": "Withdrawal without prejudice approved 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 24,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from its September 16, 2026 meeting subject to a typographical year correction, confirmed meeting schedules, and adjourned.",
+        "key_details": [
+          "Minutes of September 16, 2026 approved with a minor typographical edit.",
+          "Next meeting confirmed for November 18, 2026 via Zoom.",
+          "The board adjourned at 0:47:18."
+        ],
+        "outcome": "Minutes approved; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 340,
+        "end_seconds": null
+      },
+      {
+        "title": "Debrief on two-family dwelling bylaw vote",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "A board member provided a recap of the two-family dwelling warrant article, which failed to reach the required two-thirds threshold at Town Meeting despite receiving a simple majority. The board considered whether to bring a revised article back to the spring town meeting or wait for pending state legislation that would permit two-family housing by right, ultimately agreeing by consensus to wait for state action.",
+        "key_details": [
+          "The article received over 50 percent support but failed the required two-thirds majority.",
+          "Town Meeting attendance was noted as exceptionally low, at approximately 165 voters.",
+          "The Planning Board, Housing Board, and Select Board (4-1) had supported the article, while Advisory voted 4-3 against.",
+          "Members reached consensus to wait for state legislation rather than reintroduce a town article in spring."
+        ],
+        "outcome": "Consensus reached to wait for state action before pursuing further local bylaw changes.",
+        "why_it_matters": null,
+        "start_seconds": 438,
+        "end_seconds": null
+      },
+      {
+        "title": "Zoning Act compliance bylaw updates for 2027 Annual Town Meeting",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "The board reviewed proposed zoning bylaw amendments prepared by town staff to ensure compliance with recent revisions to Massachusetts General Laws Chapter 40A that took effect July 1, 2026. Key amendments address rules for preexisting nonconforming structures and lots, extend the abandonment period from two to four years, adopt the state practical difficulty standard for residential variances, and establish a two-year variance expiration timeline.",
+        "key_details": [
+          "Amends Section 174-9(E) to exempt conforming structures on nonconforming lots from special permits for alterations.",
+          "Retains town protections allowing exemptions for reconstruction while maintaining the existing 50 percent assessed value limit.",
+          "Updates abandonment timeline for nonconforming uses from two years to four years.",
+          "Updates variance criteria under Section 174-25 to adopt the state practical difficulty test for residential use variances while prohibiting non-residential use variances.",
+          "Proposals will be sent to the Select Board on November 4 to be referred to the Planning Board for public hearings."
+        ],
+        "outcome": "Staff will finalize the draft into warrant article format for the Select Board's November 4 meeting.",
+        "why_it_matters": "The changes will alter how residents and property owners can modify nonconforming homes, reconstruct damaged properties, and seek zoning variances across Southborough.",
+        "start_seconds": 1300,
+        "end_seconds": null
+      },
+      {
+        "title": "55-plus housing bylaw revision preview",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Staff and a board member serving on the Affordable Housing Trust previewed an upcoming proposal to modify the town's 55-plus housing bylaw. Southborough has hit its existing 7 percent townwide cap on age-restricted housing units, creating a barrier to building additional senior housing, and the trust is proposing to remove the cap while adjusting affordability requirements.",
+        "key_details": [
+          "The town has reached its 7 percent cap on 55-plus housing developments, preventing new projects.",
+          "The proposal would remove the cap to support town housing production goals and senior housing demand.",
+          "Affordable housing components of 10 percent or 12.5 percent are under consideration.",
+          "The bylaw will come before the board for formal review because 55-plus developments require a special permit through the board."
+        ],
+        "outcome": "Discussion only; full presentation to be scheduled at a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 2480,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Close the public hearing for 42-44 Central Street",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 266
+      },
+      {
+        "motion": "Approve the withdrawal without prejudice of the application for 42-44 Central Street",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 314
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Submission of draft zoning amendments to Select Board for referral to Planning Board",
+        "when": "November 4, 2026"
+      },
+      {
+        "what": "Zoning Board of Appeals administrative meeting via Zoom",
+        "when": "November 18, 2026"
+      },
+      {
+        "what": "Zoning Board of Appeals meeting",
+        "when": "December 16, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "March 20, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-22T16:04:13Z",
+  "usage": {
+    "total_tokens": 113110,
+    "total_input_tokens": 109442,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 108458
+      },
+      {
+        "modality": "text",
+        "tokens": 984
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1868,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1800
+  }
+}
