@@ -1,107 +1,103 @@
 {
-  "headline": "Southborough boards advanced elementary school schematic design, reviewed FY28 capital requests, prepared contingency budget cuts, and continued the Costco hearing.",
-  "synopsis": "The Elementary School Building Committee voted to advance Option 3 to schematic design, while the Capital Improvement and Planning Committee reviewed FY28 requests including a $45 million placeholder for the Neary School project. The Board of Health approved its FY28 budget scenarios, warning that failing a town override would force Friday office closures, delayed septic reviews, and reduced clinics. The Planning Board extended its statutory decision deadline and continued hearings on the 21 Coslin Drive Costco proposal to November 2, while also approving site plan modifications on Turnpike Road. Additionally, the Zoning Board of Appeals approved the withdrawal of the 42-44 Central Street appeal and prepared bylaw updates to conform with state zoning law.",
+  "headline": "Elementary school planners advanced Option 3 to schematic design, while town committees weighed major capital requests, potential budget cuts, and development proposals.",
+  "synopsis": "The Elementary School Building Committee voted to advance Option 3 to schematic design for detailed cost estimates, while the Capital Improvement and Planning Committee reviewed up to $49 million in bondable requests dominated by the Neary School project. Facing potential municipal budget constraints, the Board of Health approved an alternate level-funded budget plan that would force Friday office closures and delay septic reviews if an operating override fails. The Planning Board extended its review timeline for the 21 Coslin Drive Costco application to December, and the Zoning Board of Appeals prepared town zoning updates to comply with state law while shelving further local action on two-family housing. Additionally, the Wastewater Study Committee approved a pro bono partnership with Artefacts AI to assess local parcels for wastewater disposal.",
   "highlights": [
     {
-      "title": "Elementary school project advances Option 3",
-      "why": "The committee voted 4-0 to direct Tappé Architects to develop schematic designs and detailed cost estimates for Option 3 ahead of November meetings.",
+      "title": "Option 3 advanced for elementary school building project",
+      "why": "The committee voted 4-0 to direct Tappé Architects to develop schematic designs and detailed cost estimates for Option 3, focusing the project's next design phase while keeping final recommendations open.",
       "body": "Elementary School Building Committee",
       "importance": "high",
       "video_id": "g3KYtpt2ep4",
       "start_seconds": 12
     },
     {
-      "title": "Board of Health outlines cuts under level-funded budget",
-      "why": "The board approved FY28 budget scenarios, detailing that a failure of a town override would trigger Friday office closures, delayed septic reviews, and clinic reductions.",
+      "title": "Health Department details service cuts if town override fails",
+      "why": "The board approved an alternate level-funded FY28 budget scenario that would result in Friday health office closures, septic review delays of up to two weeks, and potential elimination of town flu clinics if an operating override is not approved.",
       "body": "Board of Health",
       "importance": "high",
       "video_id": "aViit2ZHnOQ",
       "start_seconds": 18
     },
     {
-      "title": "Costco hearing continued and decision deadline extended",
-      "why": "The Planning Board scheduled a special November 2 meeting to take up Costco and extended its statutory decision deadline to December 18 while peer reviews are completed.",
-      "body": "Planning Board",
-      "importance": "high",
-      "video_id": "G0blfQE2iMQ",
-      "start_seconds": 3548
-    },
-    {
-      "title": "Initial review of FY28 capital budget requests",
-      "why": "The committee evaluated departmental requests totaling $2.152 million in cash appropriations and up to $49 million in bondable projects, heavily driven by school proposals.",
+      "title": "Capital requests review includes $45 million Neary School placeholder",
+      "why": "The committee reviewed initial FY28 capital requests totaling $2.152 million in direct appropriations and up to $49 million in bondable items, which is heavily dominated by a $45 million placeholder for the Neary School building project.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "high",
       "video_id": "uMO3WA9RYIY",
       "start_seconds": 140
     },
     {
-      "title": "Draft zoning amendments prepared for Town Meeting",
-      "why": "The board reviewed proposed amendments aligning local bylaws with state Chapter 40A standards, which will be forwarded to the Select Board for referral to the Planning Board.",
-      "body": "Zoning Board of Appeals",
+      "title": "Costco hearing continued as decision deadline extends to December",
+      "why": "The Planning Board voted to continue public hearings for the 21 Coslin Drive Costco project to a special November 2 meeting and extended its statutory decision deadline to December 18 while traffic peer reviews are completed.",
+      "body": "Planning Board",
       "importance": "high",
+      "video_id": "G0blfQE2iMQ",
+      "start_seconds": 3548
+    },
+    {
+      "title": "Zoning amendments drafted to align with state Chapter 40A",
+      "why": "Staff presented draft zoning bylaw amendments adjusting nonconforming lot and structure rules, extending abandonment timelines, and altering variance criteria to conform with revised state statutes ahead of the 2027 Annual Town Meeting.",
+      "body": "Zoning Board of Appeals",
+      "importance": "medium",
       "video_id": "PyyAfo2FA5Q",
       "start_seconds": 1300
     },
     {
-      "title": "Central Street zoning appeal withdrawn",
-      "why": "The Zoning Board of Appeals voted 5-0 to approve the Southborough Historical Society's withdrawal without prejudice after a state board directed the town to issue an occupancy permit.",
-      "body": "Zoning Board of Appeals",
+      "title": "Pro bono AI study approved for wastewater site selection",
+      "why": "The committee voted to collaborate with Artefacts AI at no cost to Southborough to evaluate land parcels and hydrologic percolation data for potential municipal wastewater disposal sites.",
+      "body": "Wastewater Study Committee",
       "importance": "medium",
-      "video_id": "PyyAfo2FA5Q",
-      "start_seconds": 24
+      "video_id": "rsT8T0LkZXE",
+      "start_seconds": 367
     }
   ],
   "looking_ahead": [
-    {
-      "what": "Town Counsel office hours",
-      "when": "October 28, 2026 from 10:00 AM to 12:00 PM",
-      "body": null
-    },
     {
       "what": "Planning Board special meeting regarding Costco (21 Coslin Drive), Fay School as-builts, 361 Turnpike Road temporary occupancy, and 2027 meeting schedule",
       "when": "November 2, 2026 at 6:30 PM",
       "body": "Planning Board"
     },
     {
-      "what": "Next Capital Improvement and Planning Committee meeting",
+      "what": "Capital Improvement and Planning Committee meeting",
       "when": "November 2, 2026 at 7:30 PM",
       "body": "Capital Improvement and Planning Committee"
     },
     {
-      "what": "Select Board meeting including referral of draft zoning amendments to the Planning Board",
+      "what": "Submission of draft zoning amendments to Select Board for referral to Planning Board",
       "when": "November 4, 2026",
       "body": "Select Board"
     },
     {
-      "what": "Tappé Architects scheduled delivery of updated design information and cost estimates",
+      "what": "Tappé Architects to deliver updated design information and cost estimates",
       "when": "November 10, 2026",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Elementary School Building Committee meeting",
+      "what": "Next Elementary School Building Committee meeting",
       "when": "November 12, 2026",
       "body": "Elementary School Building Committee"
     },
     {
-      "what": "Planning Board regular meeting including Open Space Monitoring Report presentation",
-      "when": "November 16, 2026 at 6:30 PM",
-      "body": "Planning Board"
+      "what": "Working session on Interstate 495 Gateway joint grant and wastewater parcel list",
+      "when": "November 19, 2026",
+      "body": "Wastewater Study Committee"
     },
     {
-      "what": "Zoning Board of Appeals administrative meeting via Zoom",
-      "when": "November 18, 2026",
-      "body": "Zoning Board of Appeals"
+      "what": "Planning Board statutory decision deadline for 21 Coslin Drive (Costco) major site plan application",
+      "when": "December 18, 2026",
+      "body": "Planning Board"
     }
   ],
   "week": "2026-10-19",
-  "fingerprint": "5eba5e5aacd810e3",
+  "fingerprint": "e831a161b0cee74d",
   "video_ids": [
     "G0blfQE2iMQ",
     "PyyAfo2FA5Q",
     "aViit2ZHnOQ",
     "g3KYtpt2ep4",
+    "rsT8T0LkZXE",
     "uMO3WA9RYIY"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-22T16:05:07Z"
+  "generated_at": "2026-10-23T15:58:04Z"
 }

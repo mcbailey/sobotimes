@@ -1,6 +1,6 @@
 {
   "week": "2026-10-19",
-  "fingerprint": "d87a06c35460bb06",
+  "fingerprint": "117708e481277318",
   "topics": {
     "G0blfQE2iMQ#0": {
       "issue": "22-turnpike-road",
@@ -58,6 +58,30 @@
       "issue": "neary-school-building-project",
       "category": "Schools"
     },
+    "rsT8T0LkZXE#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "rsT8T0LkZXE#1": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "rsT8T0LkZXE#2": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Roads, water & infrastructure"
+    },
+    "rsT8T0LkZXE#3": {
+      "issue": "route-9-495-gateway-study",
+      "category": "Zoning & development"
+    },
+    "rsT8T0LkZXE#4": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "rsT8T0LkZXE#5": {
+      "issue": "route-9-wastewater-infrastructure",
+      "category": "Budget & taxes"
+    },
     "uMO3WA9RYIY#0": {
       "issue": null,
       "category": "Governance & committees"
@@ -68,7 +92,7 @@
     },
     "uMO3WA9RYIY#2": {
       "issue": "fy28-capital-budget",
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "uMO3WA9RYIY#3": {
       "issue": "recreation-capital-plan",
@@ -125,6 +149,9 @@
     },
     "g3KYtpt2ep4#v0": {
       "issue": "neary-school-building-project"
+    },
+    "rsT8T0LkZXE#v0": {
+      "issue": "route-9-wastewater-infrastructure"
     }
   },
   "upcoming": {
@@ -184,6 +211,14 @@
       "date": "2026-11-12",
       "issue": "neary-school-building-project"
     },
+    "rsT8T0LkZXE#u0": {
+      "date": "2026-11-19",
+      "issue": "route-9-495-gateway-study"
+    },
+    "rsT8T0LkZXE#u1": {
+      "date": "2026-12-03",
+      "issue": null
+    },
     "uMO3WA9RYIY#u0": {
       "date": "2026-11-02",
       "issue": null
@@ -198,5 +233,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-22T16:07:23Z"
+  "generated_at": "2026-10-23T16:00:19Z"
 }

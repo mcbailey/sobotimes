@@ -3888,6 +3888,24 @@
       "processed_at": "2026-10-22T16:04:40Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "rsT8T0LkZXE": {
+      "id": "rsT8T0LkZXE",
+      "title": "Wastewater Study Committee 10/22/26",
+      "description": "",
+      "published_at": "2026-10-23T12:29:22Z",
+      "duration_s": 2745,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-23T15:56:11Z",
+      "meeting_date": "2026-10-22",
+      "week": "2026-10-19",
+      "processed_at": "2026-10-23T15:57:37Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -3970,12 +3988,20 @@
       "output_tokens": 11514,
       "thought_tokens": 34594,
       "tool_use_tokens": 0
+    },
+    "2026-10-23": {
+      "video_minutes": 46,
+      "calls": 6,
+      "input_tokens": 197259,
+      "output_tokens": 9598,
+      "thought_tokens": 26191,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-22T16:03:21Z",
-    "discovered": 30,
-    "summarized": 2,
+    "at": "2026-10-23T15:56:10Z",
+    "discovered": 28,
+    "summarized": 1,
     "refreshed": 0,
     "errors": 0
   }

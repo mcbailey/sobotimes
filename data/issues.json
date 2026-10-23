@@ -3024,28 +3024,28 @@
       "description": "A joint $150,000 planning and infrastructure study with Westborough evaluating economic development, zoning, and infrastructure along the Route 9 and I-495 corridor.",
       "category": "Zoning & development",
       "first_seen": "2026-05-18",
-      "last_seen": "2026-09-03",
-      "status": "Southborough and Westborough are awaiting an announcement from the state on a joint $150,000 Community One Stop for Growth grant application to fund an infrastructure, zoning, and regional wastewater study along the Route 9 and Interstate 495 corridor. The Select Board, Planning Board, and Wastewater Study Committee all support the initiative, which requires a $7,500 local cash match from each town. The Wastewater Study Committee has paused regular meetings and hiring engineering consultants until grant awards are announced in October 2026.",
-      "status_as_of": "2026-09-03",
+      "last_seen": "2026-10-22",
+      "status": "The state has awarded Southborough and Westborough a $150,000 Community One Stop grant to study economic development, zoning, and wastewater along the Route 9 and I-495 corridor. Both towns expect to execute grant contracts in late 2026 for work starting around January 1, 2027, though project leadership remains unsettled due to a vacant town planner post in Westborough. Southborough's Select Board, Planning Board, and Wastewater Study Committee all support the initiative, which requires a $7,500 local match that can be met through cash or in-kind staff time. The Wastewater Study Committee will hold a dedicated working session in November to review joint grant administration.",
+      "status_as_of": "2026-10-22",
       "positions": [
         {
           "body": "Wastewater Study Committee",
           "stance": "support",
-          "detail": "Supported the joint grant application and paused further meetings and consultant hiring pending state award announcements."
+          "detail": "Leading project coordination and reviewing administrative requirements for the study, which requires a $7,500 local match in cash or staff time."
         },
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Voted 4-0 on May 21, 2026, to endorse a letter of support after adding language to protect residential buffers and focus on commercial tax base growth."
+          "detail": "Voted 4-0 on May 21, 2026 to endorse the grant application after adding protections for residential neighborhood buffers and focusing on commercial growth."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on May 19, 2026, to approve a letter of support for the joint grant application."
+          "detail": "Voted 5-0 on May 19, 2026 to approve a letter of support for the joint grant application."
         }
       ],
-      "next": "State grant award announcements expected in October 2026.",
-      "status_fingerprint": "98c925c159fc764b",
+      "next": "Wastewater Study Committee working session on November 19, 2026.",
+      "status_fingerprint": "f5fb4a9b0f7172aa",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -3055,23 +3055,23 @@
       "description": "Planning, site evaluation, and District Improvement Financing for wastewater collection and treatment along the Route 9 corridor.",
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-04-20",
-      "last_seen": "2026-09-03",
-      "status": "Planning for an estimated $40 million to $50 million municipal wastewater system along Route 9 is under review, with the Wastewater Study Committee targeting the spring 2027 Annual Town Meeting. The committee opted not to bring articles to the fall 2026 Special Town Meeting, concluding it needed more time to establish cost projections, site selection, and state environmental permitting for watershed zones and potential interbasin water transfers. While the Select Board voted 4-1 in June to authorize $30,000 for economic modeling to support a District Improvement Financing (DIF) district, the study committee voted 0-5 against funding that specific consultant study later that month.",
-      "status_as_of": "2026-09-03",
+      "last_seen": "2026-10-22",
+      "status": "The Wastewater Study Committee is drafting framework documents for District Improvement Financing along Route 9, targeting the 2027 Annual Town Meeting after deferring a fall 2026 presentation. On October 22, the committee approved a pro bono land analysis to evaluate potential disposal sites, following state confirmation that watershed discharge permitting is legally viable. Main open questions include identifying the 15 to 20 acres needed for leaching fields and deciding whether to separate geographic district designation from full engineering plans to reduce upfront consultant costs.",
+      "status_as_of": "2026-10-22",
       "positions": [
         {
           "body": "Wastewater Study Committee",
           "stance": "support",
-          "detail": "Targeting the spring 2027 Annual Town Meeting for a modular Route 9 treatment and collection proposal, deferring action from the fall to resolve site, engineering, and MassDEP regulatory issues."
+          "detail": "Voted 6-0 on Oct 22 to begin a pro bono parcel siting study and is drafting District Improvement Financing framework documents for 2027."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 in June to allocate $30,000 from Economic Development Committee funds for financial analysis of a Route 9 financing district, and extended the study committee's charge through June 2027."
+          "detail": "Voted 4-1 on June 16 to reallocate $30,000 in surplus funds for financial modeling and voted 4-0-1 in April to extend the planning committee through June 2027."
         }
       ],
       "next": "",
-      "status_fingerprint": "6226e6e289a09c76",
+      "status_fingerprint": "1dc811fb64285780",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },

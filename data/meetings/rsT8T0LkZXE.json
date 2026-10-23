@@ -1,0 +1,153 @@
+{
+  "video": {
+    "id": "rsT8T0LkZXE",
+    "title": "Wastewater Study Committee 10/22/26",
+    "published_at": "2026-10-23T12:29:22Z",
+    "duration_s": 2745
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Wastewater Study Committee",
+    "meeting_date": "2026-10-22",
+    "headline": "The Wastewater Study Committee voted to partner pro bono with Artefacts AI to evaluate potential wastewater disposal sites.",
+    "summary": "The committee agreed to collaborate with Artefacts AI on a no-cost study analyzing Southborough land parcels for potential wastewater disposal. Members reviewed a September meeting with state environmental regulators, confirming that wastewater discharge permits are feasible within Zone C of the Sudbury Reservoir watershed. The committee also discussed coordination on a joint state grant with Westborough for the Interstate 495 gateway corridor and continued preliminary work on District Improvement Financing.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting, approved minutes from the previous month, scheduled upcoming meetings, and adjourned.",
+        "key_details": [
+          "Meeting called to order at 7:04 PM.",
+          "Approved minutes of September 3, 2026.",
+          "Set future tentative meeting dates for November 19, 2026, and December 3, 2026."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "State DEP review of watershed discharge permitting",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "Members reviewed a September 18 conference with the Massachusetts Department of Environmental Protection regarding potential wastewater discharge sites. State officials indicated that permitting discharge within Zone C of the Sudbury Reservoir watershed is feasible, though it involves stringent treatment standards because the reservoir serves as a backup public water source.",
+        "key_details": [
+          "Sudbury Reservoir is classified as an MWRA standby water reserve rather than a primary drinking supply.",
+          "Department of Conservation and Recreation confirmed there are no interbasin transfer issues for water originating from the Quabbin Reservoir.",
+          "State officials noted Westborough previously received a 137,000-gallon-per-day discharge permit for EMC, of which Costco uses only a portion while Dell retains the rest.",
+          "Town wastewater flow estimates under consideration have decreased from 500,000 gallons per day to around 300,000 gallons per day."
+        ],
+        "outcome": "DEP confirmed permitting in Zone C is legally viable; no immediate formal filings required.",
+        "why_it_matters": null,
+        "start_seconds": 53,
+        "end_seconds": null
+      },
+      {
+        "title": "Artefacts AI parcel analysis proposal",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The committee discussed and approved a pro bono partnership with analytics firm Artefacts AI to evaluate town land parcels for wastewater siting. The company will use public data, GIS mapping, and past town engineering reports without drawing on town funds or staff time.",
+        "key_details": [
+          "Artefacts AI is a top 10 finalist out of 965 applicants in an international municipal AI competition.",
+          "If the firm wins the contest grand prize of $100,000 in December, it proposed dedicating those consulting services to Southborough.",
+          "The pro bono work will evaluate combined parcels and hydrologic percolation data to identify feasible disposal locations.",
+          "The town administrator confirmed the memorandum of understanding involves no financial commitment or municipal liability."
+        ],
+        "outcome": "Committee voted 6-0 to proceed with the Artefacts AI project.",
+        "why_it_matters": null,
+        "start_seconds": 367,
+        "end_seconds": null
+      },
+      {
+        "title": "Interstate 495 Gateway grant coordination with Westborough",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Members discussed project management and next steps for the joint Massachusetts One Stop grant awarded to Southborough and Westborough for the Interstate 495 corridor. The grant will evaluate land use scenarios, zoning modifications, and wastewater infrastructure needs across the two towns.",
+        "key_details": [
+          "Westborough currently has a vacant town planner position, leaving project leadership unsettled.",
+          "The grant agreement requires a local match of $7,500, which can be satisfied through cash or in-kind staff services.",
+          "Grant contract execution is anticipated in late 2026, with work expected to begin around January 1, 2027.",
+          "A committee member will distribute a two-page summary of joint grant administration requirements for discussion at the next meeting."
+        ],
+        "outcome": "Information reviewed; committee will hold a dedicated working session on the grant at its next meeting.",
+        "why_it_matters": null,
+        "start_seconds": 1182,
+        "end_seconds": null
+      },
+      {
+        "title": "Dell property development update",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "A committee member reported on recent communications concerning Dell's remaining property parcels near Route 9. Dell representatives expressed concern over lengthy permitting timelines for the Costco project and indicated they might seek a single buyer for all remaining land rather than selling individual parcels subject to municipal permits.",
+        "key_details": [
+          "Costco has closed on its land purchase from Dell while site plan review continues before the Planning Board.",
+          "Dell has indicated reluctance to enter future purchase agreements contingent on multi-year local permitting.",
+          "A potential bulk sale to a private investment buyer could complicate town efforts to acquire or protect specific parcels."
+        ],
+        "outcome": "Informational update only; no action taken.",
+        "why_it_matters": null,
+        "start_seconds": 1920,
+        "end_seconds": null
+      },
+      {
+        "title": "District Improvement Financing planning",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The committee discussed preparations for District Improvement Financing (DIF), a mechanism to capture future tax revenue increases within a designated district to fund infrastructure. Members debated separating the designation of the geographic district from the full engineering and financial plan to reduce upfront consultant expenses ahead of a potential 2027 Town Meeting article.",
+        "key_details": [
+          "Committee is targeting potential Town Meeting presentation in 2027.",
+          "Standard DIF documentation follows established state templates that members could draft in-house.",
+          "Professional engineering and certified financial projections would still be required for formal plan adoption."
+        ],
+        "outcome": "Committee members will continue drafting preliminary framework documents.",
+        "why_it_matters": null,
+        "start_seconds": 2068,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Proceed with the Artefacts AI project to evaluate land parcels for wastewater siting on a pro bono basis.",
+        "result": "passed",
+        "tally": "6-0",
+        "start_seconds": 1152
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Working session on the Interstate 495 Gateway joint grant and working list of wastewater parcels",
+        "when": "November 19, 2026"
+      },
+      {
+        "what": "Alternative next committee meeting date",
+        "when": "December 3, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-23T15:57:37Z",
+  "usage": {
+    "total_tokens": 109781,
+    "total_input_tokens": 105824,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 104842
+      },
+      {
+        "modality": "text",
+        "tokens": 982
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1732,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2225
+  }
+}
