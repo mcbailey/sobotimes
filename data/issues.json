@@ -394,22 +394,22 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
       "last_seen": "2026-10-19",
-      "status": "The major site plan modification for the golf driving range at 22 Turnpike Road was approved by the Planning Board on October 19, 2026. The approval permits stormwater infiltration expansion, existing patios, a storage shed, and sports lighting subject to conditions on fixture warmth, timing controls, and construction test pits to verify groundwater separation. The Conservation Commission previously approved a negative determination of applicability for the shed in April 2026.",
+      "status": "The Planning Board approved the major site plan modification for the 22 Turnpike Road golf driving range on October 19, 2026, concluding its public hearing. The approval includes conditions requiring stormwater test pits during construction to verify separation from groundwater and limits exterior lighting to outdoor illumination bylaw standards. The Conservation Commission previously granted a negative determination of applicability in April 2026 for a storage shed on the property.",
       "status_as_of": "2026-10-19",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Voted 4-0 with one abstention on Oct 19, 2026, to approve the major site plan modification with lighting and stormwater conditions."
+          "detail": "Voted 4-0 on Oct 19, 2026, to approve the site plan modification with conditions on lighting controls and construction test pits."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on Apr 30, 2026, to issue a negative determination of applicability for a 15-by-11-foot storage shed outside the wetland buffer zone."
+          "detail": "Voted 5-0 on Apr 30, 2026, to issue a negative determination of applicability for an equipment storage shed outside the wetland buffer zone."
         }
       ],
       "next": "",
-      "status_fingerprint": "0d5ce16d6262f0aa",
+      "status_fingerprint": "ab8ab3b9e26de641",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },

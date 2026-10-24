@@ -3996,12 +3996,20 @@
       "output_tokens": 9598,
       "thought_tokens": 26191,
       "tool_use_tokens": 0
+    },
+    "2026-10-24": {
+      "video_minutes": 0,
+      "calls": 1,
+      "input_tokens": 4610,
+      "output_tokens": 247,
+      "thought_tokens": 538,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-23T15:56:10Z",
+    "at": "2026-10-24T14:54:37Z",
     "discovered": 28,
-    "summarized": 1,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }
