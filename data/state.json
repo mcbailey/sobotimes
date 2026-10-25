@@ -4004,10 +4004,18 @@
       "output_tokens": 247,
       "thought_tokens": 538,
       "tool_use_tokens": 0
+    },
+    "2026-10-25": {
+      "video_minutes": 0,
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "thought_tokens": 0,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-24T14:54:37Z",
+    "at": "2026-10-25T15:03:41Z",
     "discovered": 28,
     "summarized": 0,
     "refreshed": 0,
