@@ -3383,49 +3383,44 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-01",
       "last_seen": "2026-10-13",
-      "status": "Special Town Meeting approved Article 3 by majority vote, appropriating $433,546 in Community Preservation Act funds paired with $100,000 from the Golf Course Revolving Fund for a $1.09 million irrigation overhaul. The project had the unanimous backing of the Select Board and recommendation from the Community Preservation Committee, but faced unanimous opposition from the Advisory Committee, which argued the self-sustaining course should fund capital work through golfer surcharges. Prior to the vote, the Golf Committee mounted an extensive voter outreach campaign and opted not to seek floor amendments to decouple the new funding from an extension of $550,000 in expiring 2024 authorizations.",
+      "status": "Special Town Meeting approved Article 3, authorizing $433,546 in additional Community Preservation Act (CPA) funds and $100,000 from the Golf Course Revolving Fund to complete the $1.09 million irrigation overhaul. While the Select Board, Community Preservation Committee, and Conservation Commission supported the funding, the Advisory Committee unanimously opposed it on grounds that golf course improvements should be paid for through player surcharges rather than town preservation funds. The project proceeds under several conditions, including compliance with property conservation restrictions, Audubon International certification criteria, and raising the revolving fund's statutory spending cap.",
       "status_as_of": "2026-10-13",
       "positions": [
         {
-          "body": "Special Town Meeting",
+          "body": "Golf Committee",
           "stance": "support",
-          "detail": "Approved Article 3 by majority vote to allocate $433,546 in CPA funds toward the irrigation project."
+          "detail": "Supported the full project scope and voted unanimously on Oct 6 to fund promotional flyers advocating for the Town Meeting article."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 24 to support revised Article 3 on the Special Town Meeting warrant."
+          "detail": "Voted 5-0 on Sep 24 to recommend approval of the Special Town Meeting funding article."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 4-1 on Sep 14 to recommend the warrant article with environmental and revolving-fund conditions."
-        },
-        {
-          "body": "Golf Committee",
-          "stance": "support",
-          "detail": "Sponsored the project and voted unanimously on Oct 6 to spend up to $500 on voter outreach flyers."
-        },
-        {
-          "body": "Conservation Commission",
-          "stance": "support",
-          "detail": "Reached consensus on Aug 27 supporting the directional boring design and pump station placement under the conservation restriction."
+          "detail": "Voted 4-1 on Sep 14 to approve the warrant article subject to Audubon certification and conservation restriction conditions."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 against recommending Article 3, maintaining the golf course should fund capital needs through user fees."
+          "detail": "Voted 0-7 on Sep 16 against the article, arguing the self-sustaining course should fund capital work through user fees rather than CPA funds."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Reached consensus supporting the proposed directional boring design and utility pump station location under the conservation restriction."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Comments ranged from support for maintaining the course as a vital community space to opposition over using town preservation funds instead of user fees."
+          "detail": "A resident spoke in favor of funding the project to protect a key community recreational asset, while opponents argued golfers should pay for course upgrades through player fees."
         }
       ],
-      "next": "Select Board procurement process for golf course management contract by April 1, 2027.",
-      "status_fingerprint": "a7e94d2e12d26a86",
+      "next": "",
+      "status_fingerprint": "a61a1bf6a525641e",
       "status_model": "gemini-3.8-flash",
-      "significance": 5
+      "significance": 4
     },
     "sta-unit-a-contract": {
       "id": "sta-unit-a-contract",
