@@ -1,0 +1,133 @@
+{
+  "video": {
+    "id": "cBDLNnsM8Wc",
+    "title": "Municipal Technology Committee",
+    "published_at": "2026-10-28T17:33:38Z",
+    "duration_s": 2101
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-10-27",
+    "headline": "The Municipal Technology Committee reviewed promotion plans for its resident survey and received updates on upcoming phone migrations and school laptop rollouts.",
+    "summary": "The Municipal Technology Committee discussed efforts to drive resident participation in the 2026 Resident Satisfaction Survey, including outreach at polling stations and school emails. Town IT staff reported that municipal offices will transition to a new cloud-based phone system on November 13, with a website refresh planning process beginning soon. The committee also received a school technology briefing detailing a four-year lease rollout of approximately 200 MacBooks for teachers and the completion of classroom interactive display upgrades. Tentative future meetings were scheduled for November 17 and December 15.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved the meeting minutes from September 23, scheduled future meeting dates, and adjourned.",
+        "key_details": [
+          "Meeting minutes from September 23 were approved unanimously.",
+          "Future meeting dates were tentatively set for November 17 and December 15."
+        ],
+        "outcome": "Minutes approved and future meetings scheduled.",
+        "why_it_matters": null,
+        "start_seconds": 11,
+        "end_seconds": null
+      },
+      {
+        "title": "2026 Resident Satisfaction Survey status and promotion",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee discussed the status of the 2026 Resident Satisfaction Survey, which had gathered 53 responses since its quiet launch earlier in the month. Members discussed promotional strategies to increase responses before the survey closes at the end of November, including DPW electronic signage, reusable banners, presence near polling locations on Election Day at Trottier Middle School, and coordinating an email to parents through the school district. The survey includes added questions for the Senior Center and queries regarding resident sentiment toward commercial delivery drones.",
+        "key_details": [
+          "53 survey responses were received as of the meeting date, with a target closing date at the end of November.",
+          "New sections include questions on Senior Center digital needs and potential Amazon drone operations.",
+          "Promotion will include town website announcements, reusable banners, and electronic roadway signs directing people to sboro.org.",
+          "Members plan to explore setting up an informational table or signage outside the Trottier polling station for the upcoming election."
+        ],
+        "outcome": "Committee members agreed to finalize signage, request school email distribution, and promote the survey on social media.",
+        "why_it_matters": null,
+        "start_seconds": 95,
+        "end_seconds": null
+      },
+      {
+        "title": "Select Board priorities and department outreach",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The chair outlined the need to engage the Select Board to find individual champions for the committee's business process improvement recommendations. Select Board member Sam Stivers advised presenting the recommendations to Select Board Chair Kathy Cook to place them on an agenda for board volunteers. The committee also discussed inviting department heads to future meetings for technology reviews, prioritizing the Department of Public Works, Police, and Fire.",
+        "key_details": [
+          "Select Board member Sam Stivers recommended requesting agenda placement through Select Board Chair Kathy Cook to seek member sponsorship.",
+          "Stivers suggested condensing the IT strategic plan into a one-page summary to aid board and resident engagement.",
+          "The committee plans to invite DPW to its November meeting and Public Safety (Police and Fire) for December."
+        ],
+        "outcome": "The committee agreed to request Select Board agenda time and reach out to department heads for November and December appearances.",
+        "why_it_matters": null,
+        "start_seconds": 785,
+        "end_seconds": null
+      },
+      {
+        "title": "Town municipal IT updates",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Town IT staff provided updates on the upcoming website redesign and the municipal phone system replacement. The phone upgrade will cut over on November 13, replacing on-premises PBX hardware with cloud-based Wi-Fi-connected phones. Preliminary discussions for the municipal website refresh are beginning with vendor CivicPlus, with deeper committee engagement anticipated in January.",
+        "key_details": [
+          "The town phone system cutover date is set for November 13, with staff training occurring that same week.",
+          "The new phone system is entirely cloud-based and operates over Wi-Fi, eliminating on-premises PBX equipment.",
+          "Initial discussions with CivicPlus on the town website refresh are underway, with broader work slated for January."
+        ],
+        "outcome": "The phone system cutover proceeds for November 13, with website refresh planning continuing into early next year.",
+        "why_it_matters": null,
+        "start_seconds": 1260,
+        "end_seconds": null
+      },
+      {
+        "title": "School district technology update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The school IT director provided an update on technology initiatives across the district following a smooth start to the academic year. The district is rolling out roughly 200 MacBook Airs on a four-year lease to replace aging Windows laptops for teaching staff. Additionally, the district completed its second phase of classroom display upgrades, replacing 10-to-11-year-old projectors with 75-inch to 96-inch interactive touch panels.",
+        "key_details": [
+          "Approximately 200 MacBook Air M5 laptops with 16GB RAM and four-year AppleCare are being deployed to teachers across three districts on a four-year lease.",
+          "The laptop deployment replaces staff computers that were up to six or seven years old.",
+          "All classrooms in Southborough have now been upgraded from old projectors to interactive touch panels ranging from 75 to 96 inches with seven-year warranties."
+        ],
+        "outcome": "Information shared; rollouts and staff training are proceeding.",
+        "why_it_matters": null,
+        "start_seconds": 1425,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Town phone system cutover and staff training",
+        "when": "November 13"
+      },
+      {
+        "what": "Municipal Technology Committee meeting",
+        "when": "November 17"
+      },
+      {
+        "what": "Municipal Technology Committee meeting (tentative)",
+        "when": "December 15"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-29T17:34:11Z",
+  "usage": {
+    "total_tokens": 83803,
+    "total_input_tokens": 81201,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 80232
+      },
+      {
+        "modality": "text",
+        "tokens": 969
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1550,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1052,
+    "initial_input_tokens": 95122
+  }
+}

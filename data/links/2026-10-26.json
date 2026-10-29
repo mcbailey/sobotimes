@@ -1,0 +1,43 @@
+{
+  "week": "2026-10-26",
+  "fingerprint": "674e6cbc434e73d6",
+  "topics": {
+    "cBDLNnsM8Wc#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "cBDLNnsM8Wc#1": {
+      "issue": "town-satisfaction-survey",
+      "category": "Governance & committees"
+    },
+    "cBDLNnsM8Wc#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "cBDLNnsM8Wc#3": {
+      "issue": "municipal-phone-system-upgrade",
+      "category": "Staffing & operations"
+    },
+    "cBDLNnsM8Wc#4": {
+      "issue": "classroom-interactive-touch-displays",
+      "category": "Schools"
+    }
+  },
+  "votes": {},
+  "upcoming": {
+    "cBDLNnsM8Wc#u0": {
+      "date": "2026-11-13",
+      "issue": "municipal-phone-system-upgrade"
+    },
+    "cBDLNnsM8Wc#u1": {
+      "date": "2026-11-17",
+      "issue": null
+    },
+    "cBDLNnsM8Wc#u2": {
+      "date": "2026-12-15",
+      "issue": null
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-29T17:38:54Z"
+}

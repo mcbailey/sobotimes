@@ -1,0 +1,62 @@
+{
+  "headline": "The Municipal Technology Committee planned outreach for the 2026 Resident Satisfaction Survey and reviewed town phone upgrades and school laptop rollouts.",
+  "synopsis": "The Municipal Technology Committee met to discuss promotional strategies for the 2026 Resident Satisfaction Survey, which runs through late November and includes questions on senior digital needs and commercial delivery drones. Municipal offices are scheduled to migrate to a new cloud-based phone system on November 13, while initial planning begins for a town website refresh. The committee also received a school technology briefing detailing a lease rollout of roughly 200 laptops for teachers and completed interactive display installations across all classrooms. In addition, members discussed presenting IT process recommendations to the Select Board and scheduling future technology reviews with department heads.",
+  "highlights": [
+    {
+      "title": "Resident Satisfaction Survey outreach and feedback",
+      "why": "The committee planned promotional efforts at polling locations, schools, and online for the survey, which runs through late November and gathers feedback on drone delivery and senior digital needs.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "cBDLNnsM8Wc",
+      "start_seconds": 95
+    },
+    {
+      "title": "Town phone upgrade and website redesign",
+      "why": "Municipal offices will switch to a cloud-based phone system on November 13, eliminating on-premises equipment as initial planning starts for a municipal website redesign.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "cBDLNnsM8Wc",
+      "start_seconds": 1260
+    },
+    {
+      "title": "School laptop rollout and classroom displays",
+      "why": "The district is distributing about 200 leased MacBook Airs to replace aging staff computers and completed upgrades replacing old projectors with interactive touch screens.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "cBDLNnsM8Wc",
+      "start_seconds": 1425
+    },
+    {
+      "title": "Select Board coordination and department reviews",
+      "why": "Members agreed to seek Select Board agenda time to advance process improvement recommendations and invite DPW and public safety leadership to future meetings.",
+      "body": "Municipal Technology Committee",
+      "importance": "medium",
+      "video_id": "cBDLNnsM8Wc",
+      "start_seconds": 785
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Town phone system cutover and staff training",
+      "when": "November 13",
+      "body": "Municipal Technology Committee"
+    },
+    {
+      "what": "Municipal Technology Committee meeting",
+      "when": "November 17",
+      "body": "Municipal Technology Committee"
+    },
+    {
+      "what": "Municipal Technology Committee meeting (tentative)",
+      "when": "December 15",
+      "body": "Municipal Technology Committee"
+    }
+  ],
+  "week": "2026-10-26",
+  "fingerprint": "f3d3961863e10437",
+  "video_ids": [
+    "cBDLNnsM8Wc"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-10-29T17:34:38Z"
+}

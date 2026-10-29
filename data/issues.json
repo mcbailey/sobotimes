@@ -1163,34 +1163,34 @@
       "description": "A $365,000 capital request for the Annual Town Meeting warrant to install Newline interactive touch displays across K-8 classrooms.",
       "category": "Schools",
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-11",
-      "status": "A $365,000 capital bonding proposal to install Newline interactive touch displays across K-8 classrooms advanced to the Annual Town Meeting warrant to replace aging projectors. The Select Board, Capital Improvement and Planning Committee, and Advisory Committee all voted to support the request in March 2026. No subsequent action or Town Meeting outcome is recorded.",
-      "status_as_of": "2026-03-18",
+      "last_seen": "2026-10-27",
+      "status": "The installation of interactive touch displays across all Southborough K-8 classrooms is now complete. The $365,000 capital project, backed by town boards ahead of the 2026 Annual Town Meeting, replaced 10- to 11-year-old projectors with 75- to 96-inch interactive panels across all district schools. With hardware installation finished, district staff are now proceeding with teacher training.",
+      "status_as_of": "2026-10-27",
       "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Requested the $365,000 capital appropriation to replace failing classroom projectors with interactive panels across K-8 schools."
+        },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted unanimously on March 17, 2026, to support Article 12 for capital budget borrowing on the Annual Town Meeting warrant."
+          "detail": "Voted unanimously on Mar 17 to support the capital borrowing article on the Annual Town Meeting warrant."
         },
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "support",
-          "detail": "Voted 3-0 on March 18, 2026, to support Article 12 for school capital bonding as presented."
+          "detail": "Voted 3-0 on Mar 18 to support the school capital bonding article."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on March 16, 2026, to support the $365,000 FY27 capital bond for school technology infrastructure and equipment."
-        },
-        {
-          "body": "Public comment",
-          "stance": "neutral",
-          "detail": "A resident urged active, transparent communication with voters regarding capital projects leading up to Town Meeting."
+          "detail": "Voted 3-2 on Mar 16 to recommend the $365,000 FY27 capital bond for school technology."
         }
       ],
       "next": "",
       "significance": 4,
-      "status_fingerprint": "5b8df9388a09e010",
+      "status_fingerprint": "826cc028a14be02f",
       "status_model": "gemini-3.8-flash"
     },
     "community-preservation-appropriations": {
@@ -2356,19 +2356,19 @@
       "description": "Capital request and transition of municipal facilities from an unsupported on-premise PBX phone system to a cloud-based solution.",
       "category": "Staffing & operations",
       "first_seen": "2026-03-02",
-      "last_seen": "2026-03-03",
-      "status": "The Municipal Technology Committee voted unanimously in March 2026 to support a $25,000 Annual Town Meeting capital request to replace the town's aging on-premise PBX system with a cloud-based phone network. The project is intended to cover all municipal departments, including public safety, and would carry an estimated $32,000 to $33,000 in annual operating costs. No further action or vote on the capital request is recorded.",
-      "status_as_of": "2026-03-03",
+      "last_seen": "2026-10-27",
+      "status": "The town is proceeding with the transition of municipal facilities to a cloud-based phone system, replacing unsupported on-premises PBX equipment. The Municipal Technology Committee backed the project earlier this year to resolve ongoing hardware vulnerabilities and licensing constraints. System cutover and staff training are set to take place next month.",
+      "status_as_of": "2026-10-27",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Mar 3, 2026, to recommend the $25,000 capital request, citing unsupported user licenses and risk of hardware failures in the current 15-year-old system."
+          "detail": "Voted 4-0 on March 3 to recommend the $25,000 capital request for the cloud phone system upgrade."
         }
       ],
-      "next": "",
+      "next": "Phone system cutover and staff training on November 13, 2026",
       "significance": 3,
-      "status_fingerprint": "3c834a0621cfdd16",
+      "status_fingerprint": "680f90854930e003",
       "status_model": "gemini-3.8-flash"
     },
     "national-grid-vegetation-plan": {
@@ -3693,28 +3693,28 @@
       "description": "Design, public outreach, and execution of the townwide resident satisfaction survey conducted by the Municipal Technology Committee.",
       "category": "Governance & committees",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
-      "status": "The 2026 Southborough Satisfaction Survey is currently underway, running from October 1 through November 30. The Municipal Technology Committee streamlined and shortened this year's questions to improve completion rates following drop-offs in 2025, while adding new sections on senior services and affordable housing. The Affordable Housing Trust contributed revisions to the housing questions, and the Select Board endorsed a framework to address department service findings.",
-      "status_as_of": "2026-09-23",
+      "last_seen": "2026-10-27",
+      "status": "The 2026 Resident Satisfaction Survey is currently open through November 30, having gathered 53 responses since a quiet launch earlier in the month. The Municipal Technology Committee is focusing on outreach to increase completion rates, coordinating promotional efforts through electronic roadway signs, school district emails, and an informational presence at polling stations on Election Day. This year's streamlined survey includes new questions addressing affordable housing preferences, Senior Center digital services, and commercial delivery drones.",
+      "status_as_of": "2026-10-27",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Redesigned and launched the survey to run through November 30, shortening question matrices to improve completion rates and adding questions on housing and senior services."
+          "detail": "Administering the survey and actively arranging promotional outreach to increase participation before it closes."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Reviewed and submitted refined housing questions for the survey, advising clearer terminology for workforce housing and focusing questions on the downtown area."
+          "detail": "Submitted refined survey questions in September to assess resident preferences on housing styles, workforce housing, and downtown development."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Endorsed the committee's 90-day action plan on September 2 to address resident feedback on municipal services from the previous survey."
+          "detail": "Voted on September 2 to endorse the committee's survey prioritization framework and 90-day action plan."
         }
       ],
-      "next": "Satisfaction Survey closes on November 30, 2026",
-      "status_fingerprint": "5a6f29273846d670",
+      "next": "Survey closes on November 30, 2026",
+      "status_fingerprint": "77522e6dec38b45c",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
