@@ -1,0 +1,147 @@
+{
+  "video": {
+    "id": "a-1YCw92kfQ",
+    "title": "Trails Committee 10/29/26",
+    "published_at": "2026-10-30T13:21:06Z",
+    "duration_s": 5970
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-10-29",
+    "headline": "The Trails Committee reviewed recent Town Meeting approval and advanced plans for trail maintenance, Choate grant signage, and a 2027 MassTrails grant.",
+    "summary": "Following voter approval of trail project funding at Town Meeting, the Trails Committee discussed next steps for roadway crossings, corporate coordination with Sanofi, and regional school partnerships. Members reviewed extensive on-the-ground trail maintenance needs, mapping discrepancies, and scheduled a site walk for November 2. The committee also refined plans for new Choate Fund interpretive signage and benches on the Peninsula Trail, and outlined outreach for the 2027 MassTrails grant application.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved meeting minutes from October 1, October 8, and October 17 as amended.",
+        "key_details": [
+          "A typographical error regarding middle school spelling was noted in the October 17 minutes.",
+          "Minutes for all three dates were approved unanimously."
+        ],
+        "outcome": "Minutes approved as amended.",
+        "why_it_matters": null,
+        "start_seconds": 32,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting recap and roadway trail crossings",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The committee celebrated the positive Town Meeting vote funding trail work and discussed strategies to offset costs and improve road crossings. Members explored petitioning the town DPW for a crosswalk at Central Street and contacting MassDOT regarding a safe crossing on Route 30.",
+        "key_details": [
+          "A full MassDOT-compliant intersection upgrade at Route 30 was previously quoted between $600,000 and nearly $1 million due to reservoir proximity.",
+          "The committee discussed proposing lower-cost interim measures like striping or flashing signals to MassDOT.",
+          "A member volunteered to coordinate with the local DPW and MassDOT regarding crossing logistics.",
+          "The committee plans to engage Sanofi about dedicated public trail parking to leverage existing paved areas."
+        ],
+        "outcome": "A committee member will lead outreach to DPW and MassDOT regarding crossing options.",
+        "why_it_matters": null,
+        "start_seconds": 136,
+        "end_seconds": null
+      },
+      {
+        "title": "Trail maintenance, field conditions, and mapping",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee reviewed trail maintenance needs across town, including mowing schedules, fallen trees, and missing trail markers. A resident volunteer shared updates on cleared sections along the Sudbury Reservoir Trail and discussed options for bog bridges and signage.",
+        "key_details": [
+          "Ward Road mowing is now contracted through the Recreation Commission.",
+          "A large downed tree requiring a chainsaw was reported along the trail toward Westborough near the aqueduct.",
+          "A volunteer cleared multiple trees between Cordaville Road and Route 9 along the Sudbury Reservoir Trail.",
+          "The committee noted missing blazes and damaged signage at Beals Preserve and Deerfoot Road, planning to install temporary signs.",
+          "Members scheduled an in-person site walk for Monday, November 2, at 7:15 a.m. starting from McNeal Drive."
+        ],
+        "outcome": "Site walk scheduled for November 2 to inspect trail conditions and blaze markers.",
+        "why_it_matters": null,
+        "start_seconds": 975,
+        "end_seconds": null
+      },
+      {
+        "title": "Choate Fund grant: Interpretive signage and benches",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed implementing the Choate Fund grant for the Peninsula Trail, which includes extending gravel sign pads, adding an educational sign, and placing benches. The committee debated focusing the new sign on wildlife tracking and local animals, enhanced with interactive QR codes.",
+        "key_details": [
+          "The grant project will widen gravel pads in front of existing interpretive signs to deter brush encroachment.",
+          "The proposed sign location is near the pumping station overlooking the water.",
+          "The sign topic will focus on local wildlife such as mink, weasels, river otters, and bald eagles, rather than bears.",
+          "Interactive QR codes linking to apps like Merlin or nature websites will be considered.",
+          "Additional backless benches are planned for the accessible gravel trail, with DCR prohibiting dedication plaques."
+        ],
+        "outcome": "The committee agreed on the wildlife theme and sign location pending MWRA and DCR coordination.",
+        "why_it_matters": null,
+        "start_seconds": 3668,
+        "end_seconds": null
+      },
+      {
+        "title": "2027 MassTrails grant planning and partnership outreach",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The committee reviewed its preparatory schedule for the upcoming 2027 MassTrails grant cycle, which awards up to $100,000 with a 20 percent match. Members discussed building partnerships with Southborough and Framingham public schools to integrate trail curriculum and meet state environmental justice criteria.",
+        "key_details": [
+          "MassTrails grants offer up to $100,000 for construction and trail development.",
+          "Outreach will target Framingham and Southborough educators to incorporate the trails into earth and natural sciences curriculum.",
+          "The committee is developing a list of stakeholders for letters of support, including regional land trusts, the Select Board, and corporate neighbors like Sanofi and Bose.",
+          "A committee member volunteered to draft communications and lead outreach to school contacts over the next two weeks."
+        ],
+        "outcome": "Outreach to school districts and regional partners will begin ahead of the grant cycle opening.",
+        "why_it_matters": "Securing up to $100,000 in state grant funds would offset municipal costs for regional trail connections and bridge construction.",
+        "start_seconds": 4577,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident and volunteer reported clearing several fallen trees along the Sudbury Reservoir Trail between Cordaville Road and Route 9 and offered to help construct a stairway at the Route 30 crossing as an Eagle Scout project.",
+        "start_seconds": 1582
+      },
+      {
+        "summary": "A representative from the Southborough Open Land Foundation discussed trail mapping discrepancies on OpenStreetMap and Maps.me, noting that an old signpost at the Beals Preserve trail split appears to be missing.",
+        "start_seconds": 1235
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Committee trail maintenance site visit meeting at 11 McNeal Drive",
+        "when": "November 2 at 7:15 a.m."
+      },
+      {
+        "what": "Next Trails Committee meeting",
+        "when": "November 5 at 7:00 p.m."
+      },
+      {
+        "what": "Recreation Commission meeting with Trails Committee update",
+        "when": "November 12 at 7:00 p.m."
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-30T17:16:58Z",
+  "usage": {
+    "total_tokens": 232875,
+    "total_input_tokens": 229035,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 984
+      },
+      {
+        "modality": "video",
+        "tokens": 228051
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1705,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2135,
+    "initial_input_tokens": 266171
+  }
+}

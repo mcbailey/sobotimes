@@ -1,41 +1,69 @@
 {
-  "headline": "The Municipal Technology Committee planned outreach for the 2026 Resident Satisfaction Survey and reviewed town phone upgrades and school laptop rollouts.",
-  "synopsis": "The Municipal Technology Committee met to discuss promotional strategies for the 2026 Resident Satisfaction Survey, which runs through late November and includes questions on senior digital needs and commercial delivery drones. Municipal offices are scheduled to migrate to a new cloud-based phone system on November 13, while initial planning begins for a town website refresh. The committee also received a school technology briefing detailing a lease rollout of roughly 200 laptops for teachers and completed interactive display installations across all classrooms. In addition, members discussed presenting IT process recommendations to the Select Board and scheduling future technology reviews with department heads.",
+  "headline": "Southborough boards advanced a draft 55-plus housing zoning proposal, transferred housing funds to earn interest, and planned trail expansion grants.",
+  "synopsis": "The Affordable Housing Trust backed draft zoning rules allowing up to eight senior housing units per acre and moved approximately one million dollars into an interest-bearing savings program. The Trails Committee initiated partnership planning for a 2027 MassTrails grant of up to $100,000 while reviewing roadway crossing options on Route 30 and Central Street. Additionally, the Municipal Technology Committee examined outreach for the 2026 Resident Satisfaction Survey and tracked an upcoming town hall phone system transition.",
   "highlights": [
     {
-      "title": "Resident Satisfaction Survey outreach and feedback",
-      "why": "The committee planned promotional efforts at polling locations, schools, and online for the survey, which runs through late November and gathers feedback on drone delivery and senior digital needs.",
-      "body": "Municipal Technology Committee",
-      "importance": "medium",
-      "video_id": "cBDLNnsM8Wc",
-      "start_seconds": 95
+      "title": "Draft senior housing zoning bylaw advancement",
+      "why": "The trust reached consensus on a draft bylaw removing the town-wide 7 percent cap on elderly housing units while establishing a two-acre minimum lot size and a 12.5 percent affordable unit mandate. Members plan to present the draft to the Planning Board, Zoning Board of Appeals, and Select Board.",
+      "body": "Affordable Housing Trust",
+      "importance": "high",
+      "video_id": "vMTungilx60",
+      "start_seconds": 1180
     },
     {
-      "title": "Town phone upgrade and website redesign",
-      "why": "Municipal offices will switch to a cloud-based phone system on November 13, eliminating on-premises equipment as initial planning starts for a municipal website redesign.",
+      "title": "Transfer of housing funds to interest-bearing program",
+      "why": "The trust arranged to move roughly one million dollars from a zero-interest account into an insured savings program earning about 3.5 percent interest. The move is expected to yield approximately $35,000 annually for municipal housing efforts.",
+      "body": "Affordable Housing Trust",
+      "importance": "high",
+      "video_id": "vMTungilx60",
+      "start_seconds": 2500
+    },
+    {
+      "title": "Outreach for 2027 MassTrails grant",
+      "why": "The committee began preparations to apply for a state grant of up to $100,000 requiring a 20 percent match for trail development. Members plan to collaborate with Southborough and Framingham public schools to incorporate trail visits into science curricula.",
+      "body": "Trails Committee",
+      "importance": "high",
+      "video_id": "a-1YCw92kfQ",
+      "start_seconds": 4577
+    },
+    {
+      "title": "Trail roadway crossings and parking coordination",
+      "why": "Following Town Meeting funding approval, members discussed pursuing lower-cost crossing options with DPW and MassDOT rather than a quoted $600,000 to nearly $1 million intersection overhaul on Route 30. The committee also intends to approach Sanofi regarding public trail parking access.",
+      "body": "Trails Committee",
+      "importance": "medium",
+      "video_id": "a-1YCw92kfQ",
+      "start_seconds": 136
+    },
+    {
+      "title": "Town phone system cutover and website planning",
+      "why": "Municipal offices will migrate to a cloud-based phone system operating over Wi-Fi on November 13, eliminating on-premises equipment. Preliminary discussions are also underway with vendor CivicPlus for a municipal website redesign.",
       "body": "Municipal Technology Committee",
       "importance": "medium",
       "video_id": "cBDLNnsM8Wc",
       "start_seconds": 1260
-    },
-    {
-      "title": "School laptop rollout and classroom displays",
-      "why": "The district is distributing about 200 leased MacBook Airs to replace aging staff computers and completed upgrades replacing old projectors with interactive touch screens.",
-      "body": "Municipal Technology Committee",
-      "importance": "medium",
-      "video_id": "cBDLNnsM8Wc",
-      "start_seconds": 1425
-    },
-    {
-      "title": "Select Board coordination and department reviews",
-      "why": "Members agreed to seek Select Board agenda time to advance process improvement recommendations and invite DPW and public safety leadership to future meetings.",
-      "body": "Municipal Technology Committee",
-      "importance": "medium",
-      "video_id": "cBDLNnsM8Wc",
-      "start_seconds": 785
     }
   ],
   "looking_ahead": [
+    {
+      "what": "Committee trail maintenance site visit meeting at 11 McNeal Drive",
+      "when": "November 2 at 7:15 a.m.",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Select Board meeting where the housing trust website request may be considered",
+      "when": "November 4",
+      "body": "Select Board"
+    },
+    {
+      "what": "Trails Committee regular meeting",
+      "when": "November 5 at 7:00 p.m.",
+      "body": "Trails Committee"
+    },
+    {
+      "what": "Recreation Commission meeting with Trails Committee update",
+      "when": "November 12 at 7:00 p.m.",
+      "body": "Recreation Commission"
+    },
     {
       "what": "Town phone system cutover and staff training",
       "when": "November 13",
@@ -47,16 +75,18 @@
       "body": "Municipal Technology Committee"
     },
     {
-      "what": "Municipal Technology Committee meeting (tentative)",
-      "when": "December 15",
-      "body": "Municipal Technology Committee"
+      "what": "Presentations of draft 55-plus zoning bylaw to Planning Board and Zoning Board of Appeals",
+      "when": "late November or early December",
+      "body": "Affordable Housing Trust"
     }
   ],
   "week": "2026-10-26",
-  "fingerprint": "f3d3961863e10437",
+  "fingerprint": "e24d8ac2f07e81bd",
   "video_ids": [
-    "cBDLNnsM8Wc"
+    "a-1YCw92kfQ",
+    "cBDLNnsM8Wc",
+    "vMTungilx60"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-29T17:34:38Z"
+  "generated_at": "2026-10-30T17:19:12Z"
 }

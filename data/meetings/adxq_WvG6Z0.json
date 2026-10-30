@@ -1,0 +1,94 @@
+{
+  "video": {
+    "id": "adxq_WvG6Z0",
+    "title": "Select Board Meeting 10/23/26",
+    "published_at": "2026-10-30T13:08:43Z",
+    "duration_s": 718
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-10-23",
+    "headline": "The Select Board voted to submit legislation making Town Clerk an appointed role and joined neighboring communities in questioning Amazon drone deliveries.",
+    "summary": "In a brief special meeting, the Select Board formally authorized sending a home rule petition letter to the state legislature to change the Town Clerk position from elected to appointed. The board also voted to sign a multi-town letter to the Federal Aviation Administration and Amazon urging thorough safety, environmental, and emergency service reviews before drone delivery operations launch locally. Both measures passed unanimously.",
+    "topics": [
+      {
+        "title": "Town Clerk appointed position home rule petition",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Following guidance from town counsel, the board formally voted to send a request letter to state Representative Kate Donaghue to advance previously approved special legislation converting the Town Clerk from an elected office to an appointed position. The chair added language stressing that the matter is very time-sensitive ahead of upcoming election cycles.",
+        "key_details": [
+          "Letter directed to state Representative Kate Donaghue.",
+          "Implements a Town Meeting decision to change the Town Clerk from elected to appointed.",
+          "Town counsel advised a formal vote of the board was required before transmission."
+        ],
+        "outcome": "Approved unanimously (5-0) with the added time-sensitive wording.",
+        "why_it_matters": null,
+        "start_seconds": 16,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional letter regarding Amazon drone deliveries",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed whether Southborough should join neighboring communities in signing a letter to the Federal Aviation Administration and Amazon CEO Andy Jassy requesting more study, public meetings, and data before commercial drone deliveries launch. Members discussed potential impacts on emergency service call volumes, noise, and environmental trade-offs between electric drones and delivery vans.",
+        "key_details": [
+          "Addressed to Brian Bedford at the FAA and Amazon CEO Andy Jassy.",
+          "Southborough was the last directly impacted community in the service area to consider signing.",
+          "Members raised specific concerns regarding emergency call volume surges and impacts on public safety response.",
+          "Authorizes either the board chair or the town administrator to sign via DocuSign depending on the protocol of neighboring towns."
+        ],
+        "outcome": "Approved unanimously (5-0) to sign the joint letter.",
+        "why_it_matters": null,
+        "start_seconds": 142,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve sending the October 23, 2026 letter regarding the Town Clerk legislation to state Representative Kate Donaghue with requested revisions.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 125
+      },
+      {
+        "motion": "Approve signing the October 23, 2026 joint letter to Brian Bedford of the FAA and Andy Jassy of Amazon regarding drone delivery reviews.",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 644
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting",
+        "when": "November 4, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-30T17:17:26Z",
+  "usage": {
+    "total_tokens": 30086,
+    "total_input_tokens": 28351,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 27369
+      },
+      {
+        "modality": "text",
+        "tokens": 982
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 830,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 905,
+    "initial_input_tokens": 33972
+  }
+}

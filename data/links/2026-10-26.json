@@ -1,7 +1,27 @@
 {
   "week": "2026-10-26",
-  "fingerprint": "674e6cbc434e73d6",
+  "fingerprint": "15d1a21a1696fd10",
   "topics": {
+    "a-1YCw92kfQ#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "a-1YCw92kfQ#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "a-1YCw92kfQ#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "a-1YCw92kfQ#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "a-1YCw92kfQ#4": {
+      "issue": "2027-masstrails-grant",
+      "category": "Parks, trails & recreation"
+    },
     "cBDLNnsM8Wc#0": {
       "issue": null,
       "category": "Governance & committees"
@@ -21,10 +41,61 @@
     "cBDLNnsM8Wc#4": {
       "issue": "classroom-interactive-touch-displays",
       "category": "Schools"
+    },
+    "vMTungilx60#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "vMTungilx60#1": {
+      "issue": "two-family-zoning-amendment",
+      "category": "Zoning & development"
+    },
+    "vMTungilx60#2": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "vMTungilx60#3": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "vMTungilx60#4": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "vMTungilx60#5": {
+      "issue": "cpa-affordable-housing-trust-transfer",
+      "category": "Housing"
+    },
+    "vMTungilx60#6": {
+      "issue": null,
+      "category": "Housing"
+    },
+    "vMTungilx60#7": {
+      "issue": null,
+      "category": "Housing"
     }
   },
-  "votes": {},
+  "votes": {
+    "vMTungilx60#v0": {
+      "issue": null
+    },
+    "vMTungilx60#v1": {
+      "issue": null
+    }
+  },
   "upcoming": {
+    "a-1YCw92kfQ#u0": {
+      "date": "2026-11-02",
+      "issue": null
+    },
+    "a-1YCw92kfQ#u1": {
+      "date": "2026-11-05",
+      "issue": null
+    },
+    "a-1YCw92kfQ#u2": {
+      "date": "2026-11-12",
+      "issue": null
+    },
     "cBDLNnsM8Wc#u0": {
       "date": "2026-11-13",
       "issue": "municipal-phone-system-upgrade"
@@ -36,8 +107,16 @@
     "cBDLNnsM8Wc#u2": {
       "date": "2026-12-15",
       "issue": null
+    },
+    "vMTungilx60#u0": {
+      "date": "2026-11-04",
+      "issue": null
+    },
+    "vMTungilx60#u1": {
+      "date": null,
+      "issue": "55-plus-housing-bylaw"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-29T17:38:54Z"
+  "generated_at": "2026-10-30T17:23:25Z"
 }

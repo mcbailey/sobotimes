@@ -1,6 +1,6 @@
 {
   "week": "2026-10-19",
-  "fingerprint": "117708e481277318",
+  "fingerprint": "1f5073390235a236",
   "topics": {
     "G0blfQE2iMQ#0": {
       "issue": "22-turnpike-road",
@@ -48,11 +48,19 @@
     },
     "PyyAfo2FA5Q#4": {
       "issue": "55-plus-housing-bylaw",
-      "category": "Zoning & development"
+      "category": "Housing"
     },
     "aViit2ZHnOQ#0": {
       "issue": "fy28-operating-budget",
       "category": "Budget & taxes"
+    },
+    "adxq_WvG6Z0#0": {
+      "issue": "appointed-town-clerk",
+      "category": "Governance & committees"
+    },
+    "adxq_WvG6Z0#1": {
+      "issue": "commercial-drone-delivery-oversight",
+      "category": "Public safety"
     },
     "g3KYtpt2ep4#0": {
       "issue": "neary-school-building-project",
@@ -75,12 +83,12 @@
       "category": "Zoning & development"
     },
     "rsT8T0LkZXE#4": {
-      "issue": null,
+      "issue": "21-coslin-drive-costco",
       "category": "Zoning & development"
     },
     "rsT8T0LkZXE#5": {
       "issue": "route-9-wastewater-infrastructure",
-      "category": "Budget & taxes"
+      "category": "Roads, water & infrastructure"
     },
     "uMO3WA9RYIY#0": {
       "issue": null,
@@ -147,6 +155,12 @@
     "aViit2ZHnOQ#v0": {
       "issue": "fy28-operating-budget"
     },
+    "adxq_WvG6Z0#v0": {
+      "issue": "appointed-town-clerk"
+    },
+    "adxq_WvG6Z0#v1": {
+      "issue": "commercial-drone-delivery-oversight"
+    },
     "g3KYtpt2ep4#v0": {
       "issue": "neary-school-building-project"
     },
@@ -165,7 +179,7 @@
     },
     "G0blfQE2iMQ#u2": {
       "date": "2026-11-02",
-      "issue": null
+      "issue": "21-coslin-drive-costco"
     },
     "G0blfQE2iMQ#u3": {
       "date": "2026-11-04",
@@ -196,12 +210,16 @@
       "issue": null
     },
     "aViit2ZHnOQ#u0": {
-      "date": null,
+      "date": "2026-11-04",
       "issue": "fy28-operating-budget"
     },
     "aViit2ZHnOQ#u1": {
       "date": "2026-12-15",
       "issue": "fy28-operating-budget"
+    },
+    "adxq_WvG6Z0#u0": {
+      "date": "2026-11-04",
+      "issue": null
     },
     "g3KYtpt2ep4#u0": {
       "date": "2026-11-10",
@@ -217,11 +235,11 @@
     },
     "rsT8T0LkZXE#u1": {
       "date": "2026-12-03",
-      "issue": null
+      "issue": "route-9-wastewater-infrastructure"
     },
     "uMO3WA9RYIY#u0": {
       "date": "2026-11-02",
-      "issue": null
+      "issue": "fy28-capital-budget"
     },
     "uMO3WA9RYIY#u1": {
       "date": null,
@@ -233,5 +251,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-23T16:00:19Z"
+  "generated_at": "2026-10-30T17:20:07Z"
 }

@@ -267,6 +267,27 @@
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
+    "2027-masstrails-grant": {
+      "id": "2027-masstrails-grant",
+      "name": "2027 MassTrails grant application",
+      "description": "Application and regional school partnerships for up to $100,000 in state MassTrails grant funding for trail improvements.",
+      "category": "Parks, trails & recreation",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-29",
+      "status": "The Trails Committee is preparing an application for the 2027 MassTrails grant cycle, seeking up to $100,000 with a 20 percent match for trail development. The committee is initiating outreach to Southborough and Framingham public schools to integrate trail curriculum and meet state environmental justice criteria. Members are also assembling a list of regional stakeholders and corporate neighbors to solicit letters of support ahead of the grant window.",
+      "status_as_of": "2026-10-29",
+      "positions": [
+        {
+          "body": "Trails Committee",
+          "stance": "support",
+          "detail": "Preparing an application for up to $100,000 in grant funding and coordinating regional school and partner outreach."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "52c10f7c3a03f764",
+      "status_model": "gemini-3.8-flash"
+    },
     "2030-master-plan-update": {
       "id": "2030-master-plan-update",
       "name": "2030 Master Plan update",
@@ -299,28 +320,28 @@
       "description": "Site plan and special permit review for a proposed 167,000-square-foot Costco retail warehouse and 30-position gas station at 21 Coslin Drive.",
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-19",
-      "status": "The proposed 167,000-square-foot Costco retail warehouse and 30-position fueling station at 21 Coslin Drive is currently under review by the Planning Board for major site plan approval and two special permits. The Zoning Board of Appeals granted necessary variances for retaining wall and light pole heights in July 2026, but Planning Board proceedings are pending the completion of town peer reviews on traffic and stormwater. The board has extended its statutory decision deadline to December 18, 2026, and will resume hearings to evaluate the traffic studies in early November.",
-      "status_as_of": "2026-10-19",
+      "last_seen": "2026-10-22",
+      "status": "Costco's proposal to construct a 167,000-square-foot retail warehouse and 30-position gas station at 21 Coslin Drive is currently under review by the Planning Board for major site plan approval and special permits, following variance approvals by the Zoning Board of Appeals in July 2026. Deliberations center on traffic generation, regional cut-through routes, and required mitigation along Route 9, with the town awaiting completed consultant peer review studies. The Planning Board extended its statutory decision deadline to December 18, 2026, and will resume the public hearing at a special meeting on November 2, 2026.",
+      "status_as_of": "2026-10-22",
       "positions": [
-        {
-          "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Reviewing major site plan and special permit applications, with decisions continued to December 18, 2026 pending consultant traffic peer reviews."
-        },
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot light poles across the site."
+          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot light poles on the site."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Currently reviewing major site plan and special permit applications pending receipt and discussion of traffic and stormwater peer reviews."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents raised concerns about traffic congestion on Route 9, neighborhood cut-through routes, truck accidents at Route 85, water pressure, and vehicle emissions."
+          "detail": "Residents raised serious concerns regarding heavy traffic congestion, cut-through traffic on Flagg Road, truck turning safety on Route 85, water pressure, and vehicle emissions."
         }
       ],
-      "next": "Planning Board special hearing on November 2, 2026",
-      "status_fingerprint": "7f55f512242663b3",
+      "next": "Planning Board special meeting and continued public hearing on November 2, 2026.",
+      "status_fingerprint": "8f23e8f374a90518",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -648,28 +669,23 @@
       "description": "Proposed zoning bylaw amendment to eliminate caps on age-restricted 55-plus developments and clarify affordability requirements.",
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-10-21",
-      "status": "The Affordable Housing Trust is drafting a revised zoning bylaw amendment to remove Southborough's 7 percent townwide cap on age-restricted units, which currently halts new senior housing. The draft under review would mandate an affordable housing component of 10 to 12.5 percent and is considering a two-acre minimum lot size to manage neighborhood density. The Planning Board withdrew an earlier iteration of the amendment in February 2026 after residents raised concerns regarding density and overall housing diversity. Next steps include review by Town Counsel and a formal presentation to the Zoning Board of Appeals before the proposal is targeted for Town Meeting.",
-      "status_as_of": "2026-10-21",
+      "last_seen": "2026-10-28",
+      "status": "The Affordable Housing Trust reached consensus on Oct 28, 2026, to advance a revised zoning amendment that removes Southborough's 7 percent townwide cap on age-restricted senior housing while establishing a two-acre minimum lot size, an eight-unit-per-acre density limit, and a 12.5 percent affordability mandate. The initiative revives an effort paused in February 2026, when the Planning Board voted unanimously to withdraw an earlier draft from the Annual Town Meeting warrant to examine community concerns over density and housing diversity. Trust members are still discussing enforcement details and fractional payment alternatives for required affordable units. The Trust plans to present the draft to the Planning Board, Zoning Board of Appeals, and Select Board in late November or early December 2026 ahead of a future Town Meeting.",
+      "status_as_of": "2026-10-28",
       "positions": [
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Supports eliminating the 7 percent cap on senior developments and is drafting bylaw revisions to mandate 10 to 12.5 percent affordability."
+          "detail": "Reached consensus on Oct 28, 2026, to endorse Option 2, which eliminates the 7 percent elderly housing cap and requires 12.5 percent affordable units."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Voted 5-0 in February 2026 to withdraw the bylaw from the Town Meeting warrant for further study after hearing community concerns about density."
-        },
-        {
-          "body": "Public comment",
-          "stance": "mixed",
-          "detail": "Residents raised concerns earlier in the year regarding development density, townwide housing diversity, and whether inclusionary zoning would be a better mechanism."
+          "detail": "Voted 5-0 in February 2026 to withdraw an earlier draft from the warrant for further study following resident concerns regarding density and townwide housing diversity."
         }
       ],
-      "next": "",
-      "status_fingerprint": "49a70e9789c586f0",
+      "next": "Presentations of the draft bylaw to the Planning Board, Zoning Board of Appeals, and Select Board in late November or early December 2026.",
+      "status_fingerprint": "158ee5112fed06c6",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -940,33 +956,28 @@
       "description": "Proposal to transition the town clerk from an elected office to an appointed position, including interim clerk appointments.",
       "category": "Governance & committees",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-10-06",
-      "status": "Amy Berry is serving as interim town clerk through May 11, 2027, following the retirement of Jim Hegarty. The Select Board and Advisory Committee both support permanently converting the position from an elected office to a three-year appointment, citing the growing technical complexity of election administration and the ability to recruit outside town borders. Some committee members and residents have raised concerns regarding Select Board removal authority and the loss of direct voter accountability at the ballot box. Final enactment requires Town Meeting approval followed by either a local ballot question or a special act of the legislature, with a ballot vote scheduled for the May 11, 2027 town election.",
-      "status_as_of": "2026-09-16",
+      "last_seen": "2026-10-23",
+      "status": "A home rule petition to convert the town clerk from an elected office to an appointed position is pending at the state legislature after the Select Board voted on October 23, 2026, to formally urge state Representative Kate Donaghue to advance the bill. Amy Berry currently serves as interim town clerk under an appointment running through May 11, 2027, filling the vacancy left by retired clerk Jim Hegarty. Town Meeting previously approved the transition, which voters could finalize either through special state legislation or an upcoming town election ballot question.",
+      "status_as_of": "2026-10-23",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 15 to recommend the transition article, having unanimously appointed Amy Berry as interim town clerk through May 2027."
+          "detail": "Voted 5-0 on October 23, 2026, to send a letter urging the state legislature to advance the special act making the position appointed."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on Sep 16 to recommend approval of Article 1, citing the role's technical demands and the advantage of recruiting beyond Southborough."
-        },
-        {
-          "body": "Special Town Meeting",
-          "stance": "support",
-          "detail": "Voted by majority on Apr 11 to convert the town clerk to an appointed office, rejecting an amendment to bar petitioning the legislature for a special act."
+          "detail": "Voted 6-0 on September 16, 2026, to recommend making the clerk appointed, citing the role's technical complexity and the need for a wider hiring pool."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents debated whether complex election statutes require professional appointment or if the position should remain directly accountable to voters at the ballot box."
+          "detail": "Residents speaking at Town Meeting split between emphasizing the technical expertise required for modern elections and insisting voters should continue choosing the clerk at the ballot box."
         }
       ],
-      "next": "Annual town election ballot question on May 11, 2027.",
-      "status_fingerprint": "cf9d91f7b8a09e82",
+      "next": "Annual Town Election ballot question on May 11, 2027.",
+      "status_fingerprint": "8a914acd8ef88f9c",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -1193,6 +1204,27 @@
       "status_fingerprint": "826cc028a14be02f",
       "status_model": "gemini-3.8-flash"
     },
+    "commercial-drone-delivery-oversight": {
+      "id": "commercial-drone-delivery-oversight",
+      "name": "Commercial drone delivery oversight",
+      "description": "Town review and regional advocacy concerning federal permitting and community impacts of Amazon commercial drone deliveries.",
+      "category": "Public safety",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-23",
+      "status": "The Select Board voted unanimously on October 23, 2026, to join neighboring communities in signing a joint letter to the Federal Aviation Administration and Amazon requesting more study, public meetings, and data before commercial drone deliveries launch. Members cited concerns regarding potential noise, emergency service call volume surges, and environmental trade-offs compared to delivery vans. The letter will be executed by either the board chair or the town administrator.",
+      "status_as_of": "2026-10-23",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on Oct 23 to sign a joint letter urging the FAA and Amazon to conduct further study and public meetings before launching drone deliveries."
+        }
+      ],
+      "next": "",
+      "significance": 3,
+      "status_fingerprint": "64df7d2f9b0701f9",
+      "status_model": "gemini-3.8-flash"
+    },
     "community-preservation-appropriations": {
       "id": "community-preservation-appropriations",
       "name": "Community Preservation statutory appropriations",
@@ -1298,24 +1330,24 @@
       "description": "Annual transfer of Community Preservation Act funds to support the Southborough Affordable Housing Trust.",
       "category": "Housing",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-04-11",
-      "status": "Town Meeting approved the transfer of $61,000 in Community Preservation Act funds to the Southborough Affordable Housing Trust on April 11, 2026. The funds match recurring housing allocations to support local affordable housing development following a larger allocation the prior year. No further town approvals or actions are pending for this transfer.",
-      "status_as_of": "2026-04-11",
+      "last_seen": "2026-10-28",
+      "status": "Following Town Meeting's approval of a $61,000 transfer in April 2026, the Affordable Housing Trust is pursuing its next Community Preservation Act funding allocation. The application is currently under review by the Community Preservation Committee, which raised minor questions regarding survey data. Trust staff and members are preparing the updated data while coordinating with MassHousing Partnership on technical assistance and project financing.",
+      "status_as_of": "2026-10-28",
       "positions": [
+        {
+          "body": "Affordable Housing Trust",
+          "stance": "support",
+          "detail": "Submitted a CPA funding application and is gathering updated survey data to answer technical review questions."
+        },
         {
           "body": "Town Meeting",
           "stance": "support",
-          "detail": "Approved Article 25 by majority vote on April 11, 2026, authorizing the $61,000 transfer."
-        },
-        {
-          "body": "Community Preservation Committee",
-          "stance": "support",
-          "detail": "Moved Article 25 at Town Meeting to allocate $61,000 to support local affordable housing development."
+          "detail": "Voted by majority on April 11, 2026, to approve Article 25 transferring $61,000 to the trust."
         }
       ],
       "next": "",
       "significance": 3,
-      "status_fingerprint": "8b30afd5d73e7ea3",
+      "status_fingerprint": "baa860aced4b89f8",
       "status_model": "gemini-3.8-flash"
     },
     "cpa-project-signage-program": {
@@ -1689,18 +1721,18 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "status": "The FY28 capital improvement plan is currently under review by the Capital Improvement and Planning Committee as it vets preliminary departmental requests. The committee is gathering details and scheduling presentations from department heads, including inquiries into police camera lease obligations, facilities maintenance funding, and department vehicle schedules. The committee is scheduled to present its capital plan to the Select Board and Advisory Committee on December 1, 2026.",
+      "status": "The fiscal year 2028 capital budget remains under review as the Capital Improvement and Planning Committee evaluates initial departmental requests. The committee is seeking additional documentation, vehicle inventories, and presentations from department heads to clarify lease commitments, maintenance categorizations, and replacement schedules. Committee deliberations will continue ahead of a scheduled joint presentation to the Select Board and Advisory Committee in December.",
       "status_as_of": "2026-10-19",
       "positions": [
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Currently evaluating FY28 departmental requests and requesting additional documentation and department head appearances before formulating recommendations."
+          "detail": "Currently vetting departmental submissions and requesting explanatory memos, cost quotes, and department head appearances before finalizing recommendations."
         }
       ],
-      "next": "Capital Improvement and Planning Committee presentation to the Select Board and Advisory Committee on December 1, 2026",
+      "next": "Capital Improvement and Planning Committee meeting on November 2, 2026",
       "significance": 4,
-      "status_fingerprint": "143b85d76ebea9e8",
+      "status_fingerprint": "5d36b894e2f95c98",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -1710,57 +1742,57 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
       "last_seen": "2026-10-20",
-      "status": "Southborough town departments have submitted preliminary FY28 budget requests under instructions from the Select Board and Advisory Committee to model both level services and level-funded reduction scenarios. Facing a projected structural deficit exceeding $2 million that would deplete remaining levy capacity, officials are considering a multi-year Proposition 2 1/2 operational override to maintain town services. While department boards have approved baseline requests with memos warning of staff and service reductions if an override fails, Advisory Committee members have urged stricter spending controls and alternative relief. The Select Board and Advisory Committee will hold a joint meeting to begin reviewing departmental budgets on November 4, 2026.",
+      "status": "Facing an anticipated operating deficit exceeding $2 million and limited excess levy capacity, town officials are planning the FY28 budget around two scenarios: level services or level dollar funding if a Proposition 2 1/2 operational override fails. The Select Board has explored proposing a multi-year override of up to $10 million, while the Advisory Committee has urged caution and recommended exploring stricter spending controls or a hiring freeze. Town departments have submitted their requests—with several warning of staffing and service reductions under non-override budgets—ahead of joint budget reviews in November.",
       "status_as_of": "2026-10-20",
       "positions": [
         {
           "body": "Select Board",
-          "stance": "support",
-          "detail": "Set dual-submission budget guidelines with Advisory and is exploring a multi-year operational override of up to $10 million to address a projected $2 million FY28 deficit."
+          "stance": "undecided",
+          "detail": "Agreed with the Advisory Committee on guidelines requiring two-track budget submissions while exploring a potential multi-year operational override of up to $10 million to address projected deficits."
         },
         {
           "body": "Advisory Committee",
           "stance": "mixed",
-          "detail": "Urged caution regarding large multi-year overrides, advocating for productivity reviews, a potential hiring freeze, and debt-exclusion borrowing for pension liabilities before seeking tax increases."
+          "detail": "Urged caution regarding a large multi-year override, suggesting the town evaluate hiring freezes, position backfills, and alternative pension borrowing mechanisms before asking voters for additional taxes."
         },
         {
           "body": "Board of Health",
           "stance": "support",
-          "detail": "Voted 3-0 on Oct 20 to approve its $329,835 budget request alongside an explanatory memo warning that level funding would close the office on Fridays, cut staff hours, and reduce flu clinics."
-        },
-        {
-          "body": "Southborough School Committee",
-          "stance": "support",
-          "detail": "Voted 5-0 on Oct 14 to approve its FY28 budget priorities to guide the administration in drafting the school department operating budget."
+          "detail": "Voted 3-0 on Oct 20 to approve its $329,835 budget request alongside an alternate $317,292 scenario that would reduce staff hours and delay septic reviews if an override fails."
         },
         {
           "body": "Library Board of Trustees",
           "stance": "support",
-          "detail": "Voted 6-0 on Oct 5 to approve its FY28 operating budget, warning that an override failure would eliminate public programming and require steep reductions to subscriptions and materials."
+          "detail": "Voted 6-0 on Oct 5 to approve its FY28 operating budget, expressing concern that a failed override would eliminate programming and risk compliance with state materials spending ratios."
+        },
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Voted 5-0 on Oct 14 to approve FY28 budget priorities directing administration in building the preliminary school budget."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to approve a $4,250 operating budget request after clarifying trail mowing allocations with the Department of Public Works."
+          "detail": "Voted unanimously on Oct 7 to approve a $4,250 operating budget request after resolving questions regarding trail mowing contracts."
         },
         {
           "body": "Conservation Commission",
-          "stance": "oppose",
-          "detail": "Expressed frustration on Sep 17 that town reduction guidelines would penalize small departments by forcing cutbacks to the conservation agent's hours, deferring a vote to draft an explanatory memo."
+          "stance": "undecided",
+          "detail": "Postponed a formal budget vote on Sep 17, voicing strong frustration that town guidance for a non-override scenario would require cutting 125 hours from the conservation agent position."
         },
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Voted 4-0 on Sep 8 to recommend a 5 percent overall FY28 salary adjustment, combining a 3 percent cost-of-living increase with a 2 percent step increase."
+          "detail": "Voted 4-0 on Sep 8 to recommend a 5% total FY28 salary adjustment, combining a 3% cost-of-living adjustment with a 2% step increment."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents voiced diverse suggestions on override strategy in July, recommending clearer framing around levy capacity, departmental consolidations, or retaining traditional line-item budget presentations to preserve voter trust."
+          "detail": "Residents suggested consolidating departmental budgets into broader functional areas, cautioned against altering traditional line-item presentations during an override year, and noted options for contingent budgets."
         }
       ],
-      "next": "Joint Select Board and Advisory Committee initial FY28 budget review meeting on November 4, 2026",
-      "status_fingerprint": "5569abf71e790836",
+      "next": "Joint Select Board and Advisory Committee initial FY28 budget review on November 4, 2026",
+      "status_fingerprint": "9057b370b9967e67",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -2610,43 +2642,43 @@
       "description": "Scope, wetland crossing design, and construction funding for Phase 2 of the Peninsula Trail.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
-      "last_seen": "2026-10-08",
-      "status": "Town Meeting approved Article 4, authorizing $217,318 in additional Community Preservation Act funds and repurposing $211,232 in prior funding to construct a 65-foot prefabricated pedestrian footbridge along Route 30. The project passed despite opposition from the Select Board and Advisory Committee, who criticized the $428,550 total budget and high contingency allowances amid municipal operating budget pressures. Backed by the Trails Committee, Community Preservation Committee, Recreation Commission, and Conservation Commission, the bridge is framed as an essential safety connection between regional trail networks. To offset CPA spending, the Trails Committee plans to apply for state grant funding before construction moves toward a December 2029 completion deadline.",
-      "status_as_of": "2026-10-08",
+      "last_seen": "2026-10-29",
+      "status": "Town Meeting approved Article 4, authorizing up to $428,550 in Community Preservation Act funds to construct a prefabricated pedestrian footbridge connecting sections of the Peninsula Trail. The measure passed despite opposition from the Select Board and Advisory Committee, who criticized the overall expense and per-foot cost. With construction funding secured, the Trails Committee is exploring roadway crossing improvements with the DPW and MassDOT and preparing a state grant application to offset town costs.",
+      "status_as_of": "2026-10-29",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Sponsored Article 4 to resolve a pedestrian safety hazard on Route 30, with plans to pursue grant reimbursements to lower net town costs."
+          "detail": "Promoted the project to eliminate pedestrian hazards along Route 30 and celebrated the funding approval at Town Meeting."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed, maintaining contingency controls and a requirement to seek matching grant funds."
-        },
-        {
-          "body": "Select Board",
-          "stance": "oppose",
-          "detail": "Voted 1-4 on Sep 24 against supporting the article, questioning the roughly $5,000-per-foot bridge cost amid town operating budget strains."
+          "detail": "Voted 3-2 on Oct 8 to advance the warrant article for $217,318 in additional CPA funds without stripping project contingencies."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 to recommend against approval, citing sticker shock over the $428,550 total cost and questioning contingency sizing."
+          "detail": "Voted 0-7 on Sep 16 against recommending Article 4, citing high contingency amounts and per-foot project costs."
+        },
+        {
+          "body": "Select Board",
+          "stance": "oppose",
+          "detail": "Voted 1-4 on Sep 24 against supporting the article, citing concerns over high costs amid operating budget pressures."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on Jun 25 to send a letter of support for the revised footbridge-only CPA application under its active permit."
+          "detail": "Voted 5-0 on Jun 25 to send a letter supporting the revised bridge-only CPA application."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted 3-0 on Jun 30 to submit a letter of support for the revised CPA application connecting local and regional trails."
+          "detail": "Voted 3-0 on Jun 30 to submit a letter of support for the Trails Committee's funding request."
         }
       ],
-      "next": "MassTrails grant application deadline on February 1, 2027.",
-      "status_fingerprint": "caaba5d90b887065",
+      "next": "MassTrails Grant application deadline on February 1, 2027.",
+      "status_fingerprint": "c0864fdc21b9f7b3",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3056,22 +3088,22 @@
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-04-20",
       "last_seen": "2026-10-22",
-      "status": "The Wastewater Study Committee is drafting framework documents for District Improvement Financing along Route 9, targeting the 2027 Annual Town Meeting after deferring a fall 2026 presentation. On October 22, the committee approved a pro bono land analysis to evaluate potential disposal sites, following state confirmation that watershed discharge permitting is legally viable. Main open questions include identifying the 15 to 20 acres needed for leaching fields and deciding whether to separate geographic district designation from full engineering plans to reduce upfront consultant costs.",
+      "status": "Southborough's proposed $40 million to $50 million Route 9 commercial wastewater system is in preliminary planning and site screening, with the Wastewater Study Committee now targeting the spring 2027 Annual Town Meeting. The committee is working in-house on District Improvement Financing framework documents and partnering with an analytics firm on pro bono parcel siting. Key hurdles remain identifying 15 to 20 acres of suitable ground for leaching fields and securing the required engineering and financial projections ahead of any formal vote.",
       "status_as_of": "2026-10-22",
       "positions": [
         {
           "body": "Wastewater Study Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on Oct 22 to begin a pro bono parcel siting study and is drafting District Improvement Financing framework documents for 2027."
+          "detail": "Voted 6-0 on Oct 22 to partner with Artefacts AI for pro bono parcel evaluation and is drafting District Improvement Financing documents for 2027."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 on June 16 to reallocate $30,000 in surplus funds for financial modeling and voted 4-0-1 in April to extend the planning committee through June 2027."
+          "detail": "Voted 4-1 on June 16 to reallocate $30,000 for DIF financial modeling, having previously extended the planning committee's charge through June 2027."
         }
       ],
-      "next": "",
-      "status_fingerprint": "1dc811fb64285780",
+      "next": "Wastewater Study Committee meeting on December 3, 2026.",
+      "status_fingerprint": "aebfb9d1186a1485",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -4031,38 +4063,38 @@
       "description": "Proposed zoning bylaw amendment for Town Meeting to eliminate the requirement that a single-family dwelling exist for two years before converting to a two-family home.",
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-21",
-      "status": "The proposed zoning bylaw amendment to ease restrictions on two-family conversions and construction failed at Town Meeting, winning a simple majority of 85-80 but falling short of the required two-thirds threshold. While backed by the Select Board and Planning Board, the proposal was opposed by the Advisory Committee over concerns regarding neighborhood density and investor teardowns of starter homes. On October 21, the Zoning Board of Appeals agreed by consensus to halt local bylaw efforts and wait for pending state legislation that would permit two-family housing by right, rather than bringing a revised article to the spring town meeting.",
-      "status_as_of": "2026-10-21",
+      "last_seen": "2026-10-28",
+      "status": "The proposed zoning bylaw amendment to ease restrictions on two-family home conversions was defeated at Special Town Meeting after an 85-80 vote fell short of the required two-thirds majority. While the Select Board, Planning Board, and Affordable Housing Trust backed the measure, the Advisory Committee opposed it over density and municipal impact concerns. Rather than bringing a revised bylaw to the spring town meeting, the Zoning Board of Appeals reached consensus to pause local action and await pending state legislation that could permit two-family housing by right.",
+      "status_as_of": "2026-10-28",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Sponsored the amendment, but reached consensus on Oct 21 to wait for pending state housing legislation rather than reintroducing a local article in the spring."
+          "detail": "Sponsored the amendment and voted unanimously on Oct 7 to advance it, but agreed by consensus on Oct 21 to wait for state action rather than reintroduce a town article in the spring."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Sep 24 to recommend approval at Special Town Meeting to encourage more diverse housing options."
+          "detail": "Voted 5-0 on Sep 24 to recommend approval of the revised article at Special Town Meeting."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 3-4 on Sep 16 to recommend against the article, citing concerns over neighborhood density, property flipping, and strain on town services."
+          "detail": "Voted 3-4 on Sep 16 against recommending approval, citing concerns about neighborhood density, property flipping, and school and septic impacts."
         },
         {
-          "body": "Planning Board",
+          "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Supported the article after holding public hearings through Sep 28 to refine definitions and lot size wording."
+          "detail": "Discussed the article's defeat on Oct 28, citing voter confusion and emphasizing the ongoing need for public education on diverse housing options."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Supporters argued the change would provide diverse options for downsizers and young families, while opponents warned it would spur investor teardowns of starter homes without ensuring affordability."
+          "detail": "At Town Meeting, opponents warned that removing conversion limits would prompt investor teardowns of starter homes, while supporters highlighted the need for diverse housing for young families and downsizers."
         }
       ],
       "next": "",
-      "status_fingerprint": "c8de679cb80fe624",
+      "status_fingerprint": "7cd848420cba5bd3",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },

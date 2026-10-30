@@ -3914,12 +3914,16 @@
       "published_at": "2026-10-29T15:51:53Z",
       "duration_s": 4655,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-10-29T17:33:19Z",
-      "week": "2026-10-26"
+      "week": "2026-10-26",
+      "meeting_date": "2026-10-28",
+      "processed_at": "2026-10-30T17:18:17Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "cBDLNnsM8Wc": {
       "id": "cBDLNnsM8Wc",
@@ -3938,6 +3942,57 @@
       "processed_at": "2026-10-29T17:34:11Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "a-1YCw92kfQ": {
+      "id": "a-1YCw92kfQ",
+      "title": "Trails Committee 10/29/26",
+      "description": "",
+      "published_at": "2026-10-30T13:21:06Z",
+      "duration_s": 5970,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-30T17:15:31Z",
+      "meeting_date": "2026-10-29",
+      "week": "2026-10-26",
+      "processed_at": "2026-10-30T17:16:58Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "adxq_WvG6Z0": {
+      "id": "adxq_WvG6Z0",
+      "title": "Select Board Meeting 10/23/26",
+      "description": "",
+      "published_at": "2026-10-30T13:08:43Z",
+      "duration_s": 718,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-10-30T17:15:31Z",
+      "meeting_date": "2026-10-23",
+      "week": "2026-10-19",
+      "processed_at": "2026-10-30T17:17:26Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "oLG_EqZepT0": {
+      "id": "oLG_EqZepT0",
+      "title": "Regional School Committee Meeting / October 29, 2026",
+      "description": "",
+      "published_at": "2026-10-30T15:49:25Z",
+      "duration_s": 1679,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
+      "attempts": 0,
+      "discovered_at": "2026-10-30T17:15:33Z",
+      "meeting_date": "2026-10-29",
+      "week": "2026-10-26"
     }
   },
   "usage": {
@@ -4076,12 +4131,20 @@
       "output_tokens": 5773,
       "thought_tokens": 40682,
       "tool_use_tokens": 0
+    },
+    "2026-10-30": {
+      "video_minutes": 190,
+      "calls": 19,
+      "input_tokens": 598055,
+      "output_tokens": 19026,
+      "thought_tokens": 49834,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-10-29T17:33:19Z",
-    "discovered": 29,
-    "summarized": 1,
+    "at": "2026-10-30T17:15:30Z",
+    "discovered": 31,
+    "summarized": 3,
     "refreshed": 0,
     "errors": 0
   }
