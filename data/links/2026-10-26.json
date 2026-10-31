@@ -1,6 +1,6 @@
 {
   "week": "2026-10-26",
-  "fingerprint": "15d1a21a1696fd10",
+  "fingerprint": "17266e34670d124e",
   "topics": {
     "a-1YCw92kfQ#0": {
       "issue": null,
@@ -15,7 +15,7 @@
       "category": "Parks, trails & recreation"
     },
     "a-1YCw92kfQ#3": {
-      "issue": null,
+      "issue": "peninsula-trail-phase-1",
       "category": "Parks, trails & recreation"
     },
     "a-1YCw92kfQ#4": {
@@ -42,13 +42,41 @@
       "issue": "classroom-interactive-touch-displays",
       "category": "Schools"
     },
+    "oLG_EqZepT0#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "oLG_EqZepT0#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "oLG_EqZepT0#2": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "oLG_EqZepT0#3": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "oLG_EqZepT0#4": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "oLG_EqZepT0#5": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "oLG_EqZepT0#6": {
+      "issue": null,
+      "category": "Schools"
+    },
     "vMTungilx60#0": {
       "issue": null,
       "category": "Governance & committees"
     },
     "vMTungilx60#1": {
       "issue": "two-family-zoning-amendment",
-      "category": "Zoning & development"
+      "category": "Housing"
     },
     "vMTungilx60#2": {
       "issue": null,
@@ -67,8 +95,8 @@
       "category": "Housing"
     },
     "vMTungilx60#6": {
-      "issue": null,
-      "category": "Housing"
+      "issue": "town-website-redesign",
+      "category": "Staffing & operations"
     },
     "vMTungilx60#7": {
       "issue": null,
@@ -76,8 +104,26 @@
     }
   },
   "votes": {
-    "vMTungilx60#v0": {
+    "oLG_EqZepT0#v0": {
       "issue": null
+    },
+    "oLG_EqZepT0#v1": {
+      "issue": null
+    },
+    "oLG_EqZepT0#v2": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "oLG_EqZepT0#v3": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "oLG_EqZepT0#v4": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "oLG_EqZepT0#v5": {
+      "issue": null
+    },
+    "vMTungilx60#v0": {
+      "issue": "town-website-redesign"
     },
     "vMTungilx60#v1": {
       "issue": null
@@ -108,9 +154,17 @@
       "date": "2026-12-15",
       "issue": null
     },
+    "oLG_EqZepT0#u0": {
+      "date": "2026-10-30",
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "oLG_EqZepT0#u1": {
+      "date": null,
+      "issue": null
+    },
     "vMTungilx60#u0": {
       "date": "2026-11-04",
-      "issue": null
+      "issue": "town-website-redesign"
     },
     "vMTungilx60#u1": {
       "date": null,
@@ -118,5 +172,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-30T17:23:25Z"
+  "generated_at": "2026-10-31T16:21:52Z"
 }

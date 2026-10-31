@@ -1,0 +1,201 @@
+{
+  "video": {
+    "id": "oLG_EqZepT0",
+    "title": "Regional School Committee Meeting / October 29, 2026",
+    "published_at": "2026-10-30T15:49:25Z",
+    "duration_s": 1679
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Northborough-Southborough Regional School Committee",
+    "meeting_date": "2026-10-29",
+    "headline": "The Regional School Committee re-voted a revised $31.52 million FY27 budget reflecting increased state aid and slight assessment decreases.",
+    "summary": "Meeting remotely following an earlier postponement due to a town website outage, the Northborough-Southborough Regional School Committee took action on several required fiscal items. The committee approved first-quarter financial reports, accepted over $23,000 in grants and donations, and certified an Excess and Deficiency balance of $1.13 million. The committee also re-voted the FY27 regional budget at $31,521,177 to incorporate additional Chapter 70 state aid and slightly lower assessments for Northborough and Southborough.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved past meeting minutes and the chair explained that the meeting had been rescheduled from October 21 because the town of Northborough website was down for more than six hours, conflicting with Open Meeting Law posting requirements.",
+        "key_details": [
+          "Approved open meeting minutes of September 16, 2026.",
+          "Approved joint open meeting minutes of the operational budget and capital planning subcommittees of October 7, 2026.",
+          "Meeting adjourned at 4:58 p.m."
+        ],
+        "outcome": "Minutes approved unanimously; meeting adjourned.",
+        "why_it_matters": null,
+        "start_seconds": 48,
+        "end_seconds": null
+      },
+      {
+        "title": "Unified Basketball Team overnight field trip to Bath, Maine",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "High School Principal Sean Bevan presented a request for the Algonquin Regional High School Unified Basketball team to take an overnight field trip to Bath, Maine on December 5-6, 2026. The trip reciprocates a visit hosted last year and includes students with and without disabilities, with appropriate medical and family accommodations in place.",
+        "key_details": [
+          "Travel to Bath, Maine scheduled for December 5-6, 2026.",
+          "Reciprocal visit following a homestay visit hosted by Algonquin last year.",
+          "Includes students with and without disabilities.",
+          "Students with complex medical or behavioral profiles will travel and stay with family."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 102,
+        "end_seconds": null
+      },
+      {
+        "title": "Grants and donations approval",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee reviewed and voted to accept several state grant funds and private donations supporting high school STEM and robotics activities.",
+        "key_details": [
+          "DESE FY27 Innovation Career Pathways Planning Grant of $15,000.",
+          "Donation to ARHS Science Olympiad Club from New England Robotics Association of $800.",
+          "Donation to the Robotics Club from Intel Corporation of $350.",
+          "Scientific consumables donation to the ARHS Science Department from Wave Life Sciences valued at $6,940."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 228,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 first-quarter financial reports and line item transfers",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "School finance administration reviewed the first-quarter FY27 reports as of September 30, 2026. The district holds a bottom-line ending balance of approximately $1.2 million (4.01% of the operational budget), and administrative transfers were completed to address an overexpenditure in separation costs due to early retirement incentives.",
+        "key_details": [
+          "General fund ending balance of $1.2 million represents 4.01% of the operating budget.",
+          "Separation costs ran approximately $10,000 over budget due to late early-retirement incentive submittals, covered by teacher salary balances.",
+          "First-quarter circuit breaker receipts totaled $300,676 for tuition.",
+          "Overall revenue receipts stood at 24.31% of the annual projection."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 340,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 Excess and Deficiency certification",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The Massachusetts Department of Revenue Division of Local Services certified the district's Excess and Deficiency (E&D) balance as of July 1, 2026, at $1,130,337. The certified fund represents 3.37% of the operating budget, remaining within school committee policy limits.",
+        "key_details": [
+          "Certified E&D amount is $1,130,337.",
+          "Represents 3.37% of the total operating budget.",
+          "Vote approved subject to the final annual audit of June 30, 2026 balance sheet figures."
+        ],
+        "outcome": "Approved unanimously subject to audit.",
+        "why_it_matters": null,
+        "start_seconds": 750,
+        "end_seconds": null
+      },
+      {
+        "title": "FY27 budget re-vote and revised town assessments",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee re-voted the FY27 regional school budget to incorporate a state increase in Chapter 70 aid to $160 per student, yielding an additional $104,890 for the district. The additional state funding is applied toward special education transportation, and revised permanent debt bonding figures for the athletic complex resulted in slightly decreased final assessments for both member towns.",
+        "key_details": [
+          "Revised total budget set at $31,521,177.",
+          "Chapter 70 aid increased to $3,871,056 (an increase of about $104,000).",
+          "Northborough assessment decreased from $17,121,000 to $17,106,241.",
+          "Southborough assessment decreased from $10,733,000 to $10,731,901.",
+          "Towns have a statutory 45-day window to respond, though assessments decreased."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": "The re-vote sets the final FY27 municipal assessments for Southborough and Northborough, slightly reducing Southborough's regional assessment to $10,731,901 while directing extra state aid into special education transit.",
+        "start_seconds": 936,
+        "end_seconds": null
+      },
+      {
+        "title": "Policy J-220: Medication Administration in Schools",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee held a second reading and considered final adoption of updated district policy J-220 regarding medication administration in schools. The revised policy had previously been vetted by legal counsel and reviewed through the district's policy development process.",
+        "key_details": [
+          "Second reading of School Committee Policy J-220.",
+          "Updates district procedures for administering medications in school buildings.",
+          "Reviewed and vetted by district legal counsel."
+        ],
+        "outcome": "Adopted unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 1428,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve the Algonquin Regional High School Unified Basketball team overnight field trip to Bath, Maine on December 5-6, 2026.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 204
+      },
+      {
+        "motion": "Accept the four listed grants and donations totaling $23,090.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 318
+      },
+      {
+        "motion": "Approve the FY27 budget line item transfers, monthly general fund expenditure report, and statement of revenue.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 726
+      },
+      {
+        "motion": "Approve the FY27 Excess and Deficiency certification in the amount of $1,130,337, subject to audit.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 914
+      },
+      {
+        "motion": "Approve a revised FY27 budget in the amount of $31,521,177 based on increased Chapter 70 allocations, and direct the treasurer to issue revised assessments to Northborough and Southborough reflecting the revised budget and updated debt assessments.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1390
+      },
+      {
+        "motion": "Adopt Policy J-220 on Medication Administration in Schools.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 1501
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "District treasurer will send official letters with revised assessments to Northborough and Southborough",
+        "when": "October 30, 2026"
+      },
+      {
+        "what": "Next regular Regional School Committee meeting including presentation by the APTO",
+        "when": "November 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-10-31T16:20:58Z",
+  "usage": {
+    "total_tokens": 68633,
+    "total_input_tokens": 65135,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 985
+      },
+      {
+        "modality": "video",
+        "tokens": 64150
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2402,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1096,
+    "initial_input_tokens": 76526
+  }
+}

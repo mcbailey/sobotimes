@@ -1626,19 +1626,19 @@
       "description": "Operating budget planning, reserve transfers, and capital assessments for the Northborough-Southborough Regional School District for fiscal year 2027.",
       "category": "Schools",
       "first_seen": "2026-02-23",
-      "last_seen": "2026-03-18",
-      "status": "The Northborough-Southborough Regional School Committee approved a $31,416,287 FY27 operating budget—a 5.81 percent increase over FY26—supported by a $477,000 capital assessment and a $675,000 reserve transfer. Following an uncontested March 2026 public hearing, the budget was scheduled for Annual Town Meetings in both Southborough and Northborough. District officials were also monitoring state legislative proposals that could boost regional transportation and special education reimbursements, though town meeting outcomes are not yet recorded.",
-      "status_as_of": "2026-03-18",
+      "last_seen": "2026-10-29",
+      "status": "The Regional School Committee unanimously approved a revised $31,521,177 FY27 operating budget on October 29, 2026, incorporating an additional $104,890 in state Chapter 70 aid for special education transportation. The update, paired with finalized athletic complex debt figures, slightly reduced Southborough's assessment to $10,731,901. Both member towns have a statutory 45-day window to respond to the revised assessment notices.",
+      "status_as_of": "2026-10-29",
       "positions": [
         {
           "body": "Northborough-Southborough Regional School Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on Feb 25, 2026 to approve the operating budget, capital assessment, and reserve transfer."
+          "detail": "Voted unanimously on Oct 29 to adopt the revised $31,521,177 budget and lower town assessments following an increase in Chapter 70 aid."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "af8fecfa2e5df99c",
+      "status_fingerprint": "5af8deb6f416c3eb",
       "status_model": "gemini-3.8-flash"
     },
     "fy27-road-paving-contracts": {
@@ -2621,19 +2621,19 @@
       "description": "Closeout and accounting of CPA-funded trailheads, parking, and interpretive signs for Peninsula Trail Phase 1, including transferring unspent funds.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-04-09",
-      "status": "Work on Peninsula Trail Phase 1 is complete, including new trailhead kiosks, interpretive signs, and paved parking. The Trails Committee is working to formally close out the Community Preservation Act project after town counsel advised that the project must be closed before Town Meeting can reallocate an unspent $47,000 balance to Phase 2. The next step is presenting closeout documentation to the Community Preservation Committee.",
-      "status_as_of": "2026-04-09",
+      "last_seen": "2026-10-29",
+      "status": "The Trails Committee is working to close out Phase 1 of the Peninsula Trail following the completion of trailheads, parking, and signage. Town counsel advised that the project must be formally closed out before an unspent balance of $47,000 in Community Preservation Act funds can be reallocated to Phase 2 at a future Town Meeting. In the meantime, the committee is coordinating with state agencies on additional benches and educational signage funded by a Choate Fund grant.",
+      "status_as_of": "2026-10-29",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Supports formally closing out Phase 1 so $47,000 in unspent CPA funds can be repurposed for Phase 2 at a future Town Meeting."
+          "detail": "Supports completing the Phase 1 closeout so the remaining $47,000 in CPA funds can be repurposed for Phase 2 at Town Meeting."
         }
       ],
       "next": "",
       "significance": 3,
-      "status_fingerprint": "ce75095985a4a33f",
+      "status_fingerprint": "431fc5120fa4c883",
       "status_model": "gemini-3.8-flash"
     },
     "peninsula-trail-phase-2": {
@@ -3756,20 +3756,25 @@
       "description": "Redesign of the municipal website with vendor CivicPlus and consolidation of standalone departmental pages.",
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-23",
-      "status": "The town is preparing for a scheduled triennial website redesign and refresh with vendor CivicPlus, planned to kick off in October 2026. The Municipal Technology Committee is working to consolidate standalone departmental pages into the main platform, including migrating Senior Center content and assessing recreation software. Committee members have noted that the project will require dedicated communications guidance alongside technical staff to ensure consistent messaging across departments.",
-      "status_as_of": "2026-07-28",
+      "last_seen": "2026-10-28",
+      "status": "Southborough is undertaking a regular three-year municipal website refresh with vendor CivicPlus, working to consolidate standalone departmental sites into the main platform. The Municipal Technology Committee is examining user analytics, departmental migrations, and communications staffing needs to guide the overhaul. Meanwhile, the Affordable Housing Trust has requested authorization to add dedicated municipal pages for public education and property donation outreach. The Select Board is expected to consider that request at its upcoming meeting.",
+      "status_as_of": "2026-10-28",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Supports the triennial redesign and site consolidation with CivicPlus, while emphasizing the need for professional communications expertise to manage outward content."
+          "detail": "Supports the CivicPlus overhaul and consolidation of departmental pages, while emphasizing the need for communications expertise and analytics to guide design."
+        },
+        {
+          "body": "Affordable Housing Trust",
+          "stance": "support",
+          "detail": "Voted 4-0 on Oct 28 to ask the Select Board to authorize dedicated pages on the town website for housing education and property donation outreach."
         }
       ],
-      "next": "Town IT staff kickoff meeting with CivicPlus in October 2026.",
-      "status_fingerprint": "aaa37947eddb3f38",
+      "next": "Select Board consideration of the Affordable Housing Trust's website request on November 4, 2026.",
+      "status_fingerprint": "6a1502816af14e50",
       "status_model": "gemini-3.8-flash",
-      "significance": 2
+      "significance": 3
     },
     "transfer-station-fees-and-regulations": {
       "id": "transfer-station-fees-and-regulations",
