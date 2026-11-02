@@ -1143,30 +1143,25 @@
       "description": "A comprehensive classification and compensation study evaluating 48 non-union municipal employee positions.",
       "category": "Staffing & operations",
       "first_seen": "2026-05-25",
-      "last_seen": "2026-09-08",
-      "status": "A comprehensive classification and compensation study evaluating 48 non-union municipal positions is under review, with consultant MGT finalizing data collection from peer communities. The Personnel Board has placed individual job reclassification requests on hold to evaluate all positions collectively once findings are delivered. Final recommendations are expected to come before the Annual Town Meeting in March 2027.",
-      "status_as_of": "2026-09-08",
+      "last_seen": "2026-10-30",
+      "status": "The draft classification and compensation study is under review after the Personnel Board voted to adopt a 12-grade salary schedule aligned to the 60th percentile of regional peer communities. Multiple department heads and staff members have pushed back against proposed job gradings and titles, particularly objecting to grouping diverse responsibilities under a broad Business Administrator classification. A three-member review panel will assess employee appeals submitted by late November before final recommendations are prepared for an Annual Town Meeting warrant article targeting implementation in July 2027.",
+      "status_as_of": "2026-10-30",
       "positions": [
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Overseeing the study and voted 3-1 in July to approve the peer communities list excluding Dover, while holding individual reclassifications until final results are delivered."
-        },
-        {
-          "body": "Select Board",
-          "stance": "support",
-          "detail": "Voted 5-0 on March 10 to support the warrant article authorizing the compensation study."
+          "detail": "Voted unanimously on October 30, 2026 to adopt the 60th percentile benchmark and set an employee appeals process for the proposed 12-grade plan."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "A municipal employee expressed concern in August over removing Dover from the comparable communities list, urging adherence to the consultant's independent process."
+          "detail": "Department heads and staff expressed dissatisfaction with proposed job grades, questioned discrepancies across departments, and urged the town to protect longevity and credentials."
         }
       ],
-      "next": "Presentation of study recommendations at Annual Town Meeting, March 2027",
-      "status_fingerprint": "b95311b4dc33cf6b",
+      "next": "Employee reconsideration appeal deadline on November 24, 2026.",
+      "status_fingerprint": "fa324f76b5c44c35",
       "status_model": "gemini-3.8-flash",
-      "significance": 3
+      "significance": 4
     },
     "classroom-interactive-touch-displays": {
       "id": "classroom-interactive-touch-displays",
@@ -1741,58 +1736,58 @@
       "description": "Operating budget planning, multi-year deficit forecasting, and consideration of a Proposition 2 1/2 operational override for fiscal year 2028.",
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
-      "last_seen": "2026-10-20",
-      "status": "Facing an anticipated operating deficit exceeding $2 million and limited excess levy capacity, town officials are planning the FY28 budget around two scenarios: level services or level dollar funding if a Proposition 2 1/2 operational override fails. The Select Board has explored proposing a multi-year override of up to $10 million, while the Advisory Committee has urged caution and recommended exploring stricter spending controls or a hiring freeze. Town departments have submitted their requests—with several warning of staffing and service reductions under non-override budgets—ahead of joint budget reviews in November.",
-      "status_as_of": "2026-10-20",
+      "last_seen": "2026-10-30",
+      "status": "Southborough is developing its FY28 operating budget under a projected structural deficit exceeding $2 million that threatens to exhaust its excess tax levy capacity. In response, town leadership instructed departments to submit dual budget proposals: a level-service Budget A and a level-dollar Budget B requiring operational and service cutbacks. The Select Board is weighing a multi-year Proposition 2 1/2 operational override to build levy capacity, while the Advisory Committee has urged caution and suggested tighter spending controls or borrowing for pension liabilities. Initial joint reviews of submitted departmental budgets are set to begin this week.",
+      "status_as_of": "2026-10-30",
       "positions": [
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Agreed with the Advisory Committee on guidelines requiring two-track budget submissions while exploring a potential multi-year operational override of up to $10 million to address projected deficits."
+          "detail": "Exploring a potential multi-year Proposition 2 1/2 operational override to cover projected deficits, while requiring departments to submit dual budget plans."
         },
         {
           "body": "Advisory Committee",
-          "stance": "mixed",
-          "detail": "Urged caution regarding a large multi-year override, suggesting the town evaluate hiring freezes, position backfills, and alternative pension borrowing mechanisms before asking voters for additional taxes."
-        },
-        {
-          "body": "Board of Health",
-          "stance": "support",
-          "detail": "Voted 3-0 on Oct 20 to approve its $329,835 budget request alongside an alternate $317,292 scenario that would reduce staff hours and delay septic reviews if an override fails."
-        },
-        {
-          "body": "Library Board of Trustees",
-          "stance": "support",
-          "detail": "Voted 6-0 on Oct 5 to approve its FY28 operating budget, expressing concern that a failed override would eliminate programming and risk compliance with state materials spending ratios."
+          "stance": "undecided",
+          "detail": "Advocated caution regarding multi-year overrides, recommending stricter fiscal discipline, vacancy reviews, and alternative financing for pension liabilities."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted 5-0 on Oct 14 to approve FY28 budget priorities directing administration in building the preliminary school budget."
+          "detail": "Voted 5-0 on Oct 14 to approve its FY28 budget priorities to direct administrative budget planning."
         },
         {
-          "body": "Recreation Commission",
-          "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to approve a $4,250 operating budget request after resolving questions regarding trail mowing contracts."
+          "body": "Board of Health",
+          "stance": "mixed",
+          "detail": "Approved its budget requests alongside an explanatory memo warning that level-dollar Budget B would cause office closures, cut clinics, and delay septic reviews."
+        },
+        {
+          "body": "Library Board of Trustees",
+          "stance": "mixed",
+          "detail": "Approved its budget while warning that an override failure under Budget B would eliminate programming and halve database subscriptions."
         },
         {
           "body": "Conservation Commission",
-          "stance": "undecided",
-          "detail": "Postponed a formal budget vote on Sep 17, voicing strong frustration that town guidance for a non-override scenario would require cutting 125 hours from the conservation agent position."
+          "stance": "oppose",
+          "detail": "Delayed action on its budget in frustration over town guidance requiring a 125-hour reduction to the conservation agent under Budget B."
         },
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Voted 4-0 on Sep 8 to recommend a 5% total FY28 salary adjustment, combining a 3% cost-of-living adjustment with a 2% step increment."
+          "detail": "Approved its Budget A and Budget B requests and recommended a 5% total salary adjustment for FY28."
+        },
+        {
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Voted unanimously on Oct 7 to approve its FY28 operating budget request of $4,250."
         },
         {
           "body": "Public comment",
-          "stance": "mixed",
-          "detail": "Residents suggested consolidating departmental budgets into broader functional areas, cautioned against altering traditional line-item presentations during an override year, and noted options for contingent budgets."
+          "stance": "neutral",
+          "detail": "Residents cautioned against altering traditional line-item presentation formats during an override year and suggested exploring departmental consolidations."
         }
       ],
-      "next": "Joint Select Board and Advisory Committee initial FY28 budget review on November 4, 2026",
-      "status_fingerprint": "9057b370b9967e67",
+      "next": "Joint Select Board and Advisory Committee initial FY28 budget review on November 4, 2026.",
+      "status_fingerprint": "db00bfa27620b2ae",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },

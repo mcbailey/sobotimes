@@ -1,6 +1,6 @@
 {
   "week": "2026-10-26",
-  "fingerprint": "17266e34670d124e",
+  "fingerprint": "1b841b96e410c936",
   "topics": {
     "a-1YCw92kfQ#0": {
       "issue": null,
@@ -44,7 +44,7 @@
     },
     "oLG_EqZepT0#0": {
       "issue": null,
-      "category": "Schools"
+      "category": "Governance & committees"
     },
     "oLG_EqZepT0#1": {
       "issue": null,
@@ -64,7 +64,7 @@
     },
     "oLG_EqZepT0#5": {
       "issue": "fy27-regional-school-operating-budget",
-      "category": "Schools"
+      "category": "Budget & taxes"
     },
     "oLG_EqZepT0#6": {
       "issue": null,
@@ -76,7 +76,7 @@
     },
     "vMTungilx60#1": {
       "issue": "two-family-zoning-amendment",
-      "category": "Housing"
+      "category": "Zoning & development"
     },
     "vMTungilx60#2": {
       "issue": null,
@@ -88,7 +88,7 @@
     },
     "vMTungilx60#4": {
       "issue": null,
-      "category": "Housing"
+      "category": "Budget & taxes"
     },
     "vMTungilx60#5": {
       "issue": "cpa-affordable-housing-trust-transfer",
@@ -101,6 +101,22 @@
     "vMTungilx60#7": {
       "issue": null,
       "category": "Housing"
+    },
+    "yh5A_tnRV60#0": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "yh5A_tnRV60#1": {
+      "issue": "classification-and-compensation-study",
+      "category": "Staffing & operations"
+    },
+    "yh5A_tnRV60#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "yh5A_tnRV60#3": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
     }
   },
   "votes": {
@@ -127,6 +143,18 @@
     },
     "vMTungilx60#v1": {
       "issue": null
+    },
+    "yh5A_tnRV60#v0": {
+      "issue": "classification-and-compensation-study"
+    },
+    "yh5A_tnRV60#v1": {
+      "issue": "classification-and-compensation-study"
+    },
+    "yh5A_tnRV60#v2": {
+      "issue": "classification-and-compensation-study"
+    },
+    "yh5A_tnRV60#v3": {
+      "issue": "fy28-operating-budget"
     }
   },
   "upcoming": {
@@ -169,8 +197,16 @@
     "vMTungilx60#u1": {
       "date": null,
       "issue": "55-plus-housing-bylaw"
+    },
+    "yh5A_tnRV60#u0": {
+      "date": "2026-11-24",
+      "issue": "classification-and-compensation-study"
+    },
+    "yh5A_tnRV60#u1": {
+      "date": "2026-11-30",
+      "issue": "classification-and-compensation-study"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-31T16:21:52Z"
+  "generated_at": "2026-11-02T20:58:10Z"
 }

@@ -3996,6 +3996,24 @@
       "processed_at": "2026-10-31T16:20:58Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "yh5A_tnRV60": {
+      "id": "yh5A_tnRV60",
+      "title": "Personnel Board 10/30/26",
+      "description": "",
+      "published_at": "2026-11-02T13:17:42Z",
+      "duration_s": 6755,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-02T20:53:09Z",
+      "meeting_date": "2026-10-30",
+      "week": "2026-10-26",
+      "processed_at": "2026-11-02T20:55:27Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4158,12 +4176,20 @@
       "output_tokens": 0,
       "thought_tokens": 0,
       "tool_use_tokens": 0
+    },
+    "2026-11-02": {
+      "video_minutes": 113,
+      "calls": 6,
+      "input_tokens": 358524,
+      "output_tokens": 9410,
+      "thought_tokens": 22929,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-01T17:14:55Z",
-    "discovered": 31,
-    "summarized": 0,
+    "at": "2026-11-02T20:53:08Z",
+    "discovered": 32,
+    "summarized": 1,
     "refreshed": 0,
     "errors": 0
   }

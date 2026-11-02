@@ -1,42 +1,50 @@
 {
-  "headline": "Regional school officials approved a revised budget decreasing Southborough's assessment, while the Affordable Housing Trust advanced a new senior housing zoning proposal.",
-  "synopsis": "The Northborough-Southborough Regional School Committee approved a revised $31.52 million FY27 budget, slightly reducing Southborough's assessment due to increased state Chapter 70 aid. Meanwhile, the Affordable Housing Trust advanced a draft 55-plus housing zoning bylaw and transferred approximately $1 million in idle funds to an interest-bearing account. Municipal technology officials reviewed promotion for the ongoing resident satisfaction survey and prepared for an upcoming municipal phone system migration. Additionally, the Trails Committee outlined grant outreach for 2027 trail funding and discussed roadway crossing options.",
+  "headline": "Southborough boards revised the regional school budget, benchmarked municipal employee pay scales, and advanced draft zoning rules for senior housing.",
+  "synopsis": "The Northborough-Southborough Regional School Committee re-voted a revised $31.52 million FY27 budget, slightly reducing Southborough's assessment due to increased state Chapter 70 aid. The Personnel Board voted to adopt a 60th percentile salary benchmark for non-union town staff while establishing a November 24 deadline for employee job-classification appeals. Meanwhile, the Affordable Housing Trust backed a draft zoning bylaw permitting higher-density 55-plus housing and arranged to transfer one million dollars in trust funds into an interest-bearing account. In other business, committees prepared for upcoming trail grants and promoted the town's resident satisfaction survey ahead of a November phone system cutover.",
   "highlights": [
     {
-      "title": "Revised FY27 Regional School Budget Approved",
-      "why": "The committee re-voted the $31.52 million budget to reflect an additional $104,890 in Chapter 70 state aid, reducing Southborough's assessment to $10,731,901.",
+      "title": "Regional school budget re-voted with reduced town assessment",
+      "why": "The regional school committee approved a revised $31.52 million budget that applies additional state Chapter 70 aid to lower Southborough's assessment to $10,731,901.",
       "body": "Northborough-Southborough Regional School Committee",
       "importance": "high",
       "video_id": "oLG_EqZepT0",
       "start_seconds": 936
     },
     {
-      "title": "Senior Housing Zoning Bylaw Draft Advanced",
-      "why": "The trust agreed on a draft bylaw allowing up to eight units per acre on two-acre parcels with a 12.5 percent affordability mandate, eliminating the town-wide 7 percent elderly unit cap.",
+      "title": "Personnel Board benchmarks town pay study to 60th percentile",
+      "why": "The board voted to benchmark municipal salaries to the 60th percentile of comparable towns and established a review panel for staff appeals.",
+      "body": "Personnel Board",
+      "importance": "high",
+      "video_id": "yh5A_tnRV60",
+      "start_seconds": 300
+    },
+    {
+      "title": "Draft senior housing zoning bylaw advanced",
+      "why": "The trust endorsed a draft bylaw allowing up to eight units per acre on two-acre lots with a 12.5 percent affordable requirement, lifting the town's 7 percent elderly cap.",
       "body": "Affordable Housing Trust",
       "importance": "high",
       "video_id": "vMTungilx60",
       "start_seconds": 1180
     },
     {
-      "title": "Housing Trust Balance Moved to Interest Account",
-      "why": "Approximately $1 million previously sitting in a non-interest-bearing account was shifted to an insured savings program expected to generate about $35,000 annually.",
+      "title": "Housing trust funds moved to interest-bearing account",
+      "why": "Approximately $1 million held in a non-interest account was transferred to an insured program yielding roughly 3.5 percent to earn an estimated $35,000 annually.",
       "body": "Affordable Housing Trust",
       "importance": "medium",
       "video_id": "vMTungilx60",
       "start_seconds": 2500
     },
     {
-      "title": "Outreach Begins for 2027 MassTrails Grant",
-      "why": "The committee initiated preparations to pursue a state grant of up to $100,000, focusing on curriculum partnerships with Southborough and Framingham schools.",
+      "title": "Outreach launched for 2027 MassTrails grant",
+      "why": "The committee began preparatory outreach to schools and regional partners for a state trail grant offering up to $100,000 with a 20 percent town match.",
       "body": "Trails Committee",
       "importance": "medium",
       "video_id": "a-1YCw92kfQ",
       "start_seconds": 4577
     },
     {
-      "title": "Resident Satisfaction Survey Promotion and Phone Upgrade",
-      "why": "The committee developed plans to boost survey participation before the late-November deadline and confirmed municipal offices will cut over to cloud-based phones on November 13.",
+      "title": "Promotion planned for resident satisfaction survey",
+      "why": "The committee coordinated outreach at polling places and through schools for the town survey, which covers municipal services and commercial drone sentiment.",
       "body": "Municipal Technology Committee",
       "importance": "medium",
       "video_id": "cBDLNnsM8Wc",
@@ -45,7 +53,7 @@
   ],
   "looking_ahead": [
     {
-      "what": "Trail maintenance site visit meeting starting at 11 McNeal Drive",
+      "what": "Committee trail maintenance site visit meeting at 11 McNeal Drive",
       "when": "November 2 at 7:15 a.m.",
       "body": "Trails Committee"
     },
@@ -55,24 +63,30 @@
       "body": "Select Board"
     },
     {
-      "what": "Town municipal phone system cutover and staff training",
+      "what": "Town phone system cutover and staff training",
       "when": "November 13",
       "body": "Municipal Technology Committee"
     },
     {
-      "what": "Meetings with the Planning Board and Zoning Board of Appeals to present the draft 55-plus bylaw",
-      "when": "late November or early December",
-      "body": "Affordable Housing Trust"
+      "what": "Deadline for municipal staff to submit reconsideration forms for classification and compensation review",
+      "when": "November 24, 2026",
+      "body": "Personnel Board"
+    },
+    {
+      "what": "Personnel Board virtual meeting to review reconsideration volume and schedule review meetings",
+      "when": "November 30, 2026 at 8:30 AM",
+      "body": "Personnel Board"
     }
   ],
   "week": "2026-10-26",
-  "fingerprint": "7c26db6b9bfafde3",
+  "fingerprint": "1bd336160951e39c",
   "video_ids": [
     "a-1YCw92kfQ",
     "cBDLNnsM8Wc",
     "oLG_EqZepT0",
-    "vMTungilx60"
+    "vMTungilx60",
+    "yh5A_tnRV60"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-31T16:21:25Z"
+  "generated_at": "2026-11-02T20:55:54Z"
 }

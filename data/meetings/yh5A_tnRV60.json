@@ -1,0 +1,162 @@
+{
+  "video": {
+    "id": "yh5A_tnRV60",
+    "title": "Personnel Board 10/30/26",
+    "published_at": "2026-11-02T13:17:42Z",
+    "duration_s": 6755
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Personnel Board",
+    "meeting_date": "2026-10-30",
+    "headline": "The Personnel Board accepted the 60th percentile salary benchmark for a town-wide compensation study and set a November 24 deadline for employee appeals.",
+    "summary": "MGT Consulting presented the draft findings of Southborough's Classification and Compensation Study, which proposes transitioning non-union municipal staff into a 12-grade salary structure benchmarked to the 60th percentile of comparable communities. Department heads and staff voiced substantial concerns regarding job evaluation rankings, particularly for the broad Business Administrator classification. In response, the board voted to establish a November 24 deadline for reconsideration requests and formed a review panel to examine employee appeals before final adoption. The board also voted to approve its FY28 operating budget requests.",
+    "topics": [
+      {
+        "title": "Classification and compensation study presentation and benchmark",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Consultant Katy Yee of MGT presented the draft Classification and Compensation Study covering non-union, non-contract Salary Administration Plan (SAP) positions. The study proposes expanding the current 9-grade system to 12 grades based on a 10-factor evaluation methodology, with salary ranges aligned to the 60th percentile of 18 regional comparable communities. Preliminary analysis found five positions below the proposed range minimums and only one above the maximum. Following discussion, the board voted to formally endorse the 60th percentile as the benchmark for the compensation schedule.",
+        "key_details": [
+          "Proposes moving from 9 salary grades to 12 grades.",
+          "Surveyed 18 comparable Massachusetts towns, securing data from 15 communities.",
+          "5 positions identified as currently paid below the proposed range minimum, with 1 position above the maximum.",
+          "Implementation is targeted for July 1, 2027 (FY28) via an Annual Town Meeting warrant article."
+        ],
+        "outcome": "Voted unanimously to approve the 60th percentile benchmark for the compensation plan.",
+        "why_it_matters": "The study directly impacts compensation, salary scales, and career progression for all non-union municipal staff, with funding decisions ultimately going before Town Meeting voters.",
+        "start_seconds": 300,
+        "end_seconds": null
+      },
+      {
+        "title": "Reconsideration process and appeal review panel",
+        "category": "Town administration",
+        "importance": "high",
+        "summary": "Multiple town department heads and staff members expressed dissatisfaction with specific job gradings in the draft report, particularly noting disparities in the broad Business Administrator title and differences between positions like Town Planner and Assessor. The board discussed the process and timeline for employees to formally challenge their proposed grade, job title, or responsibilities. The board voted to set a submission deadline of November 24, 2026, and established a three-member panel comprising the town administrator, consultant Katy Yee, and a board member to review all appeals before bringing recommendations back to the full board.",
+        "key_details": [
+          "Deadline for reconsideration forms set for November 24, 2026.",
+          "Review panel formed with the town administrator, MGT consultant Katy Yee, and board member Dorianne.",
+          "Staff raised strong concerns that the Business Administrator title inappropriately lumped together diverse roles with significantly different levels of financial and operational responsibility.",
+          "Full board will review all panel recommendations in open session."
+        ],
+        "outcome": "Voted unanimously to set a November 24 appeal deadline and create a three-member review panel.",
+        "why_it_matters": "Gives town employees a formal avenue to challenge job evaluations and salary classifications before final wage scales are set and funded.",
+        "start_seconds": 4750,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and staffing updates",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from September 8, 2026, and received general administrative updates. Updates included the resignation of Mara Shanley from Youth and Family Services, the appointment of intern Cooper Harris, the relocation of Youth and Family Services offices to the Fay School building behind Pilgrim Church, and the temporary appointment of Suzette Jean-Guy to provide administrative coverage in the DPW during a medical leave.",
+        "key_details": [
+          "Approved September 8, 2026 meeting minutes.",
+          "Youth and Family Services relocated to the Fay School building behind Pilgrim Church.",
+          "Temporary administrative staffing support arranged for DPW."
+        ],
+        "outcome": "Reports accepted and minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 6180,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget review",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "The board reviewed its operating budget requests for FY28 under town guidelines requiring submission of both a target Budget A and a contingency Budget B. The proposed budget maintains standard operations and includes $2,000 in consulting and professional services to fund town-wide employee discrimination prevention training, which the state recommends conducting every few years.",
+        "key_details": [
+          "Includes $2,000 line item for professional and consulting services.",
+          "Funds slated for state-recommended town-wide discrimination prevention training for all municipal employees.",
+          "Both Budget A and Budget B formats presented in accordance with Select Board guidance."
+        ],
+        "outcome": "Voted unanimously to approve FY28 Budget A and Budget B requests.",
+        "why_it_matters": null,
+        "start_seconds": 6210,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To adopt the 60th percentile benchmark for the proposed compensation plan salary ranges.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4740
+      },
+      {
+        "motion": "To set November 24, 2026 as the deadline for municipal employees to submit reconsideration appeal forms.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 4945
+      },
+      {
+        "motion": "To appoint a reconsideration review panel consisting of the town administrator, MGT consultant Katy Yee, and board member Dorianne.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 6170
+      },
+      {
+        "motion": "To approve the Personnel Board FY28 Budget A and Budget B requests.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 6534
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "The DPW Superintendent raised concerns that the compensation methodology groups disparate roles under broad titles like Business Administrator, failing to distinguish between positions managing over $8 million in contracts and clerical support roles.",
+        "start_seconds": 1579
+      },
+      {
+        "summary": "A police department employee and the police chief noted that the police business administrator reports directly to the chief and carries unique operational responsibilities that were undervalued at proposed grade 5.",
+        "start_seconds": 1967
+      },
+      {
+        "summary": "The Town Planner questioned why the planner position was proposed at grade 10 while the assessor role was placed at grade 11, despite having comparable survey data across regional benchmarks.",
+        "start_seconds": 2901
+      },
+      {
+        "summary": "The Recreation Director noted that small-department program coordinators perform wide-ranging duties compared to specialized coordinators in larger towns and expressed disappointment that the position was ranked multiple grades below assistant director.",
+        "start_seconds": 3302
+      },
+      {
+        "summary": "A resident and town employee advocated for creating a separate objective process to evaluate employee placement across steps within grades to ensure longevity and advanced credentials are not erased when scales are re-baselined.",
+        "start_seconds": 3536
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Deadline for municipal staff to submit reconsideration forms for classification and compensation review",
+        "when": "November 24, 2026"
+      },
+      {
+        "what": "Virtual Personnel Board meeting to review reconsideration volume and schedule December review meetings",
+        "when": "November 30, 2026 at 8:30 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-02T20:55:27Z",
+  "usage": {
+    "total_tokens": 263690,
+    "total_input_tokens": 259025,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 984
+      },
+      {
+        "modality": "video",
+        "tokens": 258041
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2009,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2656,
+    "initial_input_tokens": 301777
+  }
+}
