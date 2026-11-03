@@ -1,0 +1,123 @@
+{
+  "video": {
+    "id": "M3vJd0zEWCE",
+    "title": "Capital Improvement & Planning Committee 11/2/26",
+    "published_at": "2026-11-03T14:10:53Z",
+    "duration_s": 3316
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Capital Improvement and Planning Committee",
+    "meeting_date": "2026-11-02",
+    "headline": "DPW Director Bill Cundiff presented FY28 capital requests, including $1.82 million for smart water meters and $700,000 for water tank rehabilitation.",
+    "summary": "The Capital Improvement and Planning Committee reviewed FY28 and multi-year capital requests for the Department of Public Works and Water Enterprise. DPW leadership detailed equipment replacement schedules, DEP-mandated water system repairs, an upcoming smart meter feasibility study, and potential lead remediation costs at the Atwood tank site. The committee also received status updates on the Neary School building project and Fay Park grant funding.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting and approved the minutes from the previous meeting with minor clerical edits.",
+        "key_details": [
+          "Three of four voting members were present.",
+          "Minutes from the October 26 meeting were approved with typographical corrections."
+        ],
+        "outcome": "Minutes approved 3-0.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "DPW and Water FY28 capital requests and multi-year plan",
+        "category": "Roads & infrastructure",
+        "importance": "high",
+        "summary": "DPW Director Bill Cundiff presented capital requests for FY28 and the 10-year forecast, covering heavy highway vehicles, state-mandated water infrastructure repairs, and potential utility restructuring. Key items include two $275,000 plow trucks, a $700,000 rehabilitation of the Tara Road water tank, and an estimated $1.82 million smart water meter system to combat an estimated 20 percent water loss. The director also reported ongoing evaluation of an $823,000 soil remediation at the former Atwood tank site and the possibility of establishing a standalone stormwater utility enterprise fund.",
+        "key_details": [
+          "Two 35,000 GVW cab and chassis trucks are budgeted at $275,000 each; Truck 42 is a carryover priority, while Truck 44 could potentially be deferred one year.",
+          "DEP requirements mandate $700,000 for Tara Road water tank rehabilitation and $25,000 for Boland pump station HVAC replacement after a prior geothermal setup was rejected.",
+          "A smart water meter conversion is estimated at $1.82 million with potential zero-percent MWRA loan financing, pending a feasibility study due by February 28.",
+          "Soil cleanup from historic lead-based paint at the demolished Atwood water tank is estimated at $823,000 and will be presented to the Select Board later in the month.",
+          "The DPW is preparing two FY28 budget scenarios: standard general fund operations and a fee-supported stormwater utility enterprise account."
+        ],
+        "outcome": "Discussion only; DPW will provide maintenance history records and prioritized lists before the committee finalizes recommendations for the Select Board in December.",
+        "why_it_matters": "Capital requests directly impact property tax levies and water enterprise rates, while vehicle and tank investments ensure winter road clearing and safe drinking water compliance.",
+        "start_seconds": 128,
+        "end_seconds": null
+      },
+      {
+        "title": "Neary School Building Committee update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The chair shared an update regarding the timeline for the Neary Elementary School building project. The project team and architect are scheduled to deliver a report on the preferred renovation design in mid-November ahead of broader joint municipal board reviews.",
+        "key_details": [
+          "The preferred path forward is a renovation of the existing Neary school building with an addition of a full-sized gymnasium.",
+          "The project architect is scheduled to present an updated briefing and cost estimates on November 12.",
+          "A joint presentation with the Select Board and Advisory Committee is expected in December."
+        ],
+        "outcome": "No action taken; project update only.",
+        "why_it_matters": null,
+        "start_seconds": 3085,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay Park project CPA funding status",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The committee discussed the funding structure for improvements at Fay Park. The town has secured a grant covering 50 percent of the project cost, with the matching funds sought through Community Preservation Act funds rather than general tax revenues.",
+        "key_details": [
+          "A grant has been secured to cover half the cost of the Fay Park project.",
+          "The remaining project cost is being requested through the Community Preservation Committee.",
+          "The funding will require Town Meeting approval but does not impact the general fund operating budget."
+        ],
+        "outcome": "No action taken; the request awaits CPC evaluation.",
+        "why_it_matters": null,
+        "start_seconds": 3198,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Neary School Building Committee briefing from project architect",
+        "when": "November 12"
+      },
+      {
+        "what": "Select Board discussion on Atwood tank soil remediation options",
+        "when": "Later this month"
+      },
+      {
+        "what": "Capital Improvement and Planning Committee capital recommendations to Select Board",
+        "when": "Early December"
+      },
+      {
+        "what": "Completion date for smart water meter feasibility study contract",
+        "when": "February 28"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-03T18:40:45Z",
+  "usage": {
+    "total_tokens": 131195,
+    "total_input_tokens": 127618,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 126636
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1361,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2216,
+    "initial_input_tokens": 148829
+  }
+}

@@ -321,27 +321,27 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-10-22",
-      "status": "Costco's proposal to construct a 167,000-square-foot retail warehouse and 30-position gas station at 21 Coslin Drive is currently under review by the Planning Board for major site plan approval and special permits, following variance approvals by the Zoning Board of Appeals in July 2026. Deliberations center on traffic generation, regional cut-through routes, and required mitigation along Route 9, with the town awaiting completed consultant peer review studies. The Planning Board extended its statutory decision deadline to December 18, 2026, and will resume the public hearing at a special meeting on November 2, 2026.",
+      "status": "Costco's proposal to construct a 167,000-square-foot retail warehouse and 30-position fueling station at 21 Coslin Drive remains under review by the Planning Board for major site plan approval and special permits. While the Zoning Board of Appeals approved variances for retaining walls and taller light poles in July 2026, the Planning Board is evaluating consultant peer reviews and traffic mitigation along Route 9 and Crystal Pond Road. Key concerns center on regional traffic congestion, cut-through routes through Southborough, loading dock noise, and environmental impacts. The Planning Board has extended its statutory decision deadline on the site plan application to December 18, 2026.",
       "status_as_of": "2026-10-22",
       "positions": [
         {
-          "body": "Zoning Board of Appeals",
-          "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting 31-foot retaining walls and 36.5-foot light poles on the site."
-        },
-        {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Currently reviewing major site plan and special permit applications pending receipt and discussion of traffic and stormwater peer reviews."
+          "detail": "Reviewing major site plan and special permit applications while evaluating traffic, noise, and stormwater peer reviews, with a decision deadline extended to December 18, 2026."
+        },
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 15, 2026, to approve variances for retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents raised serious concerns regarding heavy traffic congestion, cut-through traffic on Flagg Road, truck turning safety on Route 85, water pressure, and vehicle emissions."
+          "detail": "Residents voiced strong concerns regarding severe traffic congestion, cut-through traffic on Flagg Road, truck turning hazards on Route 85, and vehicle emissions."
         }
       ],
-      "next": "Planning Board special meeting and continued public hearing on November 2, 2026.",
-      "status_fingerprint": "8f23e8f374a90518",
+      "next": "Planning Board statutory decision deadline on December 18, 2026.",
+      "status_fingerprint": "249ad50405c4e8fb",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -988,28 +988,28 @@
       "category": "Environment & conservation",
       "first_seen": "2026-03-09",
       "last_seen": "2026-03-18",
-      "status": "Remediation of lead-contaminated soil at the former Atwood Road water tank site is slated for action as Article 9 at the fall Special Town Meeting. Funding for the estimated $800,000 to $850,000 cleanup was deferred from Annual Town Meeting to allow residents to consider future uses for the property. Residents have raised concerns regarding how complete soil decontamination will be verified and whether the remediation will be kept separate from future housing proposals.",
+      "status": "Remediation of lead-contaminated soil at the former Atwood Road water tank site is slated for a borrowing vote under Article 9 at the fall Special Town Meeting, following a spring decision to postpone the estimated $800,000 to $850,000 appropriation. Officials previously canceled active bids to allow time for temporary site stabilization and public discussion on future site uses. Key resident questions focus on how contractors will verify lead removal and whether remediation will be separated on the warrant from potential affordable housing proposals.",
       "status_as_of": "2026-03-18",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Agreed to cancel earlier bids, perform temporary site stabilization, and prepare Article 9 for the fall Special Town Meeting."
+          "detail": "Agreed to cancel earlier bids and prepare Article 9 for fall Town Meeting action after reviewing an $800,000 to $850,000 soil removal plan."
         },
         {
           "body": "Advisory Committee",
-          "stance": "undecided",
-          "detail": "Voted 5-0 to recommend postponing the appropriation to the fall Special Town Meeting to give residents time to determine future uses for the site."
+          "stance": "neutral",
+          "detail": "Voted 5-0 to recommend postponing the appropriation to the fall special town meeting to give residents time to consider future site uses."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "Atwood Road residents asked how contractors will verify lead removal and questioned whether remediation and future housing proposals will be separate warrant articles."
+          "detail": "Atwood Road residents asked how lead removal would be verified during excavation and whether cleanup would remain distinct from future housing plans."
         }
       ],
-      "next": "",
+      "next": "Select Board discussion on Atwood tank soil remediation options later in November 2026.",
       "significance": 4,
-      "status_fingerprint": "f35fd1166f739804",
+      "status_fingerprint": "291f9f9f0e34dd8a",
       "status_model": "gemini-3.8-flash"
     },
     "board-of-health-body-art-regulations": {
@@ -1528,28 +1528,33 @@
       "description": "Planning, community outreach, and design improvements for Fayville Memorial Park, including splash pad features and parking capacity.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-04",
-      "last_seen": "2026-09-17",
-      "status": "The Harold E. Fay Memorial Park renovation is under review and deferred to the spring 2027 Annual Town Meeting after the Recreation Commission withdrew its Community Preservation Act funding request to address parking and site design issues. The commission favors angled street parking along Central Street to protect park green space, but the Select Board has requested further engineering details and residents have raised sight-line and traffic safety concerns. Town officials are also reviewing potential Article 97 open-space restrictions while awaiting word on a federal Land and Water Conservation Fund grant that could fund a major share of the work.",
-      "status_as_of": "2026-09-17",
+      "last_seen": "2026-11-02",
+      "status": "The proposed Fayville Memorial Park renovation is being refined for the spring 2027 Annual Town Meeting after the Recreation Commission withdrew its fall Community Preservation Act application to resolve parking and regulatory issues. The town has secured a grant covering 50 percent of the project, with the remaining match sought through Community Preservation Act funds rather than the general tax levy. Open questions include resolving potential Article 97 open space restrictions, finalizing an angled parking layout on Central Street, and obtaining Planning Board site plan approval. The project will require recommendations from town committees and approval at Town Meeting.",
+      "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Favors angled parking along Central Street to protect green space and delayed its CPA funding application to spring 2027 to resolve design and regulatory questions."
+          "detail": "Champions the project and endorsed Option 2 street parking, voting to delay Town Meeting funding to spring 2027 to resolve Article 97 and design concerns."
         },
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Discussed vehicle safety buffers and sight lines for proposed Central Street angled parking on September 2 and requested further engineering details without taking a vote."
+          "detail": "Reviewed the Central Street angled parking proposal on Sep 2 without taking a vote, requesting further engineering, buffer safety, and sightline details."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "undecided",
+          "detail": "Awaits a resubmitted funding application for the spring 2027 Annual Town Meeting following the withdrawal of the project's earlier $1.5 million request."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents voiced concerns over traffic speeds and blind spots associated with angled parking on Central Street and raised questions about rules, oversight, and fees for the proposed dog park."
+          "detail": "A resident opposed Central Street angled parking citing fast traffic and blind spots, while others inquired about dog park rules and noted ADA crosswalk needs."
         }
       ],
       "next": "",
-      "status_fingerprint": "36cf8161eff9c4ef",
+      "status_fingerprint": "ea28633cb107ef67",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -1715,19 +1720,19 @@
       "description": "Planning, departmental request review, and debt financing prioritization for the fiscal year 2028 capital improvement plan.",
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "The fiscal year 2028 capital budget remains under review as the Capital Improvement and Planning Committee evaluates initial departmental requests. The committee is seeking additional documentation, vehicle inventories, and presentations from department heads to clarify lease commitments, maintenance categorizations, and replacement schedules. Committee deliberations will continue ahead of a scheduled joint presentation to the Select Board and Advisory Committee in December.",
-      "status_as_of": "2026-10-19",
+      "last_seen": "2026-11-02",
+      "status": "The FY28 capital improvement plan is currently under review by the Capital Improvement and Planning Committee as it evaluates departmental requests across town operations. Recent discussions have focused on DPW and water infrastructure, including plow truck replacements, a $700,000 water tank rehabilitation, and a potential $1.82 million smart water meter system. The committee is awaiting additional maintenance records and departmental presentations before setting its final priorities. It is scheduled to present its recommendations to the Select Board and Advisory Committee on December 1, 2026.",
+      "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Currently vetting departmental submissions and requesting explanatory memos, cost quotes, and department head appearances before finalizing recommendations."
+          "detail": "Reviewing departmental proposals and awaiting additional vehicle maintenance histories and presentations before finalizing its recommendations."
         }
       ],
-      "next": "Capital Improvement and Planning Committee meeting on November 2, 2026",
-      "significance": 4,
-      "status_fingerprint": "5d36b894e2f95c98",
+      "next": "Capital Committee presentation to the Select Board and Advisory Committee on December 1, 2026",
+      "significance": 5,
+      "status_fingerprint": "6f5a72bb5ff03e74",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -2461,33 +2466,43 @@
       "description": "Feasibility, design, and renovation or replacement planning for Neary Elementary School.",
       "category": "Schools",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-21",
-      "status": "The project is in schematic design after the Elementary School Building Committee voted 4-0 on October 21 to advance Option 3, a comprehensive addition and renovation plan, for detailed cost and site modeling. Municipal boards are evaluating Southborough's overall borrowing capacity for the project alongside regional school assessments, while the School Committee is scheduled to decide in November whether to restart a multi-year state funding process through the MSBA. Refined designs and budget estimates are due ahead of the building committee's November 12 meeting as planning builds toward an anticipated Town Meeting vote in spring 2027.",
-      "status_as_of": "2026-10-21",
+      "last_seen": "2026-11-02",
+      "status": "The Elementary School Building Committee voted 4-0 in October to advance Option 3—a comprehensive renovation of Neary Elementary School with a full-sized gymnasium addition—into schematic design. The School Committee is also evaluating whether to submit a Statement of Interest to the Massachusetts School Building Authority, which could restart state funding assistance but lengthen the timeline. Municipal boards are scheduling joint financial sessions before finalized schematic designs and detailed cost estimates are delivered in December.",
+      "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 21 to advance Option 3 into schematic design for detailed cost breakdowns, while noting the vote does not finalize its ultimate recommendation."
+          "detail": "Voted 4-0 on Oct 21 to move Option 3 into schematic design for detailed architectural and cost evaluations."
         },
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewing renovation and addition options and preparing to discuss in November whether to submit an MSBA Statement of Interest."
+          "detail": "Reviewing renovation tiers and preparing to discuss whether to submit an MSBA Statement of Interest."
         },
         {
           "body": "Capital Improvement and Planning Committee",
-          "stance": "undecided",
-          "detail": "Analyzing town debt capacity and seeking a multi-board meeting before Thanksgiving to evaluate the long-range capital impact of the project."
+          "stance": "neutral",
+          "detail": "Monitoring project cost projections and seeking joint sessions to evaluate Southborough's overall capital capacity."
+        },
+        {
+          "body": "Select Board",
+          "stance": "neutral",
+          "detail": "Received updates on preliminary design options and cost estimates without endorsing a specific plan."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "neutral",
+          "detail": "Appointed a liaison to track design options and cost estimates ahead of future Town Meeting warrant articles."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents urged comprehensive planning across town capital needs—including future Finn School maintenance—and asked officials to transparently account for the costs of relocating district administration offices."
+          "detail": "Residents urged comprehensive capital planning that factors in Finn School maintenance and the operational costs of relocating central school offices."
         }
       ],
-      "next": "Elementary School Building Committee meeting to review schematic designs and cost estimates on November 12, 2026.",
-      "status_fingerprint": "a82eb0f052090248",
+      "next": "Architectural update and cost estimates presentation on November 12, 2026",
+      "status_fingerprint": "519946a9b93de4d5",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },

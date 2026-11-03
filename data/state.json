@@ -4014,6 +4014,39 @@
       "processed_at": "2026-11-02T20:55:27Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "Gw6Qwa7ODbE": {
+      "id": "Gw6Qwa7ODbE",
+      "title": "Planning Board 11/2/26",
+      "description": "",
+      "published_at": "2026-11-03T16:15:30Z",
+      "duration_s": 8564,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-03T18:39:52Z",
+      "meeting_date": "2026-11-02",
+      "week": "2026-11-02"
+    },
+    "M3vJd0zEWCE": {
+      "id": "M3vJd0zEWCE",
+      "title": "Capital Improvement & Planning Committee 11/2/26",
+      "description": "",
+      "published_at": "2026-11-03T14:10:53Z",
+      "duration_s": 3316,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-03T18:39:52Z",
+      "meeting_date": "2026-11-02",
+      "week": "2026-11-02",
+      "processed_at": "2026-11-03T18:40:45Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4184,11 +4217,19 @@
       "output_tokens": 9410,
       "thought_tokens": 22929,
       "tool_use_tokens": 0
+    },
+    "2026-11-03": {
+      "video_minutes": 55,
+      "calls": 9,
+      "input_tokens": 205136,
+      "output_tokens": 5179,
+      "thought_tokens": 12443,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-02T20:53:08Z",
-    "discovered": 32,
+    "at": "2026-11-03T18:39:51Z",
+    "discovered": 34,
     "summarized": 1,
     "refreshed": 0,
     "errors": 0

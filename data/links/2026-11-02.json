@@ -1,0 +1,43 @@
+{
+  "week": "2026-11-02",
+  "fingerprint": "440a576b17863dd3",
+  "topics": {
+    "M3vJd0zEWCE#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "M3vJd0zEWCE#1": {
+      "issue": "fy28-capital-budget",
+      "category": "Budget & taxes"
+    },
+    "M3vJd0zEWCE#2": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "M3vJd0zEWCE#3": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    }
+  },
+  "votes": {},
+  "upcoming": {
+    "M3vJd0zEWCE#u0": {
+      "date": "2026-11-12",
+      "issue": "neary-school-building-project"
+    },
+    "M3vJd0zEWCE#u1": {
+      "date": null,
+      "issue": "atwood-property-remediation"
+    },
+    "M3vJd0zEWCE#u2": {
+      "date": null,
+      "issue": "fy28-capital-budget"
+    },
+    "M3vJd0zEWCE#u3": {
+      "date": "2027-02-28",
+      "issue": "fy28-capital-budget"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-03T18:41:25Z"
+}

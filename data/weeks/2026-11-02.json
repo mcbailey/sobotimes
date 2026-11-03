@@ -1,0 +1,59 @@
+{
+  "headline": "The Capital Improvement and Planning Committee reviewed major capital proposals, including a $1.82 million smart water meter project and water infrastructure repairs.",
+  "synopsis": "The Capital Improvement and Planning Committee reviewed FY28 capital requests and multi-year forecasts from the Department of Public Works and Water Enterprise. Priorities included an estimated $1.82 million smart water meter system to curb water loss, $700,000 for state-mandated water tank rehabilitation, and $823,000 in potential soil remediation costs. The committee also discussed heavy vehicle replacements and the possible establishment of a fee-supported stormwater utility enterprise fund. Additionally, members received status updates on the Neary School renovation design and Community Preservation Act grant funding for Fay Park.",
+  "highlights": [
+    {
+      "title": "DPW and Water FY28 capital requests and multi-year plan",
+      "why": "The DPW presented requests including a $1.82 million smart water meter conversion, $700,000 for state-mandated water tank repairs, and an estimated $823,000 for soil remediation at the former Atwood tank site.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "M3vJd0zEWCE",
+      "start_seconds": 128
+    },
+    {
+      "title": "Neary School Building Committee update",
+      "why": "The preferred path forward is a renovation of the existing Neary school with a new full-sized gymnasium, with an architect briefing and updated cost estimates scheduled for mid-November.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "medium",
+      "video_id": "M3vJd0zEWCE",
+      "start_seconds": 3085
+    },
+    {
+      "title": "Fay Park project CPA funding status",
+      "why": "A grant will cover half of the Fay Park improvement costs, while the remaining matching funds are being requested through Community Preservation Act funds rather than general tax revenue.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "low",
+      "video_id": "M3vJd0zEWCE",
+      "start_seconds": 3198
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "Neary School Building Committee briefing from project architect",
+      "when": "November 12",
+      "body": "Neary School Building Committee"
+    },
+    {
+      "what": "Select Board discussion on Atwood tank soil remediation options",
+      "when": "Later this month",
+      "body": "Select Board"
+    },
+    {
+      "what": "Capital Improvement and Planning Committee capital recommendations to Select Board",
+      "when": "Early December",
+      "body": "Capital Improvement and Planning Committee"
+    },
+    {
+      "what": "Completion date for smart water meter feasibility study contract",
+      "when": "February 28",
+      "body": null
+    }
+  ],
+  "week": "2026-11-02",
+  "fingerprint": "8257af9b90095838",
+  "video_ids": [
+    "M3vJd0zEWCE"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-03T18:41:13Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headline": "Southborough reviewed major FY28 capital requests including $1.82 million for smart water meters and $700,000 for water tank repairs.",
+  "synopsis": "In November 2026, Southborough officials focused on municipal infrastructure planning and upcoming capital investments. The Capital Improvement and Planning Committee reviewed fiscal year 2028 requests from the Department of Public Works, highlighted by major water utility projects. Proposals included an estimated $1.82 million smart water meter program to address an estimated 20 percent water loss alongside $700,000 to rehabilitate the Tara Road water tank. Members also discussed highway equipment replacements, potential stormwater enterprise funding, and soil remediation at the former Atwood tank site. In addition, the committee received a timeline update on the Neary Elementary School building project ahead of an upcoming design report.",
+  "top_items": [
+    {
+      "title": "DPW and Water FY28 Capital Requests",
+      "why": "The DPW presented FY28 capital requests including $1.82 million for smart water meters and $700,000 for water tank rehabilitation.",
+      "body": "DPW Director Bill Cundiff presented capital requests for FY28 and the 10-year forecast to the Capital Improvement and Planning Committee. Key proposals include an estimated $1.82 million smart water meter system to reduce an estimated 20 percent water loss, $700,000 to rehabilitate the Tara Road water tank, and two plow trucks at $275,000 each. The committee also discussed an $823,000 evaluation for soil remediation at the former Atwood water tank property and the potential creation of a standalone stormwater enterprise fund. The DPW will provide maintenance history records and prioritized rankings before the committee votes on final recommendations for the Select Board in December.",
+      "importance": "high",
+      "video_id": "M3vJd0zEWCE",
+      "start_seconds": 128,
+      "issue": "fy28-capital-budget"
+    },
+    {
+      "title": "Neary School Building Project Timeline",
+      "why": "The Capital Improvement and Planning Committee received an update on the submission timeline for the preferred Neary School renovation design.",
+      "body": "The committee chair shared a scheduling update on the Neary Elementary School building project. The architect and project team are scheduled to submit a report on the preferred renovation design in mid-November, preceding joint review sessions among town boards.",
+      "importance": "medium",
+      "video_id": "M3vJd0zEWCE",
+      "start_seconds": 3085,
+      "issue": "neary-school-building-project"
+    }
+  ],
+  "month": "2026-11",
+  "fingerprint": "e32f952dfb550a01",
+  "video_ids": [
+    "M3vJd0zEWCE"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-03T18:44:14Z"
+}
