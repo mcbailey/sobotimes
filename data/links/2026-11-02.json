@@ -1,7 +1,27 @@
 {
   "week": "2026-11-02",
-  "fingerprint": "440a576b17863dd3",
+  "fingerprint": "821e9432ee27723e",
   "topics": {
+    "Gw6Qwa7ODbE#0": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "Gw6Qwa7ODbE#1": {
+      "issue": "fay-school-25-middle-road",
+      "category": "Zoning & development"
+    },
+    "Gw6Qwa7ODbE#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Gw6Qwa7ODbE#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "Gw6Qwa7ODbE#4": {
+      "issue": "361-turnpike-road",
+      "category": "Zoning & development"
+    },
     "M3vJd0zEWCE#0": {
       "issue": null,
       "category": "Governance & committees"
@@ -19,8 +39,25 @@
       "category": "Parks, trails & recreation"
     }
   },
-  "votes": {},
+  "votes": {
+    "Gw6Qwa7ODbE#v0": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "Gw6Qwa7ODbE#v1": {
+      "issue": "361-turnpike-road"
+    },
+    "Gw6Qwa7ODbE#v2": {
+      "issue": "fay-school-25-middle-road"
+    },
+    "Gw6Qwa7ODbE#v3": {
+      "issue": "fay-school-25-middle-road"
+    }
+  },
   "upcoming": {
+    "Gw6Qwa7ODbE#u0": {
+      "date": "2026-11-16",
+      "issue": "21-coslin-drive-costco"
+    },
     "M3vJd0zEWCE#u0": {
       "date": "2026-11-12",
       "issue": "neary-school-building-project"
@@ -39,5 +76,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-03T18:41:25Z"
+  "generated_at": "2026-11-04T18:58:32Z"
 }

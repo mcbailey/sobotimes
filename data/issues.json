@@ -320,28 +320,28 @@
       "description": "Site plan and special permit review for a proposed 167,000-square-foot Costco retail warehouse and 30-position gas station at 21 Coslin Drive.",
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-22",
-      "status": "Costco's proposal to construct a 167,000-square-foot retail warehouse and 30-position fueling station at 21 Coslin Drive remains under review by the Planning Board for major site plan approval and special permits. While the Zoning Board of Appeals approved variances for retaining walls and taller light poles in July 2026, the Planning Board is evaluating consultant peer reviews and traffic mitigation along Route 9 and Crystal Pond Road. Key concerns center on regional traffic congestion, cut-through routes through Southborough, loading dock noise, and environmental impacts. The Planning Board has extended its statutory decision deadline on the site plan application to December 18, 2026.",
-      "status_as_of": "2026-10-22",
+      "last_seen": "2026-11-02",
+      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station is under major site plan and special permit review before the Planning Board, with the statutory decision deadline extended to December 18, 2026. While the Zoning Board of Appeals unanimously granted variance relief for retaining walls and lighting in July 2026, the Planning Board and neighbors are scrutinizing severe traffic impacts, intersection failures, and residential cut-through truck traffic. The board is evaluating peer review findings and proposed developer mitigation, including road repaving, signal timing adjustments, and travel demand programs. The public hearing resumes on November 16, 2026.",
+      "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Reviewing major site plan and special permit applications while evaluating traffic, noise, and stormwater peer reviews, with a decision deadline extended to December 18, 2026."
+          "detail": "Reviewing site plans and special permits while raising sharp questions about intersection delays, U-turn volumes on Route 9, and the lack of enforceable off-site truck routing restrictions."
         },
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to approve variances for retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet."
+          "detail": "Voted 4-0 on July 15, 2026, to approve variances for retaining walls up to 31 feet and light poles up to 36.5 feet."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents voiced strong concerns regarding severe traffic congestion, cut-through traffic on Flagg Road, truck turning hazards on Route 85, and vehicle emissions."
+          "detail": "Residents and business owners voiced strong objections over regional gridlock, school bus delays, existing level-of-service F intersections, and heavy truck traffic cutting through residential roads like Parkerville, Flagg, and Southville."
         }
       ],
-      "next": "Planning Board statutory decision deadline on December 18, 2026.",
-      "status_fingerprint": "249ad50405c4e8fb",
+      "next": "Continued public hearing before the Planning Board on November 16, 2026",
+      "status_fingerprint": "9cdff1d34ce01015",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -605,6 +605,27 @@
       "status_fingerprint": "e8b2012ce0f7ee50",
       "status_model": "gemini-3.8-flash",
       "significance": 2
+    },
+    "361-turnpike-road": {
+      "id": "361-turnpike-road",
+      "name": "361 Turnpike Road Valvoline site plan",
+      "description": "Site plan compliance, as-built review, and occupancy permitting for the Valvoline facility at 361 Turnpike Road.",
+      "category": "Zoning & development",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "status": "The Planning Board voted 4-0 on November 2, 2026, to approve a 90-day temporary certificate of occupancy for the newly constructed Valvoline facility at 361 Turnpike Road. The approval is subject to several outstanding punch-list conditions, including submitting compliant photometric lighting plans, addressing landscaping details, and recording a final as-built plan showing a fire hydrant easement. The applicant must complete these remaining requirements within the 90-day temporary occupancy period.",
+      "status_as_of": "2026-11-02",
+      "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "support",
+          "detail": "Voted 4-0 on November 2, 2026, to grant a 90-day temporary certificate of occupancy subject to punch-list conditions on lighting, landscaping, and final plan recordings."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "83c51d81c0e70e4d",
+      "status_model": "gemini-3.8-flash"
     },
     "39-meeting-house-lane-affordable-unit": {
       "id": "39-meeting-house-lane-affordable-unit",
@@ -1481,23 +1502,18 @@
       "description": "Review of as-built plans, construction discrepancies, and landscape mitigation for an addition at Fay School's 25 Middle Road campus.",
       "category": "Zoning & development",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-19",
-      "status": "Fay School's landscape mitigation plan and as-built site review for its primary school addition remain under review by the Planning Board. While the town's native plant consultant commended the school's updated planting plan, the board is waiting for an engineering peer review of the as-built utility plans before issuing occupancy sign-off. The school's temporary certificate of occupancy expires on November 19, 2026, and the board will take the matter up again on November 2, 2026.",
-      "status_as_of": "2026-10-19",
+      "last_seen": "2026-11-02",
+      "status": "The Planning Board voted 4-0 on November 2, 2026, to approve the final landscape mitigation plan and as-built engineering plans for Fay School's building addition at 25 Middle Road. The board also recommended that the building commissioner issue a certificate of occupancy before the school's temporary permit expires on November 19. Peer review engineers confirmed drainage and stormwater compliance, noting only that high flow velocities in an adjusted drainage pipe section will require ongoing maintenance checks. The final decision on the occupancy permit now rests with the building commissioner.",
+      "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Awaiting a completed engineering peer review before voting on as-built compliance and occupancy sign-off."
-        },
-        {
-          "body": "Public comment",
-          "stance": "mixed",
-          "detail": "Commenters urged pesticide-free native plant standards and raised concerns about truck turning conflicts at the Route 85 intersection."
+          "stance": "support",
+          "detail": "Voted 4-0 on November 2, 2026, to approve the Version 3 landscape mitigation plan, accept as-builts, and recommend issuance of an occupancy permit."
         }
       ],
-      "next": "Planning Board discussion on November 2, 2026",
-      "status_fingerprint": "39578ae5dcc7fec8",
+      "next": "",
+      "status_fingerprint": "edde87f681e0a2cd",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },

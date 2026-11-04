@@ -1,0 +1,173 @@
+{
+  "video": {
+    "id": "Gw6Qwa7ODbE",
+    "title": "Planning Board 11/2/26",
+    "published_at": "2026-11-03T16:15:30Z",
+    "duration_s": 8564
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Planning Board",
+    "meeting_date": "2026-11-02",
+    "headline": "The Planning Board reviewed traffic modeling for a proposed Costco warehouse and approved a 90-day temporary occupancy permit for Valvoline.",
+    "summary": "The board dedicated the majority of the meeting to reviewing updated traffic analyses and peer-review findings for the proposed Costco Wholesale warehouse at 21 Coslin Drive, drawing substantial resident pushback regarding truck routes and neighborhood cut-throughs. The hearing was continued to November 16, 2026. In other business, the board approved a 90-day temporary certificate of occupancy for Valvoline at 361 Turnpike Road and accepted the as-built and landscape mitigation plans for Fay School's building addition.",
+    "topics": [
+      {
+        "title": "21 Coslin Drive (Costco Wholesale) traffic study",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Costco's project team presented a revised traffic impact study incorporating feedback from MassDOT and peer review consultant Nitsch Engineering. The proposed 167,000-square-foot warehouse and 30-vehicle fueling facility would generate significant regional traffic, prompting sharp questions from board members and neighbors regarding intersection delays, level-of-service failures, and cut-through truck traffic on residential collector streets. Proposed developer mitigation includes repaving and restriping Crystal Pond Road and Coslin Drive, signal timing adjustments at Route 9, a travel demand management program, and a post-opening traffic evaluation.",
+        "key_details": [
+          "Project encompasses a 167,000-square-foot retail warehouse and 30-fueling-position gas station spanning Southborough and Westborough.",
+          "The board's deadline to act on special permits was extended to December 18, 2026.",
+          "Traffic consultant Kittelson & Associates shifted queue analysis from SimTraffic to Highway Capacity Manual methodology due to model calibration issues.",
+          "Residents and board members voiced concern over potential level-of-service F ratings and U-turn volumes on Route 9 at Crystal Pond Road and Middle Road.",
+          "Peer reviewer Nitsch Engineering highlighted incomplete crash data and questioned the lack of formal off-site truck routing restrictions."
+        ],
+        "outcome": "Hearing continued to November 16, 2026.",
+        "why_it_matters": "The massive retail project will draw thousands of vehicles daily to Route 9 and could worsen congestion and truck traffic on neighboring residential roads.",
+        "start_seconds": 10,
+        "end_seconds": null
+      },
+      {
+        "title": "Fay School building addition as-builts and occupancy",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board reviewed as-built engineering plans and the final landscape mitigation plan (Version 3) for the Fay School building addition. Peer review engineers confirmed civil and drainage construction complied with town approvals despite steep slope velocities that will require regular pipe maintenance. The board approved the as-built and landscaping plans and voted to recommend that the building commissioner issue an occupancy permit.",
+        "key_details": [
+          "Fuss & O'Neill completed an engineering peer review verifying stormwater and as-built compliance.",
+          "Town planner confirmed landscape mitigation plan Version 3 addressed previous screening concerns.",
+          "Peer review flagged high water flow velocities in an adjusted drainage pipe section, requiring ongoing maintenance checks."
+        ],
+        "outcome": "Approved landscape mitigation plan Version 3, accepted as-builts, and recommended issuance of an occupancy permit.",
+        "why_it_matters": null,
+        "start_seconds": 4700,
+        "end_seconds": null
+      },
+      {
+        "title": "2027 Planning Board meeting calendar",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board reviewed and adjusted its tentative schedule of meeting dates for 2027, ensuring sufficient meeting frequency leading up to Annual Town Meeting and avoiding school vacation conflicts.",
+        "key_details": [
+          "Calendar adjusted to ensure two regular meetings in February, March, and April.",
+          "Final schedule approved for distribution and town clerk filing."
+        ],
+        "outcome": "Schedule finalized.",
+        "why_it_matters": null,
+        "start_seconds": 5105,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business and planner's report",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The town planner gave updates on upcoming Select Board tax rate setting, the FY28 budget development, and upcoming zoning amendments for the spring town meeting, including 55-plus housing bylaw refinements and MBTA Communities parcel references. The board also approved previous meeting minutes.",
+        "key_details": [
+          "Select Board scheduled to set the tax rate on November 4, 2026.",
+          "Planning department level-service operating budget submitted for FY28.",
+          "Approved meeting minutes for October 17 and October 19, 2026."
+        ],
+        "outcome": "Information accepted and minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 5380,
+        "end_seconds": null
+      },
+      {
+        "title": "361 Turnpike Road (Valvoline) as-built and occupancy review",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "The board evaluated an as-built site plan and minor modifications for the newly constructed Valvoline facility at 361 Turnpike Road. Staff and the peer reviewer confirmed the applicant planted required donor trees, adjusted entrance curb geometry, resolved a drainage manhole labeling issue, and agreed to Conservation Commission wetland buffer mitigation plantings. The board approved a 90-day temporary certificate of occupancy with several outstanding punch-list conditions.",
+        "key_details": [
+          "Applicant planted eight donor trees (2.5 to 2.75-inch caliper) on municipal sites designated by the Tree Warden.",
+          "Conservation Commission approved a buffer planting plan consisting of two red maples, eight winterberries, and eight inkberries.",
+          "A DPW-requested fire hydrant easement and revised curb cut must be depicted on the final recorded as-built.",
+          "Conditions require removing excessive mulch from tree trunks, planting a missing geranium, and submitting photometric plans confirming hardscape lighting compliance."
+        ],
+        "outcome": "Approved a 90-day temporary certificate of occupancy subject to punch-list conditions.",
+        "why_it_matters": null,
+        "start_seconds": 5505,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To continue the public hearing for 21 Coslin Drive (Costco Wholesale) to November 16, 2026 at 6:30 PM",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5204
+      },
+      {
+        "motion": "To approve a 90-day temporary certificate of occupancy for 361 Turnpike Road subject to conditions regarding the hydrant depiction on the as-built, mulch pull-back, geranium installation, and photometric plan submission",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 4655
+      },
+      {
+        "motion": "To approve the Fay School building addition as-built plans and Landscape Mitigation Plan Version 3",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 4933
+      },
+      {
+        "motion": "To recommend issuance of a certificate of occupancy for the Fay School building addition",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 5006
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident of Parkerville Road stated that heavy semi-trucks already rattle homes along the roadway at all hours and urged the board to strictly prohibit Costco truck traffic from using Parkerville Road.",
+        "start_seconds": 3435
+      },
+      {
+        "summary": "A Turnpike Road commercial property owner expressed concern about potential traffic gridlock between Crystal Pond Road and I-495 and asked how access to existing retail businesses will be preserved.",
+        "start_seconds": 3651
+      },
+      {
+        "summary": "A resident of Hillside Avenue and former transportation engineer argued that the Crystal Pond Road intersection should not be accepted at level of service F and asserted that off-site road widening, including a double left-turn lane, is necessary.",
+        "start_seconds": 3735
+      },
+      {
+        "summary": "A resident of Southville Road warned that highway backups and navigation apps will direct Costco customer traffic onto local residential streets including Southville, Middle, and Flagg roads.",
+        "start_seconds": 4098
+      },
+      {
+        "summary": "A resident of Flagg Road voiced concerns over school bus delays, existing level of service F conditions at Flagg Road and Route 9, and worsening neighborhood safety.",
+        "start_seconds": 4513
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Continued public hearing on 21 Coslin Drive (Costco Wholesale) covering civil engineering and traffic",
+        "when": "November 16, 2026 at 6:30 PM"
+      }
+    ],
+    "caveats": "Board member Tom Truong experienced remote connectivity issues due to thunderstorms and was briefly disconnected during two votes."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-04T18:54:48Z",
+  "usage": {
+    "total_tokens": 322458,
+    "total_input_tokens": 317842,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 316860
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2244,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2372,
+    "initial_input_tokens": 373620
+  }
+}

@@ -1,37 +1,58 @@
 {
-  "headline": "The Capital Improvement and Planning Committee reviewed major capital proposals, including a $1.82 million smart water meter project and water infrastructure repairs.",
-  "synopsis": "The Capital Improvement and Planning Committee reviewed FY28 capital requests and multi-year forecasts from the Department of Public Works and Water Enterprise. Priorities included an estimated $1.82 million smart water meter system to curb water loss, $700,000 for state-mandated water tank rehabilitation, and $823,000 in potential soil remediation costs. The committee also discussed heavy vehicle replacements and the possible establishment of a fee-supported stormwater utility enterprise fund. Additionally, members received status updates on the Neary School renovation design and Community Preservation Act grant funding for Fay Park.",
+  "headline": "The Planning Board reviewed traffic concerns for a proposed Costco warehouse, while the capital committee examined major DPW vehicle and water infrastructure requests.",
+  "synopsis": "The Planning Board continued its public hearing on the proposed 167,000-square-foot Costco warehouse on Coslin Drive following extensive discussion on neighborhood traffic impacts, Route 9 intersections, and mitigation plans. In separate development actions, the board approved a 90-day temporary occupancy permit for Valvoline and endorsed as-builts and an occupancy recommendation for Fay School's building addition. Meanwhile, the Capital Improvement and Planning Committee reviewed FY28 capital requests with the Department of Public Works, focusing on $1.82 million for smart water meters, tank rehabilitation, and fleet replacements. The committee also received status updates on the Neary School renovation design and grant funding for Fay Park.",
   "highlights": [
     {
-      "title": "DPW and Water FY28 capital requests and multi-year plan",
-      "why": "The DPW presented requests including a $1.82 million smart water meter conversion, $700,000 for state-mandated water tank repairs, and an estimated $823,000 for soil remediation at the former Atwood tank site.",
+      "title": "Costco warehouse traffic study and neighborhood impacts",
+      "why": "The board reviewed revised traffic modeling for the proposed warehouse and gas station, continuing the hearing after neighbors and members raised concerns over Route 9 delays and cut-through truck traffic.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "Gw6Qwa7ODbE",
+      "start_seconds": 10
+    },
+    {
+      "title": "DPW and water infrastructure capital requests",
+      "why": "DPW presented long-term capital priorities, including an estimated $1.82 million for smart water meters, $700,000 for water tank rehabilitation, and potential lead soil remediation costs.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "high",
       "video_id": "M3vJd0zEWCE",
       "start_seconds": 128
     },
     {
-      "title": "Neary School Building Committee update",
-      "why": "The preferred path forward is a renovation of the existing Neary school with a new full-sized gymnasium, with an architect briefing and updated cost estimates scheduled for mid-November.",
+      "title": "Neary School renovation design and schedule",
+      "why": "The committee received an update confirming the preferred path is a renovation of the existing building with a full-sized gymnasium, with cost estimates expected in mid-November.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "medium",
       "video_id": "M3vJd0zEWCE",
       "start_seconds": 3085
     },
     {
-      "title": "Fay Park project CPA funding status",
-      "why": "A grant will cover half of the Fay Park improvement costs, while the remaining matching funds are being requested through Community Preservation Act funds rather than general tax revenue.",
-      "body": "Capital Improvement and Planning Committee",
-      "importance": "low",
-      "video_id": "M3vJd0zEWCE",
-      "start_seconds": 3198
+      "title": "Valvoline temporary occupancy permit approval",
+      "why": "The board voted 4-0 to approve a 90-day temporary certificate of occupancy for 361 Turnpike Road subject to conditions covering plantings, lighting, and an easement.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "Gw6Qwa7ODbE",
+      "start_seconds": 5505
+    },
+    {
+      "title": "Fay School building addition as-builts and occupancy",
+      "why": "The board approved as-built plans and an updated landscape mitigation plan, voting to recommend issuance of an occupancy permit for the school's addition.",
+      "body": "Planning Board",
+      "importance": "medium",
+      "video_id": "Gw6Qwa7ODbE",
+      "start_seconds": 4700
     }
   ],
   "looking_ahead": [
     {
-      "what": "Neary School Building Committee briefing from project architect",
+      "what": "Neary School Building Committee briefing and cost estimates from project architect",
       "when": "November 12",
-      "body": "Neary School Building Committee"
+      "body": null
+    },
+    {
+      "what": "Continued public hearing on 21 Coslin Drive (Costco Wholesale) covering civil engineering and traffic",
+      "when": "November 16, 2026 at 6:30 PM",
+      "body": "Planning Board"
     },
     {
       "what": "Select Board discussion on Atwood tank soil remediation options",
@@ -39,21 +60,17 @@
       "body": "Select Board"
     },
     {
-      "what": "Capital Improvement and Planning Committee capital recommendations to Select Board",
+      "what": "Capital recommendations presentation to Select Board",
       "when": "Early December",
       "body": "Capital Improvement and Planning Committee"
-    },
-    {
-      "what": "Completion date for smart water meter feasibility study contract",
-      "when": "February 28",
-      "body": null
     }
   ],
   "week": "2026-11-02",
-  "fingerprint": "8257af9b90095838",
+  "fingerprint": "e197336c2aa174b7",
   "video_ids": [
+    "Gw6Qwa7ODbE",
     "M3vJd0zEWCE"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-03T18:41:13Z"
+  "generated_at": "2026-11-04T18:55:15Z"
 }
