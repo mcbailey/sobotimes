@@ -4050,6 +4050,21 @@
       "processed_at": "2026-11-03T18:40:45Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "3GzT-erLNY0": {
+      "id": "3GzT-erLNY0",
+      "title": "Select Board Meeting 11/4/26",
+      "description": "",
+      "published_at": "2026-11-05T17:01:59Z",
+      "duration_s": 6555,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-05T19:01:34Z",
+      "meeting_date": "2026-11-04",
+      "week": "2026-11-02"
     }
   },
   "usage": {
@@ -4236,12 +4251,20 @@
       "output_tokens": 6692,
       "thought_tokens": 30578,
       "tool_use_tokens": 0
+    },
+    "2026-11-05": {
+      "video_minutes": 0,
+      "calls": 3,
+      "input_tokens": 10816,
+      "output_tokens": 1150,
+      "thought_tokens": 4611,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-04T18:53:18Z",
-    "discovered": 31,
-    "summarized": 1,
+    "at": "2026-11-05T19:01:33Z",
+    "discovered": 29,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }

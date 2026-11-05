@@ -1758,57 +1758,57 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
       "last_seen": "2026-10-30",
-      "status": "Southborough is developing its FY28 operating budget under a projected structural deficit exceeding $2 million that threatens to exhaust its excess tax levy capacity. In response, town leadership instructed departments to submit dual budget proposals: a level-service Budget A and a level-dollar Budget B requiring operational and service cutbacks. The Select Board is weighing a multi-year Proposition 2 1/2 operational override to build levy capacity, while the Advisory Committee has urged caution and suggested tighter spending controls or borrowing for pension liabilities. Initial joint reviews of submitted departmental budgets are set to begin this week.",
+      "status": "Facing an anticipated $2 million deficit against roughly $700,000 in excess levy capacity, town officials are developing the FY28 operating budget while weighing a potential Proposition 2 1/2 operational override for the March 2027 Town Meeting. Departments have submitted dual proposals: Budget A to sustain level services with salary increases, and Budget B illustrating staffing and service cuts if an override fails or is not pursued. The Select Board and Advisory Committee are evaluating whether to seek a multi-year override, pursue single-year requests, or implement strict cost controls such as hiring freezes and alternative pension borrowing. Departmental budget reviews are underway ahead of a December 15, 2026 approval deadline.",
       "status_as_of": "2026-10-30",
       "positions": [
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Exploring a potential multi-year Proposition 2 1/2 operational override to cover projected deficits, while requiring departments to submit dual budget plans."
+          "detail": "Exploring whether to place a multi-year Proposition 2 1/2 override on the spring ballot and instructed departments to submit dual budget scenarios."
         },
         {
           "body": "Advisory Committee",
           "stance": "undecided",
-          "detail": "Advocated caution regarding multi-year overrides, recommending stricter fiscal discipline, vacancy reviews, and alternative financing for pension liabilities."
+          "detail": "Urged caution regarding a multi-year override, advocating instead for departmental efficiency plans, a potential hiring freeze, and alternative pension borrowing mechanisms."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted 5-0 on Oct 14 to approve its FY28 budget priorities to direct administrative budget planning."
+          "detail": "Voted 5-0 on Oct 14 to approve its FY28 budget priorities to guide the administration's budget proposal."
         },
         {
           "body": "Board of Health",
-          "stance": "mixed",
-          "detail": "Approved its budget requests alongside an explanatory memo warning that level-dollar Budget B would cause office closures, cut clinics, and delay septic reviews."
+          "stance": "support",
+          "detail": "Voted 3-0 on Oct 20 to approve its budget scenarios and an explanatory memo detailing clinic cuts and reduced office hours under level-dollar Option B."
         },
         {
           "body": "Library Board of Trustees",
-          "stance": "mixed",
-          "detail": "Approved its budget while warning that an override failure under Budget B would eliminate programming and halve database subscriptions."
-        },
-        {
-          "body": "Conservation Commission",
-          "stance": "oppose",
-          "detail": "Delayed action on its budget in frustration over town guidance requiring a 125-hour reduction to the conservation agent under Budget B."
+          "stance": "support",
+          "detail": "Voted 6-0 on Oct 5 to approve its FY28 budget while noting an override failure would eliminate programming and cut subscriptions by more than half."
         },
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Approved its Budget A and Budget B requests and recommended a 5% total salary adjustment for FY28."
+          "detail": "Voted unanimously on Oct 30 to approve its FY28 Budget A and B requests after recommending a 5% total salary adjustment in September."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to approve its FY28 operating budget request of $4,250."
+          "detail": "Voted unanimously on Oct 7 to approve its $4,250 FY28 budget request after resolving trail mowing contract allocations with the DPW."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "mixed",
+          "detail": "Frustrated that Budget B guidelines would force a reduction in conservation agent hours, delaying a vote to draft an explanatory memo."
         },
         {
           "body": "Public comment",
-          "stance": "neutral",
-          "detail": "Residents cautioned against altering traditional line-item presentation formats during an override year and suggested exploring departmental consolidations."
+          "stance": "mixed",
+          "detail": "Speakers suggested consolidating departmental budgets into larger functional areas for efficiency, but cautioned against deviating from traditional line-item formats during an override year."
         }
       ],
-      "next": "Joint Select Board and Advisory Committee initial FY28 budget review on November 4, 2026.",
-      "status_fingerprint": "db00bfa27620b2ae",
+      "next": "Southborough School Committee preliminary FY28 budget presentation in November 2026.",
+      "status_fingerprint": "f27e43a022a7db7c",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -3783,22 +3783,22 @@
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
       "last_seen": "2026-10-28",
-      "status": "Southborough is undertaking a regular three-year municipal website refresh with vendor CivicPlus, working to consolidate standalone departmental sites into the main platform. The Municipal Technology Committee is examining user analytics, departmental migrations, and communications staffing needs to guide the overhaul. Meanwhile, the Affordable Housing Trust has requested authorization to add dedicated municipal pages for public education and property donation outreach. The Select Board is expected to consider that request at its upcoming meeting.",
+      "status": "The town is undertaking a scheduled website refresh with vendor CivicPlus, consolidating standalone departmental pages such as the Senior Center into the main municipal platform. The Municipal Technology Committee has noted the need for dedicated communications expertise and web analytics to guide the overhaul. Additionally, the Affordable Housing Trust voted in October to request Select Board approval to add dedicated pages promoting housing education and soliciting property donations.",
       "status_as_of": "2026-10-28",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Supports the CivicPlus overhaul and consolidation of departmental pages, while emphasizing the need for communications expertise and analytics to guide design."
+          "detail": "Overseeing the CivicPlus refresh and site consolidation while recommending the town use web analytics and dedicated communications staff to manage outward content."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 28 to ask the Select Board to authorize dedicated pages on the town website for housing education and property donation outreach."
+          "detail": "Voted 4-0 on Oct 28 to request Select Board authorization for municipal web pages focused on housing education and property donation outreach."
         }
       ],
-      "next": "Select Board consideration of the Affordable Housing Trust's website request on November 4, 2026.",
-      "status_fingerprint": "6a1502816af14e50",
+      "next": "",
+      "status_fingerprint": "f634512d07c11512",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -4178,18 +4178,18 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-14",
       "last_seen": "2026-10-21",
-      "status": "Draft zoning bylaw amendments aligning Southborough's regulations with recent state Zoning Act updates are being finalized for the 2027 Annual Town Meeting. The Zoning Board of Appeals has reviewed proposed changes regarding nonconforming structures, variance standards, and extended abandonment timelines. The proposals are scheduled to go before the Select Board on November 4, 2026, for referral to the Planning Board for public hearings.",
+      "status": "Proposed zoning bylaw amendments aligning Southborough’s bylaws with recent state Chapter 40A changes are advancing toward the 2027 Annual Town Meeting. The revisions update rules for preexisting nonconforming structures, extend use abandonment timelines from two to four years, and adopt practical difficulty standards for residential variances. The draft language was prepared for the Select Board to refer to the Planning Board for required public hearings.",
       "status_as_of": "2026-10-21",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Supports advancing conforming amendments to local bylaws to align with Chapter 40A revisions ahead of the 2027 Annual Town Meeting."
+          "detail": "Supported conforming local bylaws to state standards and directed staff to prepare draft warrant articles for the 2027 Annual Town Meeting."
         }
       ],
-      "next": "Submission of draft warrant articles to the Select Board on November 4, 2026.",
+      "next": "Annual Town Meeting warrant article submission deadline on December 14, 2026",
       "significance": 5,
-      "status_fingerprint": "31fdcaa2baad7e27",
+      "status_fingerprint": "423fe873374d750b",
       "status_model": "gemini-3.8-flash"
     }
   }
