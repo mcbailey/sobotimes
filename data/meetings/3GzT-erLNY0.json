@@ -1,0 +1,193 @@
+{
+  "video": {
+    "id": "3GzT-erLNY0",
+    "title": "Select Board Meeting 11/4/26",
+    "published_at": "2026-11-05T17:01:59Z",
+    "duration_s": 6555
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-11-04",
+    "headline": "The Select Board adopted a single FY27 property tax rate of $14.54 and began reviewing an FY28 budget facing a $1.4 million deficit.",
+    "summary": "At the annual tax classification hearing, the Select Board voted 4-1 to maintain a single tax rate for FY27, establishing an estimated tax rate of $14.54 per $1,000 of valuation. The board reviewed early projections for the FY28 operating budget, which faces a projected $1.4 million deficit under a level-service budget that would necessitate a Proposition 2 1/2 operating override. The board also received notice of a $631,350 state grant for Fayville Park improvements, debriefed the recent Special Town Meeting, and approved a three-year contract extension for the fire chief.",
+    "topics": [
+      {
+        "title": "FY27 tax classification hearing and tax rate",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The Principal Assessor and Board of Assessors presented property valuation trends and tax rate options for FY27. Total town valuation reached $4.072 billion, with the average single-family home value rising 3.7 percent to $1,027,800. The board debated whether to establish a split tax rate before voting to continue a unified single rate, while also voting down residential and small commercial exemptions.",
+        "key_details": [
+          "The single tax rate will increase from $14.36 to an estimated $14.54 per thousand.",
+          "The average single-family home tax bill will rise by $713 (5.01 percent) to $14,944.",
+          "Town taxable valuation increased by $148 million to $4.072 billion.",
+          "Assessors noted commercial and industrial properties represent only 15.64 percent of the town tax base.",
+          "The board expressed interest in pursuing a senior means-tested tax relief option through future legislation."
+        ],
+        "outcome": "Single tax rate approved 4-1; residential and small commercial exemptions rejected 5-0.",
+        "why_it_matters": "Determines property tax bills for all Southborough homeowners and commercial property owners for FY27.",
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 operating budget preview and override options",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Town administration presented an early look at the FY28 operating budget, preparing two scenarios for Town Meeting consideration. Budget A provides level services but leaves a $1.4 million deficit that would require a Proposition 2 1/2 operating override, while Budget B provides a level-dollar allocation requiring significant department cuts. The board discussed scheduling department reviews and weighing whether to pursue a multi-year override.",
+        "key_details": [
+          "Budget A assumes shifting $200,000 in expenses to the newly created stormwater enterprise fund.",
+          "Budget A leaves a projected $1.4 million levy limit deficit.",
+          "Budget B would require eliminating positions, cutting hours, or service reductions across departments.",
+          "Town debt service is projected to increase by approximately $900,000 to $1 million in FY28.",
+          "Free cash certified for the budget cycle was roughly $1 million lower than in previous cycles."
+        ],
+        "outcome": "Discussion held; department heads directed to submit impact memos, and large department budget hearings were scheduled.",
+        "why_it_matters": "Residents could face an operating override vote on the ballot or substantial reductions in municipal and school services.",
+        "start_seconds": 2301,
+        "end_seconds": null
+      },
+      {
+        "title": "Fayville Park state grant and parking design",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The town administrator announced that Southborough was awarded a $631,350 state grant for the Fayville Park improvement project, covering half of the estimated cost. The project includes a splash pad, dog park, walking trail, and accessibility upgrades, though acceptance is contingent on Community Preservation Committee and Town Meeting approvals. Board members discussed legal conditions under Article 97 and parking reconfiguration along the roadway.",
+        "key_details": [
+          "State grant awards $631,350 toward the Fayville Park project.",
+          "Proposed project features a splash pad, picnic area, small dog park, perimeter walking trail, and ADA walkway.",
+          "Full project approval requires a vote at Annual Town Meeting on March 20, 2027.",
+          "Grant acceptance permanently dedicates the park property under Article 97.",
+          "Reconfiguring horizontal parking spaces to diagonal spots along the road will require legal review regarding park encroachment."
+        ],
+        "outcome": "Project update received; parking layout and legal questions will be addressed at a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 5004,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board acted on standard consent agenda items, approved meeting minutes, accepted a pilot payment donation, and approved an employment agreement extension for the fire chief.",
+        "key_details": [
+          "Approved meeting minutes for October 6, October 17, and October 23, 2026, as amended.",
+          "Accepted Harvard University annual payment-in-lieu-of-taxes donation of $52,531.25.",
+          "Approved MIAA FY27 Risk Management grant for police policy AI software, contingent on funding source conditions.",
+          "Approved a three-year successor employment agreement for Fire Chief Puntini starting in FY28.",
+          "Approved the annual winter parking ban along with other routine consent items."
+        ],
+        "outcome": "All routine motions approved unanimously 5-0.",
+        "why_it_matters": null,
+        "start_seconds": 5366,
+        "end_seconds": null
+      },
+      {
+        "title": "Special Town Meeting debrief and meeting scheduling",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed feedback from the October 17 Special Town Meeting, where all warrant articles passed except a proposed zoning amendment. Members debated whether Saturday meetings or weekday evening meetings generate better resident turnout, noting low attendance by school parents on Saturdays. The town administrator also commended the town clerk and election staff for running the presidential election with a 62 percent turnout.",
+        "key_details": [
+          "All October Special Town Meeting articles passed except a two-family zoning article.",
+          "The meeting took about three hours on a Saturday morning.",
+          "Board members noted conflicts between Saturday town meetings and youth sports schedules.",
+          "Town election turnout reached 62 percent across early voting, mail-in ballots, and in-person voting.",
+          "The board discussed potentially consulting the Massachusetts Municipal Association regarding meeting turnout trends across the state."
+        ],
+        "outcome": "Discussion only; no changes made to the scheduled Saturday date for the March 2027 Annual Town Meeting.",
+        "why_it_matters": null,
+        "start_seconds": 5920,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Adopt a single tax rate for FY27 rather than a split tax rate",
+        "result": "passed",
+        "tally": "4-1",
+        "start_seconds": 2117
+      },
+      {
+        "motion": "Not adopt a residential exemption or small commercial exemption for FY27",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 2158
+      },
+      {
+        "motion": "Accept the MIAA FY27 Risk Management grant award contingent on using police Harvard funds for year two and Municipal Technology Committee review",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5801
+      },
+      {
+        "motion": "Approve the Harvard donation of $52,531.25",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5870
+      },
+      {
+        "motion": "Approve successor employment agreement for Fire Chief Puntini for three years starting in FY28",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5889
+      },
+      {
+        "motion": "Approve consent agenda items B, C, D, F, H, and J, including the winter parking ban",
+        "result": "passed",
+        "tally": "5-0",
+        "start_seconds": 5905
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A resident urged the board to be careful when calculating full-time equivalent cuts under Budget B, noting that eliminating fractional positions impacts significantly more individual staff members and town services than a single whole number suggests.",
+        "start_seconds": 4853
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Select Board meeting with Schools K-8, DPW, Police, and Fire on FY28 budget scenarios",
+        "when": "November 17"
+      },
+      {
+        "what": "Select Board meeting to review departmental budget memos and meet additional department heads",
+        "when": "December 2"
+      },
+      {
+        "what": "Select Board review of capital budget and government study results",
+        "when": "December 15"
+      },
+      {
+        "what": "Select Board vote to finalize recommended FY28 budget for submission to the Advisory Committee",
+        "when": "January 5"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "March 20"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-06T18:34:13Z",
+  "usage": {
+    "total_tokens": 257874,
+    "total_input_tokens": 251383,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 250400
+      },
+      {
+        "modality": "text",
+        "tokens": 983
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 2386,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 4105,
+    "initial_input_tokens": 292695
+  }
+}

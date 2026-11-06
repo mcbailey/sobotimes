@@ -4058,13 +4058,34 @@
       "published_at": "2026-11-05T17:01:59Z",
       "duration_s": 6555,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-05T19:01:34Z",
       "meeting_date": "2026-11-04",
-      "week": "2026-11-02"
+      "week": "2026-11-02",
+      "processed_at": "2026-11-06T18:34:13Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "lo2GMrWk0Vw": {
+      "id": "lo2GMrWk0Vw",
+      "title": "Trails Committee 11/5/26",
+      "description": "",
+      "published_at": "2026-11-06T13:56:44Z",
+      "duration_s": 3335,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-06T18:30:17Z",
+      "meeting_date": "2026-11-05",
+      "week": "2026-11-02",
+      "processed_at": "2026-11-06T18:31:48Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4259,12 +4280,20 @@
       "output_tokens": 1150,
       "thought_tokens": 4611,
       "tool_use_tokens": 0
+    },
+    "2026-11-06": {
+      "video_minutes": 165,
+      "calls": 11,
+      "input_tokens": 474689,
+      "output_tokens": 12580,
+      "thought_tokens": 42201,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-05T19:01:33Z",
-    "discovered": 29,
-    "summarized": 0,
+    "at": "2026-11-06T18:30:16Z",
+    "discovered": 24,
+    "summarized": 2,
     "refreshed": 0,
     "errors": 0
   }

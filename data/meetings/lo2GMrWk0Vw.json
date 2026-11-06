@@ -1,0 +1,158 @@
+{
+  "video": {
+    "id": "lo2GMrWk0Vw",
+    "title": "Trails Committee 11/5/26",
+    "published_at": "2026-11-06T13:56:44Z",
+    "duration_s": 3335
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-11-05",
+    "headline": "The Trails Committee refined Peninsula Trail signage and bench plans, prepared an FY27 MassTrails grant submission, and finalized a food drive event.",
+    "summary": "The Southborough Trails Committee met virtually to advance improvements on town trail networks. Members reviewed design concepts for an educational wildlife sign and confirmed bench additions along the Peninsula Trail. The committee also outlined next steps for an FY27 MassTrails grant application and set weather contingency plans for its final seasonal yoga and food drive event.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved amended minutes from its previous meeting and handled final adjournment.",
+        "key_details": [
+          "Corrected typographical errors and dates on the October 29 meeting minutes.",
+          "Minutes approved by a unanimous 3-0 vote.",
+          "Meeting adjourned at 7:54 p.m."
+        ],
+        "outcome": "Minutes approved as amended.",
+        "why_it_matters": null,
+        "start_seconds": 32,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail Phase II signage and benches",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee discussed layout and artwork for an 18-by-24-inch interpretive sign titled 'Who's Wild in These Woods?' on the Peninsula Trail, paired with a QR-code scavenger hunt for young visitors. Members agreed to adjust the featured animals to emphasize wildlife visitors are likely to see, such as bald eagles, red-tailed hawks, and wild turkeys, rather than apex predators like black bears. The chair also reported on plans to order and install an additional four-foot backless bench near the watershed sign.",
+        "key_details": [
+          "Walkthrough conducted to flag sign placement and plan gravel pad expansion.",
+          "Fossil Industries quoted $247 for an 18-by-24-inch graphic sign panel.",
+          "Committee favored replacing porcupines and bears with turkeys, bald eagles, and hawks.",
+          "Digital scavenger hunt checklist planned for mobile access via QR code.",
+          "A four-foot backless bench will be purchased and sited near the watershed sign."
+        ],
+        "outcome": "Draft sign design to be updated with revised animal choices and reviewed at the next meeting.",
+        "why_it_matters": null,
+        "start_seconds": 530,
+        "end_seconds": null
+      },
+      {
+        "title": "Trail maintenance and clearing updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members reviewed trail maintenance progress across town properties. Volunteers blazed the loop trail at Beals Preserve, while trail signage and corridor clearing continued on the route connecting White Bagley Road and McNeil.",
+        "key_details": [
+          "Beals Preserve loop trail blazed on both sides on November 2.",
+          "Signage on the trail near White Bagley Road and McNeil is approximately 60 percent complete.",
+          "Clearing along the White Bagley corridor is about 10 percent completed.",
+          "Members discussed collaborating on future weekend work sessions to install sign posts."
+        ],
+        "outcome": "Clearing and signage installation ongoing.",
+        "why_it_matters": null,
+        "start_seconds": 2319,
+        "end_seconds": null
+      },
+      {
+        "title": "MassTrails Grant application planning",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee reviewed requirements for the newly opened FY27 MassTrails grant round. Members plan to incorporate local school educational outreach into the application, obtain letters of support from municipal boards, and schedule extra working sessions before the winter deadline.",
+        "key_details": [
+          "Grant application window opened November 2, 2026, with a submission deadline of February 1, 2027.",
+          "Committee plans outreach to local schools to design educational trail programming.",
+          "Presentation scheduled with the Recreation Commission on November 12 at 7:00 p.m.",
+          "Additional working meetings will be scheduled during November and December."
+        ],
+        "outcome": "Committee will meet with the Recreation Commission on November 12 and schedule follow-up grant work sessions.",
+        "why_it_matters": null,
+        "start_seconds": 2466,
+        "end_seconds": null
+      },
+      {
+        "title": "Yoga on the Trails and food drive",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee finalized arrangements for the final Yoga on the Trails session of the season and an accompanying food drive for the Southborough Food Pantry. Due to forecasted rain, members coordinated access to the Senior Center double room as an indoor backup location.",
+        "key_details": [
+          "Event scheduled for Saturday, November 7, from 9:00 a.m. to 10:00 a.m.",
+          "Features an optional measured one-mile walk or run alongside the yoga session.",
+          "Senior Center double room reserved as an indoor rain location.",
+          "Participants are encouraged to bring nonperishable donations for the Southborough Food Pantry.",
+          "Location decision will be announced in a participant reminder email on Friday."
+        ],
+        "outcome": "Event logistics and indoor contingency confirmed.",
+        "why_it_matters": null,
+        "start_seconds": 2544,
+        "end_seconds": null
+      },
+      {
+        "title": "Volunteer inquiry and tree obstruction report",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The chair noted that a resident expressed interest in volunteering with trail projects. Members also examined photos from a report regarding fallen trees near Framingham Road and Boston Road to determine whether the obstruction lies directly on the marked public trail.",
+        "key_details": [
+          "A resident reached out regarding volunteer opportunities; committee currently has no member vacancies.",
+          "Downed tree report noted near the railroad tracks by Framingham Road and Boston Road.",
+          "Members noted the fallen timber appeared aged and planned a site check to confirm trail clearance."
+        ],
+        "outcome": "Members will conduct an on-site check to determine whether clearing is required.",
+        "why_it_matters": null,
+        "start_seconds": 2955,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Yoga on the Trails and Southborough Food Pantry food drive",
+        "when": "November 7, 2026"
+      },
+      {
+        "what": "Recreation Commission meeting presentation on MassTrails Grant",
+        "when": "November 12, 2026"
+      },
+      {
+        "what": "Trails Committee MassTrails Grant planning meeting",
+        "when": "Week of November 18, 2026"
+      },
+      {
+        "what": "FY27 MassTrails Grant application deadline",
+        "when": "February 1, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-06T18:31:48Z",
+  "usage": {
+    "total_tokens": 133967,
+    "total_input_tokens": 128375,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 979
+      },
+      {
+        "modality": "video",
+        "tokens": 127396
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1692,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 3900,
+    "initial_input_tokens": 149701
+  }
+}

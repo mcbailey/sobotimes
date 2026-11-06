@@ -1,7 +1,27 @@
 {
   "week": "2026-11-02",
-  "fingerprint": "821e9432ee27723e",
+  "fingerprint": "314040862efed508",
   "topics": {
+    "3GzT-erLNY0#0": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "3GzT-erLNY0#1": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "3GzT-erLNY0#2": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "3GzT-erLNY0#3": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "3GzT-erLNY0#4": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
     "Gw6Qwa7ODbE#0": {
       "issue": "21-coslin-drive-costco",
       "category": "Zoning & development"
@@ -37,9 +57,51 @@
     "M3vJd0zEWCE#3": {
       "issue": "fayville-memorial-park-improvements",
       "category": "Parks, trails & recreation"
+    },
+    "lo2GMrWk0Vw#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "lo2GMrWk0Vw#1": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "lo2GMrWk0Vw#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "lo2GMrWk0Vw#3": {
+      "issue": "2027-masstrails-grant",
+      "category": "Parks, trails & recreation"
+    },
+    "lo2GMrWk0Vw#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "lo2GMrWk0Vw#5": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
     }
   },
   "votes": {
+    "3GzT-erLNY0#v0": {
+      "issue": "fy27-operating-budget"
+    },
+    "3GzT-erLNY0#v1": {
+      "issue": "fy27-operating-budget"
+    },
+    "3GzT-erLNY0#v2": {
+      "issue": null
+    },
+    "3GzT-erLNY0#v3": {
+      "issue": null
+    },
+    "3GzT-erLNY0#v4": {
+      "issue": null
+    },
+    "3GzT-erLNY0#v5": {
+      "issue": null
+    },
     "Gw6Qwa7ODbE#v0": {
       "issue": "21-coslin-drive-costco"
     },
@@ -54,6 +116,26 @@
     }
   },
   "upcoming": {
+    "3GzT-erLNY0#u0": {
+      "date": "2026-11-17",
+      "issue": "fy28-operating-budget"
+    },
+    "3GzT-erLNY0#u1": {
+      "date": "2026-12-02",
+      "issue": "fy28-operating-budget"
+    },
+    "3GzT-erLNY0#u2": {
+      "date": "2026-12-15",
+      "issue": "fy28-capital-budget"
+    },
+    "3GzT-erLNY0#u3": {
+      "date": "2027-01-05",
+      "issue": "fy28-operating-budget"
+    },
+    "3GzT-erLNY0#u4": {
+      "date": "2027-03-20",
+      "issue": null
+    },
     "Gw6Qwa7ODbE#u0": {
       "date": "2026-11-16",
       "issue": "21-coslin-drive-costco"
@@ -73,8 +155,24 @@
     "M3vJd0zEWCE#u3": {
       "date": "2027-02-28",
       "issue": "fy28-capital-budget"
+    },
+    "lo2GMrWk0Vw#u0": {
+      "date": "2026-11-07",
+      "issue": null
+    },
+    "lo2GMrWk0Vw#u1": {
+      "date": "2026-11-12",
+      "issue": "2027-masstrails-grant"
+    },
+    "lo2GMrWk0Vw#u2": {
+      "date": null,
+      "issue": "2027-masstrails-grant"
+    },
+    "lo2GMrWk0Vw#u3": {
+      "date": "2027-02-01",
+      "issue": "2027-masstrails-grant"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-04T18:58:32Z"
+  "generated_at": "2026-11-06T18:38:06Z"
 }

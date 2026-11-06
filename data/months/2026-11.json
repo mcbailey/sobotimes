@@ -1,47 +1,65 @@
 {
-  "headline": "The Planning Board evaluated traffic impacts for a proposed Costco warehouse while DPW presented major FY28 water and capital infrastructure requests.",
-  "synopsis": "In November 2026, Southborough boards focused on major commercial development review and upcoming municipal capital investments. The Planning Board scrutinized revised traffic modeling and proposed road mitigation for the 167,000-square-foot Costco warehouse and fueling station proposed at 21 Coslin Drive, continuing its public hearing to mid-November. In addition, the Planning Board granted a 90-day temporary occupancy permit for Valvoline on Turnpike Road and approved final as-built and landscape plans for Fay School's building addition. Meanwhile, the Capital Improvement and Planning Committee evaluated DPW's FY28 capital requests, highlighting $1.82 million for smart water meters and $700,000 for water tank rehabilitation. The capital committee also received a timeline update on the Neary Elementary School renovation project ahead of an upcoming mid-November design report.",
+  "headline": "The Select Board adopted an FY27 tax rate of $14.54, weighed an FY28 operating override, and reviewed traffic impacts for Costco.",
+  "synopsis": "Southborough officials focused on fiscal planning and major commercial developments in early November. The Select Board approved a unified FY27 property tax rate of $14.54 per thousand, resulting in an estimated 5 percent tax bill increase for average single-family homes, while projecting a $1.4 million deficit for FY28 that may require a Proposition 2 1/2 operating override. Meanwhile, DPW presented FY28 capital requests to the Capital Improvement and Planning Committee, led by $1.82 million for smart water meters and water tank repairs. The Planning Board scrutinized revised traffic modeling and intersection impacts for the proposed 167,000-square-foot Costco warehouse on Coslin Drive before continuing the hearing to mid-November. Additionally, the town announced a $631,350 state grant to fund half the cost of major upgrades at Fayville Memorial Park, and the Planning Board cleared occupancy permits for projects at Valvoline and Fay School.",
   "top_items": [
     {
-      "title": "Costco Warehouse Traffic Impacts and Mitigation Review",
-      "why": "The Planning Board reviewed revised traffic modeling and proposed roadway improvements for the planned 167,000-square-foot warehouse and 30-position gas station.",
-      "body": "Costco's project team presented an updated traffic impact study incorporating feedback from MassDOT and peer reviewer Nitsch Engineering. Planning Board members and abutters raised concerns over intersection delays, level-of-service failures, and cut-through truck traffic on residential roads. Proposed developer mitigation includes repaving and restriping Crystal Pond Road and Coslin Drive, signal timing adjustments along Route 9, a travel demand management program, and a post-opening traffic evaluation. The board voted 5-0 to continue the public hearing to November 16, 2026.",
+      "title": "Select Board Sets FY27 Single Tax Rate at $14.54",
+      "why": "The Select Board voted 4-1 for a unified tax rate and rejected exemptions, raising the average single-family tax bill by roughly 5 percent.",
+      "body": "The Principal Assessor and Board of Assessors presented valuation trends showing Southborough's total town valuation reached $4.072 billion, with the average single-family home value rising 3.7 percent to $1,027,800. The Select Board voted 4-1 to maintain a single tax rate rather than shifting the tax burden onto commercial properties, and voted 5-0 against residential and small commercial exemptions. The estimated tax rate of $14.54 per thousand will result in an estimated 5.01 percent increase on the average single-family property tax bill.",
+      "importance": "high",
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 0,
+      "issue": "fy27-operating-budget"
+    },
+    {
+      "title": "Select Board Weighs Override for Projected $1.4M FY28 Deficit",
+      "why": "Early FY28 budget modeling revealed a $1.4 million deficit under a level-services plan, prompting discussions of a Proposition 2 1/2 override.",
+      "body": "Town administration presented two budget options for fiscal year 2028. Budget A maintains level municipal services but carries a $1.4 million shortfall that would necessitate a Proposition 2 1/2 operating override at Town Meeting. Budget B level-funds dollar amounts, requiring departmental cuts to staff and services to remain within statutory levy limits. The board directed department heads to prepare impact memos and scheduled budget hearings for major departments ahead of deciding whether to pursue a single- or multi-year override.",
+      "importance": "high",
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 2301,
+      "issue": "fy28-operating-budget"
+    },
+    {
+      "title": "Costco Traffic Study Faces Scrutiny from Planning Board",
+      "why": "The Planning Board reviewed updated traffic modeling for the proposed 167,000-square-foot Costco, focusing on intersection failures and truck traffic.",
+      "body": "Costco Wholesale presented revised traffic analyses that incorporated feedback from MassDOT and town peer review consultant Nitsch Engineering for the proposed 167,000-square-foot warehouse and 30-position gas station at 21 Coslin Drive. Board members and abutting residents raised concerns regarding severe intersection delays along Route 9 and commercial vehicles cutting through residential streets. Proposed developer mitigation includes repaving Coslin Drive and Crystal Pond Road, retiming Route 9 traffic signals, and adopting a travel demand management plan. The public hearing was continued to November 16, 2026.",
       "importance": "high",
       "video_id": "Gw6Qwa7ODbE",
       "start_seconds": 10,
       "issue": "21-coslin-drive-costco"
     },
     {
-      "title": "DPW Presents FY28 Capital Requests and Water Infrastructure Plan",
-      "why": "DPW Director Bill Cundiff presented FY28 capital requests and a 10-year outlook, featuring $1.82 million for smart water meters and $700,000 for tank rehabilitation.",
-      "body": "The Capital Improvement and Planning Committee evaluated DPW's FY28 priorities, which include two plow trucks at $275,000 each, a $700,000 rehabilitation of the Tara Road water tank, and an estimated $1.82 million smart water meter system aimed at addressing an estimated 20 percent water loss. Discussions also addressed an ongoing evaluation of an $823,000 soil remediation at the former Atwood tank site and the potential creation of a standalone stormwater utility enterprise fund. The committee requested maintenance history records and prioritized lists before finalizing its capital recommendations in December.",
+      "title": "DPW Submits FY28 Capital Requests for Water and Highway",
+      "why": "DPW presented capital priorities including $1.82 million for smart water meters and $700,000 for water tank rehabilitation.",
+      "body": "Public Works Director Bill Cundiff outlined the department's FY28 capital requests and 10-year capital forecast to the Capital Improvement and Planning Committee. Key proposals include an estimated $1.82 million smart water meter system aimed at tracking and reducing an estimated 20 percent water loss, $700,000 to rehabilitate the Tara Road water tank, and $550,000 for two highway plow trucks. The presentation also addressed an $823,000 soil remediation at the former Atwood water tank site and potential formation of a stormwater enterprise fund. DPW will provide vehicle maintenance records before recommendations are finalized in December.",
       "importance": "high",
       "video_id": "M3vJd0zEWCE",
       "start_seconds": 128,
       "issue": "fy28-capital-budget"
     },
     {
-      "title": "Neary Elementary School Renovation Design Timeline Update",
-      "why": "The Capital Improvement and Planning Committee received a schedule update on the preferred design report for the Neary Elementary School building project.",
-      "body": "The committee received a timeline briefing following the Elementary School Building Committee's October vote to advance a comprehensive renovation with a full-sized gymnasium into schematic design. The project team and architect are scheduled to deliver their report on the preferred renovation design in mid-November ahead of broader joint municipal board reviews. No formal committee action was taken.",
+      "title": "Southborough Awarded $631,350 State Grant for Fayville Park",
+      "why": "A state grant will cover half the cost of park upgrades including a splash pad, dog park, and trail, pending local approvals.",
+      "body": "The town administrator announced Southborough secured a $631,350 state grant for the Fayville Memorial Park renovation, funding 50 percent of the planned improvements. Proposed features include a splash pad, walking trail, dog park, and accessibility improvements. Full project implementation remains subject to Community Preservation Committee funding and voter approval at the March 2027 Annual Town Meeting, while officials evaluate roadway parking configurations and Article 97 parkland protections.",
       "importance": "medium",
-      "video_id": "M3vJd0zEWCE",
-      "start_seconds": 3085,
-      "issue": "neary-school-building-project"
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 5004,
+      "issue": "fayville-memorial-park-improvements"
     },
     {
-      "title": "Temporary Certificate of Occupancy Approved for 361 Turnpike Road",
-      "why": "The Planning Board voted 4-0 to approve a 90-day temporary certificate of occupancy for the new Valvoline facility at 361 Turnpike Road.",
-      "body": "The Planning Board reviewed the as-built site plan and minor modifications for the newly constructed Valvoline facility. The applicant planted required donor trees, adjusted entrance curb geometry, resolved a drainage manhole labeling issue, and agreed to Conservation Commission wetland buffer mitigation plantings. The board approved the 90-day temporary certificate of occupancy subject to punch-list conditions, including photometric lighting plans, landscaping details, and an as-built plan showing the relocated fire hydrant easement.",
+      "title": "Valvoline Approved for 90-Day Temporary Occupancy",
+      "why": "The Planning Board voted 4-0 to grant a 90-day temporary certificate of occupancy for 361 Turnpike Road subject to punch-list conditions.",
+      "body": "The Planning Board reviewed an as-built site plan and minor changes for the newly built Valvoline facility at 361 Turnpike Road. Town staff and peer review confirmed the applicant completed required plantings, adjusted entrance geometry, and addressed Conservation Commission buffer mitigation. The board voted 4-0 to approve a 90-day temporary certificate of occupancy, requiring the applicant to submit photometric lighting plans, adjust mulch, plant geraniums, and record a fire hydrant easement before obtaining permanent occupancy.",
       "importance": "medium",
       "video_id": "Gw6Qwa7ODbE",
       "start_seconds": 5505,
       "issue": "361-turnpike-road"
     },
     {
-      "title": "Fay School Middle Road Addition Receives Occupancy Recommendation",
-      "why": "The Planning Board approved final as-built drawings and landscape mitigation plans for Fay School's 25 Middle Road building addition.",
-      "body": "Peer review engineers confirmed that civil and drainage construction for the building addition complied with town approvals, noting that high flow velocities in an adjusted drainage pipe section will require regular maintenance checks. The Planning Board voted 4-0 to accept the as-built plans, approve Landscape Mitigation Plan Version 3, and recommend that the building commissioner issue a certificate of occupancy ahead of the expiration of the school's temporary permit.",
+      "title": "Fay School Building Addition Recommended for Occupancy",
+      "why": "The Planning Board voted 4-0 to approve final landscaping and as-built plans, recommending an occupancy permit for 25 Middle Road.",
+      "body": "The Planning Board approved Version 3 of the landscape mitigation plan and accepted civil as-built drawings for the Fay School building addition at 25 Middle Road. Peer review engineers confirmed the site drainage met town requirements, though high stormwater velocity in one drainage pipe section will require routine maintenance. The board voted 4-0 to recommend that the building commissioner issue a full certificate of occupancy ahead of the expiration of the school's temporary permit.",
       "importance": "medium",
       "video_id": "Gw6Qwa7ODbE",
       "start_seconds": 4700,
@@ -49,11 +67,13 @@
     }
   ],
   "month": "2026-11",
-  "fingerprint": "2d7fdb54132ff471",
+  "fingerprint": "fda9c05636b7af96",
   "video_ids": [
+    "3GzT-erLNY0",
     "Gw6Qwa7ODbE",
-    "M3vJd0zEWCE"
+    "M3vJd0zEWCE",
+    "lo2GMrWk0Vw"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-04T19:00:27Z"
+  "generated_at": "2026-11-06T18:41:43Z"
 }

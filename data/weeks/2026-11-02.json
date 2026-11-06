@@ -1,53 +1,53 @@
 {
-  "headline": "The Planning Board reviewed traffic concerns for a proposed Costco warehouse, while the capital committee examined major DPW vehicle and water infrastructure requests.",
-  "synopsis": "The Planning Board continued its public hearing on the proposed 167,000-square-foot Costco warehouse on Coslin Drive following extensive discussion on neighborhood traffic impacts, Route 9 intersections, and mitigation plans. In separate development actions, the board approved a 90-day temporary occupancy permit for Valvoline and endorsed as-builts and an occupancy recommendation for Fay School's building addition. Meanwhile, the Capital Improvement and Planning Committee reviewed FY28 capital requests with the Department of Public Works, focusing on $1.82 million for smart water meters, tank rehabilitation, and fleet replacements. The committee also received status updates on the Neary School renovation design and grant funding for Fay Park.",
+  "headline": "The Select Board set an estimated FY27 property tax rate of $14.54 while previewing a projected $1.4 million FY28 budget deficit.",
+  "synopsis": "The Select Board voted 4-1 to maintain a single property tax rate for FY27, raising the average single-family tax bill by $713 to $14,944. Town officials also presented an early look at the FY28 operating budget, warning of a $1.4 million deficit under level-service funding that would require a Proposition 2 1/2 operating override. Meanwhile, the Planning Board heard substantial resident traffic concerns regarding the proposed Costco warehouse, and the Capital Improvement and Planning Committee reviewed major multi-year public works capital requests.",
   "highlights": [
     {
-      "title": "Costco warehouse traffic study and neighborhood impacts",
-      "why": "The board reviewed revised traffic modeling for the proposed warehouse and gas station, continuing the hearing after neighbors and members raised concerns over Route 9 delays and cut-through truck traffic.",
+      "title": "FY27 tax classification hearing and tax rate",
+      "why": "The Select Board approved a single tax rate of $14.54 per $1,000 of valuation, increasing the average single-family residential tax bill by 5.01 percent, while rejecting residential and commercial exemptions.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 0
+    },
+    {
+      "title": "FY28 operating budget preview and override options",
+      "why": "Town administration outlined an early $1.4 million levy limit deficit for FY28 under a level-service budget, which would require a Proposition 2 1/2 override or significant departmental service and staffing reductions.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 2301
+    },
+    {
+      "title": "21 Coslin Drive (Costco Wholesale) traffic study",
+      "why": "Board members and neighbors challenged traffic modeling and regional cut-through truck impacts for the proposed 167,000-square-foot warehouse, continuing the hearing to November 16.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "Gw6Qwa7ODbE",
       "start_seconds": 10
     },
     {
-      "title": "DPW and water infrastructure capital requests",
-      "why": "DPW presented long-term capital priorities, including an estimated $1.82 million for smart water meters, $700,000 for water tank rehabilitation, and potential lead soil remediation costs.",
+      "title": "DPW and Water FY28 capital requests and multi-year plan",
+      "why": "The DPW detailed major multi-year capital needs, including $1.82 million for smart water meters, $700,000 for state-mandated water tank rehabilitation, and $823,000 in potential soil cleanup costs.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "high",
       "video_id": "M3vJd0zEWCE",
       "start_seconds": 128
     },
     {
-      "title": "Neary School renovation design and schedule",
-      "why": "The committee received an update confirming the preferred path is a renovation of the existing building with a full-sized gymnasium, with cost estimates expected in mid-November.",
-      "body": "Capital Improvement and Planning Committee",
+      "title": "Fayville Park state grant and parking design",
+      "why": "Southborough was awarded a $631,350 state grant to fund half of proposed park improvements, with full project implementation contingent on Community Preservation Committee and Town Meeting votes.",
+      "body": "Select Board",
       "importance": "medium",
-      "video_id": "M3vJd0zEWCE",
-      "start_seconds": 3085
-    },
-    {
-      "title": "Valvoline temporary occupancy permit approval",
-      "why": "The board voted 4-0 to approve a 90-day temporary certificate of occupancy for 361 Turnpike Road subject to conditions covering plantings, lighting, and an easement.",
-      "body": "Planning Board",
-      "importance": "medium",
-      "video_id": "Gw6Qwa7ODbE",
-      "start_seconds": 5505
-    },
-    {
-      "title": "Fay School building addition as-builts and occupancy",
-      "why": "The board approved as-built plans and an updated landscape mitigation plan, voting to recommend issuance of an occupancy permit for the school's addition.",
-      "body": "Planning Board",
-      "importance": "medium",
-      "video_id": "Gw6Qwa7ODbE",
-      "start_seconds": 4700
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 5004
     }
   ],
   "looking_ahead": [
     {
-      "what": "Neary School Building Committee briefing and cost estimates from project architect",
+      "what": "Neary School Building Committee briefing from project architect on preferred design and cost estimates",
       "when": "November 12",
-      "body": null
+      "body": "Capital Improvement and Planning Committee"
     },
     {
       "what": "Continued public hearing on 21 Coslin Drive (Costco Wholesale) covering civil engineering and traffic",
@@ -55,22 +55,24 @@
       "body": "Planning Board"
     },
     {
-      "what": "Select Board discussion on Atwood tank soil remediation options",
-      "when": "Later this month",
+      "what": "Select Board meeting with Schools K-8, DPW, Police, and Fire on FY28 budget scenarios",
+      "when": "November 17",
       "body": "Select Board"
     },
     {
-      "what": "Capital recommendations presentation to Select Board",
-      "when": "Early December",
-      "body": "Capital Improvement and Planning Committee"
+      "what": "Select Board review of departmental budget memos and meetings with additional department heads",
+      "when": "December 2",
+      "body": "Select Board"
     }
   ],
   "week": "2026-11-02",
-  "fingerprint": "e197336c2aa174b7",
+  "fingerprint": "fb29c577b7f458f0",
   "video_ids": [
+    "3GzT-erLNY0",
     "Gw6Qwa7ODbE",
-    "M3vJd0zEWCE"
+    "M3vJd0zEWCE",
+    "lo2GMrWk0Vw"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-04T18:55:15Z"
+  "generated_at": "2026-11-06T18:34:45Z"
 }
