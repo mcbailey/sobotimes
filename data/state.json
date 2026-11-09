@@ -4086,6 +4086,22 @@
       "processed_at": "2026-11-06T18:31:48Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "EF2iIo4yjPI": {
+      "id": "EF2iIo4yjPI",
+      "title": "Library Board of Trustees 10/9/26",
+      "description": "",
+      "published_at": "2026-11-09T16:02:46Z",
+      "duration_s": 3661,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 1,
+      "discovered_at": "2026-11-09T21:38:42Z",
+      "meeting_date": "2026-10-09",
+      "week": "2026-10-05",
+      "last_error": "static processing: interaction failed: There was a problem processing your request. You will only be charged for tokens successfully generated. (PERMISSION_DENIED)"
     }
   },
   "usage": {
@@ -4304,13 +4320,21 @@
       "output_tokens": 0,
       "thought_tokens": 0,
       "tool_use_tokens": 0
+    },
+    "2026-11-09": {
+      "video_minutes": 0,
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "thought_tokens": 0,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-08T17:15:13Z",
-    "discovered": 24,
+    "at": "2026-11-09T21:38:41Z",
+    "discovered": 25,
     "summarized": 0,
     "refreshed": 0,
-    "errors": 0
+    "errors": 1
   }
 }
