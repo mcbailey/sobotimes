@@ -1,79 +1,81 @@
 {
-  "headline": "The Select Board adopted an FY27 tax rate of $14.54, weighed an FY28 operating override, and reviewed traffic impacts for Costco.",
-  "synopsis": "Southborough officials focused on fiscal planning and major commercial developments in early November. The Select Board approved a unified FY27 property tax rate of $14.54 per thousand, resulting in an estimated 5 percent tax bill increase for average single-family homes, while projecting a $1.4 million deficit for FY28 that may require a Proposition 2 1/2 operating override. Meanwhile, DPW presented FY28 capital requests to the Capital Improvement and Planning Committee, led by $1.82 million for smart water meters and water tank repairs. The Planning Board scrutinized revised traffic modeling and intersection impacts for the proposed 167,000-square-foot Costco warehouse on Coslin Drive before continuing the hearing to mid-November. Additionally, the town announced a $631,350 state grant to fund half the cost of major upgrades at Fayville Memorial Park, and the Planning Board cleared occupancy permits for projects at Valvoline and Fay School.",
+  "headline": "Southborough set its FY27 tax rate at $14.54 while municipal and school boards confronted a projected $1.4 million FY28 operating deficit.",
+  "synopsis": "In November, Southborough finalized its FY27 single property tax rate of $14.54 as town and school officials turned their focus to a looming FY28 budget deficit. Town administration forecast a $1.4 million shortfall under level services, initiating discussions on whether to propose a Proposition 2 1/2 operational override or order deep department spending cuts. Meanwhile, the School Committee reviewed a preliminary 5.36 percent budget increase driven by surges in special education tuition and student transportation costs. In school infrastructure, the Neary Elementary School roof replacement neared completion nearly $1.6 million under budget, while officials debated whether to pursue state assistance for a comprehensive building renovation. Additionally, the Planning Board continued reviewing traffic congestion around the proposed Route 9 Costco warehouse, and the DPW presented requests for smart water meters and tank repairs.",
   "top_items": [
     {
-      "title": "Select Board Sets FY27 Single Tax Rate at $14.54",
-      "why": "The Select Board voted 4-1 for a unified tax rate and rejected exemptions, raising the average single-family tax bill by roughly 5 percent.",
-      "body": "The Principal Assessor and Board of Assessors presented valuation trends showing Southborough's total town valuation reached $4.072 billion, with the average single-family home value rising 3.7 percent to $1,027,800. The Select Board voted 4-1 to maintain a single tax rate rather than shifting the tax burden onto commercial properties, and voted 5-0 against residential and small commercial exemptions. The estimated tax rate of $14.54 per thousand will result in an estimated 5.01 percent increase on the average single-family property tax bill.",
-      "importance": "high",
-      "video_id": "3GzT-erLNY0",
-      "start_seconds": 0,
-      "issue": "fy27-operating-budget"
-    },
-    {
-      "title": "Select Board Weighs Override for Projected $1.4M FY28 Deficit",
-      "why": "Early FY28 budget modeling revealed a $1.4 million deficit under a level-services plan, prompting discussions of a Proposition 2 1/2 override.",
-      "body": "Town administration presented two budget options for fiscal year 2028. Budget A maintains level municipal services but carries a $1.4 million shortfall that would necessitate a Proposition 2 1/2 operating override at Town Meeting. Budget B level-funds dollar amounts, requiring departmental cuts to staff and services to remain within statutory levy limits. The board directed department heads to prepare impact memos and scheduled budget hearings for major departments ahead of deciding whether to pursue a single- or multi-year override.",
+      "title": "Town evaluates override options for projected $1.4 million FY28 deficit",
+      "why": "Early projections for FY28 show a $1.4 million shortfall under level municipal services, prompting town leaders to weigh an operational override against service cuts.",
+      "body": "Town administration outlined two distinct paths for the FY28 budget: Budget A maintains level services but requires a Proposition 2 1/2 override to cover a $1.4 million deficit, while Budget B level-funds department budgets by requiring staff and service reductions. The Select Board scheduled budget hearings with large departments and instructed officials to prepare impact memos explaining the operational consequences of proposed cuts.",
       "importance": "high",
       "video_id": "3GzT-erLNY0",
       "start_seconds": 2301,
       "issue": "fy28-operating-budget"
     },
     {
-      "title": "Costco Traffic Study Faces Scrutiny from Planning Board",
-      "why": "The Planning Board reviewed updated traffic modeling for the proposed 167,000-square-foot Costco, focusing on intersection failures and truck traffic.",
-      "body": "Costco Wholesale presented revised traffic analyses that incorporated feedback from MassDOT and town peer review consultant Nitsch Engineering for the proposed 167,000-square-foot warehouse and 30-position gas station at 21 Coslin Drive. Board members and abutting residents raised concerns regarding severe intersection delays along Route 9 and commercial vehicles cutting through residential streets. Proposed developer mitigation includes repaving Coslin Drive and Crystal Pond Road, retiming Route 9 traffic signals, and adopting a travel demand management plan. The public hearing was continued to November 16, 2026.",
+      "title": "School Committee reviews preliminary 5.36% FY28 budget increase",
+      "why": "Rising costs for out-of-district special education and student transportation pushed the preliminary K-8 school operating budget up by $1.4 million.",
+      "body": "District administrators presented a preliminary FY28 budget of $27,514,571, an increase of $1,399,853 driven by a 41 percent rise in special education tuitions and a 13 percent increase in transportation costs. The Southborough School Committee discussed options to meet town guidance, noting that a level-funded budget would require cutting $1.4 million and approximately 15 staff positions.",
+      "importance": "high",
+      "video_id": "T0wz6L1UDBc",
+      "start_seconds": 6445,
+      "issue": "fy28-school-operating-budget"
+    },
+    {
+      "title": "Select Board adopts single FY27 property tax rate of $14.54",
+      "why": "The Select Board voted 4-1 to keep a uniform tax rate for residential and commercial properties, rejecting rate split and exemption proposals.",
+      "body": "Southborough's total property valuation reached $4.072 billion for FY27, with the average single-family home valuation increasing by 3.7 percent to $1,027,800. Following the tax classification hearing, the board voted 4-1 to set a single tax rate of $14.54 per thousand and voted 5-0 against adopting residential or small commercial exemptions.",
+      "importance": "high",
+      "video_id": "3GzT-erLNY0",
+      "start_seconds": 0,
+      "issue": "fy27-operating-budget"
+    },
+    {
+      "title": "Neary School renovation designs advance amid debate over state funding",
+      "why": "Architects presented refined addition and renovation plans for Neary School while officials weighed whether to enter the multi-year MSBA funding process.",
+      "body": "Tappe Architects unveiled refined designs for Option 3, which includes a secure entry, an expanded gymnasium in the interior courtyard, new breakout learning spaces, and the elimination of modular classrooms. The School Committee discussed whether to submit a Statement of Interest to the Massachusetts School Building Authority in January 2027 or fund the project locally to avoid multi-year scheduling delays and construction cost inflation.",
+      "importance": "high",
+      "video_id": "T0wz6L1UDBc",
+      "start_seconds": 2970,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Planning Board questions traffic impacts for proposed Costco warehouse",
+      "why": "Costco presented a revised traffic study for its 167,000-square-foot warehouse and gas station, facing concerns over local traffic congestion.",
+      "body": "Planning Board members and residents scrutinized projected traffic impacts, focusing on failing intersection service levels along Route 9 and potential truck traffic cutting through residential neighborhoods. Costco offered mitigation plans including repaving Coslin Drive and Crystal Pond Road, traffic signal timing adjustments, and travel demand programs before the hearing was continued to November 16.",
       "importance": "high",
       "video_id": "Gw6Qwa7ODbE",
       "start_seconds": 10,
       "issue": "21-coslin-drive-costco"
     },
     {
-      "title": "DPW Submits FY28 Capital Requests for Water and Highway",
-      "why": "DPW presented capital priorities including $1.82 million for smart water meters and $700,000 for water tank rehabilitation.",
-      "body": "Public Works Director Bill Cundiff outlined the department's FY28 capital requests and 10-year capital forecast to the Capital Improvement and Planning Committee. Key proposals include an estimated $1.82 million smart water meter system aimed at tracking and reducing an estimated 20 percent water loss, $700,000 to rehabilitate the Tara Road water tank, and $550,000 for two highway plow trucks. The presentation also addressed an $823,000 soil remediation at the former Atwood water tank site and potential formation of a stormwater enterprise fund. DPW will provide vehicle maintenance records before recommendations are finalized in December.",
+      "title": "DPW presents $1.82 million smart water meter capital request",
+      "why": "The Department of Public Works proposed digital water meters to address an estimated 20 percent water loss, along with tank maintenance and vehicle requests.",
+      "body": "Public works officials outlined major FY28 capital priorities to the Capital Improvement and Planning Committee, including $1.82 million for advanced smart water meters, $700,000 for state-mandated repairs to the Tara Road water tank, and $550,000 for two highway plow trucks. The DPW also noted ongoing evaluations of an $823,000 soil cleanup at the former Atwood tank site.",
       "importance": "high",
       "video_id": "M3vJd0zEWCE",
       "start_seconds": 128,
       "issue": "fy28-capital-budget"
     },
     {
-      "title": "Southborough Awarded $631,350 State Grant for Fayville Park",
-      "why": "A state grant will cover half the cost of park upgrades including a splash pad, dog park, and trail, pending local approvals.",
-      "body": "The town administrator announced Southborough secured a $631,350 state grant for the Fayville Memorial Park renovation, funding 50 percent of the planned improvements. Proposed features include a splash pad, walking trail, dog park, and accessibility improvements. Full project implementation remains subject to Community Preservation Committee funding and voter approval at the March 2027 Annual Town Meeting, while officials evaluate roadway parking configurations and Article 97 parkland protections.",
+      "title": "Neary School roof replacement wraps up $1.6 million under budget",
+      "why": "The Neary roof replacement reached 97 percent completion, projecting final costs of roughly $2.91 million against a $4.5 million appropriation.",
+      "body": "School administrators reported that the Neary roof project has entered punch-list completion well below its original budget. The unused borrowing authorization of nearly $1.6 million will be returned to reduce the town's overall debt burden.",
       "importance": "medium",
-      "video_id": "3GzT-erLNY0",
-      "start_seconds": 5004,
-      "issue": "fayville-memorial-park-improvements"
-    },
-    {
-      "title": "Valvoline Approved for 90-Day Temporary Occupancy",
-      "why": "The Planning Board voted 4-0 to grant a 90-day temporary certificate of occupancy for 361 Turnpike Road subject to punch-list conditions.",
-      "body": "The Planning Board reviewed an as-built site plan and minor changes for the newly built Valvoline facility at 361 Turnpike Road. Town staff and peer review confirmed the applicant completed required plantings, adjusted entrance geometry, and addressed Conservation Commission buffer mitigation. The board voted 4-0 to approve a 90-day temporary certificate of occupancy, requiring the applicant to submit photometric lighting plans, adjust mulch, plant geraniums, and record a fire hydrant easement before obtaining permanent occupancy.",
-      "importance": "medium",
-      "video_id": "Gw6Qwa7ODbE",
-      "start_seconds": 5505,
-      "issue": "361-turnpike-road"
-    },
-    {
-      "title": "Fay School Building Addition Recommended for Occupancy",
-      "why": "The Planning Board voted 4-0 to approve final landscaping and as-built plans, recommending an occupancy permit for 25 Middle Road.",
-      "body": "The Planning Board approved Version 3 of the landscape mitigation plan and accepted civil as-built drawings for the Fay School building addition at 25 Middle Road. Peer review engineers confirmed the site drainage met town requirements, though high stormwater velocity in one drainage pipe section will require routine maintenance. The board voted 4-0 to recommend that the building commissioner issue a full certificate of occupancy ahead of the expiration of the school's temporary permit.",
-      "importance": "medium",
-      "video_id": "Gw6Qwa7ODbE",
-      "start_seconds": 4700,
-      "issue": "fay-school-25-middle-road"
+      "video_id": "T0wz6L1UDBc",
+      "start_seconds": 2255,
+      "issue": "neary-school-roof-replacement"
     }
   ],
   "month": "2026-11",
-  "fingerprint": "fda9c05636b7af96",
+  "fingerprint": "0a977c3786265066",
   "video_ids": [
     "3GzT-erLNY0",
+    "EF2iIo4yjPI",
     "Gw6Qwa7ODbE",
     "M3vJd0zEWCE",
+    "T0wz6L1UDBc",
     "lo2GMrWk0Vw"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-06T18:41:43Z"
+  "generated_at": "2026-11-10T19:05:07Z"
 }

@@ -1601,34 +1601,34 @@
       "description": "Annual municipal operating budget, revenue cap balancing, and omnibus warrant article for fiscal year 2027.",
       "category": "Budget & taxes",
       "first_seen": "2026-03-09",
-      "last_seen": "2026-11-04",
-      "status": "The $71,077,130 FY27 operating budget was approved by Town Meeting in April 2026, and the Select Board set the town's FY27 single tax rate at an estimated $14.54 per thousand on November 4, 2026. The Select Board also voted against adopting residential or small commercial exemptions, resulting in an estimated 5.01 percent tax bill increase for the average single-family home. The board indicated interest in exploring a senior means-tested tax relief program through future legislation.",
-      "status_as_of": "2026-11-04",
+      "last_seen": "2026-11-09",
+      "status": "The FY27 municipal operating budget of $71,077,130 was enacted after passing at the April 2026 Annual Town Meeting, which approved contested appropriations for police staffing, employee benefits, and the Economic Development Committee. On November 4, 2026, the Select Board finalized the revenue side by voting 4-1 to maintain a single unified tax rate of $14.54 per thousand, rejecting residential and small commercial exemptions. Departments are currently executing their FY27 budgets as preliminary planning for FY28 begins.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Town Meeting",
           "stance": "support",
-          "detail": "Approved the $71,077,130 general fund operating budget under Article 6 on April 11, 2026, including separately debated lines for police staffing, employee benefits, and the Economic Development Committee."
+          "detail": "Approved Article 6 on April 11, 2026, passing the full $71,077,130 operating budget along with all held departmental line items."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 on Nov 4 to maintain a unified single tax rate, voted 5-0 against exemptions, and previously supported the budget warrant article 3-2 in March."
+          "detail": "Voted 3-2 to recommend the operating budget in March 2026, and later voted 4-1 on November 4 to adopt a single tax rate of $14.54 per thousand."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Voted 5-0 on March 16 to recommend the overall FY27 budget, supporting transitions toward high-deductible health plans while highlighting long-term post-employment benefit liabilities."
+          "detail": "Voted 5-0 on March 16, 2026, to recommend the FY27 operating budget after deferring vehicle purchases and factoring in health plan savings."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Speakers at Town Meeting supported police funding and grant-matching funds but questioned health plan cost increases and budget line items for inactive committees."
+          "detail": "Voters at Town Meeting questioned police headcount additions, employee benefit cost spikes, and funding an inactive committee, while others defended public safety response needs and grant matches."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "004f0bb25bd38386",
+      "status_fingerprint": "aa5979fe12629337",
       "status_model": "gemini-3.8-flash"
     },
     "fy27-regional-school-operating-budget": {
@@ -1679,18 +1679,18 @@
       "description": "Operating budget planning, class size staffing, and reserve funding for the Southborough K-8 public schools for fiscal year 2027.",
       "category": "Schools",
       "first_seen": "2026-05-11",
-      "last_seen": "2026-10-14",
-      "status": "The FY27 school operating budget is in its first quarter of implementation with an available balance of $349,347 (1.34 percent), having absorbed two additional elementary teachers hired over the summer to maintain target class sizes. The School Committee voted on October 14 to approve internal line-item transfers to cover deficits in special education transportation, generator fuel, water, and curriculum salaries without requiring new funds. In addition, the committee is awaiting action from the Select Board on its formal request to direct $105,485 in unexpected Chapter 70 state aid into the town's currently empty Special Education Stabilization Fund.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-09",
+      "status": "The FY27 school operating budget is currently in active execution, with the district maintaining an available balance of $332,720 (1.27% of the budget) as of October 31, 2026. The budget absorbed two additional elementary teachers hired over the summer to maintain class sizes, with internal transfers covering localized deficits in transportation, utilities, and curriculum salaries. Additionally, the School Committee has requested that the Select Board place an unbudgeted $105,485 in state Chapter 70 aid into the town's empty Special Education Stabilization Fund.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 14 to approve the first-quarter expenditure report and internal transfers, and requested that the Select Board place $105,485 in surplus state aid into the Special Education Stabilization Fund."
+          "detail": "Endorsed the 3.99% operating budget in May and voted unanimously on Nov 9 to accept the October expenditure report, approve overexpended function codes, and accept $747,857 in state and federal grants."
         }
       ],
       "next": "",
-      "status_fingerprint": "06e6400e3b7700cb",
+      "status_fingerprint": "6c12f25e2dd95141",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1731,19 +1731,29 @@
       "description": "Planning, departmental request review, and debt financing prioritization for the fiscal year 2028 capital improvement plan.",
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-02",
-      "status": "The FY28 capital budget is under review by the Capital Improvement and Planning Committee as it evaluates departmental requests across town operations. The committee recently reviewed major Public Works and Water proposals—including Tara Road water tank rehabilitation, an Atwood tank soil cleanup, and an estimated $1.82 million smart water meter system—along with police cruiser and equipment lease requests. Department heads must still submit additional maintenance records, prioritized lists, and memos before the committee finalizes recommendations.",
-      "status_as_of": "2026-11-02",
+      "last_seen": "2026-11-09",
+      "status": "The FY28 capital improvement plan is under active review as boards evaluate multi-million-dollar requests across municipal and school operations. Submitted priorities include $710,000 for school building repairs and safety fencing, public works plow trucks, state-mandated water tank rehabilitation, and a potential $1.82 million smart water meter conversion. The Capital Improvement and Planning Committee is compiling departmental presentations and maintenance data before delivering its recommendations to the Select Board in early December.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Reviewing departmental proposals and gathering maintenance records and lease details before finalizing its recommendations to the Select Board."
+          "detail": "Currently evaluating departmental proposals from public works, water, police, and schools ahead of drafting recommendations in December."
+        },
+        {
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Advanced a $710,000 FY28 capital plan covering school safety fencing, stairs, and sink replacements, while maintaining a $45 million placeholder for Neary."
+        },
+        {
+          "body": "Public comment",
+          "stance": "neutral",
+          "detail": "A resident cautioned that annual construction inflation could outpace MSBA reimbursement benefits if school building project decisions are delayed."
         }
       ],
-      "next": "Capital Committee presentation to the Select Board and Advisory Committee on December 1, 2026.",
+      "next": "Capital Improvement and Planning Committee meeting to review school department capital requests on November 16, 2026.",
       "significance": 4,
-      "status_fingerprint": "b2f217ee016b4be3",
+      "status_fingerprint": "77d0a6a1644c98ba",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -1831,6 +1841,27 @@
       "next": "Preliminary FY28 budget presentation to the Regional School Committee on November 18, 2026.",
       "significance": 5,
       "status_fingerprint": "7fe2bbcf540d15ed",
+      "status_model": "gemini-3.8-flash"
+    },
+    "fy28-school-operating-budget": {
+      "id": "fy28-school-operating-budget",
+      "name": "FY28 school operating budget",
+      "description": "Operating budget planning, cost reduction scenarios, and class staffing for Southborough K-8 public schools for fiscal year 2028.",
+      "category": "Schools",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "District administrators presented a preliminary FY28 operating budget of $27,514,571, representing a 5.36% increase driven largely by salaries, transportation, and a 41% rise in out-of-district special education tuition. The Southborough School Committee is currently evaluating reduction scenarios to meet town guidance, which include cutting $616,411 to reach a 3% target or cutting $1.4 million and roughly 15 staff positions under level-funding. Officials will discuss the figures with the Select Board before the superintendent submits a refined recommended budget in December.",
+      "status_as_of": "2026-11-09",
+      "positions": [
+        {
+          "body": "Southborough School Committee",
+          "stance": "undecided",
+          "detail": "Reviewing a preliminary 5.36% increase while weighing reduction scenarios required to meet town guidance targets."
+        }
+      ],
+      "next": "Joint meeting with the Select Board on November 17, 2026.",
+      "significance": 5,
+      "status_fingerprint": "b0953dca7b9b24b2",
       "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
@@ -2154,6 +2185,27 @@
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
+    "library-patron-behavior-policy": {
+      "id": "library-patron-behavior-policy",
+      "name": "Library patron behavior and trespass policy",
+      "description": "Drafting and adoption of a formal library policy governing patron conduct, trespass notices, and closing enforcement.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "The Library Board of Trustees is developing a formal patron code of conduct and trespass policy following an Election Day incident and police inquiries regarding trespass authority. Trustees supported staff's closing enforcement procedures and agreed on the necessity of formal guidelines. The library director will draft the policy for review by the trustees, town legal counsel, and police.",
+      "status_as_of": "2026-11-09",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Agreed on Nov 9, 2026, to establish a formal patron conduct and trespass policy and affirmed support for staff closing procedures."
+        }
+      ],
+      "next": "Presentation of the draft policy to the Library Board of Trustees in December 2026.",
+      "significance": 2,
+      "status_fingerprint": "cc2a9ca25af15cf6",
+      "status_model": "gemini-3.8-flash"
+    },
     "library-security-cameras": {
       "id": "library-security-cameras",
       "name": "Library security camera installation",
@@ -2289,6 +2341,27 @@
       "status_fingerprint": "99b70a09aeebe313",
       "status_model": "gemini-3.8-flash",
       "significance": 5
+    },
+    "mplcp-library-construction-grant": {
+      "id": "mplcp-library-construction-grant",
+      "name": "Library state construction grant application",
+      "description": "Preparation and building assessment for an application under the Massachusetts Public Library Construction Program.",
+      "category": "Buildings & facilities",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "Preparations are underway for an application to the Massachusetts Public Library Construction Program ahead of a grant round expected to open early next year. The Library Board of Trustees has authorized the director to seek proposals for an updated building condition assessment capped under $10,000. Trustees are also developing a targeted community survey on facility needs to support the grant submission.",
+      "status_as_of": "2026-11-09",
+      "positions": [
+        {
+          "body": "Library Board of Trustees",
+          "stance": "support",
+          "detail": "Authorized the director on Nov 9 to solicit proposals for a building assessment under $10,000 to prepare for the state grant program."
+        }
+      ],
+      "next": "",
+      "significance": 4,
+      "status_fingerprint": "fdc80344614e2640",
+      "status_model": "gemini-3.8-flash"
     },
     "multi-year-road-and-sidewalk-borrowing": {
       "id": "multi-year-road-and-sidewalk-borrowing",
@@ -2477,43 +2550,43 @@
       "description": "Feasibility, design, and renovation or replacement planning for Neary Elementary School.",
       "category": "Schools",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-11-02",
-      "status": "The Elementary School Building Committee voted 4-0 in October to advance Option 3—a comprehensive renovation of Neary Elementary School with a full-sized gymnasium addition—into schematic design. The School Committee is also evaluating whether to submit a Statement of Interest to the Massachusetts School Building Authority, which could restart state funding assistance but lengthen the timeline. Municipal boards are scheduling joint financial sessions before finalized schematic designs and detailed cost estimates are delivered in December.",
-      "status_as_of": "2026-11-02",
+      "last_seen": "2026-11-09",
+      "status": "The Elementary School Building Committee has advanced Option 3, a comprehensive addition and renovation plan that adds a secure entryway, replaces modulars, and infills the interior courtyard for a full-sized gymnasium. Officials are currently debating whether to submit an MSBA Statement of Interest in January 2027 or pursue a locally funded project, weighing state reimbursement against a four-to-five-year delay and construction cost inflation. The project architect will present detailed cost estimates this week ahead of joint multi-board discussions to align on townwide financial capacity.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 21 to move Option 3 into schematic design for detailed architectural and cost evaluations."
+          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design after concluding a $15 million baseline scope fails to meet educational and facility needs."
         },
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewing renovation tiers and preparing to discuss whether to submit an MSBA Statement of Interest."
+          "detail": "Debating whether to apply for MSBA state funding in January 2027 or proceed with a town-funded project, weighing delay and inflation against state aid."
         },
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "neutral",
-          "detail": "Monitoring project cost projections and seeking joint sessions to evaluate Southborough's overall capital capacity."
+          "detail": "Monitoring project cost estimates and overall town borrowing capacity ahead of joint sessions with the Select Board and Advisory Committee."
         },
         {
           "body": "Select Board",
           "stance": "neutral",
-          "detail": "Received updates on preliminary design options and cost estimates without endorsing a specific plan."
+          "detail": "Received an options briefing in October and is awaiting updated cost figures for joint board discussions."
         },
         {
           "body": "Advisory Committee",
           "stance": "neutral",
-          "detail": "Appointed a liaison to track design options and cost estimates ahead of future Town Meeting warrant articles."
+          "detail": "Appointed a liaison to monitor project options and finances ahead of joint municipal review meetings."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents urged comprehensive capital planning that factors in Finn School maintenance and the operational costs of relocating central school offices."
+          "detail": "Residents questioned whether MSBA delays and inflation would offset state reimbursement, urged accounting for central office relocation costs, and stressed coordinating with townwide capital needs."
         }
       ],
-      "next": "Architectural update and cost estimates presentation on November 12, 2026",
-      "status_fingerprint": "519946a9b93de4d5",
+      "next": "Elementary School Building Committee review of refined schematic designs and cost estimates on November 12, 2026.",
+      "status_fingerprint": "baf9fac64f6d3b47",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -2523,33 +2596,38 @@
       "description": "Proposed borrowing and debt exclusion to replace the failing roof and fund ADA upgrades at Neary Elementary School.",
       "category": "Schools",
       "first_seen": "2026-02-23",
-      "last_seen": "2026-10-14",
-      "status": "The Neary Elementary School roof replacement is nearly 90 percent complete, on schedule, and running significantly under budget. The school district expects final demobilization by mid-November 2026 and anticipates returning nearly $2 million of the $4.5 million Town Meeting borrowing appropriation to the town. Standalone ADA upgrades originally paired with the roof project were deferred at Special Town Meeting so they could be evaluated as part of a larger Neary renovation study.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-09",
+      "status": "The Neary Elementary School roof replacement is more than 97 percent complete and entering punch-list completion. Final project costs are projected at approximately $2.91 million, finishing nearly $1.6 million under the $4.5 million borrowing authorization approved by Special Town Meeting in March 2026. The unused borrowing authorization will be returned to reduce the town's overall debt service as work wraps up.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Supported the project throughout construction and reported in October 2026 that the project is nearly complete with substantial cost savings."
+          "detail": "Reviewed progress on Nov 9, 2026, noting the project is on schedule, entering closeout, and significantly under budget."
+        },
+        {
+          "body": "Special Town Meeting",
+          "stance": "support",
+          "detail": "Voted 377-33 on March 2, 2026, to authorize $4.5 million in borrowing to replace the roof."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Unanimously supported the revised $4.5 million borrowing authorization at Special Town Meeting after removing standalone ADA upgrades."
+          "detail": "Unanimously supported the revised $4.5 million borrowing authorization at Special Town Meeting after deferring standalone ADA upgrades."
         },
         {
           "body": "Advisory Committee",
           "stance": "support",
-          "detail": "Unanimously supported the reduced $4.5 million borrowing request at Special Town Meeting."
+          "detail": "Unanimously recommended approval of the $4.5 million borrowing article at Special Town Meeting."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents strongly supported replacing the failing roof while asking about ballot exclusion risks and ADA triggers, and later urged assessing town-wide deferred maintenance holistically."
+          "detail": "Residents voiced strong support for replacing the failing roof immediately, while others questioned the deferral of ADA upgrades and asked about debt exclusion impacts."
         }
       ],
-      "next": "Final demobilization by mid-November 2026",
-      "status_fingerprint": "eb844ffbcc66ee20",
+      "next": "Contractor demobilization and punch-list completion in mid-November 2026",
+      "status_fingerprint": "c844dc7a56ada402",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -3357,28 +3435,28 @@
       "description": "Contract administration, financial performance, and annual renewals for district food services with Whitsons Culinary Group.",
       "category": "Schools",
       "first_seen": "2026-05-11",
-      "last_seen": "2026-10-14",
-      "status": "Contracts with Whitsons Culinary Group were extended for the 2026–2027 school year after both school committees approved one-year renewals in May, despite an initial failed vote and reconsideration at the regional level over meal quality and staffing. Whitsons has since introduced a new district general manager, added dedicated kitchen management, and revised menu options in response to student surveys and staff feedback. Administration will conduct a quarterly review in December to evaluate financial performance and decide whether to rebid or continue the contract into a third year.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-09",
+      "status": "District food services by Whitsons Culinary Group are currently operating under one-year contract extensions for the 2026-2027 school year following approvals by both school committees in May. While the Southborough School Committee renewed unanimously, the Regional School Committee approved its renewal only on reconsideration after an initial vote failed over meal quality, staff morale, and financial deficits. Whitsons has since appointed new district general management and adjusted menus in response to student surveys and cafeteria concerns. District administration is currently evaluating vendor performance and will present a data-driven evaluation report and financial update in December 2026.",
+      "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted unanimously on May 13 to extend the contract for 2026–2027, and received favorable reports in October on new kitchen management and expanded menu initiatives."
+          "detail": "Voted unanimously in May 2026 to extend Whitsons' contract for 2026-2027 and is reviewing first-quarter evaluation criteria ahead of a December report."
         },
         {
           "body": "Northborough-Southborough Regional School Committee",
-          "stance": "support",
-          "detail": "Now supports; voted 8-1 on reconsideration on May 20 to approve the contract extension after an initial 3-4-2 vote failed over concerns about food quality and staff morale."
+          "stance": "mixed",
+          "detail": "Approved the 2026-2027 renewal 8-1 on reconsideration after an initial motion failed due to concerns regarding meal quality, kitchen staff morale, and budget shortfalls."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "A high school cafeteria employee cited low staff morale, meal shortages, and dissatisfaction with frozen processed items replacing homemade food."
+          "detail": "A cafeteria worker voiced concerns in May 2026 over low staff morale, meal shortages, and frozen processed food replacing freshly prepared items."
         }
       ],
-      "next": "Quarterly financial and participation review in December 2026",
-      "status_fingerprint": "5bda1e2655bf9c42",
+      "next": "Administration presentation of Whitsons evaluation findings and quarterly financial update in December 2026",
+      "status_fingerprint": "14b4b902aef8c74a",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },

@@ -1,0 +1,126 @@
+{
+  "week": "2026-11-09",
+  "fingerprint": "1f2c44513126a60f",
+  "topics": {
+    "EF2iIo4yjPI#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "EF2iIo4yjPI#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EF2iIo4yjPI#2": {
+      "issue": null,
+      "category": "Buildings & facilities"
+    },
+    "EF2iIo4yjPI#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "EF2iIo4yjPI#4": {
+      "issue": "library-patron-behavior-policy",
+      "category": "Library, arts & community"
+    },
+    "EF2iIo4yjPI#5": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "EF2iIo4yjPI#6": {
+      "issue": "fy27-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "EF2iIo4yjPI#7": {
+      "issue": "mplcp-library-construction-grant",
+      "category": "Buildings & facilities"
+    },
+    "EF2iIo4yjPI#8": {
+      "issue": "library-patron-behavior-policy",
+      "category": "Library, arts & community"
+    },
+    "T0wz6L1UDBc#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#2": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#3": {
+      "issue": "neary-school-roof-replacement",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#4": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#5": {
+      "issue": "fy27-school-operating-budget",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#6": {
+      "issue": "fy28-capital-budget",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#7": {
+      "issue": "fy28-school-operating-budget",
+      "category": "Schools"
+    },
+    "T0wz6L1UDBc#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    }
+  },
+  "votes": {
+    "T0wz6L1UDBc#v0": {
+      "issue": "fy27-school-operating-budget"
+    },
+    "T0wz6L1UDBc#v1": {
+      "issue": "fy27-school-operating-budget"
+    }
+  },
+  "upcoming": {
+    "EF2iIo4yjPI#u0": {
+      "date": "2026-12-05",
+      "issue": null
+    },
+    "EF2iIo4yjPI#u1": {
+      "date": null,
+      "issue": null
+    },
+    "EF2iIo4yjPI#u2": {
+      "date": null,
+      "issue": "mplcp-library-construction-grant"
+    },
+    "EF2iIo4yjPI#u3": {
+      "date": null,
+      "issue": null
+    },
+    "T0wz6L1UDBc#u0": {
+      "date": "2026-11-12",
+      "issue": "neary-school-building-project"
+    },
+    "T0wz6L1UDBc#u1": {
+      "date": "2026-11-16",
+      "issue": "fy28-capital-budget"
+    },
+    "T0wz6L1UDBc#u2": {
+      "date": "2026-11-17",
+      "issue": "fy28-school-operating-budget"
+    },
+    "T0wz6L1UDBc#u3": {
+      "date": "2026-12-02",
+      "issue": null
+    },
+    "T0wz6L1UDBc#u4": {
+      "date": "2026-12-09",
+      "issue": "fy28-school-operating-budget"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-10T19:00:05Z"
+}
