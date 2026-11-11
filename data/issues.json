@@ -2551,42 +2551,27 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-11-09",
-      "status": "The Elementary School Building Committee has advanced Option 3, a comprehensive addition and renovation plan that adds a secure entryway, replaces modulars, and infills the interior courtyard for a full-sized gymnasium. Officials are currently debating whether to submit an MSBA Statement of Interest in January 2027 or pursue a locally funded project, weighing state reimbursement against a four-to-five-year delay and construction cost inflation. The project architect will present detailed cost estimates this week ahead of joint multi-board discussions to align on townwide financial capacity.",
+      "status": "The Elementary School Building Committee has advanced Option 3—a comprehensive addition and renovation that includes an enclosed courtyard gymnasium and the removal of modular classrooms—into schematic design. Southborough officials and the School Committee are currently weighing whether to submit a Statement of Interest for state MSBA funding in January 2027 or finance the project locally to avoid multi-year construction inflation and delays. Detailed cost estimates will be reviewed by the building committee ahead of multi-board joint sessions to prepare for a targeted March 2027 Town Meeting vote.",
       "status_as_of": "2026-11-09",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design after concluding a $15 million baseline scope fails to meet educational and facility needs."
+          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design, concluding that a lower-cost $15 million baseline repair scope failed to meet basic educational and mechanical needs."
         },
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Debating whether to apply for MSBA state funding in January 2027 or proceed with a town-funded project, weighing delay and inflation against state aid."
-        },
-        {
-          "body": "Capital Improvement and Planning Committee",
-          "stance": "neutral",
-          "detail": "Monitoring project cost estimates and overall town borrowing capacity ahead of joint sessions with the Select Board and Advisory Committee."
-        },
-        {
-          "body": "Select Board",
-          "stance": "neutral",
-          "detail": "Received an options briefing in October and is awaiting updated cost figures for joint board discussions."
-        },
-        {
-          "body": "Advisory Committee",
-          "stance": "neutral",
-          "detail": "Appointed a liaison to monitor project options and finances ahead of joint municipal review meetings."
+          "detail": "Is evaluating Option 3 while weighing whether state MSBA reimbursement would be eroded by inflation during a four-to-five-year application delay."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents questioned whether MSBA delays and inflation would offset state reimbursement, urged accounting for central office relocation costs, and stressed coordinating with townwide capital needs."
+          "detail": "Residents cautioned that inflation during MSBA delays could wipe out reimbursement gains, urged transparency on costs to relocate central administration, and pressed officials to weigh Neary against other townwide capital needs."
         }
       ],
-      "next": "Elementary School Building Committee review of refined schematic designs and cost estimates on November 12, 2026.",
-      "status_fingerprint": "baf9fac64f6d3b47",
+      "next": "Elementary School Building Committee review of detailed cost estimates and schematic designs on November 12, 2026.",
+      "status_fingerprint": "17e5862833d79521",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
