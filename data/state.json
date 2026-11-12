@@ -4364,11 +4364,19 @@
       "output_tokens": 366,
       "thought_tokens": 1875,
       "tool_use_tokens": 0
+    },
+    "2026-11-12": {
+      "video_minutes": 0,
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "thought_tokens": 0,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-11T18:53:42Z",
-    "discovered": 23,
+    "at": "2026-11-12T19:09:33Z",
+    "discovered": 22,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
