@@ -1,0 +1,148 @@
+{
+  "video": {
+    "id": "DHl3-_4N-W4",
+    "title": "Recreation Commission 11/12/26",
+    "published_at": "2026-11-13T13:52:40Z",
+    "duration_s": 5463
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Recreation Commission",
+    "meeting_date": "2026-11-12",
+    "headline": "Southborough secured a state grant of up to $632,000 for the Fayville Park project, cutting the town CPA funding request in half.",
+    "summary": "The Recreation Commission welcomed new member Carol Manahan and heard updates on upcoming community events, including the 20th annual Gobble Wobble road race. The commission voted to submit a letter of support for the Trails Committee's MassTrails grant application to construct the Peninsula Trail bridge. The commission also announced the town was awarded a Land and Water Conservation Fund grant of up to $632,000 for the Fayville Park splash pad and dog park project.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The commission called the meeting to order, introduced new member Carol Manahan, confirmed meeting logistics, and set the next in-person meeting date for December 7, 2026, before adjourning.",
+        "key_details": [
+          "Welcome of new commission member Carol Manahan",
+          "Review of meeting minutes tabled until the December meeting due to technical access issues",
+          "Next meeting scheduled for December 7, 2026, at 6:00 p.m. at 21 Highland Street"
+        ],
+        "outcome": "Meeting adjourned at 8:41 p.m.",
+        "why_it_matters": null,
+        "start_seconds": 1,
+        "end_seconds": null
+      },
+      {
+        "title": "Gobble Wobble road race update",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The president of the Friends of Southborough Recreation updated the commission on the 20th annual Thanksgiving Day Gobble Wobble road race. The event has raised over $10,000 from 25 local business sponsors, with 326 participants registered to date. Volunteers are still needed, especially for check-in and runner assistance.",
+        "key_details": [
+          "Over $10,000 in sponsorships received from 25 local sponsors",
+          "326 runners registered as of the meeting date",
+          "Last year drew 1,208 participants",
+          "Table Talk Pies discontinued all donations this year and will not provide pies",
+          "Proceeds fund recreation initiatives, summer camp scholarships, and concert events"
+        ],
+        "outcome": "Registration and volunteer sign-ups remain open through community postings.",
+        "why_it_matters": null,
+        "start_seconds": 180,
+        "end_seconds": null
+      },
+      {
+        "title": "Peninsula Trail bridge project and MassTrails grant",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Trails Committee Chair Kat McKee discussed the next steps for the Peninsula Trail bridge project following approval of Community Preservation Act funding at the October Special Town Meeting. The committee is applying for a MassTrails grant of up to $100,000 by February 2 to offset costs. The commission and Trails Committee also discussed coordinating project management roles and exploring trail parking options with Sanofi.",
+        "key_details": [
+          "MassTrails grant application is due February 2, 2027",
+          "Trails Committee requesting up to $100,000 in grant funding",
+          "If grant is awarded, contracting will occur by October 2027 with construction in early 2028",
+          "Without the grant, bidding could start summer 2027 with construction in late 2027",
+          "Discussions planned with Sanofi regarding trail parking access off Route 30"
+        ],
+        "outcome": "The commission voted 4-0 to provide a formal letter of support for the MassTrails grant application.",
+        "why_it_matters": null,
+        "start_seconds": 1061,
+        "end_seconds": null
+      },
+      {
+        "title": "Department updates and program reports",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The recreation director reviewed department operations, facility plans, and upcoming town events. The department is preparing to renovate space at 21 Highland Street after Youth and Family Services relocated, and is currently interviewing five candidates for a vacant business administrator position. Other updates covered field winterization, basketball court repairs, and planning for the town tricentennial New Year drone show.",
+        "key_details": [
+          "Recreation office space cleanup and renovation begins the first week of December",
+          "Interviewing five finalists for the department business administrator position",
+          "October program registrations reached 477, generating about $26,000 more revenue than October 2025",
+          "Director advocated to the Neary School Building Committee for an enlarged gymnasium and after-school program space",
+          "Repairs and fall sweeping completed at the 9/11 turf field for just over $1,000, with fence warping repairs under evaluation"
+        ],
+        "outcome": "Department staff will conduct interviews and bring fence and court repair estimates to a future meeting.",
+        "why_it_matters": null,
+        "start_seconds": 3000,
+        "end_seconds": null
+      },
+      {
+        "title": "Fayville Park project and $632,000 grant award",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "The director announced that Southborough was awarded a state Land and Water Conservation Fund grant of up to $632,000 for the Fayville Park project, covering approximately half of the projected costs. The project, which includes a children's splash pad and a dog park, will seek matching Community Preservation Act funds at the 2027 Annual Town Meeting. The commission is working with the Select Board, police, and DPW on parking solutions along Central Street.",
+        "key_details": [
+          "Awarded up to $632,000 from the Land and Water Conservation Fund",
+          "Grant covers roughly half the total Fayville Park project cost",
+          "CPA funding request will be submitted for the 2027 Annual Town Meeting warrant",
+          "Proposed parking plan includes parallel parking on the park side of Central Street and park visitor signage",
+          "Discussions ongoing regarding use of historical society and Southborough Athletic Association parking spaces"
+        ],
+        "outcome": "The commission plans to meet with the Select Board in December to finalize parking approvals.",
+        "why_it_matters": "The $632,000 state grant cuts the taxpayer/CPA funding needed to build new community amenities at Fayville Park, including a dog park and splash pad.",
+        "start_seconds": 4340,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To approve writing a letter of support from the Recreation Commission for the Trails Committee's Peninsula Trail bridge MassTrails grant application.",
+        "result": "passed",
+        "tally": "4-0",
+        "start_seconds": 2126
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Recreation Commission in-person meeting",
+        "when": "December 7, 2026, at 6:00 p.m."
+      },
+      {
+        "what": "MassTrails grant application deadline for Peninsula Trail bridge",
+        "when": "February 2, 2027"
+      },
+      {
+        "what": "Annual Town Meeting presentation for Fayville Park CPA funding",
+        "when": "Spring 2027"
+      }
+    ],
+    "caveats": "Several commissioners noted intermittent issues accessing town Microsoft Outlook email accounts during the meeting."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-13T18:51:34Z",
+  "usage": {
+    "total_tokens": 211478,
+    "total_input_tokens": 208520,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 207536
+      },
+      {
+        "modality": "text",
+        "tokens": 984
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1825,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1133,
+    "initial_input_tokens": 208520
+  }
+}

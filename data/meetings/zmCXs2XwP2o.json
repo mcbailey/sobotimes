@@ -1,0 +1,71 @@
+{
+  "video": {
+    "id": "zmCXs2XwP2o",
+    "title": "Elementary School Building Committee 11/12/26",
+    "published_at": "2026-11-13T13:52:19Z",
+    "duration_s": 4389
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Elementary School Building Committee",
+    "meeting_date": "2026-11-12",
+    "headline": "Architects presented updated Neary School renovation options showing realistic project costs range from $33 million to $40 million, far exceeding earlier $15 million estimates.",
+    "summary": "Tappé Architects presented a detailed cost comparison explaining why a previously suggested $15 million budget cannot achieve a 15-year life extension for Neary Elementary School. The architects demonstrated that a baseline systems-only upgrade would cost approximately $32.9 million all-in, while the district's preferred addition and renovation option with a full-size gymnasium totals roughly $39.8 million. Members of both the Building Committee and the School Committee discussed how to present these realistic figures to town boards and agreed to add site, civil, and septic estimates to future cost breakdowns.",
+    "topics": [
+      {
+        "title": "Neary School renovation cost analysis and design options",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "Architects presented an in-depth breakdown comparing current estimates against past reports and a previously suggested $15 million budget cap for Neary Elementary School renovations. They explained that fully modernizing the school's systems to meet building codes would cost around $32.9 million, while an addition and renovation plan addressing educational space needs would cost roughly $39.8 million. Committee members debated how to clearly explain the unfeasibility of the $15 million figure to town residents and asked architects to integrate site work, including septic replacement, into future numbers.",
+        "key_details": [
+          "A true baseline systems upgrade (Option 1) requires about $22.44 million in construction costs and $32.9 million in total project costs including the roof and soft costs.",
+          "Option 3, which includes a full-size gym infilled in the courtyard, secure entrance additions, and classroom breakout spaces, is estimated at $39.8 million all-in.",
+          "Major discrepancies from 2021 estimates include HVAC upgrades ($4.48 million versus $231,000 originally) and electrical system modernization ($3.25 million versus $220,000).",
+          "School Committee members emphasized that the $15 million figure previously discussed at Town Meeting excluded educational program improvements and essential mechanical scopes.",
+          "Architects were instructed to incorporate site, civil, and necessary septic replacement costs into upcoming presentations."
+        ],
+        "outcome": "Tappé Architects will gather updated estimates for civil engineering, septic systems, and gym roof height options for a committee workshop on November 23, 2026.",
+        "why_it_matters": "The proposed renovation or expansion of Neary Elementary School represents a major capital expenditure that will directly affect town borrowing, tax rates, and educational facilities for decades.",
+        "start_seconds": 185,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Elementary School Building Committee workshop on site, civil, and septic costs",
+        "when": "November 23, 2026"
+      },
+      {
+        "what": "Joint meeting with town boards to present Neary School options",
+        "when": "December 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-13T18:52:29Z",
+  "usage": {
+    "total_tokens": 170680,
+    "total_input_tokens": 168657,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 986
+      },
+      {
+        "modality": "video",
+        "tokens": 167671
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 782,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1241,
+    "initial_input_tokens": 168657
+  }
+}

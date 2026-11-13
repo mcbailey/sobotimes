@@ -1,81 +1,75 @@
 {
-  "headline": "The School Committee reviewed a preliminary 5.36% budget increase and Neary renovation designs, while library trustees prepared for upcoming construction grants.",
-  "synopsis": "The Southborough School Committee examined a preliminary FY28 operating budget of $27.5 million, a 5.36% increase driven largely by salaries, transportation, and special education tuition. Committee members also weighed the trade-offs of seeking state funding versus town financing for the proposed Neary Elementary renovation, even as the Neary roof replacement wrapped up roughly $1.6 million under budget. Meanwhile, the Library Board of Trustees verified compliance with state materials spending standards and voted to solicit proposals for a building condition assessment ahead of an upcoming state grant round.",
+  "headline": "Southborough officials warned of potential budget cuts or an override for FY28 as Neary School renovation estimates reached up to $40 million.",
+  "synopsis": "Town officials and the School Committee outlined preliminary FY28 budget plans, warning that avoiding a Proposition 2 1/2 override would require cutting approximately 15 school positions and reducing municipal services. During a public listening session on municipal governance, seniors strongly pushed back against ideas to consolidate the Senior Center into other departments. Meanwhile, architects reported that renovating Neary Elementary School will cost between $33 million and $40 million, far exceeding an earlier $15 million estimate, though the school roof project finished nearly $1.6 million under budget. Southborough also secured up to $632,000 in state grant funding to pay for roughly half of the proposed Fayville Park improvements.",
   "highlights": [
     {
-      "title": "Preliminary FY28 school operating budget projects 5.36% increase",
-      "why": "School administrators presented a $27,514,571 budget proposal for FY28, showing an increase of $1,399,853 driven by rising salaries, special education tuition, and transportation. Meeting the town's recommended 3% growth target would require over $616,000 in reductions.",
+      "title": "Preliminary FY28 school budget and override warning",
+      "why": "Administrators presented a preliminary 5.36% budget increase and warned that avoiding an override would force $1.4 million in reductions and the loss of about 15 staff positions.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "T0wz6L1UDBc",
       "start_seconds": 6445
     },
     {
-      "title": "Neary renovation designs presented amid debate over state partnership",
-      "why": "Architects shared refined schematic designs to renovate Neary Elementary, add a full gymnasium, and remove modular classrooms. Officials debated whether partnering with the state school building program could push completion to 2035 and see cost savings erased by construction inflation.",
-      "body": "Southborough School Committee",
+      "title": "Neary School renovation estimates climb to $40 million",
+      "why": "Architects demonstrated that realistic Neary renovation options range from $32.9 million to $39.8 million, dispelling an earlier $15 million budget figure as inadequate for needed work.",
+      "body": "Elementary School Building Committee",
       "importance": "high",
-      "video_id": "T0wz6L1UDBc",
-      "start_seconds": 2970
+      "video_id": "zmCXs2XwP2o",
+      "start_seconds": 185
     },
     {
-      "title": "Neary roof replacement nears completion $1.6 million under budget",
-      "why": "The Neary roof project reached over 97% completion with projected final costs of $2.91 million against a $4.5 million appropriation. Unused borrowing authorization will help reduce the town's overall debt service burden.",
+      "title": "Seniors reject department consolidation in governance study",
+      "why": "Residents and senior center participants strongly opposed any restructuring that would merge the Council on Aging or Senior Center with recreation or youth services.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "EQdM_rgettw",
+      "start_seconds": 4219
+    },
+    {
+      "title": "Fayville Park project awarded $632,000 state grant",
+      "why": "The town received a Land and Water Conservation Fund grant covering approximately half of the cost for the proposed splash pad and dog park at Fayville Park.",
+      "body": "Recreation Commission",
+      "importance": "high",
+      "video_id": "DHl3-_4N-W4",
+      "start_seconds": 4340
+    },
+    {
+      "title": "Neary roof project finishes nearly $1.6 million under budget",
+      "why": "The Neary roof replacement reached 97% completion at an estimated cost of $2.91 million, well below its $4.5 million appropriation, reducing town borrowing needs.",
       "body": "Southborough School Committee",
       "importance": "high",
       "video_id": "T0wz6L1UDBc",
       "start_seconds": 2255
-    },
-    {
-      "title": "Library initiates building condition assessment for state grant round",
-      "why": "Trustees authorized the library director to seek proposals under $10,000 for a comprehensive building assessment. The study and an upcoming community survey will support an application to the Massachusetts Public Library Construction Program.",
-      "body": "Library Board of Trustees",
-      "importance": "medium",
-      "video_id": "EF2iIo4yjPI",
-      "start_seconds": 3077
-    },
-    {
-      "title": "Library trustees advance formal patron behavior and trespass policy",
-      "why": "Following an Election Day incident and police inquiries regarding library trespass authority, trustees directed staff to draft a formal patron code of conduct and trespass policy for review with legal counsel.",
-      "body": "Library Board of Trustees",
-      "importance": "medium",
-      "video_id": "EF2iIo4yjPI",
-      "start_seconds": 1217
     }
   ],
   "looking_ahead": [
     {
-      "what": "Elementary School Building Committee meeting with Tappe Architects on detailed project costs",
-      "when": "November 12, 2026",
-      "body": "Elementary School Building Committee"
-    },
-    {
-      "what": "Capital Improvement and Planning Committee review of school capital requests",
-      "when": "November 16, 2026",
-      "body": "Capital Improvement and Planning Committee"
-    },
-    {
-      "what": "Joint meeting with the Select Board on the preliminary FY28 school budget",
+      "what": "Joint meeting with the Select Board on the preliminary FY28 budget",
       "when": "November 17, 2026",
       "body": "Southborough School Committee"
     },
     {
-      "what": "Friends of the Library book sale",
-      "when": "December 5",
-      "body": "Library Board of Trustees"
+      "what": "Elementary School Building Committee workshop on site, civil, and septic costs",
+      "when": "November 23, 2026",
+      "body": "Elementary School Building Committee"
     },
     {
-      "what": "Presentation of the superintendent's recommended FY28 budget",
-      "when": "December 9, 2026",
-      "body": "Southborough School Committee"
+      "what": "Presentation of final governance study recommendations and budget vote",
+      "when": "December 15",
+      "body": "Select Board"
     }
   ],
   "week": "2026-11-09",
-  "fingerprint": "18efe4fb98e9e0b5",
+  "fingerprint": "e0e4b68b5106267c",
   "video_ids": [
+    "9-qt57ACvi0",
+    "DHl3-_4N-W4",
     "EF2iIo4yjPI",
-    "T0wz6L1UDBc"
+    "EQdM_rgettw",
+    "T0wz6L1UDBc",
+    "zmCXs2XwP2o"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-10T18:55:18Z"
+  "generated_at": "2026-11-13T18:52:58Z"
 }

@@ -4122,6 +4122,77 @@
       "processed_at": "2026-11-10T18:53:22Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "EQdM_rgettw": {
+      "id": "EQdM_rgettw",
+      "title": "Governance Study",
+      "description": "",
+      "published_at": "2026-11-13T14:35:06Z",
+      "duration_s": 6023,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-13T18:47:46Z",
+      "week": "2026-11-09",
+      "processed_at": "2026-11-13T18:49:14Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "9-qt57ACvi0": {
+      "id": "9-qt57ACvi0",
+      "title": "Golf Committee 11/10/26",
+      "description": "",
+      "published_at": "2026-11-13T14:07:54Z",
+      "duration_s": 3389,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-13T18:47:46Z",
+      "meeting_date": "2026-11-10",
+      "week": "2026-11-09",
+      "processed_at": "2026-11-13T18:50:07Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "DHl3-_4N-W4": {
+      "id": "DHl3-_4N-W4",
+      "title": "Recreation Commission 11/12/26",
+      "description": "",
+      "published_at": "2026-11-13T13:52:40Z",
+      "duration_s": 5463,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-13T18:47:46Z",
+      "meeting_date": "2026-11-12",
+      "week": "2026-11-09",
+      "processed_at": "2026-11-13T18:51:34Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "zmCXs2XwP2o": {
+      "id": "zmCXs2XwP2o",
+      "title": "Elementary School Building Committee 11/12/26",
+      "description": "",
+      "published_at": "2026-11-13T13:52:19Z",
+      "duration_s": 4389,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-13T18:47:46Z",
+      "meeting_date": "2026-11-12",
+      "week": "2026-11-09",
+      "processed_at": "2026-11-13T18:52:29Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4372,12 +4443,20 @@
       "output_tokens": 0,
       "thought_tokens": 0,
       "tool_use_tokens": 0
+    },
+    "2026-11-13": {
+      "video_minutes": 320,
+      "calls": 18,
+      "input_tokens": 872388,
+      "output_tokens": 18247,
+      "thought_tokens": 49082,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-12T19:09:33Z",
-    "discovered": 22,
-    "summarized": 0,
+    "at": "2026-11-13T18:47:45Z",
+    "discovered": 23,
+    "summarized": 4,
     "refreshed": 0,
     "errors": 0
   }

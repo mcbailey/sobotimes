@@ -1,7 +1,51 @@
 {
   "week": "2026-11-09",
-  "fingerprint": "1f2c44513126a60f",
+  "fingerprint": "6f91cc16a743f6a1",
   "topics": {
+    "9-qt57ACvi0#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9-qt57ACvi0#1": {
+      "issue": "southborough-golf-club-irrigation",
+      "category": "Parks, trails & recreation"
+    },
+    "9-qt57ACvi0#2": {
+      "issue": "southborough-golf-club-audubon-plan",
+      "category": "Environment & conservation"
+    },
+    "9-qt57ACvi0#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "9-qt57ACvi0#4": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "9-qt57ACvi0#5": {
+      "issue": "latisquama-road-errant-golf-balls",
+      "category": "Parks, trails & recreation"
+    },
+    "DHl3-_4N-W4#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "DHl3-_4N-W4#1": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "DHl3-_4N-W4#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "DHl3-_4N-W4#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "DHl3-_4N-W4#4": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
     "EF2iIo4yjPI#0": {
       "issue": null,
       "category": "Governance & committees"
@@ -16,7 +60,7 @@
     },
     "EF2iIo4yjPI#3": {
       "issue": null,
-      "category": "Parks, trails & recreation"
+      "category": "Library, arts & community"
     },
     "EF2iIo4yjPI#4": {
       "issue": "library-patron-behavior-policy",
@@ -27,7 +71,7 @@
       "category": "Library, arts & community"
     },
     "EF2iIo4yjPI#6": {
-      "issue": "fy27-operating-budget",
+      "issue": null,
       "category": "Budget & taxes"
     },
     "EF2iIo4yjPI#7": {
@@ -37,6 +81,30 @@
     "EF2iIo4yjPI#8": {
       "issue": "library-patron-behavior-policy",
       "category": "Library, arts & community"
+    },
+    "EQdM_rgettw#0": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "EQdM_rgettw#1": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "EQdM_rgettw#2": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "EQdM_rgettw#3": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "EQdM_rgettw#4": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "EQdM_rgettw#5": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
     },
     "T0wz6L1UDBc#0": {
       "issue": null,
@@ -64,7 +132,7 @@
     },
     "T0wz6L1UDBc#6": {
       "issue": "fy28-capital-budget",
-      "category": "Schools"
+      "category": "Budget & taxes"
     },
     "T0wz6L1UDBc#7": {
       "issue": "fy28-school-operating-budget",
@@ -73,9 +141,19 @@
     "T0wz6L1UDBc#8": {
       "issue": null,
       "category": "Governance & committees"
+    },
+    "zmCXs2XwP2o#0": {
+      "issue": "neary-school-building-project",
+      "category": "Schools"
     }
   },
   "votes": {
+    "9-qt57ACvi0#v0": {
+      "issue": "southborough-golf-club-audubon-plan"
+    },
+    "DHl3-_4N-W4#v0": {
+      "issue": "2027-masstrails-grant"
+    },
     "T0wz6L1UDBc#v0": {
       "issue": "fy27-school-operating-budget"
     },
@@ -84,6 +162,26 @@
     }
   },
   "upcoming": {
+    "9-qt57ACvi0#u0": {
+      "date": null,
+      "issue": "southborough-golf-club-irrigation"
+    },
+    "9-qt57ACvi0#u1": {
+      "date": "2026-12-01",
+      "issue": null
+    },
+    "DHl3-_4N-W4#u0": {
+      "date": "2026-12-07",
+      "issue": null
+    },
+    "DHl3-_4N-W4#u1": {
+      "date": "2027-02-02",
+      "issue": "2027-masstrails-grant"
+    },
+    "DHl3-_4N-W4#u2": {
+      "date": null,
+      "issue": "fayville-memorial-park-improvements"
+    },
     "EF2iIo4yjPI#u0": {
       "date": "2026-12-05",
       "issue": null
@@ -100,6 +198,30 @@
       "date": null,
       "issue": null
     },
+    "EQdM_rgettw#u0": {
+      "date": "2026-11-17",
+      "issue": "fy28-operating-budget"
+    },
+    "EQdM_rgettw#u1": {
+      "date": "2026-12-02",
+      "issue": "fy28-operating-budget"
+    },
+    "EQdM_rgettw#u2": {
+      "date": null,
+      "issue": "town-governance-study"
+    },
+    "EQdM_rgettw#u3": {
+      "date": "2026-12-15",
+      "issue": "town-governance-study"
+    },
+    "EQdM_rgettw#u4": {
+      "date": "2027-01-05",
+      "issue": "fy28-operating-budget"
+    },
+    "EQdM_rgettw#u5": {
+      "date": "2027-03-20",
+      "issue": null
+    },
     "T0wz6L1UDBc#u0": {
       "date": "2026-11-12",
       "issue": "neary-school-building-project"
@@ -114,13 +236,21 @@
     },
     "T0wz6L1UDBc#u3": {
       "date": "2026-12-02",
-      "issue": null
+      "issue": "fy28-regional-school-operating-budget"
     },
     "T0wz6L1UDBc#u4": {
       "date": "2026-12-09",
       "issue": "fy28-school-operating-budget"
+    },
+    "zmCXs2XwP2o#u0": {
+      "date": "2026-11-23",
+      "issue": "neary-school-building-project"
+    },
+    "zmCXs2XwP2o#u1": {
+      "date": null,
+      "issue": "neary-school-building-project"
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-10T19:00:05Z"
+  "generated_at": "2026-11-13T18:56:19Z"
 }
