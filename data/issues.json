@@ -2478,18 +2478,18 @@
       "category": "Staffing & operations",
       "first_seen": "2026-03-02",
       "last_seen": "2026-10-27",
-      "status": "The town is proceeding with the transition of municipal facilities to a cloud-based phone system, replacing unsupported on-premises PBX equipment. The Municipal Technology Committee backed the project earlier this year to resolve ongoing hardware vulnerabilities and licensing constraints. System cutover and staff training are set to take place next month.",
+      "status": "Municipal facilities were scheduled to cut over to a new cloud-based phone system on November 13, replacing an unsupported 15-year-old on-premise PBX setup. The Municipal Technology Committee unanimously backed the project in March, supporting a $25,000 capital appropriation to purchase and install the Wi-Fi-connected phones across all town departments. With cutover and staff training set for that week, no further committee actions are currently scheduled.",
       "status_as_of": "2026-10-27",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on March 3 to recommend the $25,000 capital request for the cloud phone system upgrade."
+          "detail": "Voted 4-0 on March 3 to recommend the $25,000 Annual Town Meeting capital request for the cloud PBX upgrade."
         }
       ],
-      "next": "Phone system cutover and staff training on November 13, 2026",
+      "next": "",
       "significance": 3,
-      "status_fingerprint": "680f90854930e003",
+      "status_fingerprint": "980e720fac9e3c56",
       "status_model": "gemini-3.8-flash"
     },
     "national-grid-vegetation-plan": {

@@ -4451,12 +4451,20 @@
       "output_tokens": 18247,
       "thought_tokens": 49082,
       "tool_use_tokens": 0
+    },
+    "2026-11-14": {
+      "video_minutes": 0,
+      "calls": 1,
+      "input_tokens": 1504,
+      "output_tokens": 190,
+      "thought_tokens": 1119,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-13T18:47:45Z",
-    "discovered": 23,
-    "summarized": 4,
+    "at": "2026-11-14T17:19:08Z",
+    "discovered": 22,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }
