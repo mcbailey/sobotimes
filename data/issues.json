@@ -326,27 +326,27 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-11-02",
-      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station is under major site plan and special permit review before the Planning Board, with the statutory decision deadline extended to December 18, 2026. While the Zoning Board of Appeals unanimously granted variance relief for retaining walls and lighting in July 2026, the Planning Board and neighbors are scrutinizing severe traffic impacts, intersection failures, and residential cut-through truck traffic. The board is evaluating peer review findings and proposed developer mitigation, including road repaving, signal timing adjustments, and travel demand programs. The public hearing resumes on November 16, 2026.",
+      "status": "Costco's application for a 167,000-square-foot retail warehouse and 30-position fueling facility is currently under major site plan and special permit review before the Planning Board, having already secured height variances for retaining walls and lighting from the Zoning Board of Appeals. The proposal faces intense scrutiny from board members and neighbors over regional traffic generation, failing levels of service at Route 9 intersections, and cut-through truck and customer traffic on residential collector streets. The Planning Board's extended statutory deadline to act on the major site plan application is December 18, 2026.",
       "status_as_of": "2026-11-02",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Reviewing site plans and special permits while raising sharp questions about intersection delays, U-turn volumes on Route 9, and the lack of enforceable off-site truck routing restrictions."
+          "detail": "Reviewing major site plan and special permit applications while raising sharp questions about Route 9 intersection delays, level-of-service failures, and a lack of formal off-site truck routing restrictions."
         },
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to approve variances for retaining walls up to 31 feet and light poles up to 36.5 feet."
+          "detail": "Voted 4-0 on July 15, 2026 to approve requested variances for retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Residents and business owners voiced strong objections over regional gridlock, school bus delays, existing level-of-service F intersections, and heavy truck traffic cutting through residential roads like Parkerville, Flagg, and Southville."
+          "detail": "Residents and nearby business owners expressed serious concerns regarding Route 9 gridlock, school bus delays, and cut-through semi-truck and customer traffic on local neighborhood roads."
         }
       ],
-      "next": "Continued public hearing before the Planning Board on November 16, 2026",
-      "status_fingerprint": "9cdff1d34ce01015",
+      "next": "Planning Board statutory decision deadline on December 18, 2026",
+      "status_fingerprint": "7a20b05491a47f69",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1737,28 +1737,28 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-09",
-      "status": "The FY28 capital improvement plan is under active review as boards evaluate multi-million-dollar requests across municipal and school operations. Submitted priorities include $710,000 for school building repairs and safety fencing, public works plow trucks, state-mandated water tank rehabilitation, and a potential $1.82 million smart water meter conversion. The Capital Improvement and Planning Committee is compiling departmental presentations and maintenance data before delivering its recommendations to the Select Board in early December.",
+      "status": "The FY28 capital plan is under active review by the Capital Improvement and Planning Committee as it evaluates requests from school and municipal departments. Proposals include $710,000 for school repairs and fencing, police cruiser and camera leasing, and Department of Public Works items such as plow trucks, water tank repairs, and smart water meter conversion, alongside a $45 million placeholder for the Neary School project. The Capital Committee is collecting supplemental maintenance and cost data before presenting its recommendations to town boards in December.",
       "status_as_of": "2026-11-09",
       "positions": [
         {
-          "body": "Capital Improvement and Planning Committee",
-          "stance": "undecided",
-          "detail": "Currently evaluating departmental proposals from public works, water, police, and schools ahead of drafting recommendations in December."
-        },
-        {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Advanced a $710,000 FY28 capital plan covering school safety fencing, stairs, and sink replacements, while maintaining a $45 million placeholder for Neary."
+          "detail": "Proposed a $710,000 package of capital requests for exterior stairs, sink replacements, and safety fencing, alongside a $45 million placeholder for the Neary renovation project."
+        },
+        {
+          "body": "Capital Improvement and Planning Committee",
+          "stance": "undecided",
+          "detail": "Reviewing departmental submissions and awaiting further documentation on vehicle inventories, maintenance histories, and lease terms before finalizing recommendations."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A resident cautioned that annual construction inflation could outpace MSBA reimbursement benefits if school building project decisions are delayed."
+          "detail": "A resident cautioned that construction inflation could erode the financial benefit of MSBA reimbursement if school project timelines face multi-year delays."
         }
       ],
-      "next": "Capital Improvement and Planning Committee meeting to review school department capital requests on November 16, 2026.",
-      "significance": 4,
-      "status_fingerprint": "77d0a6a1644c98ba",
+      "next": "Capital Committee presentation to the Select Board and Advisory Committee on December 1, 2026.",
+      "significance": 5,
+      "status_fingerprint": "6520eae3f0d948c0",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {

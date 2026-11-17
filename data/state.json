@@ -4193,6 +4193,35 @@
       "processed_at": "2026-11-13T18:52:29Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "hQa4KHStWIE": {
+      "id": "hQa4KHStWIE",
+      "title": "Planning Board 11/16/26",
+      "description": "",
+      "published_at": "2026-11-17T18:11:05Z",
+      "duration_s": 10894,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-17T20:01:54Z",
+      "meeting_date": "2026-11-16",
+      "week": "2026-11-16"
+    },
+    "hAPZmO17gKk": {
+      "id": "hAPZmO17gKk",
+      "title": "Regional School Committee Meeting / November 18, 2026",
+      "description": "Meeting Agenda: \nhttps://www.northboroughma.gov/sites/g/files/vyhlif12221/f/agendas/final_rsc_agenda_2026_11_18.pdf",
+      "published_at": "2026-11-16T23:51:22Z",
+      "duration_s": null,
+      "live": "upcoming",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
+      "attempts": 0,
+      "discovered_at": "2026-11-17T20:01:56Z",
+      "week": "2026-11-16"
     }
   },
   "usage": {
@@ -4475,11 +4504,19 @@
       "output_tokens": 0,
       "thought_tokens": 0,
       "tool_use_tokens": 0
+    },
+    "2026-11-17": {
+      "video_minutes": 0,
+      "calls": 2,
+      "input_tokens": 7276,
+      "output_tokens": 724,
+      "thought_tokens": 2806,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-16T21:15:34Z",
-    "discovered": 22,
+    "at": "2026-11-17T20:01:53Z",
+    "discovered": 21,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
