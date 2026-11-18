@@ -1,0 +1,227 @@
+{
+  "video": {
+    "id": "BldxGR7yX1s",
+    "title": "Select Board Meeting 11/17/26",
+    "published_at": "2026-11-18T15:13:07Z",
+    "duration_s": 11839
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Select Board",
+    "meeting_date": "2026-11-17",
+    "headline": "The Select Board examined major departmental budgets facing a potential FY28 tax override and advanced a zoning proposal to expand senior housing.",
+    "summary": "The Select Board opened review of the FY28 operating budget, preparing for a potential operational override vote in May. Town departments and schools presented two scenarios: Budget A (level services) and Budget B (level funded), with public safety and schools warning that Budget B would force significant layoffs and service cuts. The board also voted to advance and sponsor an Affordable Housing Trust proposal to eliminate the cap on 55-plus housing developments and discussed streamlining tree removal regulations.",
+    "topics": [
+      {
+        "title": "Affordable Housing Trust senior housing zoning proposal",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Representatives from the Affordable Housing Trust presented a proposed zoning amendment for Town Meeting to lift the current 7 percent municipal cap on 55-plus senior housing developments. The proposed change would also allow up to eight units per acre, require a two-acre minimum lot size with 10 percent open space preservation, and mandate that at least 12.5 percent of units (with a minimum of one unit) be affordable.",
+        "key_details": [
+          "Current 7 percent cap limits senior housing to 213 units townwide, with 208 already built or permitted.",
+          "Proposal allows density of up to eight units per acre on parcels of at least two acres.",
+          "Mandates a minimum of 10 percent open space preservation and 12.5 percent affordable housing.",
+          "Select Board voted to refer the proposal to the Planning Board and voted to sponsor the article on the Town Meeting warrant."
+        ],
+        "outcome": "Referred to Planning Board and sponsored for the Town Meeting warrant.",
+        "why_it_matters": "Lifting the cap would allow additional senior and affordable housing developments across Southborough.",
+        "start_seconds": 127,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 budget overview and Police Department budget",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The board outlined its FY28 budget approach, requiring departments to submit a level-services Budget A and a level-funded Budget B to prepare for a possible operational override. The police chief reported that Budget A requires a 5.79 percent increase, while a level-funded Budget B would force the elimination of one full-time police officer, one cruiser purchase, and one dispatcher position.",
+        "key_details": [
+          "Budget A reflects a 5.79 percent increase for police operations.",
+          "Budget B requires $156,000 in police cuts and $72,000 in dispatch cuts.",
+          "Level funding would eliminate one police officer and one dispatcher position.",
+          "Dispatch transition to the regional emergency communications center is projected for early spring."
+        ],
+        "outcome": "Budget presented; no formal vote taken.",
+        "why_it_matters": "If voters do not approve an operational override, public safety staffing and emergency response capacity would be reduced.",
+        "start_seconds": 873,
+        "end_seconds": null
+      },
+      {
+        "title": "Fire Department FY28 operating budget",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Fire officials presented their budget options, warning that level funding under Budget B would force a $100,000 cut to overtime and reduce on-duty shift staffing from five firefighters to four or three. Operating with reduced staffing would halt regular operation of the town's second ambulance, which generated $150,000 to $200,000 in revenue last year across 80 transports.",
+        "key_details": [
+          "Budget A maintains five-firefighter shift staffing and level emergency service.",
+          "Budget B would cut roughly $100,000 in overtime, reducing shift minimums to four or three personnel.",
+          "Reduced staffing jeopardizes Southborough's ISO Class 4 rating, potentially increasing homeowner insurance premiums.",
+          "Second ambulance transports generated between $150,000 and $200,000 in town revenue in FY26."
+        ],
+        "outcome": "Budget presented; no formal vote taken.",
+        "why_it_matters": "Staffing reductions would limit simultaneous emergency medical responses and could lead to higher residential property insurance rates.",
+        "start_seconds": 2940,
+        "end_seconds": null
+      },
+      {
+        "title": "K-8 Southborough Public Schools FY28 budget",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "The school superintendent and business director reviewed preliminary budget scenarios for the K-8 district. While the initial needs-based projection showed a 5.36 percent increase, administrators are working toward a 3.0 percent increase for Budget A by identifying $611,000 in reductions, whereas a level-funded Budget B would require eliminating approximately 15 full-time equivalent staff positions.",
+        "key_details": [
+          "Initial preliminary budget carried a 5.36 percent increase over FY27.",
+          "Administrators are refining a 3.0 percent Budget A by cutting $611,000.",
+          "Budget B level funding would require cutting $2 million, equivalent to 15 full-time staff.",
+          "District has reduced 6.4 FTE positions since 2025.",
+          "Recommended budget will be presented to the School Committee on December 9."
+        ],
+        "outcome": "Discussion only; revised proposal to be presented to School Committee.",
+        "why_it_matters": "School funding accounts for the largest share of town spending; level funding would result in substantial staff layoffs and larger class sizes.",
+        "start_seconds": 5294,
+        "end_seconds": null
+      },
+      {
+        "title": "Department of Public Works and Water Enterprise budgets",
+        "category": "Roads & infrastructure",
+        "importance": "medium",
+        "summary": "The DPW superintendent presented operating budgets for public works and the self-funded Water Enterprise fund. The DPW operating budget reflects an approximate 3.0 percent year-over-year increase, driven by a new union contract, athletic field water irrigation costs ($80,000 projected), grounds maintenance contracts ($250,000), and vehicle fuel.",
+        "key_details": [
+          "Contractual salaries increase by roughly 12.7 percent over FY26 actuals.",
+          "Athletic field water irrigation is projected at $80,000 in FY28.",
+          "Grounds maintenance contract is projected at $250,000, up 15 percent due to expanded park areas.",
+          "Water Enterprise operating budget is flat or down 0.27 percent excluding water purchases from the MWRA.",
+          "The town is conducting a study with PowerCorp to identify unaccounted-for water loss in town pipes."
+        ],
+        "outcome": "Budgets presented; superintendent to submit a reduced Budget B option.",
+        "why_it_matters": "Water and infrastructure budgets directly influence utility rates and public grounds maintenance.",
+        "start_seconds": 5915,
+        "end_seconds": null
+      },
+      {
+        "title": "Public shade tree policy and scenic road designations",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The DPW superintendent requested that the Select Board schedule a hearing to rescind or modify the town's local Public Shade Tree Policy and consider reducing the number of designated scenic roads. Approximately 63 percent of town roads are currently designated scenic, requiring joint public hearings and arborist reports that delay the removal of hazardous trees that threaten electrical lines.",
+        "key_details": [
+          "Currently 63 percent of roads in town are designated scenic roads.",
+          "Local tree policy adds requirements for independent arborist reports before removal.",
+          "Board members cited recent power outages on Pine Hill Road caused by fallen trees.",
+          "Select Board agreed to hold a public hearing to consider rescinding or amending the policy."
+        ],
+        "outcome": "Public hearing to be scheduled at an upcoming Select Board meeting.",
+        "why_it_matters": "Revising tree removal procedures could accelerate the clearing of hazardous trees and improve storm power reliability.",
+        "start_seconds": 6372,
+        "end_seconds": null
+      },
+      {
+        "title": "Town Meeting warrant article presentation format",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board reviewed alternative budget presentation formats for the annual Town Meeting warrant, examining the model used by Northborough. The proposal would consolidate departmental budgets into broad categories (such as General Government and Public Safety) in the main warrant motion while placing detailed line items in an appendix.",
+        "key_details": [
+          "Proposed model bundles budget votes into broad functional groupings rather than individual department lines.",
+          "Detailed departmental budgets would be included as an appendix in the warrant.",
+          "Designed to help voters compare Budget A and Budget B options more easily.",
+          "Board members will seek feedback from Town Counsel and the town moderator."
+        ],
+        "outcome": "Discussion only; to be reviewed with Town Counsel.",
+        "why_it_matters": "The change would alter how residents debate and vote on town spending lines at Town Meeting.",
+        "start_seconds": null,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of town reserve and revolving funds for FY28",
+        "category": "Budget & taxes",
+        "importance": "medium",
+        "summary": "Town administration presented an inventory of municipal reserve and revolving fund balances to identify potential revenues to offset the FY28 budget shortfall. Items identified include $16,000 from the Fayville Hall sale proceeds, $480,000 accumulated in the cemetery perpetual care lot fund, and balances in the recreation and golf revolving funds.",
+        "key_details": [
+          "Cemetery lot fund has accumulated roughly $480,000 over 12 to 13 years.",
+          "$16,000 in Fayville Hall sale proceeds can be applied toward land debt service.",
+          "Revolving funds for recreation and golf may require bylaw amendments to pay full-time staff salaries.",
+          "Board directed staff to narrow the list to viable one-time funding sources for FY28."
+        ],
+        "outcome": "Staff will refine the list of eligible funding sources for board review.",
+        "why_it_matters": "Utilizing reserve funds could temporarily reduce the size of a required tax override or reduce budget cuts.",
+        "start_seconds": null,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board acknowledged ongoing healthcare plan design savings negotiated through the Public Employee Committee, saving the town approximately $1 million annually. The board also reviewed and approved meeting minutes from November 4 as amended.",
+        "key_details": [
+          "Healthcare plan design changes will save roughly $1 million annually.",
+          "Minutes of November 4 regular and executive sessions were approved as amended."
+        ],
+        "outcome": "Approved minutes as amended.",
+        "why_it_matters": null,
+        "start_seconds": null,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "To refer the proposed over-55 senior housing zoning article to the Planning Board.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 845
+      },
+      {
+        "motion": "To sponsor the proposed senior housing zoning article on the Town Meeting warrant.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 854
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "ZBA discussion on proposed senior housing zoning amendment",
+        "when": "November 18, 2026"
+      },
+      {
+        "what": "Regional School Committee meeting and preliminary budget presentation",
+        "when": "November 18, 2026 at 5:30 PM"
+      },
+      {
+        "what": "Planning Board discussion on senior housing zoning proposal",
+        "when": "first week of December 2026"
+      },
+      {
+        "what": "Superintendent presentation of recommended K-8 budget to School Committee",
+        "when": "December 9, 2026"
+      },
+      {
+        "what": "Capital Committee meeting with Select Board",
+        "when": "December 15, 2026"
+      },
+      {
+        "what": "Annual Town Election and potential override ballot vote",
+        "when": "May 11, 2027"
+      }
+    ],
+    "caveats": "A 7-minute break occurred from 1:20:20 to 1:28:10 with the camera cut to a placeholder screen."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-18T19:39:30Z",
+  "usage": {
+    "total_tokens": 457821,
+    "total_input_tokens": 453247,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 452262
+      },
+      {
+        "modality": "text",
+        "tokens": 985
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 3045,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1529,
+    "initial_input_tokens": 453247
+  }
+}

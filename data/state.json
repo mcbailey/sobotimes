@@ -4222,6 +4222,75 @@
       "attempts": 0,
       "discovered_at": "2026-11-17T20:01:56Z",
       "week": "2026-11-16"
+    },
+    "9M9Fz6T9tSY": {
+      "id": "9M9Fz6T9tSY",
+      "title": "Municipal Technology Committee 11/17/26",
+      "description": "",
+      "published_at": "2026-11-18T16:53:09Z",
+      "duration_s": 1308,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-18T19:37:14Z",
+      "meeting_date": "2026-11-17",
+      "week": "2026-11-16"
+    },
+    "BldxGR7yX1s": {
+      "id": "BldxGR7yX1s",
+      "title": "Select Board Meeting 11/17/26",
+      "description": "",
+      "published_at": "2026-11-18T15:13:07Z",
+      "duration_s": 11839,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-18T19:37:14Z",
+      "meeting_date": "2026-11-17",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-18T19:39:30Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "3piEqjqhxaE": {
+      "id": "3piEqjqhxaE",
+      "title": "Board of Health 11/17/26",
+      "description": "",
+      "published_at": "2026-11-17T23:06:28Z",
+      "duration_s": 588,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-18T19:37:14Z",
+      "meeting_date": "2026-11-17",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-18T19:40:20Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "KATF-_ujRos": {
+      "id": "KATF-_ujRos",
+      "title": "Capital Improvement & Planning Committee 11/16/26",
+      "description": "",
+      "published_at": "2026-11-17T20:49:23Z",
+      "duration_s": 5386,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-18T19:37:14Z",
+      "meeting_date": "2026-11-16",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-18T19:41:44Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4512,12 +4581,20 @@
       "output_tokens": 724,
       "thought_tokens": 2806,
       "tool_use_tokens": 0
+    },
+    "2026-11-18": {
+      "video_minutes": 297,
+      "calls": 15,
+      "input_tokens": 785031,
+      "output_tokens": 13844,
+      "thought_tokens": 23006,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-17T20:01:53Z",
-    "discovered": 21,
-    "summarized": 0,
+    "at": "2026-11-18T19:37:14Z",
+    "discovered": 25,
+    "summarized": 3,
     "refreshed": 0,
     "errors": 0
   }

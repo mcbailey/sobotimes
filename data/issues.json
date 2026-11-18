@@ -695,23 +695,28 @@
       "description": "Proposed zoning bylaw amendment to eliminate caps on age-restricted 55-plus developments and clarify affordability requirements.",
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-10-28",
-      "status": "The Affordable Housing Trust reached consensus on Oct 28, 2026, to advance a revised zoning amendment that removes Southborough's 7 percent townwide cap on age-restricted senior housing while establishing a two-acre minimum lot size, an eight-unit-per-acre density limit, and a 12.5 percent affordability mandate. The initiative revives an effort paused in February 2026, when the Planning Board voted unanimously to withdraw an earlier draft from the Annual Town Meeting warrant to examine community concerns over density and housing diversity. Trust members are still discussing enforcement details and fractional payment alternatives for required affordable units. The Trust plans to present the draft to the Planning Board, Zoning Board of Appeals, and Select Board in late November or early December 2026 ahead of a future Town Meeting.",
-      "status_as_of": "2026-10-28",
+      "last_seen": "2026-11-17",
+      "status": "A proposed zoning bylaw amendment to lift Southborough's 7 percent municipal cap on 55-plus senior housing is heading to Town Meeting after the Select Board voted unanimously to sponsor it. Drafted by the Affordable Housing Trust, the measure would allow up to eight units per acre on lots of at least two acres while mandating 10 percent open space and 12.5 percent affordable housing. The proposal revives an effort paused in February 2026 when the Planning Board withdrew an earlier version to study community concerns about density. The revised draft now faces review by the Zoning Board of Appeals and the Planning Board before going before Town Meeting voters.",
+      "status_as_of": "2026-11-17",
       "positions": [
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted unanimously on November 17, 2026 to sponsor the article on the Town Meeting warrant and refer it to the Planning Board."
+        },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Reached consensus on Oct 28, 2026, to endorse Option 2, which eliminates the 7 percent elderly housing cap and requires 12.5 percent affordable units."
+          "detail": "Drafted and backed the proposal to eliminate the 7 percent elderly housing cap and establish a 12.5 percent affordability mandate."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Voted 5-0 in February 2026 to withdraw an earlier draft from the warrant for further study following resident concerns regarding density and townwide housing diversity."
+          "detail": "Voted 5-0 in February 2026 to withdraw a prior draft over density concerns, and has not yet taken a position on the newly referred language."
         }
       ],
-      "next": "Presentations of the draft bylaw to the Planning Board, Zoning Board of Appeals, and Select Board in late November or early December 2026.",
-      "status_fingerprint": "158ee5112fed06c6",
+      "next": "Zoning Board of Appeals discussion on November 18, 2026.",
+      "status_fingerprint": "7b81ec45ff2ad2fc",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1736,29 +1741,24 @@
       "description": "Planning, departmental request review, and debt financing prioritization for the fiscal year 2028 capital improvement plan.",
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-09",
-      "status": "The FY28 capital plan is under active review by the Capital Improvement and Planning Committee as it evaluates requests from school and municipal departments. Proposals include $710,000 for school repairs and fencing, police cruiser and camera leasing, and Department of Public Works items such as plow trucks, water tank repairs, and smart water meter conversion, alongside a $45 million placeholder for the Neary School project. The Capital Committee is collecting supplemental maintenance and cost data before presenting its recommendations to town boards in December.",
-      "status_as_of": "2026-11-09",
+      "last_seen": "2026-11-16",
+      "status": "The FY28 capital budget is under review as the Capital Improvement and Planning Committee works to reconcile approximately $2.2 million in department requests against a $1.2 million Select Board placeholder for tax levy funding. A central question is whether the Select Board will lower the town's bonding threshold from $300,000 to $200,000, which would shift more projects into borrowing articles requiring a two-thirds Town Meeting vote. The committee plans to vote on its project rankings on November 30 before presenting recommendations to the Select Board in December.",
+      "status_as_of": "2026-11-16",
       "positions": [
-        {
-          "body": "Southborough School Committee",
-          "stance": "support",
-          "detail": "Proposed a $710,000 package of capital requests for exterior stairs, sink replacements, and safety fencing, alongside a $45 million placeholder for the Neary renovation project."
-        },
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Reviewing departmental submissions and awaiting further documentation on vehicle inventories, maintenance histories, and lease terms before finalizing recommendations."
+          "detail": "Weighing $2.2 million in departmental requests against a $1.2 million funding target while seeking Select Board direction on bonding thresholds."
         },
         {
-          "body": "Public comment",
-          "stance": "neutral",
-          "detail": "A resident cautioned that construction inflation could erode the financial benefit of MSBA reimbursement if school project timelines face multi-year delays."
+          "body": "Southborough School Committee",
+          "stance": "support",
+          "detail": "Submitted a $710,000 FY28 capital request covering school sink replacements, Finn safety fencing, and exterior stairs."
         }
       ],
-      "next": "Capital Committee presentation to the Select Board and Advisory Committee on December 1, 2026.",
-      "significance": 5,
-      "status_fingerprint": "6520eae3f0d948c0",
+      "next": "Capital Improvement and Planning Committee vote on capital priorities on November 30, 2026.",
+      "significance": 4,
+      "status_fingerprint": "d6afc9c6fb0c31b4",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -1767,58 +1767,53 @@
       "description": "Operating budget planning, multi-year deficit forecasting, and consideration of a Proposition 2 1/2 operational override for fiscal year 2028.",
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
-      "last_seen": "2026-11-04",
-      "status": "Town officials are evaluating two FY28 budget scenarios: Budget A, which preserves level services but faces a projected $1.4 million deficit requiring a Proposition 2 1/2 operational override, and Budget B, which limits funding to FY27 levels and forces departmental staffing and service cuts. Departments have submitted impact memos outlining cutbacks under Budget B, including reduced office hours, eliminated programming, and curtailed staffing. The Select Board is weighing whether to pursue an override and considering a multi-year structure, while the Advisory Committee has favored tighter spending controls and alternative mechanisms to relieve budget pressures. Department budget hearings with major town departments begin November 17.",
-      "status_as_of": "2026-11-04",
+      "last_seen": "2026-11-17",
+      "status": "The town is reviewing FY28 departmental operating requests and evaluating reserve funds to address a budget shortfall while considering a potential Proposition 2 1/2 override. Most departments have submitted two budget scenarios—level-service Budget A and contingency Budget B—with several boards warning that an override failure would trigger cuts to staff hours and municipal services. The Advisory Committee has urged caution regarding a multi-year override, advocating instead for stricter spending controls, hiring freezes, and alternative borrowing for pension liabilities. The Select Board continues reviewing departmental budget memos ahead of finalizing its budget recommendation in January.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Reviewing departmental impact memos and weighing whether to pursue a single-year or multi-year Proposition 2 1/2 operating override to bridge a $1.4 million deficit."
+          "detail": "Reviewing departmental operating budgets and analyzing town reserve funds to bridge the deficit while evaluating potential override options."
         },
         {
           "body": "Advisory Committee",
-          "stance": "undecided",
-          "detail": "Urged caution regarding large multi-year overrides, advocating instead for strict fiscal controls, an executive hiring freeze, and exploring borrowing mechanisms for pension liabilities."
+          "stance": "mixed",
+          "detail": "Urged caution regarding large multi-year overrides, recommending tighter fiscal controls, a hiring freeze, and exploring debt exclusion borrowing for pensions."
         },
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Voted unanimously on October 30 to approve its FY28 Budget A and B requests after recommending a 5% total salary grid adjustment in September."
+          "detail": "Voted unanimously on Oct 30 to approve its FY28 budget requests and recommended a 5% total salary adjustment."
         },
         {
           "body": "Board of Health",
           "stance": "support",
-          "detail": "Voted 3-0 on October 20 to approve its FY28 budget requests and submit an explanatory memo detailing service reductions required under level funding."
+          "detail": "Voted 3-0 on Oct 20 to approve its budget and an impact memo warning that level-funded Option B would cut staff hours and close offices on Fridays."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted 5-0 on October 14 to approve FY28 budget priorities to guide the district's preliminary budget build."
+          "detail": "Voted 5-0 on Oct 14 to approve FY28 budget priorities to guide the administration's budget build."
         },
         {
           "body": "Library Board of Trustees",
           "stance": "support",
-          "detail": "Voted 6-0 on October 5 to approve its FY28 operating budget while balancing state materials spending ratios against projected cuts."
+          "detail": "Voted 6-0 on Oct 5 to approve its budget, cautioning that an override failure would eliminate programming and cut subscriptions by more than half."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on October 7 to approve its FY28 operating budget request of $4,250."
+          "detail": "Voted unanimously on Oct 7 to approve its FY28 operating budget request of $4,250."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Postponed action on its budget memo in September, expressing strong frustration that Budget B guidelines would force a reduction in conservation agent hours."
-        },
-        {
-          "body": "Public comment",
-          "stance": "mixed",
-          "detail": "A resident cautioned the Select Board that calculating cuts to fractional full-time equivalent positions under Budget B affects more staff and services than numbers suggest."
+          "detail": "Deferred action after expressing frustration that town guidance for Budget B would require reducing the conservation agent's hours."
         }
       ],
-      "next": "Select Board review meeting on FY28 budget scenarios with K-8 Schools, DPW, Police, and Fire on November 17, 2026.",
-      "status_fingerprint": "f42d4669258a2ba5",
+      "next": "Select Board review of departmental budget memos and meetings with department heads on December 2, 2026.",
+      "status_fingerprint": "cc91b81a4157b708",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1829,23 +1824,23 @@
       "category": "Schools",
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-07",
-      "status": "The Northborough-Southborough Regional School District is developing its FY28 operating budget amid tight municipal Proposition 2 1/2 constraints in both member towns. District administrators are preparing level-service, level-funded, and 3% budget cap models while negotiating employee health insurance deductible changes that could yield about $600,000 in regional savings. The district is also planning warrant articles in Southborough and Northborough to establish a Special Education Stabilization Fund ahead of preliminary budget presentations.",
+      "status": "The regional school district is in the early stages of preparing its FY28 operating budget under municipal Proposition 2 1/2 constraints, with administrators presenting preliminary models to the Regional School Committee today, November 18, 2026. To meet differing guidelines from both member towns, the district is modeling level-service, level-funded, and 3% capped scenarios. Major cost drivers include special education tuition and transportation, while the district is negotiating an employee health insurance deductible overhaul projected to save roughly $600,000. The Superintendent will present a recommended budget in January 2027 leading up to a committee vote in February and March Town Meeting approval.",
       "status_as_of": "2026-10-07",
       "positions": [
         {
           "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
           "stance": "undecided",
-          "detail": "Directed staff to draft level-service, level-funded, and 3% cap scenarios while recommending a five-year communications plan over adding new personnel."
+          "detail": "Directed administrators to develop three budget models and pursue health insurance restructuring while prioritizing high-quality instruction and a Special Education Stabilization Fund."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A resident and municipal finance official urged holding earlier joint discussions during the budget cycle to align terminology and budget assumptions."
+          "detail": "A resident and town finance official urged the district to hold earlier joint budget discussions with municipal finance committees to align assumptions and terminology."
         }
       ],
-      "next": "Preliminary FY28 budget presentation to the Regional School Committee on November 18, 2026.",
+      "next": "Preliminary FY28 budget presentation to the Regional School Committee on November 18, 2026",
       "significance": 5,
-      "status_fingerprint": "3e27d1b84fb3085f",
+      "status_fingerprint": "69f552fc43585554",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-school-operating-budget": {
@@ -1854,19 +1849,19 @@
       "description": "Operating budget planning, cost reduction scenarios, and class staffing for Southborough K-8 public schools for fiscal year 2028.",
       "category": "Schools",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "status": "District administrators presented a preliminary FY28 operating budget of $27,514,571, representing a 5.36% increase driven largely by salaries, transportation, and a 41% rise in out-of-district special education tuition. The Southborough School Committee is currently evaluating reduction scenarios to meet town guidance, which include cutting $616,411 to reach a 3% target or cutting $1.4 million and roughly 15 staff positions under level-funding. Officials will discuss the figures with the Select Board before the superintendent submits a refined recommended budget in December.",
-      "status_as_of": "2026-11-09",
+      "last_seen": "2026-11-17",
+      "status": "The Southborough School Committee and district administrators are developing the FY28 K-8 school operating budget, balancing town spending targets against service and staffing needs. While an initial level-service projection called for a 5.36 percent increase to $27,514,571 due to rising salaries and special education tuition, administrators are preparing reductions of over $611,000 to meet a suggested 3.0 percent growth target. District leaders have warned that deeper cuts to achieve a level-funded budget would require eliminating roughly 15 full-time staff positions and severely affect academic programs. The superintendent will present a refined recommended budget to the School Committee on December 9, 2026.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewing a preliminary 5.36% increase while weighing reduction scenarios required to meet town guidance targets."
+          "detail": "Reviewing preliminary scenarios to align with the town's 3.0 percent guidance while assessing the programmatic impacts of proposed staff and spending reductions."
         }
       ],
-      "next": "Joint meeting with the Select Board on November 17, 2026.",
+      "next": "Southborough School Committee presentation of FY28 recommended budget on December 9, 2026",
       "significance": 5,
-      "status_fingerprint": "b0953dca7b9b24b2",
+      "status_fingerprint": "7db957a77f9ebd12",
       "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
@@ -2456,18 +2451,18 @@
       "description": "Adoption of MGL Chapter 32B Sections 21-23 and collective bargaining with the Public Employee Committee to modify municipal health insurance plans.",
       "category": "Budget & taxes",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-11",
-      "status": "The Select Board voted to accept Massachusetts General Law Chapter 32B, Sections 21 through 23, authorizing expedited collective negotiations with the Public Employee Committee over municipal health insurance plan designs. The decision aligns Southborough with Northborough and the regional school district to pursue coordinated changes to reduce premium expenses, which represent 11.2 percent of the town budget. Formal negotiations with employee representatives are expected to follow, targeting plan modifications that would take effect July 1, 2027.",
-      "status_as_of": "2026-08-11",
+      "last_seen": "2026-11-17",
+      "status": "Healthcare plan design changes negotiated with the Public Employee Committee are projected to save the town roughly $1 million annually. The Select Board adopted Massachusetts General Law Chapter 32B, Sections 21 through 23 in August 2026 to enable expedited collective bargaining alongside Northborough and the regional school district. The coordinated plan changes are scheduled to take effect on July 1, 2027.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Aug 11 to adopt MGL Chapter 32B, Sections 21-23, to pursue coordinated negotiations with the Public Employee Committee to reduce health insurance costs."
+          "detail": "Voted 5-0 on Aug 11 to adopt MGL Chapter 32B Sections 21-23 to pursue negotiations, and acknowledged approximately $1 million in annual savings on Nov 17."
         }
       ],
-      "next": "",
-      "status_fingerprint": "68806a6afd83c09b",
+      "next": "Implementation of modified health insurance plan designs on July 1, 2027.",
+      "status_fingerprint": "af83a331f8097448",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -2556,37 +2551,27 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-11-12",
-      "status": "The Elementary School Building Committee is advancing schematic design on Option 3, a roughly $39.8 million addition and renovation plan that includes infilling the courtyard for a full-size gym, while concluding that an earlier $15 million target fails to cover even baseline code upgrades. Officials are currently weighing whether to seek state reimbursement through an MSBA application in January 2027 or fund the project locally to avoid multi-year delays and construction inflation. Updated site, septic, and civil engineering estimates are being prepared for committee review ahead of joint board presentations planned for December.",
+      "status": "The project is currently in schematic design, with the Elementary School Building Committee focusing on Option 3, an estimated $39.8 million addition and renovation that adds a full-sized gymnasium in the courtyard and modernizes learning spaces. Consultants reported that a previously contemplated $15 million budget cap is unfeasible, as basic mechanical and code compliance upgrades alone will cost roughly $32.9 million. Officials are also weighing whether to pursue town-only financing or submit a Statement of Interest to the MSBA in January 2027, balancing state reimbursement against potential multi-year construction cost inflation. Further civil and septic cost evaluations will be reviewed ahead of multi-board joint discussions planned for December.",
       "status_as_of": "2026-11-12",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 21 to advance the Option 3 addition and renovation to schematic design, concluding that a $15 million budget cap cannot meet fundamental building or educational needs."
+          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design, concluding lower-cost baseline repairs fail to address necessary educational and mechanical scopes."
         },
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewed Option 3 plans in November and is weighing whether to pursue a town-funded project or apply for MSBA state funding in January 2027."
-        },
-        {
-          "body": "Capital Improvement and Planning Committee",
-          "stance": "neutral",
-          "detail": "Tracking project costs and design options to evaluate their impact on Southborough's overall capital capacity ahead of joint board reviews."
-        },
-        {
-          "body": "Select Board",
-          "stance": "neutral",
-          "detail": "Received informational briefings on the preliminary cost estimates and renovation options, with joint discussions planned."
+          "detail": "Is evaluating Option 3 while debating whether to apply for MSBA state funding in January 2027 or fund the project locally to prevent project delays."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents have warned that multi-year delays from pursuing MSBA aid could erase savings through construction inflation, while also urging officials to account for central office relocation costs and broader district maintenance needs."
+          "detail": "Residents voiced concerns that MSBA delays could wipe out reimbursement savings through inflation, urged comprehensive planning for future capital needs at Finn School, and noted the cost of relocating central district offices."
         }
       ],
       "next": "Elementary School Building Committee workshop on site, civil, and septic estimates on November 23, 2026.",
-      "status_fingerprint": "ab5092d9c86ed093",
+      "status_fingerprint": "318befd949ab4f8a",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -3481,6 +3466,32 @@
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
+    "shade-tree-policy-and-scenic-roads": {
+      "id": "shade-tree-policy-and-scenic-roads",
+      "name": "Public Shade Tree Policy and scenic road designations",
+      "description": "Proposed revisions or rescission of the town's Public Shade Tree Policy and reduction of scenic road designations to expedite hazardous tree removal.",
+      "category": "Environment & conservation",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
+      "status": "The Select Board is preparing to hold a public hearing on whether to rescind or modify the town's Public Shade Tree Policy and reduce the number of designated scenic roads. The Department of Public Works requested the changes to speed up the removal of hazardous trees threatening power lines, noting that existing rules and arborist review requirements apply to roughly 63 percent of town roads. A date for the public hearing has not yet been set.",
+      "status_as_of": "2026-11-17",
+      "positions": [
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Agreed on Nov 17 to schedule a public hearing to consider modifying or rescinding the policy, citing recent power outages caused by fallen trees."
+        },
+        {
+          "body": "Department of Public Works",
+          "stance": "support",
+          "detail": "Requested rescinding or amending the shade tree policy and reducing scenic road designations to expedite hazardous tree removals."
+        }
+      ],
+      "next": "",
+      "significance": 4,
+      "status_fingerprint": "edb2b4abffa8f331",
+      "status_model": "gemini-3.8-flash"
+    },
     "southborough-golf-club-audubon-plan": {
       "id": "southborough-golf-club-audubon-plan",
       "name": "Southborough Golf Club Audubon management plan",
@@ -3929,17 +3940,17 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-10-14",
-      "status": "Planning is underway for the town's January 1, 2027 Tricentennial kickoff celebration following execution of a contract with Firefly for a 200-drone light show launching from St. Mark's School. Logistics for other activities remain in flux, as the committee is reconsidering horse-drawn hayrides due to quotes exceeding $5,000 and evaluating alternative sites or dates for a community bonfire because of turf and wiring concerns at Woodward School. Middle school student art submissions for custom drone formations are due November 17, with the committee expected to finalize event details at its November meeting.",
+      "status": "Plans for the town's Tricentennial kickoff celebration are moving forward following the execution of a contract for a 200-drone light show on January 1, 2027. Logistical details for other activities remain unsettled, including shifting from a horse-drawn hayride to a tractor wagon due to cost and reconsidering the bonfire's location or date because of turf and wiring concerns at Woodward School. Committee members are working with emergency personnel to resolve site arrangements and finalize the program.",
       "status_as_of": "2026-10-14",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Contracted the drone show vendor and is adjusting site logistics, including wagon rides and bonfire locations, ahead of the celebration."
+          "detail": "Executed a contract for the drone light show and is refining logistics for viewing areas, transportation, and a potential bonfire."
         }
       ],
-      "next": "Trottier Middle School student artwork submissions due November 17, 2026",
-      "status_fingerprint": "0617d498f48efe5a",
+      "next": "First Day celebration on January 1, 2027",
+      "status_fingerprint": "7f20f54965e1942e",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },

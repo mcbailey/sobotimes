@@ -1,0 +1,129 @@
+{
+  "video": {
+    "id": "3piEqjqhxaE",
+    "title": "Board of Health 11/17/26",
+    "published_at": "2026-11-17T23:06:28Z",
+    "duration_s": 588
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Board of Health",
+    "meeting_date": "2026-11-17",
+    "headline": "The Board of Health appointed an alternate to the Greater Boroughs Partnership and reviewed state public health commission updates.",
+    "summary": "The Southborough Board of Health received an update from the health director regarding appointment to the state Special Commission on the Blueprint for Public Health and the status of state grant funding. The board voted to designate town staff member Chris Craig as Southborough's alternate representative to the Greater Boroughs Partnership. Following public comment with no speakers, the board voted to enter executive session to conduct contract negotiations with the health director.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board approved minutes from two previous meetings and coordinated member availability for upcoming winter meeting dates.",
+        "key_details": [
+          "Meeting minutes from October 13 and October 20, 2026, were approved as presented.",
+          "The board confirmed its next meeting for December 15, 2026, at 9:30 AM.",
+          "A subsequent meeting was scheduled for January 12, 2027, at 10:00 AM."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 2,
+        "end_seconds": null
+      },
+      {
+        "title": "State Public Health Commission and Blueprint update",
+        "category": "Health & human services",
+        "importance": "medium",
+        "summary": "Health Director Taylor West reported being selected to serve on the reconvened state Special Commission on the Blueprint for Public Health. The board discussed revisiting town public health standards against the state blueprint and discussed state funding advocacy as Public Health Excellence grant funding expires.",
+        "key_details": [
+          "The state Special Commission held its first reconvened meeting two weeks prior and will meet quarterly.",
+          "The state is seeking an increase in the public health line item from $13 million to $35 million to sustain shared regional positions.",
+          "Current Public Health Excellence grant funding is scheduled to end at the conclusion of FY27.",
+          "The board agreed to review its current staffing and operational status against the blueprint standards at a future meeting."
+        ],
+        "outcome": "Staff and the chair will prepare a review of blueprint standards for a future board meeting.",
+        "why_it_matters": null,
+        "start_seconds": 48,
+        "end_seconds": null
+      },
+      {
+        "title": "Greater Boroughs Partnership alternate appointment",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The board discussed representation on the regional Greater Boroughs Partnership. To ensure coverage during scheduling conflicts, the board voted to appoint staff member Chris Craig as the town's alternate.",
+        "key_details": [
+          "Greater Boroughs Partnership meetings typically occur every other month on Thursdays at 10:00 AM.",
+          "Other member communities like Westborough also utilize staff members as alternates.",
+          "Board members may still attend meetings if coordinated in advance so long as only one representative attends."
+        ],
+        "outcome": "Chris Craig appointed as Southborough's alternate representative to the Greater Boroughs Partnership.",
+        "why_it_matters": null,
+        "start_seconds": 298,
+        "end_seconds": null
+      },
+      {
+        "title": "Executive session for Health Director negotiations",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board voted to enter executive session under state open meeting law to conduct contract negotiations with non-union personnel.",
+        "key_details": [
+          "Executive session held pursuant to MGL Chapter 30A, Section 21(a)(2).",
+          "Negotiations pertain to the contract for the health director.",
+          "The chair determined that discussion in open session would have a detrimental effect on the town's position.",
+          "The board did not reconvene in open session."
+        ],
+        "outcome": "Voted to enter executive session and adjourn open session.",
+        "why_it_matters": null,
+        "start_seconds": 533,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Appoint Chris Craig as the alternate representative for Southborough to the Greater Boroughs Partnership.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 400
+      },
+      {
+        "motion": "Enter into executive session pursuant to MGL Chapter 30A, Section 21(a)(2) to conduct contract negotiations with non-union personnel (health director), not to return to open session.",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 548
+      }
+    ],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Board of Health meeting",
+        "when": "December 15 at 9:30 AM"
+      },
+      {
+        "what": "Board of Health meeting",
+        "when": "January 12 at 10:00 AM"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-18T19:40:20Z",
+  "usage": {
+    "total_tokens": 26179,
+    "total_input_tokens": 23395,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 22413
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1247,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1537,
+    "initial_input_tokens": 23395
+  }
+}

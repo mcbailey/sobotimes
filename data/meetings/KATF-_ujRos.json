@@ -1,0 +1,133 @@
+{
+  "video": {
+    "id": "KATF-_ujRos",
+    "title": "Capital Improvement & Planning Committee 11/16/26",
+    "published_at": "2026-11-17T20:49:23Z",
+    "duration_s": 5386
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Capital Improvement and Planning Committee",
+    "meeting_date": "2026-11-16",
+    "headline": "The Capital Improvement and Planning Committee reviewed police and school requests as town departments face a $1 million capital budget gap.",
+    "summary": "The committee evaluated FY28 capital funding requests from the Police Department and the Southborough Public Schools. Police Chief Ryan Newell presented requests for a police cruiser replacement and a 5-year body camera and Taser bundle totaling $272,388. School officials submitted $710,000 in K-8 facility requests, prioritizing Woodward School staircase replacement and Finn School fencing. The committee noted that overall town capital requests of approximately $2.2 million significantly exceed the Select Board's $1.2 million non-debt placeholder.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee reviewed and approved the meeting minutes from the previous session with minor modifications submitted by the Department of Public Works superintendent.",
+        "key_details": [
+          "Minutes from the prior meeting were approved unanimously as amended."
+        ],
+        "outcome": "Approved unanimously.",
+        "why_it_matters": null,
+        "start_seconds": 5,
+        "end_seconds": null
+      },
+      {
+        "title": "Police Department FY28 capital requests",
+        "category": "Public safety",
+        "importance": "high",
+        "summary": "Police Chief Ryan Newell presented the department's FY28 capital proposals, including a 60-month bundle for body-worn cameras and upgraded Tasers, as well as a cruiser replacement. Committee members debated the financing structure of the Axon bundle, urging the chief to avoid backloaded payments.",
+        "key_details": [
+          "Axon 5-year bundle proposal totals $272,387.73, replacing Taser 7s with Taser 10s and refreshing 26 Axon Body 4 cameras.",
+          "Proposed bundle structure bills $19,454 in FY27 and FY28, before increasing to $58,320 annually for the remaining three years.",
+          "Police cruiser replacement request is $77,252 to replace a 2021 Ford Explorer with 104,571 miles and 8,116 engine hours.",
+          "Committee members pushed back on artificially low initial lease payments that transfer larger costs into future years.",
+          "The contract includes a standard non-appropriation clause allowing termination without penalty if Town Meeting rejects funding."
+        ],
+        "outcome": "The committee requested Chief Newell ask the vendor for an alternative quote with five equal annual payments.",
+        "why_it_matters": "The police equipment and vehicle requests total nearly $350,000 and directly impact public safety capabilities and taxpayer costs across multiple fiscal years.",
+        "start_seconds": 140,
+        "end_seconds": null
+      },
+      {
+        "title": "K-8 Public Schools FY28 capital requests",
+        "category": "Schools",
+        "importance": "high",
+        "summary": "School district administrators presented three capital improvement projects across the K-8 schools totaling $710,000. Projects address deteriorating building infrastructure, accessibility, and maintenance challenges.",
+        "key_details": [
+          "Woodward School exterior stair replacement requested at $250,000 to replace crumbling concrete steps damaged by salt and aluminum treads.",
+          "Trottier and Finn schools birdbath gang sink replacement requested at $360,000 for 18 units across both schools.",
+          "Finn School fence replacement requested at $100,000 to relocate and rebuild a retention basin fence damaged by snow plowing.",
+          "School officials ranked the Woodward stairs as priority one, Finn fence as priority two, and sink replacements as priority three.",
+          "Committee members requested data on a temporary fence repair and a multi-year phased plan for the sink replacements."
+        ],
+        "outcome": "Discussion concluded with administrators agreeing to provide estimates for a multi-year sink rollout and basic fence repair options.",
+        "why_it_matters": "School capital projects represent $710,000 in proposed town spending to resolve safety hazards and aging infrastructure at elementary and middle school facilities.",
+        "start_seconds": 2434,
+        "end_seconds": null
+      },
+      {
+        "title": "Regional School District capital projects overview",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "District administrators outlined Algonquin Regional High School capital priorities within the target capital allocation of $450,000 to $500,000. Southborough pays a portion of regional capital expenses based on student enrollment.",
+        "key_details": [
+          "Southborough is responsible for 38.98% of regional school capital costs based on the rolling four-year enrollment average.",
+          "Proposed projects include $100,000 for two-way radio security system upgrades and $30,000 for building weatherproofing.",
+          "Other regional priorities include HVAC valves and rooftop unit replacements.",
+          "A potential $100,000 project to relocate the central administration office to Algonquin is contingent on decisions regarding the Neary School project."
+        ],
+        "outcome": "Informational update; the Regional School Committee will review these items further before returning with finalized cost assessments.",
+        "why_it_matters": null,
+        "start_seconds": 4234,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 capital budget strategy and prioritization",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed the town's overall capital outlook, noting a significant gap between requested capital projects and available funding. The chair discussed the impact of town bonding thresholds on whether projects are paid directly from property taxes or financed over time.",
+        "key_details": [
+          "Town capital requests currently total approximately $2.2 million against a Select Board placeholder of about $1.2 million for tax levy appropriations.",
+          "The committee is seeking guidance from the Select Board on the town bonding threshold, currently modeled at $300,000.",
+          "Lowering the bonding threshold to $200,000 would shift more large capital requests into borrowing articles requiring a two-thirds Town Meeting vote.",
+          "The committee's presentation to the Select Board was rescheduled from December 1 to December 15."
+        ],
+        "outcome": "The committee agreed to seek clarification on the bonding threshold and meet on November 30 to rank and vote on capital recommendations.",
+        "why_it_matters": "Decisions on capital limits and borrowing thresholds determine the tax impact of municipal projects and which items advance to Annual Town Meeting.",
+        "start_seconds": 4760,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "CIPC meeting to vote on capital project priorities and recommendations",
+        "when": "November 30, 2026"
+      },
+      {
+        "what": "CIPC capital recommendations presentation to the Select Board",
+        "when": "December 15, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-18T19:41:44Z",
+  "usage": {
+    "total_tokens": 203887,
+    "total_input_tokens": 200241,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 199254
+      },
+      {
+        "modality": "text",
+        "tokens": 987
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1687,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1959,
+    "initial_input_tokens": 200241
+  }
+}

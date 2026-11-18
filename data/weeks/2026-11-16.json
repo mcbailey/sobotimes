@@ -1,0 +1,95 @@
+{
+  "headline": "Town officials examined major FY28 operating and capital shortfalls while the Select Board sponsored zoning changes to expand senior housing.",
+  "synopsis": "Southborough boards focused heavily on FY28 budget planning, assessing departmental service cuts and staffing reductions across public safety and schools under level funding. The Capital Improvement and Planning Committee confronted a one million dollar capital request gap and evaluated options to adjust the town bonding threshold. The Select Board voted to advance and sponsor a Town Meeting zoning amendment lifting the townwide cap on over-55 senior housing. In other matters, town officials initiated plans to review scenic road tree removal restrictions, and the Board of Health tracked upcoming expirations in regional public health grant funding.",
+  "highlights": [
+    {
+      "title": "FY28 departmental operating budgets and potential override",
+      "why": "Departments submitted level-service and level-funded budgets, warning that level funding would eliminate police and dispatch positions, reduce fire shift minimums, and cut 15 school staff members.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "BldxGR7yX1s",
+      "start_seconds": 873
+    },
+    {
+      "title": "Senior housing zoning amendment sponsorship",
+      "why": "The Select Board voted to refer to the Planning Board and sponsor an article to lift Southborough's 7 percent cap on senior housing while requiring 12.5 percent affordability.",
+      "body": "Select Board",
+      "importance": "high",
+      "video_id": "BldxGR7yX1s",
+      "start_seconds": 127
+    },
+    {
+      "title": "FY28 capital budget strategy and funding gap",
+      "why": "Town capital requests reached 2.2 million dollars against a 1.2 million dollar tax-funded placeholder, prompting discussion about lowering the bonding threshold to borrow for larger projects.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "high",
+      "video_id": "KATF-_ujRos",
+      "start_seconds": 4760
+    },
+    {
+      "title": "K-8 Public Schools capital improvement requests",
+      "why": "School officials presented 710,000 dollars in capital requests across three schools, prioritizing Woodward School concrete stair replacement and Finn School fence repairs.",
+      "body": "Capital Improvement and Planning Committee",
+      "importance": "medium",
+      "video_id": "KATF-_ujRos",
+      "start_seconds": 2434
+    },
+    {
+      "title": "Public shade tree policy and scenic road review",
+      "why": "The Select Board agreed to schedule a public hearing to consider rescinding or amending local shade tree rules that delay the removal of hazardous trees along designated scenic roads.",
+      "body": "Select Board",
+      "importance": "medium",
+      "video_id": "BldxGR7yX1s",
+      "start_seconds": 6372
+    },
+    {
+      "title": "State public health blueprint and grant funding",
+      "why": "Health officials reported on state commission updates and began tracking state advocacy as the regional Public Health Excellence grant expires at the end of FY27.",
+      "body": "Board of Health",
+      "importance": "medium",
+      "video_id": "3piEqjqhxaE",
+      "start_seconds": 48
+    }
+  ],
+  "looking_ahead": [
+    {
+      "what": "CIPC meeting to vote on capital project priorities and recommendations",
+      "when": "November 30, 2026",
+      "body": "Capital Improvement and Planning Committee"
+    },
+    {
+      "what": "Planning Board discussion on senior housing zoning proposal",
+      "when": "first week of December 2026",
+      "body": "Planning Board"
+    },
+    {
+      "what": "Superintendent presentation of recommended K-8 budget to School Committee",
+      "when": "December 9, 2026",
+      "body": "School Committee"
+    },
+    {
+      "what": "Board of Health regular meeting",
+      "when": "December 15 at 9:30 AM",
+      "body": "Board of Health"
+    },
+    {
+      "what": "Capital Committee meeting with Select Board",
+      "when": "December 15, 2026",
+      "body": "Select Board"
+    },
+    {
+      "what": "Annual Town Election and potential override ballot vote",
+      "when": "May 11, 2027",
+      "body": "Select Board"
+    }
+  ],
+  "week": "2026-11-16",
+  "fingerprint": "a0664dfc3ab22e86",
+  "video_ids": [
+    "3piEqjqhxaE",
+    "BldxGR7yX1s",
+    "KATF-_ujRos"
+  ],
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-18T19:42:11Z"
+}

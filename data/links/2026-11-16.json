@@ -1,0 +1,136 @@
+{
+  "week": "2026-11-16",
+  "fingerprint": "2a7f8eb685eb3fc1",
+  "topics": {
+    "3piEqjqhxaE#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "3piEqjqhxaE#1": {
+      "issue": null,
+      "category": "Health & human services"
+    },
+    "3piEqjqhxaE#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "3piEqjqhxaE#3": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "BldxGR7yX1s#0": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "BldxGR7yX1s#1": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "BldxGR7yX1s#2": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "BldxGR7yX1s#3": {
+      "issue": "fy28-school-operating-budget",
+      "category": "Schools"
+    },
+    "BldxGR7yX1s#4": {
+      "issue": "fy28-operating-budget",
+      "category": "Roads, water & infrastructure"
+    },
+    "BldxGR7yX1s#5": {
+      "issue": "shade-tree-policy-and-scenic-roads",
+      "category": "Environment & conservation"
+    },
+    "BldxGR7yX1s#6": {
+      "issue": null,
+      "category": "Town Meeting & elections"
+    },
+    "BldxGR7yX1s#7": {
+      "issue": "fy28-operating-budget",
+      "category": "Budget & taxes"
+    },
+    "BldxGR7yX1s#8": {
+      "issue": "municipal-health-insurance-reform",
+      "category": "Budget & taxes"
+    },
+    "KATF-_ujRos#0": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "KATF-_ujRos#1": {
+      "issue": "fy28-capital-budget",
+      "category": "Public safety"
+    },
+    "KATF-_ujRos#2": {
+      "issue": "fy28-capital-budget",
+      "category": "Schools"
+    },
+    "KATF-_ujRos#3": {
+      "issue": "fy28-capital-budget",
+      "category": "Schools"
+    },
+    "KATF-_ujRos#4": {
+      "issue": "fy28-capital-budget",
+      "category": "Budget & taxes"
+    }
+  },
+  "votes": {
+    "3piEqjqhxaE#v0": {
+      "issue": null
+    },
+    "3piEqjqhxaE#v1": {
+      "issue": null
+    },
+    "BldxGR7yX1s#v0": {
+      "issue": "55-plus-housing-bylaw"
+    },
+    "BldxGR7yX1s#v1": {
+      "issue": "55-plus-housing-bylaw"
+    }
+  },
+  "upcoming": {
+    "3piEqjqhxaE#u0": {
+      "date": "2026-12-15",
+      "issue": null
+    },
+    "3piEqjqhxaE#u1": {
+      "date": "2027-01-12",
+      "issue": null
+    },
+    "BldxGR7yX1s#u0": {
+      "date": "2026-11-18",
+      "issue": "55-plus-housing-bylaw"
+    },
+    "BldxGR7yX1s#u1": {
+      "date": "2026-11-18",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "BldxGR7yX1s#u2": {
+      "date": null,
+      "issue": "55-plus-housing-bylaw"
+    },
+    "BldxGR7yX1s#u3": {
+      "date": "2026-12-09",
+      "issue": "fy28-school-operating-budget"
+    },
+    "BldxGR7yX1s#u4": {
+      "date": "2026-12-15",
+      "issue": "fy28-capital-budget"
+    },
+    "BldxGR7yX1s#u5": {
+      "date": "2027-05-11",
+      "issue": "fy28-operating-budget"
+    },
+    "KATF-_ujRos#u0": {
+      "date": "2026-11-30",
+      "issue": "fy28-capital-budget"
+    },
+    "KATF-_ujRos#u1": {
+      "date": "2026-12-15",
+      "issue": "fy28-capital-budget"
+    }
+  },
+  "model": "gemini-3.8-flash",
+  "generated_at": "2026-11-18T19:42:38Z"
+}
