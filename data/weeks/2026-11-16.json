@@ -1,95 +1,92 @@
 {
-  "headline": "Town officials examined major FY28 operating and capital shortfalls while the Select Board sponsored zoning changes to expand senior housing.",
-  "synopsis": "Southborough boards focused heavily on FY28 budget planning, assessing departmental service cuts and staffing reductions across public safety and schools under level funding. The Capital Improvement and Planning Committee confronted a one million dollar capital request gap and evaluated options to adjust the town bonding threshold. The Select Board voted to advance and sponsor a Town Meeting zoning amendment lifting the townwide cap on over-55 senior housing. In other matters, town officials initiated plans to review scenic road tree removal restrictions, and the Board of Health tracked upcoming expirations in regional public health grant funding.",
+  "headline": "Southborough officials prepared for a potential FY28 tax override as departments outlined severe cuts, while boards advanced major housing and development proposals.",
+  "synopsis": "The Select Board opened preliminary FY28 budget reviews, where school, police, and fire officials warned that level funding without a tax override would trigger significant layoffs and service reductions. Concurrently, the Capital Improvement and Planning Committee grappled with a $1 million gap between town capital requests and available non-debt funding. In development matters, the Select Board voted to sponsor a Town Meeting warrant article removing the town cap on 55-plus housing developments. Meanwhile, the Planning Board reviewed lighting, landscaping, and stormwater plans for the proposed Costco project and approved removing hazardous public shade trees.",
   "highlights": [
     {
-      "title": "FY28 departmental operating budgets and potential override",
-      "why": "Departments submitted level-service and level-funded budgets, warning that level funding would eliminate police and dispatch positions, reduce fire shift minimums, and cut 15 school staff members.",
+      "title": "FY28 budget scenarios and potential override impacts",
+      "why": "Town departments presented level-service and level-funded budget scenarios for FY28, warning that level funding would eliminate police positions, reduce fire staffing, and require cutting roughly 15 school staff members.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "BldxGR7yX1s",
       "start_seconds": 873
     },
     {
-      "title": "Senior housing zoning amendment sponsorship",
-      "why": "The Select Board voted to refer to the Planning Board and sponsor an article to lift Southborough's 7 percent cap on senior housing while requiring 12.5 percent affordability.",
+      "title": "Senior housing cap removal proposal",
+      "why": "The Select Board voted to refer to the Planning Board and sponsor an article for Town Meeting that removes Southborough's 7 percent cap on over-55 housing developments.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "BldxGR7yX1s",
       "start_seconds": 127
     },
     {
-      "title": "FY28 capital budget strategy and funding gap",
-      "why": "Town capital requests reached 2.2 million dollars against a 1.2 million dollar tax-funded placeholder, prompting discussion about lowering the bonding threshold to borrow for larger projects.",
+      "title": "Costco site plan and environmental review",
+      "why": "The Planning Board reviewed exterior lighting, native landscaping, and stormwater systems for the proposed 167,000-square-foot Costco at 21 Coslin Drive before continuing the hearing to December 14.",
+      "body": "Planning Board",
+      "importance": "high",
+      "video_id": "hQa4KHStWIE",
+      "start_seconds": 46
+    },
+    {
+      "title": "FY28 capital budget funding gap",
+      "why": "Town and school capital requests reached $2.2 million, outpacing the town's $1.2 million non-debt placeholder and prompting committee discussions about adjusting borrowing thresholds.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "high",
       "video_id": "KATF-_ujRos",
       "start_seconds": 4760
     },
     {
-      "title": "K-8 Public Schools capital improvement requests",
-      "why": "School officials presented 710,000 dollars in capital requests across three schools, prioritizing Woodward School concrete stair replacement and Finn School fence repairs.",
-      "body": "Capital Improvement and Planning Committee",
-      "importance": "medium",
-      "video_id": "KATF-_ujRos",
-      "start_seconds": 2434
-    },
-    {
-      "title": "Public shade tree policy and scenic road review",
-      "why": "The Select Board agreed to schedule a public hearing to consider rescinding or amending local shade tree rules that delay the removal of hazardous trees along designated scenic roads.",
+      "title": "Fire Department staffing and revenue risks",
+      "why": "Fire officials reported that level funding would reduce shift minimums and halt regular operation of the second ambulance, which generated up to $200,000 in revenue last year.",
       "body": "Select Board",
-      "importance": "medium",
+      "importance": "high",
       "video_id": "BldxGR7yX1s",
-      "start_seconds": 6372
+      "start_seconds": 2940
     },
     {
-      "title": "State public health blueprint and grant funding",
-      "why": "Health officials reported on state commission updates and began tracking state advocacy as the regional Public Health Excellence grant expires at the end of FY27.",
-      "body": "Board of Health",
+      "title": "Scenic road hazardous tree removals approved",
+      "why": "The Planning Board and tree warden approved removing dead and hazardous trees along scenic roads, agreeing to fully remove a rotting locust tree on Pine Hill Road following abutter input.",
+      "body": "Planning Board",
       "importance": "medium",
-      "video_id": "3piEqjqhxaE",
-      "start_seconds": 48
+      "video_id": "hQa4KHStWIE",
+      "start_seconds": 5722
     }
   ],
   "looking_ahead": [
     {
-      "what": "CIPC meeting to vote on capital project priorities and recommendations",
+      "what": "Resident Satisfaction Survey closes",
+      "when": "End of November 2026",
+      "body": "Municipal Technology Committee"
+    },
+    {
+      "what": "Capital project priorities ranking vote",
       "when": "November 30, 2026",
       "body": "Capital Improvement and Planning Committee"
     },
     {
-      "what": "Planning Board discussion on senior housing zoning proposal",
-      "when": "first week of December 2026",
-      "body": "Planning Board"
-    },
-    {
-      "what": "Superintendent presentation of recommended K-8 budget to School Committee",
+      "what": "Recommended K-8 school budget presentation",
       "when": "December 9, 2026",
       "body": "School Committee"
     },
     {
-      "what": "Board of Health regular meeting",
-      "when": "December 15 at 9:30 AM",
-      "body": "Board of Health"
+      "what": "Continued public hearings on Costco, 0 Southville Road MBTA development, and ZBA zoning amendments",
+      "when": "December 14, 2026",
+      "body": "Planning Board"
     },
     {
-      "what": "Capital Committee meeting with Select Board",
+      "what": "Capital recommendations presentation to the Select Board",
       "when": "December 15, 2026",
-      "body": "Select Board"
-    },
-    {
-      "what": "Annual Town Election and potential override ballot vote",
-      "when": "May 11, 2027",
-      "body": "Select Board"
+      "body": "Capital Improvement and Planning Committee"
     }
   ],
   "week": "2026-11-16",
-  "fingerprint": "a0664dfc3ab22e86",
+  "fingerprint": "fbce60c7fb5dd598",
   "video_ids": [
     "3piEqjqhxaE",
+    "9M9Fz6T9tSY",
     "BldxGR7yX1s",
-    "KATF-_ujRos"
+    "KATF-_ujRos",
+    "hQa4KHStWIE"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-18T19:42:11Z"
+  "generated_at": "2026-11-19T19:42:20Z"
 }

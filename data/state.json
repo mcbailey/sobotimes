@@ -4089,7 +4089,7 @@
     },
     "EF2iIo4yjPI": {
       "id": "EF2iIo4yjPI",
-      "title": "Library Board of Trustees 10/9/26",
+      "title": "Library Board of Trustees 11/9/26",
       "description": "",
       "published_at": "2026-11-09T16:02:46Z",
       "duration_s": 3657,
@@ -4201,21 +4201,24 @@
       "published_at": "2026-11-17T18:11:05Z",
       "duration_s": 10894,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-17T20:01:54Z",
       "meeting_date": "2026-11-16",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-19T19:41:53Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "hAPZmO17gKk": {
       "id": "hAPZmO17gKk",
       "title": "Regional School Committee Meeting / November 18, 2026",
       "description": "Meeting Agenda: \nhttps://www.northboroughma.gov/sites/g/files/vyhlif12221/f/agendas/final_rsc_agenda_2026_11_18.pdf",
       "published_at": "2026-11-16T23:51:22Z",
-      "duration_s": null,
-      "live": "upcoming",
+      "duration_s": 15161,
+      "live": "none",
       "status": "queued",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
@@ -4230,13 +4233,16 @@
       "published_at": "2026-11-18T16:53:09Z",
       "duration_s": 1308,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-18T19:37:14Z",
       "meeting_date": "2026-11-17",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-19T19:38:38Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "BldxGR7yX1s": {
       "id": "BldxGR7yX1s",
@@ -4291,6 +4297,51 @@
       "processed_at": "2026-11-18T19:41:44Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "zP1I37LQ_Tk": {
+      "id": "zP1I37LQ_Tk",
+      "title": "Zoning Board of Appeals Meeting 11/18/26",
+      "description": "",
+      "published_at": "2026-11-19T18:37:51Z",
+      "duration_s": 2916,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-19T19:38:09Z",
+      "meeting_date": "2026-11-18",
+      "week": "2026-11-16"
+    },
+    "oKWzIDuF6Ow": {
+      "id": "oKWzIDuF6Ow",
+      "title": "Tricentennial Committee 11/18/26",
+      "description": "",
+      "published_at": "2026-11-19T18:29:50Z",
+      "duration_s": 6013,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-19T19:38:09Z",
+      "meeting_date": "2026-11-18",
+      "week": "2026-11-16"
+    },
+    "MVpXMt3UsvY": {
+      "id": "MVpXMt3UsvY",
+      "title": "Community Preservation Committee 11/18/26",
+      "description": "",
+      "published_at": "2026-11-19T18:20:48Z",
+      "duration_s": 4345,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-19T19:38:09Z",
+      "meeting_date": "2026-11-18",
+      "week": "2026-11-16"
     }
   },
   "usage": {
@@ -4589,12 +4640,20 @@
       "output_tokens": 13844,
       "thought_tokens": 23006,
       "tool_use_tokens": 0
+    },
+    "2026-11-19": {
+      "video_minutes": 204,
+      "calls": 14,
+      "input_tokens": 574470,
+      "output_tokens": 13356,
+      "thought_tokens": 46975,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-18T19:37:14Z",
-    "discovered": 25,
-    "summarized": 3,
+    "at": "2026-11-19T19:38:08Z",
+    "discovered": 26,
+    "summarized": 2,
     "refreshed": 0,
     "errors": 0
   }

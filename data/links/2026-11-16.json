@@ -1,6 +1,6 @@
 {
   "week": "2026-11-16",
-  "fingerprint": "2a7f8eb685eb3fc1",
+  "fingerprint": "be4e101399e9cbb4",
   "topics": {
     "3piEqjqhxaE#0": {
       "issue": null,
@@ -17,6 +17,22 @@
     "3piEqjqhxaE#3": {
       "issue": null,
       "category": "Staffing & operations"
+    },
+    "9M9Fz6T9tSY#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "9M9Fz6T9tSY#1": {
+      "issue": null,
+      "category": "Public safety"
+    },
+    "9M9Fz6T9tSY#2": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "9M9Fz6T9tSY#3": {
+      "issue": "town-satisfaction-survey",
+      "category": "Governance & committees"
     },
     "BldxGR7yX1s#0": {
       "issue": "55-plus-housing-bylaw",
@@ -36,7 +52,7 @@
     },
     "BldxGR7yX1s#4": {
       "issue": "fy28-operating-budget",
-      "category": "Roads, water & infrastructure"
+      "category": "Budget & taxes"
     },
     "BldxGR7yX1s#5": {
       "issue": "shade-tree-policy-and-scenic-roads",
@@ -51,12 +67,12 @@
       "category": "Budget & taxes"
     },
     "BldxGR7yX1s#8": {
-      "issue": "municipal-health-insurance-reform",
-      "category": "Budget & taxes"
+      "issue": null,
+      "category": "Governance & committees"
     },
     "KATF-_ujRos#0": {
       "issue": null,
-      "category": "Staffing & operations"
+      "category": "Governance & committees"
     },
     "KATF-_ujRos#1": {
       "issue": "fy28-capital-budget",
@@ -67,12 +83,36 @@
       "category": "Schools"
     },
     "KATF-_ujRos#3": {
-      "issue": "fy28-capital-budget",
+      "issue": "fy28-regional-school-operating-budget",
       "category": "Schools"
     },
     "KATF-_ujRos#4": {
       "issue": "fy28-capital-budget",
       "category": "Budget & taxes"
+    },
+    "hQa4KHStWIE#0": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "hQa4KHStWIE#1": {
+      "issue": "scenic-road-tree-removals",
+      "category": "Environment & conservation"
+    },
+    "hQa4KHStWIE#2": {
+      "issue": "0-southville-road",
+      "category": "Housing"
+    },
+    "hQa4KHStWIE#3": {
+      "issue": "zoning-act-conformance-amendments",
+      "category": "Zoning & development"
+    },
+    "hQa4KHStWIE#4": {
+      "issue": null,
+      "category": "Environment & conservation"
+    },
+    "hQa4KHStWIE#5": {
+      "issue": null,
+      "category": "Governance & committees"
     }
   },
   "votes": {
@@ -87,6 +127,21 @@
     },
     "BldxGR7yX1s#v1": {
       "issue": "55-plus-housing-bylaw"
+    },
+    "hQa4KHStWIE#v0": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "hQa4KHStWIE#v1": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "hQa4KHStWIE#v2": {
+      "issue": "scenic-road-tree-removals"
+    },
+    "hQa4KHStWIE#v3": {
+      "issue": "scenic-road-tree-removals"
+    },
+    "hQa4KHStWIE#v4": {
+      "issue": "0-southville-road"
     }
   },
   "upcoming": {
@@ -96,6 +151,14 @@
     },
     "3piEqjqhxaE#u1": {
       "date": "2027-01-12",
+      "issue": null
+    },
+    "9M9Fz6T9tSY#u0": {
+      "date": null,
+      "issue": "town-satisfaction-survey"
+    },
+    "9M9Fz6T9tSY#u1": {
+      "date": "2026-12-15",
       "issue": null
     },
     "BldxGR7yX1s#u0": {
@@ -129,8 +192,16 @@
     "KATF-_ujRos#u1": {
       "date": "2026-12-15",
       "issue": "fy28-capital-budget"
+    },
+    "hQa4KHStWIE#u0": {
+      "date": "2026-12-14",
+      "issue": null
+    },
+    "hQa4KHStWIE#u1": {
+      "date": null,
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-18T19:42:38Z"
+  "generated_at": "2026-11-19T19:45:36Z"
 }

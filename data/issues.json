@@ -33,25 +33,30 @@
       "description": "Proposed construction of two apartment buildings and associated infrastructure at 0 Southville Road.",
       "category": "Housing",
       "first_seen": "2026-04-27",
-      "last_seen": "2026-10-08",
-      "status": "The proposed 60-unit apartment development at 0 Southville Road remains under environmental review, with its Notice of Intent and stormwater management permit hearings continued by the Conservation Commission on October 8, 2026. The two-building project falls within the MBTA Communities zoning district, requiring at least six affordable units. The Affordable Housing Trust has also explored whether municipal subsidies could buy down additional affordable units, awaiting cost estimates from the developer.",
-      "status_as_of": "2026-10-08",
+      "last_seen": "2026-11-16",
+      "status": "A proposed 60-unit apartment project under the MBTA Communities Overlay District at 0 Southville Road is currently under review before town boards. The Planning Board formally opened its major site plan hearing in November 2026 but continued it without testimony so the developer could resolve questions with public safety officials. The Conservation Commission's review of the project's Notice of Intent and stormwater permit has also seen repeated continuances while plans are revised for peer review. The Planning Board is scheduled to take up the application next on December 14, 2026.",
+      "status_as_of": "2026-11-16",
       "positions": [
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Opened the site plan hearing on Nov 16, 2026, and voted to continue without testimony to let the developer coordinate with public safety officials."
+        },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Voted 4-0 on October 8, 2026, to continue the Notice of Intent and stormwater permit hearings while awaiting revised plans responding to peer review."
+          "detail": "Continued the Notice of Intent and stormwater permit hearing across multiple meetings while revised plans respond to peer review."
         },
         {
-          "body": "Board of Trustees of the Affordable Housing Trust",
+          "body": "Affordable Housing Trust",
           "stance": "neutral",
-          "detail": "Reviewed the 60-unit concept in March 2026 and requested cost projections from the developer to see if town funds could subsidize units beyond the 10 percent required."
+          "detail": "Met with the developer in March 2026 to explore whether town funds could subsidize additional affordable units beyond the required 10 percent."
         }
       ],
-      "next": "",
-      "status_fingerprint": "27874de45c37ca51",
+      "next": "Planning Board public hearing on December 14, 2026.",
+      "status_fingerprint": "ed4adde72763ed6e",
       "status_model": "gemini-3.8-flash",
-      "significance": 5
+      "significance": 4
     },
     "0-valley-road-trail": {
       "id": "0-valley-road-trail",
@@ -325,28 +330,28 @@
       "description": "Site plan and special permit review for a proposed 167,000-square-foot Costco retail warehouse and 30-position gas station at 21 Coslin Drive.",
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-02",
-      "status": "Costco's application for a 167,000-square-foot retail warehouse and 30-position fueling facility is currently under major site plan and special permit review before the Planning Board, having already secured height variances for retaining walls and lighting from the Zoning Board of Appeals. The proposal faces intense scrutiny from board members and neighbors over regional traffic generation, failing levels of service at Route 9 intersections, and cut-through truck and customer traffic on residential collector streets. The Planning Board's extended statutory deadline to act on the major site plan application is December 18, 2026.",
-      "status_as_of": "2026-11-02",
+      "last_seen": "2026-11-16",
+      "status": "Costco's proposed 167,000-square-foot retail warehouse and 30-position gas station at 21 Coslin Drive remains under major site plan and special permit review before the Planning Board. While the Zoning Board of Appeals approved variances in July for 31-foot retaining walls and 36.6-foot light poles, the Planning Board is still weighing requested landscaping and stormwater waivers alongside developer traffic mitigation plans. Neighbors and peer reviewers continue to raise major concerns over Route 9 intersection failures, regional congestion, and truck traffic cutting through residential neighborhoods. The Planning Board's public hearing resumes on December 14, 2026, ahead of its December 18 decision deadline.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Reviewing major site plan and special permit applications while raising sharp questions about Route 9 intersection delays, level-of-service failures, and a lack of formal off-site truck routing restrictions."
+          "detail": "Continues to review the site plan and special permits while pressing the applicant on traffic modeling, off-site truck routing, and site waivers."
         },
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026 to approve requested variances for retaining walls up to 31 feet high and parking lot light poles up to 36.5 feet."
+          "detail": "Voted 4-0 on July 15, 2026, to grant variances allowing 31-foot retaining walls and 36.6-foot dark-sky compliant light poles."
         },
         {
           "body": "Public comment",
-          "stance": "oppose",
-          "detail": "Residents and nearby business owners expressed serious concerns regarding Route 9 gridlock, school bus delays, and cut-through semi-truck and customer traffic on local neighborhood roads."
+          "stance": "mixed",
+          "detail": "Residents commended native plant selections but strongly objected to rock mulch and voiced deep concerns over Route 9 gridlock, neighborhood safety, and heavy truck cut-through traffic."
         }
       ],
-      "next": "Planning Board statutory decision deadline on December 18, 2026",
-      "status_fingerprint": "7a20b05491a47f69",
+      "next": "Planning Board public hearing on December 14, 2026.",
+      "status_fingerprint": "50b936e8af335a2b",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -696,27 +701,32 @@
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
       "last_seen": "2026-11-17",
-      "status": "A proposed zoning bylaw amendment to lift Southborough's 7 percent municipal cap on 55-plus senior housing is heading to Town Meeting after the Select Board voted unanimously to sponsor it. Drafted by the Affordable Housing Trust, the measure would allow up to eight units per acre on lots of at least two acres while mandating 10 percent open space and 12.5 percent affordable housing. The proposal revives an effort paused in February 2026 when the Planning Board withdrew an earlier version to study community concerns about density. The revised draft now faces review by the Zoning Board of Appeals and the Planning Board before going before Town Meeting voters.",
+      "status": "A proposed zoning amendment to remove Southborough's 7 percent municipal cap on 55-plus housing developments is advancing to Town Meeting after the Select Board agreed to sponsor the article. Drafted by the Affordable Housing Trust, the revised measure would allow up to eight units per acre on parcels of at least two acres while requiring 12.5 percent of units to be affordable. The proposal addresses previous community concerns over density that led to the withdrawal of an earlier version in February 2026, and it now heads to the Planning Board for review.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted unanimously on November 17, 2026 to sponsor the article on the Town Meeting warrant and refer it to the Planning Board."
+          "detail": "Voted unanimously on November 17, 2026 to sponsor the zoning amendment on the Town Meeting warrant and refer it to the Planning Board."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Drafted and backed the proposal to eliminate the 7 percent elderly housing cap and establish a 12.5 percent affordability mandate."
+          "detail": "Drafted the amendment to eliminate the senior housing cap and reached consensus in October 2026 on density and affordability requirements."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Voted 5-0 in February 2026 to withdraw a prior draft over density concerns, and has not yet taken a position on the newly referred language."
+          "detail": "Voted 5-0 in February 2026 to withdraw an earlier draft from the warrant for further study, and has yet to review the newly referred proposal."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "Residents raised concerns earlier in 2026 over housing density and diversity, while an attendee at an October meeting sought more information on the revised draft."
         }
       ],
-      "next": "Zoning Board of Appeals discussion on November 18, 2026.",
-      "status_fingerprint": "7b81ec45ff2ad2fc",
+      "next": "Planning Board discussion in the first week of December 2026.",
+      "status_fingerprint": "b9e1ee98ad37033d",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1742,23 +1752,23 @@
       "category": "Budget & taxes",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-16",
-      "status": "The FY28 capital budget is under review as the Capital Improvement and Planning Committee works to reconcile approximately $2.2 million in department requests against a $1.2 million Select Board placeholder for tax levy funding. A central question is whether the Select Board will lower the town's bonding threshold from $300,000 to $200,000, which would shift more projects into borrowing articles requiring a two-thirds Town Meeting vote. The committee plans to vote on its project rankings on November 30 before presenting recommendations to the Select Board in December.",
+      "status": "The Capital Improvement and Planning Committee is currently reviewing departmental requests totaling approximately $2.2 million against a Select Board placeholder of about $1.2 million for tax levy appropriations. The committee is seeking Select Board guidance on whether to lower the town's bonding threshold from $300,000 to $200,000, which would shift more large capital items into borrowing articles requiring a two-thirds Town Meeting vote. Departments, including the public schools with $710,000 in requests, have been asked to provide phased implementation options and lower-cost alternatives to address the funding gap. The committee plans to rank and vote on its project recommendations on November 30 before presenting to the Select Board on December 15, 2026.",
       "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Capital Improvement and Planning Committee",
           "stance": "undecided",
-          "detail": "Weighing $2.2 million in departmental requests against a $1.2 million funding target while seeking Select Board direction on bonding thresholds."
+          "detail": "Reviewing $2.2 million in town-wide requests against a $1.2 million placeholder while seeking Select Board guidance on bonding thresholds."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Submitted a $710,000 FY28 capital request covering school sink replacements, Finn safety fencing, and exterior stairs."
+          "detail": "Proposed $710,000 in capital requests prioritizing Woodward School stair repairs, Finn School fencing, and Trottier and Finn sink replacements."
         }
       ],
-      "next": "Capital Improvement and Planning Committee vote on capital priorities on November 30, 2026.",
+      "next": "November 30, 2026 (Capital Improvement and Planning Committee meets to rank and vote on capital project recommendations)",
       "significance": 4,
-      "status_fingerprint": "d6afc9c6fb0c31b4",
+      "status_fingerprint": "2cf1f3718d8d9f44",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-operating-budget": {
@@ -1823,24 +1833,24 @@
       "description": "Operating budget planning, health insurance restructuring, and capital improvement planning for the Northborough-Southborough Regional School District for fiscal year 2028.",
       "category": "Schools",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-07",
-      "status": "The regional school district is in the early stages of preparing its FY28 operating budget under municipal Proposition 2 1/2 constraints, with administrators presenting preliminary models to the Regional School Committee today, November 18, 2026. To meet differing guidelines from both member towns, the district is modeling level-service, level-funded, and 3% capped scenarios. Major cost drivers include special education tuition and transportation, while the district is negotiating an employee health insurance deductible overhaul projected to save roughly $600,000. The Superintendent will present a recommended budget in January 2027 leading up to a committee vote in February and March Town Meeting approval.",
-      "status_as_of": "2026-10-07",
+      "last_seen": "2026-11-16",
+      "status": "The Northborough-Southborough Regional School District is developing its FY28 operating budget and capital improvement plan under municipal tax cap constraints in both member towns. Administrators are preparing alternative budget models, including level-service and level-funded options, while seeking an estimated $600,000 in regional savings through employee health insurance restructuring. Southborough is also assessing its 38.98% share of $450,000 to $500,000 in proposed regional capital projects for Algonquin Regional High School. The regional and local school committees next meet jointly in early December 2026 ahead of final budget recommendations in early 2027.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
-          "body": "Northborough-Southborough Regional School Committee Operational Budget and Capital Planning Subcommittees",
-          "stance": "undecided",
-          "detail": "Directed administrators to develop three budget models and pursue health insurance restructuring while prioritizing high-quality instruction and a Special Education Stabilization Fund."
+          "body": "Regional School Committee Budget and Capital Subcommittees",
+          "stance": "support",
+          "detail": "Endorsed five draft strategic priorities on Oct 7, directing staff to model alternative budget scenarios and negotiate health insurance plan changes."
         },
         {
           "body": "Public comment",
           "stance": "neutral",
-          "detail": "A resident and town finance official urged the district to hold earlier joint budget discussions with municipal finance committees to align assumptions and terminology."
+          "detail": "A speaker urged the district on Sep 16 to hold earlier joint sessions with municipal finance committees to align on budget assumptions and terminology."
         }
       ],
-      "next": "Preliminary FY28 budget presentation to the Regional School Committee on November 18, 2026",
+      "next": "Combined meeting with the Regional and Northborough School Committees on December 2, 2026.",
       "significance": 5,
-      "status_fingerprint": "69f552fc43585554",
+      "status_fingerprint": "f7867220dd10370b",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-school-operating-budget": {
@@ -2452,17 +2462,17 @@
       "category": "Budget & taxes",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-17",
-      "status": "Healthcare plan design changes negotiated with the Public Employee Committee are projected to save the town roughly $1 million annually. The Select Board adopted Massachusetts General Law Chapter 32B, Sections 21 through 23 in August 2026 to enable expedited collective bargaining alongside Northborough and the regional school district. The coordinated plan changes are scheduled to take effect on July 1, 2027.",
-      "status_as_of": "2026-11-17",
+      "status": "The town has authorized expedited negotiations with the Public Employee Committee after the Select Board voted unanimously to accept Massachusetts General Law Chapter 32B, Sections 21 through 23. Southborough is coordinating the process with Northborough and the regional school district, which also adopted the statute, to modify municipal health insurance plan designs. The resulting changes are intended to curb rising premium expenses, which currently comprise 11.2 percent of the municipal budget.",
+      "status_as_of": "2026-08-11",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Aug 11 to adopt MGL Chapter 32B Sections 21-23 to pursue negotiations, and acknowledged approximately $1 million in annual savings on Nov 17."
+          "detail": "Voted 5-0 on Aug 11, 2026, to accept MGL Chapter 32B Sections 21-23 to negotiate health plan design changes with municipal employees."
         }
       ],
-      "next": "Implementation of modified health insurance plan designs on July 1, 2027.",
-      "status_fingerprint": "af83a331f8097448",
+      "next": "Implementation of proposed health insurance plan design changes on July 1, 2027.",
+      "status_fingerprint": "68806a6afd83c09b",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3306,24 +3316,24 @@
       "description": "Tree Warden and DPW hearings and approvals to trim or remove public shade trees along designated scenic roads.",
       "category": "Environment & conservation",
       "first_seen": "2026-04-27",
-      "last_seen": "2026-04-27",
-      "status": "The Planning Board unanimously approved the DPW's application to remove four hazardous trees and trim another along designated scenic roads following an April 2026 joint hearing with the Tree Warden. The vote followed earlier procedural concerns raised by board members over trees being removed under state 'imminent hazard' exemptions without public notice or hearings. Town officials also discussed developing a GIS inventory to track trees and pursuing replacement plantings owed by utility companies. No further hearings or steps are currently scheduled.",
-      "status_as_of": "2026-04-27",
+      "last_seen": "2026-11-16",
+      "status": "The Planning Board unanimously approved the Department of Public Works' petition on November 16, 2026, to remove and trim 24 public shade trees along several scenic roads. At an abutter's request, the board amended the plan to fully remove a rotting locust tree at 3 Pine Hill Road instead of trimming it. Work by tree contractors on the most critical hazard trees is slated to begin immediately, with the remaining removals and trimmings scheduled over the winter.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Voted unanimously on April 27, 2026, to approve the four scenic road tree removals and one trimming due to decay, cavities, and safety hazards."
+          "detail": "Voted unanimously on Nov 16, 2026, to approve the scenic road tree work with an amendment for full removal at 3 Pine Hill Road."
         },
         {
           "body": "Public comment",
-          "stance": "neutral",
-          "detail": "Speakers inquired about prioritizing hazard removals on streets reliant on private well power and asked about the status of replacement plantings owed by utility companies."
+          "stance": "support",
+          "detail": "Abutters favored hazard tree mitigation, successfully seeking full removal of an unstable locust tree and accepting pruning plans for a leaning oak."
         }
       ],
       "next": "",
-      "significance": 3,
-      "status_fingerprint": "754af6e0271a531b",
+      "significance": 2,
+      "status_fingerprint": "955b655f0d3cee22",
       "status_model": "gemini-3.8-flash"
     },
     "school-bus-transportation-operations": {
@@ -3840,30 +3850,25 @@
       "description": "Design, public outreach, and execution of the townwide resident satisfaction survey conducted by the Municipal Technology Committee.",
       "category": "Governance & committees",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-10-27",
-      "status": "The 2026 Resident Satisfaction Survey is currently open through November 30, having gathered 53 responses since a quiet launch earlier in the month. The Municipal Technology Committee is focusing on outreach to increase completion rates, coordinating promotional efforts through electronic roadway signs, school district emails, and an informational presence at polling stations on Election Day. This year's streamlined survey includes new questions addressing affordable housing preferences, Senior Center digital services, and commercial delivery drones.",
-      "status_as_of": "2026-10-27",
+      "last_seen": "2026-11-17",
+      "status": "Southborough's 2026 Resident Satisfaction Survey is currently open through the end of November, with approximately 200 responses collected to date. Organized by the Municipal Technology Committee, outreach efforts include reusable banners, electronic roadway signage, and paper forms at the Senior Center. The questionnaire incorporates input on housing typologies from the Affordable Housing Trust alongside questions on commercial delivery drones. Once the survey closes on November 30, 2026, a volunteer data scientist will compile and analyze the results.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Administering the survey and actively arranging promotional outreach to increase participation before it closes."
+          "detail": "Administering the townwide survey through late November, including paper outreach at the Senior Center transcribed via AI vision models."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Submitted refined survey questions in September to assess resident preferences on housing styles, workforce housing, and downtown development."
-        },
-        {
-          "body": "Select Board",
-          "stance": "support",
-          "detail": "Voted on September 2 to endorse the committee's survey prioritization framework and 90-day action plan."
+          "detail": "Drafted and refined survey questions to evaluate resident preferences on workforce housing, senior housing, and development locations."
         }
       ],
-      "next": "Survey closes on November 30, 2026",
-      "status_fingerprint": "77522e6dec38b45c",
+      "next": "Survey closes on November 30, 2026.",
+      "status_fingerprint": "d70673f142533ee1",
       "status_model": "gemini-3.8-flash",
-      "significance": 2
+      "significance": 3
     },
     "town-website-redesign": {
       "id": "town-website-redesign",
@@ -4266,19 +4271,24 @@
       "description": "Proposed local zoning bylaw amendments aligning Southborough bylaws with state Zoning Act changes regarding non-conforming structures and variances.",
       "category": "Zoning & development",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-21",
-      "status": "Proposed zoning bylaw amendments aligning Southborough’s bylaws with recent state Chapter 40A changes are advancing toward the 2027 Annual Town Meeting. The revisions update rules for preexisting nonconforming structures, extend use abandonment timelines from two to four years, and adopt practical difficulty standards for residential variances. The draft language was prepared for the Select Board to refer to the Planning Board for required public hearings.",
-      "status_as_of": "2026-10-21",
+      "last_seen": "2026-11-16",
+      "status": "Proposed zoning bylaw amendments to align local rules with recent changes to the state Zoning Act are under review ahead of the 2027 Annual Town Meeting. The Zoning Board of Appeals brought forward draft articles addressing non-conforming structures, variance criteria, and abandonment timelines. The Planning Board raised concerns that certain wording could inadvertently expand commercial development rights, and both boards agreed to refine the draft language before a formal hearing scheduled for December 14, 2026.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Supported conforming local bylaws to state standards and directed staff to prepare draft warrant articles for the 2027 Annual Town Meeting."
+          "detail": "Drafted and advanced warrant articles aligning local bylaws with Chapter 40A revisions on variances and non-conforming structures for the 2027 Annual Town Meeting."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Urged caution that deleting specific residential phrasing could unintentionally broaden commercial expansion rights, agreeing to collaborate with the ZBA on revised language."
         }
       ],
-      "next": "Annual Town Meeting warrant article submission deadline on December 14, 2026",
+      "next": "Planning Board public hearing on December 14, 2026.",
       "significance": 5,
-      "status_fingerprint": "423fe873374d750b",
+      "status_fingerprint": "b779abefc45acd1c",
       "status_model": "gemini-3.8-flash"
     }
   }

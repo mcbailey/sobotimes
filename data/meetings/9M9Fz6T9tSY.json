@@ -1,0 +1,118 @@
+{
+  "video": {
+    "id": "9M9Fz6T9tSY",
+    "title": "Municipal Technology Committee 11/17/26",
+    "published_at": "2026-11-18T16:53:09Z",
+    "duration_s": 1308
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Municipal Technology Committee",
+    "meeting_date": "2026-11-17",
+    "headline": "The Municipal Technology Committee reviewed initial resident survey responses, paper outreach for seniors, and emergency cell service coverage at Trottier Middle School.",
+    "summary": "The Municipal Technology Committee discussed its ongoing resident satisfaction survey, which has received over 200 responses and will close at the end of November. Members reviewed efforts to make the survey accessible to seniors via paper copies distributed at the Senior Center. The committee also examined poor cellular connectivity for first responders inside Trottier Middle School during Town Meeting and planned upcoming presentations with the police chief and public works director.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved the minutes from its October meeting with an amendment to include a member who attended remotely, and adjourned the meeting.",
+        "key_details": [
+          "October meeting minutes were approved as amended to reflect remote attendance.",
+          "The committee scheduled its next meeting for Tuesday, December 15, 2026, at 6:30 p.m."
+        ],
+        "outcome": "Approved",
+        "why_it_matters": null,
+        "start_seconds": 1,
+        "end_seconds": null
+      },
+      {
+        "title": "Department tech reviews and first responder cellular coverage",
+        "category": "Public safety",
+        "importance": "medium",
+        "summary": "The committee deferred reviews with the Department of Public Works and the police department to December due to scheduling conflicts. Members also examined emergency cellular coverage inside the Trottier Middle School auditorium after town public safety chiefs experienced poor cell reception during Town Meeting.",
+        "key_details": [
+          "Representatives from the Department of Public Works and the Police Chief are scheduled to attend the December meeting.",
+          "The police department is scheduled to discuss the Blue Voice platform in December.",
+          "School technology representative reported an issue where chiefs could not obtain cell service in the Trottier Middle School auditorium during Town Meeting.",
+          "The schools tested AT&T FirstNet microcell and femtocell equipment, but need to verify whether the town uses AT&T or Verizon for first responder mobile service.",
+          "The chair agreed to connect the school tech representative with the police chief to clarify carrier contracts."
+        ],
+        "outcome": "Hearings and presentations continued to December 15, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 144,
+        "end_seconds": null
+      },
+      {
+        "title": "Strategic technology plan and website AI accessibility",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Members discussed coordinating the town strategic technology roadmap with the Select Board goals for FY27. A member attempting to summarize town documents using artificial intelligence tools reported that the town website currently blocks automated web crawlers and agents, prompting a discussion on open government accessibility policies.",
+        "key_details": [
+          "The chair reached out to Select Board member Kathy Cook regarding executive sponsorship for strategic priorities.",
+          "Members noted overlap between the technology plan and stated Select Board goals for FY27.",
+          "A committee member noted that AI agents were unable to scrape or access public meeting minutes on the town website.",
+          "The committee suggested discussing website agent accessibility and open government policies with the town technology director in January."
+        ],
+        "outcome": "Chair will follow up with Select Board leadership.",
+        "why_it_matters": null,
+        "start_seconds": 428,
+        "end_seconds": null
+      },
+      {
+        "title": "Resident satisfaction survey update and Senior Center outreach",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed progress on the townwide resident satisfaction survey, which has generated roughly 200 completed responses. To improve accessibility, the committee partnered with the Senior Center to offer sectioned paper copies that will be scanned and transcribed using AI vision models.",
+        "key_details": [
+          "Approximately 200 completed surveys have been received to date.",
+          "The survey is scheduled to close at the end of November.",
+          "Physical promotional banners were deployed across town and are designed to be reused in future years.",
+          "Paper copies were printed and made available by department at the Senior Center for residents preferring hard copies.",
+          "The chair reported public feedback requesting questions on Flock safety cameras and data centers, while questions on delivery drones and affordable housing were included."
+        ],
+        "outcome": "Survey results will be collected after November and analyzed by a volunteer data scientist.",
+        "why_it_matters": null,
+        "start_seconds": 826,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Resident Satisfaction Survey closes",
+        "when": "End of November 2026"
+      },
+      {
+        "what": "Municipal Technology Committee meeting with DPW and Police Chief",
+        "when": "December 15, 2026"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-19T19:38:38Z",
+  "usage": {
+    "total_tokens": 53238,
+    "total_input_tokens": 50889,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 982
+      },
+      {
+        "modality": "video",
+        "tokens": 49907
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1187,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1162,
+    "initial_input_tokens": 50889
+  }
+}
