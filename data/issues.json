@@ -183,6 +183,32 @@
       "status_fingerprint": "14e52c711a30453b",
       "status_model": "gemini-3.8-flash"
     },
+    "120-turnpike-road-open-space": {
+      "id": "120-turnpike-road-open-space",
+      "name": "120 Turnpike Road open space conveyance",
+      "description": "Conveyance of 6.2 acres of open space land adjacent to Breakneck Hill Farm to the town from the 120 Turnpike Road residential development.",
+      "category": "Parks, trails & recreation",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
+      "status": "The proposed conveyance of 6.2 acres of open space to the town is under review by the Conservation Commission. The commission informally supports accepting the land, which connects to Breakneck Hill Farm, but deferred action to consult Town Counsel regarding indemnification and liability for an on-site stormwater swale. Formal acceptance is also pending review by the Stewardship Committee before the developer's year-end target.",
+      "status_as_of": "2026-11-19",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Informally supports accepting the land donation but deferred a formal vote pending legal review of liability protections regarding an on-site drainage swale."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "A Stewardship Committee member noted previous concerns regarding drainage swales and potential safety hazards, though the committee has yet to review the final deed."
+        }
+      ],
+      "next": "Conservation Commission discussion on December 10, 2026",
+      "significance": 3,
+      "status_fingerprint": "5f8fe9b086e76418",
+      "status_model": "gemini-3.8-flash"
+    },
     "14-newton-street": {
       "id": "14-newton-street",
       "name": "14 Newton Street garage and ADU",
@@ -278,24 +304,24 @@
       "description": "Application and regional school partnerships for up to $100,000 in state MassTrails grant funding for trail improvements.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-05",
-      "status": "The Trails Committee is drafting an application for up to $100,000 in FY27 MassTrails grant funding for trail improvements, including a Peninsula Trail bridge. The committee is coordinating educational partnerships with local schools and securing letters of support ahead of the state deadline in early February 2027. The Recreation Commission voted unanimously on November 12 to endorse the project, and additional working sessions will continue through December.",
-      "status_as_of": "2026-11-12",
+      "last_seen": "2026-11-19",
+      "status": "The Trails Committee is finalizing documentation and partnership materials for up to $100,000 in state MassTrails grant funding to construct a Peninsula Trail pedestrian bridge. Recent state guidance confirmed that the shovel-ready bridge must be ADA compliant and that existing Community Preservation Act funds satisfy local leverage requirements. With the Recreation Commission endorsing the project, the committee is preparing the full application ahead of the winter deadline.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Actively preparing the grant application and conducting outreach to local school districts and municipal boards for support."
+          "detail": "Proceeding with final application documentation and letters of support for the shovel-ready trail bridge project."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted 4-0 on Nov 12, 2026, to write a letter of support for the Peninsula Trail bridge application."
+          "detail": "Voted 4-0 on Nov 12 to provide a letter of support for the Peninsula Trail bridge grant application."
         }
       ],
-      "next": "Trails Committee grant planning meeting the week of November 18, 2026.",
+      "next": "MassTrails grant application submission deadline on February 1, 2027.",
       "significance": 3,
-      "status_fingerprint": "9753a85351312659",
+      "status_fingerprint": "12be09c6da1ef2c6",
       "status_model": "gemini-3.8-flash"
     },
     "2030-master-plan-update": {
@@ -330,28 +356,33 @@
       "description": "Site plan and special permit review for a proposed 167,000-square-foot Costco retail warehouse and 30-position gas station at 21 Coslin Drive.",
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-16",
-      "status": "Costco's proposed 167,000-square-foot retail warehouse and 30-position gas station at 21 Coslin Drive remains under major site plan and special permit review before the Planning Board. While the Zoning Board of Appeals approved variances in July for 31-foot retaining walls and 36.6-foot light poles, the Planning Board is still weighing requested landscaping and stormwater waivers alongside developer traffic mitigation plans. Neighbors and peer reviewers continue to raise major concerns over Route 9 intersection failures, regional congestion, and truck traffic cutting through residential neighborhoods. The Planning Board's public hearing resumes on December 14, 2026, ahead of its December 18 decision deadline.",
-      "status_as_of": "2026-11-16",
+      "last_seen": "2026-11-19",
+      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station at 21 Coslin Drive remains under active review by the Planning Board and Conservation Commission. While the Zoning Board of Appeals unanimously granted variances for retaining walls and light pole heights in July, the Planning Board is still weighing traffic mitigation, site layout, and requested waivers. Key open concerns include regional traffic delays on Route 9, cut-through truck traffic on residential streets, and environmental impacts. The Conservation Commission takes up the project next on December 10, 2026, followed by the Planning Board on December 14 ahead of a December 18 decision deadline.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Continues to review the site plan and special permits while pressing the applicant on traffic modeling, off-site truck routing, and site waivers."
+          "detail": "Reviewing major site plans, traffic mitigation, and landscaping and stormwater waivers ahead of a December 18 decision deadline."
         },
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to grant variances allowing 31-foot retaining walls and 36.6-foot dark-sky compliant light poles."
+          "detail": "Voted 4-0 on July 15 to approve variances for retaining walls up to 31 feet and light poles up to 36.6 feet."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "undecided",
+          "detail": "Continued the Notice of Intent hearing to December 10 at the applicant's request."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents commended native plant selections but strongly objected to rock mulch and voiced deep concerns over Route 9 gridlock, neighborhood safety, and heavy truck cut-through traffic."
+          "detail": "Residents voiced sharp concerns about Route 9 gridlock and cut-through truck traffic on local streets, while one speaker praised native plantings but opposed rock mulch in parking islands."
         }
       ],
-      "next": "Planning Board public hearing on December 14, 2026.",
-      "status_fingerprint": "50b936e8af335a2b",
+      "next": "Conservation Commission public hearing on December 10, 2026.",
+      "status_fingerprint": "90a5d6f73ff47312",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -700,33 +731,33 @@
       "description": "Proposed zoning bylaw amendment to eliminate caps on age-restricted 55-plus developments and clarify affordability requirements.",
       "category": "Zoning & development",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-11-17",
-      "status": "A proposed zoning amendment to remove Southborough's 7 percent municipal cap on 55-plus housing developments is advancing to Town Meeting after the Select Board agreed to sponsor the article. Drafted by the Affordable Housing Trust, the revised measure would allow up to eight units per acre on parcels of at least two acres while requiring 12.5 percent of units to be affordable. The proposal addresses previous community concerns over density that led to the withdrawal of an earlier version in February 2026, and it now heads to the Planning Board for review.",
-      "status_as_of": "2026-11-17",
+      "last_seen": "2026-11-18",
+      "status": "A proposed zoning bylaw amendment to lift Southborough's 7 percent municipal cap on age-restricted 55-plus housing is heading to the Planning Board after the Select Board voted to sponsor it for the Town Meeting warrant. Drafted by the Affordable Housing Trust, the measure establishes a 12.5 percent affordability mandate, allows up to eight units per acre on parcels of at least two acres, and consolidates site plan review under the Zoning Board of Appeals. An earlier version was withdrawn by the Planning Board in February 2026 over community concerns about density and housing diversity. The Zoning Board of Appeals discussed the latest draft in November 2026 without taking a vote, choosing to await Planning Board public hearings before considering an endorsement.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted unanimously on November 17, 2026 to sponsor the zoning amendment on the Town Meeting warrant and refer it to the Planning Board."
+          "detail": "Voted unanimously on November 17, 2026, to sponsor the amendment for the Town Meeting warrant and refer it to the Planning Board."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Drafted the amendment to eliminate the senior housing cap and reached consensus in October 2026 on density and affordability requirements."
+          "detail": "Drafted the revised amendment to remove the unit cap, set a 12.5 percent affordability mandate, and permit up to eight units per acre."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Voted 5-0 in February 2026 to withdraw an earlier draft from the warrant for further study, and has yet to review the newly referred proposal."
+          "detail": "Voted 5-0 in February 2026 to withdraw a prior draft from the warrant following community concerns, and is now preparing to review the trust's new proposal."
         },
         {
-          "body": "Public comment",
-          "stance": "mixed",
-          "detail": "Residents raised concerns earlier in 2026 over housing density and diversity, while an attendee at an October meeting sought more information on the revised draft."
+          "body": "Zoning Board of Appeals",
+          "stance": "undecided",
+          "detail": "Discussed the draft proposal on November 18, 2026, without taking a vote, deferring endorsement until after Planning Board public hearings."
         }
       ],
-      "next": "Planning Board discussion in the first week of December 2026.",
-      "status_fingerprint": "b9e1ee98ad37033d",
+      "next": "Planning Board presentation on December 14, 2026.",
+      "status_fingerprint": "1c017b1d8290dbb0",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1080,18 +1111,23 @@
       "description": "Planning and invasive species management for a comprehensive five-zone ecological restoration at Breakneck Hill Conservation Land.",
       "category": "Environment & conservation",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-04",
-      "status": "The Stewardship Committee is preparing a formal scope of work with the town planner to solicit bids for a five-zone ecological restoration of Breakneck Hill Conservation Land. The project addresses invasive species management, soil compaction from heavy equipment, site grading, botanical surveys, and native replanting, utilizing $47,000 recovered from remediation contractors. A committee liaison was appointed in August to coordinate with the invasive management contractor as planning proceeds.",
-      "status_as_of": "2026-08-04",
+      "last_seen": "2026-11-19",
+      "status": "The Breakneck Hill Conservation Land restoration is moving into the design phase after the Conservation Commission unanimously awarded an engineering contract to BSC Group to prepare a bid-ready plan. The comprehensive project covers five zones across the property, including trails, parking, transitional woods, the remediated dump, and a research meadow damaged by earlier remediation vehicles. Both the commission and the Stewardship Committee support the project, which will use $47,000 recovered from contractors alongside targeted invasive species management to restore the site.",
+      "status_as_of": "2026-11-19",
       "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted unanimously on Nov 19, 2026, to award the restoration bid package design contract to sole respondent BSC Group."
+        },
         {
           "body": "Stewardship Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Aug 4 to appoint a liaison to the invasive plant management contractor while developing a comprehensive restoration scope with the town planner."
+          "detail": "Endorsed BSC Group's proposal and is overseeing the five-zone restoration scope and invasive species management."
         }
       ],
       "next": "",
-      "status_fingerprint": "f123ecea3324998e",
+      "status_fingerprint": "da34c953a56b9379",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -1543,20 +1579,20 @@
       "description": "Notice of Intent and redevelopment to convert grass soccer fields to artificial turf and relocate a baseball field at Fay School's 0 Marlboro Junction property.",
       "category": "Zoning & development",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-10-08",
-      "status": "The Notice of Intent and stormwater management permit application to convert grass fields to artificial turf and relocate a baseball field at Fay School's 0 Marlborough Junction property remains under review. The Conservation Commission has not yet deliberated on the merits of work within the wetland buffer zone and riverfront area, having granted repeated continuance requests from the applicant without substantive presentation. A substantive public hearing before the commission will be the next step once rescheduled.",
-      "status_as_of": "2026-10-08",
+      "last_seen": "2026-11-19",
+      "status": "The Notice of Intent to redevelop Fay School's athletic fields and install artificial turf at 0 Marlboro Junction remains under review by the Conservation Commission. The applicant recently submitted revised stormwater and riverfront mitigation plans and proposed a deed restriction boundary swap to accommodate a relocated baseball field. The commission is awaiting an evaluation of the proposed restriction swap by its environmental consultant before making a determination. The public hearing is scheduled to continue on December 10, 2026.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Voted 3-0 on Oct 8 to continue the public hearing at the applicant's request without substantive discussion."
+          "detail": "The commission is awaiting an evaluation by its environmental consultant regarding a proposed deed restriction swap before acting on the application."
         }
       ],
-      "next": "",
-      "status_fingerprint": "86a0fbe1f87f801a",
+      "next": "Conservation Commission hearing on December 10, 2026",
+      "status_fingerprint": "2e0429bccaa1c698",
       "status_model": "gemini-3.8-flash",
-      "significance": 2
+      "significance": 3
     },
     "fayville-memorial-park-improvements": {
       "id": "fayville-memorial-park-improvements",
@@ -1614,6 +1650,32 @@
       "status_fingerprint": "39a320d5cbbc2886",
       "status_model": "gemini-3.8-flash",
       "significance": 2
+    },
+    "fy27-cultural-council-grants": {
+      "id": "fy27-cultural-council-grants",
+      "name": "FY27 Cultural Arts Council grants",
+      "description": "Review, budgeting, and allocation of state and local grant funds by the Southborough Cultural Arts Council for FY27 community arts projects.",
+      "category": "Library, arts & community",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
+      "status": "The Southborough Cultural Arts Council has completed an initial screening of 33 applications requesting approximately $33,000 for the FY27 grant cycle. On November 19, the council voted unanimously to allocate its entire $8,809.43 funding pool directly to grant awards rather than retaining administrative fees. Applications preliminarily supported total approximately $8,100, with remaining decisions hinging on applicant follow-ups regarding dates, venues, and budgets. Final grant amounts will be determined at the council's next meeting.",
+      "status_as_of": "2026-11-19",
+      "positions": [
+        {
+          "body": "Southborough Cultural Arts Council",
+          "stance": "support",
+          "detail": "Voted unanimously on November 19 to dedicate all $8,809.43 in available funds to grant awards and preliminarily approved about $8,100 in applications."
+        },
+        {
+          "body": "Public comment",
+          "stance": "support",
+          "detail": "A representative of the Southborough Tricentennial Committee and Friends of Summer Nights requested a $5,000 grant for shade tents, seating, and accessible facilities for an August concert."
+        }
+      ],
+      "next": "Southborough Cultural Arts Council meeting to finalize grant award amounts on December 3, 2026.",
+      "significance": 2,
+      "status_fingerprint": "5b315925b0cb9a17",
+      "status_model": "gemini-3.8-flash"
     },
     "fy27-operating-budget": {
       "id": "fy27-operating-budget",
@@ -1880,7 +1942,7 @@
       "description": "Funding and municipal installation of holiday lighting displays and kickoff event for the Tricentennial.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-11-18",
       "status": "Plans for the Glow SoBo holiday lighting display and celebration are moving forward for early December. The Tricentennial Committee authorized a $10,456 contract for commercial exterior lighting of the Town House, library grounds, and nearby trees, and will fund permanent exterior electrical outlets on the library property. The Library Board of Trustees unanimously approved the outdoor lighting and electrical work, while deferring any decision on hosting indoor after-hours activities.",
       "status_as_of": "2026-09-14",
       "positions": [
@@ -1906,19 +1968,19 @@
       "description": "Tricentennial initiative honoring notable historical and contemporary Southborough figures.",
       "category": "Library, arts & community",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-10-14",
-      "status": "The History Makers recognition initiative is currently underway and accepting nominations online to honor notable past and present Southborough residents. Launched in October 2026 by the Tricentennial Committee, the program seeks nominations across civic, scientific, volunteer, and business contributions. Committee members are actively promoting the forms and collecting submissions through town channels.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-18",
+      "status": "The Tricentennial History Makers recognition program is currently under review following the close of nominations. A working group reviewed 26 community submissions to select honorees across 15 award categories. The committee plans to publicly announce the final categories and acknowledge all nominees in January.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Launched the online nomination form to recognize residents' civic and community contributions and is actively gathering submissions."
+          "detail": "Reviewed 26 community nominations on Nov 18 and plans to announce 15 award categories while honoring all nominees."
         }
       ],
-      "next": "",
+      "next": "Announcement of the 15 final award categories and nominees in January 2027",
       "significance": 2,
-      "status_fingerprint": "a28d9beac18222d3",
+      "status_fingerprint": "6fdcd0a44fd4da92",
       "status_model": "gemini-3.8-flash"
     },
     "hopkinton-water-connection": {
@@ -2715,19 +2777,19 @@
       "description": "Closeout and accounting of CPA-funded trailheads, parking, and interpretive signs for Peninsula Trail Phase 1, including transferring unspent funds.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-10-29",
-      "status": "The Trails Committee is working to close out Phase 1 of the Peninsula Trail following the completion of trailheads, parking, and signage. Town counsel advised that the project must be formally closed out before an unspent balance of $47,000 in Community Preservation Act funds can be reallocated to Phase 2 at a future Town Meeting. In the meantime, the committee is coordinating with state agencies on additional benches and educational signage funded by a Choate Fund grant.",
-      "status_as_of": "2026-10-29",
+      "last_seen": "2026-11-19",
+      "status": "Work on the Peninsula Trail is nearing completion as the Trails Committee finishes grant-funded signage and trail improvements. On November 19, 2026, the committee approved final edits to an educational wildlife sign proof following the installation of gravel pads and a sign post by the site contractor. Final closeout paperwork and an accounting presentation for the Community Preservation Committee remain pending.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Supports completing the Phase 1 closeout so the remaining $47,000 in CPA funds can be repurposed for Phase 2 at Town Meeting."
+          "detail": "Approved final text and graphic edits for the new educational sign on Nov 19 to advance trail completion."
         }
       ],
       "next": "",
-      "significance": 3,
-      "status_fingerprint": "431fc5120fa4c883",
+      "significance": 2,
+      "status_fingerprint": "c0c5c9925bbab3df",
       "status_model": "gemini-3.8-flash"
     },
     "peninsula-trail-phase-2": {
@@ -2736,45 +2798,45 @@
       "description": "Scope, wetland crossing design, and construction funding for Phase 2 of the Peninsula Trail.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
-      "last_seen": "2026-11-12",
-      "status": "Town Meeting approved $217,318 in supplemental Community Preservation Act funding for the Peninsula Trail pedestrian footbridge, authorizing up to $428,550 total despite cost objections from the Select Board and Advisory Committee. The Trails Committee and Recreation Commission are now preparing a MassTrails grant application for up to $100,000 to help reimburse town funds. In addition to the bridge, the Trails Committee is coordinating interpretive signage, benches, road crossings, and parking access with state and local entities. If the state grant is awarded, construction is expected in early 2028, or late 2027 if the town proceeds without it.",
-      "status_as_of": "2026-11-12",
+      "last_seen": "2026-11-19",
+      "status": "Special Town Meeting approved $217,318 in supplemental Community Preservation Act funds for the 65-foot prefabricated pedestrian footbridge, bringing total project funding to $428,550 despite opposition from the Select Board and Advisory Committee. The Trails Committee is now preparing a state MassTrails grant application for up to $100,000 to offset CPA costs. Depending on whether grant funds are awarded, construction is expected to occur in late 2027 or early 2028.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Promoting the footbridge connection, applying for grant funding to offset costs, and working on trail amenities and crossings."
-        },
-        {
-          "body": "Recreation Commission",
-          "stance": "support",
-          "detail": "Voted 4-0 on Nov 12 to approve a formal letter of support for the MassTrails grant application."
+          "detail": "Promoted the project to close a walking gap along Route 30 and is currently preparing a $100,000 MassTrails grant application."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on Oct 8 to advance the $217,318 supplemental funding article to Town Meeting as printed."
+          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed, authorizing supplemental funds while requiring an application for matching grant money."
         },
         {
-          "body": "Select Board",
-          "stance": "oppose",
-          "detail": "Voted 1-4 on Sep 24 against supporting the Town Meeting article, citing excessive per-foot construction costs."
-        },
-        {
-          "body": "Advisory Committee",
-          "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 against recommending approval due to concerns over total project costs and contingency levels."
+          "body": "Recreation Commission",
+          "stance": "support",
+          "detail": "Voted 4-0 on Nov 12 to provide a formal letter of support for the town's MassTrails grant application."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on June 25 to provide a letter of support for the footbridge CPA application."
+          "detail": "Voted 5-0 on June 25 to send a letter of support for CPA funding after the scope was revised to remove the wetland boardwalk."
+        },
+        {
+          "body": "Select Board",
+          "stance": "oppose",
+          "detail": "Voted 1-4 on Sep 24 against supporting Article 4, citing high project costs amid wider municipal operating budget pressures."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "oppose",
+          "detail": "Voted 0-7 on Sep 16 against recommending Article 4, citing concern over the total $428,550 cost and high contingency allowances."
         }
       ],
       "next": "MassTrails grant application deadline on February 2, 2027.",
-      "status_fingerprint": "ede8b9a447e44d5b",
+      "status_fingerprint": "ccd50b100c72dd88",
       "status_model": "gemini-3.8-flash",
-      "significance": 4
+      "significance": 5
     },
     "personal-property-tax-exemption": {
       "id": "personal-property-tax-exemption",
@@ -3652,6 +3714,27 @@
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
+    "stonebrook-village-septic": {
+      "id": "stonebrook-village-septic",
+      "name": "Stonebrook Village septic replacement",
+      "description": "Notice of Intent and replacement of a failed soil absorption system at the Stonebrook Village development.",
+      "category": "Environment & conservation",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
+      "status": "The Conservation Commission unanimously approved an Order of Conditions on November 19, 2026, authorizing Salisbury Management LLC to replace a failed soil absorption system at Stonebrook Village. The approval is subject to conditions requiring professional engineering oversight during construction traffic crossings and a professional engineer's certification that drainage infrastructure remains undamaged prior to receiving a Certificate of Compliance. With the public hearing closed and approval granted, the project proceeds to construction under those conditions.",
+      "status_as_of": "2026-11-19",
+      "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted unanimously on Nov 19 to approve an Order of Conditions with requirements for engineering oversight and stormwater infrastructure certification."
+        }
+      ],
+      "next": "",
+      "significance": 2,
+      "status_fingerprint": "0a205b9b4d14fed2",
+      "status_model": "gemini-3.8-flash"
+    },
     "stormwater-enterprise-fund": {
       "id": "stormwater-enterprise-fund",
       "name": "Stormwater enterprise fund",
@@ -3798,23 +3881,28 @@
       "description": "Construction materials, permitting, and approvals for an Eagle Scout footbridge project in the Town Forest.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-04",
-      "status": "The Stewardship Committee voted 4-0 in August to approve the use of pre-cut, pressure-treated lumber for the Eagle Scout footbridge project in the Town Forest. The decision followed earlier concerns raised through the Trails Committee regarding chemical leaching near a vernal pool and wetland crossing. No further committee hearings or construction dates are currently scheduled.",
-      "status_as_of": "2026-08-04",
+      "last_seen": "2026-11-19",
+      "status": "The project to replace a deteriorated plywood crossing in the Town Forest with a timber footbridge is approved and ready for construction. The Conservation Commission unanimously approved an Order of Conditions with standard conditions on November 19, 2026, resolving earlier questions about wood treatment. With the Stewardship Committee also backing the use of pre-cut pressure-treated lumber, the Eagle Scout candidate can proceed with building the footbridge.",
+      "status_as_of": "2026-11-19",
       "positions": [
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted unanimously on November 19, 2026, to issue an Order of Conditions with standard conditions for the replacement timber footbridge."
+        },
         {
           "body": "Stewardship Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Aug 4 to authorize the pre-cut treated lumber, citing research that modern pressure-treated wood causes minimal copper leaching."
+          "detail": "Voted 4-0 on August 4, 2026, to authorize pre-cut treated lumber and spoke in favor of the project at the November conservation hearing."
         },
         {
           "body": "Trails Committee",
-          "stance": "undecided",
-          "detail": "Agreed on Jun 1 to gather technical specifications and consult regional conservation officials after concerns were raised regarding pressure-treated wood near wetlands."
+          "stance": "support",
+          "detail": "Purchased the initial lumber for the project and gathered environmental specifications to ensure the materials met wetland standards."
         }
       ],
       "next": "",
-      "status_fingerprint": "03b3833b6569b5dd",
+      "status_fingerprint": "b3f716bfb99b8213",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -3876,7 +3964,7 @@
       "description": "Redesign of the municipal website with vendor CivicPlus and consolidation of standalone departmental pages.",
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-17",
       "status": "The town is undertaking a scheduled website refresh with vendor CivicPlus, consolidating standalone departmental pages such as the Senior Center into the main municipal platform. The Municipal Technology Committee has noted the need for dedicated communications expertise and web analytics to guide the overhaul. Additionally, the Affordable Housing Trust voted in October to request Select Board approval to add dedicated pages promoting housing education and soliciting property donations.",
       "status_as_of": "2026-10-28",
       "positions": [
@@ -3923,7 +4011,7 @@
       "description": "Organization of a regional firefighter's muster and antique hand tub demonstration at Woodward School in July 2027.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-18",
       "status": "Planning for the 2027 Tricentennial antique firefighter's muster is underway with an approved budget of $25,000. Eight regional hand tub teams have confirmed participation out of an expected 16 to 20, and catering and live entertainment have been booked. Organizers are currently restoring Southborough's two historic hand tubs and are preparing site and parking layouts for review.",
       "status_as_of": "2026-10-14",
       "positions": [
@@ -3944,18 +4032,23 @@
       "description": "Planning for Southborough's January 1, 2027 Tricentennial kickoff celebration featuring family activities, a drone show, and a bonfire.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
-      "status": "Plans for the town's Tricentennial kickoff celebration are moving forward following the execution of a contract for a 200-drone light show on January 1, 2027. Logistical details for other activities remain unsettled, including shifting from a horse-drawn hayride to a tractor wagon due to cost and reconsidering the bonfire's location or date because of turf and wiring concerns at Woodward School. Committee members are working with emergency personnel to resolve site arrangements and finalize the program.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-19",
+      "status": "Planning is moving forward for Southborough's January 1, 2027 Tricentennial kickoff celebration, which will feature a 200-drone light show, outdoor barrel fires, and commemorative stone distributions. The Tricentennial Committee has authorized event logistics and a four-officer police detail, while the Trails Committee is planning an affiliated midday historical walk starting at the Senior Center. Organizers are also coordinating potential participation criteria with representatives from the Hassanamisco Nipmuc Band ahead of the event.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Executed a contract for the drone light show and is refining logistics for viewing areas, transportation, and a potential bonfire."
+          "detail": "Authorized organizers on Nov 18 to proceed with event logistics and police details for the celebration."
+        },
+        {
+          "body": "Trails Committee",
+          "stance": "support",
+          "detail": "Agreed on Nov 19 to coordinate logistics with the Tricentennial Committee to host a guided historical trail walk."
         }
       ],
       "next": "First Day celebration on January 1, 2027",
-      "status_fingerprint": "7f20f54965e1942e",
+      "status_fingerprint": "65536909afb1c171",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -3986,18 +4079,18 @@
       "description": "Planning for an expanded Heritage Day Parade in October 2027 featuring marching units, community floats, and a historic cannon.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
-      "status": "Planning is underway for an expanded Tricentennial Heritage Day Parade in October 2027. The Tricentennial Committee is evaluating adjustments including a Sunday 1:00 PM kickoff, alternate staging and de-staging areas, and historic artillery demonstrations. Organizers are preparing to coordinate proposed routes and staging plans with the police and fire departments.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-18",
+      "status": "Planning for an expanded October 2027 Heritage Day Parade is currently underway with the Tricentennial Committee. Organizers are evaluating staging adjustments, a proposed 1:00 PM Sunday kickoff, and live blank cannon firings from high ground near Route 85. The committee's next steps involve reviewing route logistics, staging areas, and noise and safety protocols with local police and fire officials.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Supports expanding the 2027 parade and is coordinating route, timing, and safety logistics with public safety officials."
+          "detail": "Actively planning an expanded 2027 parade featuring historical artillery while coordinating site logistics and safety with town officials."
         }
       ],
       "next": "",
-      "status_fingerprint": "76458473e1e31db7",
+      "status_fingerprint": "f8acc50d1245f602",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4028,33 +4121,33 @@
       "description": "Permitting and installation of celebratory banners on utility poles across Southborough's historic villages.",
       "category": "Roads, water & infrastructure",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
-      "status": "Following Town Meeting's approval of a temporary sign bylaw amendment in April 2026, town staff and the Tricentennial Committee are coordinating attachment permits with National Grid and Verizon. The committee recently directed staff to finalize a list capped at 50 poles, reduced from an initial 87, in order to avoid utility inspection fees. Staff are currently preparing required insurance and administrative filings so the celebratory banners can be installed across town.",
-      "status_as_of": "2026-10-14",
+      "last_seen": "2026-11-18",
+      "status": "Following Town Meeting approval of a sign bylaw amendment permitting temporary celebratory banners through January 2028, the Tricentennial Committee is working through utility permitting and logistics. The committee capped its pole list at 50 to avoid utility inspection fees and is ordering two sample banners for a test installation behind the Town House. Next steps involve conducting an in-person pole inspection with Verizon and securing DPW or contractor bucket truck assistance to hang banners on busy roadways.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Promoting the banner initiative and directed staff in October 2026 to cap pole selections at 50 to avoid utility inspection fees."
-        },
-        {
-          "body": "Town Meeting",
-          "stance": "support",
-          "detail": "Approved Article 32 by a two-thirds majority on April 11, 2026, temporarily amending the sign bylaw to allow celebratory banners through January 31, 2028."
+          "detail": "Promoting the 50-banner installation across town villages, ordering two test samples, and coordinating required utility pole walk-throughs."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Reviewed the 50-banner proposal in June 2026 and directed town administration to coordinate pole permits with utility companies."
+          "detail": "Reviewed the 50-banner plan in June 2026 and directed town administration to assist with utility coordination."
         },
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Supported Article 32 ahead of Town Meeting to authorize the temporary banner zoning amendment."
+          "detail": "Supported Article 32 at Town Meeting to amend the sign code to allow temporary tricentennial banners."
+        },
+        {
+          "body": "Town Meeting",
+          "stance": "support",
+          "detail": "Approved Article 32 by a two-thirds majority on April 11, 2026, authorizing temporary promotional banners through January 31, 2028."
         }
       ],
       "next": "",
-      "status_fingerprint": "545273950f5730a8",
+      "status_fingerprint": "cd76b70af90f3af7",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4064,7 +4157,7 @@
       "description": "Expansion of the annual Summer Nights community event into a multi-act music festival for the 2027 Tricentennial.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-18",
       "status": "Planning is underway to expand the annual Summer Nights event into a full-day music festival at the Neary School grounds on August 21, 2027, to celebrate Southborough's Tricentennial. Organizers are finalizing headliner contracts and examining property parcel boundaries to determine whether a beer garden could be permitted under school alcohol policies. Working group organizers will next coordinate staging, permitting, and site layout with police, fire, recreation, and town administration.",
       "status_as_of": "2026-10-14",
       "positions": [
@@ -4085,7 +4178,7 @@
       "description": "Selection, preservation, and public placement of a commemorative time capsule for Southborough's 300th anniversary.",
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-18",
       "status": "The Tricentennial Committee is moving forward with plans for a 2-foot cube commemorative time capsule designated for indoor storage at the Harvard Depository to avoid water damage. Working groups are preparing formal invitations to local civic organizations, clubs, and schools to submit historical artifacts and archival-grade photo prints. Boy Scout Troop 1 has volunteered to help coordinate item collection.",
       "status_as_of": "2026-10-14",
       "positions": [
@@ -4271,7 +4364,7 @@
       "description": "Proposed local zoning bylaw amendments aligning Southborough bylaws with state Zoning Act changes regarding non-conforming structures and variances.",
       "category": "Zoning & development",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
       "status": "Proposed zoning bylaw amendments to align local rules with recent changes to the state Zoning Act are under review ahead of the 2027 Annual Town Meeting. The Zoning Board of Appeals brought forward draft articles addressing non-conforming structures, variance criteria, and abandonment timelines. The Planning Board raised concerns that certain wording could inadvertently expand commercial development rights, and both boards agreed to refine the draft language before a formal hearing scheduled for December 14, 2026.",
       "status_as_of": "2026-11-16",
       "positions": [

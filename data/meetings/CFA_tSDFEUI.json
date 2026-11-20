@@ -1,0 +1,156 @@
+{
+  "video": {
+    "id": "CFA_tSDFEUI",
+    "title": "Trails Committee 11/19/26",
+    "published_at": "2026-11-20T14:28:11Z",
+    "duration_s": 3437
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Trails Committee",
+    "meeting_date": "2026-11-19",
+    "headline": "The Trails Committee finalized preparations for a MassTrails grant submission and reviewed new interpretive signage for the Peninsula Trail.",
+    "summary": "The Trails Committee reviewed guidance from an informational session on the MassTrails grant, confirming ADA requirements for the proposed pedestrian bridge and matching fund rules. Members coordinated upcoming December trail maintenance days with local scouts and discussed 2027 plans for the Yoga on the Trails series. The committee also reviewed drafted nature signage for the Peninsula Trail and began planning a guided historical walk for the town Tricentennial on New Year's Day.",
+    "topics": [
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee opened the meeting, conducted roll call, and approved the previous meeting minutes.",
+        "key_details": [
+          "Meeting called to order at 7:02 PM."
+        ],
+        "outcome": "Minutes approved.",
+        "why_it_matters": null,
+        "start_seconds": 0,
+        "end_seconds": null
+      },
+      {
+        "title": "MassTrails grant application debrief",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The chair reported back on a state informational session regarding the MassTrails grant application for the planned trail bridge project. Guidance confirmed that the pedestrian bridge itself must meet ADA standards even if the surrounding connecting terrain does not, and that the town 20 percent match does not need to cover contingency funds.",
+        "key_details": [
+          "The proposed bridge structure must be fully ADA accessible.",
+          "The required 20 percent local match is calculated on base project cost and does not need to include contingency amounts.",
+          "The project application includes a 40,000 dollar quote for project management.",
+          "State officials confirmed that secured Community Preservation Act funds count favorably as leveraged funding.",
+          "The project is considered shovel-ready with engineering and permits in place."
+        ],
+        "outcome": "The committee will proceed with finalizing the application documentation and letters of support.",
+        "why_it_matters": null,
+        "start_seconds": 80,
+        "end_seconds": null
+      },
+      {
+        "title": "Trail maintenance and scout service days",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "Members discussed coordinating with Boy Scout Troop 1 for trail cleanup work in December. Committee members agreed to inspect sections of the Peninsula Trail, 9/11 trail, and Ward trail to identify downed trees and brush work suitable for volunteer crews.",
+        "key_details": [
+          "Targeted volunteer work dates are December 5 and December 12, 2026.",
+          "Downed trees were reported along the Peninsula Trail and 9/11 trail.",
+          "Members will survey trails ahead of time to assess equipment needs and volunteer safety."
+        ],
+        "outcome": "The chair will confirm service dates with scout leaders and members will conduct trail inspections.",
+        "why_it_matters": null,
+        "start_seconds": 1225,
+        "end_seconds": null
+      },
+      {
+        "title": "Yoga on the Trails debrief and 2027 planning",
+        "category": "Parks, recreation & open space",
+        "importance": "low",
+        "summary": "The committee debriefed the November 7 indoor session at the Senior Center and discussed expanding the program in 2027. Future considerations include co-hosting with the Recreation Commission and incorporating organized trail walks.",
+        "key_details": [
+          "Between 13 and 14 participants attended the November 7 indoor session.",
+          "The event food drive collected 4 to 5 full bags of food for the local food pantry.",
+          "The instructor expressed interest in expanding sessions to an every-other-week schedule in 2027.",
+          "The committee plans to partner with the Recreation Commission to help fund and promote the program."
+        ],
+        "outcome": "A committee member will follow up with the instructor and develop a publicity schedule for next season.",
+        "why_it_matters": null,
+        "start_seconds": 1644,
+        "end_seconds": null
+      },
+      {
+        "title": "Tricentennial kickoff walk planning",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The committee discussed organizing a guided trail walk on January 1, 2027, as part of Southborough's Tricentennial celebrations. The walk would start at the Senior Center and focus on local history, with weather contingencies in place.",
+        "key_details": [
+          "Proposed event is scheduled for January 1, 2027, midday.",
+          "Route under consideration begins near Route 85 and the Senior Center.",
+          "The committee plans to reach out to a local historian to lead or assist with historical commentary.",
+          "A second walk is being considered for National Trails Day in June 2027."
+        ],
+        "outcome": "A committee member will coordinate logistics with the Tricentennial Committee.",
+        "why_it_matters": null,
+        "start_seconds": 2010,
+        "end_seconds": null
+      },
+      {
+        "title": "Choate Fund signage and Peninsula Trail updates",
+        "category": "Parks, recreation & open space",
+        "importance": "medium",
+        "summary": "The contractor completed installation of gravel pads and a sign post across from the pumping station. The committee reviewed the drafted artwork for the educational sign and discussed site access security installed by the Massachusetts Water Resources Authority.",
+        "key_details": [
+          "Site contractor J&J completed pad expansions and sign post installation.",
+          "Sign graphic features educational wildlife profiles for wild turkey, bald eagle, red-tailed hawk, black bear, coyote, and bobcat.",
+          "The Massachusetts Water Resources Authority placed boulders next to the access gate to stop unauthorized vehicles from driving onto the trail.",
+          "The Department of Public Works is consolidating town-wide trail mowing into a combined municipal bid."
+        ],
+        "outcome": "The committee approved minor text and graphic edits to the sign proof before sending it to the printer.",
+        "why_it_matters": null,
+        "start_seconds": 2384,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident alerted the committee to severe erosion on a short town-owned connector path between Heather Lane, Darlene Drive, and Wentworth Drive near Big Oak Woods and the Liberty Conservation Area, noting that a child had fallen. The resident requested town assistance with erosion control, which the DPW director is currently evaluating.",
+        "start_seconds": 3128
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Trails Committee regular meeting",
+        "when": "December 3, 2026 at 7:00 PM"
+      },
+      {
+        "what": "Troop 1 Scout volunteer trail maintenance days",
+        "when": "December 5 and December 12, 2026"
+      },
+      {
+        "what": "Proposed Tricentennial New Year's Day trail walk",
+        "when": "January 1, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-20T19:19:35Z",
+  "usage": {
+    "total_tokens": 135359,
+    "total_input_tokens": 132248,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 131267
+      },
+      {
+        "modality": "text",
+        "tokens": 981
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1716,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 1395,
+    "initial_input_tokens": 132248
+  }
+}

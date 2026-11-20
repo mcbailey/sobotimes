@@ -1,0 +1,127 @@
+{
+  "video": {
+    "id": "zP1I37LQ_Tk",
+    "title": "Zoning Board of Appeals Meeting 11/18/26",
+    "published_at": "2026-11-19T18:37:51Z",
+    "duration_s": 2916
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Zoning Board of Appeals",
+    "meeting_date": "2026-11-18",
+    "headline": "The Zoning Board of Appeals reviewed proposed bylaws eliminating the town's cap on 55-plus housing and aligning local zoning with state law.",
+    "summary": "The Southborough Zoning Board of Appeals met remotely to review two major proposed zoning amendments planned for the 2027 Annual Town Meeting. Representatives of the Affordable Housing Trust presented a draft bylaw that would lift the existing cap on 55-plus housing developments and institute a 12.5 percent affordability mandate. The board also reviewed proposed text changes aligning town zoning bylaws with Massachusetts General Laws Chapter 40A regarding pre-existing nonconforming lots and structures. Staff briefed the board on proposed 2027 meeting schedules and pending state legislation that could shorten municipal permitting timelines.",
+    "topics": [
+      {
+        "title": "55-plus housing bylaw proposal",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Representatives of the Southborough Affordable Housing Trust presented a draft zoning amendment governing age-restricted 55-plus housing. The proposal eliminates the town's current cap on age-restricted developments and establishes a 12.5 percent affordability requirement for future projects. It also proposes streamlining permitting by consolidating both special permit and site plan review authority under the Zoning Board of Appeals.",
+        "key_details": [
+          "Eliminates the existing 7 percent cap on 55-plus units based on single-family home totals (previously capped at roughly 238 units).",
+          "Mandates a 12.5 percent affordable housing requirement for 55-plus developments.",
+          "Requires developers to construct at least one affordable unit on site rather than satisfying obligations solely through cash-in-lieu payments.",
+          "Transfers site plan review authority for 55-plus projects to the Zoning Board of Appeals to create single-board review.",
+          "Select Board voted to sponsor the article; it will next go to the Planning Board for public hearings before heading to Town Meeting."
+        ],
+        "outcome": "Discussed without a vote; proposal will proceed to the Planning Board for public hearing review before the board considers an endorsement.",
+        "why_it_matters": "The proposal could expand senior housing and affordable housing development in Southborough by removing unit caps and creating clearer rules for developers.",
+        "start_seconds": 55,
+        "end_seconds": null
+      },
+      {
+        "title": "Chapter 40A zoning bylaw compliance updates",
+        "category": "Development & zoning",
+        "importance": "high",
+        "summary": "Staff reviewed draft amendments to town zoning bylaws intended to bring local regulations into compliance with recent changes in state zoning statutes under Massachusetts General Laws Chapter 40A. The proposed language clarifies rights regarding alterations to conforming structures situated on pre-existing nonconforming lots. Board members and the public discussed whether the changes relax restrictions on commercial structures.",
+        "key_details": [
+          "Allows conforming structures on nonconforming lots to be altered by right if all other dimensional setbacks and height rules are met.",
+          "Modifies language from single- and two-family residential structures to structures or residential uses in line with state law.",
+          "Staff clarified that the word reconstruction was inadvertently omitted in one section of the draft and will remain in the bylaw.",
+          "Planning Board is scheduled to open its public hearing on the proposed zoning changes on December 14, 2026."
+        ],
+        "outcome": "Discussed; board members agreed to coordinate representation at the Planning Board public hearing.",
+        "why_it_matters": "The changes will alter permitting requirements for property owners seeking to modify or expand buildings on older, nonconforming lots across town.",
+        "start_seconds": 1218,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The board tabled a scheduled discussion regarding residential use variances due to an absent member and approved meeting minutes from October 7 and October 21, 2026.",
+        "key_details": [
+          "Tabled discussion on residential use variances to a future meeting when all members can attend.",
+          "Approved meeting minutes for October 7, 2026, as drafted.",
+          "Approved meeting minutes for October 21, 2026, as drafted."
+        ],
+        "outcome": "Minutes approved and topic tabled.",
+        "why_it_matters": null,
+        "start_seconds": 2288,
+        "end_seconds": null
+      },
+      {
+        "title": "2027 meeting calendar and state permitting deadline changes",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "Staff presented the proposed 2027 Zoning Board of Appeals meeting schedule and filing deadlines, adjusting dates in February and April to avoid school vacation weeks. Staff also warned the board about pending state economic development legislation that could significantly shorten statutory deadlines for municipal hearings and decisions.",
+        "key_details": [
+          "Board reached consensus on meeting dates of February 10 and April 14, 2027, to avoid vacation conflicts.",
+          "Pending state legislation in conference committee may reduce the deadline to open public hearings from 65 days to 30 days after application filing.",
+          "Proposed state changes would also mandate closing hearings within 60 days of opening and issuing decisions within 100 days of filing.",
+          "Next meeting set for December 16, 2026, via Zoom to consider a shed variance."
+        ],
+        "outcome": "Meeting schedule accepted by consensus; next meeting scheduled for December 16, 2026.",
+        "why_it_matters": null,
+        "start_seconds": 2447,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [
+      {
+        "summary": "A resident asked whether the proposed nonconforming structure bylaw could be narrowed strictly to residential uses rather than all structures to prevent commercial structures from expanding by right, and pointed out that the word reconstruction had been removed from one section.",
+        "start_seconds": 2010
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Planning Board public hearing on proposed zoning amendments",
+        "when": "December 14, 2026"
+      },
+      {
+        "what": "Zoning Board of Appeals remote meeting and public hearing on a shed variance",
+        "when": "December 16, 2026"
+      },
+      {
+        "what": "Annual Town Meeting",
+        "when": "March 20, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-20T19:20:26Z",
+  "usage": {
+    "total_tokens": 116170,
+    "total_input_tokens": 112359,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 984
+      },
+      {
+        "modality": "video",
+        "tokens": 111375
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1559,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2252,
+    "initial_input_tokens": 112359
+  }
+}

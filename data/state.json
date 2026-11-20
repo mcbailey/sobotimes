@@ -4305,13 +4305,16 @@
       "published_at": "2026-11-19T18:37:51Z",
       "duration_s": 2916,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-19T19:38:09Z",
       "meeting_date": "2026-11-18",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-20T19:20:26Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "oKWzIDuF6Ow": {
       "id": "oKWzIDuF6Ow",
@@ -4320,13 +4323,16 @@
       "published_at": "2026-11-19T18:29:50Z",
       "duration_s": 6013,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-19T19:38:09Z",
       "meeting_date": "2026-11-18",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-20T19:21:50Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "MVpXMt3UsvY": {
       "id": "MVpXMt3UsvY",
@@ -4342,6 +4348,75 @@
       "discovered_at": "2026-11-19T19:38:09Z",
       "meeting_date": "2026-11-18",
       "week": "2026-11-16"
+    },
+    "p-xXKb6djBQ": {
+      "id": "p-xXKb6djBQ",
+      "title": "Cultural Arts Council 11/19/26",
+      "description": "",
+      "published_at": "2026-11-20T14:51:09Z",
+      "duration_s": 8929,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-20T19:15:53Z",
+      "meeting_date": "2026-11-19",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-20T19:17:20Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "PbjK80odSyo": {
+      "id": "PbjK80odSyo",
+      "title": "Conservation Commission 11/19/26",
+      "description": "",
+      "published_at": "2026-11-20T14:41:55Z",
+      "duration_s": 3897,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-20T19:15:53Z",
+      "meeting_date": "2026-11-19",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-20T19:18:45Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "CFA_tSDFEUI": {
+      "id": "CFA_tSDFEUI",
+      "title": "Trails Committee 11/19/26",
+      "description": "",
+      "published_at": "2026-11-20T14:28:11Z",
+      "duration_s": 3437,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-20T19:15:53Z",
+      "meeting_date": "2026-11-19",
+      "week": "2026-11-16",
+      "processed_at": "2026-11-20T19:19:35Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
+    },
+    "tRxVcVniHws": {
+      "id": "tRxVcVniHws",
+      "title": "Southborough K-8 School Committee  October 2, 2026",
+      "description": "",
+      "published_at": "2026-11-20T17:21:20Z",
+      "duration_s": 3208,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs4MKkThBjpiU4LnmlP37Bg",
+      "attempts": 0,
+      "discovered_at": "2026-11-20T19:15:54Z",
+      "meeting_date": "2026-10-02",
+      "week": "2026-09-28"
     }
   },
   "usage": {
@@ -4648,12 +4723,20 @@
       "output_tokens": 13356,
       "thought_tokens": 46975,
       "tool_use_tokens": 0
+    },
+    "2026-11-20": {
+      "video_minutes": 420,
+      "calls": 23,
+      "input_tokens": 1108479,
+      "output_tokens": 25645,
+      "thought_tokens": 27955,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-19T19:38:08Z",
-    "discovered": 26,
-    "summarized": 2,
+    "at": "2026-11-20T19:15:52Z",
+    "discovered": 29,
+    "summarized": 5,
     "refreshed": 0,
     "errors": 0
   }

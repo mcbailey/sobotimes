@@ -1,6 +1,6 @@
 {
   "week": "2026-11-16",
-  "fingerprint": "be4e101399e9cbb4",
+  "fingerprint": "bfac4b03650abd3f",
   "topics": {
     "3piEqjqhxaE#0": {
       "issue": null,
@@ -27,7 +27,7 @@
       "category": "Public safety"
     },
     "9M9Fz6T9tSY#2": {
-      "issue": null,
+      "issue": "town-website-redesign",
       "category": "Staffing & operations"
     },
     "9M9Fz6T9tSY#3": {
@@ -59,7 +59,7 @@
       "category": "Environment & conservation"
     },
     "BldxGR7yX1s#6": {
-      "issue": null,
+      "issue": "fy28-operating-budget",
       "category": "Town Meeting & elections"
     },
     "BldxGR7yX1s#7": {
@@ -67,8 +67,32 @@
       "category": "Budget & taxes"
     },
     "BldxGR7yX1s#8": {
+      "issue": "municipal-health-insurance-reform",
+      "category": "Budget & taxes"
+    },
+    "CFA_tSDFEUI#0": {
       "issue": null,
       "category": "Governance & committees"
+    },
+    "CFA_tSDFEUI#1": {
+      "issue": "2027-masstrails-grant",
+      "category": "Parks, trails & recreation"
+    },
+    "CFA_tSDFEUI#2": {
+      "issue": "peninsula-trail-phase-2",
+      "category": "Parks, trails & recreation"
+    },
+    "CFA_tSDFEUI#3": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "CFA_tSDFEUI#4": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "CFA_tSDFEUI#5": {
+      "issue": "peninsula-trail-phase-1",
+      "category": "Parks, trails & recreation"
     },
     "KATF-_ujRos#0": {
       "issue": null,
@@ -90,6 +114,42 @@
       "issue": "fy28-capital-budget",
       "category": "Budget & taxes"
     },
+    "PbjK80odSyo#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "PbjK80odSyo#1": {
+      "issue": "town-forest-footbridge",
+      "category": "Parks, trails & recreation"
+    },
+    "PbjK80odSyo#2": {
+      "issue": "stonebrook-village-septic",
+      "category": "Environment & conservation"
+    },
+    "PbjK80odSyo#3": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "PbjK80odSyo#4": {
+      "issue": "fay-school-athletic-fields",
+      "category": "Zoning & development"
+    },
+    "PbjK80odSyo#5": {
+      "issue": null,
+      "category": "Zoning & development"
+    },
+    "PbjK80odSyo#6": {
+      "issue": "breakneck-hill-restoration",
+      "category": "Environment & conservation"
+    },
+    "PbjK80odSyo#7": {
+      "issue": "120-turnpike-road-open-space",
+      "category": "Parks, trails & recreation"
+    },
+    "PbjK80odSyo#8": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
     "hQa4KHStWIE#0": {
       "issue": "21-coslin-drive-costco",
       "category": "Zoning & development"
@@ -108,9 +168,105 @@
     },
     "hQa4KHStWIE#4": {
       "issue": null,
-      "category": "Environment & conservation"
+      "category": "Parks, trails & recreation"
     },
     "hQa4KHStWIE#5": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "oKWzIDuF6Ow#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "oKWzIDuF6Ow#1": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#2": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "oKWzIDuF6Ow#3": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#4": {
+      "issue": "tricentennial-summer-nights",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#5": {
+      "issue": "history-makers-recognition-program",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#6": {
+      "issue": "tricentennial-heritage-day-parade",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#7": {
+      "issue": "tricentennial-first-day",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#8": {
+      "issue": "tricentennial-firefighters-muster",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#9": {
+      "issue": "tricentennial-time-capsule",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#10": {
+      "issue": "glow-sobo-holiday-lighting",
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#11": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#12": {
+      "issue": "tricentennial-street-banners",
+      "category": "Roads, water & infrastructure"
+    },
+    "oKWzIDuF6Ow#13": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "oKWzIDuF6Ow#14": {
+      "issue": null,
+      "category": "Library, arts & community"
+    },
+    "oKWzIDuF6Ow#15": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "oKWzIDuF6Ow#16": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "p-xXKb6djBQ#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "p-xXKb6djBQ#1": {
+      "issue": "fy27-cultural-council-grants",
+      "category": "Library, arts & community"
+    },
+    "p-xXKb6djBQ#2": {
+      "issue": "fy27-cultural-council-grants",
+      "category": "Library, arts & community"
+    },
+    "zP1I37LQ_Tk#0": {
+      "issue": "55-plus-housing-bylaw",
+      "category": "Zoning & development"
+    },
+    "zP1I37LQ_Tk#1": {
+      "issue": "zoning-act-conformance-amendments",
+      "category": "Zoning & development"
+    },
+    "zP1I37LQ_Tk#2": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "zP1I37LQ_Tk#3": {
       "issue": null,
       "category": "Governance & committees"
     }
@@ -128,6 +284,33 @@
     "BldxGR7yX1s#v1": {
       "issue": "55-plus-housing-bylaw"
     },
+    "PbjK80odSyo#v0": {
+      "issue": "town-forest-footbridge"
+    },
+    "PbjK80odSyo#v1": {
+      "issue": "town-forest-footbridge"
+    },
+    "PbjK80odSyo#v2": {
+      "issue": "stonebrook-village-septic"
+    },
+    "PbjK80odSyo#v3": {
+      "issue": "stonebrook-village-septic"
+    },
+    "PbjK80odSyo#v4": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "PbjK80odSyo#v5": {
+      "issue": "fay-school-athletic-fields"
+    },
+    "PbjK80odSyo#v6": {
+      "issue": "250-turnpike-road"
+    },
+    "PbjK80odSyo#v7": {
+      "issue": "0-southville-road"
+    },
+    "PbjK80odSyo#v8": {
+      "issue": "breakneck-hill-restoration"
+    },
     "hQa4KHStWIE#v0": {
       "issue": "21-coslin-drive-costco"
     },
@@ -142,6 +325,9 @@
     },
     "hQa4KHStWIE#v4": {
       "issue": "0-southville-road"
+    },
+    "p-xXKb6djBQ#v0": {
+      "issue": "fy27-cultural-council-grants"
     }
   },
   "upcoming": {
@@ -154,7 +340,7 @@
       "issue": null
     },
     "9M9Fz6T9tSY#u0": {
-      "date": null,
+      "date": "2026-11-30",
       "issue": "town-satisfaction-survey"
     },
     "9M9Fz6T9tSY#u1": {
@@ -185,6 +371,18 @@
       "date": "2027-05-11",
       "issue": "fy28-operating-budget"
     },
+    "CFA_tSDFEUI#u0": {
+      "date": "2026-12-03",
+      "issue": null
+    },
+    "CFA_tSDFEUI#u1": {
+      "date": "2026-12-05",
+      "issue": "peninsula-trail-phase-2"
+    },
+    "CFA_tSDFEUI#u2": {
+      "date": "2027-01-01",
+      "issue": "tricentennial-first-day"
+    },
     "KATF-_ujRos#u0": {
       "date": "2026-11-30",
       "issue": "fy28-capital-budget"
@@ -193,6 +391,10 @@
       "date": "2026-12-15",
       "issue": "fy28-capital-budget"
     },
+    "PbjK80odSyo#u0": {
+      "date": "2026-12-10",
+      "issue": null
+    },
     "hQa4KHStWIE#u0": {
       "date": "2026-12-14",
       "issue": null
@@ -200,8 +402,40 @@
     "hQa4KHStWIE#u1": {
       "date": null,
       "issue": null
+    },
+    "oKWzIDuF6Ow#u0": {
+      "date": "2026-12-16",
+      "issue": null
+    },
+    "oKWzIDuF6Ow#u1": {
+      "date": "2027-01-01",
+      "issue": null
+    },
+    "oKWzIDuF6Ow#u2": {
+      "date": "2027-01-01",
+      "issue": "tricentennial-first-day"
+    },
+    "p-xXKb6djBQ#u0": {
+      "date": "2026-12-03",
+      "issue": "fy27-cultural-council-grants"
+    },
+    "p-xXKb6djBQ#u1": {
+      "date": null,
+      "issue": "fy27-cultural-council-grants"
+    },
+    "zP1I37LQ_Tk#u0": {
+      "date": "2026-12-14",
+      "issue": "zoning-act-conformance-amendments"
+    },
+    "zP1I37LQ_Tk#u1": {
+      "date": "2026-12-16",
+      "issue": null
+    },
+    "zP1I37LQ_Tk#u2": {
+      "date": "2027-03-20",
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-19T19:45:36Z"
+  "generated_at": "2026-11-20T19:28:26Z"
 }
