@@ -1,104 +1,99 @@
 {
-  "headline": "The Select Board examined severe potential budget cuts ahead of a possible FY28 tax override, while boards advanced zoning changes for senior housing.",
-  "synopsis": "Southborough boards began detailed reviews of FY28 operating and capital budgets amid preparations for a potential operational tax override in May 2027. Public safety and school officials warned that a level-funded budget would require eliminating police, firefighting, and teaching positions, while town capital requests exceeded available non-debt funding targets by one million dollars. Simultaneously, the Select Board and Zoning Board of Appeals reviewed zoning amendments to eliminate the municipal cap on 55-plus housing and mandate affordable units. In land use, the Planning Board reviewed site plans for the proposed Costco project and approved scenic road tree removals, while the Conservation Commission approved local trail and infrastructure work.",
+  "headline": "Town and school officials opened FY28 budget reviews warning of override needs, while advancing zoning changes to expand over-55 housing.",
+  "synopsis": "Southborough town departments and regional schools presented preliminary FY28 budgets showing severe service and staffing cuts under level-funded scenarios, prompting early preparations for a potential May operational override vote. The Select Board and Zoning Board of Appeals reviewed zoning proposals to remove the municipal cap on 55-plus housing developments while mandating 12.5 percent affordable units. The Planning Board conducted a technical review of lighting and stormwater for the proposed 167,000-square-foot Costco, continuing the hearing into December. In addition, the Capital Improvement and Planning Committee confronted a $1 million funding gap between departmental capital requests and municipal revenue placeholders, while the Community Preservation Committee announced a $632,000 state grant for the Harold E. Fay Memorial Park renovation.",
   "highlights": [
     {
-      "title": "Select Board reviews FY28 departmental budgets and override risks",
-      "why": "Departments presented level-service and level-funded options, warning that level funding would force cuts to police officers, firefighters, and up to 15 school staff members.",
+      "title": "Select Board begins FY28 budget review and override preparations",
+      "why": "Department heads presented level-service and level-funded budget scenarios to the Select Board, warning that level funding would force the loss of a police officer, reductions to fire shift minimums, and the elimination of 15 school staff positions.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "BldxGR7yX1s",
       "start_seconds": 873
     },
     {
-      "title": "Select Board sponsors zoning amendment to expand senior housing",
-      "why": "The board voted to sponsor a Town Meeting warrant article removing the 7 percent cap on 55-plus developments and requiring projects to include 12.5 percent affordable units.",
+      "title": "Town advances zoning amendment to lift cap on senior housing",
+      "why": "The Select Board voted to sponsor a Town Meeting warrant article that removes the 7 percent cap on 55-plus developments and requires at least 12.5 percent of units to be affordable.",
       "body": "Select Board",
       "importance": "high",
       "video_id": "BldxGR7yX1s",
       "start_seconds": 127
     },
     {
-      "title": "Capital committee faces one million dollar funding gap",
-      "why": "Town capital requests reached roughly 2.2 million dollars against a 1.2 million dollar Select Board placeholder, prompting discussions on bonding thresholds.",
+      "title": "Regional School Committee reviews preliminary $32.4 million budget",
+      "why": "The regional high school district presented a preliminary 3.01 percent budget increase and approved a health insurance agreement saving $450,000, while preparing a 0 percent scenario that would eliminate five positions.",
+      "body": "Northborough-Southborough Regional School Committee",
+      "importance": "high",
+      "video_id": "hAPZmO17gKk",
+      "start_seconds": 12950
+    },
+    {
+      "title": "Capital requests exceed town placeholder by $1 million",
+      "why": "Town departments submitted $2.2 million in FY28 capital requests against a $1.2 million non-debt placeholder, prompting the committee to consider adjusting town bonding thresholds.",
       "body": "Capital Improvement and Planning Committee",
       "importance": "high",
       "video_id": "KATF-_ujRos",
       "start_seconds": 4760
     },
     {
-      "title": "Planning Board reviews Costco lighting and landscaping plans",
-      "why": "The board held technical reviews on dark-sky fixtures, plantings, and stormwater systems for the proposed 167,000-square-foot Costco at 21 Coslin Drive.",
+      "title": "Costco wholesale site plan and lighting review",
+      "why": "The Planning Board evaluated dark-sky exterior lighting fixtures, landscaping species, and stormwater containment ponds for the proposed store at 21 Coslin Drive before continuing the hearing to December 14.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "hQa4KHStWIE",
       "start_seconds": 46
     },
     {
-      "title": "Planning Board approves tree removals on scenic roads",
-      "why": "The board approved a Department of Public Works petition to remove hazardous trees along scenic roads, modifying one tree at 3 Pine Hill Road to full removal.",
-      "body": "Planning Board",
-      "importance": "medium",
-      "video_id": "hQa4KHStWIE",
-      "start_seconds": 5722
+      "title": "State awards $632,000 grant for Fay Memorial Park",
+      "why": "Southborough received an award of up to $632,000 from the Land and Water Conservation Fund to cover roughly half of the estimated $1.4 million park renovation project.",
+      "body": "Community Preservation Committee",
+      "importance": "high",
+      "video_id": "MVpXMt3UsvY",
+      "start_seconds": 260
     }
   ],
   "looking_ahead": [
     {
-      "what": "Resident Satisfaction Survey closes",
-      "when": "End of November 2026",
-      "body": "Municipal Technology Committee"
+      "what": "Legislative delegation meeting regarding Chapter 70 aid and state funding formulas",
+      "when": "November 23, 2026 at 6:30 PM",
+      "body": "Northborough-Southborough Regional School Committee"
     },
     {
-      "what": "Capital project ranking and recommendation votes",
+      "what": "Committee meeting to rank and vote on FY28 capital project recommendations",
       "when": "November 30, 2026",
       "body": "Capital Improvement and Planning Committee"
     },
     {
-      "what": "Final FY27 cultural grant award determination",
-      "when": "December 3, 2026 at 7:00 PM",
-      "body": "Southborough Cultural Arts Council"
+      "what": "Select Board hearing on Harold E. Fay Memorial Park parking configuration",
+      "when": "December 2, 2026",
+      "body": "Select Board"
     },
     {
-      "what": "Presentation of recommended K-8 operating budget",
-      "when": "December 9, 2026",
-      "body": "School Committee"
-    },
-    {
-      "what": "Continued hearings on Costco, Fay School athletic fields, and 120 Turnpike Road donation",
+      "what": "Continued hearings for Costco, 250 Turnpike Road, and 120 Turnpike Road land donation",
       "when": "December 10, 2026",
       "body": "Conservation Commission"
     },
     {
-      "what": "Continued public hearings on Costco, 0 Southville Road MBTA housing, and Chapter 40A zoning amendments",
+      "what": "Public hearings on Costco (21 Coslin Drive), 0 Southville Road MBTA housing, and Chapter 40A zoning amendments",
       "when": "December 14, 2026",
       "body": "Planning Board"
-    },
-    {
-      "what": "Joint meeting to review capital project recommendations",
-      "when": "December 15, 2026",
-      "body": "Select Board"
-    },
-    {
-      "what": "First Day Tricentennial celebrations and drone show",
-      "when": "January 1, 2027",
-      "body": "Tricentennial Committee"
     }
   ],
   "week": "2026-11-16",
-  "fingerprint": "85e50513ef68d533",
+  "fingerprint": "96aa37eb9b672230",
   "video_ids": [
     "3piEqjqhxaE",
     "9M9Fz6T9tSY",
     "BldxGR7yX1s",
     "CFA_tSDFEUI",
     "KATF-_ujRos",
+    "MVpXMt3UsvY",
     "PbjK80odSyo",
+    "hAPZmO17gKk",
     "hQa4KHStWIE",
     "oKWzIDuF6Ow",
     "p-xXKb6djBQ",
     "zP1I37LQ_Tk"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-20T19:22:41Z"
+  "generated_at": "2026-11-21T18:20:17Z"
 }

@@ -1,10 +1,10 @@
 {
-  "headline": "The Planning Board opened review of a proposed Costco warehouse and gas station, while town boards prepared warrant articles for Special Town Meeting.",
-  "synopsis": "The Planning Board opened public hearings on a proposal to build a 167,000-square-foot Costco warehouse and 15-pump fueling station on Coslin Drive, drawing questions about traffic and neighborhood impacts. Ahead of the October 17 Special Town Meeting, both the Planning Board and Trails Committee weighed strategies for warrant articles on two-family zoning regulations and Peninsula Trail bridge funding. The Trails Committee also organized fall community events, safety precautions for youth hunting season, and outreach for Heritage Day.",
+  "headline": "The Planning Board opened hearings on a proposed Coslin Drive Costco, while town committees prepared for upcoming Special Town Meeting articles and FY28 budget planning.",
+  "synopsis": "The Planning Board opened a public hearing on a proposal for a 167,000-square-foot Costco warehouse and 15-pump fueling station at 21 Coslin Drive, reviewing site designs and traffic impacts before continuing the hearing to October 19. In preparation for the October 17 Special Town Meeting, the Trails Committee evaluated fallback floor amendments for Peninsula Trail bridge funding following non-recommendation votes by the Select Board and Advisory Committee. The Planning Board also continued its hearing on a two-family dwelling zoning warrant article to the morning of Special Town Meeting. Meanwhile, the Southborough School Committee initiated its FY28 operating budget process under municipal guidance requiring both level-service and level-funded scenarios.",
   "highlights": [
     {
-      "title": "Costco wholesale warehouse and fuel station proposal",
-      "why": "Costco presented plans for a 167,000-square-foot store and a 15-pump gas station spanning Southborough and Westborough at 21 Coslin Drive. Board members and residents raised concerns about traffic congestion, regional cut-throughs, and loading dock noise before the hearing was continued to October 19.",
+      "title": "Costco warehouse and fuel station proposal hearing",
+      "why": "The Planning Board opened public review of a 167,000-square-foot store and gas station spanning Southborough and Westborough, focusing on site access and traffic generation. The hearing was continued to October 19 pending consultant traffic reviews.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "hCwuB4U1qOk",
@@ -12,42 +12,34 @@
     },
     {
       "title": "Peninsula Trail bridge Town Meeting funding strategy",
-      "why": "Facing non-recommendation votes from the Select Board and Advisory Committee on Article 4, the Trails Committee discussed a fallback amendment to repurpose $211,000 in existing CPA funds and request $25,000 in new funds for a pedestrian bridge. Members debated how to present the plan and address arguments over prioritizing athletic fields.",
+      "why": "With the Select Board and Advisory Committee not recommending CPA funding for Article 4, the committee debated drafting a floor amendment to reduce new CPA requests to $25,000 by repurposing existing funds.",
       "body": "Trails Committee",
       "importance": "high",
       "video_id": "InzL5O9vgMQ",
       "start_seconds": 1095
     },
     {
-      "title": "Two-family dwelling zoning warrant article",
-      "why": "The Planning Board continued its hearing on a warrant article clarifying two-family zoning rules after questions arose about whether current text could unintentionally allow smaller commercial lots to be used for two-family homes. The board continued the hearing to October 17 just prior to Town Meeting.",
+      "title": "Two-family dwelling zoning bylaw hearing",
+      "why": "The Planning Board examined revised warrant language regarding two-family homes and debated whether to sponsor floor amendments regarding lot sizes in commercial districts before continuing the hearing to October 17.",
       "body": "Planning Board",
       "importance": "high",
       "video_id": "hCwuB4U1qOk",
       "start_seconds": 15
     },
     {
-      "title": "Master Plan 2030 preparations",
-      "why": "The board reviewed recommendations to form a sub-committee in 2027 and pursue consultant funding in FY28 to prepare Southborough's next 10-year comprehensive plan. A joint meeting with the Master Plan Implementation Committee is scheduled for October 19.",
-      "body": "Planning Board",
-      "importance": "medium",
-      "video_id": "hCwuB4U1qOk",
-      "start_seconds": 5646
-    },
-    {
-      "title": "Fall trail events and youth hunting season safety",
-      "why": "The Trails Committee confirmed details for guided trail yoga and hikes while advising participants to wear blaze orange vests due to youth hunting season opening. The committee also began organizing a November trail run and food pantry drive.",
-      "body": "Trails Committee",
-      "importance": "medium",
-      "video_id": "InzL5O9vgMQ",
-      "start_seconds": 323
+      "title": "FY28 school operating budget process and timeline",
+      "why": "The Southborough School Committee began preparations for the FY28 budget, reviewing municipal directives to present both level-service and level-funded models while tracking inflation and volatile out-of-district special education costs.",
+      "body": "Southborough School Committee",
+      "importance": "high",
+      "video_id": "tRxVcVniHws",
+      "start_seconds": 30
     }
   ],
   "looking_ahead": [
     {
       "what": "Multi-board meeting on elementary school building options",
       "when": "October 8, 2026 at 6:30 PM",
-      "body": null
+      "body": "Planning Board"
     },
     {
       "what": "Trails Committee regular meeting",
@@ -55,12 +47,12 @@
       "body": "Trails Committee"
     },
     {
-      "what": "Heritage Day informational booth",
-      "when": "October 12, 2026",
-      "body": "Trails Committee"
+      "what": "School Committee meeting for second reading of budget priorities and capital discussion",
+      "when": "October 14, 2026",
+      "body": "Southborough School Committee"
     },
     {
-      "what": "Pre-Town Meeting meeting and continued hearing on two-family dwelling warrant article",
+      "what": "Pre-Town Meeting Planning Board meeting and continued hearing on two-family dwelling warrant article",
       "when": "October 17, 2026 at 9:05 AM",
       "body": "Planning Board"
     },
@@ -70,17 +62,18 @@
       "body": null
     },
     {
-      "what": "Hearings on Costco, 22 Turnpike Road, 154 Turnpike Road, and Master Plan joint discussion",
+      "what": "Planning Board meeting with continued hearings on 22 Turnpike Road, 154 Turnpike Road, and Costco (21 Coslin Drive)",
       "when": "October 19, 2026 at 6:30 PM",
       "body": "Planning Board"
     }
   ],
   "week": "2026-09-28",
-  "fingerprint": "a3a72ab97eb77330",
+  "fingerprint": "12f2a08e9bc9827c",
   "video_ids": [
     "InzL5O9vgMQ",
-    "hCwuB4U1qOk"
+    "hCwuB4U1qOk",
+    "tRxVcVniHws"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-19T14:54:38Z"
+  "generated_at": "2026-11-21T18:20:45Z"
 }

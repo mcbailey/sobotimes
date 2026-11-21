@@ -4219,12 +4219,15 @@
       "published_at": "2026-11-16T23:51:22Z",
       "duration_s": 15161,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCWOnY_sfze_J5tIE6lkVy7w",
       "attempts": 0,
       "discovered_at": "2026-11-17T20:01:56Z",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-21T18:19:26Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "9M9Fz6T9tSY": {
       "id": "9M9Fz6T9tSY",
@@ -4341,13 +4344,16 @@
       "published_at": "2026-11-19T18:20:48Z",
       "duration_s": 4345,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
       "attempts": 0,
       "discovered_at": "2026-11-19T19:38:09Z",
       "meeting_date": "2026-11-18",
-      "week": "2026-11-16"
+      "week": "2026-11-16",
+      "processed_at": "2026-11-21T18:17:09Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     },
     "p-xXKb6djBQ": {
       "id": "p-xXKb6djBQ",
@@ -4410,13 +4416,16 @@
       "published_at": "2026-11-20T17:21:20Z",
       "duration_s": 3208,
       "live": "none",
-      "status": "queued",
+      "status": "done",
       "reason": "no include patterns configured",
       "channel": "UCs4MKkThBjpiU4LnmlP37Bg",
       "attempts": 0,
       "discovered_at": "2026-11-20T19:15:54Z",
       "meeting_date": "2026-10-02",
-      "week": "2026-09-28"
+      "week": "2026-09-28",
+      "processed_at": "2026-11-21T18:15:45Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4731,12 +4740,20 @@
       "output_tokens": 25645,
       "thought_tokens": 27955,
       "tool_use_tokens": 0
+    },
+    "2026-11-21": {
+      "video_minutes": 378,
+      "calls": 25,
+      "input_tokens": 1166014,
+      "output_tokens": 33948,
+      "thought_tokens": 47921,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-20T19:15:52Z",
+    "at": "2026-11-21T18:14:52Z",
     "discovered": 29,
-    "summarized": 5,
+    "summarized": 3,
     "refreshed": 0,
     "errors": 0
   }

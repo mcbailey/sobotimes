@@ -1,0 +1,164 @@
+{
+  "video": {
+    "id": "MVpXMt3UsvY",
+    "title": "Community Preservation Committee 11/18/26",
+    "published_at": "2026-11-19T18:20:48Z",
+    "duration_s": 4345
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Community Preservation Committee",
+    "meeting_date": "2026-11-18",
+    "headline": "Southborough was awarded a $632,000 state grant for the Harold E. Fay Memorial Park project as the committee reviewed FY28 CPA applications.",
+    "summary": "The Community Preservation Committee announced that the town received up to $632,000 from the state Land and Water Conservation Fund toward the Harold E. Fay Memorial Park renovation. Members reviewed FY28 CPA applications for Fay Park and the Affordable Housing Trust, discussing parking design, grant mechanics, and state technical assistance. The committee also resolved an administrative discrepancy on a consultant contract and set its meeting calendar leading up to the February 2027 Annual Town Meeting warrant closing.",
+    "topics": [
+      {
+        "title": "Water tower application postponement",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee deferred consideration of the water tower application because the project report remains in progress and staff could not attend.",
+        "key_details": [
+          "Project proponents are awaiting an outstanding contractor report",
+          "Discussion deferred to the December meeting"
+        ],
+        "outcome": "Continued to the next meeting",
+        "why_it_matters": null,
+        "start_seconds": 155,
+        "end_seconds": null
+      },
+      {
+        "title": "Harold E. Fay Memorial Park grant and application review",
+        "category": "Parks, recreation & open space",
+        "importance": "high",
+        "summary": "Proponents announced the project was awarded up to $632,000 in Land and Water Conservation Fund grant funding, covering approximately 50 percent of the estimated $1.4 million total project cost. Because the state grant is reimbursable, Town Meeting will still need to appropriate the full project amount before reimbursements return to the CPA account. The committee also discussed parking changes along Central Street, the exclusion of traffic lights and speed bumps from CPA funding, and separating a 10 percent project contingency into its own budget line.",
+        "key_details": [
+          "Town awarded up to $632,000 LWCF grant, representing roughly half of the estimated $1.4 million project cost",
+          "Town Meeting must appropriate the entire amount upfront before reimbursements are deposited back into CPA accounts",
+          "Select Board scheduled to review angle parking along Central Street on December 2",
+          "Police chief and DPW superintendent approved the angle parking concept in advance",
+          "A flashing light and speed bumps were determined ineligible for CPA funds and removed from the request"
+        ],
+        "outcome": "Application will be revised with updated budget figures and full park naming after the December 2 Select Board meeting",
+        "why_it_matters": "Securing over $600,000 in state grant funds reduces the net local CPA cost for the park renovation by roughly half, though taxpayers must still authorize full upfront funding at Town Meeting.",
+        "start_seconds": 260,
+        "end_seconds": null
+      },
+      {
+        "title": "Affordable Housing Trust FY28 application",
+        "category": "Development & zoning",
+        "importance": "medium",
+        "summary": "Trust representatives reviewed revisions to their FY28 CPA funding application, noting they were awarded non-monetary technical assistance from the Massachusetts Housing Partnership to explore complex affordable housing financing structures. The updated application incorporates resident feedback from the 2025 Municipal Technology Committee survey and references needs identified in the summer 2025 Housing Production Plan. The committee requested the Trust provide regular six-month updates regarding the approximately $1 million currently held in its accounts.",
+        "key_details": [
+          "Massachusetts Housing Partnership awarded technical assistance to help the Trust optimize financing strategies",
+          "Housing need targets reflect the completed summer 2025 Housing Production Plan",
+          "Application updated to include 2025 resident survey feedback and restore an omitted statutory power",
+          "Trust holds approximately $1 million in existing funding",
+          "Updated endorsement letters from the Southborough Housing Authority will be submitted"
+        ],
+        "outcome": "Trust will provide updated support letters and an updated application for upcoming meetings",
+        "why_it_matters": null,
+        "start_seconds": 1720,
+        "end_seconds": null
+      },
+      {
+        "title": "CPA project signage and closeout tracking",
+        "category": "Town administration",
+        "importance": "medium",
+        "summary": "The committee reviewed progress on permanent and temporary project recognition signage for completed and ongoing CPA projects across town. Members agreed to draft a formal procedure and templates for future applicants detailing sign requirements, vendor quote procedures, and invoicing steps. The library interior sign has been installed, while the exterior sign has been delivered to facilities for mounting.",
+        "key_details": [
+          "Library interior plaque installed on the second floor; exterior sign is with town facilities for mounting",
+          "Signs remain pending for Town House, Triangle Park, Fire Memorial, and All Wars Memorial",
+          "Committee plans to create a standardized sign instruction template for the applicant handbook",
+          "Town House and library project closeouts remain pending while awaiting final preservation restrictions"
+        ],
+        "outcome": "Committee members will draft formal signage guidelines and an invoice checklist for the applicant handbook",
+        "why_it_matters": null,
+        "start_seconds": 2350,
+        "end_seconds": null
+      },
+      {
+        "title": "Consultant contract administrative adjustment",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The chair reported executing the consultant contract after making an administrative change to lower the contract ceiling from $50,000 to $25,000. Town accounting identified that maintaining the higher ceiling would risk creating an unappropriated liability because the committee only budgeted $25,000 for the position.",
+        "key_details": [
+          "Contract ceiling amended from $50,000 down to $25,000",
+          "Administrative change initialed by the chair and the town administrator",
+          "Adjusted figure aligns with the funds actually appropriated in the administrative account"
+        ],
+        "outcome": "Contract executed with the $25,000 cap",
+        "why_it_matters": null,
+        "start_seconds": 3280,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee approved minutes from two prior meetings and mapped out its meeting calendar leading up to the February 18, 2027 Annual Town Meeting warrant deadline.",
+        "key_details": [
+          "Approved meeting minutes of October 8, 2026 (5-0-1)",
+          "Approved meeting minutes of October 17, 2026 (6-0)",
+          "Set upcoming meeting dates for December 17, January 13, February 4, and February 9"
+        ],
+        "outcome": "Minutes approved and future meeting dates established",
+        "why_it_matters": null,
+        "start_seconds": 3450,
+        "end_seconds": null
+      }
+    ],
+    "votes": [],
+    "public_comment": [],
+    "upcoming": [
+      {
+        "what": "Select Board meeting on Harold E. Fay Memorial Park parking configuration",
+        "when": "December 2, 2026"
+      },
+      {
+        "what": "Community Preservation Committee meeting",
+        "when": "December 17, 2026"
+      },
+      {
+        "what": "Community Preservation Committee meeting",
+        "when": "January 13, 2027"
+      },
+      {
+        "what": "Community Preservation Committee meeting to finalize conditions",
+        "when": "February 4, 2027"
+      },
+      {
+        "what": "Community Preservation Committee remote meeting to vote on warrant articles",
+        "when": "February 9, 2027"
+      },
+      {
+        "what": "Annual Town Meeting warrant closes",
+        "when": "February 18, 2027"
+      }
+    ],
+    "caveats": null
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-21T18:17:09Z",
+  "usage": {
+    "total_tokens": 166047,
+    "total_input_tokens": 161748,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 160763
+      },
+      {
+        "modality": "text",
+        "tokens": 985
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 1885,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2414,
+    "initial_input_tokens": 161748
+  }
+}

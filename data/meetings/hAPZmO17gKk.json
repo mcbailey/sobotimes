@@ -1,0 +1,400 @@
+{
+  "video": {
+    "id": "hAPZmO17gKk",
+    "title": "Regional School Committee Meeting / November 18, 2026",
+    "published_at": "2026-11-16T23:51:22Z",
+    "duration_s": 15161
+  },
+  "summary": {
+    "is_public_meeting": true,
+    "body": "Northborough-Southborough Regional School Committee",
+    "meeting_date": null,
+    "headline": "The Regional School Committee reviewed a preliminary FY28 budget of $32.4 million and approved a health insurance agreement saving $450,000.",
+    "summary": "The Northborough-Southborough Regional School Committee reviewed the preliminary FY28 operating budget proposal of $32,361,950, representing a 3.01 percent increase over FY27. Administrators reported significant cost savings achieved through collaborative negotiations with the Public Employee Committee on health insurance, resulting in approximately $450,000 in gross savings. The committee also received detailed updates on high school MCAS and AP test results, class size ratios, student cell phone management, bus safety technology, and athletic booster club operations.",
+    "topics": [
+      {
+        "title": "Academic excellence and National Merit recognition",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "The superintendent and high school principal presented Massachusetts Association of School Superintendents Certificates of Excellence and recognized National Merit Scholar semifinalists and commended students. Two graduating seniors received superintendents certificates honoring academic achievement, perseverance, leadership, and character. Three students were recognized as National Merit semifinalists and twelve as commended scholars.",
+        "key_details": [
+          "Certificate of Excellence recipients: James Skelton and Claire Wallace.",
+          "National Merit Semifinalists: Carly Cheroni, Arjun Mukherjee, and Claire Wallace.",
+          "Twelve students were awarded Letters of Commendation from the National Merit Scholarship program.",
+          "Semifinalists scored in the top 1 to 2 percent nationally on the PSAT."
+        ],
+        "outcome": "Informational presentation; certificates and letters distributed.",
+        "why_it_matters": null,
+        "start_seconds": 398,
+        "end_seconds": null
+      },
+      {
+        "title": "Overnight field trip approvals",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The committee reviewed and approved three recurring out-of-state overnight field trips for high school student groups. The requests included the student newspaper Harbinger attending the Columbia Scholastic Press Association conference at Columbia University, the DECA team traveling to Anaheim, California for an international conference, and the FIRST Robotics team attending the national championship event in Houston, Texas.",
+        "key_details": [
+          "Harbinger conference at Columbia University in New York.",
+          "DECA International Career Development Conference in Anaheim, California (students must qualify through state competition).",
+          "FIRST Robotics Championship event in Houston, Texas (contingent on team qualification)."
+        ],
+        "outcome": "Approved unanimously by roll-call vote.",
+        "why_it_matters": null,
+        "start_seconds": 2077,
+        "end_seconds": null
+      },
+      {
+        "title": "Food services update and vendor evaluation",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Representatives from Whitsons Culinary Group introduced new management staff and shared service updates for Algonquin Regional High School and member district schools. Changes this year include the hiring of an on-site chef manager, a dedicated district dietitian conducting student outreach in cafeterias, and promotional food events like a guest chef sushi day. Administrators also outlined the timeline and evaluation criteria being used to assess food service performance ahead of a contract renewal decision in early 2027.",
+        "key_details": [
+          "Whitsons introduced General Manager Christina Blake and Chef Manager Mike Holding.",
+          "Over 200 sushi rolls and bowls were served during a guest chef promotional day.",
+          "The popular Algonquin cookies were temporarily paused due to staffing constraints but are expected to return soon.",
+          "A formal evaluation of Whitsons will be presented to the committee in December 2026, leading to a decision in January 2027."
+        ],
+        "outcome": "Discussion only; evaluation report scheduled for December.",
+        "why_it_matters": null,
+        "start_seconds": 2596,
+        "end_seconds": null
+      },
+      {
+        "title": "Athletic department and Boosters Club update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The athletic director and the president of the Algonquin Athletic Boosters Club provided a comprehensive update on sports programs, participation rates, and budget collaborations. The district has transitioned to the Sway mobile application for concussion evaluation and baseline testing and implemented a structured five-year uniform replacement cycle within the operating budget. The Boosters Club announced a $15,000 donation toward Phase 2 of the athletic complex and noted that all sports team accounts are currently in positive financial standing.",
+        "key_details": [
+          "Athletic participation remained stable with 365 fall athletes, following 1,068 total participants in 2024-2025 and 1,013 in 2025-2026.",
+          "A 5-year uniform rotation cycle was built into the district operating budget to eliminate individual team uniform fundraising.",
+          "Boosters Club generated $60,000 in fundraising between August and October 2026, including $11,000 from the annual pumpkin patch.",
+          "Boosters Club committed a $15,000 donation to Phase 2 of the outdoor athletic complex project.",
+          "Boosters president Paul Cacciatore announced he will step down at the end of the school year, with Vice President Jim Davis slated to succeed him."
+        ],
+        "outcome": "Informational presentations and discussion; no committee vote required.",
+        "why_it_matters": null,
+        "start_seconds": 3658,
+        "end_seconds": null
+      },
+      {
+        "title": "Legislative update on state education aid",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent reported on an upcoming meeting scheduled for November 23 with state legislators representing Northborough and Southborough. District priorities submitted for advocacy include increased Chapter 70 education aid, higher minimum per-pupil local aid, full funding for special education circuit breaker reimbursements, and increased regional transportation aid.",
+        "key_details": [
+          "Legislative delegation meeting scheduled for Monday, November 23, 2026, at 6:30 PM with the Northborough Select Board.",
+          "Advocacy focuses on Chapter 70 funding formulas, special education circuit breaker, and regional transportation aid.",
+          "State aid increases have historically lagged behind operational cost growth across the district."
+        ],
+        "outcome": "Discussion only; superintendent and committee representatives will attend the session.",
+        "why_it_matters": null,
+        "start_seconds": 8430,
+        "end_seconds": null
+      },
+      {
+        "title": "Review of grants and donations approval policy",
+        "category": "Schools",
+        "importance": "low",
+        "summary": "Following a member question at a prior meeting regarding gifts, the superintendent clarified the approval authorities defined in district policy. Non-capital donations under $500 may be accepted directly by the principal, while capital equipment exceeding $5,000, privately funded construction projects, multi-year advertising, and corporate sponsorships require superintendent and school committee approval.",
+        "key_details": [
+          "Gifts under $500 can be accepted by building principals.",
+          "Capital donations over $5,000 and named sponsorships require school committee approval.",
+          "Policy review was prompted by past donations, including a softball scoreboard accepted after installation."
+        ],
+        "outcome": "Information presented in a memo; no policy amendments voted.",
+        "why_it_matters": null,
+        "start_seconds": 8567,
+        "end_seconds": null
+      },
+      {
+        "title": "School calendar survey update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent provided participation numbers for the districtwide calendar survey, which closed earlier in the day. The survey solicited community and staff input regarding school start dates, holiday observances, and vacation schedules. Survey data will be analyzed and presented at the Combined School Committees meeting on December 2, 2026.",
+        "key_details": [
+          "Survey closed at noon on November 18, 2026.",
+          "Responses received from just under 1,000 parents and caregivers and over 500 staff members.",
+          "Results and calendar recommendations will be presented to the combined committee on December 2."
+        ],
+        "outcome": "Informational update; survey analysis to follow.",
+        "why_it_matters": null,
+        "start_seconds": 8713,
+        "end_seconds": null
+      },
+      {
+        "title": "Student report, cell phone policy, and digital wellness",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "A student representative presented the November Student Advisory Council report highlighting club activities, stress trends, and student events. Following the student report, the principal updated the committee on cell phone management, confirming the school has decided against adopting the Doorman app for 2026-2027 due to reliability, privacy, and technical concerns. Staff are continuing classroom-based pouch systems, reporting increased student compliance, and collaborating with regional wellness groups on broader digital literacy initiatives.",
+        "key_details": [
+          "High school officially decided not to implement the Doorman cell phone tracking tool for 2026-2027.",
+          "Classroom pouches and revised norms have resulted in fewer hallway distractions and increased compliance.",
+          "District partnered with Education Development Center MetroWest Digital Wellness Collaborative to develop family resources and student curriculum.",
+          "Upcoming events include fall musical Newsies and the annual student-run Gonk Shop after school."
+        ],
+        "outcome": "Informational report; communication will be sent to families regarding cell phone management and digital wellness.",
+        "why_it_matters": null,
+        "start_seconds": 8827,
+        "end_seconds": null
+      },
+      {
+        "title": "High school class size ratios",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Assistant Principal Andy McGowan presented the annual class size report for Algonquin Regional High School. Over the past three school years, the high school reduced 13.3 full-time equivalent staff positions, mostly through attrition, resulting in class size creep across academic departments. While most classes remain within the district guideline of 21 to 24 students, several elective and core courses have 25 or more students.",
+        "key_details": [
+          "Total high school enrollment for 2026-2027 is 1,209 students.",
+          "Overall average class size increased from 13.1 in 2022 to 17.49 in 2026.",
+          "Most academic classes fall in the 21 to 24 student range (26.89 percent) or 16 to 20 range (23.45 percent).",
+          "World language and fine arts experienced the largest class size increases following staff reductions and revised graduation requirements."
+        ],
+        "outcome": "Presentation and discussion; committee noted class size trends as a key budget consideration.",
+        "why_it_matters": null,
+        "start_seconds": 9805,
+        "end_seconds": null
+      },
+      {
+        "title": "MCAS, SAT, and AP assessment data",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "Assistant Principal Jenna Brown presented spring 2026 testing results for 10th grade MCAS, SATs, and Advanced Placement exams. Algonquin students continue to significantly outperform state averages across all assessments, although average scaled scores on MCAS dipped slightly following the elimination of MCAS as a high school graduation requirement. In AP testing, 93 percent of Algonquin test-takers scored 3 or higher, setting five-year high scores in 12 of 29 exam subjects.",
+        "key_details": [
+          "10th Grade MCAS: 71 percent met or exceeded expectations in English Language Arts, 73 percent in Math, and 68 percent in Science.",
+          "Average SAT composite score was 1,236 (617 math, 619 reading and writing), compared to state average of 1,128 and national average of 1,045.",
+          "458 students took 1,061 AP exams, with 93.23 percent scoring 3 or higher.",
+          "Math department saw a 14 percent jump in correct statistics MCAS answers after adopting the Reveal Math curriculum."
+        ],
+        "outcome": "Report accepted; administrators will continue analyzing data to address curriculum and skill gaps.",
+        "why_it_matters": null,
+        "start_seconds": 10585,
+        "end_seconds": null
+      },
+      {
+        "title": "Math academic interventions",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The principal detailed two math intervention programs operating at Algonquin to support students entering high school with math skill gaps. The federally funded Title I program provides part-time push-in tutoring support in learning center and math classrooms. In addition, the school launched Math Lab, a new low-stress, pass/fail alternate-day support course currently serving 22 ninth-grade students to build foundational algebra skills.",
+        "key_details": [
+          "Title I grant funds a part-time push-in math tutor (former department chair Beth DeGrace).",
+          "Math Lab meets every other day for 1.25 credits opposite study hall with no homework.",
+          "22 students are currently enrolled in Math Lab, with several on track to exit back to study halls after semester one."
+        ],
+        "outcome": "Informational update; student progress will be monitored at mid-year.",
+        "why_it_matters": null,
+        "start_seconds": 11527,
+        "end_seconds": null
+      },
+      {
+        "title": "Enrollment report and NESDEC projections",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The superintendent presented the certified October 1, 2026 enrollment report and 10-year demographic projections from the New England School Development Council. Current high school enrollment stands at 1,209 students, reflecting stability after a decade-long decline of approximately 10 percent. NESDEC projections indicate enrollment will hover between 1,200 and 1,250 students over the next several years, with modest long-term growth of roughly 5 percent through 2036-2037.",
+        "key_details": [
+          "Official high school enrollment as of October 1, 2026 is 1,209 students.",
+          "Projections anticipate enrollment will remain near 1,200 to 1,250 over the next five to ten years.",
+          "Stable enrollment helps stabilize state Chapter 70 aid calculations."
+        ],
+        "outcome": "Informational report; figures incorporated into FY28 budget planning.",
+        "why_it_matters": null,
+        "start_seconds": 12081,
+        "end_seconds": null
+      },
+      {
+        "title": "Financial reports and FY27 grant allocations",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The committee reviewed monthly budget reports through October 31, 2026, and accepted state and federal grant awards for FY27 totaling $549,702. The FY27 operating budget showed a remaining balance of $615,099 (1.96 percent). Committee members voted to approve overexpended functional lines, including substitute and school choice accounts, and accepted revenue and grant allocations supporting special education, educator development, and building heating repairs.",
+        "key_details": [
+          "General fund remaining budget balance as of October 31 was $615,099 (1.96 percent of operating budget).",
+          "Federal and state FY27 grants totaled $549,702, including $477,882 in special education IDEA funding.",
+          "State budget fair share earmark grant awarded for high school heating system victaulic fitting replacements.",
+          "Revenue collections through October were on track at 25 percent of annual projections."
+        ],
+        "outcome": "Committee voted unanimously to accept the general fund report and approve overexpended lines, accept the revenue report, and approve FY27 grant allocations.",
+        "why_it_matters": "Proper accounting of expenditures and formal acceptance of $549,702 in grant funding ensures compliance with state law and provides necessary resources for special education and facility maintenance.",
+        "start_seconds": 12173,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28-FY33 Capital Improvement Plan",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The director of finance and operations presented the six-year capital improvement plan covering fiscal years 2028 through 2033. In response to financial constraints in both member towns, administrators are reassessing the initial FY28 capital requests and prioritizing projects into six tiers. Detailed reviews with the Capital Planning Subcommittee will take place before a revised capital plan is presented for committee vote in December.",
+        "key_details": [
+          "Capital plan covers capital assets and building projects for FY28 through FY33.",
+          "Projects in the FY28 column are ranked from priority 1 to 6.",
+          "School officials met with the Southborough Capital Planning Committee on November 16 to discuss facility priorities.",
+          "Total FY28 capital request is being refined downward to align with town fiscal guidelines."
+        ],
+        "outcome": "Plan under review; final FY28 capital plan vote scheduled for December 2026.",
+        "why_it_matters": null,
+        "start_seconds": 12673,
+        "end_seconds": null
+      },
+      {
+        "title": "Routine business",
+        "category": "Town administration",
+        "importance": "low",
+        "summary": "The committee completed procedural and administrative items, including the approval of meeting minutes from the October 29, 2026 special open meeting, distribution of draft policy J-220 regarding medication administration in schools, sub-committee assignments, receipt of a personnel report acknowledging new staff hires, and warrant signing.",
+        "key_details": [
+          "Approved minutes of the special open meeting of October 29, 2026.",
+          "Distributed Policy J-220 (Medication Administration in Schools) for committee review.",
+          "Noted hiring of Title I math tutor Beth DeGrace and cafeteria staff.",
+          "Meeting adjourned at 9:39 PM."
+        ],
+        "outcome": "Minutes approved; routine personnel and policy distributions noted.",
+        "why_it_matters": null,
+        "start_seconds": 12844,
+        "end_seconds": null
+      },
+      {
+        "title": "FY28 preliminary operating budget and budget priorities",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "Administrators presented the preliminary FY28 operating budget and sought approval of the annual budget priorities. The initial budget request of $33.48 million was reduced to a preliminary operating budget of $32,361,950, representing a 3.01 percent increase ($945,663) over FY27. Primary drivers include contractual salaries, an 8 percent increase in health insurance, and a 43.7 percent increase in specialized transportation. Because both Northborough and Southborough face potential municipal operating overrides, the administration is preparing two budget scenarios: a 3 percent increase and a 0 percent level-funded budget that would require $896,654 in cuts and five staff reductions.",
+        "key_details": [
+          "Preliminary FY28 budget is $32,361,950, an increase of $945,663 or 3.01 percent.",
+          "Health insurance costs projected to rise 8 percent ($279,789 increase).",
+          "Special education transportation increasing by $318,202 (43.71 percent).",
+          "A 0 percent level-funded budget would require cutting five staff positions.",
+          "Both member towns are projecting operational override votes for FY28."
+        ],
+        "outcome": "Committee voted unanimously to approve the FY28 budget priorities. Recommended budget presentation scheduled for December.",
+        "why_it_matters": "The regional school budget represents the largest component of local education spending in Northborough and Southborough. Proposed increases directly impact town tax assessments and property tax bills.",
+        "start_seconds": 12950,
+        "end_seconds": null
+      },
+      {
+        "title": "Transportation services and safety technology update",
+        "category": "Schools",
+        "importance": "medium",
+        "summary": "The director of operations reviewed transportation operations with contractor NRT Bus. Daily service has remained stable with only one to two driver absences on typical days, though a recent flu outbreak temporarily increased absences to four or five. Advanced safety features installed under the current contract, including live-feed internal/external cameras, stop-arm violation cameras, and turn-by-turn route navigation, have operated effectively. Three illegal stop-arm passing incidents were recorded and referred to local police.",
+        "key_details": [
+          "Turn-by-turn tablet navigation is fully operational across substitute and regular drivers.",
+          "Stop-arm cameras operate continuously on all buses; three violations were reported to police, resulting in two citations.",
+          "RFID student tracking cards remain active at the elementary level, with middle/high school expansion on hold pending hardware upgrades.",
+          "Buses feature live video feeds accessible immediately to school administrators."
+        ],
+        "outcome": "Informational update; ongoing bi-weekly monitoring meetings with NRT continue.",
+        "why_it_matters": null,
+        "start_seconds": 14025,
+        "end_seconds": null
+      },
+      {
+        "title": "Health insurance negotiations and Public Employee Committee agreement",
+        "category": "Budget & taxes",
+        "importance": "high",
+        "summary": "The superintendent and director of finance reported on successful statutory health insurance negotiations conducted under Massachusetts General Laws Chapter 32B with the regional Public Employee Committee. The plan design modifications will yield approximately $450,000 in gross savings in FY28. In accordance with state law, 25 percent of the savings ($126,000) will be placed in a one-time mitigation fund for subscribers, leaving net savings of roughly $325,000 to offset district healthcare expenses. The committee voted unanimously to formally approve the Memorandum of Agreement.",
+        "key_details": [
+          "Negotiations with the Public Employee Committee generated $450,000 in gross healthcare savings for FY28.",
+          "Net district savings after the required 25 percent subscriber mitigation fund ($126,000) will be approximately $325,000.",
+          "Changes align with similar municipal employee plan modifications adopted in Northborough and Southborough.",
+          "Agreement helps limit the district health insurance budget increase to 8 percent."
+        ],
+        "outcome": "Committee voted unanimously by roll call to approve the Memorandum of Agreement with the Public Employee Committee.",
+        "why_it_matters": "Mitigating double-digit health insurance premium increases directly lowers district operating expenses, reducing the tax assessment burden on Northborough and Southborough taxpayers.",
+        "start_seconds": 14493,
+        "end_seconds": null
+      }
+    ],
+    "votes": [
+      {
+        "motion": "Approve three out-of-state overnight field trips for Harbinger to Columbia University, DECA to Anaheim, California, and FIRST Robotics to Houston, Texas",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 2276
+      },
+      {
+        "motion": "Accept the FY27 monthly general fund expenditure report as of October 31, 2026, and approve the overexpended function codes",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12369
+      },
+      {
+        "motion": "Accept the Northborough-Southborough Regional School District Statement of Revenue as of October 31, 2026",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12461
+      },
+      {
+        "motion": "Approve the FY27 state and federal grant allocations totaling $549,702",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12646
+      },
+      {
+        "motion": "Approve the FY28 budget priorities as presented",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 12999
+      },
+      {
+        "motion": "Approve the Memorandum of Agreement between the Northborough-Southborough Regional School Committee and the Public Employee Committee regarding health insurance",
+        "result": "passed",
+        "tally": "unanimous",
+        "start_seconds": 14632
+      }
+    ],
+    "public_comment": [
+      {
+        "summary": "A Northborough resident (12 Whitney Street) commented that the calendar survey's question order led with whether parents preferred ending school in mid-June versus late June, which may bias responses before religious holiday questions are considered. He noted positive student compliance with classroom phone pouches despite abandoning the Doorman app, and urged the committee to add audio speakers in the room so in-person attendees can hear committee discussions clearly.",
+        "start_seconds": 2349
+      }
+    ],
+    "upcoming": [
+      {
+        "what": "Legislative delegation meeting with Northborough Select Board and school committees",
+        "when": "November 23, 2026 at 6:30 PM"
+      },
+      {
+        "what": "Combined Northborough, Southborough, and Regional School Committees meeting (calendar survey presentation)",
+        "when": "December 2, 2026 at 5:30 PM"
+      },
+      {
+        "what": "Northborough Financial Planning Committee joint budget meeting",
+        "when": "December 3, 2026"
+      },
+      {
+        "what": "Northborough Select Board, Appropriations, and Financial Planning Committee joint meeting",
+        "when": "December 14, 2026"
+      },
+      {
+        "what": "Next regular Regional School Committee meeting (FY28 recommended budget presentation and vote)",
+        "when": "December 16, 2026"
+      },
+      {
+        "what": "Southborough Annual Town Meeting",
+        "when": "March 20, 2027"
+      },
+      {
+        "what": "Northborough Annual Town Meeting",
+        "when": "April 26, 2027"
+      }
+    ],
+    "caveats": "The recording includes an extended intermission/title card screen from approximately 0:12:38 to 0:33:21 between the student awards presentation and the formal call to order of the business meeting."
+  },
+  "model": "gemini-3.8-flash",
+  "processing": "static",
+  "fallback_reason": null,
+  "prompt_version": "2026-10-16",
+  "processed_at": "2026-11-21T18:19:26Z",
+  "usage": {
+    "total_tokens": 588610,
+    "total_input_tokens": 580157,
+    "input_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 579118
+      },
+      {
+        "modality": "text",
+        "tokens": 1039
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_output_tokens": 6265,
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 2188,
+    "initial_input_tokens": 580157
+  }
+}

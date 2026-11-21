@@ -1,10 +1,10 @@
 {
   "week": "2026-11-16",
-  "fingerprint": "bfac4b03650abd3f",
+  "fingerprint": "8489b5b548db4f7d",
   "topics": {
     "3piEqjqhxaE#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "3piEqjqhxaE#1": {
       "issue": null,
@@ -12,7 +12,7 @@
     },
     "3piEqjqhxaE#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Health & human services"
     },
     "3piEqjqhxaE#3": {
       "issue": null,
@@ -20,7 +20,7 @@
     },
     "9M9Fz6T9tSY#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "9M9Fz6T9tSY#1": {
       "issue": null,
@@ -60,7 +60,7 @@
     },
     "BldxGR7yX1s#6": {
       "issue": "fy28-operating-budget",
-      "category": "Town Meeting & elections"
+      "category": "Budget & taxes"
     },
     "BldxGR7yX1s#7": {
       "issue": "fy28-operating-budget",
@@ -72,14 +72,14 @@
     },
     "CFA_tSDFEUI#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "CFA_tSDFEUI#1": {
       "issue": "2027-masstrails-grant",
       "category": "Parks, trails & recreation"
     },
     "CFA_tSDFEUI#2": {
-      "issue": "peninsula-trail-phase-2",
+      "issue": null,
       "category": "Parks, trails & recreation"
     },
     "CFA_tSDFEUI#3": {
@@ -96,11 +96,11 @@
     },
     "KATF-_ujRos#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "KATF-_ujRos#1": {
       "issue": "fy28-capital-budget",
-      "category": "Public safety"
+      "category": "Budget & taxes"
     },
     "KATF-_ujRos#2": {
       "issue": "fy28-capital-budget",
@@ -114,9 +114,33 @@
       "issue": "fy28-capital-budget",
       "category": "Budget & taxes"
     },
-    "PbjK80odSyo#0": {
+    "MVpXMt3UsvY#0": {
+      "issue": "rural-cemetery-water-tower",
+      "category": "Parks, trails & recreation"
+    },
+    "MVpXMt3UsvY#1": {
+      "issue": "fayville-memorial-park-improvements",
+      "category": "Parks, trails & recreation"
+    },
+    "MVpXMt3UsvY#2": {
+      "issue": "cpa-affordable-housing-trust-transfer",
+      "category": "Housing"
+    },
+    "MVpXMt3UsvY#3": {
+      "issue": "cpa-project-signage-program",
+      "category": "Parks, trails & recreation"
+    },
+    "MVpXMt3UsvY#4": {
       "issue": null,
       "category": "Governance & committees"
+    },
+    "MVpXMt3UsvY#5": {
+      "issue": "community-preservation-appropriations",
+      "category": "Town Meeting & elections"
+    },
+    "PbjK80odSyo#0": {
+      "issue": null,
+      "category": "Staffing & operations"
     },
     "PbjK80odSyo#1": {
       "issue": "town-forest-footbridge",
@@ -135,8 +159,8 @@
       "category": "Zoning & development"
     },
     "PbjK80odSyo#5": {
-      "issue": null,
-      "category": "Zoning & development"
+      "issue": "0-southville-road",
+      "category": "Housing"
     },
     "PbjK80odSyo#6": {
       "issue": "breakneck-hill-restoration",
@@ -148,7 +172,79 @@
     },
     "PbjK80odSyo#8": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Environment & conservation"
+    },
+    "hAPZmO17gKk#0": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#1": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#2": {
+      "issue": "school-food-service-contract",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#3": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#4": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#5": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#6": {
+      "issue": "regional-school-calendar-2027-2028",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#7": {
+      "issue": "algonquin-cell-phone-policy",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#8": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#9": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#10": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#11": {
+      "issue": null,
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#12": {
+      "issue": "fy27-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#13": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#14": {
+      "issue": null,
+      "category": "Staffing & operations"
+    },
+    "hAPZmO17gKk#15": {
+      "issue": "fy28-regional-school-operating-budget",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#16": {
+      "issue": "school-bus-transportation-operations",
+      "category": "Schools"
+    },
+    "hAPZmO17gKk#17": {
+      "issue": "municipal-health-insurance-reform",
+      "category": "Schools"
     },
     "hQa4KHStWIE#0": {
       "issue": "21-coslin-drive-costco",
@@ -176,7 +272,7 @@
     },
     "oKWzIDuF6Ow#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "oKWzIDuF6Ow#1": {
       "issue": null,
@@ -232,7 +328,7 @@
     },
     "oKWzIDuF6Ow#14": {
       "issue": null,
-      "category": "Library, arts & community"
+      "category": "Budget & taxes"
     },
     "oKWzIDuF6Ow#15": {
       "issue": null,
@@ -244,7 +340,7 @@
     },
     "p-xXKb6djBQ#0": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "p-xXKb6djBQ#1": {
       "issue": "fy27-cultural-council-grants",
@@ -264,11 +360,11 @@
     },
     "zP1I37LQ_Tk#2": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     },
     "zP1I37LQ_Tk#3": {
       "issue": null,
-      "category": "Governance & committees"
+      "category": "Staffing & operations"
     }
   },
   "votes": {
@@ -310,6 +406,24 @@
     },
     "PbjK80odSyo#v8": {
       "issue": "breakneck-hill-restoration"
+    },
+    "hAPZmO17gKk#v0": {
+      "issue": null
+    },
+    "hAPZmO17gKk#v1": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#v2": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#v3": {
+      "issue": "fy27-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#v4": {
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#v5": {
+      "issue": "municipal-health-insurance-reform"
     },
     "hQa4KHStWIE#v0": {
       "issue": "21-coslin-drive-costco"
@@ -377,7 +491,7 @@
     },
     "CFA_tSDFEUI#u1": {
       "date": "2026-12-05",
-      "issue": "peninsula-trail-phase-2"
+      "issue": null
     },
     "CFA_tSDFEUI#u2": {
       "date": "2027-01-01",
@@ -391,13 +505,65 @@
       "date": "2026-12-15",
       "issue": "fy28-capital-budget"
     },
+    "MVpXMt3UsvY#u0": {
+      "date": "2026-12-02",
+      "issue": "fayville-memorial-park-improvements"
+    },
+    "MVpXMt3UsvY#u1": {
+      "date": "2026-12-17",
+      "issue": "community-preservation-appropriations"
+    },
+    "MVpXMt3UsvY#u2": {
+      "date": "2027-01-13",
+      "issue": "community-preservation-appropriations"
+    },
+    "MVpXMt3UsvY#u3": {
+      "date": "2027-02-04",
+      "issue": "community-preservation-appropriations"
+    },
+    "MVpXMt3UsvY#u4": {
+      "date": "2027-02-09",
+      "issue": "community-preservation-appropriations"
+    },
+    "MVpXMt3UsvY#u5": {
+      "date": "2027-02-18",
+      "issue": "community-preservation-appropriations"
+    },
     "PbjK80odSyo#u0": {
       "date": "2026-12-10",
+      "issue": "21-coslin-drive-costco"
+    },
+    "hAPZmO17gKk#u0": {
+      "date": "2026-11-23",
+      "issue": null
+    },
+    "hAPZmO17gKk#u1": {
+      "date": "2026-12-02",
+      "issue": "regional-school-calendar-2027-2028"
+    },
+    "hAPZmO17gKk#u2": {
+      "date": "2026-12-03",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#u3": {
+      "date": "2026-12-14",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#u4": {
+      "date": "2026-12-16",
+      "issue": "fy28-regional-school-operating-budget"
+    },
+    "hAPZmO17gKk#u5": {
+      "date": "2027-03-20",
+      "issue": null
+    },
+    "hAPZmO17gKk#u6": {
+      "date": "2027-04-26",
       "issue": null
     },
     "hQa4KHStWIE#u0": {
       "date": "2026-12-14",
-      "issue": null
+      "issue": "21-coslin-drive-costco"
     },
     "hQa4KHStWIE#u1": {
       "date": null,
@@ -409,7 +575,7 @@
     },
     "oKWzIDuF6Ow#u1": {
       "date": "2027-01-01",
-      "issue": null
+      "issue": "tricentennial-first-day"
     },
     "oKWzIDuF6Ow#u2": {
       "date": "2027-01-01",
@@ -437,5 +603,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-20T19:28:26Z"
+  "generated_at": "2026-11-21T18:28:49Z"
 }

@@ -33,30 +33,30 @@
       "description": "Proposed construction of two apartment buildings and associated infrastructure at 0 Southville Road.",
       "category": "Housing",
       "first_seen": "2026-04-27",
-      "last_seen": "2026-11-16",
-      "status": "A proposed 60-unit apartment project under the MBTA Communities Overlay District at 0 Southville Road is currently under review before town boards. The Planning Board formally opened its major site plan hearing in November 2026 but continued it without testimony so the developer could resolve questions with public safety officials. The Conservation Commission's review of the project's Notice of Intent and stormwater permit has also seen repeated continuances while plans are revised for peer review. The Planning Board is scheduled to take up the application next on December 14, 2026.",
-      "status_as_of": "2026-11-16",
+      "last_seen": "2026-11-19",
+      "status": "A proposal to build 60 apartment units across two buildings at 0 Southville Road under the MBTA Communities Overlay District is currently under regulatory review. The Planning Board opened its site plan review in November 2026 but continued the hearing without testimony to allow the developer to address questions with public safety officials. The Conservation Commission has also repeatedly continued its review of the project's Notice of Intent and stormwater management permit. Formal hearings resume before the Conservation Commission on December 10, 2026, and the Planning Board on December 14, 2026.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Opened the site plan hearing on Nov 16, 2026, and voted to continue without testimony to let the developer coordinate with public safety officials."
+          "detail": "Opened the site plan review on Nov 16, 2026, and continued the hearing without testimony to Dec 14 so the applicant can coordinate with public safety officials."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Continued the Notice of Intent and stormwater permit hearing across multiple meetings while revised plans respond to peer review."
+          "detail": "Continued the Notice of Intent and stormwater management permit hearing on Nov 19, 2026, to Dec 10 without substantive deliberation."
         },
         {
           "body": "Affordable Housing Trust",
-          "stance": "neutral",
-          "detail": "Met with the developer in March 2026 to explore whether town funds could subsidize additional affordable units beyond the required 10 percent."
+          "stance": "undecided",
+          "detail": "Met with the developer in March 2026 to discuss the project and asked for cost estimates on subsidizing additional affordable units beyond the required 10 percent."
         }
       ],
-      "next": "Planning Board public hearing on December 14, 2026.",
-      "status_fingerprint": "ed4adde72763ed6e",
+      "next": "Conservation Commission public hearing on December 10, 2026.",
+      "status_fingerprint": "4731f95152011bba",
       "status_model": "gemini-3.8-flash",
-      "significance": 4
+      "significance": 5
     },
     "0-valley-road-trail": {
       "id": "0-valley-road-trail",
@@ -357,32 +357,32 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-11-19",
-      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station at 21 Coslin Drive remains under active review by the Planning Board and Conservation Commission. While the Zoning Board of Appeals unanimously granted variances for retaining walls and light pole heights in July, the Planning Board is still weighing traffic mitigation, site layout, and requested waivers. Key open concerns include regional traffic delays on Route 9, cut-through truck traffic on residential streets, and environmental impacts. The Conservation Commission takes up the project next on December 10, 2026, followed by the Planning Board on December 14 ahead of a December 18 decision deadline.",
+      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station at 21 Coslin Drive is currently under concurrent review by the Planning Board and Conservation Commission, following the Zoning Board of Appeals' approval of lighting and retaining wall variances in July. Reviewing boards and town consultants are primarily focused on regional traffic congestion, level-of-service failures at Route 9 intersections, cut-through truck traffic on residential roads, and proposed landscaping and stormwater waivers. The Conservation Commission continues its wetlands hearing on December 10, 2026, followed by the Planning Board's continued hearing on December 14, 2026, ahead of its December 18 decision deadline.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
-          "body": "Planning Board",
-          "stance": "undecided",
-          "detail": "Reviewing major site plans, traffic mitigation, and landscaping and stormwater waivers ahead of a December 18 decision deadline."
-        },
-        {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted 4-0 on July 15 to approve variances for retaining walls up to 31 feet and light poles up to 36.6 feet."
+          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting retaining walls up to 31 feet and light poles up to 36.6 feet."
+        },
+        {
+          "body": "Planning Board",
+          "stance": "undecided",
+          "detail": "Continues to review the major site plan and special permits, raising concerns about traffic delays, truck routing restrictions, and requested site waivers."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Continued the Notice of Intent hearing to December 10 at the applicant's request."
+          "detail": "Reviewing the Notice of Intent for the warehouse and fueling station, continuing the hearing at the applicant's request."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents voiced sharp concerns about Route 9 gridlock and cut-through truck traffic on local streets, while one speaker praised native plantings but opposed rock mulch in parking islands."
+          "detail": "Residents voiced strong concerns over Route 9 gridlock, neighborhood truck cut-throughs, and school bus delays, while one commenter praised native plantings but objected to rock mulch."
         }
       ],
-      "next": "Conservation Commission public hearing on December 10, 2026.",
-      "status_fingerprint": "90a5d6f73ff47312",
+      "next": "Conservation Commission public hearing on December 10, 2026",
+      "status_fingerprint": "0f21ef946f0fe8b4",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1007,7 +1007,7 @@
       "description": "Cell phone restrictions and evaluation of geofencing software at Algonquin Regional High School.",
       "category": "Schools",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-16",
       "status": "The planned rollout of the Doorman geofencing mobile app at Algonquin Regional High School is on indefinite hold due to technical delays and concerns regarding student privacy and surveillance. In the interim, the high school continues to require that cell phones be kept off and away in classroom canvas caddies. School administration is seeking additional student and community feedback through a steering committee while monitoring stalled state legislation on school cell phone bans.",
       "status_as_of": "2026-09-16",
       "positions": [
@@ -1303,29 +1303,24 @@
       "description": "Annual Town Meeting appropriations for Community Preservation Act statutory reserves, debt service, and administrative expenses.",
       "category": "Town Meeting & elections",
       "first_seen": "2026-03-09",
-      "last_seen": "2026-10-08",
-      "status": "The Community Preservation Committee has moved on to the FY27 funding cycle, conducting preliminary technical reviews of new project applications. During the 2026 Annual Town Meeting preparations, the Select Board reversed an earlier unanimous opposition vote to endorse Article 22, which funded statutory reserves and $29,000 in administrative expenses. Board discussions also highlighted concerns regarding 18 older CPA projects totaling roughly $79,000 that remain open primarily because required statutory signs have not yet been installed.",
-      "status_as_of": "2026-10-08",
+      "last_seen": "2026-11-18",
+      "status": "The Community Preservation Committee is currently preparing its statutory allocations and project recommendations for the 2027 Annual Town Meeting ahead of the February 18, 2027 warrant deadline. During the 2026 cycle, the Select Board initially opposed CPA administrative funding due to open legacy projects, but reversed course to support the statutory appropriations article 4-0-1 after receiving updates on state matching funds and closeout requirements. The committee is conducting project reviews through the winter before voting on its final warrant articles in February 2027.",
+      "status_as_of": "2026-11-18",
       "positions": [
-        {
-          "body": "Select Board",
-          "stance": "support",
-          "detail": "Voted 4-0-1 on March 10, 2026, to recommend Article 22, reversing a prior 5-0 vote to oppose the $29,000 administrative appropriation."
-        },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Sponsored Article 22 to allocate statutory reserves and administrative funds, noting that legacy projects remain open because statutory signage is still pending."
+          "detail": "Sponsors the statutory reserve and administrative appropriations, and is preparing articles ahead of the February 2027 warrant deadline."
         },
         {
-          "body": "Public comment",
-          "stance": "neutral",
-          "detail": "Residents suggested standardizing CPA signage with QR codes to cut costs and reduce clutter, and urged clear milestones to avoid multi-year project delays."
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 4-0-1 on March 10, 2026 to support Article 22, reversing an earlier 5-0 vote of non-support after receiving explanations on project signage and matching funds."
         }
       ],
-      "next": "",
+      "next": "Community Preservation Committee meeting on December 17, 2026.",
       "significance": 4,
-      "status_fingerprint": "ef228a909f36ce32",
+      "status_fingerprint": "1578beb8ecdff8ab",
       "status_model": "gemini-3.8-flash"
     },
     "conservation-land-use-regulations": {
@@ -1402,24 +1397,29 @@
       "description": "Annual transfer of Community Preservation Act funds to support the Southborough Affordable Housing Trust.",
       "category": "Housing",
       "first_seen": "2026-04-06",
-      "last_seen": "2026-10-28",
-      "status": "Following Town Meeting's approval of a $61,000 transfer in April 2026, the Affordable Housing Trust is pursuing its next Community Preservation Act funding allocation. The application is currently under review by the Community Preservation Committee, which raised minor questions regarding survey data. Trust staff and members are preparing the updated data while coordinating with MassHousing Partnership on technical assistance and project financing.",
-      "status_as_of": "2026-10-28",
+      "last_seen": "2026-11-18",
+      "status": "The Affordable Housing Trust's FY28 funding application is under review by the Community Preservation Committee, following Town Meeting's approval of a $61,000 CPA transfer in April 2026. The committee has requested regular six-month financial updates regarding approximately $1 million in existing funds currently held by the Trust. The Trust is preparing revised application materials and updated endorsement letters incorporating technical assistance from the Massachusetts Housing Partnership.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Submitted a CPA funding application and is gathering updated survey data to answer technical review questions."
+          "detail": "Requested FY28 CPA funding and is updating its application with housing plan targets and survey data."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "undecided",
+          "detail": "Reviewing the Trust's FY28 application after requesting regular updates on the Trust's existing $1 million account balance."
         },
         {
           "body": "Town Meeting",
           "stance": "support",
-          "detail": "Voted by majority on April 11, 2026, to approve Article 25 transferring $61,000 to the trust."
+          "detail": "Voted by majority on April 11, 2026, to approve Article 25, transferring $61,000 to the Trust."
         }
       ],
       "next": "",
       "significance": 3,
-      "status_fingerprint": "baa860aced4b89f8",
+      "status_fingerprint": "5559965eb0d8fb68",
       "status_model": "gemini-3.8-flash"
     },
     "cpa-project-signage-program": {
@@ -1428,19 +1428,19 @@
       "description": "Development of townwide signage and markers for past and ongoing Community Preservation Act-funded projects.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-03-23",
-      "last_seen": "2026-10-08",
-      "status": "The Community Preservation Committee is developing standardized signage to recognize CPA contributions across past and ongoing project sites in town. The committee has finalized plaque language for the Town House and clarified specific sizing and placement guidelines for sites including Harold E. Fay Memorial Park, Mooney Field, and the Richardson Tennis Courts. Members also agreed not to add duplicate signage at the South Union School as they prepare to order signs.",
-      "status_as_of": "2026-10-08",
+      "last_seen": "2026-11-18",
+      "status": "Efforts to install standardized recognition signs at Community Preservation Act project sites are underway across Southborough. An interior plaque has been installed at the library, while exterior signs and markers for several other locations—including the Town House, Triangle Park, and town memorials—remain pending. The Community Preservation Committee is currently drafting formal signage instructions and an invoicing checklist to incorporate into its applicant handbook.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Is advancing standardized signage templates and finalizing wording and location plans across CPA-funded municipal properties."
+          "detail": "Is overseeing signage installation across town CPA sites and drafting standardized guidelines and templates for future applicants."
         }
       ],
       "next": "",
       "significance": 1,
-      "status_fingerprint": "88f82b304f892fb6",
+      "status_fingerprint": "e2728678c0d1fb60",
       "status_model": "gemini-3.8-flash"
     },
     "culvert-infrastructure-replacements": {
@@ -1600,28 +1600,33 @@
       "description": "Planning, community outreach, and design improvements for Fayville Memorial Park, including splash pad features and parking capacity.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-04",
-      "last_seen": "2026-11-12",
-      "status": "The Fayville Memorial Park improvement project is moving toward the March 2027 Annual Town Meeting after the town was awarded a state Land and Water Conservation Fund grant of up to $632,000 covering half of projected costs. The Recreation Commission plans to seek matching Community Preservation Act funding for the splash pad, dog park, and walking trail upgrades after withdrawing an earlier application to resolve site details. Outstanding questions involve legal considerations under Article 97 and finalizing a parking configuration along Central Street that avoids encroaching on park green space. The Recreation Commission plans to meet with the Select Board in December 2026 to finalize parking plans and legal approvals.",
-      "status_as_of": "2026-11-12",
+      "last_seen": "2026-11-18",
+      "status": "The town has secured an up to $632,000 state Land and Water Conservation Fund grant covering roughly half of the estimated $1.4 million Fayville Memorial Park redesign, which includes a splash pad, dog park, and walking trail. Because the grant is reimbursable, Town Meeting must appropriate the full project cost upfront through Community Preservation Act funds before state reimbursements are returned to town accounts. Design plans remain under review as officials resolve parking configurations along Central Street and open-space legal restrictions under Article 97. The proposal is slated for consideration at the March 20, 2027 Annual Town Meeting.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Champions the renovation and is finalizing Central Street parking plans after securing a state grant covering half the estimated project costs."
+          "detail": "Champions the redesign and is coordinating parking layout options, department approvals, and grant matching requirements ahead of the 2027 Annual Town Meeting."
+        },
+        {
+          "body": "Community Preservation Committee",
+          "stance": "undecided",
+          "detail": "Awaiting a revised funding application with finalized budget and contingency lines following the Select Board's parking review."
         },
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Received project updates but withheld action pending further engineering plans and legal review of Article 97 park protections and roadway parking designs."
+          "detail": "Examining proposed angled parking along Central Street, traffic considerations, and Article 97 legal questions regarding park encroachment."
         },
         {
           "body": "Public comment",
-          "stance": "mixed",
-          "detail": "Residents raised concerns about sightlines and speeding traffic with proposed Central Street parking, as well as oversight, operational rules, and fee policies for the planned dog park."
+          "stance": "oppose",
+          "detail": "A resident objected to angled street parking on Central Street, citing blind spots and vehicle speeds and suggesting alternate parking near the railroad tracks."
         }
       ],
-      "next": "Select Board review of Fayville Park parking layout and approvals in December 2026.",
-      "status_fingerprint": "9aaf1fe5bbec910b",
+      "next": "Select Board review of Central Street parking on December 2, 2026.",
+      "status_fingerprint": "7877f37ac007823d",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -1719,7 +1724,7 @@
       "description": "Operating budget planning, reserve transfers, and capital assessments for the Northborough-Southborough Regional School District for fiscal year 2027.",
       "category": "Schools",
       "first_seen": "2026-02-23",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-16",
       "status": "The Regional School Committee unanimously approved a revised $31,521,177 FY27 operating budget on October 29, 2026, incorporating an additional $104,890 in state Chapter 70 aid for special education transportation. The update, paired with finalized athletic complex debt figures, slightly reduced Southborough's assessment to $10,731,901. Both member towns have a statutory 45-day window to respond to the revised assessment notices.",
       "status_as_of": "2026-10-29",
       "positions": [
@@ -1943,22 +1948,22 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-18",
-      "status": "Plans for the Glow SoBo holiday lighting display and celebration are moving forward for early December. The Tricentennial Committee authorized a $10,456 contract for commercial exterior lighting of the Town House, library grounds, and nearby trees, and will fund permanent exterior electrical outlets on the library property. The Library Board of Trustees unanimously approved the outdoor lighting and electrical work, while deferring any decision on hosting indoor after-hours activities.",
-      "status_as_of": "2026-09-14",
+      "status": "The Tricentennial Committee and Library Board of Trustees have both approved exterior lighting and permanent outdoor electrical installations for the Glow SoBo winter celebration. The installation scope is currently being adjusted and re-priced after a planned tree at the Town House was removed, shifting work to two entrance shrubs and three library trees. A working group is obtaining updated pricing while electrical service connections are inspected ahead of the early December event.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on Aug 12 to approve a $10,456 contract for professional lighting on municipal buildings and grounds."
+          "detail": "Voted 6-0 on Aug 12 to authorize $10,456 for exterior lighting, and is now obtaining updated pricing to reflect an adjusted lighting scope."
         },
         {
           "body": "Library Board of Trustees",
           "stance": "support",
-          "detail": "Voted unanimously on Sep 14 to approve exterior holiday lighting and the installation of permanent outdoor electrical outlets."
+          "detail": "Voted unanimously on Sep 14 to approve exterior lighting displays and committee-funded permanent outdoor electrical outlets."
         }
       ],
       "next": "",
-      "status_fingerprint": "332b93a804ffeadd",
+      "status_fingerprint": "0b2e8a9bfba35b87",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -2799,44 +2804,44 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
       "last_seen": "2026-11-19",
-      "status": "Special Town Meeting approved $217,318 in supplemental Community Preservation Act funds for the 65-foot prefabricated pedestrian footbridge, bringing total project funding to $428,550 despite opposition from the Select Board and Advisory Committee. The Trails Committee is now preparing a state MassTrails grant application for up to $100,000 to offset CPA costs. Depending on whether grant funds are awarded, construction is expected to occur in late 2027 or early 2028.",
-      "status_as_of": "2026-11-19",
+      "status": "Town Meeting approved $217,318 in supplemental Community Preservation Act funds for the $428,550 pedestrian footbridge, overcoming opposition from both the Select Board and Advisory Committee. The Trails Committee is now seeking up to $100,000 from a state MassTrails grant to reduce town costs and reimburse the CPA fund. If the grant is awarded, contracting will take place by October 2027 with construction slated for early 2028; without it, bidding could begin in summer 2027.",
+      "status_as_of": "2026-11-12",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Promoted the project to close a walking gap along Route 30 and is currently preparing a $100,000 MassTrails grant application."
+          "detail": "Promoted the footbridge to close a dangerous walking gap on Route 30 and is applying for grant funding to offset project expenses."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on Oct 8 to advance Article 4 as printed, authorizing supplemental funds while requiring an application for matching grant money."
+          "detail": "Voted 3-2 on Oct 8 to keep the full supplemental funding article on the Town Meeting warrant as printed."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted 4-0 on Nov 12 to provide a formal letter of support for the town's MassTrails grant application."
+          "detail": "Voted 4-0 on Nov 12 to provide a letter of support for the town's MassTrails grant application."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on June 25 to send a letter of support for CPA funding after the scope was revised to remove the wetland boardwalk."
+          "detail": "Voted 5-0 on Jun 25 to support the revised bridge-only funding application."
         },
         {
           "body": "Select Board",
           "stance": "oppose",
-          "detail": "Voted 1-4 on Sep 24 against supporting Article 4, citing high project costs amid wider municipal operating budget pressures."
+          "detail": "Voted 1-4 on Sep 24 against supporting the warrant article, citing the high per-foot cost and competing budget needs."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 against recommending Article 4, citing concern over the total $428,550 cost and high contingency allowances."
+          "detail": "Voted 0-7 on Sep 16 to recommend against the appropriation, citing sticker shock over the $428,550 total cost and contingency levels."
         }
       ],
-      "next": "MassTrails grant application deadline on February 2, 2027.",
-      "status_fingerprint": "ccd50b100c72dd88",
+      "next": "MassTrails grant application deadline on February 2, 2027",
+      "status_fingerprint": "c56045f2602ced40",
       "status_model": "gemini-3.8-flash",
-      "significance": 5
+      "significance": 4
     },
     "personal-property-tax-exemption": {
       "id": "personal-property-tax-exemption",
@@ -3067,7 +3072,7 @@
       "description": "Planning, religious holiday observance, and vacation structure for the 2027-2028 regional school year calendar.",
       "category": "Schools",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-16",
       "status": "The regional and local school committees are reviewing the framework for the 2027–2028 academic calendar, focusing on religious holiday observances and the final day of classes. Members are evaluating whether to maintain the current holiday schedule, remove certain religious holidays, or adjust vacations and start dates so winter snow days do not push the school year late into June. The administration plans to gather staff and family feedback this fall before presenting formal options on December 2, 2026.",
       "status_as_of": "2026-09-16",
       "positions": [
@@ -3290,28 +3295,23 @@
       "description": "Proposed structural evaluation, restoration, and Community Preservation Act funding for the historic stone water tower in Rural Cemetery.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-08",
-      "last_seen": "2026-08-03",
-      "status": "The proposed Community Preservation Act funding application to restore the historic Rural Cemetery stone water tower has been deferred to the spring 2027 Annual Town Meeting round. The delay allows the project consultant time to complete necessary architectural documentation, bid specifications, and a maintenance schedule. A previous concept to adapt the tower interior into a columbarium has been dropped after the Cemetery Committee showed no interest.",
-      "status_as_of": "2026-08-03",
+      "last_seen": "2026-11-18",
+      "status": "The proposed Community Preservation Act application to restore the Rural Cemetery stone water tower is under review and deferred to the 2027 Annual Town Meeting. Proponents are completing documentation on masonry, woodwork, historic standards, and bid specifications, but an outstanding consultant report has delayed formal review. The Cemetery Committee confirmed it does not wish to repurpose the tower interior as a columbarium. The Community Preservation Committee will take up the proposal once documentation and staff are available.",
+      "status_as_of": "2026-11-18",
       "positions": [
-        {
-          "body": "Historical Commission",
-          "stance": "support",
-          "detail": "Is advancing a CPA application for a structural restoration study, historic documentation, and bid specifications for the tower."
-        },
         {
           "body": "Community Preservation Committee",
           "stance": "undecided",
-          "detail": "Agreed on Aug 3 to defer review of the application to the spring funding round to accommodate consultant preparation time."
+          "detail": "Deferred discussion to December while awaiting a completed contractor report, targeting the spring 2027 Annual Town Meeting."
         },
         {
           "body": "Cemetery Committee",
           "stance": "neutral",
-          "detail": "Confirmed it has no interest in repurposing the interior of the water tower as a columbarium."
+          "detail": "Confirmed it has no interest in utilizing the tower interior for a columbarium."
         }
       ],
-      "next": "",
-      "status_fingerprint": "1f65d4fc7b5cc8d5",
+      "next": "Community Preservation Committee meeting in December 2026",
+      "status_fingerprint": "798a91483ddf7201",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -3404,7 +3404,7 @@
       "description": "Bus operations, safety tracking technologies, and vendor performance oversight with contractor NRT.",
       "category": "Schools",
       "first_seen": "2026-05-11",
-      "last_seen": "2026-05-13",
+      "last_seen": "2026-11-16",
       "status": "School bus operations under contractor NRT have stabilized, with live security cameras and turn-by-turn GPS active, though student RFID tap cards have faced rollout delays. The school district administration moved to assess contract penalties against NRT to withhold payment for delayed technology deliverables. The Southborough School Committee received the operational update without taking a formal vote, and no further public reviews are currently scheduled.",
       "status_as_of": "2026-05-13",
       "positions": [],
@@ -3492,7 +3492,7 @@
       "description": "Contract administration, financial performance, and annual renewals for district food services with Whitsons Culinary Group.",
       "category": "Schools",
       "first_seen": "2026-05-11",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-16",
       "status": "District food services by Whitsons Culinary Group are currently operating under one-year contract extensions for the 2026-2027 school year following approvals by both school committees in May. While the Southborough School Committee renewed unanimously, the Regional School Committee approved its renewal only on reconsideration after an initial vote failed over meal quality, staff morale, and financial deficits. Whitsons has since appointed new district general management and adjusted menus in response to student surveys and cafeteria concerns. District administration is currently evaluating vendor performance and will present a data-driven evaluation report and financial update in December 2026.",
       "status_as_of": "2026-11-09",
       "positions": [
@@ -3965,22 +3965,22 @@
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
       "last_seen": "2026-11-17",
-      "status": "The town is undertaking a scheduled website refresh with vendor CivicPlus, consolidating standalone departmental pages such as the Senior Center into the main municipal platform. The Municipal Technology Committee has noted the need for dedicated communications expertise and web analytics to guide the overhaul. Additionally, the Affordable Housing Trust voted in October to request Select Board approval to add dedicated pages promoting housing education and soliciting property donations.",
-      "status_as_of": "2026-10-28",
+      "status": "The municipal website overhaul with vendor CivicPlus is underway following a planned fall kickoff, with the Municipal Technology Committee reviewing communications support, user analytics, and automated crawler access. Open questions remain regarding whether the town will hire dedicated communications staff and how to handle accessibility for artificial intelligence agents navigating public documents. Separately, the Affordable Housing Trust has requested Select Board permission to add dedicated educational and property donation pages to the site.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Municipal Technology Committee",
-          "stance": "support",
-          "detail": "Overseeing the CivicPlus refresh and site consolidation while recommending the town use web analytics and dedicated communications staff to manage outward content."
+          "stance": "neutral",
+          "detail": "Guiding the website overhaul and tech roadmap while planning to discuss open government accessibility and AI crawler policies with the technology director in January."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 28 to request Select Board authorization for municipal web pages focused on housing education and property donation outreach."
+          "detail": "Voted 4-0 on Oct 28 to request Select Board authorization to add dedicated pages for housing education and property donation outreach."
         }
       ],
-      "next": "",
-      "status_fingerprint": "f634512d07c11512",
+      "next": "Municipal Technology Committee discussion with the technology director on website accessibility in January 2027",
+      "status_fingerprint": "3970c43cfe17a889",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -4012,17 +4012,17 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-18",
-      "status": "Planning for the 2027 Tricentennial antique firefighter's muster is underway with an approved budget of $25,000. Eight regional hand tub teams have confirmed participation out of an expected 16 to 20, and catering and live entertainment have been booked. Organizers are currently restoring Southborough's two historic hand tubs and are preparing site and parking layouts for review.",
-      "status_as_of": "2026-10-14",
+      "status": "Planning is underway for the 2027 antique firefighter's muster, supported by an approved budget of up to $25,000. The Fire Department has agreed to supply water via tanker rig to fill the hand tub pumping basin, and organizers are coordinating entertainment, vendors, and participating squads. The draft field layout and operational logistics will next be submitted to town facilities and public safety staff for review.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Voted 6-0 on June 10, 2026, to approve a budget up to $25,000 and is actively reviewing event logistics."
+          "detail": "Voted 6-0 on Jun 10 to authorize up to $25,000 for the muster and is actively coordinating event logistics and site planning."
         }
       ],
       "next": "",
-      "status_fingerprint": "57875f967ccf3969",
+      "status_fingerprint": "27f0d408c6646be1",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4033,22 +4033,22 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-19",
-      "status": "Planning is moving forward for Southborough's January 1, 2027 Tricentennial kickoff celebration, which will feature a 200-drone light show, outdoor barrel fires, and commemorative stone distributions. The Tricentennial Committee has authorized event logistics and a four-officer police detail, while the Trails Committee is planning an affiliated midday historical walk starting at the Senior Center. Organizers are also coordinating potential participation criteria with representatives from the Hassanamisco Nipmuc Band ahead of the event.",
+      "status": "Planning for Southborough's January 1, 2027 Tricentennial kickoff celebration is proceeding after the Tricentennial Committee authorized organizers to finalize event logistics, police details, and outdoor barrel fires. The celebration will feature a 200-drone aerial light show, commemorative stones, and participation by the Hassanamisco Nipmuc Band. The Trails Committee is also preparing a companion midday historical trail walk originating at the Senior Center. The events remain on track for New Year's Day 2027.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Authorized organizers on Nov 18 to proceed with event logistics and police details for the celebration."
+          "detail": "Authorized organizers on Nov 18, 2026, to proceed with event arrangements, police coverage, and outdoor barrel fires."
         },
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Agreed on Nov 19 to coordinate logistics with the Tricentennial Committee to host a guided historical trail walk."
+          "detail": "Agreed on Nov 19, 2026, to coordinate logistics for a guided historical kickoff trail walk."
         }
       ],
-      "next": "First Day celebration on January 1, 2027",
-      "status_fingerprint": "65536909afb1c171",
+      "next": "First Day Tricentennial kickoff celebration and guided trail walk on January 1, 2027",
+      "status_fingerprint": "a93f9eb5920632d7",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4158,17 +4158,17 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-18",
-      "status": "Planning is underway to expand the annual Summer Nights event into a full-day music festival at the Neary School grounds on August 21, 2027, to celebrate Southborough's Tricentennial. Organizers are finalizing headliner contracts and examining property parcel boundaries to determine whether a beer garden could be permitted under school alcohol policies. Working group organizers will next coordinate staging, permitting, and site layout with police, fire, recreation, and town administration.",
-      "status_as_of": "2026-10-14",
+      "status": "Plans to expand Summer Nights into an all-day music festival for the town's 2027 Tricentennial remain under active development. Music staging arrangements are awaiting the finalization of a contract with the headlining act. Organizers are also coordinating with public safety departments on site layout and reviewing property boundaries to evaluate permit options for a potential beer garden near school grounds.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Supports expanding the 2027 event with multiple musical acts, food trucks, and fireworks, and is coordinating logistics and grant funding."
+          "detail": "Actively planning the expanded August 21, 2027 festival and working to finalize performer contracts, accessibility funding, and site logistics."
         }
       ],
       "next": "",
-      "status_fingerprint": "030cb89e0586ca35",
+      "status_fingerprint": "46d0d8c645d9afa1",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4179,17 +4179,17 @@
       "category": "Library, arts & community",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-18",
-      "status": "The Tricentennial Committee is moving forward with plans for a 2-foot cube commemorative time capsule designated for indoor storage at the Harvard Depository to avoid water damage. Working groups are preparing formal invitations to local civic organizations, clubs, and schools to submit historical artifacts and archival-grade photo prints. Boy Scout Troop 1 has volunteered to help coordinate item collection.",
-      "status_as_of": "2026-10-14",
+      "status": "The Tricentennial Committee is preparing plans for a 300th anniversary time capsule measuring approximately two feet cubed, slated for indoor storage at the Harvard Depository. A working group is drafting submission criteria that combine physical artifacts, archival-grade digital media, and an oral history project. Next steps include outreach to historic local businesses and community groups, alongside setting a formal acquisition schedule.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Tricentennial Committee",
           "stance": "support",
-          "detail": "Supports an archival-grade capsule stored indoors at the Harvard Depository and is preparing to solicit submissions from local organizations."
+          "detail": "Actively planning an indoor-stored commemorative capsule featuring physical artifacts, archival digital media, and oral history contributions."
         }
       ],
-      "next": "",
-      "status_fingerprint": "7b245c7955d4ec3c",
+      "next": "Time capsule working group first formal meeting by December 2, 2026",
+      "status_fingerprint": "36064e742ee23c25",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -4365,23 +4365,28 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-14",
       "last_seen": "2026-11-18",
-      "status": "Proposed zoning bylaw amendments to align local rules with recent changes to the state Zoning Act are under review ahead of the 2027 Annual Town Meeting. The Zoning Board of Appeals brought forward draft articles addressing non-conforming structures, variance criteria, and abandonment timelines. The Planning Board raised concerns that certain wording could inadvertently expand commercial development rights, and both boards agreed to refine the draft language before a formal hearing scheduled for December 14, 2026.",
-      "status_as_of": "2026-11-16",
+      "status": "Proposed zoning bylaw amendments aligning local regulations with state Chapter 40A updates are under review ahead of the 2027 Annual Town Meeting. The Zoning Board of Appeals is sponsoring the changes, while the Planning Board is reviewing the draft to ensure it does not exceed state mandates. The primary concern is whether proposed language for preexisting nonconforming structures inadvertently expands expansion rights for commercial properties rather than solely residential uses. The Planning Board will open a formal public hearing on the articles on December 14, 2026.",
+      "status_as_of": "2026-11-18",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Drafted and advanced warrant articles aligning local bylaws with Chapter 40A revisions on variances and non-conforming structures for the 2027 Annual Town Meeting."
+          "detail": "Drafted and advanced the proposed warrant articles to align town bylaws with state statutory changes on nonconforming lots, abandonment timelines, and variance standards."
         },
         {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Urged caution that deleting specific residential phrasing could unintentionally broaden commercial expansion rights, agreeing to collaborate with the ZBA on revised language."
+          "detail": "Reviewing the language alongside the ZBA, cautioning against drafting changes that could unintentionally grant commercial properties expanded expansion rights."
+        },
+        {
+          "body": "Public comment",
+          "stance": "mixed",
+          "detail": "A resident asked that amendments for nonconforming structures be narrowed strictly to residential uses to prevent commercial structures from expanding by right."
         }
       ],
       "next": "Planning Board public hearing on December 14, 2026.",
       "significance": 5,
-      "status_fingerprint": "b779abefc45acd1c",
+      "status_fingerprint": "36a85c33086c0b05",
       "status_model": "gemini-3.8-flash"
     }
   }

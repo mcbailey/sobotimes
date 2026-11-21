@@ -1,73 +1,73 @@
 {
-  "headline": "Town boards split sharply on Special Town Meeting spending articles as Neary School narrowed building options and Costco hearings began.",
-  "synopsis": "In September, Southborough boards positioned themselves for the October Special Town Meeting, revealing stark divides between town committees over spending. The Select Board and Community Preservation Committee endorsed $433,546 in CPA funds for golf course irrigation, but the Advisory Committee unanimously rejected it and joined the Select Board in opposing additional funds for the Peninsula Trail footbridge. Meanwhile, the Elementary School Building Committee eliminated an exterior gym addition for Neary Elementary School, narrowing focus to renovation plans and a $15 million baseline repair scope. The Planning Board opened public hearings on Costco's proposed 167,000-square-foot retail warehouse and 15-pump gas station, confronting questions over traffic and loading dock noise. Across town departments, officials began preparing dual FY28 budget scenarios in anticipation of a potential operational tax override in the spring.",
+  "headline": "Southborough boards set warrant articles for Special Town Meeting, launched reviews for a proposed Costco, and narrowed Neary School building options.",
+  "synopsis": "In September, Southborough boards focused on finalizing warrant articles for the October Special Town Meeting, revealing deep divisions over Community Preservation Act funding for golf course irrigation and a pedestrian trail bridge. The Planning Board opened public hearings on a proposed 167,000-square-foot Costco warehouse and 30-dispenser fueling station along Coslin Drive, drawing resident and board questions regarding regional traffic and noise. Meanwhile, the Elementary School Building Committee eliminated an exterior addition concept for Neary School and focused design work on courtyard gym additions and maintenance baselines. Town departments also began preparing two-tiered FY28 budget proposals, projecting service and staffing reductions if an anticipated tax override fails. Additionally, the Select Board appointed Amy Berry as interim town clerk, while school committees approved a retroactive market salary adjustment for the superintendent.",
   "top_items": [
     {
-      "title": "Neary School Building Committee narrows design options",
-      "why": "The committee voted to eliminate Option 4 and focus consultants on Option 1, Option 3, and a $15 million baseline repair scope.",
-      "body": "With initial cost projections ranging between $24.4 million and $49.2 million, the Elementary School Building Committee voted 3-1 to drop Option 4 (an exterior gym addition) due to difficult soil conditions and site costs. The committee directed architects to focus on Option 1, Option 3 (enclosing the courtyard for a 400-seat gym), and a scoped $15 million baseline repair option. Educators and staff expressed strong support for Option 3, which satisfies district programming needs while preserving existing athletic fields.",
-      "importance": "high",
-      "video_id": "QmtBoOh20QA",
-      "start_seconds": 1324,
-      "issue": "neary-school-building-project"
-    },
-    {
-      "title": "Advisory Committee and Select Board split on golf irrigation funding",
-      "why": "The Advisory Committee voted 0-7 against recommending $433,546 in CPA funds for golf irrigation, while the Select Board voted 5-0 in favor.",
-      "body": "Bids to replace the failing irrigation system at the Southborough Golf Club came in well above original estimates, driving total project costs to nearly $1.09 million. The proposal seeks $433,546 from the Community Preservation Act alongside $100,000 from the Golf Course Revolving Fund. The Advisory Committee strongly opposed the measure, arguing that the self-sustaining course should rely on user fees rather than town CPA funds, while the Select Board and CPC endorsed the funding article for Special Town Meeting.",
-      "importance": "high",
-      "video_id": "kC-X75Msc0s",
-      "start_seconds": 1735,
-      "issue": "southborough-golf-club-irrigation"
-    },
-    {
-      "title": "Peninsula Trail bridge funding faces united board opposition",
-      "why": "Both the Select Board (1-4) and the Advisory Committee (0-7) voted against recommending $217,318 in additional CPA funding for the pedestrian footbridge.",
-      "body": "The Southborough Trails Committee requested $217,318 in supplemental CPA funds to build a 65-foot prefabricated pedestrian footbridge along Route 30, bringing the total project cost to $428,550 after earlier bids exceeded original estimates. Although supported 5-0 by the Community Preservation Committee, the article met stiff resistance from the Select Board and Advisory Committee over cost escalation during a constrained fiscal environment. The Trails Committee plans voter outreach and may seek to extend existing unspent funds before the deadline.",
-      "importance": "high",
-      "video_id": "kC-X75Msc0s",
-      "start_seconds": 2340,
-      "issue": "peninsula-trail-phase-2"
-    },
-    {
       "title": "Planning Board opens hearing on Coslin Drive Costco proposal",
-      "why": "Costco presented plans for a 167,000-square-foot warehouse and 15-pump gas station, drawing scrutiny over traffic and noise.",
-      "body": "The Planning Board began reviewing major site plan and special permit applications for the 26.12-acre parcel at 21 Coslin Drive, spanning Southborough and Westborough. The project proposes a 167,000-square-foot retail building and a fueling station with 30 dispensing positions, along with stormwater wetlands and 36-foot dark-sky lighting. Board members and residents raised concerns over regional traffic congestion on Route 9, truck delivery routes, and loading dock noise impacting nearby neighborhoods.",
+      "why": "Costco submitted applications for a 167,000-square-foot warehouse and 30-position gas station spanning Southborough and Westborough.",
+      "body": "The Planning Board opened public hearings for major site plan approval and special permits for the project on 26.12 acres at 21 Coslin Drive. Representatives outlined the site layout, grading, stormwater wetlands, dark-sky compliant lighting, and traffic generation. Board members and residents questioned consultants on traffic congestion, intersection level of service along Route 9, truck delivery routes, and loading dock noise before the hearing was continued to October 19.",
       "importance": "high",
       "video_id": "hCwuB4U1qOk",
       "start_seconds": 1914,
       "issue": "21-coslin-drive-costco"
     },
     {
-      "title": "Two-family zoning amendment advances to Special Town Meeting",
-      "why": "The Select Board and ZBA endorsed eliminating the two-year wait for two-family conversions, while Advisory recommended disapproval.",
-      "body": "Article 2 proposes removing the mandatory two-year waiting period to convert single-family homes into two-family dwellings and establishes zoning definitions to regulate new construction by special permit. The Advisory Committee voted 3-4 against recommending the measure due to concerns regarding neighborhood density, municipal services, and septic limits. The Select Board unanimously backed a revised draft after the ZBA cleaned up definitions, but the Planning Board continued its public hearing to October 17 to review potential floor amendments addressing district lot size rules.",
+      "title": "Neary building committee eliminates Option 4, narrows project design",
+      "why": "Preliminary cost estimates ranging from $24.4 million to $49.2 million prompted the committee to narrow project designs.",
+      "body": "Following review of preliminary cost analyses and site evaluations, the Elementary School Building Committee voted 3-1 to eliminate Option 4, which proposed an exterior gym addition over poor soils and high groundwater. The committee voted 4-0 to direct architects to focus remaining design work on Option 1 (code and maintenance upgrades), Option 3 (interior renovations enclosing the courtyard for a gymnasium), and an analysis of a $15 million baseline scope.",
+      "importance": "high",
+      "video_id": "QmtBoOh20QA",
+      "start_seconds": 1324,
+      "issue": "neary-school-building-project"
+    },
+    {
+      "title": "Advisory Committee rejects CPA funding for golf and trails",
+      "why": "The Advisory Committee voted 0-7 against recommending CPA funds for both municipal golf course irrigation and the Peninsula Trail footbridge.",
+      "body": "Town boards split sharply over Community Preservation Act articles heading to the October 17 Special Town Meeting. While the Community Preservation Committee recommended $433,546 for golf course irrigation and $217,318 for the Peninsula Trail footbridge, the Advisory Committee voted unanimously against both, arguing the golf course should be self-funded and trail costs were too high. The Select Board backed the golf irrigation article 5-0 but opposed the footbridge 1-4.",
       "importance": "high",
       "video_id": "kC-X75Msc0s",
-      "start_seconds": 1064,
+      "start_seconds": 1735,
+      "issue": "southborough-golf-club-irrigation"
+    },
+    {
+      "title": "Boards deliberate two-family dwelling zoning bylaw amendment",
+      "why": "The proposed bylaw would eliminate the two-year waiting period to convert a single-family house into a two-family dwelling or build new two-family housing.",
+      "body": "Town boards reviewed proposed zoning changes for Article 2 on the Special Town Meeting warrant. The Select Board endorsed the measure 4-1 (and later 5-0 on revised text), while the Zoning Board of Appeals cleared updated wording removing references to duplexes and townhouses. However, the Advisory Committee voted 3-4 against recommending approval over density and municipal service concerns, and the Planning Board continued its public hearing to October 17.",
+      "importance": "high",
+      "video_id": "uogPth-Nky8",
+      "start_seconds": 504,
       "issue": "two-family-zoning-amendment"
     },
     {
-      "title": "Departments model dual FY28 budgets facing projected deficit",
-      "why": "The Personnel Board recommended a 5% salary increase while departments were directed to prepare both level-service and flat budgets.",
-      "body": "Facing an operating deficit projected to exceed $2 million, Southborough departments began assembling dual budget submissions for FY28 ahead of an earlier March Town Meeting. Budget A models level services including a 5% total wage increase (3% COLA plus 2% steps) recommended by the Personnel Board, anticipating a potential spring tax override. Budget B models a zero-growth freeze that would force staff reductions and line-item cuts in departments such as the Library, Health, and Conservation.",
+      "title": "Departments model cuts under potential FY28 override failure",
+      "why": "Town administration directed departments to submit two budget scenarios ahead of an anticipated spring Proposition 2 1/2 override vote.",
+      "body": "Town boards and departments began assembling FY28 budget requests under dual scenarios. Budget A models level services, while Budget B illustrates zero-increase constraints if an override fails. The Library Board of Trustees reviewed Budget B scenarios eliminating programming, travel, and half of subscriptions, while the Board of Health examined reducing staff hours and travel. Separately, the Personnel Board recommended a 3% COLA plus 2% step increment for a 5% total salary adjustment.",
       "importance": "high",
-      "video_id": "TKelgkz3FaU",
-      "start_seconds": 568,
+      "video_id": "TwiZfHm90lU",
+      "start_seconds": 170,
       "issue": "fy28-operating-budget"
     },
     {
-      "title": "School committees approve $22,750 salary adjustment for superintendent",
-      "why": "All four school committees voted to grant Superintendent Gregory Martineau a $22,750 market correction to his base salary.",
-      "body": "Meeting jointly, the Southborough, Northborough, Regional, and Superintendency Union No. 3 committees approved a $22,750 base salary adjustment for Superintendent Gregory Martineau for 2026-2027, increasing his salary to $270,213 retroactive to July 1. Officials stated the raise will be absorbed within existing operating budgets. In the same meeting, Algonquin Regional High School administration announced it paused the planned rollout of the Doorman geofencing mobile app for student cell phone enforcement following privacy concerns.",
-      "importance": "medium",
+      "title": "Amy Berry appointed interim town clerk through May 2027",
+      "why": "The Select Board unanimously appointed Amy Berry to fill the vacancy left by Jim Hegarty's departure.",
+      "body": "The Select Board voted 5-0 to appoint Amy Berry as interim town clerk from October 1, 2026, through May 11, 2027. Berry previously served as Southborough deputy town clerk for six years and as Grafton town clerk. The board also advanced a warrant article for the October Special Town Meeting to transition the town clerk role from an elected office to an appointed position, subject to voter approval at the May 2027 election.",
+      "importance": "high",
+      "video_id": "6vLlCQSNejs",
+      "start_seconds": 131,
+      "issue": "appointed-town-clerk"
+    },
+    {
+      "title": "School committees approve salary adjustment for superintendent",
+      "why": "Four school committees approved a market correction raising Gregory Martineau's base salary to $270,213 for the 2026-2027 school year.",
+      "body": "Following an executive session, the Southborough School Committee, Northborough School Committee, Regional School Committee, and Superintendency Union No. 3 voted to grant Superintendent Gregory Martineau a $22,750 retroactive base salary increase. The committees also unanimously approved Martineau's 2026-2027 evaluation goals, which focus on district leadership transitions and major capital projects, including the Neary School building study.",
+      "importance": "high",
       "video_id": "0LLuaA1JXz0",
       "start_seconds": 6742,
       "issue": "regional-superintendent-evaluation-and-contract"
     }
   ],
   "month": "2026-09",
-  "fingerprint": "63a2e6a2258526dc",
+  "fingerprint": "45d78e5b9a318483",
   "video_ids": [
     "0LLuaA1JXz0",
     "3Fu66bBPayE",
@@ -99,5 +99,5 @@
     "uogPth-Nky8"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-10-19T15:15:56Z"
+  "generated_at": "2026-11-21T18:37:54Z"
 }
