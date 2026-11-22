@@ -503,37 +503,37 @@
       "category": "Housing",
       "first_seen": "2026-04-27",
       "last_seen": "2026-10-08",
-      "status": "The Zoning Board of Appeals approved a Chapter 40B comprehensive permit in May 2026 for a 32-unit rental townhouse development, but vertical construction cannot begin until wastewater and environmental permits are secured. The Conservation Commission's review of the project's Notice of Intent is ongoing and awaiting an environmental peer review report. Although the Board of Health granted a septic pump chamber variance in September 2026, the overall wastewater replacement plan still requires state and conservation approvals.",
-      "status_as_of": "2026-10-08",
+      "status": "The Zoning Board of Appeals unanimously approved a Chapter 40B comprehensive permit for the 32-unit rental townhouse development in May 2026, but the project remains under local environmental review. The Conservation Commission continues to review the Notice of Intent while awaiting an environmental peer review report. Meanwhile, the Board of Health approved a septic pump chamber setback variance in September 2026. The Conservation Commission is scheduled to resume its hearing on December 10, 2026.",
+      "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted unanimously on May 6, 2026, to approve the comprehensive permit with revised conditions and waivers for the 32-unit project."
+          "detail": "Voted unanimously on May 6, 2026, to approve comprehensive permit conditions and waivers for the 32-unit development."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Continued the Notice of Intent hearing on Oct 8, 2026, while awaiting a peer review report from Lucas Environmental."
+          "detail": "Continues to review the Notice of Intent for the townhouses pending completion of a peer review report by Lucas Environmental."
         },
         {
           "body": "Board of Health",
           "stance": "support",
-          "detail": "Voted 2-1 on Sep 15, 2026, to grant a foundation setback variance for the project's septic pump chamber subject to a vapor barrier condition."
+          "detail": "Voted 2-1 on September 15, 2026, to grant a 6-foot foundation setback variance for a replacement septic pump chamber with a vapor barrier condition."
         },
         {
           "body": "Planning Board",
-          "stance": "oppose",
-          "detail": "Sent comments to the ZBA citing unaddressed concerns about property boundary shifts, tree discrepancies, and site plan noncompliance."
+          "stance": "mixed",
+          "detail": "Flagged concerns in March 2026 regarding site plan compliance, property boundaries, and tree labeling, asking the ZBA to condition approval on site plan modification."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Abutters urged the town to downsize the project to 28 units, verify financial waivers, and mandate six-foot privacy fencing and stormwater protections near the Sudbury Reservoir watershed."
+          "detail": "Abutters voiced concerns over stormwater, tree loss, and septic placement in the Sudbury Reservoir watershed, urging privacy fencing and a reduction to 28 units."
         }
       ],
-      "next": "",
-      "status_fingerprint": "2df94897dc1fda6f",
+      "next": "Conservation Commission continued public hearing on December 10, 2026.",
+      "status_fingerprint": "182083288b95f53c",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1008,18 +1008,18 @@
       "category": "Schools",
       "first_seen": "2026-09-14",
       "last_seen": "2026-11-16",
-      "status": "The planned rollout of the Doorman geofencing mobile app at Algonquin Regional High School is on indefinite hold due to technical delays and concerns regarding student privacy and surveillance. In the interim, the high school continues to require that cell phones be kept off and away in classroom canvas caddies. School administration is seeking additional student and community feedback through a steering committee while monitoring stalled state legislation on school cell phone bans.",
-      "status_as_of": "2026-09-16",
+      "status": "Algonquin Regional High School has decided against adopting the Doorman geofencing app for the 2026–2027 school year, keeping its classroom-based pouch system in place instead. Regional school committees have received informational updates on cell phone management but have taken no formal action on the protocol. The decision to abandon the tracking tool followed software reliability issues and pushback from students and parents regarding data privacy and surveillance. District staff plan to send communications to families on cell phone norms and continue developing digital wellness resources with regional partners.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Public comment",
-          "stance": "oppose",
-          "detail": "Speakers, including parents and an Algonquin student, opposed the Doorman app and supported halting its rollout, citing data privacy, cybersecurity risks, and school committee oversight."
+          "stance": "mixed",
+          "detail": "Speakers strongly opposed the Doorman tracking app over student privacy, data security, and governance concerns, while voicing support for the classroom phone pouches."
         }
       ],
       "next": "",
-      "significance": 4,
-      "status_fingerprint": "beadc6b535a14086",
+      "significance": 3,
+      "status_fingerprint": "bd66559d1e67a9c1",
       "status_model": "gemini-3.8-flash"
     },
     "appointed-town-clerk": {
@@ -1725,18 +1725,18 @@
       "category": "Schools",
       "first_seen": "2026-02-23",
       "last_seen": "2026-11-16",
-      "status": "The Regional School Committee unanimously approved a revised $31,521,177 FY27 operating budget on October 29, 2026, incorporating an additional $104,890 in state Chapter 70 aid for special education transportation. The update, paired with finalized athletic complex debt figures, slightly reduced Southborough's assessment to $10,731,901. Both member towns have a statutory 45-day window to respond to the revised assessment notices.",
-      "status_as_of": "2026-10-29",
+      "status": "The Northborough-Southborough Regional School District's FY27 budget stands at $31,521,177 following an October 29 re-vote that incorporated increased Chapter 70 state aid and slightly reduced Southborough's assessment to $10,731,901. Through October 31, the district had a remaining operating balance of $615,099, with the Regional School Committee voting on November 16 to accept $549,702 in grants and cover overexpended functional lines. Member towns have a statutory 45-day window from the re-vote to respond to the revised assessments.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Northborough-Southborough Regional School Committee",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 29 to adopt the revised $31,521,177 budget and lower town assessments following an increase in Chapter 70 aid."
+          "detail": "Unanimously re-voted the revised $31.5 million FY27 budget on Oct 29 and approved grant allocations and line-item budget adjustments on Nov 16."
         }
       ],
       "next": "",
       "significance": 5,
-      "status_fingerprint": "5af8deb6f416c3eb",
+      "status_fingerprint": "56878c5d73d06eef",
       "status_model": "gemini-3.8-flash"
     },
     "fy27-road-paving-contracts": {
@@ -1845,52 +1845,52 @@
       "category": "Budget & taxes",
       "first_seen": "2026-07-06",
       "last_seen": "2026-11-17",
-      "status": "The town is reviewing FY28 departmental operating requests and evaluating reserve funds to address a budget shortfall while considering a potential Proposition 2 1/2 override. Most departments have submitted two budget scenarios—level-service Budget A and contingency Budget B—with several boards warning that an override failure would trigger cuts to staff hours and municipal services. The Advisory Committee has urged caution regarding a multi-year override, advocating instead for stricter spending controls, hiring freezes, and alternative borrowing for pension liabilities. The Select Board continues reviewing departmental budget memos ahead of finalizing its budget recommendation in January.",
+      "status": "Town officials are preparing the fiscal year 2028 operating budget while considering whether to place a Proposition 2 1/2 operational override on the spring 2027 ballot. Departments have submitted two budget tracks: a level-services Budget A assuming an override passes, and a reduced Budget B absorbing service and staffing cuts if it fails. The Select Board is currently examining reserve fund balances to offset projected deficits and exploring bundled warrant presentation models to help voters evaluate options. The board will continue hearings with department heads in December before finalizing a recommended budget in January 2027.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Select Board",
           "stance": "undecided",
-          "detail": "Reviewing departmental operating budgets and analyzing town reserve funds to bridge the deficit while evaluating potential override options."
+          "detail": "Reviewing departmental submissions, potential reserve fund offsets, and warrant presentation formats ahead of a planned budget vote in January 2027."
         },
         {
           "body": "Advisory Committee",
           "stance": "mixed",
-          "detail": "Urged caution regarding large multi-year overrides, recommending tighter fiscal controls, a hiring freeze, and exploring debt exclusion borrowing for pensions."
-        },
-        {
-          "body": "Personnel Board",
-          "stance": "support",
-          "detail": "Voted unanimously on Oct 30 to approve its FY28 budget requests and recommended a 5% total salary adjustment."
-        },
-        {
-          "body": "Board of Health",
-          "stance": "support",
-          "detail": "Voted 3-0 on Oct 20 to approve its budget and an impact memo warning that level-funded Option B would cut staff hours and close offices on Fridays."
+          "detail": "Urged caution on large multi-year overrides, advocating for productivity plans, hiring freezes, and alternative borrowing mechanisms for pension liabilities."
         },
         {
           "body": "Southborough School Committee",
           "stance": "support",
-          "detail": "Voted 5-0 on Oct 14 to approve FY28 budget priorities to guide the administration's budget build."
+          "detail": "Voted 5-0 on October 14 to approve its FY28 budget priorities to guide the district's preliminary budget build."
+        },
+        {
+          "body": "Personnel Board",
+          "stance": "support",
+          "detail": "Voted unanimously on October 30 to approve its Budget A and B requests after recommending a 5% total salary grid adjustment in September."
+        },
+        {
+          "body": "Board of Health",
+          "stance": "support",
+          "detail": "Voted 3-0 on October 20 to approve its $329,835 budget request alongside a contingency scenario that would reduce staff hours and town flu clinics."
         },
         {
           "body": "Library Board of Trustees",
           "stance": "support",
-          "detail": "Voted 6-0 on Oct 5 to approve its budget, cautioning that an override failure would eliminate programming and cut subscriptions by more than half."
+          "detail": "Voted 6-0 on October 5 to approve its FY28 operating budget while cautioning that an override failure would eliminate programming and staff training."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on Oct 7 to approve its FY28 operating budget request of $4,250."
+          "detail": "Voted unanimously on October 7 to approve its FY28 operating budget request of $4,250."
         },
         {
           "body": "Conservation Commission",
-          "stance": "undecided",
-          "detail": "Deferred action after expressing frustration that town guidance for Budget B would require reducing the conservation agent's hours."
+          "stance": "mixed",
+          "detail": "Expressed frustration in September over contingency guidelines requiring staff hour reductions, postponing formal action to submit an explanatory memo."
         }
       ],
       "next": "Select Board review of departmental budget memos and meetings with department heads on December 2, 2026.",
-      "status_fingerprint": "cc91b81a4157b708",
+      "status_fingerprint": "335ebd76d657f8b6",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1901,23 +1901,18 @@
       "category": "Schools",
       "first_seen": "2026-10-05",
       "last_seen": "2026-11-16",
-      "status": "The Northborough-Southborough Regional School District is developing its FY28 operating budget and capital improvement plan under municipal tax cap constraints in both member towns. Administrators are preparing alternative budget models, including level-service and level-funded options, while seeking an estimated $600,000 in regional savings through employee health insurance restructuring. Southborough is also assessing its 38.98% share of $450,000 to $500,000 in proposed regional capital projects for Algonquin Regional High School. The regional and local school committees next meet jointly in early December 2026 ahead of final budget recommendations in early 2027.",
+      "status": "District administrators have proposed a preliminary FY28 regional operating budget of $32.36 million, representing a 3.01 percent increase driven by contractual salaries, specialized transportation, and rising health care costs. Because both Southborough and Northborough face potential Proposition 2 1/2 operating overrides, the district is also preparing a zero percent level-funded scenario that would require cutting five staff positions. Administrators are concurrently negotiating health insurance deductible changes with employee unions to achieve an estimated $600,000 in regional savings. The Regional School Committee unanimously adopted the FY28 budget priorities on November 16, ahead of recommended budget and capital plan presentations scheduled for December.",
       "status_as_of": "2026-11-16",
       "positions": [
         {
-          "body": "Regional School Committee Budget and Capital Subcommittees",
+          "body": "Northborough-Southborough Regional School Committee",
           "stance": "support",
-          "detail": "Endorsed five draft strategic priorities on Oct 7, directing staff to model alternative budget scenarios and negotiate health insurance plan changes."
-        },
-        {
-          "body": "Public comment",
-          "stance": "neutral",
-          "detail": "A speaker urged the district on Sep 16 to hold earlier joint sessions with municipal finance committees to align on budget assumptions and terminology."
+          "detail": "Voted unanimously on Nov 16 to approve the FY28 budget priorities, advancing a preliminary 3.01 percent budget increase while preparing a zero percent contingency scenario."
         }
       ],
       "next": "Combined meeting with the Regional and Northborough School Committees on December 2, 2026.",
       "significance": 5,
-      "status_fingerprint": "f7867220dd10370b",
+      "status_fingerprint": "420e01ec5d12c716",
       "status_model": "gemini-3.8-flash"
     },
     "fy28-school-operating-budget": {
@@ -1927,18 +1922,18 @@
       "category": "Schools",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-17",
-      "status": "The Southborough School Committee and district administrators are developing the FY28 K-8 school operating budget, balancing town spending targets against service and staffing needs. While an initial level-service projection called for a 5.36 percent increase to $27,514,571 due to rising salaries and special education tuition, administrators are preparing reductions of over $611,000 to meet a suggested 3.0 percent growth target. District leaders have warned that deeper cuts to achieve a level-funded budget would require eliminating roughly 15 full-time staff positions and severely affect academic programs. The superintendent will present a refined recommended budget to the School Committee on December 9, 2026.",
+      "status": "The preliminary K-8 school operating budget for FY28 is currently under review, with district administrators evaluating alternatives between a 5.36 percent needs-based increase and town budget targets. Reaching a 3.0 percent increase requires cutting roughly $611,000, while a level-funded budget would require eliminating approximately 15 full-time staff positions. The School Committee is weighing these reduction scenarios against concerns over impacts to class sizes, academic programs, and student services. The superintendent will present a refined recommended budget in December ahead of an expected committee vote in early 2027.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewing preliminary scenarios to align with the town's 3.0 percent guidance while assessing the programmatic impacts of proposed staff and spending reductions."
+          "detail": "Reviewing options to reconcile the 5.36 percent preliminary budget with town guidance while seeking to protect core educational programs and avoid staff reductions."
         }
       ],
-      "next": "Southborough School Committee presentation of FY28 recommended budget on December 9, 2026",
+      "next": "Superintendent presentation of the recommended FY28 budget to the School Committee on December 9, 2026.",
       "significance": 5,
-      "status_fingerprint": "7db957a77f9ebd12",
+      "status_fingerprint": "367b7455d2ee3df7",
       "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
@@ -2529,17 +2524,22 @@
       "category": "Budget & taxes",
       "first_seen": "2026-08-10",
       "last_seen": "2026-11-17",
-      "status": "The town has authorized expedited negotiations with the Public Employee Committee after the Select Board voted unanimously to accept Massachusetts General Law Chapter 32B, Sections 21 through 23. Southborough is coordinating the process with Northborough and the regional school district, which also adopted the statute, to modify municipal health insurance plan designs. The resulting changes are intended to curb rising premium expenses, which currently comprise 11.2 percent of the municipal budget.",
-      "status_as_of": "2026-08-11",
+      "status": "Reforms to municipal and regional school health insurance plans have been negotiated and approved under MGL Chapter 32B Sections 21-23. The Select Board reported roughly $1 million in annual municipal savings from plan design changes negotiated through the Public Employee Committee. On November 16, the Northborough-Southborough Regional School Committee unanimously approved a Memorandum of Agreement projected to yield about $325,000 in net FY28 savings after funding a subscriber mitigation account. The coordinated plan design changes are set to take effect July 1, 2027.",
+      "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on Aug 11, 2026, to accept MGL Chapter 32B Sections 21-23 to negotiate health plan design changes with municipal employees."
+          "detail": "Voted 5-0 on Aug 11 to adopt MGL Chapter 32B and acknowledged roughly $1 million in annual savings from negotiated plan changes."
+        },
+        {
+          "body": "Northborough-Southborough Regional School Committee",
+          "stance": "support",
+          "detail": "Voted unanimously on Nov 16 to approve a Memorandum of Agreement with the Public Employee Committee yielding approximately $325,000 in net FY28 savings."
         }
       ],
-      "next": "Implementation of proposed health insurance plan design changes on July 1, 2027.",
-      "status_fingerprint": "68806a6afd83c09b",
+      "next": "Plan design changes take effect on July 1, 2027.",
+      "status_fingerprint": "89da4c3653c00d1d",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3073,23 +3073,23 @@
       "category": "Schools",
       "first_seen": "2026-09-14",
       "last_seen": "2026-11-16",
-      "status": "The regional and local school committees are reviewing the framework for the 2027–2028 academic calendar, focusing on religious holiday observances and the final day of classes. Members are evaluating whether to maintain the current holiday schedule, remove certain religious holidays, or adjust vacations and start dates so winter snow days do not push the school year late into June. The administration plans to gather staff and family feedback this fall before presenting formal options on December 2, 2026.",
-      "status_as_of": "2026-09-16",
+      "status": "The 2027–2028 regional school calendar remains under review following a districtwide survey of families and staff on start dates, holiday observances, and vacation schedules. The combined school committees are weighing options to prevent winter storm cancellations from extending classes past late June, including adjusting start dates, altering vacation weeks, or modifying religious holiday observances. Survey results and administration recommendations are scheduled to come before the committees on December 2, 2026.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Combined School Committees",
           "stance": "undecided",
-          "detail": "Discussing multiple calendar structures on September 16, balancing religious holiday observances against concerns about snow days extending the school year past June 25."
+          "detail": "Debating whether to modify vacation weeks, start dates, or religious holiday observances to avoid pushing the end of the school year past late June."
         },
         {
           "body": "Public comment",
-          "stance": "support",
-          "detail": "A resident urged the committees to continue including major Jewish holidays on the calendar and to maintain current religious holiday observances."
+          "stance": "mixed",
+          "detail": "Speakers urged the district to preserve major religious holiday observances and questioned whether the survey structure biased responses against keeping them."
         }
       ],
-      "next": "Administration presents calendar options and survey feedback on December 2, 2026.",
+      "next": "Presentation of survey findings and calendar recommendations to the combined school committees on December 2, 2026.",
       "significance": 3,
-      "status_fingerprint": "04bc77529dc5f9d1",
+      "status_fingerprint": "403336ff48109082",
       "status_model": "gemini-3.8-flash"
     },
     "regional-school-religious-observance-policy": {
@@ -3218,27 +3218,27 @@
       "category": "Zoning & development",
       "first_seen": "2026-05-18",
       "last_seen": "2026-10-22",
-      "status": "The state has awarded Southborough and Westborough a $150,000 Community One Stop grant to study economic development, zoning, and wastewater along the Route 9 and I-495 corridor. Both towns expect to execute grant contracts in late 2026 for work starting around January 1, 2027, though project leadership remains unsettled due to a vacant town planner post in Westborough. Southborough's Select Board, Planning Board, and Wastewater Study Committee all support the initiative, which requires a $7,500 local match that can be met through cash or in-kind staff time. The Wastewater Study Committee will hold a dedicated working session in November to review joint grant administration.",
+      "status": "Southborough and Westborough were awarded a state Community One Stop for Growth grant to fund a joint planning study evaluating zoning, economic development, and wastewater infrastructure along the Route 9 and Interstate 495 corridor. Project leadership is currently unsettled due to a vacant town planner position in Westborough, while Southborough must cover its required $7,500 local match via cash or in-kind staff services. The town anticipates executing the grant contract in late 2026, with consultant work expected to commence around January 1, 2027.",
       "status_as_of": "2026-10-22",
       "positions": [
         {
           "body": "Wastewater Study Committee",
           "stance": "support",
-          "detail": "Leading project coordination and reviewing administrative requirements for the study, which requires a $7,500 local match in cash or staff time."
+          "detail": "Helped spearhead the joint application and is now preparing administrative guidelines for project management and the local match."
         },
         {
           "body": "Planning Board",
           "stance": "support",
-          "detail": "Voted 4-0 on May 21, 2026 to endorse the grant application after adding protections for residential neighborhood buffers and focusing on commercial growth."
+          "detail": "Voted 4-0 on May 21, 2026, to endorse the grant application, ensuring the study prioritizes commercial tax base opportunities while safeguarding adjacent neighborhoods."
         },
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 5-0 on May 19, 2026 to approve a letter of support for the joint grant application."
+          "detail": "Voted 5-0 on May 19, 2026, to approve a letter of support for the regional grant application."
         }
       ],
-      "next": "Wastewater Study Committee working session on November 19, 2026.",
-      "status_fingerprint": "f5fb4a9b0f7172aa",
+      "next": "Grant contract execution in late 2026, followed by the start of study work around January 1, 2027.",
+      "status_fingerprint": "17aa68cd2beac8ac",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -3405,11 +3405,11 @@
       "category": "Schools",
       "first_seen": "2026-05-11",
       "last_seen": "2026-11-16",
-      "status": "School bus operations under contractor NRT have stabilized, with live security cameras and turn-by-turn GPS active, though student RFID tap cards have faced rollout delays. The school district administration moved to assess contract penalties against NRT to withhold payment for delayed technology deliverables. The Southborough School Committee received the operational update without taking a formal vote, and no further public reviews are currently scheduled.",
-      "status_as_of": "2026-05-13",
+      "status": "School bus operations under contractor NRT Bus have stabilized across the district, with turn-by-turn navigation and live security camera feeds fully operational. Stop-arm cameras remain active and have resulted in police citations, while the expansion of RFID student tracking cards to middle and high schools is on hold pending hardware upgrades. District administration continues bi-weekly monitoring meetings with the vendor to oversee service reliability and contract deliverables.",
+      "status_as_of": "2026-11-16",
       "positions": [],
       "next": "",
-      "status_fingerprint": "70d6c3b7f1be05e1",
+      "status_fingerprint": "d65b31e050364325",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -3493,29 +3493,24 @@
       "category": "Schools",
       "first_seen": "2026-05-11",
       "last_seen": "2026-11-16",
-      "status": "District food services by Whitsons Culinary Group are currently operating under one-year contract extensions for the 2026-2027 school year following approvals by both school committees in May. While the Southborough School Committee renewed unanimously, the Regional School Committee approved its renewal only on reconsideration after an initial vote failed over meal quality, staff morale, and financial deficits. Whitsons has since appointed new district general management and adjusted menus in response to student surveys and cafeteria concerns. District administration is currently evaluating vendor performance and will present a data-driven evaluation report and financial update in December 2026.",
-      "status_as_of": "2026-11-09",
+      "status": "The food service contract with Whitsons Culinary Group is under first-quarter evaluation across all district schools following fall adjustments to kitchen staffing, menus, and portions. Both the Southborough School Committee and the Northborough-Southborough Regional School Committee are monitoring vendor performance after renewing agreements last spring. District administration will present formal evaluation findings in December 2026, setting up renewal decisions for the 2027–2028 school year in early 2027.",
+      "status_as_of": "2026-11-16",
       "positions": [
         {
           "body": "Southborough School Committee",
-          "stance": "support",
-          "detail": "Voted unanimously in May 2026 to extend Whitsons' contract for 2026-2027 and is reviewing first-quarter evaluation criteria ahead of a December report."
+          "stance": "undecided",
+          "detail": "Reviewing first-quarter evaluation criteria and awaiting an administration report and recommendation in December."
         },
         {
           "body": "Northborough-Southborough Regional School Committee",
-          "stance": "mixed",
-          "detail": "Approved the 2026-2027 renewal 8-1 on reconsideration after an initial motion failed due to concerns regarding meal quality, kitchen staff morale, and budget shortfalls."
-        },
-        {
-          "body": "Public comment",
-          "stance": "oppose",
-          "detail": "A cafeteria worker voiced concerns in May 2026 over low staff morale, meal shortages, and frozen processed food replacing freshly prepared items."
+          "stance": "undecided",
+          "detail": "Evaluating vendor performance following recent management changes, with a formal evaluation due in December ahead of a planned January 2027 decision."
         }
       ],
-      "next": "Administration presentation of Whitsons evaluation findings and quarterly financial update in December 2026",
-      "status_fingerprint": "14b4b902aef8c74a",
+      "next": "December 2026 (presentation of district administration's vendor evaluation report and recommendations)",
+      "status_fingerprint": "71423f112b4ffb6b",
       "status_model": "gemini-3.8-flash",
-      "significance": 4
+      "significance": 3
     },
     "senior-tax-work-off-policy": {
       "id": "senior-tax-work-off-policy",
@@ -3913,24 +3908,24 @@
       "category": "Governance & committees",
       "first_seen": "2026-10-05",
       "last_seen": "2026-11-13",
-      "status": "A consultant-led study evaluating Southborough's municipal government structure, department organization, and town manager authority is currently gathering community input ahead of final recommendations on December 15. The Select Board commissioned the review in August, but recent sessions have drawn significant community pushback against potential department consolidations, particularly regarding the Senior Center and Council on Aging. The consultant will host one more listening session in early December before delivering final proposals to the Select Board.",
+      "status": "The consultant-led governance study is currently underway, with final recommendations scheduled to be presented to the Select Board on December 15, 2026. Recent public listening sessions drew substantial pushback from residents and seniors opposing any administrative consolidation of the Senior Center or Council on Aging with other departments. The consultant plans to hold one additional listening session in early December before delivering final proposals regarding municipal reporting structures and committee organization.",
       "status_as_of": "2026-11-13",
       "positions": [
         {
           "body": "Select Board",
           "stance": "support",
-          "detail": "Voted 4-1 on Aug 11 to commission the $24,650 study by CSS and is currently receiving public feedback ahead of final recommendations."
+          "detail": "Voted 4-1 on August 11 to authorize the $24,650 consultant contract with CSS and is awaiting final recommendations."
         },
         {
           "body": "Public comment",
-          "stance": "oppose",
-          "detail": "Senior Center attendees strongly objected to merging the Council on Aging with other departments, while other residents urged the consultant to provide clear rationales and a firm project timeline."
+          "stance": "mixed",
+          "detail": "Attendees strongly opposed consolidating the Senior Center with other town departments, while speakers urged the consultant to provide clear rationales and project timelines for any structural changes."
         }
       ],
-      "next": "Consultant listening session in early December, followed by presentation of final recommendations to the Select Board on December 15, 2026.",
-      "status_fingerprint": "2bc780fd31350540",
+      "next": "Second public listening session in early December 2026, followed by final recommendations to the Select Board on December 15, 2026.",
+      "status_fingerprint": "498d80f8b5f156b1",
       "status_model": "gemini-3.8-flash",
-      "significance": 5
+      "significance": 4
     },
     "town-satisfaction-survey": {
       "id": "town-satisfaction-survey",
@@ -3939,24 +3934,24 @@
       "category": "Governance & committees",
       "first_seen": "2026-09-21",
       "last_seen": "2026-11-17",
-      "status": "Southborough's 2026 Resident Satisfaction Survey is currently open through the end of November, with approximately 200 responses collected to date. Organized by the Municipal Technology Committee, outreach efforts include reusable banners, electronic roadway signage, and paper forms at the Senior Center. The questionnaire incorporates input on housing typologies from the Affordable Housing Trust alongside questions on commercial delivery drones. Once the survey closes on November 30, 2026, a volunteer data scientist will compile and analyze the results.",
+      "status": "The 2026 Resident Satisfaction Survey is currently open and has collected roughly 200 responses as of mid-November. The Municipal Technology Committee has expanded outreach using reusable banners, electronic roadway signage, and paper copies at the Senior Center transcribed with artificial intelligence models. The survey will close at the end of November 2026, after which a volunteer data scientist will analyze the findings.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Administering the townwide survey through late November, including paper outreach at the Senior Center transcribed via AI vision models."
+          "detail": "Administering the townwide survey and conducting outreach to gather resident sentiment on municipal services, delivery drones, and local housing."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Drafted and refined survey questions to evaluate resident preferences on workforce housing, senior housing, and development locations."
+          "detail": "Requested and secured the addition of survey questions evaluating resident preferences on housing typologies, locations, and workforce housing needs."
         }
       ],
-      "next": "Survey closes on November 30, 2026.",
-      "status_fingerprint": "d70673f142533ee1",
+      "next": "Resident Satisfaction Survey closes on November 30, 2026.",
+      "status_fingerprint": "150da935e84af865",
       "status_model": "gemini-3.8-flash",
-      "significance": 3
+      "significance": 2
     },
     "town-website-redesign": {
       "id": "town-website-redesign",

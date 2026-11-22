@@ -4748,12 +4748,20 @@
       "output_tokens": 33948,
       "thought_tokens": 47921,
       "tool_use_tokens": 0
+    },
+    "2026-11-22": {
+      "video_minutes": 0,
+      "calls": 13,
+      "input_tokens": 43058,
+      "output_tokens": 3865,
+      "thought_tokens": 27438,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-21T18:14:52Z",
+    "at": "2026-11-22T18:39:30Z",
     "discovered": 29,
-    "summarized": 3,
+    "summarized": 0,
     "refreshed": 0,
     "errors": 0
   }
