@@ -4426,6 +4426,21 @@
       "processed_at": "2026-11-21T18:15:45Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "lwCv1YBn0Hg": {
+      "id": "lwCv1YBn0Hg",
+      "title": "Conservation Commission 10/29/26",
+      "description": "",
+      "published_at": "2026-11-23T20:43:39Z",
+      "duration_s": 5020,
+      "live": "none",
+      "status": "queued",
+      "reason": "no include patterns configured",
+      "channel": "UCs0DhUSnY9VXN3gfsNEhvuw",
+      "attempts": 0,
+      "discovered_at": "2026-11-23T22:55:34Z",
+      "meeting_date": "2026-10-29",
+      "week": "2026-10-26"
     }
   },
   "usage": {
@@ -4756,11 +4771,19 @@
       "output_tokens": 3865,
       "thought_tokens": 27438,
       "tool_use_tokens": 0
+    },
+    "2026-11-23": {
+      "video_minutes": 0,
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "thought_tokens": 0,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-22T18:39:30Z",
-    "discovered": 29,
+    "at": "2026-11-23T22:55:33Z",
+    "discovered": 30,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
