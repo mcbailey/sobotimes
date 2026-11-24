@@ -64,30 +64,20 @@
       "description": "Proposed construction of a wooden boardwalk and trail connection on Southborough Open Land Foundation land off Valley Road.",
       "category": "Parks, trails & recreation",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-29",
-      "status": "The Conservation Commission approved an Order of Conditions on July 29, 2026, allowing an Eagle Scout project to construct a wooden boardwalk and dirt trail on Southborough Open Land Foundation land at 0 Valley Road. Abutters opposed the application, raising concerns over traffic, parking along a narrow road, trespassing, and wetland disruption. With the public hearing closed and environmental conditions established, the project is cleared to proceed following the standard appeal window.",
-      "status_as_of": "2026-07-29",
+      "last_seen": "2026-10-29",
+      "status": "The footbridge and trail project at 0 Valley Road is complete. The Conservation Commission unanimously approved a Certificate of Compliance on October 29, 2026, confirming that the Eagle Scout boardwalk and footbridge on Southborough Open Land Foundation land was properly constructed. No further municipal review or action is required.",
+      "status_as_of": "2026-10-29",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 3-0-1 on July 29 to issue an Order of Conditions with standard and special conditions after confirming modern treated lumber poses no water toxicity risk."
-        },
-        {
-          "body": "Southborough Open Land Foundation",
-          "stance": "support",
-          "detail": "Spoke in favor of the project on June 25, stating that the proposed boardwalk and trail support its mission to offer passive recreation."
-        },
-        {
-          "body": "Public comment",
-          "stance": "oppose",
-          "detail": "Valley Road abutters opposed the trail, citing safety and congestion from parking on a narrow road, loss of privacy, trespassing into yards, and disturbance to wildlife."
+          "detail": "Voted 4-0 on October 29, 2026, to issue a Certificate of Compliance for the completed footbridge and boardwalk."
         }
       ],
       "next": "",
-      "status_fingerprint": "3892740a7c70cade",
+      "status_fingerprint": "cf8236b1d3cd1e89",
       "status_model": "gemini-3.8-flash",
-      "significance": 3
+      "significance": 2
     },
     "1-overlook-drive-pool": {
       "id": "1-overlook-drive-pool",
@@ -169,18 +159,23 @@
       "category": "Zoning & development",
       "first_seen": "2026-04-13",
       "last_seen": "2026-04-15",
-      "status": "The Zoning Board of Appeals unanimously approved the special permit to alter a pre-existing non-conforming single-family structure at 12 Wood Street. The permit addresses an as-built survey finding that a newly built rear deck sits 13 feet from the rear lot line bordering the Sudbury River rather than the planned 16 feet. With no objections raised by the board or the public, the board's review is complete.",
-      "status_as_of": "2026-04-15",
+      "status": "The special permit to alter a pre-existing non-conforming single-family structure with a rear deck at 12 Wood Street has been approved. The Zoning Board of Appeals granted the permit unanimously after an as-built survey showed the deck encroached to within 13 feet of the rear boundary bordering the Sudbury River open space. The Conservation Commission subsequently voted to issue a Certificate of Compliance in October 2026.",
+      "status_as_of": "2026-10-29",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted unanimously on April 15, 2026, to approve the special permit application as written."
+          "detail": "Voted unanimously on April 15, 2026, to approve the special permit as submitted with no board or public objections."
+        },
+        {
+          "body": "Conservation Commission",
+          "stance": "support",
+          "detail": "Voted 4-0 on October 29, 2026, to issue a Certificate of Compliance for the property."
         }
       ],
       "next": "",
       "significance": 2,
-      "status_fingerprint": "14e52c711a30453b",
+      "status_fingerprint": "b4458f6304d92902",
       "status_model": "gemini-3.8-flash"
     },
     "120-turnpike-road-open-space": {
@@ -190,23 +185,23 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "status": "The proposed conveyance of 6.2 acres of open space to the town is under review by the Conservation Commission. The commission informally supports accepting the land, which connects to Breakneck Hill Farm, but deferred action to consult Town Counsel regarding indemnification and liability for an on-site stormwater swale. Formal acceptance is also pending review by the Stewardship Committee before the developer's year-end target.",
+      "status": "The proposed conveyance of 6.2 acres of open space connecting to Breakneck Hill Farm is under review by the Conservation Commission. While commissioners informally favor accepting the donation from the residential developer, they deferred action to seek Town Counsel guidance on liability and indemnification terms for an on-site private stormwater swale. The Stewardship Committee also plans to review the deed to evaluate maintenance and safety concerns before the commission takes a formal vote. The applicant is seeking approval before the end of 2026, and discussion will resume on December 10, 2026.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Informally supports accepting the land donation but deferred a formal vote pending legal review of liability protections regarding an on-site drainage swale."
+          "detail": "Informally favors accepting the open space donation but postponed a formal vote pending legal review of liability protections regarding an on-site drainage swale."
         },
         {
-          "body": "Public comment",
-          "stance": "mixed",
-          "detail": "A Stewardship Committee member noted previous concerns regarding drainage swales and potential safety hazards, though the committee has yet to review the final deed."
+          "body": "Stewardship Committee",
+          "stance": "undecided",
+          "detail": "Has not yet formally reviewed the draft deed, though members previously raised concerns regarding safety hazards and taking on drainage swales."
         }
       ],
-      "next": "Conservation Commission discussion on December 10, 2026",
+      "next": "Conservation Commission continued discussion on December 10, 2026.",
       "significance": 3,
-      "status_fingerprint": "5f8fe9b086e76418",
+      "status_fingerprint": "2b987dabfb050a6c",
       "status_model": "gemini-3.8-flash"
     },
     "14-newton-street": {
@@ -357,32 +352,32 @@
       "category": "Zoning & development",
       "first_seen": "2026-09-28",
       "last_seen": "2026-11-19",
-      "status": "The proposed 167,000-square-foot Costco warehouse and 30-position gas station at 21 Coslin Drive is currently under concurrent review by the Planning Board and Conservation Commission, following the Zoning Board of Appeals' approval of lighting and retaining wall variances in July. Reviewing boards and town consultants are primarily focused on regional traffic congestion, level-of-service failures at Route 9 intersections, cut-through truck traffic on residential roads, and proposed landscaping and stormwater waivers. The Conservation Commission continues its wetlands hearing on December 10, 2026, followed by the Planning Board's continued hearing on December 14, 2026, ahead of its December 18 decision deadline.",
+      "status": "The proposal for a 167,000-square-foot Costco warehouse and 30-position fuel station at 21 Coslin Drive remains under concurrent review by the Planning Board and Conservation Commission. The Zoning Board of Appeals granted necessary variances for retaining walls and light pole heights in July 2026, but the Planning Board is still evaluating regional traffic impacts, truck routing restrictions, and requested landscaping and stormwater waivers. Meanwhile, the Conservation Commission is awaiting state comments and environmental peer review on stormwater and buffer-zone impacts. Public hearings continue before the Conservation Commission on December 10, 2026, and the Planning Board on December 14, 2026.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
-          "body": "Zoning Board of Appeals",
-          "stance": "support",
-          "detail": "Voted 4-0 on July 15, 2026, to grant variances permitting retaining walls up to 31 feet and light poles up to 36.6 feet."
-        },
-        {
           "body": "Planning Board",
           "stance": "undecided",
-          "detail": "Continues to review the major site plan and special permits, raising concerns about traffic delays, truck routing restrictions, and requested site waivers."
+          "detail": "Actively reviewing site plan and special permit applications with scrutiny on traffic impacts, cut-through routes, and design waivers ahead of a December 18, 2026 decision deadline."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Reviewing the Notice of Intent for the warehouse and fueling station, continuing the hearing at the applicant's request."
+          "detail": "Reviewing Notice of Intent and stormwater permit applications pending peer review findings and state Department of Environmental Protection feedback."
+        },
+        {
+          "body": "Zoning Board of Appeals",
+          "stance": "support",
+          "detail": "Voted 4-0 on July 15, 2026 to grant variances for 31-foot retaining walls and 36.6-foot parking lot light poles."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents voiced strong concerns over Route 9 gridlock, neighborhood truck cut-throughs, and school bus delays, while one commenter praised native plantings but objected to rock mulch."
+          "detail": "Residents voiced sharp concerns over traffic gridlock, intersection safety, and heavy truck cut-throughs on residential roads, though one resident commended native plant choices while criticizing rock mulch."
         }
       ],
-      "next": "Conservation Commission public hearing on December 10, 2026",
-      "status_fingerprint": "0f21ef946f0fe8b4",
+      "next": "Conservation Commission continued public hearing on December 10, 2026.",
+      "status_fingerprint": "020c90303d5f5081",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -503,37 +498,37 @@
       "category": "Housing",
       "first_seen": "2026-04-27",
       "last_seen": "2026-10-08",
-      "status": "The Zoning Board of Appeals unanimously approved a Chapter 40B comprehensive permit for the 32-unit rental townhouse development in May 2026, but the project remains under local environmental review. The Conservation Commission continues to review the Notice of Intent while awaiting an environmental peer review report. Meanwhile, the Board of Health approved a septic pump chamber setback variance in September 2026. The Conservation Commission is scheduled to resume its hearing on December 10, 2026.",
+      "status": "The Zoning Board of Appeals approved a Chapter 40B comprehensive permit in May 2026 for 32 rental townhomes, conditioning vertical construction on subsequent wastewater approvals. The project remains under review before the Conservation Commission on a Notice of Intent while peer reviews are completed. In September 2026, the Board of Health granted a setback variance for a septic pump chamber, but broader wastewater and leaching plans still require conservation and state approvals.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Zoning Board of Appeals",
           "stance": "support",
-          "detail": "Voted unanimously on May 6, 2026, to approve comprehensive permit conditions and waivers for the 32-unit development."
+          "detail": "Voted unanimously on May 6, 2026, to approve the comprehensive permit conditions and waivers for the 32-unit development."
         },
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "Continues to review the Notice of Intent for the townhouses pending completion of a peer review report by Lucas Environmental."
+          "detail": "Has repeatedly continued the Notice of Intent hearing while awaiting completed peer review reports from Lucas Environmental."
         },
         {
           "body": "Board of Health",
           "stance": "support",
-          "detail": "Voted 2-1 on September 15, 2026, to grant a 6-foot foundation setback variance for a replacement septic pump chamber with a vapor barrier condition."
+          "detail": "Voted 2-1 on Sep 15, 2026, to approve a 6-foot foundation setback variance for a septic pump chamber with a vapor barrier condition."
         },
         {
           "body": "Planning Board",
-          "stance": "mixed",
-          "detail": "Flagged concerns in March 2026 regarding site plan compliance, property boundaries, and tree labeling, asking the ZBA to condition approval on site plan modification."
+          "stance": "oppose",
+          "detail": "Criticized the proposal in March 2026 for site plan noncompliance, boundary revisions, and signage waivers, asking the ZBA to require site plan modification approval."
         },
         {
           "body": "Public comment",
           "stance": "oppose",
-          "detail": "Abutters voiced concerns over stormwater, tree loss, and septic placement in the Sudbury Reservoir watershed, urging privacy fencing and a reduction to 28 units."
+          "detail": "Abutters urged reducing the development from 32 to 28 units and raised concerns about tree loss, stormwater runoff, and septic impacts on the Sudbury Reservoir watershed."
         }
       ],
       "next": "Conservation Commission continued public hearing on December 10, 2026.",
-      "status_fingerprint": "182083288b95f53c",
+      "status_fingerprint": "36624f66c60f910a",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -1398,28 +1393,23 @@
       "category": "Housing",
       "first_seen": "2026-04-06",
       "last_seen": "2026-11-18",
-      "status": "The Affordable Housing Trust's FY28 funding application is under review by the Community Preservation Committee, following Town Meeting's approval of a $61,000 CPA transfer in April 2026. The committee has requested regular six-month financial updates regarding approximately $1 million in existing funds currently held by the Trust. The Trust is preparing revised application materials and updated endorsement letters incorporating technical assistance from the Massachusetts Housing Partnership.",
+      "status": "The Community Preservation Committee is currently reviewing the Affordable Housing Trust's FY28 application for funding, following Town Meeting's approval of a $61,000 transfer in April 2026. The committee has requested regular six-month updates on approximately $1 million currently held in Trust accounts. Next steps depend on the Trust submitting revised application materials and updated support letters from the Southborough Housing Authority.",
       "status_as_of": "2026-11-18",
       "positions": [
         {
-          "body": "Affordable Housing Trust",
-          "stance": "support",
-          "detail": "Requested FY28 CPA funding and is updating its application with housing plan targets and survey data."
-        },
-        {
           "body": "Community Preservation Committee",
           "stance": "undecided",
-          "detail": "Reviewing the Trust's FY28 application after requesting regular updates on the Trust's existing $1 million account balance."
+          "detail": "Reviewing the FY28 application and requested regular six-month updates regarding the Trust's existing $1 million balance."
         },
         {
-          "body": "Town Meeting",
+          "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Voted by majority on April 11, 2026, to approve Article 25, transferring $61,000 to the Trust."
+          "detail": "Submitted and revised its FY28 application incorporating resident survey results, housing plan targets, and state technical assistance."
         }
       ],
       "next": "",
       "significance": 3,
-      "status_fingerprint": "5559965eb0d8fb68",
+      "status_fingerprint": "a7cc108b3cb0efc0",
       "status_model": "gemini-3.8-flash"
     },
     "cpa-project-signage-program": {
@@ -1580,17 +1570,17 @@
       "category": "Zoning & development",
       "first_seen": "2026-08-24",
       "last_seen": "2026-11-19",
-      "status": "The Notice of Intent to redevelop Fay School's athletic fields and install artificial turf at 0 Marlboro Junction remains under review by the Conservation Commission. The applicant recently submitted revised stormwater and riverfront mitigation plans and proposed a deed restriction boundary swap to accommodate a relocated baseball field. The commission is awaiting an evaluation of the proposed restriction swap by its environmental consultant before making a determination. The public hearing is scheduled to continue on December 10, 2026.",
+      "status": "The Fay School athletic fields redevelopment remains under review by the Conservation Commission following the presentation of revised plans addressing stormwater and riverfront mitigation comments. The proposal includes converting grass fields to artificial turf, relocating a baseball field, and swapping portions of an existing conservation deed restriction to add roughly 17,000 square feet while removing 13,600 square feet. The commission is waiting for its environmental consultant to evaluate the proposed deed restriction adjustment. The public hearing is scheduled to resume on December 10, 2026.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "undecided",
-          "detail": "The commission is awaiting an evaluation by its environmental consultant regarding a proposed deed restriction swap before acting on the application."
+          "detail": "Continued the hearing on November 19 to await an evaluation from its environmental consultant on a proposed conservation deed restriction swap."
         }
       ],
-      "next": "Conservation Commission hearing on December 10, 2026",
-      "status_fingerprint": "2e0429bccaa1c698",
+      "next": "Conservation Commission continued public hearing on December 10, 2026",
+      "status_fingerprint": "cceb7fbd726361e5",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -2550,18 +2540,18 @@
       "category": "Staffing & operations",
       "first_seen": "2026-03-02",
       "last_seen": "2026-10-27",
-      "status": "Municipal facilities were scheduled to cut over to a new cloud-based phone system on November 13, replacing an unsupported 15-year-old on-premise PBX setup. The Municipal Technology Committee unanimously backed the project in March, supporting a $25,000 capital appropriation to purchase and install the Wi-Fi-connected phones across all town departments. With cutover and staff training set for that week, no further committee actions are currently scheduled.",
-      "status_as_of": "2026-10-27",
+      "status": "The municipal phone system transition to a cloud-based solution is moving forward following committee backing for a $25,000 capital request. The upgrade replaces an unsupported 15-year-old PBX system across municipal facilities, with estimated ongoing maintenance between $32,000 and $33,000 annually. The system cutover and staff training were scheduled for November 13, 2026.",
+      "status_as_of": "2026-03-03",
       "positions": [
         {
           "body": "Municipal Technology Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on March 3 to recommend the $25,000 Annual Town Meeting capital request for the cloud PBX upgrade."
+          "detail": "Voted 4-0 on March 3, 2026, to support the $25,000 Annual Town Meeting capital request to replace the aging, unsupported phone system."
         }
       ],
       "next": "",
-      "significance": 3,
-      "status_fingerprint": "980e720fac9e3c56",
+      "significance": 2,
+      "status_fingerprint": "24873e278a0bf12e",
       "status_model": "gemini-3.8-flash"
     },
     "national-grid-vegetation-plan": {
@@ -2628,27 +2618,42 @@
       "category": "Schools",
       "first_seen": "2026-08-17",
       "last_seen": "2026-11-12",
-      "status": "The project is currently in schematic design, with the Elementary School Building Committee focusing on Option 3, an estimated $39.8 million addition and renovation that adds a full-sized gymnasium in the courtyard and modernizes learning spaces. Consultants reported that a previously contemplated $15 million budget cap is unfeasible, as basic mechanical and code compliance upgrades alone will cost roughly $32.9 million. Officials are also weighing whether to pursue town-only financing or submit a Statement of Interest to the MSBA in January 2027, balancing state reimbursement against potential multi-year construction cost inflation. Further civil and septic cost evaluations will be reviewed ahead of multi-board joint discussions planned for December.",
+      "status": "The Elementary School Building Committee has advanced Option 3—a comprehensive addition and renovation estimated at roughly $39.8 million—into schematic design after finding that an earlier $15 million budget cap cannot meet code or educational requirements. The School Committee is currently weighing whether to seek state reimbursement through the MSBA in January 2027 or proceed with a town-funded project to avoid multi-year inflationary construction delays. Municipal boards plan to convene for joint discussions in December to seek consensus on project scope and Southborough's overall capital capacity.",
       "status_as_of": "2026-11-12",
       "positions": [
         {
           "body": "Elementary School Building Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design, concluding lower-cost baseline repairs fail to address necessary educational and mechanical scopes."
+          "detail": "Voted 4-0 on Oct 21 to advance Option 3 to schematic design, concluding a $15 million baseline scope cannot adequately address code or educational needs."
         },
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Is evaluating Option 3 while debating whether to apply for MSBA state funding in January 2027 or fund the project locally to prevent project delays."
+          "detail": "Reviewing Option 3 designs while evaluating whether to submit an MSBA application in January 2027 or pursue a town-funded build."
+        },
+        {
+          "body": "Capital Improvement and Planning Committee",
+          "stance": "undecided",
+          "detail": "Monitoring project cost estimates of up to $45 million and coordinating joint sessions to assess townwide capital debt capacity."
+        },
+        {
+          "body": "Select Board",
+          "stance": "undecided",
+          "detail": "Received updates on preliminary renovation and addition scopes and is preparing for joint deliberations with other municipal boards."
+        },
+        {
+          "body": "Advisory Committee",
+          "stance": "neutral",
+          "detail": "Appointed a liaison to track building committee progress and cost estimates ahead of joint board presentations."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Residents voiced concerns that MSBA delays could wipe out reimbursement savings through inflation, urged comprehensive planning for future capital needs at Finn School, and noted the cost of relocating central district offices."
+          "detail": "Residents raised concerns about project delays and construction inflation under MSBA funding, competing capital needs at Finn School, and the costs of relocating district central offices."
         }
       ],
-      "next": "Elementary School Building Committee workshop on site, civil, and septic estimates on November 23, 2026.",
-      "status_fingerprint": "318befd949ab4f8a",
+      "next": "Joint presentation and review with town boards in December 2026.",
+      "status_fingerprint": "e4c9548588083168",
       "status_model": "gemini-3.8-flash",
       "significance": 5
     },
@@ -3716,18 +3721,18 @@
       "category": "Environment & conservation",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "status": "The Conservation Commission unanimously approved an Order of Conditions on November 19, 2026, authorizing Salisbury Management LLC to replace a failed soil absorption system at Stonebrook Village. The approval is subject to conditions requiring professional engineering oversight during construction traffic crossings and a professional engineer's certification that drainage infrastructure remains undamaged prior to receiving a Certificate of Compliance. With the public hearing closed and approval granted, the project proceeds to construction under those conditions.",
+      "status": "The Conservation Commission unanimously approved an Order of Conditions on November 19, 2026, permitting Salisbury Management LLC to replace a failed soil absorption system serving Stonebrook Village. The approval is subject to conditions requiring engineering oversight during construction crossing to protect stormwater facilities and a professional engineer's certification prior to receiving a Certificate of Compliance. Reconstruction of the leaching field is estimated to take two weeks, during which the septic tanks will be pumped daily to prevent overflows near adjacent wetlands.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on Nov 19 to approve an Order of Conditions with requirements for engineering oversight and stormwater infrastructure certification."
+          "detail": "Voted unanimously on November 19, 2026, to issue an Order of Conditions with special safeguards for drainage infrastructure."
         }
       ],
       "next": "",
       "significance": 2,
-      "status_fingerprint": "0a205b9b4d14fed2",
+      "status_fingerprint": "5e814175a30a6b4a",
       "status_model": "gemini-3.8-flash"
     },
     "stormwater-enterprise-fund": {
@@ -3877,27 +3882,22 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-08-03",
       "last_seen": "2026-11-19",
-      "status": "The project to replace a deteriorated plywood crossing in the Town Forest with a timber footbridge is approved and ready for construction. The Conservation Commission unanimously approved an Order of Conditions with standard conditions on November 19, 2026, resolving earlier questions about wood treatment. With the Stewardship Committee also backing the use of pre-cut pressure-treated lumber, the Eagle Scout candidate can proceed with building the footbridge.",
+      "status": "The Conservation Commission unanimously approved an Order of Conditions on November 19, 2026, clearing the way for the Eagle Scout footbridge replacement in the Town Forest. The project replaces a deteriorated plywood crossing with a timber footbridge built with pressure-treated lumber. Both the Conservation Commission and the Stewardship Committee resolved earlier questions about chemical leaching near wetlands and endorsed the construction.",
       "status_as_of": "2026-11-19",
       "positions": [
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted unanimously on November 19, 2026, to issue an Order of Conditions with standard conditions for the replacement timber footbridge."
+          "detail": "Voted unanimously on Nov 19, 2026, to approve the Order of Conditions with standard conditions after earlier concerns about wood treatment near wetlands were resolved."
         },
         {
           "body": "Stewardship Committee",
           "stance": "support",
-          "detail": "Voted 4-0 on August 4, 2026, to authorize pre-cut treated lumber and spoke in favor of the project at the November conservation hearing."
-        },
-        {
-          "body": "Trails Committee",
-          "stance": "support",
-          "detail": "Purchased the initial lumber for the project and gathered environmental specifications to ensure the materials met wetland standards."
+          "detail": "Voted 4-0 on Aug 4, 2026, to approve using pre-cut pressure-treated wood and spoke in support at the Conservation Commission hearing."
         }
       ],
       "next": "",
-      "status_fingerprint": "b3f716bfb99b8213",
+      "status_fingerprint": "895448e2c621d5c0",
       "status_model": "gemini-3.8-flash",
       "significance": 2
     },
@@ -3960,22 +3960,22 @@
       "category": "Staffing & operations",
       "first_seen": "2026-06-22",
       "last_seen": "2026-11-17",
-      "status": "The municipal website overhaul with vendor CivicPlus is underway following a planned fall kickoff, with the Municipal Technology Committee reviewing communications support, user analytics, and automated crawler access. Open questions remain regarding whether the town will hire dedicated communications staff and how to handle accessibility for artificial intelligence agents navigating public documents. Separately, the Affordable Housing Trust has requested Select Board permission to add dedicated educational and property donation pages to the site.",
+      "status": "Preliminary discussions with vendor CivicPlus on the town website redesign are underway, with broader planning slated for January 2027. The Municipal Technology Committee also plans to review open government accessibility policies after finding the current website blocks automated web crawlers. Separately, the Affordable Housing Trust is seeking Select Board authorization to add dedicated pages to the site for public education and property donation outreach.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Municipal Technology Committee",
-          "stance": "neutral",
-          "detail": "Guiding the website overhaul and tech roadmap while planning to discuss open government accessibility and AI crawler policies with the technology director in January."
+          "stance": "support",
+          "detail": "Coordinating the redesign with CivicPlus and plans to discuss website accessibility and refresh priorities with the technology director in January."
         },
         {
           "body": "Affordable Housing Trust",
           "stance": "support",
-          "detail": "Voted 4-0 on Oct 28 to request Select Board authorization to add dedicated pages for housing education and property donation outreach."
+          "detail": "Voted 4-0 on Oct 28 to ask the Select Board to approve adding dedicated website pages to promote trust initiatives and solicit property donations."
         }
       ],
-      "next": "Municipal Technology Committee discussion with the technology director on website accessibility in January 2027",
-      "status_fingerprint": "3970c43cfe17a889",
+      "next": "Municipal Technology Committee discussion with the technology director regarding website accessibility and refresh plans in January 2027.",
+      "status_fingerprint": "2915179c45bc778b",
       "status_model": "gemini-3.8-flash",
       "significance": 3
     },
@@ -4338,19 +4338,19 @@
       "description": "Office relocation, fit-out, and furniture funding for the Department of Youth and Family Services move to the Flagg School.",
       "category": "Buildings & facilities",
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-10",
-      "status": "The Youth Commission unanimously approved allocating up to $5,000 from its revolving donation fund in March 2026 to purchase fire-retardant seating and desks for Youth and Family Services' move to the Flagg School. The department's relocation was targeted for completion by July 1, 2026. No subsequent updates or additional funding requests have come before the commission.",
-      "status_as_of": "2026-03-10",
+      "last_seen": "2026-10-30",
+      "status": "The Department of Youth and Family Services has completed its office relocation to the building behind Pilgrim Church. In March 2026, the Southborough Youth Commission funded the transition by authorizing up to $5,000 from its revolving donation account to replace non-compliant furniture with fire-retardant seating and properly sized desks. The completed move was reported in administrative updates to the town in October 2026.",
+      "status_as_of": "2026-10-30",
       "positions": [
         {
           "body": "Southborough Youth Commission",
           "stance": "support",
-          "detail": "Voted unanimously on March 10, 2026, to spend up to $5,000 from its donation account for compliant replacement furniture."
+          "detail": "Voted unanimously on March 10, 2026, to allocate up to $5,000 from its donation fund for required fire-retardant furniture and desks for the move."
         }
       ],
       "next": "",
       "significance": 2,
-      "status_fingerprint": "1360520c5c90df66",
+      "status_fingerprint": "a64e344657e0b060",
       "status_model": "gemini-3.8-flash"
     },
     "zoning-act-conformance-amendments": {

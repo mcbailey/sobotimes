@@ -1,92 +1,85 @@
 {
-  "headline": "Southborough boards revised the regional school budget, benchmarked municipal employee pay scales, and advanced draft zoning rules for senior housing.",
-  "synopsis": "The Northborough-Southborough Regional School Committee re-voted a revised $31.52 million FY27 budget, slightly reducing Southborough's assessment due to increased state Chapter 70 aid. The Personnel Board voted to adopt a 60th percentile salary benchmark for non-union town staff while establishing a November 24 deadline for employee job-classification appeals. Meanwhile, the Affordable Housing Trust backed a draft zoning bylaw permitting higher-density 55-plus housing and arranged to transfer one million dollars in trust funds into an interest-bearing account. In other business, committees prepared for upcoming trail grants and promoted the town's resident satisfaction survey ahead of a November phone system cutover.",
+  "headline": "Southborough boards reviewed plans for a proposed Costco warehouse, advanced a municipal wage overhaul, and revised regional school assessments following state aid increases.",
+  "synopsis": "The Conservation Commission opened hearings on stormwater and wetland plans for a proposed 167,000-square-foot Costco warehouse and 30-position gas station at 21 Coslin Drive. The Personnel Board adopted a 60th percentile salary benchmark for a municipal compensation study and established a November 24 appeal deadline for town employees. Regional school officials re-voted a revised $31.52 million FY27 budget that slightly reduces member town assessments due to increased state Chapter 70 aid. Meanwhile, the Affordable Housing Trust backed a draft senior housing zoning bylaw and confirmed that roughly one million dollars in housing funds were shifted to an interest-bearing account.",
   "highlights": [
     {
-      "title": "Regional school budget re-voted with reduced town assessment",
-      "why": "The regional school committee approved a revised $31.52 million budget that applies additional state Chapter 70 aid to lower Southborough's assessment to $10,731,901.",
-      "body": "Northborough-Southborough Regional School Committee",
+      "title": "Costco warehouse and gas station review opens",
+      "why": "Costco presented stormwater and wetland plans for a 167,000-square-foot retail warehouse and 30-position fueling station at 21 Coslin Drive on the site of a demolished office building. The public hearing was continued to November 19 pending consultant peer review and state comments.",
+      "body": "Conservation Commission",
       "importance": "high",
-      "video_id": "oLG_EqZepT0",
-      "start_seconds": 936
+      "video_id": "lwCv1YBn0Hg",
+      "start_seconds": 2402
     },
     {
-      "title": "Personnel Board benchmarks town pay study to 60th percentile",
-      "why": "The board voted to benchmark municipal salaries to the 60th percentile of comparable towns and established a review panel for staff appeals.",
+      "title": "Municipal wage study benchmark and appeal process",
+      "why": "The Personnel Board voted to adopt a 60th percentile salary benchmark for non-union town staff within a proposed 12-grade structure. Following job ranking concerns from department heads, the board set a November 24 deadline for employees to submit formal reconsideration requests.",
       "body": "Personnel Board",
       "importance": "high",
       "video_id": "yh5A_tnRV60",
       "start_seconds": 300
     },
     {
-      "title": "Draft senior housing zoning bylaw advanced",
-      "why": "The trust endorsed a draft bylaw allowing up to eight units per acre on two-acre lots with a 12.5 percent affordable requirement, lifting the town's 7 percent elderly cap.",
+      "title": "Regional school FY27 budget re-vote",
+      "why": "The Regional School Committee re-voted the FY27 budget at $31,521,177 after state Chapter 70 funding increased by roughly $104,000. The additional aid lowered Southborough's assessment to $10,731,901 and Northborough's to $17,106,241.",
+      "body": "Northborough-Southborough Regional School Committee",
+      "importance": "high",
+      "video_id": "oLG_EqZepT0",
+      "start_seconds": 936
+    },
+    {
+      "title": "Draft senior housing zoning amendment",
+      "why": "The Affordable Housing Trust reached consensus to support draft zoning that allows up to eight units per acre on two-acre parcels for 55-plus housing with a 12.5 percent affordability requirement. The trust plans to present the draft to the Planning Board and Zoning Board of Appeals in late fall.",
       "body": "Affordable Housing Trust",
       "importance": "high",
       "video_id": "vMTungilx60",
       "start_seconds": 1180
     },
     {
-      "title": "Housing trust funds moved to interest-bearing account",
-      "why": "Approximately $1 million held in a non-interest account was transferred to an insured program yielding roughly 3.5 percent to earn an estimated $35,000 annually.",
+      "title": "Housing trust funds moved to interest account",
+      "why": "Roughly one million dollars in municipal affordable housing funds previously kept in a zero-interest account were moved into an insured savings program earning about 3.5 percent interest. The shift is projected to generate approximately $35,000 in annual revenue for housing initiatives.",
       "body": "Affordable Housing Trust",
       "importance": "medium",
       "video_id": "vMTungilx60",
       "start_seconds": 2500
-    },
-    {
-      "title": "Outreach launched for 2027 MassTrails grant",
-      "why": "The committee began preparatory outreach to schools and regional partners for a state trail grant offering up to $100,000 with a 20 percent town match.",
-      "body": "Trails Committee",
-      "importance": "medium",
-      "video_id": "a-1YCw92kfQ",
-      "start_seconds": 4577
-    },
-    {
-      "title": "Promotion planned for resident satisfaction survey",
-      "why": "The committee coordinated outreach at polling places and through schools for the town survey, which covers municipal services and commercial drone sentiment.",
-      "body": "Municipal Technology Committee",
-      "importance": "medium",
-      "video_id": "cBDLNnsM8Wc",
-      "start_seconds": 95
     }
   ],
   "looking_ahead": [
     {
-      "what": "Committee trail maintenance site visit meeting at 11 McNeal Drive",
+      "what": "Trail maintenance site visit meeting at 11 McNeal Drive",
       "when": "November 2 at 7:15 a.m.",
       "body": "Trails Committee"
     },
     {
-      "what": "Select Board meeting where the housing trust website request may be considered",
+      "what": "Select Board meeting where Affordable Housing Trust website requests may be considered",
       "when": "November 4",
       "body": "Select Board"
     },
     {
-      "what": "Town phone system cutover and staff training",
+      "what": "Town phone system cutover to cloud-based service and staff training",
       "when": "November 13",
       "body": "Municipal Technology Committee"
+    },
+    {
+      "what": "Continued public hearings on Costco Wholesale, Stonebrook Village septic, Fay School turf, and 250 Turnpike Road townhouses",
+      "when": "November 19, 2026, at 7:00 PM",
+      "body": "Conservation Commission"
     },
     {
       "what": "Deadline for municipal staff to submit reconsideration forms for classification and compensation review",
       "when": "November 24, 2026",
       "body": "Personnel Board"
-    },
-    {
-      "what": "Personnel Board virtual meeting to review reconsideration volume and schedule review meetings",
-      "when": "November 30, 2026 at 8:30 AM",
-      "body": "Personnel Board"
     }
   ],
   "week": "2026-10-26",
-  "fingerprint": "1bd336160951e39c",
+  "fingerprint": "5a682d4a3c925478",
   "video_ids": [
     "a-1YCw92kfQ",
     "cBDLNnsM8Wc",
+    "lwCv1YBn0Hg",
     "oLG_EqZepT0",
     "vMTungilx60",
     "yh5A_tnRV60"
   ],
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-02T20:55:54Z"
+  "generated_at": "2026-11-24T21:34:13Z"
 }

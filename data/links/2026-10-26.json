@@ -1,6 +1,6 @@
 {
   "week": "2026-10-26",
-  "fingerprint": "1b841b96e410c936",
+  "fingerprint": "4b8e5f4481e5fdc5",
   "topics": {
     "a-1YCw92kfQ#0": {
       "issue": null,
@@ -35,12 +35,44 @@
       "category": "Governance & committees"
     },
     "cBDLNnsM8Wc#3": {
-      "issue": "municipal-phone-system-upgrade",
+      "issue": "town-website-redesign",
       "category": "Staffing & operations"
     },
     "cBDLNnsM8Wc#4": {
       "issue": "classroom-interactive-touch-displays",
       "category": "Schools"
+    },
+    "lwCv1YBn0Hg#0": {
+      "issue": null,
+      "category": "Governance & committees"
+    },
+    "lwCv1YBn0Hg#1": {
+      "issue": null,
+      "category": "Parks, trails & recreation"
+    },
+    "lwCv1YBn0Hg#2": {
+      "issue": "town-forest-footbridge",
+      "category": "Parks, trails & recreation"
+    },
+    "lwCv1YBn0Hg#3": {
+      "issue": "stonebrook-village-septic",
+      "category": "Environment & conservation"
+    },
+    "lwCv1YBn0Hg#4": {
+      "issue": "21-coslin-drive-costco",
+      "category": "Zoning & development"
+    },
+    "lwCv1YBn0Hg#5": {
+      "issue": "fay-school-athletic-fields",
+      "category": "Zoning & development"
+    },
+    "lwCv1YBn0Hg#6": {
+      "issue": "0-valley-road-trail",
+      "category": "Parks, trails & recreation"
+    },
+    "lwCv1YBn0Hg#7": {
+      "issue": "120-turnpike-road-open-space",
+      "category": "Parks, trails & recreation"
     },
     "oLG_EqZepT0#0": {
       "issue": null,
@@ -56,15 +88,15 @@
     },
     "oLG_EqZepT0#3": {
       "issue": "fy27-regional-school-operating-budget",
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "oLG_EqZepT0#4": {
       "issue": "fy27-regional-school-operating-budget",
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "oLG_EqZepT0#5": {
       "issue": "fy27-regional-school-operating-budget",
-      "category": "Budget & taxes"
+      "category": "Schools"
     },
     "oLG_EqZepT0#6": {
       "issue": null,
@@ -87,8 +119,8 @@
       "category": "Zoning & development"
     },
     "vMTungilx60#4": {
-      "issue": null,
-      "category": "Budget & taxes"
+      "issue": "cpa-affordable-housing-trust-transfer",
+      "category": "Housing"
     },
     "vMTungilx60#5": {
       "issue": "cpa-affordable-housing-trust-transfer",
@@ -111,7 +143,7 @@
       "category": "Staffing & operations"
     },
     "yh5A_tnRV60#2": {
-      "issue": null,
+      "issue": "youth-services-flagg-school-relocation",
       "category": "Staffing & operations"
     },
     "yh5A_tnRV60#3": {
@@ -120,6 +152,30 @@
     }
   },
   "votes": {
+    "lwCv1YBn0Hg#v0": {
+      "issue": null
+    },
+    "lwCv1YBn0Hg#v1": {
+      "issue": "town-forest-footbridge"
+    },
+    "lwCv1YBn0Hg#v2": {
+      "issue": "stonebrook-village-septic"
+    },
+    "lwCv1YBn0Hg#v3": {
+      "issue": "21-coslin-drive-costco"
+    },
+    "lwCv1YBn0Hg#v4": {
+      "issue": "fay-school-athletic-fields"
+    },
+    "lwCv1YBn0Hg#v5": {
+      "issue": "250-turnpike-road"
+    },
+    "lwCv1YBn0Hg#v6": {
+      "issue": "12-wood-street-special-permit"
+    },
+    "lwCv1YBn0Hg#v7": {
+      "issue": "0-valley-road-trail"
+    },
     "oLG_EqZepT0#v0": {
       "issue": null
     },
@@ -182,6 +238,18 @@
       "date": "2026-12-15",
       "issue": null
     },
+    "lwCv1YBn0Hg#u0": {
+      "date": "2026-11-19",
+      "issue": null
+    },
+    "lwCv1YBn0Hg#u1": {
+      "date": "2026-11-19",
+      "issue": null
+    },
+    "lwCv1YBn0Hg#u2": {
+      "date": "2026-12-10",
+      "issue": null
+    },
     "oLG_EqZepT0#u0": {
       "date": "2026-10-30",
       "issue": "fy27-regional-school-operating-budget"
@@ -208,5 +276,5 @@
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-02T20:58:10Z"
+  "generated_at": "2026-11-24T21:35:03Z"
 }
