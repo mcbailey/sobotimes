@@ -1216,22 +1216,27 @@
       "category": "Staffing & operations",
       "first_seen": "2026-05-25",
       "last_seen": "2026-10-30",
-      "status": "The draft classification and compensation study is under review after the Personnel Board voted to adopt a 12-grade salary schedule aligned to the 60th percentile of regional peer communities. Multiple department heads and staff members have pushed back against proposed job gradings and titles, particularly objecting to grouping diverse responsibilities under a broad Business Administrator classification. A three-member review panel will assess employee appeals submitted by late November before final recommendations are prepared for an Annual Town Meeting warrant article targeting implementation in July 2027.",
+      "status": "The draft non-union classification and compensation study is currently in the reconsideration review phase following the November 24, 2026 employee appeal deadline. A three-member review panel is evaluating staff challenges to proposed job titles, grades, and responsibilities. The Personnel Board will review the panel's recommendations in open session, working toward a warrant article for the Annual Town Meeting to implement the new 12-grade structure on July 1, 2027.",
       "status_as_of": "2026-10-30",
       "positions": [
         {
           "body": "Personnel Board",
           "stance": "support",
-          "detail": "Voted unanimously on October 30, 2026 to adopt the 60th percentile benchmark and set an employee appeals process for the proposed 12-grade plan."
+          "detail": "Voted unanimously on October 30, 2026 to adopt the 60th percentile benchmark and establish the employee appeals panel."
+        },
+        {
+          "body": "Select Board",
+          "stance": "support",
+          "detail": "Voted 5-0 on March 10, 2026 to support the Town Meeting article authorizing the study."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Department heads and staff expressed dissatisfaction with proposed job grades, questioned discrepancies across departments, and urged the town to protect longevity and credentials."
+          "detail": "Town staff and department heads voiced concerns over specific job gradings, the grouping of disparate duties under the Business Administrator title, and preserving step longevity."
         }
       ],
-      "next": "Employee reconsideration appeal deadline on November 24, 2026.",
-      "status_fingerprint": "fa324f76b5c44c35",
+      "next": "Personnel Board virtual meeting to review reconsideration volume on November 30, 2026.",
+      "status_fingerprint": "59c21a5205b38e16",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -1912,18 +1917,18 @@
       "category": "Schools",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-17",
-      "status": "The preliminary K-8 school operating budget for FY28 is currently under review, with district administrators evaluating alternatives between a 5.36 percent needs-based increase and town budget targets. Reaching a 3.0 percent increase requires cutting roughly $611,000, while a level-funded budget would require eliminating approximately 15 full-time staff positions. The School Committee is weighing these reduction scenarios against concerns over impacts to class sizes, academic programs, and student services. The superintendent will present a refined recommended budget in December ahead of an expected committee vote in early 2027.",
+      "status": "The FY28 K-8 public school operating budget is under review as district administrators evaluate cost-reduction scenarios to balance educational priorities against town guidance. An initial needs-based budget of $27.5 million reflects a 5.36 percent increase over FY27, driven primarily by salaries and out-of-district special education tuition. Meeting the town's suggested 3.0 percent target requires roughly $611,000 in cuts, while administrators warned that a level-funded budget would eliminate approximately 15 full-time staff positions. The superintendent is scheduled to present a refined recommended budget to the School Committee on December 9, 2026.",
       "status_as_of": "2026-11-17",
       "positions": [
         {
           "body": "Southborough School Committee",
           "stance": "undecided",
-          "detail": "Reviewing options to reconcile the 5.36 percent preliminary budget with town guidance while seeking to protect core educational programs and avoid staff reductions."
+          "detail": "Reviewing preliminary scenarios—including a 3.0 percent increase target and a 5.36 percent needs-based budget—while prioritizing student-facing programs ahead of a vote expected in February 2027."
         }
       ],
-      "next": "Superintendent presentation of the recommended FY28 budget to the School Committee on December 9, 2026.",
+      "next": "Superintendent's presentation of the recommended FY28 budget to the School Committee on December 9, 2026.",
       "significance": 5,
-      "status_fingerprint": "367b7455d2ee3df7",
+      "status_fingerprint": "0330f34e7ed302d5",
       "status_model": "gemini-3.8-flash"
     },
     "glow-sobo-holiday-lighting": {
@@ -2809,42 +2814,42 @@
       "category": "Parks, trails & recreation",
       "first_seen": "2026-05-18",
       "last_seen": "2026-11-19",
-      "status": "Town Meeting approved $217,318 in supplemental Community Preservation Act funds for the $428,550 pedestrian footbridge, overcoming opposition from both the Select Board and Advisory Committee. The Trails Committee is now seeking up to $100,000 from a state MassTrails grant to reduce town costs and reimburse the CPA fund. If the grant is awarded, contracting will take place by October 2027 with construction slated for early 2028; without it, bidding could begin in summer 2027.",
+      "status": "Special Town Meeting approved $217,318 in additional Community Preservation Act funding to build a 65-foot pedestrian bridge for Phase 2 of the Peninsula Trail, bringing total authorized funding to $428,550 despite opposition from the Select Board and Advisory Committee. The Trails Committee is now preparing a MassTrails grant application of up to $100,000 to offset town costs while coordinating signage, safe road crossings, and parking. If the grant is awarded, construction is expected in early 2028; without it, bidding could begin in summer 2027 for construction in late 2027.",
       "status_as_of": "2026-11-12",
       "positions": [
         {
           "body": "Trails Committee",
           "stance": "support",
-          "detail": "Promoted the footbridge to close a dangerous walking gap on Route 30 and is applying for grant funding to offset project expenses."
+          "detail": "Sponsored the project, scaled back the scope to focus solely on the bridge to control costs, and is preparing grant applications and interpretive signage."
         },
         {
           "body": "Community Preservation Committee",
           "stance": "support",
-          "detail": "Voted 3-2 on Oct 8 to keep the full supplemental funding article on the Town Meeting warrant as printed."
+          "detail": "Voted 3-2 on Oct 8 to advance the full $217,318 funding request to Town Meeting as printed."
         },
         {
           "body": "Recreation Commission",
           "stance": "support",
-          "detail": "Voted 4-0 on Nov 12 to provide a letter of support for the town's MassTrails grant application."
+          "detail": "Voted 4-0 on Nov 12 to provide a formal letter of support for the committee's MassTrails grant application."
         },
         {
           "body": "Conservation Commission",
           "stance": "support",
-          "detail": "Voted 5-0 on Jun 25 to support the revised bridge-only funding application."
+          "detail": "Voted 5-0 on June 25 to provide a letter of support for the revised bridge-only CPA application."
         },
         {
           "body": "Select Board",
           "stance": "oppose",
-          "detail": "Voted 1-4 on Sep 24 against supporting the warrant article, citing the high per-foot cost and competing budget needs."
+          "detail": "Voted 1-4 against recommending the warrant article in September, citing high project costs."
         },
         {
           "body": "Advisory Committee",
           "stance": "oppose",
-          "detail": "Voted 0-7 on Sep 16 to recommend against the appropriation, citing sticker shock over the $428,550 total cost and contingency levels."
+          "detail": "Voted 0-7 on Sep 16 against recommending approval, objecting to the per-foot cost and contingency allowances."
         }
       ],
-      "next": "MassTrails grant application deadline on February 2, 2027",
-      "status_fingerprint": "c56045f2602ced40",
+      "next": "MassTrails grant application deadline on February 2, 2027.",
+      "status_fingerprint": "ede8b9a447e44d5b",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },
@@ -3908,22 +3913,22 @@
       "category": "Governance & committees",
       "first_seen": "2026-10-05",
       "last_seen": "2026-11-13",
-      "status": "The consultant-led governance study is currently underway, with final recommendations scheduled to be presented to the Select Board on December 15, 2026. Recent public listening sessions drew substantial pushback from residents and seniors opposing any administrative consolidation of the Senior Center or Council on Aging with other departments. The consultant plans to hold one additional listening session in early December before delivering final proposals regarding municipal reporting structures and committee organization.",
+      "status": "The municipal governance study is currently in progress, with the consultant gathering public feedback on town operations, committee organization, and administrative reporting lines ahead of final recommendations. Public listening sessions have sparked vocal opposition to any potential restructuring that would merge the Senior Center or Council on Aging with other departments. A final listening session is expected in early December before the consultant presents recommendations to the Select Board on December 15, 2026.",
       "status_as_of": "2026-11-13",
       "positions": [
         {
           "body": "Select Board",
-          "stance": "support",
-          "detail": "Voted 4-1 on August 11 to authorize the $24,650 consultant contract with CSS and is awaiting final recommendations."
+          "stance": "undecided",
+          "detail": "Voted 4-1 in August to commission the $24,650 study and is awaiting the consultant's final recommendations."
         },
         {
           "body": "Public comment",
           "stance": "mixed",
-          "detail": "Attendees strongly opposed consolidating the Senior Center with other town departments, while speakers urged the consultant to provide clear rationales and project timelines for any structural changes."
+          "detail": "Senior Center participants strongly opposed consolidating senior services into a merged department, while other residents pressed for clear rationales and project timelines."
         }
       ],
-      "next": "Second public listening session in early December 2026, followed by final recommendations to the Select Board on December 15, 2026.",
-      "status_fingerprint": "498d80f8b5f156b1",
+      "next": "Second public listening session in early December 2026, followed by the presentation of final recommendations on December 15, 2026.",
+      "status_fingerprint": "4f240cfa49568c3b",
       "status_model": "gemini-3.8-flash",
       "significance": 4
     },

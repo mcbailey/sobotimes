@@ -1,6 +1,6 @@
 {
   "week": "2026-09-28",
-  "fingerprint": "a6e5e21aac1e2178",
+  "fingerprint": "f40075d4d790f3c5",
   "topics": {
     "InzL5O9vgMQ#0": {
       "issue": null,
@@ -44,7 +44,7 @@
     },
     "hCwuB4U1qOk#6": {
       "issue": null,
-      "category": "Zoning & development"
+      "category": "Governance & committees"
     },
     "hCwuB4U1qOk#7": {
       "issue": null,
@@ -59,6 +59,18 @@
       "category": "Schools"
     },
     "tRxVcVniHws#2": {
+      "issue": "town-governance-study",
+      "category": "Governance & committees"
+    },
+    "uOZV_B6h9tg#0": {
+      "issue": "fy28-school-operating-budget",
+      "category": "Schools"
+    },
+    "uOZV_B6h9tg#1": {
+      "issue": "fy28-school-operating-budget",
+      "category": "Schools"
+    },
+    "uOZV_B6h9tg#2": {
       "issue": "town-governance-study",
       "category": "Governance & committees"
     }
@@ -91,7 +103,7 @@
     },
     "InzL5O9vgMQ#u2": {
       "date": "2026-10-12",
-      "issue": "peninsula-trail-phase-2"
+      "issue": null
     },
     "InzL5O9vgMQ#u3": {
       "date": "2026-10-17",
@@ -140,8 +152,32 @@
     "tRxVcVniHws#u5": {
       "date": "2027-03-20",
       "issue": null
+    },
+    "uOZV_B6h9tg#u0": {
+      "date": "2026-10-14",
+      "issue": "fy28-school-operating-budget"
+    },
+    "uOZV_B6h9tg#u1": {
+      "date": "2026-10-20",
+      "issue": "fy28-school-operating-budget"
+    },
+    "uOZV_B6h9tg#u2": {
+      "date": "2026-11-09",
+      "issue": "fy28-school-operating-budget"
+    },
+    "uOZV_B6h9tg#u3": {
+      "date": "2027-01-13",
+      "issue": "fy28-school-operating-budget"
+    },
+    "uOZV_B6h9tg#u4": {
+      "date": "2027-02-10",
+      "issue": "fy28-school-operating-budget"
+    },
+    "uOZV_B6h9tg#u5": {
+      "date": "2027-03-20",
+      "issue": null
     }
   },
   "model": "gemini-3.8-flash",
-  "generated_at": "2026-11-21T18:23:01Z"
+  "generated_at": "2026-11-25T20:44:21Z"
 }

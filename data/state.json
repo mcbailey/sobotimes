@@ -4444,6 +4444,24 @@
       "processed_at": "2026-11-24T21:33:17Z",
       "prompt_version": "2026-10-16",
       "last_error": null
+    },
+    "uOZV_B6h9tg": {
+      "id": "uOZV_B6h9tg",
+      "title": "Southborough K-8 School Committee October 2, 2026",
+      "description": "",
+      "published_at": "2026-11-24T21:38:54Z",
+      "duration_s": 3208,
+      "live": "none",
+      "status": "done",
+      "reason": "no include patterns configured",
+      "channel": "UCs4MKkThBjpiU4LnmlP37Bg",
+      "attempts": 0,
+      "discovered_at": "2026-11-25T20:40:31Z",
+      "meeting_date": "2026-10-02",
+      "week": "2026-09-28",
+      "processed_at": "2026-11-25T20:41:27Z",
+      "prompt_version": "2026-10-16",
+      "last_error": null
     }
   },
   "usage": {
@@ -4790,10 +4808,18 @@
       "output_tokens": 14035,
       "thought_tokens": 20734,
       "tool_use_tokens": 0
+    },
+    "2026-11-25": {
+      "video_minutes": 53,
+      "calls": 9,
+      "input_tokens": 283314,
+      "output_tokens": 9882,
+      "thought_tokens": 27288,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-24T21:31:50Z",
+    "at": "2026-11-25T20:40:29Z",
     "discovered": 30,
     "summarized": 1,
     "refreshed": 0,
