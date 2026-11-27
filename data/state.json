@@ -4824,11 +4824,19 @@
       "output_tokens": 0,
       "thought_tokens": 0,
       "tool_use_tokens": 0
+    },
+    "2026-11-27": {
+      "video_minutes": 0,
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "thought_tokens": 0,
+      "tool_use_tokens": 0
     }
   },
   "last_run": {
-    "at": "2026-11-26T20:33:42Z",
-    "discovered": 29,
+    "at": "2026-11-27T20:19:54Z",
+    "discovered": 26,
     "summarized": 0,
     "refreshed": 0,
     "errors": 0
